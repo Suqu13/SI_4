@@ -1,0 +1,46 @@
+Gorączka krwotoczna z zespołem nerkowym (łac. febris haemorrhagica cum nephropathia; ang. hemorrhagic fever with renal syndrome; HFRS) – to zbiorcza nazwa wprowadzona przez WHO w roku 1984 dla ostrej wirusowej choroby przenoszonej przez drobne gryzonie ( wyjątkowo transmisja między ludźmi stwierdzono w Ameryce Południowej), wywołanej przez kilka serotypów hantanwirusów.
+
+Historia Odkrycia
+Ostra, epidemiczna choroba charakteryzująca się gorączką, ostrą i zwykle ustępującą niewydolnością nerek, krwawieniami i w skrajnych przypadkach wstrząsem i śmiercią, była obserwowana wśród żołnierzy (tak Amerykańskich jak i Koreańskich) w czasie Wojny Koreańskiej, ocenia się, że zdiagnozowano chorobę u ok 3000 żołnierzy, wśród których wystąpiła ok 10% śmiertelność. Opisywana epidemia zainicjowała wieloletnie poszukiwania, zakończone w 1970r. wyizolowaniem wirusa, którego autorami byli Karl M. Johnson and Ho-Wang Lee. Nazwano wirusa od miejsca występowania: okolic Rzeki Hantan we Wschodniej Korei, obecnie nazywanego wirusem rzeki Haantan Hantaan River virus, od tego czasu wyizolowano wiele szczepów wirusa, tradycyjnie nazywane od miejsc wyizolowania. Z powodu interakcji między językiem koreańskim i angielskim różnie zapisywano nazwę wirusa, ostatecznie przyjęło się, że całą grupę nazywamy wirusami Hanta, a pierwszy zidentyfikowany szczep wirusem rzeki Hantaan. 
+
+  
+Etiopatogeneza
+
+Choroba występuje w Azji, Europie, Afryce, Ameryce Południowej i Północnej. Jest wywoływana przez grupę wirusów Hanta (poszczególne nazwy pochodzą od miejsc ich odkrycia, np."Hantaan River", Seoul, Puumala, "Dobrava-Belgrad", "Andy" i wiele innych). Patogen jest przenoszony przez gryzonie – wydalany jest z moczem, kałem i śliną. Zakażenie następuje drogą wziewną.
+
+Patogeneza nie jest do końca jasna. Sugerowany jest bezpośredni, uszkadzający wpływ wirusów na nerki oraz zmiany w przebiegu zespołu rozsianego wykrzepiania wewnątrznaczyniowego.
+
+Okres wylęgania wynosi około 2 tygodni. Obraz kliniczny wydaje się zależeć głównie od serotypu wirusa, najgorzej przebiegają zakażenia wirusem Hantaan (15-20% śmiertelności - występuje w Azji, Dobrava 12-15%- występuje głównie na Bałkanach), z drugiej strony  serotp Puumala charakteryzuje się niską śmiertelnością (wyraźnie mniej niż 1%), w Polsce identyfikowano wirusy stereotypów "Puumala" - pierwotnie izolowany w Finlandii, później w Estonni,  i Dobrava-Belgrad - pierwotnie identyfikowany na terenie Słowenii i Serbii. 
+
+
+Objawy
+W większości przypadków przebieg choroby układa się w dość charakterystyczny zespół.
+
+Okres objawów grypopodobych, na początku występuje gorączka, zwykle o nagłym początku, osiągającą wartości powyżej 38.5 c (zwykle znacznie powyżej), znaczne osłabienie, zaczerwienienie twarzy, nudności wymioty, nieco później bóle pleców, brzucha, nudności wymioty, brak apetyty, generalnie silne poczuci choroby.  Trwa to zwykle 3-6 dni, a stan chorego jest dość dobry, a zachorowanie jest traktowane jako grypa/ ciężkie przeziębienie. Zwykle pod koniec tej fazy pojawia się typowa dla tej infekcji trombocytopenia (nieraz głęboka), oraz manifestacja uszkodzenia nerek pod postacią białkomoczu, rzadziej hematurii, w rozmazie krwi obwodowej wykrywa się nieprawidłowe formy limfocytów (do różnicowania z ostrą białaczką), zwykle występuje leukopenia.
+ok 6 dnia, wraz ze spadkiem gorączki, często gwałtownym, następuje krytyczna faza choroby, stan chorego dotąd stabilny znacznie się pogarsza, występują spadki ciśnienia tętniczego krwi, do wstrząsu włącznie, może wystąpić wtórna do małopłytkowości skaza krwotoczna, ale też rozwinąć zespół DIC z wtórnymi zaburzeniami krzepnięcia i niewydolnością wielonarządową. W badaniach biochemicznych utrzymuje się: małopłytkowość, , białkomocz, biochemiczne cechy uszkodzenia wątroby, narastają parametry uszkodzenia nerek, może wystąpić oliguria z ostrą niewydolnością nerek włącznie i anurią. 
+Po ok 2 dniach stan chorego się stabilizuje, jeśli nie doszło do poważnych uszkodzeń narządowych ustępuje białkomocz, oliguria przechodzi w poliurię wycofują się biochemiczne parametry uszkodzenia nerek i wątroby, wycofuje się trombocytopenia, leukopenia przechodzi w leukocytozę. Są to oznaki zdrowienia, chory przechodzi w fazę rekonwalescencji. W większości choroba przechodzi bez trwałych następstw, choć zaburzenia odporności mogą utrzymywać się jeszcze miesiącami. 
+Diagnostyka
+Izolacja wirusa jest możliwa tylko w pierwszych 4 dniach choroby, zwykle w tym czasie traktowanej jako grypa/ przeziębienie, chorzy trafiają do szpitala zwykle z powodu braku poprawy po wielu dniach choroby, lub też pojawiania się skazy krwotocznej, objawów narządowych, lub nieprawidłowości laboratoryjnych wykonywanych z powodu przedłużającego się "przeziębiane". Ze względu na występowanie przeciwciał w klasie IgG u sporego procenta pracowników leśnych obszarów endemicznych, oraz samoograniczający się przebieg choroby prawdopodobnym jest, że sporo przypadków ma przebieg subkliniczny, lub dochodzi do wyzdrowienia w domu zachorowania traktowanego jak przeziębienie/grypa. 
+W przypadku zachorowań endemicznych rozpoznanie stawia się na podstawie charakterystycznego obrazu klinicznego. W przypadku wątpliwości badaniem potwierdzającym zakażenie jest dodatni wynik testu ELISA w kierunku swoistych przeciwciał IgM.
+
+Leczenie
+Nie ma leczenia swoistego, stosuje się leczenie objawowe i podtrzymuje łącznie, krytyczne jest utrzymywanie odpowiedniego stanu nawodnienia chorego w kontekście ostrej choroby nerek, powszechnie podaje się antybiotyki w prewencji infekcji bakteryjnych wobec obserwowanych u tych chorych zaburzeń odporności. Są doniesienia o korzystnym wpływie leczenia Rybawiryną
+
+= Gorączka krwotoczna z zespołem nerkowym w Polsce =
+Pierwsze zachorowanie na omawiany zespół w Polsce potwierdzono na Podkarpaciu w 2004r., choć obserwowany zespól objawów obserwowany był już wielokrotnie wcześniej, ze względu na łagodny obraz kliniczny i samoograniczający się przebieg, oraz brak dostępnej diagnostyki wirusologicznej nie były one identyfikowane jako infekcje Hantawirusowe. 
+
+Od tego czasu zidentyfikowane zachorowania ograniczają się od obszaru Polski Południowo-Wschodniej, w szczególności Bieszczadów, Gór Sanocko-Turzanskiech i wschodniej części Beskidu Niskiego i, w latach 2007-2009 opisano małą epidemię w tamtym rejonie, nie znalazłem późniejszych danych, jednak infekcje występują w opisanym obszarze dość często. Ciekawostkę stanowi fakt, że większość zachorowań rejestruje się w tzw. latach ponasiennych, czyli w sezonie po roku nasiennym buka, kiedy to wyraźnie wzrasta populacja drobnych leśnych gryzoni i które prawdopodobnie w miarę kurczących się zasobów pokarmowych zaczynają przenikać do siedzib ludzkich. Większość zakażonych osób albo pracuje w lesie, albo mieszka/ przebywa regularnie w bezpośredniej bliskości lasu. 
+
+Przebieg przypadków identyfikowanych w Polsce jest łagodny, lub średnio ciężki, bez powikłań narządowych lub też ograniczającymi się do ostrego śródmiąższowego zapalenia nerek z białkomoczem (często o nasileniu nerczycowym), pogorszeniem czynności nerek (rzadko wymagającym hemodializ), zarejestrowano pojedyncze przypadki schyłkowej niewydolności nerek (prawdopodobnie u osób z przewlekłą chorobą nerek na innym podłożu). Z danych do 2009r. nie zarejestrowano przypadku śmiertelnego, późniejszych nie znalazłem  
+Bibliografia
+Józef Piotr Knap, Anna Nowakowska, Paul Heyman i inni: Środowiskowe i epidemiologiczne uwarunkowania infekcji hantawirusowej (Gorączki krwotocznej z zespołem nerkowym) w województwie podkarpackim - pierwszej w Polsce epidemii 2007-2008r, oraz zachorowań endemicznych.   http://www.pmurz.nazwa.pl/PDF/2009/2/01_z2__2009.pdf
+JÓZEF PIOTR KNAP, ANNA NOWAKOWSKA, JACEK DUTKIEWICZ, VIOLETTA ZAJĄC, ANGELINA WÓJCIK-FATLA, JOLANTA CHMIELEWSKA-BADORA, ZDZISŁAW STRUPIENIUK "OBECNOŚĆ PRZECIWCIAŁ ANTY-HANTAWIRUSOWYCH U LEŚNIKÓW ROZTOCZAŃSKIEGO PARKU NARODOWEGO I NADLEŚNICTWA PUŁAWY" (MAKROREGION LUBELSKI) DONIESIENIE WSTĘPNE : http://www.monz.pl/fulltxt.php?ICID=977370
+
+Mikrobiyol Bul. 2014 Jan;48(1):179-87.   "Prognostic factors in hantavirus infections".  http://www.ncbi.nlm.nih.gov/pubmed/24506730
+Zobacz też
+Hantawirusowy zespół płucny
+
+
+
+
+

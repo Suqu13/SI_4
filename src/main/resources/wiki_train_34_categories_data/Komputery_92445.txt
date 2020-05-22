@@ -1,0 +1,11 @@
+IBM PC/AT (model IBM 5170) – komputer osobisty 3. generacji, klasy PC (ang. personal computer - komputer osobisty), stworzony przez firmę IBM. Oparty został na 16-bitowym mikroprocesorze Intel 80286, pracującym z zegarami 6 MHz, a później 8 MHz i korzystający z 16-bitowej szyny ISA. 
+
+AT jest skrótem od Advanced Technology (z ang. zaawansowana technologia). Komputery te zostały wprowadzone na rynek amerykański w sierpniu 1984 roku. W Polsce komputery tej klasy były sprzedawane do połowy lat 90.
+
+Klony kompatybilne z tym modelem często zawierały inne procesory i pracowały przy innych częstotliwościach zegara.
+Nosiły nazwy takie jak PC/AT 386 lub PC/AT 286 12 MHz.
+
+Zobacz też == 
+IBM PC/XT
+
+

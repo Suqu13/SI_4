@@ -1,0 +1,34 @@
+Spektroskopia fotoelektronów w zakresie nadfioletu (UPS, ang. ultraviolet photoelectron spectroscopy) − pomiar energii kinetycznej fotoelektronów, emitowanych przez cząsteczki w wyniku pochłonięcia przez nie fotonów z zakresu ultrafioletu. Wybijane są w ten sposób elektrony walencyjne. W technice UPS wyznaczane więc są poziomy energetyczne dla obszaru walencyjnego.
+
+Podstawy
+Zgodnie z zasadą zjawiska fotoelektrycznego, energia kinetyczna wybitego fotoelektronu wynosi
+
+, gdzie:
+oznacza stałą Plancka, 
+jest częstością promieniowania, za pomocą którego wybijamy elektrony (hν jest jego energią),
+jest energią jonizacji. 
+Zgodnie z twierdzeniem Koopmansa, pierwszy potencjał jonizacji jest równy (z dokładnością do znaku) energii najwyższego zajętego orbitalu molekularnego (HOMO) - na którym znajdują się elektrony walencyjne tworzące wiązanie. 
+
+Historia
+Do lat 60-tych XX wieku, wszystkie pomiary energii kinetycznej fotoelektronów dotyczyły metali i innych ciał stałych. Około 1956 roku Kai Siegbahn rozwinął spektroskopię fotoelektronów w zakresie rentgenowskim (XPS, x-ray photoelectron spectroscopy) do analiz składu powierzchni. Metoda ta polega na próbkowaniu poziomów energetycznych elektronów wewnętrznych (niewalencyjnych) pierwiastków za pomocą promieniowania X (rentgenowskiego). W tym czasie rozdzielczość metody wynosiła ok. 1 eV.
+
+Spektroskopia fotoelektronów w ultrafiolecie została stworzona przez D. W. Turnera (chemik fizyczny, Imperial College London) do badania niezwiązanych cząsteczek w fazie gazowej. Swoje wyniki zaprezentował on w serii publikacji z lat 1962-1967. Jako źródło fotonów użył lampy helowej emitującej promieniowanie z zakresu dalekiego nadfioletu o λ=58.4&nbsp;nm (odpowiadającemu energii  21.2 eV). Rozdzielczość energetyczna układu Turnera wynosiła 0.02 eV. 
+
+W porównaniu z XPS, technika UPS jest ograniczona tylko do elektronów walencyjnych, jednak pozwala na dokładniejszy pomiar. Po roku 1967 spektrometry do pomiaru widm fotoelektronów w ultrafiolecie stały się komercyjnie dostępne.
+
+Zastosowania
+Dzięki UPS otrzymuje się energie orbitali molekularnych doświadczalnie, w przeciwieństwie do kwantowochemicznych metod obliczeniowych, które zostały rozwinięte również w latach 60-tych XX wieku. Procedura pomiarowa w spektroskopii fotoelektronów w ultrafiolecie jest podobna do pomiarów XPS. Otrzymuje się widmo, zawierające intensywność w funkcji energii wiązania. Każdy z pików na widmie odpowiada energii walencyjnego orbitalu molekularnego. Duża rozdzielczość pomiarów pozwala na obserwację struktury oscylacyjnej utworzonego jonu molekularnego. Ułatwia to przypisywanie pików do różnego typu orbitali.  
+
+Metoda Turnera została w późniejszym okresie rozszerzona do badań powierzchni ciał stałych. Jest ona szczególnie czuła na obszar powierzchniowy (do głębokości 10&nbsp;nm) z powodu niewielkiego zasięgu emitowanych fotoelektronów. Obiektem badań są często zaadsorbowane związki i ich wiązanie się z powierzchnią oraz orientacja. 
+
+Perspektywy
+UPS w ostatnich latach zdobywa znów popularność z powodu coraz lepszej dostępności synchrotronowych źródeł światła, które dostarczają szerokiego spektrum monochromatycznego promieniowania.
+
+Zobacz też
+spektroskopia elektronowa
+spektroskopia fotoemisyjna
+synchrotron
+
+
+
+

@@ -1,0 +1,44 @@
+
+'''7,5 cm KwK 42''' (Kampfwagenkanone 42''' – armata czołgowa wzór 42) - niemiecka armata przeciwpancerna kalibru 75 mm używana podczas II wojny światowej. 7,5 cm KwK 42 powstała w zakładach Rheinmetall-Borsig w Unterlüß, używana była w czołgach typu PzKpfw V Panther i niszczycielach czołgów Jagdpanzer IV, wersje A i V. Odmiana używana w niszczycielach czołgów znana była jako PaK 42''' (Panzerabwehrkanone 42''' – armata przeciwpancerna wzór 42).
+
+W chwili wejścia do służby w 1942 roku była to najlepsza armata przeciwpancerna w Europie, a nawet na świecie, charakteryzująca się bardzo dużą prędkością wylotową pocisku i związaną z tym doskonałą celnością i przebijalnością pancerza. Osiągi armaty strzelającej amunicją typu APCBC-HE (przeciwpancerną z czepcem i czepcem balistycznym z dodatkowym ładunkiem wybuchowym) były lepsze nawet od słynnej "osiemdziesiątkiósemki" (KwK 36), w którą uzbrojony był czołg PzKpfw VI Tiger. Osiągi przy strzelaniu amunicją podkalibrową typu APCR nie były już tak dobre, zwłaszcza przy strzelaniu na większą odległość, ale związane to było głównie z charakterystycznym dla tej amunicji szybkim spadkiem prędkości pocisku.
+
+Armata odpalana była elektrycznie – ładunek prochowy zapalany był przy użyciu prądu elektrycznego, a nie iglicy. Zamek był półautomatyczny, po oddaniu strzału łuska była automatycznie wyrzucana z komory nabojowej, a zamek pozostawał otwarty. Po załadowaniu następnego naboju zamek zamykał się automatycznie i armata gotowa była do oddania następnego strzału.
+
+Dane taktyczno-techniczne
+kaliber: 75 mm
+długość lufy w kalibrach: 70
+długość lufy w mm: 5250
+masa z zamkiem i hamulcem wylotowym: 1000 kg
+odrzut: 400 mm (normalnie), 430 mm (maksymalny)
+zasięg: do 10 km
+
+Amunicja
+Pzgr. 39/42
+APCBC-HE, przeciwpancerna z czepcem i czepcem balistycznym z dodatkowym ładunkiem wybuchowym - Panzersprenggeschoß 39
+masa pocisku: 6,8 kg
+masa naboju: 14,3 kg
+długość naboju: 893,2 mm
+prędkość wylotowa: 925 m/s
+
+
+Pzgr. 40/42
+APCR – przeciwpancerny, rdzeniowy - Panzergeschoß mit Stahlkern 40
+masa pocisku: 4,75 kg
+masa naboju: 11,55 kg
+długość naboju: 875,2 mm
+prędkość wylotowa: 1120 m/s
+
+
+Spgr. 42
+Kruszący - Sprenggranate 42
+masa pocisku: 5,74 kg
+masa naboju: 11,14 kg
+długość naboju: 929,2 mm
+prędkość wylotowa: 700 m/s
+
+
+
+
+
+

@@ -1,0 +1,31 @@
+Skaningowy transmisyjny mikroskop elektronowy STEM (ang. Scanning transmission electron microscopy) - zasada działania mikroskopu jest analogiczna do zasad panujących przy obserwacji próbki pod SEM, tyle, że detektor znajduje się pod transparentną próbką (cienka folia).
+
+Podstawy fizyczne
+
+Z działa elektronowego emitowane są elektrony, które są formowane przez układ soczewek kondensora i obiektywu padają na specjalnie przygotowaną próbkę; skanującej jej powierzchnię. Część elektronów przechodzi przez cienką folię i trafia do jednego z dwóch typów detektorów. Rozdzielczość zależy głównie od średnicy padającej wiązki elektronów (standardowo rzędu nm).
+
+Obserwacja STEM
+
+Skaningowy transmisyjny mikroskop elektronowy umożliwia wykorzystanie kontrastu dyfrakcyjnego. Jest to tzw. obrazowanie w jasnym polu i jest przeprowadzane przy pomocy osiowo położonego detektora, który zbiera elektrony rozproszone pod małymi kątami.
+Obrazowanie w ciemnym polu wykorzystuje rozpraszanie niekoherentne i odbywa się przy pomocy detektora pierścieniowego, który zbiera elektrony rozproszone pod dużymi kątami. W tym przypadku intensywność obrazu jest praktycznie proporcjonalna do kwadratu liczby atomowej Z. Wykorzystuje się to w przypadku obrazowania w bardzo dużej rozdzielczości faz różniących się składem chemicznym. Efekt ten jest nazywany kontrastem Z.
+
+Uzyskanie wysokiej próżni dla poprawnej obserwacji przy pomocy STEM jest konieczne.
+
+Aparatura
+
+Standardowa aparatura wykorzystywana w metodach STEM musi zawierać:
+
+źródło wiązki pierwotnej (działo elektronowe)
+detektor zależy od wybranej metody
+układ próżniowy
+układ zasilający i chłodzący
+
+Bibliografia
+R.W. Kelsall, I.W. Hamley, M. Geoghegan: Nanotechnologie. Warszawa: Wydawnictwo Naukowe PWN, 2008. ISBN 978-83-01-15537-7.
+Zobacz też
+
+Transmisyjny mikroskop elektronowy
+Skaningowy mikroskop elektronowy
+Spektroskopia strat energii elektronów EELS
+
+

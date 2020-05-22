@@ -1,0 +1,33 @@
+Pz. 61''' – szwajcarski czołg podstawowy II generacji skonstruowany na przełomie lat 50. i 60. XX wieku w Konstruktionswerkstätten w Thun.
+
+Historia
+Po II wojnie światowej armia szwajcarska rozpoczęła zakupy czołgów w Wielkiej Brytanii (ok. 300 czołgów Centurion w wersjach Mk3 (Pz. 55) i Mk7 (Pz .57)) i Francji (ok. 200 czołgów AMX-13, które otrzymały oznaczenie LPz. 51). Jednocześnie z zakupami trwały prace nad własnym czołgiem który miał uniezależnić Szwajcarię od zagranicznych dostawców. W 1958 roku był gotowy prototyp czołgu KW30. Po zmianie uzbrojenia ze szwajcarskiej armaty 90 mm, na brytyjska armatę 84 mm z czołgu Centurion wyprodukowano serię 10 czołgów oznaczonych jako Pz. 58. Po testach postanowiono przerwać produkcję czołgu Pz. 58 do czasu dopracowania konstrukcji.
+
+W 1961 roku uznano że konstrukcja projektowanego czołgu spełnia wymagania i zamówiono 150 wozów oznaczonych jako Panzer 61 (Pz. 61). Produkcję seryjną rozpoczęto w 1965 roku. Jednocześnie z przygotowaniami do rozpoczęcia produkcji seryjnej trwały prace nad dalszą modernizacją wozu. Efektem tych prac był czołg Pz. 68.
+
+Czołg Pz. 61 jest jednym z najwęższych produkowanych po II wojnie światowej czołgów. Zastosowane w jego podwoziu zawieszenie w którym rolę elementów sprężystych pełnią sprężyny talerzowe jest rozwiązaniem nietypowym, niespotykanym poza czołgami szwajcarskimi. Pz. 61 był jednym z pierwszych czołgów, w którym dużą uwagę zwrócono na szybkość wymiany układu napędowego w warunkach polowych,. Dzięki połączeniu wszystkich jego elementów w demontowany łącznie układ (power-pack) może on być wymieniony w czasie jednej godziny co nawet w latach 90. było wartością zadowalającą. Także układ sterowania zapewniający płynną regulację promienia skrętu należał w momencie opracowania do najnowocześniejszych na świecie. Do wad czołgu należał brak systemu stabilizacji armaty i urządzeń do obserwacji w nocy.
+
+Opis
+Panzer 61 jest czołgiem podstawowym II generacji. Załogę czołgu tworzy dowódca, działonowy, ładowniczy i mechanik-kierowca. Kierowca zajmuje miejsce w kadłubie, reszta załogi w wieży.
+
+Kadłub Pz. 61 jest wykonany ze w postaci jednoczęściowego odlewu. Grubość pancerza przedniego jest równa 60 mm, bocznego 40 mm co powoduje że skuteczność opancerzenia wobec pocisków przeciwpancernych jest niewielka pomimo znacznego pochylenia płyt przednich (60°).
+
+W przedniej części kadłuba znajdują się przedziały kierowania, środkowej przedział bojowy z  wieżą, a w tylnej przedział napędowy. W dnie kadłuba znajduje się właz ewakuacyjny.
+
+W przedziale kierowania stanowiska ma mechanik-kierowca. jego stanowisko znajduje się w osi podłużnej pojazdu. Jego właz jest otwierany przez odchylenie do tyłu pojazdu. Z tego powodu może on mieć kłopot z opuszczeniem wozu kiedy armata znajduje się w pozycji 0 (jej lufa znajduje się wtedy nad włazem). Kierowca obserwuje teren za pomocą trzech peryskopów.
+
+Wieża pancerna ma postać jednorodnego odlewu.  Opancerzenie wieży podobnie jak kadłuba jest stosunkowo cienkie. Po jej prawej stronie znajduje się stanowisko działonowego (z przodu) i dowódcy, po lewej ładowniczego. W tylnej części wieży znajdują się wyrzutnie granatów oświetlających LARAN.
+
+Dowódca dysponuje obserwuje teren przy pomocy ośmiu peryskopów umieszczonych w wieżyczce dowódcy. Dodatkowo do jego obowiązków należy pomiar odległości do celu przy pomocy dalmierza optycznego. Właz dowódcy znajduje się na szczycie jego wieżyczki i jest jednoczęściowy.
+
+Działonowy dysponuje celownikiem o powiększeniach 8 i 2,4x. 
+
+Ładowniczy ma własną wieżyczkę obserwacyjną (wyższą od wieżyczki dowódcy) wyposażoną w sześć peryskopów. Właz ładowniczego znajduje się na wierzchu wieżyczki i ma dwie odchylane na boki pokrywy. Na wieżyczce ładowniczego montowany jest przeciwlotniczy karabin maszynowy Mg. 51.
+
+W wieży znajduje się zasadnicze uzbrojenie wozu: 105 mm armata Pz Kan 61 (licencyjna wersja brytyjskiej armaty L7). Lufa armaty wyposażona jest w  przedmuchiwacz usuwający gazy prochowe po wystrzale. Obok armaty umieszczona jest armata automatyczna kalibru 20 mm. Uzbrojenie nie jest stabilizowane, jego naprowadzanie odbywa się przy pomocy francuskiego układu elektrohydraulicznego CH25.
+
+Napęd Pz. 61 stanowi czterosuwowy, wysokoprężny, chłodzony cieczą silnik MTU MB837''. Moc silnika wynosi 465&nbsp;kW przy 2000 obr/min. Dodatkowy silnik o mocy 21,7 kW napędza generator prądotwórczy. Napęd od silnika głównego jest przekazywany do kół napędowych za pośrednictwem układu napędowego SLM którego głównym elementem jest przekładnia hydrostatyczna. Układ napędowy umożliwia jazdę na sześciu biegach do przodu i dwóch do tyłu.
+ 
+Panzer 61 posiada zawieszenie niezależne na sprężynach talerzowych. Maksymalne ugięcie zawieszenia wynosi 200 mm. Wóz posiada 12 kół jezdnych. Napęd z silnika jest przekazywany na znajdujące się w tylnej części pojazdu koła napędowe. Z przodu pojazdu znajdują się koła napinające. Koła jezdne są kołami podwójnymi. Górny bieg gąsienicy odbywa się po trzech rolkach podtrzymujących.
+
+Bibliografia

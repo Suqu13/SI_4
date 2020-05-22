@@ -1,0 +1,48 @@
+Su-11''' (ros. ''' Су-11''') to radziecki odrzutowy myśliwiec przechwytujący z lat 60. XX wieku, skonstruowany w biurze konstrukcyjnym Suchoja. W kodzie NATO oznaczony był jako Fishpot-C. Zbudowano go w liczbie 108 sztuk, wszedł do służby w 1964. Oznaczenie Su-11 nosił także wcześniejszy myśliwiec z 1947, który pozostał na etapie prototypu.
+
+Historia powstania
+T-3 - droga do Su-11
+Konstrukcja Su-11 wywodzi się z myśliwca przechwytującego T-3''' ze skrzydłami w układzie delta i silnikiem Lulki AŁ-7F, którego prototyp zbudowano w marcu 1956 i oblatano 26 maja 1956 (więcej o nim w artykule o Su-9). T-3 był wyposażony w stację radiolokacyjną Ałmaz-3 z charakterystyczną anteną w spiczastej osłonie w górnej części wlotu powietrza z przodu kadłuba samolotu oraz drugą mniejszą anteną poniżej. Samolot jednak nie uzyskał zakładanych osiągów, gdyż wzrosła masa konstrukcji, problemy stwarzał nowy niedopracowany silnik, a nieregulowany wlot powietrza nie był optymalny dla dużych prędkości. Zdecydowano mimo to wdrożyć T-3 do produkcji seryjnej (pod oznaczeniem zakładowym PT-8''') i rozpoczęto produkcję jego małej serii. 
+
+Na skutek wysokich osiągów doświadczalnego samolotu T-43''' - modyfikacji T-3 z mocniejszym silnikiem AŁ-7F-1 i naddźwiękowym regulowanym wlotem powietrza z centralnym stożkiem, oblatanego 10 października 1957, władze zleciły dalsze prace nad zastosowaniem w projekcie T-3 takiego silnika i wlotu powietrza, z mieszczącą się w centralnym stożku stacją radiolokacyjną. Wariant bazowy, wywodzący się wprost od T-43, tworzący wraz z aparaturą naprowadzania kompleks przechwytujący T-3-51 (późniejszy Su-9), został wyposażony w niewielkich rozmiarów stację radiolokacyjną RP-9, mieszczącą się w zastosowanym uprzednio stożku. 
+
+T-47 - prototyp Su-11
+Jednocześnie do prac nad T-43, pod oznaczeniem T-47''' prowadzono prace nad zastosowaniem stacji radiolokacyjnej o większych możliwościach, w odpowiednio powiększonym regulowanym stożku wlotu powietrza. Następstwem tego była konieczność powiększenia średnicy wlotu powietrza i całej nosowej części kadłuba. Pierwszy prototyp T-47 przebudowano z drugiego seryjnego T-3 (PT-8) i oblatano 6 stycznia 1958. Samolot ten nie przenosił pocisków kierowanych, lecz był uzbrojony w działka 30&nbsp;mm, miał ponadto stację radiolokacyjną Ałmaz z dwoma antenami pod wspólnym stożkiem. Jednocześnie zlecono budowę pierwszych 10 samolotów w tym wariancie. Priorytet jednak następnie przyznano uzbrojonemu w 2 pociski kierowane powietrze-powietrze K-7 lub K-6 drugiemu prototypowi PT-8-4, przebudowanemu z pierwszego seryjnego T-3. Oblatany został 21 lutego 1958 (pilot Władimir Iliuszyn). Zachowano w nim także działka. W czerwcu 1958 jednak przerwano prace nad uzbrojeniem T-3 w działka, pociski K-7 i stację Ałmaz jako nieperspektywiczne. 
+
+Su-11
+Zamiast prac nad zastosowaniem radaru Ałmaz i pocisków K-7 postanowiono zaadaptować do płatowca T-47 system uzbrojenia z myśliwca Jak-27P – stację radiolokacyjną Orieł i pociski K-8M. Samolot w takiej konfiguracji, wraz z półautomatycznym systemem naprowadzania z ziemi, miał tworzyć cały kompleks przechwytujący T-3-8M. Ponieważ w sierpniu 1958 prototyp PT-8-4 został zniszczony przy awaryjnym lądowaniu, pierwszym prototypem w nowej konfiguracji został T-47-3 (przebudowany z przedseryjnego T-3 - PT-7). W 1959 i 1960 dołączyły do niego cztery kolejne, przebudowane z pierwszych seryjnych T-47. W toku prób powiększono zbiorniki paliwa i w celu skompensowania pogorszenia własności lotnych przez większą część nosową, zastosowano mocniejszy silnik Liulki AŁ-7F-2. 
+
+Od listopada 1959 do 8 czerwca 1961 prowadzono badania państwowe prototypów. Podczas badań państwowych wykonano aż 475 lotów. 9 lipca 1961 prototyp T-47-8 zaprezentowano na paradzie lotniczej w Tuszynie (wraz z grupą Su-9). Po próbach, kompleks przechwytujący T-3-8M został 5 lutego 1962 przyjęty na uzbrojenie, przy czym samolot otrzymał oficjalne oznaczenie Su-11''', stacja radiolokacyjna Orieł: RP-11, pociski: R-8M, a cały kompleks Su-11-8M. 
+
+Produkcję Su-11 rozpoczęto w zakładzie nr 153 w Nowosybirsku w 1962, w miejsce Su-9 – pierwszy samolot seryjny oblatano w lipcu 1962. Jednakże, 31 października 1962 samolot ten uległ katastrofie przy awaryjnym lądowaniu na skutek awarii silnika, przy czym zginął pilot. Katastrofa ta (jak również wysoka awaryjność pokrewnego Su-9) wywarła decydujący wpływ na dalsze losy samolotu, gdyż zdecydowano zmniejszyć zamówienie i skoncentrować się na rozwoju dwusilnikowych myśliwców przechwytujących, z bezpieczniejszym systemem napędowym. Efektem tego było wdrożenie do produkcji w zakładzie nr 153 konkurencyjnego Jak-28P i powstanie Su-15. Do zakończenia produkcji w 1965 zbudowano jedynie 108 Su-11.
+
+Użycie
+Pierwsze Su-11 trafiły do 393 pułku myśliwskiego pod Astrachaniem w lecie 1964 w miejsce Su-9. Pozostałe weszły do służby w 1965, zastępując Su-9 także w pułkach moskiewskiego okręgu: 790. w Chotiłowie i 191. w Jefremowie. Na skutek zebranych już doświadczeń z produkcją i eksploatacją zbliżonego Su-9, konstrukcja Su-11 została w większym stopniu dopracowana i jego awaryjność była od początku znacznie mniejsza. 
+
+Su-11 miał podobne dobre charakterystyki lotne, jak Su-9, miał też jego wady, jak trudne lądowanie, nieco mniejsza była prędkość maksymalna i pułap. Taktyka wykorzystania samolotów była podobna – w zasadzie służyły do zwalczania bombowców i pocisków skrzydlatych na średnich i dużych wysokościach, z tylnej półsfery, lecz pociski rakietowe R-8M dawały większe możliwości, niż w Su-9, w tym ataku celów lecących wyżej. Bardziej efektywne było też ich naprowadzanie. 
+
+Podobnie jak Su-9, samolot mógł być naprowadzany z ziemi według komend systemu Wozduch-1, za pomocą aparatury pokładowej Łazur (ARŁ-S). 
+
+Z samolotem Su-11 są związane takie ciekawostki, jak omyłkowe zestrzelenie w latach 70. podczas ćwiczeń samolotu Su-9 (pilot zdołał się katapultować). Nie jest znane ewentualne użycie bojowe. Su-11 wycofano z jednostek do lat 80. 
+
+Opis konstrukcji
+Jednomiejscowy średniopłat o konstrukcji całkowicie metalowej, w układzie klasycznym płatowca. Kadłub o konstrukcji półskorupowej i przekroju okrągłym (średnica środkowej części 1550&nbsp;mm, największa - ogonowej do 1634&nbsp;mm). Skrzydła trójkątne (delta) o skosie 60° i wznosie ujemnym 2°, dwudźwigarowe. Usterzenie klasyczne, skośne, stery wysokości płytowe. Z przodu kadłub wlot powietrza do silnika z centralnym regulowanym stożkiem, rozdzielający się pionową przegrodą na dwa kanały wzdłuż burt. Kabina pilota hermetyzowana, w przedniej części kadłuba, zakryta oszkloną osłoną, składającą się ze stałego wiatrochronu z płaską przednią szybą pancerną i otwieranej wypukłej osłony nad pilotem. Kabina wyposażona w fotel wyrzucany KS-3 (minimalna wysokość 30 m, prędkość do 1100&nbsp;km/h). Silnik odrzutowy w środkowej i tylnej części kadłuba. W ogonowej części kadłuba hamulce aerodynamiczne w formie 4 odchylanych klap. Podwozie samolotu trójkołowe, z pojedynczymi kołami, przednie chowane do kadłuba w kierunku do przodu, główne chowane do skrzydeł w kierunku kadłuba. W ogonowej części spadochron hamujący.
+
+Wyposażenie (główne): stacja radiolokacyjna RP-11 Orieł, radiostacja RSIU-5, radiokompas ARK-5, radiolinia Łazur (ARŁ-S), system identyfikacji swój-obcy SRZO-2M. 
+
+Napęd:''' silnik turboodrzutowy ze sprężarką osiową i dopalaczem AŁ-7F-2 o ciągu 6800&nbsp;kg (10 100&nbsp;kg z dopalaniem). Paliwo w zbiornikach w kadłubie i skrzydłach o pojemności łącznie 4195 l (na wczesnych samolotach 3060 l), ponadto samolot przenosił dwa podwieszane zbiorniki pod kadłubem o pojemności po 600 l (inne dane: 720 l). 
+
+Uzbrojenie:''' stałego brak, 2 belki pod skrzydłami do podwieszenia kierowanych pocisków powietrze-powietrze średniego zasięgu R-8M (typowy zestaw: 1 x R-8MR samonaprowadzany półaktywnie radiolokacyjnie i 1 x R-8MT samonaprowadzany termicznie). Modernizowane samoloty od lat 70. mogły przenosić pojemnik z działkiem 23&nbsp;mm GSz-23Ł zamiast zbiorników podwieszanych.
+
+Bibliografia
+Zobacz też
+Porównywalne samoloty:
+Convair F-102 Delta Dagger
+English Electric Lightning
+
+
+
+
+
+
+

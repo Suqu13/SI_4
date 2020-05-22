@@ -1,0 +1,11 @@
+Koszt transakcyjny (ang. transaction cost) – koszty wynikające ze współdziałania wielu podmiotów gospodarczych. Pojęcie wprowadzone przez Ronalda Coase, a rozwinięte przez Olivera Williamsona w teorii kosztów transakcyjnych.
+
+Koszty te można podzielić z grubsza na następujące grupy:
+koszty poszukiwania informacji – potrzebne na sprawdzenie czy dane dobro jest dostępne na rynku, kto oferuje najlepsze warunki, etc. Są to typowe koszty badania rynku i planowania umów.
+koszty zarządzania i zawierania kontraktów – potrzebne, aby doprowadzić do zaistnienia transakcji
+koszty kontroli – ponoszone na dopilnowanie, aby druga strona wywiązała się z warunków kontraktu. Mogą to być wszelkie koszty zarządzania, kontroli, monitorowania procesów i wyników, ubezpieczenia od strat spowodowanych korupcją i oportunizmem.
+Podział ten jest bardzo umowny, w praktyce trudno jest rozdzielić jeden rodzaj kosztu od drugiego. Koszty transakcyjne stanowią podstawę dochodu prawników, instytucji finansowych, policji, przedsiębiorców, kierowników, urzędników – są nimi w zasadzie wszystkie koszty poza ścisłymi nakładami na produkcję i transport. W krajach o mniej rozwiniętej gospodarce lub mniej sformalizowanych koszty te są mniejsze, zawsze stanowią ponad połowę dochodu kraju.
+
+
+
+

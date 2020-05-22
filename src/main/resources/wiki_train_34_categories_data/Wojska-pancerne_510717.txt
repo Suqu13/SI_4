@@ -1,0 +1,82 @@
+Renault R-35''' – francuski lekki czołg piechoty Char légere model 1935R z okresu II wojny światowej. Nazwa Renault R-35 była używana nieoficjalnie, ale bardzo powszechnie.
+
+Historia
+Czołg ten powstał, jako następca pamiętających jeszcze czasy pierwszej wojny światowej czołgów Renault FT-17. W 1933 Komisja Konsultacyjna Uzbrojenia (Commission de Vincennes) przedstawiła wymagania dla nowego czołgu wsparcia piechoty. Firma Renault, jako pierwsza przedstawiła prototyp czołgu spełniającego wymagania. W listopadzie 1934 zaprezentowała czołg prototypowy o oznaczeniu Renault ZM. Pojazd ten bazował na elementach podwozia zaczerpniętych z czołgów AMR, a uzbrojenie składało się z dwóch karabinów maszynowych umieszczonych w wieży. Początkowo zmontowano trzy prototypy, które różniły się wyglądem i uzbrojeniem od późniejszych czołgów produkowanych seryjnie. Po pierwszej serii prób wojskowych czołgi poddano modyfikacji tak, aby odpowiadały zaostrzonym kryteriom, jakim miał odpowiadać nowy czołg wsparcia piechoty armii francuskiej. Zmieniono m.in. wieżę i uzbrojenie, zwiększono opancerzenie. Tak zmodyfikowane czołgi zostały w kwietniu 1935 przyjęte na uzbrojenie.
+
+Konstrukcja, silnik, uzbrojenie
+Czołg odznaczał się nowoczesną konstrukcją. Pancerz czołgu składał się z trzech elementów odlewanych o znacznej na owe czasy grubości dochodzącej do 43 mm. Wieża była również odlewana o maksymalnej grubości 45 mm. Grubość pancerza i jego uformowanie były zaletą R-35. Wadą natomiast było zamontowanie wieży jednoosobowej. Przez co dowódca czołgu był na polu walki obciążony wieloma obowiązkami: wyszukiwaniem celu, ładowaniem, celowaniem, obracaniem wieży, dowodzeniem czołgiem, a czasami w przypadku dowódców plutonów, kompanii również dowodzeniem pododdziałem.
+
+Czołg posiadał silnik gaźnikowy, 4 – cylindrowy Renault 447. Moc silnika wynosiła 61 kW (82 KM), co przy dużej masie pojazdu – masa bojowa 10,6 t - powodowało słabe osiągi. Pojazd charakteryzował się małą prędkością maksymalną 23 km/h, którą mógł osiągnąć na krótkim odcinku oraz dużym zużyciem paliwa. Silnik czołgu miał tendencje do przegrzewania się, a układ jezdny do „odparzania się” gumowych elementów.
+
+Problemem była również stanowiąca główne uzbrojenie czołgu armata Puteaux SA 18 kalibru 37 mm. Armata ta pochodziła jeszcze z czasów pierwszej wojny światowej. Mała prędkość początkowa pocisku dawała słabe wyniki, jeżeli chodzi o przebijalność pancerza. Pociski odłamkowo-burzące natomiast ze względu na małą masę pocisku nie były skuteczne wobec fortyfikacji naziemnych. Armatę SA 18'' w późniejszym czasie zastąpiono nową armatą 37 mm SA 38'' o długości 33 kalibrów. Wymusiło to również zmiany w konstrukcji wieży, zamontowano też nowe przyrządy obserwacyjne. Starą wież APX-R zastąpiono wieżą APX-R1''. Pierwsze wieże zaczęto montować od początku 1940
+Na części czołgów od końca 1939 montowano dodatkowy karabin przeciwlotniczy MAC kalibru 7,5 mm, którego obsługą zajmował się dowódca czołgu.
+
+Renault R-40
+Już w maju 1938 r. w związku napływającymi informacjami z jednostek wyposażonych w R-35 określono potrzebę przekonstruowania układu jezdnego czołgu, aby wyeliminować wady zawieszenia. Nad projektami pracowały dwie firmy – Renault w Billancourt i AMX (Atelier de Construction d’Issyles-Molineaux). Firma Renault opracowała dwa prototypy, a AMX jeden. Po serii prób wybrano prototyp AMX ze względu na większą stabilność zawieszenia i lepsze właściwości terenowe pojazdu. Zaproponowane rozwiązanie zawieszenia opierało się na wcześniejszych konstrukcjach czołgu Renault NC-1'' i Char B. Nie było więc to rozwiązanie nowoczesne. Powodowało m.in. wzrost masy pojazdu oraz większe zużycie paliwa. Mimo to czołg został przyjęty do uzbrojenia 16 lutego 1939 r. pod oznaczeniem Char légere model 1935R modifié 1939''. Produkcję rozpoczęto w zakładach Renault na początku w roku 1940, stąd oznaczenie R-40. Do upadku Francji wyprodukowano 120 czołgów. 
+Wszystkie czołgi zostały wyposażone w doczepiane ogony ułatwiające pokonywanie przeszkód terenowych oraz nową wieżę APX-R1''.
+
+Produkcja
+Pierwsze zamówienie złożone zostało w maju 1935 na 300 czołgów. Do września 1939 wyprodukowano 1070 czołgów, a do upadku Francji w czerwcu 1940 541 pojazdów łącznie z nową wersją R-40, co daje 1611 czołgów wszystkich wersji.
+ 
+Użytkownicy
+Francja
+Był to używany w największej liczbie czołg w armii francuskiej podczas kampanii 1940. Były na wyposażeniu większości, bo aż 20 samodzielnych batalionów pancernych (BCC – Batallion de Chars de Combat) – 1., 3., 5., 6., 9., 10., 12., 16., 17., 20., 21., 22., 23., 32., 34., 35., 39., 40., 43., 48. Miała je również na wyposażeniu 4 Dywizja Pancerna (DCR-Division Cuirassée de Réserve) – bataliony 2., 24., 44. Trzy bataliony stacjonowały w Algierii i Tunezji – 62., 63., 68. Jednostki w nie wyposażone zostały podporządkowane rządowi Vichy. Użyto ich potem do walki z wojskami amerykańskimi, angielskimi i siłami Wolnych Francuzów gen. de Gaulle'a. Natomiast czołgi R-40 znalazły się na wyposażeniu 2.Dywizji Pancernej – 40. BCC (30 R-40) i 48. BCC (29 R-40). Razem w linii Francuzi posiadali około 1200 czołgów. Jednakże nie odegrały one znaczącej roli na polu walki z powodu rozproszenia wśród jednostek liniowych oraz braków w zaopatrzeniu w paliwo co powodowało często, że załogi niszczyły porzucane pojazdy.
+R-35 znalazł się znów na uzbrojeniu Francji w 1944, kiedy to zostały użyte przez jednostki Wolnych Francuzów w czasie wyzwalania kraju. Używał ich m.in. 5 Pułk Dragonów.
+
+III Rzesza Niemiecka
+Po klęsce Francji w czerwcu 1940 Niemcy przejęli olbrzymią liczbę czołgów francuskich. Były wśród nich czołgi R-35. Przejęto około 800 (843?) pojazdów i nadano im oznaczenie PzKpfw 35R 731 (f).'' Czołgi wykorzystywano na drugorzędnych kierunkach działań, w policji i oddziałach bezpieczeństwa na okupowanych terenach, jednostkach SS, stosowano je również do ochrony lotnisk. Były również w składzie sił okupacyjnych na wyspach Kanału La Manche. Część pojazdów skierowano do składów pociągów pancernych. Największą liczbę czołgów PzKpfw 35R 731 (f)'' po modernizacji (dwudzielne włazy zamiast kopułki dowódcy, niemieckie radiostacje) eksploatowano w Panzerbrigade 100 21.Dywizji Pancernej stacjonującej we Francji.
+
+Na podwoziu R-35 Niemcy zbudowali niszczyciel czołgów ''4,7 cm Pak (t) auf PzKpfw 35 R (f). '' Po usunięciu wieży, na kadłubie zamontowano w pancernej obudowie armatę 4,7 cm Pak (t) kalibru 47 mm. Przebudowy dokonywały zakłady Alkett w Berlinie w roku 1941. W ten sposób przebudowano 174 pojazdy oraz 26 w wersji dowódczej pozbawionej armaty, a uzbrojonej w karabin maszynowy MG 34. Zbudowano też prototyp uzbrojony w niemiecką armatę PaK 38 kalibru 50 mm.
+Część czołgów przebudowano na pojazdy do nauki jazdy Farschulwagen oraz na ciągniki amunicyjne i ciągniki artyleryjskie stosowane do holowania ciężkich haubic 150 mm (około 250 sztuk). Miały one oznaczenie Mörserzugmittel 35R (f) (Artillerie Schlepper 35R (f))'' oraz Munitionsschlepper 35R (f).
+
+Jeden z czołgów tego typu został przez żydowskich bojowników unieszkodliwiony butelką zapalającą pierwszego dnia powstania w getcie warszawskim
+
+Polska
+W okresie przedwojennym w Polsce odczuwano brak nowoczesnych czołgów lekkich mimo produkcji czołgów 7TP, który wtedy uważano za koncepcyjnie przestarzały. Polska w tym czasie posiadała przyznane przez Francję kredyty na zakup uzbrojenia, dlatego też tam zdecydowano się poszukać nowego czołgu dla Wojska Polskiego. Zainteresowanie wzbudził, R-35, którego 2 (3?) sztuki sprowadzono w 1938 r. celem dokonania prób. W czasie prób potwierdziły się wszystkie wady pojazdu. Strona polska postulowała przezbrojenie czołgu w armatę o lepszych parametrach, ale strona francuska nie zgodziła się na takie rozwiązanie. Podjęte w kraju próby zamontowania armaty produkcji polskiej tego samego kalibru, ale znacznie nowocześniejszej nie powiodły się. Z tego powodu odstąpiono od transakcji. Polacy zaproponowali czołg S-35, ale na sprzedaż tego typu pojazdów Francuzi nie chcieli się zgodzić. Strona polska odrzuciła natomiast propozycję zakupu czołgów H-35 i czołgu średniego Char D1. Opóźnienia w produkcji polskich lekkich czołgów oraz zaostrzająca się sytuacja międzynarodowa spowodowały, że jednak w kwietniu 1939 r. zdecydowano się kupić 100 czołgów R-35. Pierwsza partia 49 (50?) czołgów R-35 dotarła do Polski przez port w Gdyni w lipcu 1939. Druga partia (50 szt.) miała być również dostarczona drogą morską. Jednak w wyniku wybuchu wojny i rozwoju sytuacji statek z czołgami skierowano do Konstancy w Rumunii. Po klęsce Polski w wojnie obronnej transport skierowano do Tunezji, gdzie czołgi zasiliły francuski 68. BCC.
+
+Zakupione R-35 skierowano do Łucka do 12.Batalionu Pancernego, gdzie dotarły dopiero 20 lipca. Szkolenie odbywało się pod kierunkiem francuskich oficerów – mjr M. Malaguettiego i por. G. de Fromenta oraz dwóch francuskich podoficerów. 3 września w wyniku ogłoszenia pogotowia bojowego oddziału, rozlokowano go w okolicznych wsiach. Mobilizację zakończono 7 września. W wyniku mobilizacji z czołgów utworzono 21.Batalion Czołgów Lekkich jako oddział dyspozycyjny Naczelnego Wodza. Dowódcą batalionu został mjr Jerzy Łucki. Batalion składał się z: pocztu dowódcy, trzech kompanii czołgów (każda 13 wozów) oraz kompanii techniczno – gospodarczej (6 czołgów zapasowych). Razem w batalionie było 45 czołgów R-35. Etat batalionu czołgów R-35 różnił się od etatu batalionu czołgów lekkich 7TP (Batalion 7TP liczył 49 czołgów).
+21.Batalion miał rozkazem Naczelnego Wodza wzmocnić Armię „Małopolska”. Postanowiono, że batalion wzmocni 10.Brygadę Kawalerii Zmot. Transport miał się odbyć koleją, ale w wyniku zniszczeń i problemów z taborem batalion został skierowany marszem kołowym do Dubna, gdzie dotarł 14 września. Dalej transport odbywał się koleją i 15 września 21 batalion dotarł do Radziwiłłowa. Wtedy też nastąpiła zmiana zamiarów, co do użycia batalionu. Zrezygnowano ze wzmocnienia 10.Brygady Kawalerii Zmot.. Batalion został skierowany do obrony tzw. „przedmościa rumuńskiego”. Trasa przemarszu oddziału wyglądała następująco:15 września Złoczów-Stanisławów, 16 września postój w Brzeżanach, nocny przemarsz na trasie Podhajce i Monasterzyska, 17 września las Klubowce koło Niżniowa. Oddział nie wziął jednak udziału w walkach i 18 września przekroczył granicę z Rumunią.
+ 
+Sześcioma czołgami kompanii techniczno-gospodarczej wzmocniono kompanię Obrony Narodowej w Stanisławowie. Oddział ten następnego dnia stoczył bój o otwarcie drogi w stronę granicy i 18 września w składzie 4 czołgów znalazł się w Rumunii. Razem granicę rumuńską przekroczyły 34 czołgi. 
+
+2 (3?) czołgi R-35 z 21 Batalionu Czołgów Lekkich dołączyły do 10.Brygady Kawalerii Zmot. i razem z nią przekroczyły granicę Węgierską. Nie do końca jasne jest pochodzenie tych czołgów. Być może pochodziły z kompanii por. Jakubowicza lub z 21.Batalionu Czołgów Lekkich. 
+
+Pozostałe czołgi 12 batalionu (2 lub 3 R-35) oraz 3 R-35 i 1 H-35 (ewentualnie 3 wozy H-35) z Biura Badań Technicznych Broni Pancernej utworzyły Samodzielną Kompanię Czołgów R-35 pod dowództwem por. Józefa Jakubowicza, która 16 września podporządkowana została dowódcy Grupy „Dubno”. 19 września w m. Krasne oddział stoczył potyczkę z nacjonalistami ukraińskimi, a dzień później z radzieckim oddziałem pancerno-motorowym. Stracono jeden czołg, a drugi spalono. Oddział ten wziął również udział w boju 22 września o Kamionkę Strumiłową, gdzie poniósł straty, ale również zniszczył kilka pojazdów niemieckich. Do 25 września utracono wszystkie czołgi.
+
+Po walkach na obszarze Polski pozostało 13 uszkodzonych lub zniszczonych czołgów. Część czołgów przejęli Niemcy, a kilka Armia Czerwona
+
+Ponownie czołgi znalazły się na uzbrojeniu Wojska Polskiego we Francji w 1940 r. Pierwsze 45 czołgów R-35 dotarło w maju 1940 r. do 1 batalionu pancernego 10.Brygady Kawalerii Panc. dowodzonej przez gen. Maczka. Czołgi były wyposażone w stare i nowe armaty. 2 batalion otrzymał 21 R-35 i 24 R-40, ale po kilku dniach musiał je oddać jednostce francuskiej (25 BCC). Do walki wyruszył, więc tylko 1 batalion pod dowództwem mjr. S.Glińskiego. Wziął on udział w walkach wraz z innymi oddziałami brygady w dniach 12–17 czerwca 1940 r. Polscy czołgiści stoczyli boje m.in. pod Champaubert i Montbard. W kolejnych dniach brygada znalazła się w okrążeniu, a czołgi zostały zniszczone przez własne załogi. Dziesięć dni po oddaniu czołgów Francuzom 2 batalion otrzymał 10 czerwca 1940 r. ponownie wyposażenie. Było to 19 czołgów R-40. Wyposażona w nie 1 kompania pod dowództwem mjr. Chabowskiego wzięła udział w walkach w pasie działania francuskiej 7 Armii. Pełniła rolę obrony przeciwpancernej. W wyniku odwrotu wojsk francuskich i braku paliwa czołgi zostały 14 czerwca spalone. 2 kompania otrzymał czołgi dopiero 18 czerwca i było to 18 R-40. Brak jest informacji na temat użycia tych czołgów. Być może i 3 kompania otrzymała 19 czerwca 13 czołgów R-40, ale brak jest potwierdzonych informacji na ten temat.
+
+Wojsko Polskie użytkowało 119 czołgów R-35 i 61 czołgów R-40.
+
+Włochy
+Włoskie oznaczenie – Carro Armato R-35''. Pierwsze czołgi Włosi zdobyli w czasie walk z Francuzami w czerwcu 1940. Większą liczbę pojazdów zakupiono (otrzymano?) od Niemców w 1941. Liczba pojazdów R-35 w posiadaniu Włochów wyniosła wtedy 124 szt. Sformowano z nich dwa bataliony czołgów: CI (101) batalion czołgów utworzony 15 września 1941 z 131 RC (pułku czołgów) i oddziałów odwodowych i CII (102) batalion czołgów utworzony 15 września 1941 z 132 RC (pułku czołgów) i oddziałów odwodowych. Czołgi R-35 wzięły udział w walkach z wojskami amerykańskimi w czasie lądowania na Sycylii. m.in. w rejonie Geli, gdzie 10 lipca 1943 r. brały udział w walkach z amerykańską 1.Dywizją Piechoty.
+
+Turcja
+Francja sprzedała do Turcji 100 czołgów w dwóch partiach w lutym i w marcu 1940&nbsp;r.
+
+Królestwo Jugosławii
+50 (54 ?) czołgi zamówiła Jugosławia. Niektóre źródła podają, że nie wszystkie czołgi dotarły do zamawiającego. Według Andrzeja Kińskiego dotarło tylko kilkanaście R-35. Ugrupowane zostały w 1.Bataljon bornih kola, który brał udział w walkach z Niemcami. Część z nich została później przekazana Chorwatom.
+
+Królestwo Rumunii
+Rumunia kupiła we Francji 40 czołgów w 1939&nbsp;r. (10 w sierpniu, 30 we wrześniu). Liczba czołgów uległa zwiększeniu po internowaniu we wrześniu 1939&nbsp;r. 34 czołgów 21.Batalionu Czołgów Lekkich. Czołgi były używane do szkolenia. Brały również udział w walkach na froncie wschodnim. Nieliczne pojazdy przetrwały do roku 1945 r., kiedy to wzięły udział w walkach z Niemcami. Część pojazdów przezbrojono w zdobyczne radzieckie armaty kalibru 45mm. Jeden zachowany egzemplarz posiada muzeum wojskowe w Bukareszcie.
+
+Bułgaria
+Oznaczenie bułgarskie – Reno. 23 kwietnia 1941 r. Niemcy przekazali Bułgarom 40 czołgów zdobytych we Francji. Nowe pojazdy umożliwiły rozwinięcie istniejącego Batalionu Pancernego do rozmiarów pułku. W późniejszym czasie czołgi służyły przede wszystkim do szkolenia. 21 pojazdów zostało skreślonych ze stanu w kwietniu 1945&nbsp;r.
+Węgry
+2 lub 3 czołgi dotarły na Węgry wraz z wycofująca się 10.Brygadą Kawalerii Zmot. Służyły do szkolenia, a w późniejszym czasie zostały przekazane prawdopodobnie Chorwatom.
+
+Bibliografia
+Kiński Andrzej Czołg lekki Renault R-35/R-40 cz. 1'', Nowa Technika Wojskowa Nr 9/2001
+Kiński Andrzej Czołg lekki Renault R-35/R-40 cz. 2'', Nowa Technika Wojskowa Nr 10/2001
+Chant Christopher World Encyclopedia of the Tank, Sutton Publishing, 2002
+Zasieczny Adam Czołgi II wojny światowej, Alma-Press, Warszawa 2005
+Jędrzejewski Dariusz, Lalak Zbigniew Sojusznicy Panzerwaffe część I, PEGAZ
+Jędrzejewski Dariusz, Lalak Zbigniew Niemiecka broń pancerna 1939-45'', Lampart, Warszawa 1997
+Kuberski Hubert Sojusznicy Hitlera 1941–45'' Wydawnictwo Militaria, Warszawa 1993&nbsp;r.
+Solarz Jacek, Ledwoch Janusz Czołgi włoskie 1939–1943'', Wydawnictwo Militaria, Warszawa 1995
+Janusz Magnuski Wozy bojowe Polskich Sił Zbrojnych 1940-1946'', Wydawnictwo Lampart, Warszawa 1998
+Jońca Adam, Szubański Rajmund, Tarczyński Jan Wrzesień 1939 Pojazdy Wojska Polskiego Barwa i broń, Wydawnictwo Komunikacji i Łączności, Warszawa 1990
+Szubański Rajmund Polska broń pancerna w 1939 roku, Bellona, Warszawa 2004
+
+Linki zewnętrzne

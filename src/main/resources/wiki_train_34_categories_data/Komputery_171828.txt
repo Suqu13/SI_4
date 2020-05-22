@@ -1,0 +1,7 @@
+Plone - to oparty na środowisku Zope - system zarządzania treścią (CMS). Plone napisany jest w jezyku programowania Python i rozpowszechniany jako wolne oprogramowanie zgodnie z zasadami licencji GPL. Może być wykorzystywany jako sieciowy serwer aplikacji, system publikowania dokumentów lub narzędzie do pracy zespołowej.
+
+Projekt Plone rozpoczęli w roku 1999 Alan Runyan, Alexander Limi oraz Vidar Andersen. W roku 2004 powstała Fundacja Plone mająca na celu wspierać i promować system zarządzania treścią Plone.
+
+Nazwa Plone stanowi hołd dla zespołu muzycznego Plone.
+
+Linki zewnętrzne

@@ -1,0 +1,28 @@
+Free-to-play (F2P) – model płatności występujący w grach komputerowych, niewymagający kupna lub płacenia abonamentu.
+
+Założenia
+System F2P polega na kupowaniu poprzez tzw. mikrotransakcje opcjonalnych dodatków do gier, w sytuacji gdy znaczna część świata gry, rozgrywki czy fabuły jest darmowa. Dodatkami tymi mogą być też różnorakie przedmioty czy umiejętności, pomagające w dalszej grze lub ją usprawniające. Przykładem takiego usprawnienia jest przyspieszenie zdobywania doświadczenia lub ulepszenie jakiejś umiejętności na określony czas. Przykładami przedmiotów mogą tu być np. dodatkowe czołgi w grze World of Tanks czy nowi oficerowie dyżurni w Star Trek Online. W grach F2P można dokonywać płatności również za przedmioty czy usługi – z punktu widzenia rozgrywki – niepotrzebne, jak np. nowy ubiór lub maskotka czy też zmiana koloru włosów awatara lub zmiana wystroju domu.
+
+Z systemu F2P można korzystać poprzez mikropłatności lub też przy pomocy karty płatniczej.
+
+Popularność
+System ten jest stosowany głównie na komputerach osobistych w grach z gatunku MMO: MMORPG (Star Trek Online, Runes of Magic, Lineage II, DC Universe Online), MOBA (League of Legends, Dota 2''), MMOSG (Power Soccer), MMOFPS (Team Fortress 2''), MMOR ('''', TrackMania Nations Forever) oraz w grach przeglądarkowych.
+
+W czerwcu 2012 roku prezes firmy Crytek, Cevat Yerli, zapowiedział, że studio zamierza odejść od płatnych tytułów i całkowicie skupić się na produkcjach typu F2P; w lutym 2013 roku potwierdził, że ma to nastąpić w ciągu kilku najbliższych lat, a przykładem tego może być Warface. W lipcu 2012 roku ówczesny dyrektor generalny Electronic Arts John Riccitiello stwierdził, że model free-to-play posiada ogromny potencjał.
+
+Wiele gier, które wcześniej miało model abonamentowy, po przejścu na model F2P zyskało o wiele większe zainteresowanie i przyniosło duże zyski, np. '''', '''', DC Universe Online, '''', The Lord of the Rings Online.
+
+Firma Distimo w swoim raporcie stwierdziła, że w styczniu 2014 roku mikropłatności w grach free-to-play wygenerowały 79% wszystkich dochodów w amerykańskich sklepach internetowych z aplikacjami na urządzenia mobilne. W styczniu 2013 roku było to 66%, a w styczniu 2012 – 46%.
+
+W lutym 2014 roku Komisja Europejska opublikowała komunikat prasowy, w którym zapowiedziała, że zajmie się grami reklamowanymi jako free-to-play w celu ochrony konsumentów, a zwłaszcza dzieci, przed niespodziewanymi i niechcianymi kosztami związanymi z płatnościami wewnętrznymi w tego typu aplikacjach.
+
+Pay-to-win (P2W)
+Niektóre gry free-to-play pozwalają graczom płacącym za dodatkowe przedmioty i funkcje zdobyć dużą przewagę nad graczami niewydającymi pieniędzy. Takie gry określa się mianem pay-to-win („płać, aby wygrać”).
+
+Zobacz też
+freemium
+
+Przypisy
+
+
+Linki zewnętrzne

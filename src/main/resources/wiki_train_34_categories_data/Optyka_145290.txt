@@ -1,0 +1,60 @@
+Zwierciadło optyczne, lustro – gładka powierzchnia o nierównościach mniejszych niż długość fali świetlnej. Z tego względu zwierciadło w minimalnym stopniu rozprasza światło, odbijając większą jego część. Dawniej zwierciadła wykonywano poprzez polerowanie metalu, później została opanowana technologia nakładania na taflę szklaną cienkiej warstwy metalicznej (zwykle srebra) metodami chemicznymi. Obecnie lustra produkuje się poprzez próżniowe naparowanie na szkło cienkiej warstwy metalu (najczęściej glinu).
+
+Rodzaje zwierciadeł
+
+
+
+Ze względu na kształt powierzchni, zwierciadła dzieli się na
+płaskie
+wklęsłe (skupiające)
+wypukłe (rozpraszające)
+
+Ze względu na rodzaj krzywizny zwierciadła wklęsłe i wypukłe dzieli się na:
+sferyczne/kuliste
+cylindryczne
+paraboliczne (paraboloidalne)
+hiperboliczne (hiperboloidalne)
+inne (o powierzchni opisanej równaniami wyższego rzędu lub nieregularnej)
+
+Zwierciadło płaskie
+W zwierciadle płaskim obraz obiektu konstruuje się poprzez wykonanie odbicia symetrycznego względem płaszczyzny zwierciadła. Jest to obraz pozorny, nieodwrócony i tego samego rozmiaru.
+
+Zwierciadło sferyczne
+Zwierciadło sferyczne ma powierzchnię będącą fragmentem sfery.
+Promienie biegnące równolegle do osi symetrii sfery, po odbiciu od wklęsłej strony lustra przechodzą przez lub w pobliżu ogniska optycznego (pod warunkiem, że biegną dostatecznie blisko osi symetrii). Odległość ogniskowa mierzona jako odległość ogniska od wierzchołka zwierciadła (czyli najgłębiej położonego punktu czaszy zwierciadła), wynosi f&nbsp;=&nbsp;R/2, gdzie R jest promieniem krzywizny. Dzięki zdolności do skupiania promieni świetlnych lustro sferyczne wklęsłe może być wykorzystywane w podobny sposób jak soczewka. Obraz, tak pozorny (w przypadku zwierciadła wypukłego) jak rzeczywisty (w przypadku zwierciadła wklęsłego), powstaje w analogiczny sposób jak w przypadku soczewek i do wyznaczania jego położenia stosuje się zasady optyki geometrycznej.
+
+Zwierciadło paraboliczne
+
+Zwierciadło paraboliczne ma krzywiznę będącą fragmentem paraboloidy obrotowej.
+Bieg promieni w zwierciadle parabolicznym jest zasadniczo taki sam jak w przypadku zwierciadła sferycznego, z tą różnicą, że wszystkie promienie świetlne równoległe do osi symetrii zwierciadła skupiane są w jednym punkcie, bez względu na odległość od osi. Oś symetrii paraboloidy jest także osią optyczną zwierciadła. Jeżeli przekrój zwierciadła w płaszczyźnie zawierającej oś optyczną ma postać paraboli o równaniu y&nbsp;=&nbsp;ax'2 wtedy odległość ogniskowa wynosi f&nbsp;=&nbsp;1/(4'a).
+
+Wady zwierciadeł
+Ze względu na fakt, iż zwierciadło zmienia bieg promieni tak samo, niezależnie od długości fali światła, zwierciadła pozbawione są aberracji chromatycznych. Bieg odbitych promieni podlega jednak aberracjom optycznym:
+zwierciadła sferyczne ze względu na swój kształt posiadają aberrację sferyczną
+zwierciadła paraboliczne nie posiadają aberracji sferycznej, występuje w nich natomiast zniekształcenie o nazwie koma.
+
+Zastosowania
+
+Zwierciadła płaskie są typem najczęściej spotykanym w życiu codziennym:
+lustra i lusterka powszechnego użytku (ścienne, łazienkowe, kieszonkowe, dekoracyjne itp.),
+lustra fenickie,
+w lustrzankach jako element kierujący światło do wizjera, podnoszony na czas robienia zdjęcia,
+w laserach jako elementy ograniczające wnękę rezonansową,
+jako elementy zmieniające bieg światła w urządzeniach optycznych.
+Niekiedy w miejsce zwierciadeł stosuje się pryzmaty dobrane tak, by wewnątrz nich zachodziło całkowite wewnętrzne odbicie, np. w lornetkach.
+
+Zwierciadła wypukłe oraz wklęsłe stosowane są między innymi w:
+teleskopach,
+obiektywach lustrzanych,
+"powiększających" lusterkach kosmetycznych,
+samochodowych lusterkach wstecznych,
+lustrach ustawianych przy drogach w miejscach szczególnie niebezpiecznych, o ograniczonej widoczności,
+lampach i reflektorach
+lupach
+mikroskopach
+aparatach fotograficznych
+projektoskopach.
+
+Zwierciadła mogą służyć także do odbijania promieniowania elektromagnetycznego spoza zakresu fal światła widzialnego, tak jak ma to miejsce w przypadku anteny satelitarnej, czy teleskopu rentgenowskiego.
+
+

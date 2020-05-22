@@ -1,0 +1,11 @@
+Total Cost of Ownership (TCO)''' – zgodnie z Gartner Group, jest to całkowity koszt pozyskania, instalowania, użytkowania, utrzymywania i w końcu pozbycia się aktywów w firmie na przestrzeni określonego czasu.
+
+Ostatnio mówi się o TCO w kontekście inwestycji firmy w narzędzia informatyczne. Należy w ich przypadku brać na przykład pod uwagę nie tylko cenę zakupu, ale też przemyśleć, ile będzie kosztowało utrzymanie narzędzi, oraz ich ewentualna rozbudowa.
+
+TCO służy do oceny bieżących i prognozowanych wydatków lub kosztów infrastruktury informatycznej i telekomunikacyjnej. Model uwzględnia koszty bezpośrednie ujawnione w budżetach i listach płac, oraz koszty pośrednie (ukryte) – wyznaczone jako koszty związane z działaniami użytkowników oraz z przestojami. Model TCO służy nie tylko redukcji całkowitych kosztów związanych z posiadaniem zasobów teleinformatycznych, ale także analizie różnic między badanym przedsiębiorstwem a danymi porównywawczymi modelu firm i stowarzyszeń niezależnych. Najważniejszym składnikiem modelu jest – oprócz systemu klasyfikacji kosztów zawierającego bogatą listę kategorii – także baza danych statystycznych o kosztach informatyki dla wielu branż.
+
+
+
+
+
+

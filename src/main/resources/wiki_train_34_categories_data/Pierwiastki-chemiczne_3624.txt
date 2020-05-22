@@ -1,0 +1,78 @@
+Mangan (Mn, łac. manganum) – pierwiastek chemiczny należący w układzie okresowym do grupy metali przejściowych.
+
+Ma 15 izotopów z przedziału mas 49-62 i izomery jądrowe 51m, 52m, 54m. Trwały jest tylko izotop 55, który stanowi niemal 100% składu izotopowego manganu występującego w naturze. .
+
+Właściwości chemiczne i fizyczne
+Metaliczny mangan jest twardym, srebrzystym i kruchym materiałem o różowym połysku. Jest masowo stosowanym dodatkiem do stali, obniżając jej temperaturę topnienia i poprawiając właściwości mechaniczne. Wykazuje właściwości paramagnetyczne.
+
+Jest metalem stosunkowo aktywnym chemicznie, reaguje z rozcieńczonymi kwasami i z wodą z wydzieleniem wodoru. W postaci litej jest odporniejszy od żelaza na działanie czynników atmosferycznych ze względu na pasywację. Rozdrobniony jest piroforyczny.
+
+. Wraz ze wzrostem stopnia utlenienia rośnie charakter kwasowy manganu. Na stopniu utlenienia +2 tworzy trwałe kationy Mn2+, a na stopniu utlenienia +7 aniony nadmanganianowe .
+
+Odmiany alotropowe
+Mangan, zależnie od temperatury, przyjmuje cztery formy alotropowe mające różne gęstości:
+poniżej 700&nbsp;°C: odmiana α,
+między 700&nbsp;°C a 1079&nbsp;°C: odmiana β,
+między 1079&nbsp;°C a 1143&nbsp;°C: odmiana γ – dość miękka, łatwo poddaje się obróbce mechanicznej,
+powyżej 1143°: odmiana δ.
+
+Odkrycie
+Sole i tlenki manganu były stosowane już w starożytności. Dawni hutnicy używali w procesie dymarkowym do wyrobu żelaza m.in. rudy darniowej zawierającej związki fosforu i manganu. We wczesnym średniowieczu wysoki stopień opanowania procesu dymarskiego cechował na obszarze Barbaricum głównie celtyckie ośrodki kulturowe. 
+Tlenki manganu wywołują również barwienie szkła na fioletowo, i mogą w zależności od atmosfery wytopu pełnić rolę odbarwiacza. Najstarsze przykłady celtyckich produktów szklanych pojawiają się około 250-220 r. p.n.e, w tym również na terytorium Polski. 
+
+Pierwszą osobą, która zasugerowała istnienie tego pierwiastka był Carl Wilhelm Scheele, zaś kilka lat później, w 1774 r. Johan Gottlieb Gahn jako pierwszy wyizolował ten pierwiastek w stanie czystym, przez redukcję dwutlenku manganu węglem:
+MnO2 + 2C → Mn + 2CO.
+
+Występowanie w skorupie ziemskiej
+Występuje w skorupie ziemskiej w ilości 950 ppm w postaci rudy składającej się z mieszaniny kilkunastu rodzajów tlenków. Jest po żelazie najbardziej rozpowszechnionym metalem ciężkim. W światowym wydobyciu manganu (w przeliczeniu na czysty składnik), wynoszącym w 2001 r. 9 mln ton, przodowały: Chiny (2,5 mln ton), RPA (1,5 mln ton), Ukraina (1,2 mln ton), Australia (1,1 mln ton) i Brazylia (1,1 mln ton).
+
+Ważniejsze minerały: braunsztyn i manganit – oba to mieszaniny różnych tlenków manganu.
+
+Sztuczne radioizotopy
+Do najważniejszych sztucznych radioizotopów należą:
+, otrzymywany w reakcjach:  i 
+, otrzymywany w reakcjach:  i 
+, otrzymywany przez neutronową aktywację metalicznego manganu lub dwutlenku manganu, MnO2
+
+Są one stosowane jako wskaźniki promieniotwórcze.
+
+Otrzymywanie
+
+Metaliczny mangan można otrzymać poprzez redukcję piroluzytu glinem w reakcji aluminotermii:
+3MnO2 + 4Al → 2Al2O3 + 3Mn.
+
+Znaczenie biologiczne
+.
+
+Przykłady związków manganu
+Mangan tworzy liczne związki proste i kompleksowe na wszystkich stopniach utlenienia od I do VII, z których najważniejsze są II, III, IV i VII.
+
+Związki manganu na stopniu utlenienia I:
+heksacyjanomanganian(I) potasu, K5[Mn(CN)6].
+Związki manganu na stopniu utlenienia II:
+tlenek manganu(II), MnO,
+wodorotlenek manganu(II), Mn(OH)2,
+chlorek manganu(II), MnCl2,
+siarczan manganu(II), MnSO4,
+heksacyjanomanganian(II) potasu, K4[Mn(CN)6].
+Związki manganu na stopniu utlenienia III:
+tlenek manganu(III), Mn2O3,
+siarczan manganu(III), Mn2(SO4)3,
+heksacyjanomanganian(III) potasu, K3[Mn(CN)6].
+Związki manganu na stopniu utlenienia IV:
+tlenek manganu(IV), MnO2; trwały związek manganu(IV).
+Związki manganu na stopniu utlenienia V:
+manganian(V) sodu (podmanganian sodu), Na3MnO4.
+Związki manganu na stopniu utlenienia VI i VII:
+manganian potasu (manganian potasu), K2MnO4.
+nadmanganian potasu, KMnO4,
+kwas nadmanganowy, HMnO4 i jego bezwodnik, tlenek manganu(VII), Mn2O7.
+
+
+
+
+
+
+
+
+

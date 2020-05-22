@@ -1,0 +1,15 @@
+Sprzężenie spinowo-orbitalne (sprzężenie spin-orbita) – wzajemne magnetyczne oddziaływanie, pomiędzy orbitalnym a spinowym momentem magnetycznym. Pojęcie jest stosowane w mechanice kwantowej, spektroskopii i chemii koordynacyjnej.
+
+Istota zjawiska
+Każdy elektron posiada własny spin, który determinuje spinowy moment pędu. Pozostają one w ciągłym ruchu, a ponieważ są obdarzone ładunkiem (ujemnym), to posiadają moment magnetyczny związany ze spinem. Zatem zachowują się jak miniaturowe magnesy, które orientują się polu magnetycznym. Ponadto, każdy elektron posiada orbitalny moment pędu, zachowujący się jak obwód prądowy i związany z nim moment magnetyczny. Wzajemne oddziaływanie momentów pędu spinowego i orbitalnego nazywane jest sprzężeniem spinowo-orbitalnym.
+
+Wielkość sprzężenia zależy od wzajemnej orientacji obu momentów magnetycznych. Orientacja tychże momentów, zależy wyłącznie od całkowitego momentu pędu elektronów, wyrażonego poprzez wektorową sumę orbitalnego i spinowego momentu pędu. Kiedy są one skierowane przeciwnie, całkowity moment ma niską wartość, natomiast gdy są niemal równoległe – wysoką.
+
+Stała sprzężenia
+Obok efektu Jahna-Tellera, sprzężenie spin-orbita, ma wpływ na kształt związków kompleksowych (powoduje lekkie rozszczepienie poziomów), a w konsekwencji na obraz widm UV-Vis. Dobrą metodą do określenie rzeczywistej wartości rozszczepienia, spowodowanego przez oddziaływanie spin-orbita, jest wyznaczenie stałej sprzężenia (ζ). Opisuje ona rozszczepienie spektralne i mierzy się ją w cm-1. Rozszczepienie to odgrywa rolę jednak tylko w przypadku pasm o słabej intensywności, powstałych w wyniku przejść spinowo wzbronionych. Obliczenia kwantowe wykazały następującą zależność energii od stałej sprzężenia:
+gdzie:
+h – stała Plancka
+c – prędkość światła
+l, s, j – liczby kwantowe
+
+Bibliografia

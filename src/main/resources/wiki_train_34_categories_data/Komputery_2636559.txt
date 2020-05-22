@@ -1,0 +1,13 @@
+XT3 jest najnowszym produktem serii serwerów XT belgijskiej firmy EVS.
+
+
+Serwer został zaprojektowany tak, aby umożliwić jednoczesne nagrywanie, jak i odtwarzanie przekazów audio-wideo. XT3 obsługuje do 8 kanałów SD/HD albo 6 kanałów 3D/1080p (3G lub dual link). Serwer zapisuje dane na twardych dyskach. Pozwala to na w pełni nieliniową edycję materiałów.
+
+XT3 był używany m.in. podczas Mistrzostw Świata w piłce nożnej, Mistrzostw Świata w futbolu amerykańskim, MotoGP, czy podczas Igrzysk Olimpijskich. Wykorzystywany jest również przez takie stacje telewizyjne, jak: BBC , NBC, Sky, France 2, CCTV  i wiele innych.
+
+Kontrola XT3 odbywa się za pomocą Multicam(LSM) lub oprogramowania IpDirector. Większość wozów transmisyjnych na świecie używa Serwerów XT wraz z kontrolerem Multicam(LSM). Taka konfiguracja umożliwia natychmiastowe powtórki, przy dowolnej prędkości odtwarzania materiału. Potwierdzeniem niezwykłej przydatności tego typu konfiguracji było przyznanie EVS Nagrody Emmy.
+
+Sukces serwerów XT doprowadził do stworzenia serii XS, które dedykowane są dla środowisk studyjnych.
+
+
+

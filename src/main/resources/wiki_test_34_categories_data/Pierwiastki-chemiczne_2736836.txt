@@ -1,0 +1,15 @@
+Przemiana przedmartenzytyczna – przemiana fazowa pierwszego rodzaju występująca w materiałach wykazujących zachodzenie przemian martenzytycznych (głównie materiały z pamięcią kształtu). Występuje tylko w ściśle określonych warunkach dla danych materiałów. Ujawnia się zawsze przed właściwą przemianą martenzytyczną i powoduje pojawienie się takich samych (słabszych) lub różnych efektów.
+
+Ogólne informacje
+W 1970 roku przemiana martenzytyczna została odkryta razem z fazą R w stopach Ni-Ti. Dopiero 11 lat później Ling i Kaplow poprawnie zinterpretowali uzyskane wyniki, że przemiana przedmartenzytyczna fazy R jest procesem pośrednim i konkurencyjnym do przemiany martenzytycznej normalnie zachodzącej w stopach Ni-Ti. Najczęściej fazy uzyskane w wyniku przemian przedmartenzytycznej i martenzytycznej występują razem. Wyróżnia je przede wszystkim orientacja krystalograficzna. Przemiana przedmartenzytyczna obecnie nie znajduje zastosowania. Fazy uzyskane charakteryzują się bardzo słabymi właściwościami użytkowymi w porównaniu do faz martenzytycznych. Z tego powodu zajście przemiany przedmartenzytycznej uważane jest za szkodliwe.
+
+Zobacz też
+faza R
+
+Przypisy
+
+
+
+
+
+

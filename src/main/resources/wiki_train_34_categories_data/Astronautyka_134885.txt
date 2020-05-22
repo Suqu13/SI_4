@@ -1,0 +1,15 @@
+Mariner 1 (R-1)''' (pol. Żeglarz 1'') – pierwsza sonda kosmiczna programu Mariner amerykańskiej agencji kosmicznej NASA.
+
+Planowanym celem lotu była planeta Wenus. Rakieta nośna z sondą na pokładzie została zniszczona 293 sekundy po starcie, który odbył się 22 lipca 1962, o godzinie 09:21:23 GMT, z Cape Canaveral. W katalogu COSPAR oznaczony jako 1962-F07.
+
+
+
+Katastrofa z powodu kreski
+Tragiczny koniec misji został spowodowany dwiema niezależnymi przyczynami: awarią anteny i błędem oprogramowania przygotowanego na wypadek tejże awarii.
+
+Zaraz po starcie okazało się, że antena rakiety Atlas Agena B odbierająca komendy kierujące z Ziemi działa znacznie poniżej wymaganych parametrów. Spowodowało to, że w pewnym momencie rakieta przestała odbierać komendy sterujące. Konstruktorzy przewidzieli taki scenariusz wydarzeń. W takim wypadku, komputer pokładowy miał ignorować zaszumiony lub nieprawidłowy sygnał z anteny i wykonać program lotu zachowany w pamięci. Misja prawdopodobnie zakończyłaby się sukcesem, gdyby nie trywialny błąd w tymże programie. Program kierujący rakietą zawierał błąd, który został popełniony na etapie odręcznego przepisywania jednego z równań. Przepisujący przegapił kreskę w równaniu na wartość zaokrąglonej pochodnej w czasie n-tego promienia, . Bez kreski oznaczającej funkcję wygładzenia, program traktował każdą minimalną zmianę wartości prędkości jako bardzo poważną, i wykonał serię gwałtownych manewrów doprowadzających rakietę do zejścia z kursu. W 293. sekundzie lotu, widząc nienormalne zachowanie się rakiety, oficer bezpieczeństwa kosmodromu wydał rakiecie sygnał samozniszczenia.
+
+Planowaną misję wykonała potem identyczna sonda Mariner 2, którą wystrzelono 27 sierpnia 1962.
+
+
+Bibliografia

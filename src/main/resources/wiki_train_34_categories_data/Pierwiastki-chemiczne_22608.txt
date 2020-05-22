@@ -1,0 +1,44 @@
+Gal (Ga, łac. gallium) – pierwiastek chemiczny z bloku p układu okresowego, o liczbie atomowej 31. Jest łatwo topliwym, srebrzystobiałym, miękkim metalem. Topi się już w temperaturze 29,76&nbsp;°C i trzymany w dłoni zamienia się w ciecz. Jest również kruchy - próbki galu łatwo stłuc, a powstające odłamki mają wtedy przełam podobny do przełamu szkła.
+
+Występuje w ilościach śladowych w boksycie, kaolinicie i rudach cynku. Na skalę przemysłową uzyskuje się go z boksytu. Ciekawą własnością galu jest jego niska temperatura topnienia i wysoka temperatura wrzenia, dzięki czemu stosuje się go przy produkcji termometrów wysokotemperaturowych. Stopy galu z indem i cyną mają jeszcze niższą temperaturę topnienia (do ok. -20&nbsp;°C). W przeciwieństwie do rtęci, gal i jego związki nie są trujące. Powszechnie wykorzystywanym związkiem galu jest arsenek galu, będący półprzewodnikiem, mającym wiele zastosowań.
+
+Istnieją dwa trwałe izotopy galu o masach atomowych 69 i 71. Znane są także dziesiątki izotopów radioaktywnych, o krótkich czasach połowicznego rozpadu.
+
+Odkrycie
+Gal został odkryty w 1875 r. podczas analizy widmowej błyszczu cynkowego. Francuski chemik Lecoq de Boisbaudran zauważył kilka fioletowych prążków zwiastujących istnienie nieznanego dotąd pierwiastka. W tym samym roku uzyskał wolny gal, poddając elektrolizie amoniakalny roztwór siarczanu galu. Gal wydzielił się na platynowej katodzie.
+
+Istnienie galu, na podstawie prawa okresowości pierwiastków, przewidzieli Dymitr Mendelejew (1869) i niemiecki chemik Julius Lothar Meyer (1870). Mendelejew nadał mu nazwę ekaglin i trafnie przewidział jego właściwości. Zgadzała się wartościowość (+3), taka sama, jak glinu. Mendelejew uważał, że masa atomowa będzie wynosić 68, Boisbaudran stwierdził, że jest ona równa 69,865. Mendelejew twierdził, że ekaglin będzie tworzyć ałuny, co też się potwierdziło. Jedynie ciężar właściwy, podany przez Boisbaudrana, znacznie różnił się od przewidywań Mendelejewa. Dlatego Mendelejew zwrócił się listownie do odkrywcy, prosząc go, by zechciał jeszcze raz sprawdzić swoje pomiary, bowiem ciężar właściwy galu powinien według niego wynosić ok. 6 g/cm³. Po sprawdzeniu okazało się, że pomiary Boisbaudrana faktycznie były błędne i ciężar właściwy galu wynosi 5,935 g/cm³. Później, po przeprowadzeniu bardziej precyzyjnych pomiarów, stwierdzono, że wynosi on 5,904 g/cm³.
+
+Właściwości
+Pierwiastkowy gal nie występuje w przyrodzie, ale można go łatwo uzyskać poprzez wytapianie.
+
+Bardzo czysty gal ma srebrzysty kolor. Należy unikać przechowywania go w pojemnikach ze szkła, ponieważ rozszerza się on podczas krzepnięcia o ok. 3,1%. Podobnie jak rtęć, gal w stanie ciekłym tworzy spontanicznie stopy z wieloma innymi metalami, dlatego nie należy go przechowywać w metalowych pojemnikach, w związku z czym przechowuje się go w pojemnikach polietylenowych.
+
+Niska temperatura topnienia (ok. 29,8&nbsp;°C) pozwala na roztopienie galu poprzez trzymanie go w dłoni. W stanie ciekłym ma tendencję do przechładzania się, do krystalizacji potrzebny jest zarodek krystalizacji. Gal jest jednym z niewielu metali (obok rubidu, cezu czy rtęci), które są ciekłe w temperaturze zbliżonej do pokojowej, w związku z tym znajduje zastosowanie przy produkcji wysokotemperaturowych termometrów. Gal posiada także bardzo wysoką (w porównaniu z jego temperaturą topnienia) temperaturę wrzenia i bardzo niską prężność pary. W przeciwieństwie do rtęci, ciekły gal zwilża szkło i skórę, w związku z czym praca z nim może być niewygodna, lecz nie jest on trujący.
+
+Gal krystalizuje w układzie rombowym. Wiązania pomiędzy najbliższymi atomami mają charakter kowalencyjny, w związku z czym podstawowymi cząsteczkami budującymi kryształy galu są dimery Ga2.
+
+Gal powoli roztwarza się w mocnych kwasach i zasadach.
+
+Fluorek, arsenek i fosforek galu mają własności półprzewodnikowe. Domieszkuje się nimi krzem stosowany w przemyśle elektronicznym. Warstwy z arsenku galu stosuje się w układach scalonych typu MMIC.
+
+Gal nie posiada żadnego znaczenia biologicznego, ale istnieją przypuszczenia, że ma on wpływ na szybkość przemiany materii. Związki galu nie wykazują działania toksycznego.
+
+Zastosowania
+Gal stosuje się jako domieszkę przy produkcji półprzewodników i tranzystorów.
+Może być użyty do produkcji luster, ponieważ zwilża szkło.
+Wykorzystywany przy produkcji stopów niskotopliwych.
+Polepsza właściwości spoiw lutowniczych.
+Stosowany do produkcji termometrów wysokotemperaturowych.
+Stop galu, indu i cyny (Galinstan) bywa stosowany w termometrach lekarskich – jego temperatura topnienia wynosi ok. -20&nbsp;°C.
+Jako katalizator w produkcji wodoru z wody przy użyciu reakcji utleniania glinu.
+
+
+
+
+
+Bibliografia
+Źródła drukowane
+J. Daintith Dictionary of Chemistry (Oxford University Press) 2000 (Fourth Edition) ISBN 0-19-280101-5
+
+Źródła internetowe

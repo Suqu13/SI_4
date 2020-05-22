@@ -1,0 +1,33 @@
+Nokia Lumia 620''' – smartfon z serii Lumia produkowany przez fińską firmę Nokia, zaprezentowany w grudniu 2012 roku podczas konferencji LeWeb w Paryżu jako następca modelu Lumia 610. Działa pod kontrolą systemu operacyjnego Windows Phone 8..
+
+Specyfikacja
+Wyposażenie tego smartfona, według znawców, jest bardzo bogate jak na ten segment urządzeń mobilnych.
+
+Aparat
+W Lumii 620 zastosowano optykę Nokii z matrycą 1/4 cala o rozmiarze 5 megapikseli, przesłonie f/2.4 wspomaganą przez autofocus oraz lampę błyskową LED. Aparat jest sterowany dwustopniowym spustem migawki, dysponuje również 4 krotnym zbliżeniem cyfrowym. Rozdzielczość wykonanych zdjęć to 2592 na 1936 pikseli. Filmy nagrywane tym telefonem mają jakość 720p (HD).
+
+Wygląd
+Telefon wykonano z poliwęglanu, a także hartowanego szkła pod którym znajduje się ekran. Głośnik słuchawkowy, czujnik zbliżeniowy, czujnik oświetlenia zewnętrznego, kamerę umieszczono nad wyświetlaczem. Pod nim znajdują się trzy pojemnościowe przyciski charakterystyczne dla systemu Windows Phone, czyli wstecz, start i szukaj. Lewa krawędź obudowy pozbawiona jest jakichkolwiek elementów funkcyjnych. Na prawym boku znajduje się klawisz służący do regulacji głośności, przycisk blokady ekranu (włącznik) oraz dwustopniowy spust migawki, a na dole obudowy mikrofon oraz port micro USB. Gniazdo mini jack i drugi mikrofon ulokowano na górnej krawędzi. Z tyłu telefonu zainstalowano aparat cyfrowy, diodę LED oraz głośnik.
+
+Podzespoły
+Urządzenie napędza dwurdzeniowy Quallcomm Snapdragon S4 taktowany zegarem o częstotliwości 1 GHz. Procesor jest wspomagany 512 MB pamięci operacyjnej (RAM). Pamięć dostępna dla użytkownika to około 8 GB oraz bezpłatne 7GB pamięci w chmurze. Możliwe jest jej rozszerzenie przez kartę micro SD o pojemności do 64 GB. Ekran zastosowany w tym telefonie ma przekątną 3,8 cala. Został wykonany w technologii IPS LCD z wykorzystaniem autorskich funkcji SuperSensitive i ClearBlack. Jego rozdzielczość to 480 na 800 pikseli. Smartfon wyposażono w moduły Bluetooth, NFC i WiFi. Obsługuje również łączność 3G. Zastosowana bateria litowo-jonowa ma pojemność 1300 mAh.
+
+Akcesoria
+Do telefonu producent rekomenduje przezroczyste nakładki, które dodają efekt 3D, a także obudowy w różnych kolorach.
+
+Oprogramowanie
+Nokia Lumia 620 pracuje pod kontrolą systemu Microsoft Windows Phone 8 z dodatkiem Lumia Black. Preinstalowane są programy takie jak: Kalkulator, Zegar, Kalendarz, Budzik, Przypomnienia, Spis telefonów, Zadania, Pokój rodzinny, Kącik dziecięcy, OneNote, Sieci społecznościowe w książce telefonicznej, Portfel. Dodatkowo smartfon wyposażono w podstawowe oprogramowanie biurowe – Excel, Word, PowerPoint i Lync oraz nawigację HERE Maps oraz inne aplikacje wykorzystujące połączenie GPS i rozszerzoną rzeczywistość np. Nokia Miasto w Obiektywie. Dodatek Lumia Black umożliwia korzystanie z kliku autorskich rozwiązań Nokii – Glance, Camera, Storyteller czy Beamer. Użytkownik może dodatkowo pobierać aplikacje i gry ze sklepu Nokii bądź Marketplace.
+
+Zobacz też
+Microsoft
+Nokia
+Nokia Lumia 520
+Nokia Lumia 1020
+
+
+
+
+
+
+
+

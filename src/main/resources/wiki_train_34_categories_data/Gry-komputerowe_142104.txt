@@ -1,0 +1,115 @@
+Ragnarok Online (RO) – gra MMORPG stworzona w 2001 r. przez koreańską firmę Gravity Corp., której dziełem jest także m.in. inna gra MMORPG – ROSE Online. Akcja Ragnaroka (w mitologii nordyckiej "Zmierzch bogów") toczy się w świecie nawiedzonym przez tytułowy kataklizm, który wysokorozwinięte społeczeństwo cofnął na powrót do epoki zbliżonej do średniowiecza. O dawnej świetności przypominają jedynie strzępy utraconej wiedzy i relikty jak zaginione, podziemne miasto Juperos i zamieszkujące je roboty. Ponadto w grze występują liczne nawiązania do mitologii germańskiej w postaci lokacji (świątynia Odyna, wulkan Thora, sanktuarium Freyi), potworów (Randgris, Skoggul, Skeggiold, Frus są imionami Walkirii), oraz przedmiotów (diadem Frigg). Fabuła gry jest luźno oparta o manhwe autorstwa Lee Myung-Jina o nazwie Ragnarok.
+
+W Ragnaroka można grać na serwerach oficjalnych, takich jak iRO (International Ragnarok Online), euRO (European Ragnarok Online), kRO (Korean Ragnarok Online), cRO (Chinese Ragnarok Online) i wielu innych - praktycznie każdy azjatycki kraj ma swój własny serwer - a także, jak w przypadku wielu gier MMORPG, w Ragnaroka można grać za darmo na nieoficjalnych prywatnych serwerach, jednakże modyfikacja klienta (która jest wymagana do połączenia) jest nielegalna, serwery te mogą się różnić questami, postaciami odgrywanymi przez komputer, (NPC), ratem (szybkością zdobywania doświadzczenia) itd. Najpopularniejszym emulatorem Ragnarok Online jest eAthena powstała na bazie jAthena. Wszystkie oficjalne wersje Ragnaroka Onlina działają na programie serwera o nazwie Aegis
+
+Rozgrywka
+Po ściągnięciu gry i założeniu konta na serwerze gracz przystępuje do tworzenia postaci. Rozdziela punkty statystyk między 6 statystyk określających postać: siłę (Str), szybkość (Agi), zręczność (Dex), inteligencję (Int), witalność (Vit) i szczęście (Luk). Po rozdaniu punktów gracz może zmienić fryzurę i kolor włosów i co najważniejsze może wybrać imię swojej postaci. Po stworzeniu postaci gracz zostaje przeniesiony na tzw. Novice Training Grounds, czyli do miejsca, w którym można poznać podstawy rozgrywki oraz zdobyć pierwsze doświadczenie swoją postacią. Po zakończeniu szkolenia można udać się do odpowiedniego miasta i rozpocząć quest na pierwszą profesję.
+W grze można wykonywać wiele zadań pobocznych, które pozwalają zdobyć spore ilości doświadczenia i ciekawe przedmioty, jednak głównym sposobem zdobywania doświadczenia jest zabijanie potworów. Po osiągnięciu minimum 40 poziomu Job można
+wykonać quest, który pozwoli stać się drugą klasą.
+Głównymi atrakcjami w grze są mapy z włączonym trybem PvP (Player vs. Player), na których można się zmierzyć z innymi graczami w walce. Poza tym gdy gracz dołączy do gildii może brać udział w War of Emperium - walką wielu gildii o zamki.
+
+Poza walkami między sobą gracze maja także możliwość walki z wieloma różnorodnymi bossami. Po ostatnich zmianach bossy stały się silniejsze i wiele stanowi teraz spore wyzwanie nawet dla drużyny doświadczonych graczy. Na takich bossach można zdobyć wiele interesujących przedmiotów oraz dużą liczbę punktów doświadczenia.
+
+Do gry zostały dodane instancje. Są to miejsca, w których drużyna ma określony czas na przejście przez nie i pokonanie wszystkich potworów znajdujących się w niej. Jest to element rozgrywki przeznaczony dla bardziej zaawansowanych graczy z dobrym ekwipunkiem, ponieważ w instancjach trzeba pokonać nawet kilku silnych bossów naraz. Jak na razie istnieją trzy instancje:
+Sealed Shrine
+Endless Tower
+Orc Dungeon
+
+Rozwój Postaci
+W grze gracz otrzymuje dwa rodzaje doświadczenia: Base i Job. Doświadczenie Base podwyższa poziom Base, za zdobywanie którego przydzielane są punkty statystyk, które są głównymi cechami postaci. Za doświadczenie Job zwiększa się poziom Job. Za każdy pojedynczy poziom Job gracz może nauczyć się bądź rozwinąć umiejętności. Maksymalny poziom Base jaki można osiągnąć to 99, jednakże planowane jest wprowadzenie 3rd class, które mogą rozwinąć statystyki do 150 punktów. Maksymalnym poziomem Job jest 10 dla Novice, 50 dla 1st i 2nd class i 70 dla Upperów i Expanded Class, natomiast Super Novice może osiągnąć 99 poziom Job.
+
+Profesje
+Jest 7 podstawowych profesji występujących w RO oraz 3 nowe dodatkowe klasy zwane Expanded Classes (czyli Taekwon, Gunslinger i Ninja), każda z nich (z wyjątkiem Super Novice'a, Gunslingera i Ninja) dodatkowo ma możliwość awansowania na 2 różne klasy. Dla przykładu łucznik może być łowcą lub bardem - oczywiście każda ma swoje charakterystyczne umiejętności (Skille). Każda druga klasa postaci po osiągnięciu 99 base level może zostać Upper Class (z wyjątkiem Expanded Classes, oraz Super Novice). Odradza się ona wtedy w High Novice, by potem się stać wyższą klasą. Dla przykładu Hunter po osiągnięciu 99 poziomu może stać się Sniperem. Każda najwyższa klasa (w tym przypadku Sniper) jest dużo silniejsza od drugiej klasy danej postaci i ma wiele nowych umiejętności, a jej maksymalny job level wynosi 70, a nie (jak w przypadku drugiej klasy) 50.
+
+Swordman - Profesję tę charakteryzuje duża siła zadawanych obrażeń, oraz duża liczba punktów życia. W Swordman'a można zamienić się w Izulde, na zachodniej wyspie.
+Knight - rycerz - jego atutem jest bardzo duża siła, obrona i liczba punktów życia. Jedną z jego najlepszych umiejętności ofensywnych jest Bowling Bash. W Knighta można zamienić się w Pronterze (w północno-zachodniej części mapy).
+Lord Knight - Upper Class Knighta. Postać o największym przeliczniku punktów życia. Używając umiejętności Berserk/Frenzy zwiększa prędkość ataku, potraja swoją liczbę punktów życia oraz siłę ataku, jednakże w stanie szału bojowego obrona Lord Knighta się zeruje, a jego hp ciągle spada.
+Crusader - krzyżowiec - podobnie jak w przypadku rycerza, Crusader ma dużo HP (health points, czyli punktów życia). Można nim zostać w zamku w Pronterze. Potrafi leczyć. Jego ataki opierają się głównie na sile świętości (holy) oraz tzw. męczeństwu (matyr) które polega na atakowaniu kosztem własnego zdrowia.
+Paladin - Upper Class Crusadera. Ta postać ma dużo dróg rozwoju, mianowicie: może służyć za postać wspomagającą (support), dzięki umiejętności Devotion jest w stanie przyjmować na siebie obrażenia przeznaczone dla chronionej osoby oraz zwiększać statystyki postaci z drużyny za pomocą umiejętności Gospel; może służyć za wyśmienitego tankera (postać przyjmująca na siebie ataki potworów) dzięki dużej obronie i liczbie punktów życia, oraz umiejętności która zwraca na niego uwagę potwora (Provoke); może służyć za potężną postać ofensywną dzięki umiejętnościom Sacrifice, Pressure oraz Shield Chain.
+
+Archer - Łucznik to postać charakteryzująca się atakami z dużej odległości. Jej atutem jest to, że dobry łucznik potrafi zabić potwora zanim ten do niego podejdzie. Łucznika charakteryzują szybkie i silne ataki. Można nim zostać w Wiosce Łuczników w Payon.
+Hunter - Jego charakterystyczną cechą jest szybkie strzelanie z łuku oraz zastawianie pułapek. Hunterzy są bardzo pożądaną klasą na War of Emperium właśnie ze względu na pułapki, które utrudniają przeciwnikom zdobycie zamku. Ponadto Łowca ma możliwość przyswojenia jastrzębia (Falcon), który umożliwia wykrywanie niewidzialnych celów. Można nim zostać w Hugel.
+Sniper - Upper Class Huntera. Snipera charakteryzują błyskawiczne i bardzo potężne ataki dystansowe. Dzięki umiejętności Falcon Assault można zadać jednorazowo bardzo duże obrażenia. Idealna postać do polowania na bossów o niskiej obronie.
+Bard - Bard jest typową postacią wspomagającą. Może w walce używać łuku co jest zalecane do zdobywania doświadczenia samotnie. W drużynie Bard może grać piosenki, które diametralnie zwiększają efektywność kolegów (przyspieszenie zadawania ciosów, rzucania zaklęć). Jest to jedna z najbardziej pożądanych klas na War of Emperium. Bard posiada również umiejętność zamrażania wszystkich celów na ekranie (Frost Joke). Bardem może zostać tylko postać płci męskiej.
+Clown - Upper Class Barda - Klaun posiada więcej umiejętności ofensywnych w stosunku do Barda. Arrow Vulcan zadaje duże obrażenia. Tarot Card of Fate jest bardzo przydatną umiejętnością: nadaje wrogom losową anomalię statusu np. zamrożenie, coma, zadanie obrażeń itp. Klaun wraz z Tancerką w drużynie może grać nowe piosenki które są najbardziej cenione na War of Emperium (zwiększenie ataku, uniemożliwienie rzucania umiejętności na terenie wokół postaci).
+Dancer - Postać bardzo podobna do Barda, zamiast śpiewać piosenek - tańczy. Jest równie przydatna w walce jak Bard. Może nią zostać jedynie postać płci żeńskiej.
+Gypsy - Upper Class od Dancerki - Podobnie jak Clown potrafi używać Tarot Card of Fate i Arrow Vulcan. Wraz z Klaunem w drużynie może tańczyć z lepszym efektem dla wrogów i drużyny.
+Acolyte - Akolita w zależności od dalszego kierunku rozwoju postaci może być postacią wspomagającą lub walczącą. Akolitą można zostać w kościele w Pronterze.
+Priest - Kapłan jest postacią, bez której nie można się obyć. Zwiększa tymczasowo statystyki postaci, leczy, chroni przed atakami oraz tankuje potwory. Ponadto ma czary które skutecznie niszczą demony i potwory typu Undead. Można nim zostać w kościele w Pronterze.
+High Priest - Upper Class Priesta. Posiada dużo punktów życia, dzięki czemu tankowanie potworów jest łatwiejsze. Ma dodatkowe czary chroniące. Najlepsza postać do wspomagania towarzyszy.
+Monk - Mnich walczy na dwa sposoby, jednym z nich jest stosowanie tzw. combo (ciągłych ataków). Drugi sposób to atakowanie za pomocą Spirit Spheres. Mnich potrafi zabrać jednym ciosem bardzo dużo punktów życia za pomocą umiejętności Asura Strike. Ponadto Mnich potrafi "sam sobie" rzucać buffy (chwilowe zwiększenie statystyk). Monkiem można zostać w świątyni mnichów (jedna mapa nad Pronterą i 3 mapy w prawo).
+Champion - Upper Class Monka. Champion potrafi wykonywać dłuższe combo od Monka i szybciej "rzucać" Spirit Spheres. Champion dzięki umiejętności Asura Strike jest najlepszą postacią do zabijania bossów i ludzi o dużej obronie.
+
+Magician - Mag jest postacią która posiada duży wachlarz ataków, dzięki którym może zabić potwory niezależnie od ich property (rasa). Mag może zamieniać w kamień (Stone Curse), zamrażać oraz chronić się przed atakami fizycznymi. Magiem można zostać w Geffen.
+Wizard - Postać zadająca obrażenia na dużą skalę. Stanowi pierwszorzędną obronę zamku podczas War of Emperium. Czarodzieje są bardzo podatni na ataki i potrzebują wsparcia przy zdobywaniu doświadczenia. Można nim zostać w Geffen.
+High Wizard - Upper Class Wizarda, High Wizard posiada umiejętność zwiększenia siły kolejnego czaru o 50%. Czarodzieje którzy potrafią bardzo szybko rzucać czary są bardzo groźnymi przeciwnikami, zaś ci którzy mają duży współczynnik inteligencji (int) zadają ogromne obrażenia na dużą skalę, co sprawia że są najpotrzebniejszą postacią do obrony zamku podczas War of Emperium.
+Sage - Sage jest postacią, która potrafi rzucać czary i przy tym się poruszać. Ponadto umieją zaklinać broń żywiołami. Sage'em można zostać w Yuno.
+Professor - Upper Class Sage'a. Profesorowie są najlepsi do wspomagania. Potrafią spalić całe SP przeciwnika, przekazywać SP innym postaciom, osłabiać i wzmacniać siłę magiczną wrogów, oraz wytwarzać pola na których nie działa żadna magia obszarowa. Profesor z dobrym ekwipunkiem jest bardzo trudny do unieszkodliwienia.
+
+Thief - Złodzieja charakteryzują szybkie ataki i ich unikanie. Potrafi okradać potwory i się ukrywać. Thief'em można zostać w Piramidzie w okolicach Morroc.
+Assassin - Zabójca jest postacią która głównie szybko i dotkliwie atakuje z zaskoczenia. Potrafi manipulować truciznami. Zabójcą można zostać w okolicach Morroc.
+Assassin Cross - Upper Class Assassina - Assassin Cross jest równie szybki, co zabójczy. Ma możliwość użycia Deadly Poison co zwiększa jego atak czterokrotnie lub zwiększa szybkość ataku kosztem pochłaniania własnych punktów życia. Ponadto Assassin Cross ma dystansowy atak który "omija" obronę (Soul Breaker).
+Rogue - Dzięki umiejętności Tunel Drive może poruszać się przy użyciu skilla Hide. Może czasowo pozbawić przeciwnika ekwipunku, jednak jedno użycie umiejętności pozbawia wroga tylko jednej części ekwipunku. Roguem można zostać w latarni morskiej w okolicach Comodo.
+Stalker - Upper Class Rogue. Posiada możliwość skopiowania jednej dowolnej umiejętności dowolnej klasy, lecz w przeciwieństwie do Rouge'a może ją zapamiętać. Może także czasowo pozbawić przeciwnika dużej części ekwipunku, jednak w przeciwieństwie do Rogue wymaga to użycia tylko jednej umiejętności.
+
+Merchant - Kupiec jest postacią, która powinna znaleźć się na każdym koncie. Dzięki niej możemy taniej kupować przedmioty u NPC, oraz drożej je sprzedawać. Daje nam ona również możliwość wystawienia własnego sklepu, z własnymi przedmiotami (Vending). Merchant'em można zostać w Albercie.
+Alchemist - Sam zadaje małe obrażenia, ale bije dość szybko. Może przyzywać niektóre potwory, które dla niego walczą, i które po pewnym czasie znikają. Może posiadać Homunculusa - specjalne zwierzątko, które musi karmić, i które dla niego walczy, nie znika, podobnie jak każda klasa zdobywa levele. Są ich 4 rodzaje, każdy o innych zdolnościach. Można nim zostać w Al De Baran.
+Creator - Upper Class Alchemika - posiada drugi, co do ilości zadawanych obrażeń, skill - Acid Demonstration (jego dmg zależy od liczby punktów int Creatora i wartości vit przeciwnika). Jednak granie tą klasą jest niezwykle kosztowne, gdyż każde użycie umiejętności Acid Demonstration konsumuje drogocenne materiały.
+Blacksmith - Można nim zostać w Einbroch. Charakteryzuje się dużym ASPD (szybkość ataku) i sporymi obrażeniami (jest to dobra postać do expienia), ale można też zrobić z niej "czołg" dobry na WoE (War of Emperium).
+Whitesmith - Upper Class Blacksmith'a, zadaje potężne obrażenia skillem Cart Termination.
+
+Trzecie Klasy - Dodatkowo Gravity wprowadziło trzecie klasy. Po osiągnięciu 99/50 lub 99/70 w przypadku Upperów, można przejście na trzecią klasę (wtedy maksymalny poziom base to 150). 
+
+Expanded Classes
+
+Taekwon - Postać,która "używa" nóg zamiast broni. Jej atutem jest duży ASPD i umiejętność zmiany swojego elementu (żywiołu) kiedy tylko zechce. Taekwon posiada skill "Taekwon Mission" dzięki któremu może dostać się do rankingu Taekwonów, który zapewnia mu potrojenie liczby jego punktów życia oraz many, a także możliwość atakowania umiejętnością bez względu na to, którą mamy przygotowaną.
+Soul Linker - Postać do pomocy innym. Dzięki swoim zdolnościom potrafi wzmocnić każdą klasę, dając im różne zdolności dzięki Linkom.
+Star Gladiator - Podobnie jak Taekwon "używa" do atakowania nóg. Charakteryzuje się dużym ASPD i umie zmienić żywioł swych ataków, a dodatkowo, na specjalnie wyznaczonych przez siebie mapach może dostawać więcej doświadczenia, lub zadawać większe obrażenia.
+
+Super Novice '''- Klasa postaci o dosyć niezwykłych umiejętnościach. Jego Skille, są Skillami z wszystkich pierwszych klas (1st class). Jej maxymalny lvl to 99/99.
+
+Gunslinger - Klasa posługująca się bronią palną, atakuje na odległość. Gunslingerem można zostać w Einbroch.
+
+Ninja - Są dwie ścieżki rozwoju tej postaci, jedna to używanie do atakowania bronią (kunai, shurikeny) druga to magia. W związku z tym już na początku należy zdecydować, w którą stronę pójdziemy, gdyż w zależności od wyboru inaczej należy rozdać statystyki (Status Point). Ninja można zostać w Amatsu.
+
+Death Knight - Klasa, która nie została jeszcze zapowiedziana przez Gravity, ale pojawiają się plotki o jej powstawaniu.
+
+Dark Collector - Klasa, która nie została jeszcze zapowiedziana przez Gravity, ale pojawiają się plotki o jej powstawaniu.
+
+3rd Class
+3rd class są nowymi klasami, które zostały wprowadzone do gry. By się nimi stać trzeba zdobyć maksymalny poziom drugą klasą lub tzw. upperem. Każdy kto zamienia się z uppera, zyskuje skille dostępne tylko dla tej klasy oraz ma większy mnożnik HP i SP, niż zamiana z drugiej klasy. Maksymalny poziom nowych klas to 150 base i 50 job. Ograniczenie punktów jednej statystyki także wzrośnie, najprawdopodobniej granica zostanie ustalona na 120 punktów.
+
+Gildie
+Gildie są to grupy zrzeszające od kilku aż do kilkudziesięciu graczy. Na czele gildii stoi tzw. Guild Leader, czyli osoba, która założyła gildie i posiada największe uprawnienia w gildii. Tylko przywódca ma możliwość dodawania członkom opisów gildyjnych oraz narzucania podatku, czyli procentowej ilości doświadczenia jaką dany gracz przekazuje
+na rozwój gildii. Poza tym Guild Leader może wyznaczać swoich zastępców, którzy poza zastępowaniem Guild Leadera mogą otrzymać możliwość przyjmowania i usuwania innych członków gildii.
+W miarę rozwoju gildii zwiększa się jej poziom a przywódca może wybierać spośród umiejętności gildyjnych, które mogą być użyte w czasie War of Emperium do wzmocnienia sojuszników. Umiejętności gildyjnych może używać tylko Guild Leader
+i większość z nich jest dostępna tylko w czasie WoE. Gdy gildia posiada zamek wszyscy członkowie otrzymują dostęp do unikalnych zamkowych lokacji.
+
+War of Emperium
+War of Emperium (w skrócie WoE) jest to wydarzenie odbywające się trzy razy w tygodniu trwające 2 godziny. W czasie trwania WoE gildie i całe sojusze uczestniczą w walkach o zamki. Zamki są to lokacje, po których zdobyciu gildie otrzymują dostęp do unikatowych lokacji, w których występuje wiele potworów nie spotykanych poza tymi lokacjami. Poza tym przywódcy gildii otrzymują dostęp do zamkowych skarbów, które pojawiają się po każdym WoE.
+Z zamkowych skarbów można zdobyć i zwykłe przedmioty jak i tzw. esencje służące do tworzenia Gods Items (najpotężniejszych przedmiotów w grze, zwanych potocznie godami).
+Aby zdobyć zamek gildia musi zniszczyć Emperium, złoty kryształ znajdujący się w samym sercu zamku. Walki odbywają się w 20 zamkach podzielonych między cztery miasta: Pronterę, Geffen, Aldebaran i Payon.
+
+Ostatnie aktualizacje kRO dodały nowe WoE:SE na terenie państw Arunafelz i Schwarzwald. War of Emperium na terenie tamtych zamków będzie przebiegać na innych zasadach niż dotychczas. Gildie zamiast przeć do przodu będą musiały kluczyć po zamkach by niszczyć blokujące drogę barykady oraz punkty strategiczne. Zrezygnowano także z podziału map zamków na kilka pomieszczeń połączonych warpami (przejściami), zamiast tego pojawią się pojedyncze duże mapy. Zapobiega to niewyeliminowanemu błędowi, który nie przenosi z zamku wszystkich osób do punktu startowego, jeżeli dany gracz, w chwili gdy ma zostać teleportowany, przenosi się między jednym pomieszczeniem a drugim.
+
+Battlegrounds
+Na Battlegrounds pojedynkować się będą gracze podzieleni na dwie strony po 10 osób w każdej. Gracze mają za zadanie zniszczyć wrogi fort lub kryształ. Za zwycięstwa każdy gracz będzie otrzymywał przedmioty i jeżeli zbierze ich odpowiednią liczbę będzie mógł wymienić je na ekwipunek. Jak na razie wiadomo o dwóch mapach do Battlegroundów:
+Tierra Valley - tutaj gracze mają za zadanie obronienie swojego fortu i przejęcie wrogiego poprzez zniszczenie magazynu w forcie przeciwnika. Na mapie znajduje się też trzeci fort, po którego przejęciu członek rezydującej w nim drużyny będzie się respawnować po śmierci. Za zwycięstwo na tej mapie otrzymywać będzie się Emblem of Valor.
+Flavius - na tej mapie drużyny mają za zadanie zniszczyć kryształ wrogów. By móc atakować kryształ trzba będzie najpierw pokonać jego strażnika. By wygrać cały Battleground drużyna musi zniszczyć wrogi kryształ dwa razy. Kryształ ma być odporny na wszelkie skille. Za zwycięstwo na tej mapie będzie się otrzymywać Emblem of Courage.
+
+Ciekawostki
+Pomimo nazwy Ragnarok nie nawiązuje tylko do mitologii nordyckiej. Można w nim spotkać wpływy z wielu kultur i religii świata m.in. miasta stylizowane na arabskie, potwory, które wywodzą się z mitologii azjatyckich oraz wiele innych.
+Nazwy zamków w świecie Ragnarok Online w większości pochodzą od nazw istniejących miejsc lub postaci i przedmiotów z różnych mitologii np. zamki w Aldebaran noszą nazwy prawdziwych niemieckich zamków a nazwy tych w Pronterze wywodzą się od imion z mitologii germańskiej.
+
+Ragnarok w kulturze masowej
+Oprócz samej gry Ragnarok Online istnieje wiele gier i produktów opartych o świat gry:
+- Gravity zapowiedziało, że wyda 2 część Ragnaroka,
+Ragnarok the Animation - seria 26 odcinków Anime + 3 kinówki
+Ragnarok Mobile - 3 części gry RPG na telefony komórkowe, jest jeszcze "Kafra Quest",
+Monthly Ragnarok - koreańska gazeta o Ragnaroku,
+Ragnarok Battle Offline - gra akcji dzieła japońskiej firmy French-Bread.
+Ragnarok Trading Card Game
+Manhwa Ragnarok
+Ragnarok Online DS - gra przeznaczona na konsolę Nintendo DS
+
+Linki zewnętrzne

@@ -1,0 +1,87 @@
+M1 Abrams – czołg podstawowy konstrukcji amerykańskiej.
+
+Jego produkcja rozpoczęła się w roku 1980. Istniejące czołgi M1 są stale modernizowane, a starsze wersje pojazdu doprowadzane do nowoczesnych standardów M1A1SA, M1A1FEP i M1A2SEP.
+
+Abrams występuje w wersjach: M1, M1IP, M1A1, M1A1HA, M1A1HA+, M1A1HC, M1A1D, M1A1AIM v.1, M1A1AIM v.2/M1A1SA, M1A1FEP, M1A2 i M1A2SEP. Czołg został nazwany imieniem generała Creightona Abramsa - dowódcy 37 Batalionu Pancernego Armii Stanów Zjednoczonych w czasie II wojny światowej, a później dowódcy wojsk amerykańskich biorących udział w wojnie wietnamskiej. Charakterystyczne jest, że wieża zajmuje prawie tak wielkie pole jak reszta czołgu.
+
+Historia produkcji
+M1 został zaprojektowany przez korporację Chrysler Defence (następnie wykupioną przez General Dynamics i nazwaną General Dynamics Land Systems). Produkcję wielkoseryjną rozpoczęto w roku 1980 i do roku 1984 wyprodukowano ~3200 sztuk modelu M1, w roku 1984 wyprodukowano 894 sztuki modelu M1IP (Improved Performance) w którym ulepszono opancerzenie (zwiększono grubość przedniego pancerza wieży do ~960 mm), wzmocniono zawieszenie oraz dodano kosz transportowy z tyłu wieży.
+
+W roku 1985 rozpoczęto produkcję modelu M1A1, w którym zmieniono uzbrojenie główne z armaty M68A1/L52 kalibru 105 mm o gwintowanym przewodzie lufy na armatę M256/L44 kalibru 120 mm o gładkim przewodzie lufy będącą licencyjną nieco ulepszoną wersją niemieckiej armaty RH-M-120/L44. Inne zmiany obejmowały zmiany w konstrukcji wieży (zmiana trzech słabych ogniw nad magazynem amunicyjnym na dwa duże), montaż dłuższych skrzyń ładunkowych na burtach wieży, dodanie (niezabudowanego) portu na niezależny przyrząd obserwacyjny dowódcy, powiększoną osłonę głównego celownika i inne pomniejsze zmiany.
+
+W roku 1987/88 do produkcji został wdrożony model M1A1HA (Heavy Armor) w którym wzmocniono opancerzenie poprzez montaż z przodu kadłuba oraz z przodu i na burtach wieży nowego pancerza, którego jednym z elementów składowych są płyty ze stopu zubożonego uranu. W roku 1990/91 rozpoczęto produkcję modelu M1A1HC (Heavy Common), w którym zastosowano II generację nowego opancerzenia po raz kolejny znacznie podnosząc oferowaną ochronę balistyczną, wóz przystosowano też do głębokiego brodzenia poprzez montaż zestawu DWFK (Deep Water Fording Kit) co było wymogiem piechoty morskiej, zmiany dotknęły także magazyny amunicyjne, zainstalowano także elektroniczny system kontroli pracy silnika, w między czasie modele M1A1 i M1A1HA były modernizowane poprzez wymianę opancerzenia do standardu M1A1HC i oznaczono je nieoficjalnie jako M1A1HA+.
+
+W latach 1992/93 do produkcji wszedł M1A2, w którym dodano niezależny panoramiczny przyrząd obserwacji dowódcy z kamerą termowizyjną, zmieniono właz i kopułę obserwacyjną dowódcy ze starej CWS (Commander Weapon Station) na nową ICWS (Improved Commander Weapon Station), dodano cyfrowy system komunikacji IVIS (Inter Vehicular Information System), dodatkowe źródło zasilania EAPU (External Auxiliary Power Unit) montowane na koszu transportowym z tyłu wieży (można je także montować na wszystkich wariantach M1A1). Aby M1A1 mogły współdziałać z M1A2 podjęto decyzję o zamontowaniu w nich systemu IVIS, tak zmodernizowane pojazdy oznaczono jako M1A1D (Digital), jednakże zmodernizowane zostały wozy jedynie dla dwóch batalionów. Ogółem wyprodukowano 3273 sztuki M1, 894 sztuki M1IP, 4393 sztuki wszystkich wariantów M1A1 oraz 77 sztuk M1A2 dla sił zbrojnych USA.
+
+Na początku XXI wieku rozpoczęto zakrojoną na szeroką skalę modernizację. M1A2, wszystkie M1IP, duża część M1 oraz 400 najstarszych M1A1 przebudowano do najnowszego standardu M1A2SEP (System Enchancement Program), modernizacja zawiera w sobie unowocześnienie opancerzenia do III generacji pancerza wielowarstwowego zawierającego płyty ze stopu zubożonego uranu, warstwami grafitu, materiałów ceramicznych, metali innych niż stal (tytan) itp. montaż systemów obserwacji termowizyjnej FLIR II generacji, montaż systemu klimatyzacji VCSU, dodatkowej jednostki zasilającej umieszczonej pod pancerzem UAAPU (Under Armor Auxiliary Power Unit), instalacji nowego cyfrowego systemu kierowania ogniem, wymiany systemu IVIS na FBCB2 (Force XXI Battle Command Brigade and Below) i innych ulepszeń. Pozostałe M1A1 były modernizowane do standardu M1A1AIM v.1 (Abrams Integrated Management version 1) w którym to wymieniano wszelkie zużyte części na nowe, a obecnie modernizowane są do standardu M1A1AIM v.2 oznaczonego także jako M1A1SA (Situational Awereness) gdzie zmodernizowano opancerzenie, system kierowania ogniem, system obserwacji termowizyjnej, dodano system FBCB2 oraz zmodernizowano elektronikę do poziomu M1A2SEP. Piechota morska modernizuje swoje M1A1 do standardu M1A1FEP (Firepower Enhancement Program) będącego odpowiednikiem armijnego M1A1AIM v.2/SA.
+
+Czołgi M1A1 i M1A2 produkowane na eksport pozbawione zostały pancerza zawierającego zubożony uran, zamiast tego montowany jest pancerz opracowany na eksport.
+
+Od 2005 na niektórych M1 Abrams jest montowane wyposażenie TUSK (Tank Urban Survival Kit), które ma zadanie zwiększyć ochronę czołgu w terenie zabudowanym.
+W 2011 Egipt zwrócił się do USA o kolejne 125 M1A1 za 1329 mln USD, czołgi mają być zmontowane w Egipcie. Wszystkie Abramsy dla Egiptu są opłacane przez USA w ramach programu Foreign Military Financing, czyli bezzwrotnej pomocy wojskowej.
+
+Służba
+Czołgi typu Abrams zostały, pierwszy raz, użyte bojowo w czasie operacji "Pustynna Burza". Około 1800 czołgom M1A1 udało się zniszczyć wiele Irackich T-55. Nieliczne czołgi T-72 zostały zniszczone głównie przez lotnictwo dzięki przewadze w powietrzu. Zważywszy na tak specyficzną strategie wojsk irackich, ich poziom wyszkolenia oraz posiadanie najstarszych wersji radzieckich czołgów i amunicji, nie można w sposób nie budzący wątpliwości porównać Abramsa do T-72. Jedynie 19 Abramsów zostało wyłączonych ze służby z powodu uszkodzeń odniesionych w boju (nie było ofiar wśród załogi oprócz jednego przypadku podczas ostrzału dwóch Abramsów nawzajem, ale żaden z nich nie został poważnie uszkodzony; zginął wtedy jeden żołnierz). Czołg typu M1 okazał się zdolny do ostrzału wrogich jednostek z odległości przekraczającej 3000 m.
+
+M1 został ponownie użyty w roku 2003, gdy siły amerykańskie dokonały inwazji na Irak i obaliły dotychczasowego przywódcę - Saddama Husseina. W trakcie kampanii o kolejne 10 lat nowocześniejsze Abramsy starły się ponownie z czołgami T-72 z początku lat 80. XX wieku. I co nie może być zaskoczeniem wykazał się w starciu z takim przeciwnikiem wysoką wydajnością i elastycznością. Jak poprzednio, nie odnotowano większych strat w załogach Abramsów, których przyczyną byłby ogień nieprzyjaciela (jeśli już to sojusznika). Jednakże 29 października 2003 zginęło dwóch amerykańskich żołnierzy a jeden został ranny w wyniku uszkodzenia czołgu przez iracką minę, która najprawdopodobniej została wzmocniona dodatkowymi materiałami wybuchowymi w celu zwiększenia jej mocy.
+
+Były to pierwsze odnotowane ofiary wśród członków załóg Abramsów wynikłe w trakcie prowadzenia walk i ognia nieprzyjaciela.
+
+27 listopada 2004 w wyniku wybuchu w pobliżu czołgu niezmiernie silnego ładunku-pułapki, złożonego z połączenia 3 pocisków L15 155 mm (o całkowitej masie materiału wybuchowego wynoszącej 34,5 kg), jeden z Abramsów został zniszczony a jego kierowca zginął. Pozostałym członkom załogi udało się uciec z wraku.
+
+Żaden Abrams nie został nigdy zniszczony w wyniku trafienia z wrogiego czołgu, jednakże pewna liczba została uszkodzona w zasadzkach przy użyciu granatników przeciwpancernych oraz ppk krótkiego zasięgu (jak np. rosyjski RPG-7, RPG-18 lub AT-14 "Kornet"). Poza tym, podczas operacji Pustynna Burza kilka Abramsów zostało omyłkowo trafionych przez rakiety AGM-114 Hellfire wystrzelone z amerykańskich śmigłowców AH-64 Apache, na skutek czego odniosły uszkodzenia - ich załogi jednak zdołały przeżyć.
+
+Budowa
+
+
+Opancerzenie
+Pierwsze trzy warianty: M1, M1IP i M1A1 chronione są wielowarstwowym pancerzem kompozytowym Burlington, znanym powszechnie pod nazwą Chobham. Zapewniał on w swoim czasie wysoki poziom ochrony przeciw amunicji kumulacyjnej oraz średni poziom ochrony przeciw amunicji kinetycznej.Od lat 1987/88, w ramach modernizacji, kolejne warianty czołgu chronione są nowym "specjalnym" pancerzem, zawierającym warstwy płyt ze stopu zubożonego uranu, a kolejne generacje tego pancerza różnią się stosowaniem nowocześniejszych i lepszych materiałów.
+
+Dane dotyczące odporności na amunicję kinetyczną i kumulacyjną są tajne, znane są natomiast dane na temat grubości samego pancerza:
+
+Przód wieży : 960mm (w pierwszym modelu grubość szacowana jest na 700-800mm), burty wieży : 350-400mm, jarzmo działa : 380-400mm, strop wieży : 70-40mm, tył wieży : 40mm, przód kadłuba (dolna słabo pochylona powierzchnia) : 550-650mm, przód kadłuba (górna silnie nachylona pod kątem 80 stopni powierzchnia) : 80mm, burty kadłuba (2/3 górnej powierzchni) : 80mm, burty kadłuba (1/3 dolnej powierzchni w miejscu montażu zawieszenia) : 30-50mm, tył kadłuba : 40mm, dno kadłuba : 40mm. Burty kadłuba dodatkowo chronione są fartuchem balistycznym grubości 70mm w 1/2 długości kadłuba od jego frontu, a także fartuchem grubości kilku mm w pozostałej 1/2 długości kadłuba ku jego tyłowi.
+
+Według wyliczeń, opracowanych przez entuzjastów na bazie grubości pancerza oraz znanych cech zastosowanych materiałów, oszacowano, iż pancerz następujących wersji zapewnia odporność:
+
+M1: Przód wieży 400mm vs. KE, 700-800mm vs. CE.
+M1IP/M1A1: Przód wieży 450-500mm vs. KE, 880-900mm vs. CE.
+M1A1HA: Przód wieży 660-680mm vs. KE, 1080-1320mm vs. CE.
+M1A1HA+/HC/D/AIM v.1, M1A2: Przód wieży 880-900mm vs. KE, 1310-1620mm vs. CE.
+M1A1AIM v.2/SA/FEP, M1A2SEP: Przód wieży 940-960mm vs. KE, 1320-1620mm vs. CE.
+
+KE (Kinetic Energy) amunicja kinetyczna, np. APFSDS, CE (Chemical Energy) np. amunicja kumulacyjna.
+
+Należy pamiętać, iż są to jedynie szacunki.
+
+Dodatkową osłonę osiąga się poprzez montaż dodatkowych osłon dynamicznych w postaci pancerza reaktywnego M19 ARAT-1 na burtach kadłuba lub montaż osłon dynamicznych M19 i zamocowanych na nich osłon M32 ARAT-2 na burtach kadłuba oraz samych M32 na burtach wieży. Istnieje również możliwość montażu ekranów prętowych z tyłu kadłuba.
+
+Uzbrojenie
+
+
+M68A1 - Działo 105 mm
+Głównym uzbrojeniem wersji M1 jest działo M68A1 105 mm, które wystrzeliwuje pociski scalone APFSDS, APFSDSDU, HEAT oraz dymne.
+
+M256 - Działo gładkolufowe 120 mm
+Głównym uzbrojeniem wariantów M1A1 i M1A2  jest gładkolufowe działo M256 120 mm, zaprojektowane przez niemieckie zakłady Rheinmetall, na które fabryka General Dynamics wzięła licencję i produkuje je w mieście Lima w stanie Ohio. Wystrzeliwuje ono pociski M827, M829, HE M-830, HE M-959. Według producenta najnowsza amunicja podkalibrowa pozwala skutecznie zwalczać aktualnie pozostające w służbie rosyjskie czołgi z odległości ponad 2 km. Teoretycznie działo M256 posiada zdolność ostrzału samolotów latających na niskim pułapie, jednak nie zostało to przetestowane w warunkach bojowych. Lufa działa wyposażona jest w izolację termiczną, zmniejszającą odkształcenia powstające w związku z nierównomiernym przepływem ciepła, oraz przedmuchiwacz, eliminujący szkodliwe dla załogi gazy powstające po strzale. Szybkostrzelność praktyczna wynosi 9 strzałów na minutę.
+
+Uzbrojenie dodatkowe
+Abrams jest wyposażony w trzy karabiny maszynowe:
+12,7 mm karabin maszynowy M2 zamontowany przy włazie dowódcy. Karabin ten posiada celownik o 3-krotnym powiększeniu
+7,62 mm karabin maszynowy M240 zamontowany przy włazie ładowniczego na ruchomym wózku
+7,62 mm karabin maszynowy M240 sprzężony i umieszczony współosiowo z głównym działem
+
+Na wieży zamontowane są także dwie wyrzutnie granatów dymnych, a silnik może być użyty w celu postawienia zasłony dymnej.
+
+Mobilność
+
+M1 Abrams jest zasilany przez silnik turbowałowy Avco Lycoming AGT-1500C (4 biegi w przód i 2 w tył) o mocy 1103 kW (1500 KM). Dzięki niej, Abrams osiąga prędkość około 67 km/h na nawierzchni utwardzonej i około 48 km/h w terenie (Jest to ograniczenie mechaniczne, a nie wydajnościowe, które ma na celu zapewnienie maksymalnego bezpieczeństwa i optymalnej pracy), jednakże są niepotwierdzone raporty o załogach, które usunąwszy ograniczenie, osiągały prędkość około 90 km/h na równym terenie. Silnik turbowałowy czołgu Abrams jest zdolny do pracy na oleju napędowym, kerozynie, paliwie rakietowym JP-1, niskooktanowej benzynie a nawet na wysokoprocentowym alkoholu. Podobnie jak większość czołgów świata Abrams znacznie ustępuje zwrotnością czołgom rosyjskim/ukraińskim, szczególnie T-80U/T-84.
+
+Abrams może być przewożony przez samoloty C-5 Galaxy i C-17 Globemaster III. Ograniczona pojemność samolotów transportowych (jeden gotowy do walki czołg lub dwa przygotowane do transportu dla C-5 oraz jeden gotowy do walki dla C-17) była poważnym problemem logistycznym w trakcie operacji Desert Storm pomimo, iż wystarczyło czasu na przetransportowanie ponad 1 800 czołgów drogą morską. Iraccy wojskowi, którzy w momencie rozpoczęcia grupowania wojsk NATO w Arabii Saudyjskiej (które trwało prawie pół roku) posiadając znaczną przewagę mogli zaatakować i pokonać słabe jeszcze wojska NATO.
+
+Nadmienić należy, że iraccy wojskowi pewnie zdawali sobie sprawę z własnej początkowej przewagi w siłach lądowych, ale obecność w rejonie dwóch lotniskowców USS "Independence" (CV-62) i USS "Dwight D. Eisenhower" (CVN-69) powodowała, że jakiekolwiek działania z góry byłyby skazane na porażkę.
+
+M1 przewożony w konfiguracji transportowej wymaga tankowania, załadunku amunicji oraz montażu opancerzenia. M1 przewożony w konfiguracji "bojowej" pozwala od razu rozpocząć walkę.
+
+
+
+Linki zewnętrzne

@@ -1,0 +1,13 @@
+ASC Purple (Advanced Simulation and Computing Program's Purple) – superkomputer działający w Lawrence Livermore National Laboratory w latach 2005-2010. Został zbudowany razem z komputerem Blue Gene/L przez IBM w ramach kontraktu o wartości 230 milionów $. Osiągał wydajność 75,7 TFLOPS w testach LINPACK i w czerwcu 2006 znajdował się na 3 miejscu w rankingu najszybszych superkomputerów świata TOP500.
+
+Był zbudowany ze 12544 procesorów IBM POWER 5, umieszczonych w 196 szafach. Posiadał 50 terabajtów pamięci operacyjnej i 2 petabajty pamięci dyskowej.. Działał pod kontrolą systemu operacyjnego AIX. Zużywał 7,5 MW mocy.
+
+Jego głównym celem było przeprowadzanie symulowanych testów broni jądrowej w ramach programu Advanced Simulation and Computing prowadzonego przez Departament Energii Stanów Zjednoczonych i NNSA.
+
+Zobacz też
+ASCI Red
+ASCI White
+
+
+
+Linki zewnętrzne

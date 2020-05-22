@@ -1,0 +1,11 @@
+Utarg krańcowy – przyrost utargu osiągnięty ze wzrostu sprzedaży produktów w określonym czasie po stałej cenie.
+
+Utarg krańcowy jest zmianą utargu całkowitego (ΔUc), wynikająca ze wzrostu sprzedaży o jedną sztukę produktu (towaru) (Δp):
+
+
+Uk – utarg krańcowy
+ΔUc – zmiana utargu całkowitego
+Δp – suma wzrostu ilości sprzedanego towaru o jedną sztukę
+
+
+

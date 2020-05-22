@@ -1,0 +1,5 @@
+Odkryty atak w szachach to atak który pojawia się, kiedy jedna bierka odsłania drogę drugiej. Odkryty szach jest szczególną formą tego ataku (celem wówczas jest król). Odkryte ataki mogą być bardzo groźne, gdyż poruszająca się bierka może stworzyć zagrożenie niezależnie od tego, które stwarza bierka odsłaniana. Skuteczność tej taktyki polega na tym, że przeciwnik zwykle nie jest w stanie odeprzeć dwóch zagrożeń równocześnie.
+
+Na diagramie pokazany jest przykład odkrytego ataku, w wyniku którego białe zdobywają hetmana: '''1. Ge7+'''
+
+Bibliografia

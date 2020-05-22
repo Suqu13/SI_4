@@ -1,0 +1,24 @@
+Raduga Ch-28''' (kod NATO AS-9 Kyle, ozn. fabryczne izdielije 93'' oraz D8'') - sowiecki pocisk rakietowy klasy powietrze-ziemia. Pierwszy skonstruowany w ZSRR pocisk przeciwradarowy.
+
+W drugiej połowie lat 60. w ZSRR skonstruowano samolot bombowy Jak-28. Jednym z jego zadań miało być zwalczanie stacji radiolokacyjnych przy pomocy rakiet kierowanych naprowadzających się pasywnie na źródło promieniowania radiowego. Zadanie skonstruowania odpowiedniego pocisku otrzymało OKB Raduga. Ponieważ wcześniej projektowało ono wyłącznie skrzydlate rakiety dla lotnictwa strategicznego kierownictwo Radugi postanowiło ze nowy pocisk będzie miał przy mniejszych wymiarach konfigurację aerodynamiczną zbliżona do pocisków Ch-22 i KSR-5.
+
+Ch-28 była zbudowana w klasycznym układzie aerodynamicznym. Kadłub o przekroju kołowym był wyposażony w niewielkie skrzydła delta, w tylnej części kadłuba znajdowały się płytowe stery. Napęd zapewniał dwuzakresowy silnik rakietowy na paliwo ciekłe. Głowica bojowa burząca, montowana w kadłubie rakiety podczas przygotowywania do użycia, przed zatankowaniem paliwa i utleniacza. Prawdopodobnie istniała także głowica jądrowa przeznaczona dla Ch-28. Detonację głowicy powodował optyczny zapalnik zbliżeniowy.
+
+Istniały co najmniej trzy głowice samonaprowadzające przeznaczone do zwalczania radarów pracujących z różnymi częstotliwościami. Były one programowane przez pokładową aparaturę Filin, lub przenoszoną w zasobniku podwieszanym Mietiel. Aparatura Filin wykrywała źródła promieniowania radarowego w sektorze 60° przed samolotem i obrazowała je na wyświetlaczu w kabinie samolotu. Zasobnik Mietieł wykorzystywał jako sensor głowicę samonaprowadzającą pocisku i mógł lokalizować radary znajdujące się w sektorze 40° przed pociskiem.
+
+Po uchwyceniu celu i zbliżeniu się na odpowiednią odległość pocisk był zrzucany z belki PU-28S. Po oddaleniu się na bezpieczną odległość uruchamiał się silnik pocisku. Pocisk początkowo wznosił się , później nurkował w kierunku celu pod kątem ok. 40°. Jeśli atakowana stacja radiolokacyjna przerwała pracę pociski pierwszych serii kontynuowały lot po torze balistycznym, później pociski wyposażano w zmodernizowaną głowicę która po zaniku sygnału kierowała pocisk w kierunku celu na podstawie zapamiętanych koordynat, jednocześnie sprawdzając czy cel nie zmienił częstotliwości nadawania.
+
+Produkcję Ch-28 rozpoczęto w 1971 roku. pomimo pierwotnych planów nigdy nie została zintegrowana z systemem uzbrojenia samolotu Jak-28. była za to przenoszona przez samoloty Su-24 (wyposażony w aparaturę Filin), oraz Su-7B, Su-17 i Tu-22M (razem z zasobnikiem Mietieł). Obecnie Ch-28 została wycofana z uzbrojenia lotnictwa rosyjskiego. Zastąpiła ją rakieta Raduga Ch-58.
+
+Poza ZSRR Ch-28 był eksportowany do Iraku i Wietnamu, a prawdopodobnie także do Syrii, Jemenu, Libii i Peru. Ch-28 został użyty bojowo przez lotnictwo irackie podczas wojny iracko-irańskiej. Efektów ataków na radiolokatory irańskich baterii rakiet MIM-23 Hawk nie ujawniono.
+
+Dane taktyczno-techniczne
+Masa: 720 kg
+Masa głowicy bojowej: 160 kg
+Długość: 5,97 m
+Średnica kadłuba: 0,43 m
+Rozpiętość: 1,93 m
+Prędkość: 3500 km/h
+Zasięg: ok. 120 km
+
+Bibliografia

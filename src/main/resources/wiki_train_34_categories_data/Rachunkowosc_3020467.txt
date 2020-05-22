@@ -1,0 +1,24 @@
+Indykcja (łac.: indictio, gr.: ‏Ινδικτιών) – pierwotnie podatek w naturze, od IV wieku piętnastoletni okres podatkowy, stosowany w średniowiecznej Europie do datowania dokumentów.
+
+W okresie Republiki Rzymskiej termin indictio pojawia się rzadko, przywołuje go Askoniusz Pedianus w komentarzu do mowy Cycerona In Verrem, mówiąc o rekwizycji zboża z Sycylii. Reforma podatkowa przeprowadzona pod koniec III wieku ustaliła pobór podatków od majątku i dochodów. Status podatkowy miał podlegać okresowej aktualizacji. Początkowo następowała on w okresach pięcioletnich: 297-302, 302-307, 307-312. Od 312 roku został wprowadzony 15 letni okres aktualizacji podstawy opodatkowania. Od tego czasu termin indictio był używany nie na oznaczenie podatku lecz tego piętnastoletniego okresu podatkowego. Z rozkazu cesarza Konstantyna I od 312 roku, żeby dokument był ważny musiał być na nim umieszczony rok indykcji, to jest kolejny numer roku w cyklu. System ten stopniowo wyparł oznaczanie dokumentów imieniem konsula sprawującego urząd w danym roku.
+
+Indykcje nie były sumowane. Jeśli w dokumencie wymieniano ósmą indykcję, wskazywało to na ósmy rok (rozpoczynający się 1 września) danego cyklu, a nie na ósmy cykl. Na typowym dla Bizantyńczyków epitafium nagrobnym można przeczytać: Sługa Boży Teodor, zmarł trzynastego dnia miesiąca sierpnia, w niedzielę, w trzynastą indykcję. Oznacza to, że zmarł w trzynastym roku danej indykcji. Nie sposób jednak ustalić przy tym sposobie datowania, który to był cykl indykcji i który rok według narastającej rachuby lat. Jan Moschos w Łące duchowej opowiada, że spotkał u podnóża Amanu w Cylicji dwóch mężczyzn, którzy widzieli przed laty płonący nocą, na szczycie góry, ogień. W dzień niczego nie mogli odnaleźć, ale nocą ogień płonął przez trzy miesiące. Odważyli się tam w końcu pójść nocą i znaleźli w jaskini ciało anachorety z Biblią w ręku. Na leżącej obok tabliczce było napisane: Ja, pokorny Jan, zmarłem w piętnastą indykcję. Wówczas zaczęli liczyć lata i stwierdzili, zdumieni, że od śmierci pustelnika upłynęło już siedem lat, a wygląda jakby dopiero co umarł.
+
+O rosnącym znaczeniu indykcji w życiu Bizantyńczyków świadczy fakt, że w I połowie VII wieku anonimowy autor Kroniki Wielkanocnej uzgodnił rachubę czasu z cyklem indykcji, przesuwając datę stworzenia świata, od którego w Cesarstwie Bizantyńskim liczono lata, na rok zgodny z pierwszym rokiem indykcji. Pierwszy rok przyjętej w ten sposób ery bizantyńskiej (5509 przed Chr.), był jednocześnie pierwszym rokiem indykcji. Pozwalało to w prosty sposób obliczać lata kolejnych indykcji. Wystarczyło bieżący rok podzielić przez piętnaście. Reszta z dzielenia oznaczała dany rok indykcji. Jeśli liczba oznaczająca dany rok dzieliła się bez reszty, oznaczało to, że rok ten wypada w roku piętnastej indykcji.
+
+5820 r. ery bizantyńskiej (311 po Chr.): 15 daje 388 (bez reszty), co oznacza, że był to rok piętnastej indykcji
+
+6199 r. ery bizantyńskiej (691 po Chr.): 15 daje 414 reszty 4, co oznacza, że był to rok czwartej indykcji
+
+Na początku IX stulecia Teofan Wyznawca sporządził tablicę chronologiczną z wymienionymi równolegle datami: rokiem od narodzenia Chrystusa, kolejnym rokiem panowania cesarza bizantyńskiego, władcy perskiego, kalifa arabskiego, pontyfikatu papieża i czterech patriarchów (Konstantynopola, Jerozolimy, Aleksandrii i Antiochii), jednocześnie zaznaczał początek każdej indykcji, choć nie numerował jej kolejnych lat.
+
+Cyklem indykcji posłużył się J. Scaliger dla określenia daty początkowej swojej ery.
+
+Przypisy
+
+
+Bibliografia
+Patrologia Graeca, wyd. J. P. Migne, Paryż, 1857-1866
+Paul Petit, Histoire générale de l’Empire romain, Seuil, 1974, ISBN:2020026775
+Roger Remondon, La crise de l’Empire romain, PUF, collection Nouvelle Clio – l’histoire et ses problèmes, Paryż, 1964
+Bronisław Włodarski Chronologia polska (1957, redakcja pracy zbiorowej, reprint 2007)

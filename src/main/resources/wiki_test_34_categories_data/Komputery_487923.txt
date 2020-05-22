@@ -1,0 +1,28 @@
+
+
+
+Ultra-Mobile PC (dawniej znane pod nazwą kodową Origami Project) – platforma sprzętowa, opracowana przez firmy Microsoft i Intel. Miała ona konkurować z palmtopami, lecz nie odniosła sukcesu ze względu na późniejsze upowszechnienie się tabletów. Pierwsze prototypy zostały pokazane na targach CeBit 2006 w Hanowerze.
+
+Firmy Microsoft, Intel, Samsung, ASUS i ECS wspólnie opracowały nowy typ komputerów Ultra-Mobile PC. Projekt znany dotychczas pod nazwą "Origami Project" zakładał stworzenie przenośnego komputera typu tablet PC o bardzo niewielkich wymiarach i wydłużonym czasie pracy na baterii.
+
+Origami jest urządzeniem mniejszym niż standardowe laptopy, ale większym niż palmtopy. Pracuje pod kontrolą systemu zbudowanego na podstawie Windows XP. Obsługuje GPS i standardy komunikacji bezprzewodowej takie jak Bluetooth, Wi-Fi i telefonię komórkową trzeciej generacji.
+
+UMPC miały zapełnić lukę dzielącą palmtopy i komputery typu notebook. To przenośne urządzenie o wadze poniżej 1 kg wyposażono w dotykowy ekran i notebookowe komponenty. Pierwsze urządzenia pracuja pod kontrolą systemu Windows XP Tablet PC Edition 2005]. W późniejszych wersjach wykorzystano systemy Windows XP i Vista w wersjach na PC, włącznie z aplikacjami napisanymi dla komputerów stacjonarnych.
+
+UMPC to urządzenie wyposażone w dotykowy, 7-calowy ekran o rozdzielczości 800x480 i najczęściej pozbawiony klawiatury. Jego sercem jest niskonapięciowy procesor Intel Celeron M lub Intel Pentium M o zegarze 900-1000 MHz. Można do niego podłączyć szereg urządzeń peryferyjnych, tak jak do zwykłego domowego PC. Poza tym urządzenia Origami porozumiewają się bezprzewodowo, co umożliwia wymianę danych, interakcję, grę w gry sieciowe.
+
+Urządzenie ewoluowało w kierunku urządzeń MID 
+
+Komputery MID (Mobile Internet Device) to nowe określenie dla urządzeń tworzonych w oparciu o platformę Intel Centrino Atom, zwykle w oparciu o dystrybucje Linuksa, jednak są wyjątki od powyższej reguły (Aigo P8888W, Gigabyte M528, Viliv S5 Premium Air MID)
+
+MID jest przenośnym komputerem kieszonkowym pozwalającym na mobilny dostęp do internetu. Nierzadko wyposażony jest w modem internetowy HSDPA pozwalający na dostęp do internetu dzięki operatorom telefonii komórkowej.
+
+Zobacz też
+Classmate PC
+Eee PC
+XO-1 (stworzony w ramach inicjatywy One Laptop Per Child)
+VIA Nano
+
+ 
+
+

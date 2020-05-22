@@ -1,0 +1,7 @@
+Serwer dedykowany (wydzielony)''' - oddzielny komputer pełniący rolę serwera dla jednego, określonego usługobiorcy, oferowany przez firmy hostingowe. Na takim serwerze klient może instalować oprogramowanie oraz dowolnie konfigurować domyślnie zainstalowany i skonfigurowany system operacyjny. Taki typ serwerów wykupują głównie firmy oferujące usługi internetowe, np. poczta, serwery, strony www, radia internetowe, TV internetowe, czat i dowolne inne aplikacje, hosting.
+
+Serwery dedykowane zarządzane są głównie przez klientów firm hostingowych poprzez protokół SSH, jeśli na serwerze zainstalowany jest system Linux lub pulpit zdalny, jeśli zainstalowany jest Windows, pośrednicy dużych serwerowni często dodają w pakiecie monitoring lub zarządzanie serwerem w przypadku awarii systemu w zamian za wyższą cenę usługi.
+
+
+
+

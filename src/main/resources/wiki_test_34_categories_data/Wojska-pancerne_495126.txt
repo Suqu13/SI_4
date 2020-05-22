@@ -1,0 +1,44 @@
+Pz. 68''' – szwajcarski czołg podstawowy II generacji skonstruowany w drugiej połowie lat 60. XX wieku, zmodernizowana wersja czołgu Pz. 61.
+
+Historia
+W 1965 roku w rozpoczęto produkcje pierwszego zaprojektowanego w Szwajcarii czołgu - Pz. 61. Jednocześnie trwały dalsze prace nad rozwojem tej konstrukcji. W 1968 roku powstał prototyp udoskonalonego czołgu wprowadzonego do uzbrojenia jako Panzer 68 (Pz. 68). Największe zmiany zaszły w uzbrojeniu czołgu. Wyposażono je w system stabilizacji, a sprzężoną z armatą czołgową armatę automatyczną kalibru 20 mm zastąpiono czkm Mg. 51. Po lewej stronie wieży pojawił się mały luk służący do uzupełniania amunicji, podczas walki do usuwania z przedziału bojowego łusek wystrzelonych naboi. Czołg przystosowano także do pokonywania przeszkód wodnych po dnie. Wprowadzone zmiany spowodowały zwiększenie masy czołgu. Dlatego zwiększono moc silnika i zastosowano szersze gąsienice. Nie wszystkie zmiany zostały wprowadzone jednocześnie, dlatego wozy czterech wyprodukowanych serii różnią się od siebie.
+
+W 1988 roku rozpoczęto program modernizacji czołgu Pz. 61. W jego ramach wóz wyposażono w system kierowania ogniem, stabilizowany celownik działonowego, oraz układ ochrony przed bronią masowego rażenia. Stalowe zbiorniki paliwa zastąpiono lżejszymi wykonanymi z tworzywa sztucznego, wahacze kół wyposażono w hydrauliczne ograniczniki ugięcia. Zmodernizowane czołgi oznaczono Pz. 68/88.
+
+Planowanym następca miał zostać zaprojektowany na przełomie lat 70. i 80. szwajcarski czołg NKPz. Z powodu kosztów została nim produkowana w Szwajcarii licencyjna wersja Leoparda 2 oznaczona jako Pz. 87 Leo.
+
+Podwozie czołgu Pz. 68 wykorzystano do budowy mostów czołgowych BrüPz 68 i wozów zabezpieczenia technicznego EntpPz 65.
+
+Opis
+Panzer 68 jest czołgiem podstawowym II generacji. Załogę czołgu tworzy dowódca, działonowy, ładowniczy i mechanik-kierowca. Kierowca zajmuje miejsce w kadłubie, reszta załogi w wieży.
+
+Kadłub Pz. 68 jest wykonany ze w postaci jednoczęściowego odlewu. Grubość pancerza przedniego jest niewielka co skutkuje niską odpornością na pociski przeciwpancerne..
+
+W przedniej części kadłuba znajdują się przedziały kierowania, środkowej przedział bojowy z  wieżą, a w tylnej przedział napędowy. W dnie kadłuba znajduje się właz ewakuacyjny.
+
+W przedziale kierowania stanowiska ma mechanik-kierowca. jego stanowisko znajduje się w osi podłużnej pojazdu. Jego właz jest otwierany przez odchylenie do tyłu pojazdu. Z tego powodu może on mieć kłopot z opuszczeniem wozu kiedy armata znajduje się w pozycji 0 (jej lufa znajduje się wtedy nad włazem). Kierowca obserwuje teren za pomocą trzech peryskopów.
+
+Wieża pancerna ma postać jednorodnego odlewu.  Opancerzenie wieży podobnie jak kadłuba jest stosunkowo cienkie. Po jej prawej stronie znajduje się stanowisko działonowego (z przodu) i dowódcy, po lewej ładowniczego. W tylnej części wieży znajdują się wyrzutnie granatów oświetlających LARAN.
+
+Dowódca dysponuje obserwuje teren przy pomocy ośmiu peryskopów umieszczonych w wieżyczce dowódcy. Dodatkowo do jego obowiązków należy pomiar odległości do celu przy pomocy dalmierza optycznego. Właz dowódcy znajduje się na szczycie jego wieżyczki i jest jednoczęściowy.
+
+Działonowy dysponuje celownikiem o powiększeniach 8 i 2,4x. 
+
+Ładowniczy ma własną wieżyczkę obserwacyjną (wyższą od wieżyczki dowódcy) wyposażoną w sześć peryskopów. Właz ładowniczego znajduje się na wierzchu wieżyczki i ma dwie odchylane na boki pokrywy. Na wieżyczce ładowniczego montowany jest przeciwlotniczy karabin maszynowy Mg. 51.
+
+W wieży znajduje się zasadnicze uzbrojenie wozu: 105 mm armata Pz Kan 61 (licencyjna wersja brytyjskiej armaty L7). Lufa armaty wyposażona jest w  przedmuchiwacz usuwający gazy prochowe po wystrzale. Obok armaty umieszczone jest czkm Mg. 51 kalibru 7,5 mm. Uzbrojenie jest stabilizowane.
+
+Napęd Pz. 68 stanowi czterosuwowy, wysokoprężny, chłodzony cieczą silnik MTU MB837''. Moc silnika wynosi 490&nbsp;kW. Dodatkowy silnik napędza generator prądotwórczy. Napęd od silnika głównego jest przekazywany do kół napędowych za pośrednictwem układu napędowego SLM którego głównym elementem jest przekładnia hydrostatyczna. Układ napędowy umożliwia jazdę na sześciu biegach do przodu i dwóch do tyłu.
+ 
+Panzer 68 posiada zawieszenie niezależne na sprężynach talerzowych. Maksymalne ugięcie zawieszenia wynosi 200 mm. Wóz posiada 12 kół jezdnych. Napęd z silnika jest przekazywany na znajdujące się w tylnej części pojazdu koła napędowe. Z przodu pojazdu znajdują się koła napinające. Koła jezdne są kołami podwójnymi. Górny bieg gąsienicy odbywa się po trzech rolkach podtrzymujących.
+
+
+
+File:Fliegerabwehrpanzer 68 SPAAG pic03-1.JPG|35 mm Flab Panzer B22L
+File:Panzerkanone 68 seite.JPG|Panzerkanone 68
+File:Brü Pz 68-88 - Schweizer Armee - Steel Parade 2006.jpg|Brückenpanzer 68
+File:Entpannungspanzer65.jpg|Entpannungspanzer65
+File:Zielpanzer 68.JPG |Zielpanzer 68
+
+
+Bibliografia

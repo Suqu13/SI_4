@@ -1,0 +1,23 @@
+
+Odra 1002''' to prototyp lampowo-tranzystorowego komputera  wykonany w Zakładach Elektronicznych Elwro w 1962.
+
+Była rozwinięciem Odry 1001, ale nie uzyskała zadowalającej niezawodności i nie weszła do produkcji. Wykonana została tylko w jednym egzemplarzu.
+
+Dane techniczne
+36 bitowe słowo maszynowe
+pamięć operacyjna: bębnowa
+pojemność pamięci: 4096 słowa maszynowe
+urządzenia we-wy:
+czytnik taśmy perforowanej
+perforator taśmy
+dalekopis
+szybkość: 800 dodawań na sekundę.
+
+Zachowana
+Muzeum Techniki w Warszawie.
+
+
+
+
+
+

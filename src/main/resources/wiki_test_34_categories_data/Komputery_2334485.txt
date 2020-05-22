@@ -1,0 +1,16 @@
+
+K computer – superkomputer o mocy obliczeniowej 10,51 PFLOPS, wyprodukowany przez Fujitsu w 2011 roku i zainstalowany w Riken w Kobe w Japonii. Jego nazwa pochodzi od japońskiego słowa Kei, oznaczającego liczbę 1016. Od czerwca 2011 do czerwca 2012 był najszybszym superkomputerem na świecie. W czerwcu 2012 został prześcignięty przez zainstalowany w USA komputer Sequoia.
+
+Historia wydajności
+Pierwsza wersja K computera, zaprezentowana w czerwcu 2011, osiągnęła moc obliczeniową 8,162 PFLOPS przy efektywności 93% i znalazła się na pierwszym miejscu listy najpotężniejszych superkomputerów TOP500, prześcigając wcześniejszego rekordzistę Tianhe-I o mocy 2,507 PFLOPS. Zawierała 68544 ośmiordzeniowe procesory SPARC64 VIIIfx, co dawało w sumie 548352 rdzenie. Do listopada 2011 rozbudowano ją do 88128 procesorów (705024 rdzeni), co pozwoliło zwiększyć moc obliczeniową do 10,51 PFLOPS.
+
+Budowa
+K computer zbudowany jest z ośmiordzeniowych procesorów SPARC64 VIIIfx, wykonanych w technologii 45 nanometrów. Węzły superkomputera połączone są siecią tworzącą wirtualny sześciowymiarowy torus, co umożliwia efektywną komunikację między oddalonymi węzłami oraz izolowanie wadliwie pracujących węzłów. Jest chłodzony cieczą, aby zminimalizować zużycie enegii i awaryjność. Zużywa 12,6 MW mocy.
+
+
+
+Linki zewnętrzne
+(ang.)
+(ang.)
+
+

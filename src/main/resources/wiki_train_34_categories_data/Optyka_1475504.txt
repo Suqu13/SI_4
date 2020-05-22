@@ -1,0 +1,23 @@
+Scyntylacja (termin zwykle używany w liczbie mnogiej: scyntylacje) – zjawisko powstawania błysku świetlnego w wyniku przechodzenia  promieniowania jonizującego przez niektóre substancje. Jest powodowane absorpcją części energii promieniowania i jej emisją na skutek luminescencji (fluorescencji lub fosforescencji). Zjawisko to można obserwować gołym okiem.
+Substancje, w których mogą zachodzić scyntylacje, nazywają się scyntylatorami. Praktyczne znaczenie mają scyntylatory charakteryzujące się krótkim czasem rozbłysku (w przypadku fluorescencji) rzędu 10-5&nbsp;÷10-9&nbsp;s. Znalazły one zastosowanie w licznikach scyntylacyjnych.
+
+Mechanizm powstawania scyntylacji
+Energia, którą przejmuje od promieniowania pojedynczy elektron, jest zwykle dużo większa od energii fotonu światła widzialnego. Dlatego w przypadku scyntylacji istotną rolę odgrywają procesy powodujące zmniejszenie energii emitowanych fotonów. Mechanizm tego zjawiska zależy od rodzaju scyntylatora. 
+
+Kryształy nieorganiczne
+Elektrony, po zaabsorbowaniu energii promieniowania, przechodzą do pasma przewodnictwa. Następnie poprzez lokalne poziomy w paśmie wzbronionym powracają do pasma podstawowego emitując światło. Lokalne poziomy energetyczne w przerwie energetycznej, nieistniejące w czystym i idealnym krysztale, powstają dzięki aktywatorom (zanieczyszczeniom sieci krystalicznej). Przykładem kryształu, w którym zachodzi taki proces, jest siarczek cynku aktywowany srebrem ZnS(Ag).
+
+Scyntylatory organiczne
+W substancjach organicznych nie ma wyraźnych pasm energetycznych elektronów, natomiast, na skutek absorpcji promieniowania, całe cząsteczki mogą przechodzić do stanu wzbudzonego. Następnie część energii wzbudzenia oddawana jest w postaci ciepła, a w końcu kwant światła emitowany jest przy powrocie do stanu podstawowego. Mechanizm ten dotyczy zarówno kryształów organicznych takich jak np. antracen, jak i roztworów tych kryształów w amorficznych tworzywach sztucznych.
+
+Scyntylatory gazowe ===  
+Proces odbywa się poprzez wzbudzenie lub jonizację atomów (lub cząsteczek) gazu. Poziomy energetyczne elektronów są tutaj dobrze określone. Emisja fotonów następuje podczas rekombinacji jonów i przechodzenia atomów do stanu podstawowego poprzez poziomy pośrednie.
+
+Zobacz też
+zmęczenie kryształów
+
+Bibliografia
+Jerzy M. Massalski, Detekcja promieniowania jądrowego, Państwowe Wydawnictwo Naukowe, 1959
+
+
+

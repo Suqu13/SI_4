@@ -1,0 +1,15 @@
+Fragile Allegiance – gra komputerowa z rodzaju RTS, przeznaczona dla systemów operacyjnych MS-DOS i Windows 95. Jej producentem była nieistniejąca już firma Gremlin Interactive. Silnik graficzny gry realizował pełną animację jej przebiegu w czasie rzeczywistym. Gra była powrotnym sequelem gry K240 na Amigę, wydanym w nowej formie na platformę PC.
+
+Scenariusz
+Gracz podejmuje się prowadzenia kolonizacji bogatych w rudy cennych surowców asteroid, w odległym i niezbadanym jeszcze rejonie kosmosu. Pracuje dla Ziemian, a dokładniej dla korporacji TetraCorp. Oprócz Ziemian, tereny te eksploruje także sześć innych kultur. Z pięcioma z nich można prowadzić negocjacje dyplomatyczne, gdyż podobnie jak Ziemianie należą do Federacji. Z agresywną cywilizacją Mauna można jedynie walczyć, gdyż nie należy do Federacji i nie posiada ambasadora.
+
+Warunki początkowe
+Na początku gry gracz dysponuje jednym statkiem transportowym, zdolnym do założenia kolonii na asteroidzie. Ma także bazę na jednym asteroidzie, umożliwiającą przeżycie załogi do czasu budowy potrzebnych konstrukcji i urządzeń, oraz dysponuje kwotą miliona "kredytów". Pozwala ona na kolonizację kilku asteroid, budowę najpotrzebniejszych urządzeń i zakup planów ich bardziej zaawansowanych technologicznie odpowiedników. Dalsze środki zdobywa się przez sprzedaż Federacji wydobytej rudy, lub handel z innymi cywilizacjami.
+
+Cele gry
+Celem gry jest kolonizacja jak największej liczby asteroid i wydobycie jak największej ilości rud. Można kolonizować puste, nie penetrowane przez inne cywilizacje asteroidy, lub stosować zbrojny podbój. Co prawda gra jest typu "open-end", jednakże rozgrywka kończy się automatycznie, jeśli grający wyeliminuje z obszaru gry wszystkie obce cywilizacje.
+
+
+
+
+

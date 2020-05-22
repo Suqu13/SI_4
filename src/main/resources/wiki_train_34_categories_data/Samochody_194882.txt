@@ -1,0 +1,9 @@
+
+
+Test łosia – test, który muszą przejść i zaliczyć wszystkie nowe samochody zanim zostaną wprowadzone na rynek. Polega na przejechaniu samochodem slalomu pomiędzy słupkami z odpowiednią prędkością. Służy do testowania stabilności pojazdu podczas wykonywania gwałtownych manewrów.
+
+Nazwa wzięła się od łosi często pojawiających się na drogach Szwecji. W takich okolicznościach gwałtowne hamowanie i skręt na sąsiedni pas drogi jest jedynym ratunkiem.
+
+W testach zderzeniowych również często stosowany jest łoś w formie manekina o wymiarach i masie zbliżonych do prawdziwego zwierzęcia.
+
+

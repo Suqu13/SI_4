@@ -1,0 +1,81 @@
+Programista gier – inżynier oprogramowania tworzący gry komputerowe lub podobne programy. Dość często taki człowiek zna techniki projektowania gier; wielu projektantów jest programistami, lecz rzadko w profesjonalnych zespołach zdarza się, aby jednocześnie projektowaniem i programowaniem zajmowała się jedna osoba.
+
+Historia
+W początkach gier komputerowych, programista gier był jednocześnie projektantem oraz artystą. Było to spowodowane małą ilością specjalistów z dziedziny tworzenia gier oraz prostą konstrukcją ówczesnych komputerów dzięki czemu gry od samego początku do końca mogły być tworzone przez pojedyncze osoby. Gry wtedy były dość proste, a artystyczne wizualizacje na komputerze były ograniczane przez niewielkie możliwości komputerów.
+
+Później, gdy domowe komputery stawały się coraz lepsze, twórcy gier mogli puścić wodze wyobraźni i pozwolić sobie na bardziej szczegółową grafikę (gry 2D zaczęły przechodzić w świat 3D), bardziej skomplikowaną fabułę gier czy użycie nowych bardziej skomplikowanych elementów takich jak symulacji fizyki czy sztucznej inteligencji.
+
+Wraz ze wzrostem złożoności gier i ilości wymaganej pracy, pojawiło się zapotrzebowanie na programistów którzy specjalizują się w wąskich dziedzinach. Stąd, produkcja gier stała się zespołowa. Teraz, tylko małe gry są tworzone przez jednego człowieka.
+
+Specjalizacje programistów
+We współczesnej grze komputerowej można znaleźć wiele specjalizowanych zagadnień takich jak zaawansowana symulacja fizyki, sztuczna inteligencja, grafika trójwymiarowa, trójwymiarowy dźwięk, obsługa baz danych itp. Przy tworzeniu bardziej zaawansowanych gier, zatrudnianych jest od kilku do kilkunastu programistów zajmujących się każdą z tych dziedzin.
+
+Programista fizyki
+Ten człowiek zajmuje się symulacją fizyki w szeroko pojętym znaczeniu. Od jego umiejętności zależy jak bardzo naturalnie obiekty zachowują się w grze. Symulacja fizyki odpowiada za to czy obiekty zderzają się ze sobą, odbijają się od siebie, rozpadają na mniejsze kawałki itd. Najwięcej przykładów zastosowań symulacji fizyki widać w grach wyścigowych, strzelaninach itp.
+
+Niektórzy programiści fizyki współpracują także przy tworzeniu części fizycznej silnika gry. W innych przypadkach – gdy silnik gry nie ma modułu fizycznego – programista fizyki oblicza zależności fizyczne "ręcznie" lub załącza jeden z dostępnych modułów w internecie (np. Newton).
+
+Ostatnio – co raczej ma nie małe znaczenie dla programistów fizyki – pojawiła się karta licząca wszystkie wyliczenia fizyczne odciążając jednocześnie procesor i/lub kartę graficzną
+
+Programista sztucznej inteligencji
+Programista AI zajmuje się programowaniem wszystkich mechanizmów sztucznej inteligencji (o ile nie wyręcza go w tym silnik gry). W pojęciu mechanizmów sztucznej inteligencji w grze są wszelkie algorytmy wyszukujące drogi (np. gdy wskażemy w grze miejsce, do którego ma dotrzeć jednostka) oraz taktyki przeciwników w trybie gry jednoosobowej.
+
+Głównym zajęciem programistów sztucznej inteligencji jest wyposażenie komputera w sztuczną inteligencję, a więc sprawienie pojawienia się złudzenia grania z przeciwnikiem z "krwi i kości". Często AI w grach jest oprogramowana za pomocą specjalnych skryptów, do których ma dostęp każdy gracz i które może zawsze zmieniać.
+
+Światową sławę z powodu (także) programistów sztucznej inteligencji zdobyło studio CryTek, które zadziwiło wszystkich algorytmami AI w grze Far Cry. Również w serii Civilizations po wielu latach programistom udało się stworzyć dobry skrypt AI komputera.
+
+Programista grafiki
+Dawniej tak tytułował się człowiek specjalizujący się w algorytmach wyświetlania grafiki i ich optymalizacjach. Gdy komputery się rozwinęły, pojawiła się grafika 3D i większość programistów grafiki stało się właśnie programistami grafiki 3D obsługującymi różne renderery i inne tego typu rzeczy.
+
+Programista grafiki 3D musi znać w zaawansowanym stopniu matematykę, a więc wektory, macierze, kwaterniony, wyrażenia algebraiczne potrzebne do grafiki, itp.
+
+Programista dźwięku
+Programiści dźwięku są obecni w zespołach deweloperskich już od czasów pierwszych gier np. Ponga. Prawie wszystkie gry posiadają muzykę i/lub dźwięki.
+
+Niektóre gry używają zaawansowanej mechaniki (np. dźwięk 3D), lub inne, proste dźwięki Ciekawymi mechanizmami jest także włączanie muzyki grozy, gdy bohater będzie w niebezpieczeństwie, lub wesołej muzyczki, gdy będzie z kimś rozmawiał – lecz to wymaga już współpracy programistów gry oraz programistów dźwięku.
+
+Programiści dźwięku mają szeroki wybór, bo wybierają między aż czterema bibliotekami: OpenAL, FMOD, BASS i DirectSound. Każda z nich ma inną strukturę, jedna lepiej się nadaje do pewnych zastosowań lecz do innych już nie. Po prostu wybór zależy od ogólnego charakteru gry.
+
+Programista mechaniki gry
+Programista ten zajmuje się mechaniką gry odpowiadającą za przyjemną zabawę graczy. Implementuje całą grę od strony jej mechaniki oraz dopasowuje wszelkie parametry odpowiedzialne za przebieg rozgrywki. Programista mechaniki gry często mechanikę umieszcza w skryptach stworzonych przez programistę skryptów.
+
+Programista skryptu
+W pierwszych grach komputerowych całą mechanikę gry, dialogi, itp. pisano wprost w kodzie źródłowym. Sprzeczne to było z prawidłami programowania, które mówiły, że "dane od logiki oddzielone winny być". Właśnie dlatego powstała taka specjalizacja jak programista skryptu. Poza tym w skryptach zazwyczaj się szybciej i czytelniej pisze niż w długaśnym kodzie skompilowanej gry pełnej różnych mechanizmów.
+
+Najpierw zajmuje się on stworzeniem całej składni skryptu używanej przez grę, następnie konstruuje interpretator (program, który tłumaczy skrypt na język programowania) po czym "uczy" programistę gry co i jak w tym działa.
+
+Programista interfejsu
+Ten człowiek zajmuje się interfejsem użytkownika, czyli projektem menu, reakcjami na wciśnięte klawisze, ruch myszki w danym kierunku i inne. Najwięcej programistów interfejsów zajmuje się grafiką 2D. Dość często interfejs użytkownika jest oprogramowany właśnie za pomocą języka skryptowego.
+
+Programista sieci
+Programista sieci coraz częściej gości w zespołach z powodu coraz większej liczby gier z trybem multiplayer. Taki programista pisze cały kod wysyłania i odbierania danych przez serwer za pomocą sieci LAN lub internetu. Jego zadaniem jest także zoptymalizowanie algorytmów, tak aby nie wystąpiły przerwania w połączeniach (lagi) czy zbytnie spowolnienie gry.
+
+Programista narzędzi
+Jednym z mniej rozpoznawalnych członków zespołu twórców jest programista narzędzi. Narzędzia to programy, które używane są do takich zadań jak pisanie skryptów, import/konwersja zasobów graficznych, tworzenie efektów specjalnych czy budowanie całych poziomów.
+Niektóre narzędzia dodawane są do pełnej wersji gry, ale większość pozostaje jedynie w wewnętrznym użytku firmy. Od ich jakości zależy komfort pracy pozostałych członków zespołu. Jednak ze względu na ograniczenia czasowe większość narzędzi robiona jest niedbale i bez jakiejkolwiek dokumentacji.
+
+Programista portowania
+Portowanie to inaczej przenoszenie gry na inną platformę, a więc tacy programiści zajmują się przenoszeniem gier, np. z konsoli na PC czy z Windowsa na Linuksa. Głównym jego zadaniem jest skonwertowanie i dostosowanie całego kodu dla nowego miejsca działania gry. Czasem, programiści portowania muszą napisać praktycznie od nowa grę – np. gdy gra portowana jest na komórkę.
+
+Przed rozpoczęciem programowania gry wybór języka programowania zależy właśnie od tego czy gra będzie portowana, lecz najczęściej jest wybierany C++ – z tego powodu, że można go łatwo portować, jak i jest bardzo zoptymalizowany i szybki. A jeśli już nie C++ (np. z powodu umiejętności zespołu), to wtedy wybierana jest równie dobra, choć mniej popularna Java.
+
+Platformy
+Coraz więcej programistów odchodzi od PC na rzecz innych platform czyli Xbox, PlayStation czy Wii. Doprowadza to do tego, że przed (lub po nazwie) nazwą programisty znajduje się nazwa platformy, w której programowaniu się specjalizuje, np. "Programista grafiki PlayStation".
+
+W sensie platformy można też rozumieć system operacyjny w maszynie typu PC. Gry robi się głównie na Windows, lecz coraz częściej pojawiają się gry komercyjne na Linuksie.
+
+Wynagrodzenie
+Pensja programisty gier zależy od firmy, w której pracuje oraz kraju, w którym firma się znajduje. Generalnie, zyski z programowania gier są porównywalne z zyskami z sektora biznesu. Programowanie gier wymaga jednak wielu długich godzin pracy. Wielu programistów gier poświęca się dla programowania gier i znajduje w tym sens życia, wielką pasję.
+
+Programiści gier
+John Carmack: programista, który stworzył Quake czy Doom, zoptymalizował algorytmy graficzne
+Eric Chahi: utworzył grę Another World, która jako pierwsza wykorzystywała w swojej grafice wektory
+Sid Meier: stworzył pierwszą część znanej gry Civilization
+Chris Sawyer: programista wielu gier typu tycoon
+Tim Sweeney: stworzył Unreal Engine
+Will Wright: programista gier z Sim w nazwie
+
+
+
+
+

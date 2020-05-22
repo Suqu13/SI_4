@@ -1,0 +1,36 @@
+Astat (At, łac. astatinum) – promieniotwórczy pierwiastek chemiczny z grupy fluorowców.
+
+Historia odkrycia
+Istnienie astatu zostało przewidziane przez Mendelejewa, który nazwał pierwiastek "eka-jodem". Ponieważ układ okresowy pierwiastków był znany od dawna, uczeni starali się zapełnić lukę w grupie 17, poszukując fluorowca następującego po jodzie. Pierwiastek po raz pierwszy otrzymali Dale Corson, Kenneth MacKenzie i Emilio Segré w Berkeley w 1940 roku. Bombardowali oni 209Bi cząstkami alfa. Metodą tą wytwarza się astat również obecnie. Nazwa pierwiastka pochodzi od greckiego astatos, co znaczy nietrwały.
+
+Właściwości
+Ze względu na krótkie czasy życia izotopów astatu (czas połowicznego rozpadu najtrwalszego izotopu to niewiele ponad 8 godzin), wiele właściwości pierwiastka pozostaje bliżej niezbadanych. Wiadomo jednak, że jest on łatwo lotny i rozpuszcza się w niektórych substancjach organicznych. Właściwości astatu zbadane w spektrometrach mas są zbliżone do właściwości pozostałych halogenów, zwłaszcza jodu, przy czym astat wykazuje więcej właściwości metalicznych. Badania teoretyczne sugerują, że (w odróżnieniu od pozostałych fluorowców) pod ciśnieniem atmosferycznym, w fazie skondensowanej, może on być metalem.
+
+Astat najprawdopodobniej reaguje z wodorem, tworząc astatowodór (HAt), który po uwodnieniu daje kwas astatowodorowy. Reaguje też najpewniej z litowcami, tworząc sole oparte na wiązaniu jonowym, z których może być wyparty przez inne, bardziej reaktywne fluorowce. Potencjał jonizacyjny astatu został dokładnie zmierzony dopiero w 2013 roku, okazał się równy 9,31751 eV.
+
+W roztworach astat występuje w postaci jonów: AtO+, AtO−, AtO2− i AtO3−.
+
+Otrzymywanie
+Astat do badań laboratoryjnych jest otrzymywany poprzez bombardowanie bizmutu-209 cząstkami alfa, czyli jądrami helu. W zależności od energii cząstek, otrzymywane są relatywnie najtrwalsze izotopy 209At – 211At:
+
+dla cząstek alfa o energii 26 MeV
+
+dla cząstek alfa o energii 40 MeV
+
+dla cząstek alfa o energii 60 MeV.
+
+Zastosowanie
+Astat-211, o okresie połowicznego zaniku 7,2 godziny, ma zastosowanie w radioterapii jako emiter cząstek alfa o małym zasięgu, przez co oddziałują one na zmianę nowotworową, nie uszkadzając okolicznych zdrowych tkanek.
+
+Izotopy astatu
+Trzy izotopy astatu występują w naturalnych szeregach promieniotwórczych: 218At w szeregu uranowym, 216At w szeregu torowym, zaś 219At w szeregu aktynowym. Są to jednak izotopy bardzo krótkożyciowe, toteż szacuje się, że łączna ilość astatu na Ziemi wynosi w każdej chwili ok. kilkudziesięciu gramów (objętość 1 łyżeczki do herbaty). Z tego powodu astat trafił do Księgi rekordów Guinnessa jako najrzadszy z występujących naturalnie pierwiastków.
+
+Astat jest homologiem jodu i w przypadku dostania się do organizmu gromadzi się w tarczycy i jajnikach. Dopuszczalne skażenie promieniotwórcze astatem-211 zostało ustalone na 0,7 kBq.
+
+
+
+
+
+
+
+

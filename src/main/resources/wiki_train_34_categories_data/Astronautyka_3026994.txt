@@ -1,0 +1,27 @@
+
+Morelos – seria dwóch meksykańskich geostacjonarnych satelitów telekomunikacyjnych działających w latach 1985-1998. Ich następcami były satelity serii Solidaridad. Satelity pracowały na pozycjach 113,5°W i 116,8°W. Przekazywały sygnał telewizyjny, radiowy, rozmowy telefoniczne i dane, na terenie Meksyku i krajów sąsiednich. Po prywatyzacji zostały przejęte przez Satellites Mexicanos (Satmex).
+
+Historia programu
+W listopadzie 1982 rząd Meksyku podjął program rozwoju obszarów niezurbanizowanych. W jego ramach zamówiono, poprzez ministerstwo łączności i transportu, dwa satelity telekomunikacyjne, pierwotnie nazywane Illhuica. 
+
+Satelity zostały zbudowane przez firmę Hughes Aircraft w oparciu o platformę HS-376. Meksyk był pierwszym klientem na satelity HS-376 w wersji obsługującej dwa pasma, C i Ku. Był też pierwszym latynoamerykańskim krajem, w którym Hughes Space and Communications został głównym wykonawcą projektu satelitarnego. Umowa obejmowała też budowę stacji śledzenia, telemetrii i kierowania. Została ona zlokalizowana około 16 km na południowy wschód od Mexico City, w Iztapalapa.
+
+Seria została nazwana na cześć José Maríi Moreloss - meksykańskiego przywódcę walk o niepodległość.
+
+Ładunki telekomunikacyjne
+Anteny satelitów zostały specjalnie dopasowane do potrzeb łącznościowych Meksyku. Były to pierwsze satelity firmy Hughes wyposażone w anteny płaszczyznowe (planarne). Odbiór 4 kanałami Ku, o szerokości pasma 108 MHz, odbywał się właśnie taką anteną, z EIRP 44 dBW na terenie Meksyku.
+
+Wiązki nadawcze i odbiorcze pasma C (ERIP 36 dBW na terenie Meksyku) i nadawcze pasma Ku formowane były przez wspólną 6-stopową (ok. 1,8 metra szerokości) antenę szkieletową z dwoma selektywnymi powierzchniami polaryzacyjnymi (przednia - polaryzacja pozioma, tylna - polaryzacja pionowa). Każda polaryzacja posiadała własny kanał mikrofalowy. Wiązkę o polaryzacji pionowej tworzyło 12 kanałów o szerokości 36 MHz. Wykorzystywały 14 wzmacniaczy TWT o mocy 7 watów. Wiązkę o polaryzacji poziomej tworzyło 6 kanałów o szerokości 72 MHz. Korzystały z 8 wzmacniaczy TWT o mocy 10,5 wata. Nadajniki pasma Ku korzystały z 6 wzmacniaczy TWT o mocy 20 watów.
+
+Wyniesienie
+Satelita wynoszony był z dołączonym modułem serwisowym PAM-D, który zapewniał mu napęd w trakcie podróży z niskiej orbity okołoziemskiej na orbitę geostacjonarną. Na niską orbitę był zaś wynoszony w ładowni wahadłowca kosmicznego, gdzie zajmował około 1/7 jego ładowni. 
+
+Po otworzeniu ładowni promu, satelitę umieszczonego w specjalnym łożu ustawiano w odpowiedniej pozycji. Po zdjęciu ochrony z łoża, rozkręcano satelitę do prędkości 55 obr./min., aby zapewnić mu stabilizację obrotową. Za pomocą sprężyn satelita wypychany był z ładowni promu kosmicznego. Czterdzieści pięć minut później komputer pokładowy włączał silnik modułu PAM. Gdy satelita znajdował się blisko pozycji docelowej, rozkładały się jego antena reflektorowa i panel elektroniczny, skierowane do Ziemi. Satelita osiągał pozycję końcową za pomocą nadajnika śledzącego i silniczków korekcyjnych. 
+
+
+Satelita Morelos 1 był pierwszym meksykańskim satelitą łącznościowym. Zbudowany na platformie Hughes HS-376. Wyniesiony na orbitę 17 czerwca 1985.
+
+
+Bliźniaczy Morelos 2 został wyniesiony na orbitę 27 listopada 1985. Pracował do lipca 1998. W misji jego satelizacji brał udział pierwszy astronauta pochodzący z Meksyku, Rodolfo Neri Vela.
+
+Bibliografia

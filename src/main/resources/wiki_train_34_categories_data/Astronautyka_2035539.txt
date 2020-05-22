@@ -1,0 +1,16 @@
+Wstęp
+
+
+
+Obszar, na który opadają rakiety wspomagające po spełnieniu swojego zadania jest odległy o około 258 km na północny wschód od przylądka Canaveral. W strefie wodowania silników jeszcze przed startem znajdują się dwa statki odbiorcze „Liberty Star” i „Freedom Star”, specjalnie wybudowane w celu wyławiania rakiet i eksploatowane przez United Space Boosters Inc., filię firmy United Technologies Corporation. Statki te są wyposażone w najnowocześniejszy sprzęt poszukiwawczy, nawigacyjny i łącznościowy: satelitarny system nawigacyjny, radar poszukiwawczy, sonary, systemy radiowe Loran C i UKF, układy naprowadzania kierunkowego oraz żyrokompasy. Załoga statku liczy maksymalnie 24 osoby, w tym 12 osób obsługi i 12 specjalistów przeszkolonych w zakresie odzyskiwania rakiet.
+
+Lokalizacja
+Odzyskiwanie rakiet wspomagających rozpoczyna się od ich zlokalizowania za pomocą radiowego szukacza kierunkowego i wykrycia spadochronów za pomocą sonaru. Najpierw na pokład wciąga się trzy spadochrony główne, nawijając je na bębny. Podobnie odzyskuje się spadochron stabilizujący, a przymocowaną do niego osłonę spadochronów głównych podnosi się za pomocą dźwigu.
+
+Dalsze operacje
+Do odzyskania samych silników potrzebny jest bardziej skomplikowany sprzęt. Podstawowym problemem jest wypompowanie wody z komory spalania, aby silnik przyjął pozycją poziomą niezbędną do holowania po wodzie. Zadanie to spełnia zdalnie sterowany robot napędzany sześcioma śrubami umożliwiającymi mu dużą manewrowość pod wodą. Po opuszczeniu na wodę robot jest podprowadzany do unoszącego się na powierzchni oceanu silnika rakiety SRB. Sterowanie odbywa się za pośrednictwem przewodu o długości 183 m i kamery telewizyjnej. Po przyjęciu odpowiedniej pozycji robot zanurza się na głębokość 44 m, gdzie znajduje się dysza silnika. Robot blokowany jest następnie w gardzieli dyszy, a wtedy uruchamia się pompę wprowadzającą sprężone powietrze do wypełnionego wodą wnętrza silnika, który zaczyna stopniowo przybierać pozycją poziomą. Po wypchnięciu części wody środkowa część zostaje wypełniona sprężonym powietrzem uszczelniając wylot dyszy. Dopiero wtedy usuwana jest reszta wody. Silnik jest następnie holowany do kompleksu rozmontowania silników położonego na terenie ośrodka kosmicznego, a dokładniej na wschodnim brzegu Banana River w Port Canaveral. W nabrzeżu jest wykonane wcięcie, w które wprowadza się unoszący się na wodzie silnik. Stamtąd jest on podnoszony za pomocą suwnic i układany na wózkach. Następnie przeprowadza się wstępne mycie silnika, a po przywiezieniu do hangaru rozmontowuje się go na segmenty.
+
+Ponowne użycie
+Po dokładniejszym myciu elementy są przewożone ciężarówkami do hali VAB, a stamtąd do producenta – firmy Morton Thiokol, która przygotowuje je do następnych misji. Osobną drogę przechodzą spadochrony. Są one dostarczane do budynku na terenie kompleksu przemysłowego (kiedyś przygotowywano tam spadochrony dla statków Gemini, później NASA zorganizowała tam swoje centrum prasowe). Spadochrony są myte, suszone, naprawiane, składane i magazynowane przed ponownym wykorzystaniem.
+
+Bibliografia

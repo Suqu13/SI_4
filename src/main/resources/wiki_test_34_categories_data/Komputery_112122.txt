@@ -1,0 +1,31 @@
+
+EDSAC (akronim od ang. Electronic Delay Storage Automatic Calculator) – komputer oparty na architekturze von Neumanna, skonstruowany przez zespół Maurice'a Wilkesa z University of Cambridge Mathematical Laboratory, na którym pierwszy program uruchomiono 6 maja 1949 r.
+
+Pierwszym komputerem wykonującym zapisany program był Small-Scale Experimental Machine, ale EDSAC był pierwszą maszyną wykorzystywaną w praktyce – wykonywano na nim badania uniwersyteckie. Wykorzystywano w nim pamięć na rtęciowych liniach opóźniających (pamięć dynamiczną) i lampy próżniowe dla układów logicznych. W 1953 r. David Wheeler zaprojektował rejestr indeksowy, jako rozszerzenie oryginalnej konstrukcji EDSAC.
+
+Projekt był wspierany przez brytyjską firmę J. Lyons & Co. Ltd., która otrzymała później wyróżnienie za pierwszy wykorzystywany komercyjnie komputer LEO I oparty na projekcie EDSAC.
+
+Na organizacji EDSAC wzorował się Romuald Marczyński budując komputer EMAL.
+
+W National Museum of Computing w Bletchley Park zostanie zbudowana działająca replika.
+
+Dane techniczne
+szybkość:
+650 operacji na sekundę
+zegar: 500 kHz
+pamięć:
+operacyjna pamięć rtęciowa:
+1024 słowa długości 17 bitów (32 rury)
+taśmowa: dodana w 1952 r.
+urządzenia zewnętrzne:
+dalekopis
+czytnik i perforator taśmy
+technologia:
+3000 lamp elektronowych
+12 stojaków
+zasilanie: 12 KW.
+
+
+
+Linki zewnętrzne
+.

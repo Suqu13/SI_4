@@ -1,0 +1,132 @@
+Magnez (Mg, łac. magnesium) – pierwiastek chemiczny, metal ziem alkalicznych (druga grupa główna układu okresowego).
+Izotopy stabilne magnezu to 24Mg, 25Mg oraz 26Mg.
+
+Magnez po raz pierwszy został uznany za pierwiastek przez Josepha Blacka, zaś wyodrębniony w formie czystej w 1808 roku przez Humphry’ego Davy’ego.
+Jako pierwszy polską nazwę – magnez – zaproponował Filip Walter.
+
+Występowanie
+Magnez jest jednym z najpospolitszych pierwiastków, występuje w skorupie ziemskiej w ilości 2,74% pod postacią minerałów: dolomitu, magnezytu, kizerytu, biszofitu, karnalitu, kainitu i szenitu. W wodzie morskiej występuje w ilości około 0,12%, w postaci roztworu soli Mg2+. Nie występuje w postaci pierwiastkowej.
+
+Otrzymywanie
+
+Magnez można otrzymać poprzez redukcję tlenku magnezu lub metodami elektrochemicznymi. Do elektrolizy stosuje się stopione sole: karnalit lub chlorek magnezu z topnikami, np. fluorytem lub mieszaniną NaCl i CaCl2. W metodach termicznych jako reduktory stosuje się węgiel lub karbid w temperaturze ok. 2000&nbsp;°C:
+MgO + C ⇌ Mg + CO↑
+lub krzem w reakcji z tlenkami magnezu i wapnia pochodzącymi z wyprażenia dolomitu (w metodzie tej uzyskuje się magnez o dużej czystości):
+2(CaO•MgO) + Si → Ca2SiO4 + 2Mg
+Zamiast czystego krzemu stosuje się także żelazokrzem. W celu ochrony przed ponownym utlenieniem metalu proces prowadzić można w próżni lub atmosferze wodoru lub gazu ziemnego.
+
+Związki
+Najważniejsze związki magnezu to tlenek magnezu, wodorotlenek magnezu oraz sole. Roztwory wodne, w których występuje duże stężenie jonów Mg2+ mają gorzki smak.
+
+Siarczan magnezu, tzw. sól gorzka, znajduje zastosowanie jako środek przeczyszczający, a w formie bezwodnej jako środek suszący.
+
+Właściwości fizyczne i chemiczne
+Magnez jest srebrzystobiałym metalem, który staje się kowalny w wysokiej temperaturze, dość łatwo utlenia się na powietrzu, ale podobnie jak w przypadku glinu, proces korozji jest hamowany przez pasywację. W przeciwieństwie do glinu (PBR = 1,28) magnez ma jednak niekorzystny współczynnik Pillinga i Bedwortha (PBR = 0,80), w efekcie czego powłoka pasywacyjna jest mniej skuteczna. 
+
+Pasywacji ulega także w stężonym (98%) kwasie siarkowym (istnieją jednak doniesienia o opornym rozpuszczaniu się magnezu w stęż. H2SO4 (Bunsen), z wydzielaniem SO2 (Liebig) lub H2S i S (A. Ditte)) i wobec par jodu (brak reakcji do temp. 600&nbsp;°C). Pasywacyjna warstwa trudnorozpuszczalnego fluorku magnezu chroni go też przed działaniem kwasu fluorowodorowego.
+
+Powoli reaguje z gorącą wodą (>70&nbsp;°C) tworząc wodorotlenek magnezu. Jest całkowicie odporny na działanie alkaliów, natomiast energicznie reaguje z kwasami z wytworzeniem odpowiednich soli i wydzieleniem wodoru. Kationy Mg2+ należą do V grupy kationów.
+
+Jest substancją palną, temperatura zapłonu wynosi ok. 760 °C. Pył magnezowy jest piroforyczny, jego temperatura samozapłonu wynosi ok. 470 °C. Magnez w powietrzu spala się oślepiającym białym płomieniem, którego temperatura wynosi3000–3100 °C. Produktem głównym jest tlenek magnezu, któremu towarzyszy azotek magnezu:
+2Mg + O2 → 2MgO
+3Mg + N2 → Mg3N2
+Spalanie podtrzymywane jest także w atmosferze pary wodnej i dwutlenku węgla:
+Mg + H2O → MgO + H2
+2Mg + CO2 → 2MgO + C (sadza)
+
+Magnez rozpuszcza się po podgrzaniu w [[metanol]u] i etanolu z wytworzeniem odpowiednich alkoholanów magnezu. Reakcje te inicjowane są przez jod, a inhibowane przez wodę w ilości powyżej 1%. Wykorzystywane są one do otrzymywania alkoholanów oraz do uzyskiwania tzw. absolutnego etanolu, tj. produktu o bardzo niskiej zawartości wody:
+2ROH + Mg → Mg(OR)2 + H2↑
+Magnez reaguje też z halogenkami organicznymi z wytworzeniem związków Grignarda:
+R-X + Mg → R-Mg-X (X = Cl, Br, I)
+
+Zastosowanie
+Magnez metaliczny wykorzystuje się w chemii organicznej do otrzymywania związków Grignarda, oraz w postaci prętów do ochrony przed korozją pojemnościowych podgrzewaczy wody, wykonanych ze stali (anoda magnezowa, montowana wewnątrz zbiornika).
+
+Stopy magnezu są wykorzystywane w przemyśle lotniczym i kosmicznym, tam gdzie stopy tytanu i glinu są za ciężkie. Stopy magnezu z litem są stopami o jednej z najniższych gęstości i lepszym niż dla innych stopów stosunku wytrzymałości mechanicznej do masy. W podobnych zastosowaniach wykorzystywane są także magnale (stopy glinu z magnezem) oraz elektrony (stopy magnezu, glinu, cynku, manganu i krzemu).
+
+Ze stopów magnezowych wykonuje się obudowy niektórych urządzeń elektronicznych i precyzyjnych, np. obudowy notebooków, kamer filmowych i video oraz aparatów fotograficznych.
+
+Znaczenie biologiczne
+Magnez wchodzi w skład chlorofilu, jony magnezu odgrywają też dużą rolę w utrzymywaniu ciśnienia osmotycznego krwi i innych tkanek, oraz utrzymywaniu właściwej struktury rybosomów. Jest składnikiem kości, obniża stopień uwodnienia koloidów komórkowych, uczestniczy w przekazywaniu sygnałów w układzie nerwowym.
+
+Objawy niedoboru magnezu u roślin: więdnięcie, chloroza liści, zahamowanie fotosyntezy.
+
+Rola magnezu w organizmie człowieka
+Zapotrzebowanie na magnez u osób dorosłych wynosi 300-400 mg na dobę i chociaż w naturalnym środowisku bogato występuje w spożywanych przez człowieka pokarmach, jest go coraz mniej w wyniku nawożenia chemicznego gleby związkami zawierającymi potas oraz stosowania nadmiernej ilości konserwantów żywności. Inne przyczyny niedoboru magnezu to: nadużywanie alkoholu, picie kawy, stosowanie hormonalnych środków antykoncepcyjnych, stres, spożywanie nadmiernych ilości tłuszczów, niewydolność nerek.
+
+Objawy niedoboru magnezu u człowieka
+Magnez bierze udział w bardzo licznych procesach zachodzących w organizmie ludzkim,
+zakres objawów jego niedoboru jest więc bardzo szeroki.
+
+zwiększenie pobudliwości nerwowo-mięśniowej oraz osłabienia i nieprawidłowości pracy serca, czego efektem są:
+drgania jednej z powiek, czy też częściowo górnych warg
+
+bolesne skurcze łydek
+uczucia odrętwienia i mrowienia w kończynach
+objaw Raynauda
+wzmożone wypadanie włosów
+łamanie się paznokci
+próchnica zębów
+rozdrażnienia, lęki, stan zagubienia
+zespół niespokojnych nóg
+zaburzenie depresyjne
+trudności w koncentracji
+zaburzenia snu, nocne poty
+bóle głowy, mdłości
+nagłe zawroty głowy
+kołatanie serca, arytmii
+nadciśnienie
+miażdżyca
+biegunka
+nietolerancja glukozy, cukrzyca typu II
+kamica nerkowa
+bolesne miesiączkowanie
+rzucawka okołoporodowa,
+zatrucie ciążowe
+astma oskrzelowa
+migrena
+zespół metaboliczny
+
+Suplementacja magnezem może mieć wiele korzystnych skutków dla zdrowia w tych schorzeniach i objawach.
+
+Magnez a depresja
+Istnieją uzasadnione podejrzenia iż niedobór magnezu w diecie może prowadzić do  depresji. Poziom tego pierwiastka był istotnie mniejszy w płynie mózgowo-rdzeniowym osób z lekooporną depresją grożącą samobójstwem oraz pobranym od  osób które popełniły samobójstwo. Poziom magnezu w mózgu nie jest skorelowany bezpośrednio z jego poziomem w surowicy krwi. Jego nieinwazyjny pomiar w mózgu jest możliwy przy użyciu spektroskopii rezonansu magnetycznego 31P in vivo, gdyż przesunięcia chemiczne sygnałów atomu fosforu β nukleozydotrifosforanów można skorelować ze stężeniem wolnych jonów Mg2+. Zawartość magnezu w mózgu osób z lekooporną depresją była istotnie mniejsza niż u osób zdrowych. Metoda pomiaru poziomu magnezu w mózgu in vivo metodą MRI opublikowana została w roku 2008 i wymaga potwierdzenia w badaniach klinicznych.
+
+Chlorek magnezu u osób z cukrzycą typu II i niedoborem magnezu już w niewielkich dawkach był tak skuteczny w leczeniu objawów depresyjnych, jak silny lek przeciwdepresyjny – imipramina. Opisywano przypadki, z których wynikało że suplementacja rozpuszczalną formą magnezu (4 x 125-300 mg jonów Mg2+ dziennie) może nawet w ciągu mniej niż 7 dni znieść objawy kliniczne depresji. Z niektórych badań wynika iż skuteczna terapia farmakologicznymi środkami przeciwdepresyjnymi przebiega ze wzrostem poziomu magnezu w organizmie.
+
+Przedawkowanie
+Nadmiar magnezu z organizmu jest usuwany przez nerki. Istnieje pewna możliwość przedawkowania preparatów magnezu. Ryzyko to dotyczy więc szczególnie pacjentów starszych, ze znacznie upośledzoną funkcją nerek.  Możliwe objawy obejmują: niedociśnienie, nadmierne spowolnienie akcji serca – bradykardia, niewydolność oddechowa,  osłabienie  odruchów – hyporeflexia, opisano śmierć osoby w podeszłym wieku po przyjęciu bardzo dużej ilości związków magnezu w celu ułatwienia wypróżnienia.
+
+Magazynowanie
+Ponad połowa magnezu znajduje się w kościach, jedna czwarta w mięśniach szkieletowych, jedna czwarta rozmieszczona jest w całym organizmie, przeważnie w układzie nerwowym i w narządach o dużej aktywności metabolicznej, jak: mięsień sercowy, wątroba, przewód pokarmowy, nerki, gruczoły wydzielania wewnętrznego i zewnętrznego, układ hemolimfatyczny.
+
+Źródła magnezu w pożywieniu
+Najbogatsze źródła (zawartość magnezu w 1 kg produktu):
+
+kakao gorzkie 16% – 4,2 g
+kasza gryczana – 2,2 g
+fasola biała – 1,7 g
+czekolada gorzka – 1,7 g
+orzechy laskowe – 1,4 g
+płatki owsiane – 1,3 g
+ciecierzyca – 1,2 g
+groch – 1,2 g
+szpinak – 0,5 g
+makrela, dorsz – 0,3 g
+
+Łatwo rozpuszczalne (mleczan, wodoroasparaginian, chlorek, siarczan, cytrynian, glicynian, pidolinian), jak i nierozpuszczalne (węglan, tlenek, wodorotlenek) związki magnezu wchodzą w skład wielu suplementów diety. Poszczególne związki różnią się znacznie ilością zawartego w nich czystego jonu Mg2+ (kilka – kilkanaście %), dlatego do porównywania dawkowania preparatów brana jest pod uwagę zawartość samego jonu Mg2+. Preparaty związków łatwo rozpuszczalnych mają lepszą biodostępność, są jednak droższe.  Niewielką dostępność związków nierozpuszczalnych można poprawić poprzez przygotowanie ich zawiesiny w wodzie (np. w postaci  tabletek musujących, które jednak zawierają istotną ilość sodu). Dodatek witaminy B6 potęguje działanie preparatów magnezu.
+
+Źródłem magnezu w diecie może być wschodnioazjatycka przyprawa nigari, w której ok. 95% stanowi MgCl2·6H2O.
+
+
+
+
+
+Bibliografia
+Jerzy Minczewski, Zygmunt Marczenko Chemia analityczna – 1 podstawy teoretyczne i analiza jakościowa (Wydawnictwo Naukowe PWN) Warszawa 2001 ISBN 83-01-13499-2
+Izotopy http://amdc.in2p3.fr/nubase/Nubase2003.pdf
+
+
+
+
+

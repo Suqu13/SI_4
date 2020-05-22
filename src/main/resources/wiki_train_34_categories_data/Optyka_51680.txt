@@ -1,0 +1,27 @@
+
+Lorneta (lornetka) – przyrząd optyczny w postaci dwóch lunet, sprzężonych równolegle. Umożliwia obuoczną obserwację odległych obiektów. Lorneta jest tak skonstruowana, aby dawała obraz prosty, czyli nie odwrócony. Zaletą lornety w porównaniu z lunetą (przy tej samej średnicy obiektywu) jest jaśniejszy obraz o większej rozdzielczości. Rozstawienie lunet wpływa także na wrażenie plastyczności obrazu dając efekt stereoskopowy
+
+Lorneta jest nazwą przyrządu optycznego, w praktyce większość lornet jest niewielkich rozmiarów, stąd nazywane są lornetkami.
+
+Budowa
+W zależności od budowy rozróżnia się następujące typy lornet:
+lorneta prosta – w której rozstaw obiektywów lunet pasuje do rozstawu oczu człowieka. Zastosowane w niej szkła są małe, a przez to niezbyt jasne i dające niewielkie powiększenie. Tego typu lorneta to tzw. lorneta Galileusza, gdzie obiektyw jest skupiający, a okular rozpraszający. Cechą takich lornet jest niewielkie pole widzenia (z szybko spadającą ostrością na brzegach) oraz powiększenie do 3x (nowsze modele mogą jednak mieć większe możliwości). Zaletą jest prostota konstrukcji. Tego typu lornety to praktycznie tylko lornetki teatralne.
+
+
+
+
+lorneta pryzmatyczna – w której rozstaw obiektywów lunet jest większy niż rozstaw oczu człowieka, a różnica odległości pomiędzy środkami obiektywów (czyli osiami lunet) a środkami okularów (czyli osiami oczu człowieka) jest niwelowana poprzez zastosowanie pryzmatów. W lornetach tego typu zarówno obiektywy, jak i okulary, są skupiające, a pryzmaty znajdują się pomiędzy nimi. Lornety pryzmatyczne umożliwiają stosowanie większych szkieł, a co za tym idzie uzyskiwanie większych jasności, dając obraz prosty dzięki pryzmatom mającym dwa zadania – niwelowanie odległości pomiędzy obiektywami lornety oraz skracającymi znacznie układ optyczny do poręcznych rozmiarów, ale także odwracanie obrazu. Dodatkową zaletą lornet pryzmatycznych jest możliwość precyzyjnej regulacji rozstawu okularów do rzeczywistej szerokości rozstawu oczu człowieka, co przy lornetach prostych (teatralnych) jest niemożliwe. Większość lornet to właśnie lornety pryzmatyczne – nazywane są lornetkami polowymi. Są to np. lornetki turystyczne czy wojskowe.
+lorneta peryskopowa – najczęściej jest to lorneta nożycowa, czyli układ dwóch peryskopów ustawionych względem siebie w układzie litery V, na wspólnym statywie. Służy do obserwacji spoza przeszkody terenowej (przy obserwatorze, lub gdzieś dalej), daje duże powiększenia, a duży rozstaw obiektywów pozwala stosować ją jako precyzyjny dalmierz w geodezji oraz do celów wojskowych. Na podobnej zasadzie działają precyzyjne ręczne dalmierze optyczne, w których oba peryskopy są ustawione dokładnie naprzeciwlegle (jako jedna rura z obiektywami w pobliżu jej końców i okularami pośrodku). Ograniczeniem dla stosowania lornet peryskopowych jest ich stosunkowo duży ciężar.
+
+Do obserwacji astronomicznych stosujemy także lornety pryzmatyczne o okularach odchylonych (przy pomocy dodatkowego pryzmatu kątowego) od osi obiektywu o kąt od 45 do 90°, co zapewnia komfort obserwacji obiektów położonych wysoko na niebie bez konieczności przechylania głowy.
+
+Oznaczenia parametrów optycznych lornetek
+
+Typowe lornetki oznaczane są dwiema liczbami oddzielonymi znakiem ''×'', na przykład: 10×50.
+Pierwsza wartość (po lewej stronie znaku ''×'') oznacza współczynnik powiększenia (w tym wypadku – powiększenie dziesięciokrotne). Lornetki o zmiennym powiększeniu oznaczane są poprzez podanie dwóch liczb oddzielonych myślnikiem, np. oznaczenie 3–10 oznacza lornetkę, w której powiększenie jest regulowane w zakresie od trzech do dziesięciu razy.
+Druga wartość (po prawej stronie znaku ''×'') oznacza średnicę obiektywu wyrażoną w milimetrach (w tym przypadku jest to 50&nbsp;mm). Większa średnica obiektywu zapewnia większą jasność obrazu.
+
+Zobacz też
+.
+
+Linki zewnętrzne

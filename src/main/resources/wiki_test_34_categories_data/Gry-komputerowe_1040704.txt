@@ -1,0 +1,3 @@
+Valve Hammer Editor – znany dawniej jako Worldcraft, a teraz popularnie nazywany Hammer (ang. młotek) to program firmy Valve służący do tworzenia i edytowania map do gry Half-Life, jej modów oraz obecnie do wszystkich gier używających silnika Source (np. Half-Life 2,  i innych). Stare wersje (Worldcraft) obsługiwały także gry Quake i Quake II. Starsza wersja (3.5) obsługiwała jedynie oryginalnego Half-Life i mody do niego oraz możliwe było uruchomienie jej bez platformy Steam. Aktualna wersja (4.1) obsługuje poza pierwszym Half-Life i modami do niego także Half-Life 2 i gry oparte na silniku Source, lecz wymaga uruchomionej platformy Steam do działania. Dostępny jest teraz przez pobranie za pomocą Steama pakietu Source SDK.
+
+Linki zewnętrzne

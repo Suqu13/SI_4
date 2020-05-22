@@ -1,0 +1,8 @@
+
+
+Heavens-Above – serwis internetowy pozwalający na określenie terminów przelotów satelitów oraz generujący prognozy ich widoczności dla dowolnego punktu na Ziemi. Głównym jego zadaniem jest przewidywanie flar satelitów Iridium, przelotów Międzynarodowej Stacji Kosmicznej  ISS, satelitów o jasności do 4,5 magnitudo oraz satelitów radioamatorskich. Ponadto serwis posiada możliwość generowania map nieba oraz udostępnia dane astronomiczne na temat Układu Słonecznego i komet.
+
+Zobacz też
+CalSky
+
+Linki zewnętrzne

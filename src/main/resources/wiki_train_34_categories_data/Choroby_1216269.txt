@@ -1,0 +1,47 @@
+Meloksykam – wielofunkcyjny organiczny związek chemiczny. Stosowany jako lek z grupy niesteroidowych leków przeciwzapalnych (NLPZ). Działa przeciwzapalnie poprzez hamowanie aktywności enzymatycznej cyklooksygenazy 2 (COX-2), uczestniczącej w syntezie prostaglandyn. Wykazano, że meloksykam w większym stopniu hamuje aktywność enzymu COX-2 niż COX-1. To preferencyjne hamowanie aktywności COX-2 powoduje, że meloksykam hamuje syntezę prostaglandyn w miejscu toczących się procesów zapalnych, a znacznie słabiej w obrębie przewodu pokarmowego i nerek. Badania kliniczne wykazały mniejszą częstość występowania objawów niepożądanych ze strony przewodu pokarmowego (włączając w to owrzodzenia, perforacje i krwawienia) podczas stosowania meloksykamu w zalecanych dawkach, niż podczas stosowania innych niesteroidowych leków przeciwzapalnych.
+
+Meloksykam jest dobrze wchłaniany po podaniu doustnym. Stężenie leku w stanie stacjonarnym jest osiągane w surowicy krwi po 3 do 5 dniach stosowania, długotrwałe przyjmowanie leku przez okres dłuższy niż rok nie wpływa na wielkość stężenia w stanie stacjonarnym. Stężenie leku w surowicy krwi jest proporcjonalne do przyjętej dawki. Meloksykam łatwo przenika do płynu stawowego, osiągając w nim stężenie równe połowie stężenia osoczowego. Ponad 99% leku wiąże się z białkami osocza krwi. W organizmie lek podlega intensywnym przemianom metabolicznym (utlenieniu) i mniej niż 5% dawki dobowej jest wydalane w postaci niezmienionej z kałem, a jedynie śladowe ilości leku w postaci niezmienionej są wydalane w moczu. Metabolity są wydalane w równych proporcjach w moczu i z kałem. Zarówno niewydolność wątroby, jak i umiarkowana niewydolność nerek, nie wpływają istotnie na farmakokinetykę leku. U osób w wieku podeszłym szybkość wydalania leku z organizmu jest zmniejszona. Pacjenci uczuleni na kwas acetylosalicylowy (aspirynę) mogą być także uczuleni na inne niesteroidowe leki przeciwzapalne. Dlatego meloksykamu nie należy stosować u pacjentów z astmą oskrzelową, polipami nosa, obrzękiem naczynioworuchowym i pokrzywką stwierdzanych w następstwie podawania kwasu acetylosalicylowego lub innych niesteroidowych leków przeciwzapalnych.
+
+Dawkowanie
+Maksymalna dawka dobowa leku wynosi 15&nbsp;mg. Przy chorobie zwyrodnieniowej stawów – 7,5&nbsp;mg na dobę. W razie konieczności dawkę można zwiększyć do 15&nbsp;mg na dobę (w dawce jednorazowej). Reumatoidalne zapalenie stawów i zesztywniające zapalenie stawów kręgosłupa – 15&nbsp;mg na dobę (w dawce jednorazowej). W zależności od skuteczności terapeutycznej dawkę można zmniejszyć do 7,5&nbsp;mg na dobę. U pacjentów ze zwiększonym ryzykiem wystąpienia objawów niepożądanych leczenie należy rozpocząć od dawki 7,5&nbsp;mg na dobę. U pacjentów dializowanych z ciężką niewydolnością nerek nie należy stosować dawki większej niż 7,5&nbsp;mg na dobę.
+
+Możliwe skutki uboczne
+Środek powinien być dawkowany adekwatnie do wieku i masy ciała chorego. Możliwe działania niepożądane to problemy z układem pokarmowym (ból brzucha, zgaga, niestrawność, krwawienie z przewodu pokarmowego, biegunka, zaparcia), bóle i zawroty głowy, senność, zaburzenia widzenia, reakcje alergiczne, a także obniżenie sprawności psychomotorycznej.
+
+Synteza i oczyszczanie
+W opracowanych metodach syntezy meloksykamu niepożądanym produktem ubocznym zanieczyszczającym produkt końcowy jest pochodna N-metylowa, której ilość według farmakopei europejskiej nie może przekraczać 0,05%. Związek ten usuwano dawniej za pomocą rekrystalizacji z 1,2-dichloroetanu, jednak obecne procedury farmaceutyczne nie pozwalają na stosowanie tego rozpuszczalnika i konieczne było stosowanie innych, pracochłonnych procedur (np. krystalizacji z acetonu). Wydajniejszą metodą jest  krystalizacja jego soli potasowej z wody, w której produkty alkilowane rozpuszczają się słabo.
+
+W roku 2007 opublikowano czteroetapową metodę syntezy meloksykamu znakowanego deuterem, w celu zastosowania jako standardu do spektrometrii mas podczas oznaczania meloksykamu w moczu:
+
+Alkilowanie sacharyny chlorooctanem metylu w dimetyloformamidzie wobec wodorku sodu:
+Przegrupowanie Gabriela-Colmana:
+Alkilowanie perdeuterowanym jodkiem metylu:
+Reakcja z 2-amino-5-metylotiazolem:
+i – reakcję przeprowadza się w temperaturze wrzenia m-ksylenu w atmosferze azotu przez 24 h.
+
+Ostateczny produkt oczyszczono metodą chromatografii kolumnowej na żelu krzemionkowym.
+
+Dostępne preparaty
+Aglan – tabletki 7,5&nbsp;mg lub 15&nbsp;mg, ampułki 15mg/1,5ml
+Aspicam – tabletki 7,5&nbsp;mg lub 15&nbsp;mg
+Lormed – tabletki 7,5&nbsp;mg lub 15&nbsp;mg
+Melobax – tabletki 7,5&nbsp;mg lub 15&nbsp;mg
+Meloksam – tabletki 7,5 mg lub 15 mg
+Melotev – tabletki 7,5 mg lub 15 mg
+Meloxicam Arrow – tabletki 7,5 mg lub 15 mg
+MeloxiLek – tabletki 7,5 mg lub 15 mg.
+Meloxistad – tabletki 7,5&nbsp;mg lub 15&nbsp;mg
+Moilec – tabletki 7,5 mg – dostępny bez recepty
+Movalis – tabletki 7,5&nbsp;mg lub 15&nbsp;mg, ampułki 15mg/1,5ml
+Movmax – tabletki 15 mg
+Opokan – tabletki 7,5&nbsp;mg – dostępny bez recepty
+Opokan forte –  tabletki 15 mg – dostępny na receptę
+Trosicam – tabl. ulegające rozpadowi w jamie ustnej (7,5 mg i 15 mg)
+
+
+
+
+
+
+
+

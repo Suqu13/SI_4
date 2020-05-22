@@ -1,0 +1,10 @@
+Podatek wielofazowy nazywany jest inaczej podatkiem kumulatywnym. Zasadą podatku wielofazowego jest opodatkowanie produktu za każdym razem, gdy jest on podmiotem transakcji. Taka technika nadaje podatnikowi trzy cechy:
+
+Podatek taki obejmuje jednocześnie wielokrotnie dany produkt, dlatego też nazywany jest obciążeniem kaskadowym
+Jest to podatek kumulatywny, wiąże się z każdą kolejną transakcją i obciąża za każdym razem całkowitą wartość produktu.
+Musi być to podatek lekki, o niskich stawkach, ponieważ wielokrotnie obciąża on ten sam produkt
+Zaletą tego systemu jest utrudnianie oszustw podatkowych oraz brak problemów z określeniem producenta.
+
+
+
+

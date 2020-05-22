@@ -1,0 +1,14 @@
+Wartość kosztorysowa inwestycji (WKI) - planowany łączny koszt inwestycji. Koszt ten określa się za pomocą wskaźników cenowych w układzie następujących grup kosztów:
+pozyskanie działki budowlanej,
+przygotowanie terenu i przyłączenie obiektów do sieci,
+budowa obiektów podstawowych,
+instalacje,
+zagospodarowanie terenu i obiektów pomocniczych,
+wyposażenie przygotowawcze, projektowe, obsługa inwestorska oraz ewentualne szkolenia i rozruch,
+
+Konieczność wyznaczenia WKI, dla inwestycji finansowanych ze środków publicznych, wynika z Rozporządzenia RM z dnia 3 lipca 2006 r. w sprawie zasad finansowania inwestycji z budżetu państwa. 
+
+Źródła
+Plebankiewicz E.: Podstawy kosztorysowania robót budowlanych, Wydawnictwo Politechniki Krakowskiej, Kraków 2007.
+
+

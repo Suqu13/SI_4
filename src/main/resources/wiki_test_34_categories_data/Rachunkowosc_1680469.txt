@@ -1,0 +1,59 @@
+Lista płac – rodzaj dokumentu księgowego stosowany w rachunkowości potwierdzający naliczenie wynagrodzeń dla pracowników wraz ze wszystkimi obowiązującymi składkami płaconymi zarówno przez pracodawcę jak i pracownika. Dokument ten może być podstawą rozchodu kasowego.
+
+Nie ma nakazu sporządzania listy płac, jednak praktycznie wszyscy przedsiębiorcy tworzą ją co miesiąc by na jej podstawie wypłacić wynagrodzenia swym pracownikom. Jest ona także punktem wyjścia dla prawidłowego wypełnienia deklaracji podatkowej oraz dokumentów ubezpieczeniowych, służy także poprawnemu zaksięgowaniu płac. 
+
+Gdy liczba pracowników jest duża, z reguły w liście płac ujmuje się zbiorcze wyliczenie pensji pracowników zakładu, a przedsiębiorstwa  z niewielką liczbą zatrudnionych ograniczają się najczęściej do miesięcznego wypełnienia indywidualnych kart przychodów.
+
+Karta przychodów
+Przedsiębiorcy zatrudniający pracowników, bez względu na formę organizacyjną, prowadzą karty przychodów. Nie ma jednego, powszechnie obowiązującego, jej wzoru. 
+Rozporządzenia ministra finansów określają ich minimalne części składowe:
+imię i nazwisko pracownika, 
+kwota przychodów w naturze i gotówce, którą osiągnął w danym miesiącu,
+koszty uzyskania przychodów,
+potrącone przez płatnika w danym miesiącu składki na ubezpieczenia społeczne z przychodu pracownika: emerytalne (9,76 proc. podstawy wymiaru), rentowe (1,5 proc.) i chorobowe (2,45 proc.),
+dochód osiągnięty w danym miesiącu,
+dochód narastająco od początku roku (pracodawcy muszą kontrolować, czy pracownicy nie przekroczyli kolejnej skali podatkowej; wówczas trzeba pobierać wyższą zaliczkę na podatek dochodowy),
+kwota zaliczki na podatek dochodowy od osób fizycznych,
+kwota składki na powszechne ubezpieczenie zdrowotne, 
+kwota należnej zaliczki na podatek dochodowy od osób fizycznych do przekazania do urzędu skarbowego,
+datę przekazania zaliczki podatkowej.
+
+Dodatkowo, gdy chodzi o ryczałtowców, karty przychodów przez nich sporządzane muszą jeszcze określać NIP pracownika i miesiąc wypłaty.
+
+Zawartość listy płac
+Lista płac sporządzana jest dla wszystkich pracowników na podstawie innych dokumentów płacowych i kadrowych, m.in. umowy o pracę, wykazu godzin nadliczbowych, wykazu prowizji, nagród, zwolnień lekarskich.
+
+Lista płac powinna zawierać pewne stałe elementy takie jak:
+nazwę pracodawcy,
+numery stron,
+oznaczenie lub nazwę listy płac,
+miesiąc, którego dotyczy,
+datę sporządzenia,
+podpisy osoby sporządzającej i akceptującej.
+
+Lista płac sporządzana jest zazwyczaj co miesiąc (tak najczęściej rozlicza się wypłaty wynagrodzeń ), jednak pracodawcy mogą sporządzać listy płac znacznie częściej np. co 2 tygodnie, co tydzień, a także wtedy, kiedy mając być wypłacone dodatkowe składniki pensji takie jak premia, odszkodowanie, wyrównanie, itp.
+
+Lista płac może być mniej lub bardzie rozwinięta. Związane jest to z ilością składników wynagrodzenia oraz obowiązków związanych z płaceniem składek na ubezpieczenie chorobowe, emerytalne, rentowe i zdrowotne, a także z m.in. obowiązkami podatkowymi.
+
+Najważniejsze jest, aby w liście płac wynagrodzenia brutto były podzielone na „składkowe” i „nieskładkowe”. Ważne jest to ze względu na obowiązki względem ubezpieczeń społecznych. W grupie wynagrodzeń "nieskładkowych" trzeba wyodrębnić wynagrodzenie za czas choroby, ponieważ dodaje się to do do podstawy wymiaru składki na ubezpieczenie zdrowotne.
+
+Bardzo ważne jest również rozróżnienie składki na ubezpieczenie zdrowotne (w roku 2008 nadal wynosi 9% podstawy wymiaru) od składki zdrowotnej odliczanej od podatku (stanowiącej 7,75% podstawy wymiaru składki).
+
+W firmach zatrudniających wielu pracowników, na liście płac oprócz imienia i nazwiska, umieszczony powinien być dodatkowy identyfikator pracownika (np. PESEL), dzięki któremu można uniknąć pomyłek w przypadku powtarzających się nazwisk i imion.
+
+Ważne jest również, aby na liście płac znajdowała się rubryka "Pracownik pobrał", zwłaszcza w odniesieniu do tych zatrudnionych, którzy wypłaty odbierają co miesiąc w zakładowej kasie.
+
+Ewidencja w formie elektronicznej
+Ewidencję wynagrodzeń można prowadzić w formie elektronicznej, pod dwoma jednak warunkami: 
+
+zawsze powinna być możliwość odtworzenia jej na papierze, 
+musi być tak zabezpieczona, by została zachowana zasada poufności wynagrodzeń.
+
+Linki zewnętrzne
+http://www.praca.egospodarka.pl/34340,Co-powinna-zawierac-lista-plac-pracownikow,6,47,1.html
+http://ekspertkadrowy.pl/wzorydokumentow/wynagrodzenia/lista-plac-pracownikow,s,19,c,117,a,1599.html
+http://iskb.infor.pl/rachunkowosc-budzetowa/wiadomosci/97805,Listy-plac-na-nosnikach-elektronicznych.html
+
+
+
+

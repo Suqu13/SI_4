@@ -1,0 +1,20 @@
+Eutelsat 7A – satelita telekomunikacyjny wyniesiony na orbitę jako Eutelsat W3A 15 marca 2004, należący do konsorcjum Eutelsat. Znajduje się na orbicie geostacjonarnej (nad równikiem) na 7. stopniu długości geograficznej wschodniej. Obecną nazwę Eutelsat 7A otrzymał 1 marca 2012 w ramach ujednolicenia nazw satelitów przez Eutelsat.
+
+Zbudowany został przez EADS Astrium w oparciu o model Eurostar 3000 S. Posiada 38 transponderów pasma Ku oraz 2 transpondery pasma Ka. Planowana żywotność satelity wynosi 12 lat.
+
+Nadaje sygnał stacji telewizyjnych i radiowych, programy wysokiej rozdzielczości HDTV oraz dane (dostęp do Internetu) do odbiorców w Europie, Afryce, na Bliskim Wschodzie oraz na Kaukazie i w Kazachstanie. Poza tym Eutelsat 7A jest wykorzystywany do przekazów telewizyjnych.
+
+Z tego satelity swój pakiet programowy nadaje przede wszystkim turecka platforma cyfrowa DigiTürk (kodowanie: Cryptoworks i Irdeto 2). Od lipca 2007 DigiTürk nadaje programy w rozdzielczości HDTV. Satelitę tego wykorzystywała też Telewizja Polska (kodowanie: Videoguard).
+
+Zobacz też
+antena satelitarna
+DiSEqC
+Eutelsat
+FTA
+Hot Bird
+telewizja satelitarna
+
+
+
+Bibliografia
+Linki zewnętrzne

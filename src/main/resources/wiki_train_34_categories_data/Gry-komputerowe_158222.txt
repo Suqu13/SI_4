@@ -1,0 +1,9 @@
+Silnik gry – główna część kodu gry komputerowej. 
+
+Silnik gry zajmuje się interakcją elementów gry. Może mieć w sobie wbudowane moduły grafiki, wejścia, sieci czy też AI i wykrywania kolizji między obiektami gry itd. Może też korzystać z oddzielnych silników implementujących obsługę wymienionych modułów. Silnik gry jest często błędnie utożsamiany z silnikiem graficznym lub silnikiem 3D.
+
+Najczęściej jest on wykonywany z użyciem paradygmatu obiektowego. Firmy deweloperskie korzystają z gotowych silników lub też same je tworzą, przy czym zawsze silnikowi towarzyszą narzędzia, dzięki którym można stworzyć pewne elementy gry bez ingerencji w kod źródłowy silnika.
+
+Przykładem jest Unreal Engine. 
+
+Linki zewnętrzne

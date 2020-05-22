@@ -1,0 +1,35 @@
+[[Plik:Handheld periscope.png|thumb|150px|right|Schemat optyczny wojskowego peryskopu ręcznego.
+'''1''' – okular
+'''2''' – pryzmat
+'''3''' – rękojeść
+'''4 – 6''' – soczewki
+'''5''' – tubus peryskopu
+'''7''' – soczewki obiektywu
+'''8''' – soczewki polowe
+'''9''' – pryzmat
+'''10''' – okienko]]
+[[Plik:Simpleperiscopes.png|thumb|250px|Zasada działania peryskopu.'''
+ A – Peryskop zwierciadlany
+''' B – Peryskop z pryzmatami
+'''1 – 2''' – Zwierciadła płaskie
+'''3 – 4''' – Pryzmaty
+'''5 – 6'''  – Oko obserwatora
+'''7 – 8''' – Rura peryskopu
+H – Wysokość optyczna peryskopu]]
+Peryskop – przyrząd optyczny służący do obserwacji przedmiotów znajdujących się poza polem widzenia obserwatora lub zakrytych przeszkodami. Pierwotna koncepcja opierała się na systemie luster umocowanych na wysięgniku, później lustra lub pryzmaty umieszczano w obudowie. Wynalazcą peryskopu był gdański astronom Jan Heweliusz.
+
+Peryskop znalazł zastosowanie m.in. w technice wojskowej. Pełni tu często równocześnie funkcję lornetki i dalmierza optycznego. Obecnie najczęściej kojarzony jest z okrętami podwodnymi, gdzie umożliwia obserwację powierzchni morza bez wynurzania okrętu. Peryskop jest najstarszym i fundamentalnym elementem obserwacyjnym wyposażenia okrętu podwodnego, który zapewnia informacje wizualne podczas prowadzenia operacji podwodnych oraz pomaga w określaniu pozycji okrętu. Urządzenie to zostało skonstruowane w celu zapewnienia okrętowi podwodnemu możliwości obserwacji powierzchni morza bez zagrożenia detekcją ze strony jednostek nawodnych. Jakkolwiek budowa peryskopu oparta jest o proste zasady optyki, współczesne peryskopy są bardzo złożonymi urządzeniami.
+W 1854 roku Francuz Marie Davey opracował tubę obserwacyjną dla okrętów podwodnych, zawierającą dwa lustra umiejscowione jedno nad drugim, pod kątem 45° względem siebie, które skierowane były w przeciwnych kierunkach. Zasada działania opierała się na odbiciach obrazu między lustrami. W tym czasie było to najlepsze dostępne rozwiązanie, jednak już w 1872 roku lustra zostały zastąpione pryzmatami. Pierwsze peryskopy miały postać sztywnej i stałej rury, dopiero pod koniec XIX wieku amerykański wynalazca i pionier okrętów podwodnych Simon Lake, skonstruował peryskop składany zwany omniskopem bądź skalomniskopem, co pozwoliło na chowanie go w trakcie rejsu w zanurzeniu. Wkrótce też opracowano konstrukcję peryskopu wysuwanego, który można było także obracać wokół własnej osi, co pozwoliło na prowadzenie obserwacji dookolnej. Znaczne ulepszenia konstrukcji peryskopu wprowadzili konstruktorzy niemieccy, jednakże podstawowe zasady działania pierwszych peryskopów pozostają do dziś niezmienne.
+
+Podstawową funkcją peryskopu jest zapewnienie oficerowi dowodzącemu okrętem oglądu otaczającego okręt horyzontu, gdy okręt pozostaje w niewielkim zanurzeniu. W tym celu, urządzenie musi być odpowiednio długie, w celu umożliwienia wystawienia jego końcówki ponad powierzchnie wody, w celu odbicia poziomych promieni światła początkowo pionowo w dół tuby peryskopu, a następnie poziomo do oczu obserwatora. Ponadto, wystająca ponad wodę cześć peryskopu musi być nie rzucająca się w oczy (w celu minimalizacji możliwości jego wizualnego dostrzeżenia) oraz opływowa. Z tych względów, peryskop ma zwykle formę długiej i cienkiej rury. Współczesne peryskopy mogą mieć długość nawet 18 metrów. Podczas gdy okręt podwodny znajduje się na głębokości odpowiadającej długości tuby peryskopy, uznaje się że jednostka znajduje się na "głębokości peryskopowej". Z uwagi na tę długość urządzenia, umieszczenie dwóch luster na obu końcach peryskopu nie jest wystarczające do dostarczenia obrazu z zewnętrznego obiektywu peryskopu do jego okularu, z tego też względu zamiast luster w peryskopach stosuje się pryzmaty na szczycie i dnie peryskopu, umieszczone równolegle do siebie. Górny pryzmat zbiera światło obrazu i odbija je przez szereg soczewek oraz dwa teleskopy znajdujące się wzdłuż długości tuby, gdzie odbite światło pada na dolny pryzmat. Dolny pryzmat odbija światło w drugą tubę, zawierającą dwie soczewki, gdzie przechodzi przez okular do oczu obserwatora. Peryskop umieszczony jest zwykle w studzience przechodzącej przez całą długość kiosku okrętu, w której ma możliwość obrotu o 360° celem umożliwienia obserwatorowi obserwacji wzdłuż całej linii horyzontu. Większość okrętów wyposażona jest w dwa peryskopy.
+
+Wprowadzenie na szeroką skalę do działań przeciwpodwodnych radarów spowodowało, że wystające ponad wodę peryskopy stały się łatwo wykrywalne dla sił ZOP. Pociągnęło to za sobą konieczność pokrywania go specjalnymi warstwami materiałów lub farb rozpraszających lub pochłaniających fale promieniowania elektromagnetycznego. Dalszy postęp technologiczny, doprowadził do stopniowego zastepowania tradycyjnych peryskopów urządzeniami video.
+
+Zobacz też
+
+peryskop odwracalny
+
+
+
+
+

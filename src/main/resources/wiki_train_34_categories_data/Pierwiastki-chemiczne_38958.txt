@@ -1,0 +1,19 @@
+Dodatek stopowy - metal lub inna substancja dodana w niewielkich ilościach do stopu w celach modyfikacji pewnych jego charakterystyk.
+
+Do najczęściej stosowanych dodatków w stalach zalicza się:
+nikiel: Obniża temperaturę przemiany austenitycznej oraz prędkość hartowania. W praktyce ułatwia to proces hartowania i zwiększa głębokość hartowania. Nikiel rozpuszczony w ferrycie umacnia go, znacznie podnosząc wytrzymałość na uderzenie. Dodatek niklu w ilości 0,5% do 4% dodaje się do stali do ulepszania cieplnego, a w ilościach 8% do 10% do stali kwasoodpornej. W symbolach stali dodatek niklu oznacza się literą N.
+chrom: Powoduje rozdrobnienie ziarna. Podwyższa hartowność stali. Zwiększa jej wytrzymałość. Stosowany w stalach narzędziowych, konstrukcyjnych i specjalnych (nierdzewnych lub żaroodpornych). W tych ostatnich nawet w ilościach do 30%. W symbolach stali dodatek chromu oznacza się literą H.
+mangan: Obniża temperaturę przemiany austenitycznej, a przy zawartości powyżej 15% stabilizuje i umożliwia uzyskanie struktury austenitycznej w normalnych temperaturach. Już przy zawartościach 0,8% do 1,4% znacznie podwyższa wytrzymałość na rozciąganie, uderzenie i ścieranie. W symbolach stali dodatek manganu oznacza się literą G.
+wolfram: Zwiększa drobnoziarnistość stali, powiększa wytrzymałość, odporność na ścieranie. Duży dodatek wolframu 8% do 20% zwiększa odporność stali na odpuszczanie. W symbolach stali dodatek wolframu oznacza się literą W.
+molibden: Zwiększa hartowność stali. Podnosi wytrzymałość i zmniejsza kruchość, oraz podnosi odporność na pełzanie. W symbolach stali dodatek molibdenu oznacza się literą M.
+wanad: Zwiększa drobnoziarnistość stali i znacznie powiększa jej twardość. Zwiększa hartowność stali. Tworzy  trwałe węgliki typu MC. W symbolach stali dodatek wanadu oznacza się literą V (F).
+kobalt: Zwiększa drobnoziarnistość stali i znacznie powiększa jej twardość. Jako jedyny pierwiastek zmniejsza hartowność. Nie tworzy węglików. W symbolach stali dodatek kobaltu oznacza się literą K.
+krzem: Normalnie traktowany jako niepożądana domieszka, zwiększa kruchość stali. Staje się pożądanym składnikiem w stalach sprężynowych. Ze względu na fakt, że zmniejsza energetyczne stany prądowe w stali, dodaje się go w ilościach do 4% do stali transformatorowej. W symbolach stali dodatek krzemu oznacza się literą S.
+tytan: W symbolach stali dodatek tytanu oznacza się literą T Dodatek do stali kwasoodpornych.
+niob: Stosuje się jako mikrododatek w stali. Tworzy węgliki typu MC. W symbolach stali dodatek niobu oznacza się literą Nb.
+glin (aluminium): Odtlenia stal i zawsze znajduje się w stali uspokojonej. W symbolach stali dodatek aluminium oznacza się literą A.
+miedź: Posiada podobne właściwości fizyczne jak czyste żelazo, lecz jest znacznie bardziej odporna na korozję. Miedź jest pożądanym dodatkiem i jej zawartość systematycznie wzrasta, wraz z użyciem stali złomowej przy wytapianiu nowej stali. W symbolach stali dodatek miedzi oznacza się literą Cu.
+
+
+
+

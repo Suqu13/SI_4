@@ -1,0 +1,11 @@
+Rezonans Fermiego, sprzężenie Fermiego jest to zjawisko polegające na pojawieniu się w widmie oscylacyjnym dwóch leżących blisko siebie pasm zamiast jednego. Występuje wtedy, gdy energie dwóch przejść oscylacyjnych (często przejścia podstawowego i nadtonu lub przejścia podstawowego i tonu złożonego) o takiej samej symetrii są do siebie zbliżone.
+
+Rezonans Fermiego może wystąpić tylko wtedy, gdy drgania normalne cząsteczek o tej samej symetrii mają prawie jednakowe energie, i oscylatory mogę przekazywać między sobą energię (drgania są w tej samej cząsteczce lub w cząsteczkach w bliskim kontakcie ze sobą, na przykład związanych przez  wiązanie wodorowe). Widma spektroskopii w podczerwieni ulegają wówczas zaburzeniu polegającemu na pojawieniu się zamiast jednego pasma, dwóch, odpowiednio o częstości wyższej i niższej. Zjawisko to obserwowane jest również w oscylacyjnym widmie Ramana.
+
+Rezonans Fermiego został odkryty przez E. Fermiego w 1931 roku w cząsteczce dwutlenku węgla, gdzie nadton drgania zginającego i ton podstawowy symetrycznego drgania rozciągającego mają niemal jednakową energię, co skutkuje pojawieniem się w widmie Ramana dwóch pasm w położeniach 1285 cm-1 i 1388 cm-1, zamiast oczekiwanego jednego w położeniu 1354 cm-1.
+
+Rezonans Fermiego jest głównym źródłem charakterystycznych własności widm podczerwonych układów związanych przez wiązanie wodorowe. Według teorii S. Bratoża i D. Hadziego polega on na występowaniu zaburzenia pomiędzy blisko siebie położonymi poziomami rotacyjnymi i poziomami oscylacyjnymi cząsteczek związanych tymi wiązaniami. Zjawisko rezonansu Fermiego odpowiedzialne jest za pojawienie się w widmie w podczerwieni tak zwanych okien Evansa.
+
+
+
+

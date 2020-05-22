@@ -1,0 +1,39 @@
+PSP-80''' (Programowalny Sterownik Przemysłowy), to modułowy system mikrokomputerowy, pełniący rolę lokalnej stacji kontrolnej i sterującej procesami przemysłowymi. System stworzony został głównie dla potrzeb przemysłu górniczego i produkowany był przez Zakład Elektroniki Górniczej w Tychach.
+
+Na bazie tego systemu można było budować:
+systemy nadzoru produkcji,
+kanały we-wy urządzeń,
+lokalne układy kontroli i sterowania węzłami technologicznymi,
+systemy przetwarzania danych,
+systemy laboratoryjne i eksperymentalne.
+
+System budowany był w oparciu o moduły (pakiety):
+pakiet MS-80: stanowiący podstawowy moduł systemowy
+procesor : MCY 7880 (odpowiednik 8080)
+EPROM : 4 kB
+RAM : 4 kB
+2 x RS232
+3&nbsp;×&nbsp;8&nbsp;we-wy równoległych
+8 poziomów przerwań
+pakiety MP: pakiety pamięci w kilku standardowych konfiguracjach, max. 64 kB RAM
+pakiety MI (interface module): pakiety we-wy specjalistycznych
+pakiet MA: pakiet analogowy
+32 wejścia prądowe 4-20 mA izolowane galwanicznie,
+dokładność przetwarzania 1%
+szybkość przetwarzania 20 μs
+pakiet MM (multimodule): pakiet uniwersalny
+EPROM : 8 kB
+RAM : 64 kB
+sterownik stacji dysków.
+
+Oprogramowanie systemu było tworzone:
+za pomocą kompilatora skrośnego pracującego w zewnętrznym systemie
+za pomocą specjalistycznego systemu uruchomieniowego, np. RTDS-8
+za pomocą dostarczonego przemysłowego systemu czasu rzeczywistego wyposażonego w makroasembler i kompilator języka Pascal.
+
+Zobacz też:
+MSP-80
+
+
+
+

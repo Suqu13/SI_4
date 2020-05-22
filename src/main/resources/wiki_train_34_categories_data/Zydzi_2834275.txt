@@ -1,0 +1,48 @@
+Zaba (arab. زبعة) - nieistniejąca już arabska wieś, która była położona w Dystrykcie Beisan w Mandacie Palestyny. Wieś została wyludniona i zniszczona podczas wojny domowej w Mandacie Palestyny, po ataku sił żydowskiej Hagany w dniu 12 maja 1948 roku.
+
+Położenie
+Wioska Zaba leżała w północno wschodniej części Doliny Bet Sze'an. Wioska była położona w depresji rzeki Jordan na wysokości -225 metrów p.p.m., w odległości 5 kilometrów na północny wschód od miasta Beisan. Według danych z 1945 roku do wsi należały ziemie o powierzchni 396,8 ha. We wsi mieszkało wówczas 170 osób.
+
+
+
+
+
+
+
+Historia
+W okresie panowania Brytyjczyków Zaba była niewielką wioską, której mieszkańcy utrzymywali się z upraw zbóż.
+
+
+
+ImageSize = width:500 height:270
+PlotArea = left:50 right:40 top:20 bottom:40
+TimeAxis = orientation:vertical 
+AlignBars = justify 
+Colors = 
+  id:gray1 value:gray(0.9)
+DateFormat = yyyy
+Period = from:0 till:197
+ScaleMajor = unit:year increment:50 start:0 gridcolor:gray1
+TextData =
+  pos:(250,20) textcolor:black fontsize:S
+  text:Ludność Zaby
+PlotData =
+  bar:1931 color:gray1 width:1 
+   from:0 till:147  width:15  text:147 textcolor:red  fontsize:8px
+  bar:1945 color:gray1 width:1 
+   from:0 till:170  width:15  text:170 textcolor:red  fontsize:8px
+  bar:1948 color:gray1 width:1 
+   from:0 till:197  width:15  text:197 textcolor:red  fontsize:8px
+
+
+
+Przyjęta 29 listopada 1947 roku Rezolucja Zgromadzenia Ogólnego ONZ nr 181 przyznała te tereny państwu żydowskiemu. Podczas wojny domowej w Mandacie Palestyny w dniu 12 maja 1948 roku żydowscy żołnierze (Brygada Golani) zajęli wioskę Zaba. Wszyscy jej mieszkańcy zostali wysiedleni (uciekli do Transjordanii), a następnie wyburzono domy.
+
+Miejsce obecnie
+Teren wioski Zaba został zajęty przez pola uprawne sąsiedniego moszawu Bet Josef. Palestyński historyk Walid Khalidi, tak opisał pozostałości wioski Zaba: "Teren jest pokryty trawą, drzewami i kamieniami. Izraelczycy na gruntach wioski realizują kilka projektów rolniczych oraz rybołówstwo".
+
+
+
+
+
+

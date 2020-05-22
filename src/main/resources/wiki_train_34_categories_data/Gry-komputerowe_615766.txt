@@ -1,0 +1,74 @@
+ – gra komputerowa i wideo wydana po raz pierwszy w 1981 roku, pierwotnie przeznaczona na automaty do gier. Celem gry jest uratowanie Lady (później nazywana Pauline), ukochanej głównego bohatera, do której dotrzeć można skacząc po platformach. Donkey Kong, duży brązowy goryl, stara się to zadanie utrudnić rzucając beczki, które gracz musi przeskakiwać.
+
+Gra jest głównym tematem filmu dokumentalnego pt. ''''.
+
+Fabuła i postacie
+Tytułowy Donkey Kong to czarny charakter gry. Jest zwierzęciem należącym do głównego bohatera gry, stolarza o imieniu Jumpman. Postać ta później została nazwana Mario, a jej zawód zmieniono na hydraulika. Jumpman źle traktuje swojego pupila, w konsekwencji czego goryl w złości porywa ukochaną bohatera, która początkowo nazywana była Lady, a następnie Pauline. Gracz wciela się w rolę Jumpmana i próbuje uratować dziewczynę z rąk rozzłoszczonego zwierzęcia. Jest to pierwszy przypadek gry, która bazuje na motywie damy w tarapatach, który później stał się szablonem dla wielu gier wideo.
+
+Gra korzysta z grafiki oraz animacji jako formy personifikacji i ekspresji charakteru bohaterów. Donkey Kong chichocze i śmieje się z niepowodzeń Jumpmana. Lady jest od razu rozpoznawalna jako kobieta dzięki różowej sukience i długim włosom; obok niej pojawia się co chwilę napis ''"HELP!"'' (pol. Pomocy!''). Jumpman jest postacią reprezentującą popularny w Japonii typ everymana. Na jego wizerunek wpłynęły ograniczenia techniczne: trudno było narysować twarz, zatem dano mu wąsy, programiści nie mogli stworzyć animacji włosów, więc dali mu czapkę z daszkiem, a by ruchy rąk były bardziej wyraźne, nadano im kolor odmienny od koloru tułowia, tworząc strój podobny do szelek.
+
+Fabułę gry tworzą krótkie animacje przerywające jej akcję. Na początku goryl wspina się po drabinie na górę konstrukcji, po czym skacze kilkakrotnie, uszkadzając i przechylając platformy. Gdy gracz dostanie się na samą górę, pojawia się serce nad parą kochanków, jednak chwilę później zostaje ono złamane, gdyż goryl ponownie porywa dziewczynę, wspinając się jeszcze wyżej. Na końcu gry Jumpman jednoczy się z ukochaną, a goryl upada na ziemię. Gra wtedy zaczyna się od początku na wyższym poziomie trudności.
+
+Rozgrywka
+Donkey Kong jest wczesnym przykładem gry platformowej. Wiele źródeł podaje, iż była to pierwsza w historii tego typu gra, jednak wcześniej wydano Space Panic. Według The Illustrated History of Electronic Games grę charakteryzuje wysoki poziom trudności. Szczególnie trudne jest wyczucie odpowiednich momentów, w których Jumpman powinien wykonać skok. Oprócz głównego celu, jakim jest uratowanie ukochanej stolarza, gracz nagradzany jest punktami za ukończenie planszy, za przeskok nad szczególnie trudnymi przeszkodami, za niszczenie jednych obiektów młotkiem i zbieranie drugich do czapki (portfele i parasolki prawdopodobnie należące do Lady/Pauline). 
+
+Istnieje oficjalny ranking graczy, którzy uzyskali najwyższy wynik punktowy w grze. W lipcu 2008 na jego szczycie znajdował się Billy Mitchell, który 26 czerwca 2007 osiągnął wynik 1&nbsp;050&nbsp;200 punktów. Drugim graczem na liście był Steven Wiebe, który osiągnął tylko o 1100 punktów mniej; Steven jest pierwszą osobą, która osiągnęła wynik ponad miliona punktów. Aktualny rekord w wysokości 1&nbsp;138&nbsp;600 należy do Hanka Chien, nowojorskiego chirurga plastycznego.
+
+Gra podzielona jest na cztery pełnoekranowe plansze. Każda przedstawia 25 metrów konstrukcji, po której wspina się Donkey Kong. Późniejsze wersje i porty zmieniają kolejność i liczbę poziomów. Oryginalna wersja zawiera następujące plansze:
+Plansza 1 (25 metrów)''' – Jumpman/Mario musi się wspiąć po konstrukcji zbudowanej z 7 stalowych platform, lekko przechylonych od skoków goryla i połączonych drabinami. Gracz musi także unikać płomieni oraz beczek zrzucanych przez Donkey Konga, które turlają się na sam dół konstrukcji.
+Plansza 2 (50 metrów)''' – Jumpman/Mario wspina się po pięciopiętrowej konstrukcji, na której znajdują się taśmy transportujące cement. W planszy tej również pojawiają się płomienie, które śledzą gracza. Ta plansza nie pojawia się w wersji NES.
+Plansza 3 (75 metrów)''' – Jumpman/Mario, korzystając z dwóch wind posuwających się w przeciwne strony, unikając płomieni i obiektów regularnie wyrzucanych z góry, musi dostać się na szczyt konstrukcji.
+Plansza 4 (100 metrów)''' – Jumpman/Mario musi wcisnąć i usunąć osiem bolców, utrzymując konstrukcję w całości. Po ich wciśnięciu całość zawala się, a goryl upada na ziemię. Ostatecznie główny bohater jednoczy się z ukochaną, a gra zaczyna się od nowa z wyższym poziomem trudności.
+
+Gra toczy się cały czas tylko na czterech, tych samych planszach. Po ich przejściu, gra toczy się od nowa, ale na wyższym poziomie, który różni się stopniem trudności wynikającym z liczby oraz szybkości przemieszczania się ruchomych obiektów i dodatkowych przeszkód. Oryginalna gra ma 22. poziomy. Ostatni poziom to tzw. ekran śmierci, bowiem z powodu błędu programisty Jumpman zawsze ginie po kilku sekundach, definitywnie kończąc rozrywkę.
+
+Rozwój i implementacja gry
+
+Do początku 1981, wszelkie próby Nintendo wejścia na północnoamerykański rynek gier wideo kończyły się fiaskiem; punktem kulminacyjnym porażek była gra Radar Scope, która nie osiągnęła znaczącej popularności. Dyrektor firmy, Hiroshi Yamauchi, zdecydował, iż należy przerobić automaty z grą Radar Scope na coś nowego. Yamauchi zlecił to zadanie młodemu projektantowi przemysłowemu Shigeru Miyamoto, który pracował dla Nintendo od 1977 roku a nadzór ogólny nad projektem przekazał głównemu inżynierowi firmy Gunpei Yokoi. 
+
+Nintendo próbowało kupić licencję na postać z komiksów i filmów animowanych Popeye w celu uczynienia go bohaterem serii gier. Gdy to się nie udało, firma zdecydowała się stworzyć własne postaci. Miyamoto miał wiele pomysłów i planów, jednak ostatecznie zdecydował się na trójkąt miłosny stolarza, dziewczyny i goryla, których wzajemne relacje były częściowo wzorowane na bohaterach komiksów z udziałem Popeya. Bluto, umięśniony, ale bezmyślny konkurent Popeya o rękę panny Olive Oyl został przekształcony w goryla, określanym przez Miyamoto jako "postać nie tak bardzo zła i repulsywna". Miał należeć do głównego bohatera, "śmiesznego i wyluzowanego gościa". Miyamoto także wskazał na Piękną i Bestię i King Konga jako filmy, które były inspiracją dla gry. Donkey Kong jest pierwszą grą, której fabuła była stworzona przed rozpoczęciem pisania programu.
+
+Yamauchi chciał skierować grę głównie dla północnoamerykańskiej publiczności, stąd zgodził się na wykorzystanie angielskiego tytułu. Miyamoto zdecydował się nazwać grę od goryla, który według niego był najwyrazistszą postacią. Istnieje kilka wyjaśnień genezy tytułu. Jedna z historii, będąca miejską legendą mówi, iż gra oryginalnie miała nazywać się Monkey Kong (pol. małpa [o imieniu] Kong), lecz nastąpiło jej zniekształcenie w trakcie odczytywania niewyraźnego faxu lub w innej wersji na skutek złej jakości połączenia telefonicznego. Według innej historii Miyamoto szukał w słowniku słowa, które oznaczałoby upartość (donkey po angielsku oznacza osła) albo głupkowatość, a Kong to w Stanach Zjednoczonych kolokwialne określenie goryla.
+
+Licencje i porty gry
+
+
+Do czerwca 1982 roku, sukces Donkey Konga zachęcił ponad 50 firm w Stanach Zjednoczonych i Japonii do licencjonowania postaci z gry. Mario razem z jego głównym przeciwnikiem pojawili się na opakowaniach płatków śniadaniowych, grach planszowych, piżamach i w mangach. W 1983 roku, studio animacji filmowej Ruby-Spears wyprodukowało kreskówkę Donkey Kong dla programu Saturday Supercade na stacji CBS. W serialu animowanym, Mario i Pauline poszukują Donkey Konga, który uciekł z cyrku; zostały wydane dwa sezony serialu.
+
+Twórcy konsoli wideo również wykazali zainteresowanie grą. Firma Taito zaoferowała pokaźną sumę aby kupić prawa do Donkey Konga, jednak Nintendo odmówiło. Rywale Coleco i Atari również próbowali nawiązać współpracę z Nintendo. Ostatecznie, Yamuachi dał prawa firmie Coleco do produkcji gier Donkey Kong na platformy konsolowe, ponieważ czuł iż "była to najgłodniejsza firma". Dodatkowo, Arakawa uważał, iż Coleco lepiej poradzi sobie z marketingiem. W zamian za prawa do produkcji gry, Nintendo miało otrzymać nieokreśloną sumę pieniędzy plus 1,40$ za każdą sprzedaną grę oraz 1$ za każdą sprzedaną maszynę typu "tabletop". 24 grudnia 1981 Howard Lincoln napisał szkic umowy. Arakawa podpisał dokument następnego dnia i 1 lutego 1982 Yamauchi przekonał reprezentanta Coleco w Japonii do podpisania dokumentu bez wcześniejszej analizy prawników.
+
+Coleco nie oferowało jedynie samej gry; była ona dołączana do ColecoVision. Gra weszła do sprzedaży w czerwcu 1982. Wersja Coleco jest bardzo zbliżona do wersji na automaty do gry. Sześć miesięcy później, Coleco zaoferowało również wersje na Atari 2600 i Intellivision. Sprzedaż Coleco została podwojona i osiągnęła wartość 500&nbsp;000&nbsp;000$, a zarobki firmy wzrosły czterokrotnie do 40&nbsp;000&nbsp;000$.
+
+W międzyczasie, Atari otrzymała prawa do wydania gry na dyskietki i przygotowała wersję gry na Atari 800. Gdy Coleco przedstawiło swój nowy produkt - Adam Computer, pokazując na nim port Donkey Konga, Atari zaprotestowało. Yamachi zażądał aby Arnold Greenberg, prezes Coleco, zrezygnował z tego portu.
+
+Miyamoto stworzył bardzo uproszczoną wersję gry na system Game & Watch. Porty gry ukazały się również na Apple II, Atari 7800, Commodore 64, Commodore VIC-20, Famicom Disk System, ZX Spectrum, Amstrad CPC i komputery PC.
+
+Wydanie gry
+NES
+
+
+Automaty do gier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

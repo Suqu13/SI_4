@@ -1,0 +1,33 @@
+Pozycja Saavedry – ważne szachowe studium gry końcowej "pion przeciw wieży", w którym wygrywa słabsza materialnie strona. Pozycja została przeanalizowana w 1895 roku na łamach tygodnika Weekly Citizen, ukazującego się w Glasgow. Przy okazji analizy pewnej partii redakcja umieściła tę pozycję z przeświadczeniem, że czarne remisują po sprytnym 5... Wd4! Czytelnik, Fernando Saavedra (1849-1922), znalazł jednak piękną odpowiedź 6. c8=W!! i w ten sposób, nie będąc wybitnym szachistą, zapisał się w historii szachów. W grze praktycznej końcówka "pion przeciw wieży" jest zazwyczaj łatwo wygrana przez stronę silniejszą lub przynajmniej remisowa, jako że strona silniejsza w ostateczności może wymienić wieżę za piona. Opisana poniżej pozycja jest wyjątkowa, ze względu na zaawansowanie piona i niefortunną pozycję wieży. 
+
+
+Studium ukazuje sposób rozgrywania tego rodzaju końcówek, z wykorzystaniem motywu patowego i słabej promocji. Pozycja Saavedry została przedstawiona na diagramie po prawej stronie. Białe zaczynają i wygrywają. 
+
+'''1. c7 Wd6+'''
+
+Białe grożą promocją w następnym posunięciu. Czarne nie mogą zapobiec promocji inaczej niż przez szachowanie białego króla. Jeśli teraz białe zagrają 2. Kc5? czarne łatwo remisują: 2...Wd1! i białe nie mogą uniknąć wymiany wieży za piona (3. c8=H?? Wc1+ z wygraniem hetmana). Białe zatem muszą odciąć czarną wieżę od pola c1:
+
+'''2. Kb5 Wd5+'''
+'''3. Kb4 Wd4+'''
+'''4. Kb3 Wd3+'''
+'''5. Kc2!'''
+
+Czarne teraz nie mogą grać Wd1, bo stracą wieżę, ale mogą zastawić pułapkę:
+
+'''5... Wd4!'''
+
+Nieprzemyślana promocja na hetmana doprowadzi do remisu: ''6. c8=H? Wc4+! 7. Hxc4'' i czarny król jest w pacie! Saavedra znalazł jednak drogę do wygranej:
+
+'''6. c8=W!!'''
+
+Białe grożą matem: ''7.Wa8+ Wa4 8 Wxa4#.'' 
+
+'''6... Wa4'''
+'''7. Kb3'''
+
+W obronie przed matem (''8. Wc1#'') czarne muszą oddać wieżę.
+
+Zobacz też
+pozycja Luceny
+
+Linki zewnętrzne

@@ -1,0 +1,5 @@
+Stal do azotowania – jest to grupa stali przeznaczonych do  azotowania. Azotowaniu poddaje się stale konstrukcyjne  niskostopowe oraz  stopowe. Głównymi dodatkami stopowymi, są Al, Cr, Mo. Pierwiastki te tworzą twarde azotki, a ich kombinacja zapewnia gradientowy wzrost twardości ku powierzchni. Dzięki temu stale te zachowują wysoką odporność na naprężenia stykowe (w kołach zębatych).
+W składzie chemicznym stali do azotowania mogą występować pierwiastki podwyższające hartowność np. bor, gdyż przeznaczone są również do ulepszania cieplnego.
+Polska Norma PN-EN 10085:2003 (kiedyś PN-H-84030-03:1989) podaje trzy gatunki stali wraz ze składem chemicznym oraz właściwościami fizycznymi, mechanicznymi i technologicznymi. Są to gatunki 38HMJ, 33H3MF, 33H2NMJ.
+
+

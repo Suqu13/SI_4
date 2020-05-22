@@ -1,0 +1,45 @@
+KW-1''' – radziecki czołg ciężki z serii KW z okresu II wojny światowej. Powstał w 1939 w Leningradzkich Zakładach Kirowskich, był produkowany także w Czelabińskiej Fabryce Traktorów ogółem w liczbie 4786 egzemplarzy wszystkich wersji. Nazwany od radzieckiego komisarza obrony Klimenta Woroszyłowa. Jeden z radzieckich czołgów przewyższających konstrukcje niemieckie z początkowego okresu wojny.
+
+Historia
+
+Po rozczarowujących wynikach testów wielowieżowego czołgu T-35 radzieccy konstruktorzy rozpoczęli prace nad maszyną mającą go zastąpić. T-35 nawiązywał do doktryny z lat 20. XX wieku, która zakładała istnienie czołgu do przełamywania linii silnej obrony. Taki czołg miał mieć bardzo dużą siłę ognia, ale słabą mobilność i opancerzenie. Hiszpańska wojna domowa ukazała potrzebę zwiększenia opancerzenia czołgów i miała silny wpływ na radzieckie konstrukcje w tym okresie.
+
+Powstało kilka konkurencyjnych prototypów, a jeszcze więcej było w fazie projektowania. Wszystkie posiadały silne opancerzenie, szerokie gąsienice, konstrukcję odlewaną i spawaną. Jednym z głównych projektów branych pod uwagę był SMK posiadający trzy wieże, uzbrojony w tą samą kombinację dwóch rodzajów, 76,2 mm i 45 mm, armat. Jednak po zamówieniu dwóch prototypów postanowiono zamówić trzeci z jedną wieżą, ale z cięższym opancerzeniem. Tym nowym jednowieżowym czołgiem był KW-1'''. Mniejsze wymiary kadłuba i pojedyncza wieża pozwalały konstruktorom na pogrubienie pancerza, przy jednoczesnym utrzymaniu masy maszyny w rozsądnych granicach.
+
+Po rozpoczęciu wojny zimowej SMK, KW-1 i trzeci czołg T-100, zostały wysłane do przetestowania w warunkach bojowych. Pancerz KW wykazał wysoką skuteczność przeciw fińskiemu uzbrojeniu ppanc., co czyniło go lepszym w stosunku do dwóch pozostałych konstrukcji. Wkrótce skierowano go do produkcji w dwóch wersjach: podstawowej, czyli czołgu ciężkiego KW-1''' z armatą kalibru 76 mm oraz haubicy samobieżnej kal. 152 mm, czyli ciężkiego czołgu KW-2'''.
+
+Ważący 45 ton KW-1 był cięższy niż większość czołgów tamtej epoki. Był około dwukrotnie cięższy niż ówczesne czołgi niemieckie. Siła KW-1 zawierała się w pancerzu nieprzebijalnym dla większości uzbrojenia czołgowego (z wyjątkiem bardzo małych odległości), dobrej sile ognia oraz zadowalającej mobilności nawet na miękkim podłożu. Jednak pomimo swoich zalet miał też dość poważne wady. Był bardzo wolny i trudny w sterowaniu, miał zawodny silnik, kiepską ergonomię. Posiadał ograniczone możliwości obserwacyjne przestrzeni wokół czołgu i nie posiadał kosza wieży. W 1942 roku Niemcy rozpoczęli testy polowe wielu nowych, długolufowych armat 50 mm i 75 mm, co sprawiło, że pancerz KW-1 nie był już nieprzebijalny, wyszły też na światło dzienne inne wady. Jego działo wciąż było skuteczne, ale takie samo miał tańszy T-34/76. Był znacznie trudniejszy do wyprodukowania, przez co droższy, niż T-34.
+
+Po ataku Rzeszy na Związek Radziecki w 1941 roku Armia Czerwona dysponowała 639 czołgami KW-1. Ich pancerz był tak silny, że niemieccy żołnierze nie byli w stanie zniszczyć tych czołgów za pomocą własnego uzbrojenia przeciwpancernego, czy swoich czołgów i musieli polegać na wsparciu lotniczym oraz na zastosowanym nietypowo uzbrojeniu przeciwlotniczym (głównie na armacie Flak 18, czyli słynnej "osiemdziesiątce ósemce" w wersji przeciwlotniczej). 
+
+Z powodu dobrych osiągów KW-1, jako jeden z nielicznych czołgów, był dalej produkowany po radzieckiej reorganizacji produkcji. W celu standaryzacji posiadał ten sam silnik, działo i układ transmisyjny, co T-34. Został zbudowany w dużych ilościach i był często modyfikowany.
+
+
+Z biegiem wojny ulepszano pancerz KW-1, aby skompensować rosnącą skuteczność niemieckiego uzbrojenia. Końcowym efektem był KW-1C (model 1942), posiadający bardzo gruby i ciężki pancerz, ale brakowało mu odpowiednio mocnego silnika. Czołgiści narzekali, że chociaż pancerz spełniał swoje zadanie, czołg był mało mobilny, a siłą ognia nie przewyższał T-34.
+
+Odpowiedzią na to był KW-1S, mający cieńszy pancerz i niższą, mniejszą wieżę, w celu zyskania większej prędkości maszyny. Co ważniejsze, posiadał wieżyczkę dowódcy ze szczelinami obserwacyjnymi dookoła niej, po raz pierwszy w radzieckim czołgu ciężkim. Jednak dalsze odchudzanie pancerza spowodowało zakwestionowanie sensu dalszej produkcji, skoro te same zadania spełniał o wiele tańszy T-34.
+
+Pojawienie się na froncie czołgu PzKpfw V Panther wiosną 1943 roku przekonało dowództwo radzieckie, że potrzebne są dalsze, szerokie modyfikacje własnych czołgów. Armia Czerwona potrzebowała lepszego uzbrojenia, by nadążyć za rosnącą ilością Panter i Tygrysów. Jednym z wyników był KW-85'''. Była to odmiana KW-1S z wieżą zaprojektowaną dla KW-13, wyposażoną w działo D-5T kalibru 85 mm, to samo, które stanowiło uzbrojenie działa samobieżnego SU-85 i wczesnych wersji T-34/85. Ponieważ czołg ten traktowany był jako model przejściowy, do wprowadzenia czołgów IS-1, wyprodukowano jedynie 148 czołgów KW-85, które wzięły następnie udział w walkach. Produkowane były na przełomie lat 1943–1944.
+
+Użycie bojowe
+
+
+W chwili rozpoczęcia niemieckiej inwazji na Związek Radziecki Armia Czerwona dysponowała 639 czołgami KW. Ich opancerzenie okazało się na tyle skuteczne, że Niemcy nie byli w stanie zniszczyć ich za pomocą własnych czołgów i broni przeciwpancernej i musieli polegać na wsparciu lotniczym i artylerii przeciwlotniczej lub na haubicach kalibru 105 mm w przypadku napotkania tych czołgów.
+
+Krasnogwardiejsk
+14 sierpnia 1941 roku oddziały idące na przodzie niemieckiej 8. Dywizji Pancernej zbliżyły się do miasta Krasnogwardiejsk (obecnie Gatczyna) koło Leningradu (Sankt Petersburg). Jedynymi radzieckimi siłami dostępnymi do próby zatrzymania niemieckiego natarcia było pięć dobrze zakamuflowanych i okopanych czołgów KW-1 pośród lasu na skraju bagien. Czołgiem z numerem taktycznym 864 oraz całą grupą dowodził porucznik Zinowiej Kołobanow.
+
+Wojska niemieckie zaatakowały Krasnogwardiejsk z trzech stron. Koło osady Nowyj Uczchoz ukształtowanie terenu dawało obrońcom przewagę, jako że jedyna droga w okolicy przebiegała przez bagna, więc broniący tej okolicy mogli łatwo kontrolować ten obszar z ukrytych stanowisk. Porucznik Kołobanow szczegółowo przeanalizował sytuację i przygotował swój oddział dzień wcześniej. Każdy z czołgów KW-1 został wyposażony w podwojoną, w stosunku do normalnej, ilość amunicji, z czego dwie trzecie stanowiły pociski przeciwpancerne. Kołobanow rozkazał swoim podwładnym dowódcom wstrzymać ogień i oczekiwać na rozkazy. Nie chciał ujawniać od razu całości swoich sił, więc ustawił czołgi tak, aby jednocześnie tylko jeden z nich prowadził ogień do nieprzyjaciela.
+
+
+14 sierpnia jednostki na czele 8. Dywizji Pancernej zostały złapane w przygotowaną zasadzkę. Czołg Kołobanowa jednym strzałem zniszczył idący na czele kolumny czołg niemiecki. Niemcy mylnie uznali, że czołg wjechał na minę przeciwpancerną i nie zauważyli, że wpadli w zasadzkę. Kolumna zatrzymała się umożliwiając Kołobanowowi zniszczenie kolejnego czołgu. Niemcy uświadomili sobie, że to jest zasadzka, ale nie udało im się zlokalizować strzelającego do nich czołgu. W momencie, gdy niemieccy czołgiści zaczęli strzelać na oślep, Kołobanow zniszczył czołg zamykający kolumnę blokując pozostałym pojazdom drogę ucieczki.
+
+Pomimo, że żołnierze niemieccy odkryli, skąd pochodzą strzały, mogli dostrzec jedynie czołg Kołobanowa. Niemieckie czołgi podjęły próbę ataku, jednak łatwo zagrzebywały się w miękkim gruncie stając się łatwymi celami. Zanim w czołgu Kołobanowa skończyła się amunicja, zdążył on zniszczyć 22 niemieckie czołgi oraz dwa działa holowane. Wtedy rozkazał kolejnemu KW-1 otworzyć ogień i przed końcem półgodzinnej bitwy kolejnych 21 czołgów niemieckich zostało zniszczonych. Ogółem straty niemieckie osiągnęły 43 zniszczone czołgi przy siłach radzieckich liczących pięć czołgów (dwa kolejne pozostawały w rezerwie). Niektóre źródła podają 38 zniszczonych czołgów niemieckich: Kołobanow - 22 czołgi a po nim Siergiejew - 8 czołgów, Jewdokimienki - 4 czołgi, Łastoczkin - 4 czołgi. 
+
+Po bitwie załoga czołgu Kołobanowa naliczyła 135 śladów po trafieniach w pancerz swojej maszyny, żaden pocisk jednak go nie przebił. Porucznik Kołobanow został odznaczony Orderem Lenina, a jego kierowca-mechanik Orderem Czerwonego Sztandaru. W późniejszym czasie, pomimo degradacji z osiągniętego stopnia kapitana , Kołobanow został ponownie odznaczony przez władze radzieckie. Po zakończeniu II wojny światowej Kołobanow służył w radzieckiej strefie okupacyjnej w Niemczech Wschodnich, gdzie ponownie został ukarany i przeniesiony do rezerwy za ucieczkę jednego ze swoich podwładnych do brytyjskiej strefy okupacyjnej.
+
+Bitwa o Krasnogwardiejsk została wykorzystana przez radziecką propagandę. W miejscu, w którym stał okopany czołg Kołobanowa, dzięki staraniom mieszkańców wsi Nowyj Uczchoz w 1980 roku postawiono pomnik upamiętniający bitwę. Nie można było znaleźć żadnego czołgu KW-1, więc zamiast niego postawiono czołg ciężki z późniejszego okresu, IS-2.
+
+
+
+Bibliografia

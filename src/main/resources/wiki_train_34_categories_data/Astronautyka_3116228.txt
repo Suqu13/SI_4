@@ -1,0 +1,10 @@
+Athena-Fidus (ang. Access on theatres for European allied forces nations - French Italian dual use satellite) – włosko-francuski geostacjonarny szerokopasmowy satelita telekomunikacyjny podwójnego przeznaczenia (cywilno-wojskowego). Będzie pracował na pozycji orbitalnej 38°E. Planowy czas działania wynosi 15 lat.
+__NOTOC__
+Satelita będzie świadczył usługi telekomunikacyjne w pasmach EHF i Ku, wykorzystując standardy DVB-RCS i DVB-S2, głównie poprzez stację naziemną mieszczącą się we francuskiej bazie wojskowej. Będzie obsługiwał głównie francuskie, włoskie i belgijskie ministerstwo obrony, a także służby bezpieczeństwa i ratunkowe innych krajów (agencje bezpieczeństwa, policje, straż pożarną, itp.). Oferowana prędkość przesyłu danych będzie sięgała 3 Gbps.
+
+Budowa i działanie
+Satelita został zbudowany przez firmę Thales Alenia Space, jako główny wykonawca (zaprojektowanie, budowa, testowanie, i odbiór na orbicie), w oparciu o platformę Spacebus 4000. Telespazio odpowiadało za budowę segmentu naziemnego oraz operacje na orbicie. Start obsługiwała firma Arianespace. Wartość projektu to ok. 275 mln euro.
+
+
+
+Bibliografia

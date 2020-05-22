@@ -1,0 +1,21 @@
+W chemii stosuje się odgórnie ustalone przez IUPAC nazewnictwo pierwiastków. Jest ono o tyle wygodne, że można za jego pomocą nazwać nieodkryte dotąd pierwiastki o dużej liczbie atomowej.
+
+
+
+Zasady
+W momencie odkrycia pierwiastka, jego odkrywca ma prawo do zaproponowania jego własnej nazwy. Nazwy te są uznawane przez Komisję Nazewniczą IUPAC dopiero wtedy, kiedy to odkrycie spełni szereg restrykcyjnych warunków i zostanie zweryfikowane przez innych badaczy. Często wokół niedawno odkrytych pierwiastków istnieją liczne kontrowersje, dotyczące zarówno samego odkrycia jak i ustalenia kogo uznać za pierwszego odkrywcę. Obecnie 114 pierwiastków zostało oficjalnie uznane przez IUPAC.
+
+Nieodkryte oraz odkryte, lecz jeszcze oficjalnie nie zatwierdzone przez IUPAC pierwiastki mają tymczasową nazwę systematyczną utworzoną w oparciu o ich liczby atomowe. Nazwy te są tworzone z łacińskich lub greckich liczebników, według reguł zawartych w tabeli obok (ideą przyświecającą przyporządkowaniu nazw liczebnikom jest zapewnienie jednoznaczności oznaczenia liczebnika jedną tylko literą) i dodania do liczebnika końcówki ''-ium. Są jednak małe odstępstwa od tej zasady:
+jeśli 2 lub 3 jest ostatnią cyfrą liczby atomowej w pierwiastku, zamiast bi lub tri wstawia się b lub tr (dzięki temu unika się końcówek biium i triium);
+jeśli 9 poprzedza 0 (np. w liczbie 190), zamiast enn wstawia się en, aby uniknąć zestawień typu ennnil.
+
+Przykłady
+Pierwiastek 119: &nbsp;un + un + enn + ium = &nbsp;ununennium (Uue)
+Pierwiastek 122: &nbsp;un + bi + b + ium = &nbsp;unbibium (Ubb)
+Pierwiastek 190: &nbsp;un + en + nil + ium = &nbsp;unennilium (Uen)
+Pierwiastek 208: &nbsp;bi + nil + oct + ium = &nbsp;biniloctium (Bno)
+
+
+
+
+

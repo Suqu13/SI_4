@@ -1,0 +1,131 @@
+Węglowce – pierwiastki 14 (dawn. IVA lub IV głównej) grupy układu okresowego. Są to węgiel (C), krzem (Si), german (Ge), cyna (Sn), ołów (Pb) i flerow (Fl).
+
+Odkrycie
+
+
+
+
+
+
+
+
+Trzy z sześciu węglowców znano już w starożytności. Były to węgiel, cyna i ołów. Krzem i german zostały odkryte w XIX wieku (krzem przez Antoine Lavoisiera, zaś german przez Clemensa Alexandera Winklera). Flerow został otrzymany sztucznie w 1999 roku przez naukowców z Instytutu Badań Jądrowych w Dubnej.
+
+Występowanie w przyrodzie
+Węgiel wchodzi w skład licznych związków organicznych. Ponadto występuje w przyrodzie w postaci węgli kopalnych. Najważniejszym minerałem zawierającym węgiel jest węglan wapnia. Dużo rzadziej spotyka się go w postaci diamentów. W środowisku naturalnym wyjątkowo daje się odnaleźć w formie fulerenów (np. w strzałkach piorunowych).
+
+Krzem zajmuje drugie miejsce pod względem zawartości w przyrodzie (zaraz po tlenie). Nie występuje jednak w stanie wolnym, ale w postaci krzemionki, krzemianów i glinokrzemianów.
+
+German występuje w przyrodzie w niewielkich ilościach, tylko w postaci związków, np.: germanit (Cu2GeS3), argyrodyt (Ag8GeS6). Niewielkie ilości germanu są zawarte w węglu kamiennym.
+
+Głównym źródłem cyny są minerały: kasyteryt (SnO2), stannin (Cu2FeSnS4).
+
+Ołów występuje w niewielkich ilościach w postaci rodzimej, jednak jego głównym źródłem jest galena (PbS).
+
+Flerow jest syntetycznym pierwiastkiem promieniotwórczym i nie występuje na Ziemi.
+
+Właściwości
+Ze wzrostem liczby atomowej w tej grupie maleje wpływ biernej pary elektronowej. Wynikiem tego jest malejąca trwałość pierwiastków na IV stopniu utlenienia i rosnąca na II. Wszystkie z nich oprócz ołowiu tworzą struktury diamentu, przy czym w przypadku węgla odmiana ta jest izolatorem, a dalsze pierwiastki są, z powodu malejącej szerokości pasma wzbronionego, półprzewodnikami i przewodnikami.
+
+Węgiel jest ciałem stałym, nierozpuszczalnym w wodzie. Grafit jest czarnoszary, odpowiednio wypolerowany ma metaliczny połysk. Diament jest bezbarwny, bezwonny, nie ma smaku. Jest pierwiastkiem mało reaktywnym; w wysokiej temperaturze reaguje z fluorem, tlenem, siarką oraz metalami 1, 2 i 13 grupy. Rozżarzony koks reaguje z wodą, dając mieszaninę tlenku węgla i wodoru (tzw. gaz syntezowy): C + H2O → CO + H2.
+
+Tworzy trzy odmiany alotropowe:
+Diament – bezbarwny, krystaliczny, ma dużą gęstość i twardość; podczas ogrzewania do temperatury powyżej 1500°C przechodzi w grafit.
+Grafit – mała twardość, łupliwość; jest bardziej reaktywny niż diament.
+Fulereny – czarne ciała stałe o metalicznym połysku, odpowiednio domieszkowane mają własności nadprzewodzące i półprzewodnikowe.
+W związkach chemicznych występuje na -4, +2 i +4 stopniu utlenienia.
+
+Krzem to szare, błyszczące, kruche ciało stałe. Jest półprzewodnikiem. W związkach jest czterowartościowy. Występuje, podobnie jak węgiel, w strukturze diamentu.
+
+German jest kruchym, srebrzystobiałym półmetalem o właściwościach półprzewodnikowych. Nie reaguje z wodą oraz z kwasami (oprócz kwasu azotowego).
+
+Cyna jest ciałem stałym. Występuje w trzech odmianach krystalicznych:
+Cyna α – ma strukturę diamentu, która ma właściwości półprzewodnikowe; występuje jako proszek barwy szarej; przemiana w cynę β zachodzi powoli w temperaturze 286,4 K i wyższej;
+Cyna β – srebrzystobiała z niebieskawym odcieniem;
+Cyna γ.
+W związkach chemicznych cyna występuje na -4, +2 i +4 stopniu utlenienia.
+
+Ołów to szarosrebrzysty, miękki, kowalny metal. Na powietrzu pokrywa się warstwą tlenku. Jego sole są zazwyczaj słabo rozpuszczalne lub nierozpuszczalne w wodzie (z wyjątkiem azotanu ołowiu(II) oraz octan ołowiu(II).
+
+Właściwości węglowców w związkach z wodorem
+Związki wodoru z:
+węglem to węglowodory;
+krzemem silany;
+germanem germanany;
+cyną stannany;
+ołowiem plumbany.
+
+W szeregu od węgla do ołowiu maleje trwałość tych związków.
+
+Węgiel tworzy najwięcej związków z wodorem (węglowodory) dzięki trwałym wiązaniom węgiel-węgiel (katenacja). Są one trwałe i jako jedyne z tej grupy nie hydrolizują w wodzie.
+Pierwszy krzemowodór (SiH4) jest nietrwały w środowisku wodnym i na powietrzu.
+
+Najważniejsze związki chemiczne węglowców
+Węgiel:
+Dwutlenek węgla (CO2)
+Tlenek węgla (CO)
+Kwas węglowy (H2CO3)
+Węglik wapnia (CaC2)
+Cyjanowodór (HCN)
+Związki organiczne
+
+Krzem:
+Dwutlenek krzemu (SiO2)
+Kwas krzemowy (H2SiO3)
+Kwas ortokrzemowy (H4SiO4)
+Krzemiany
+Krzemowodory
+Krzemki
+Węglik krzemu (karborund) (SiC)
+
+German:
+Germanowodory
+Siarczek germanu(II) (GeS)
+Siarczek germanu(IV) (GeS4)
+Tlenek germanu(II) (GeO)
+Tlenek germanu(IV) (GeO2)
+
+Cyna:
+Tlenek cyny(II) (SnO)
+Tlenek cyny(IV) (SnO2)
+Kwas cynowy ((SnO2)x•(H2O)y)
+Wodorotlenek cyny(II) (Sn(OH)2)
+Cynowodór (SnH4)
+Siarczek cyny(II) (SnS)
+Siarczek cyny(IV) (SnS2)
+Chlorek cyny(II) (SnCl2)
+Chlorek cyny(IV) (SnCl4)
+
+Ołów:
+Węglan ołowiu(II) (PbCO3)
+Chlorek ołowiu(II) (PbCl2)
+Chlorek ołowiu(IV) (PbCl4)
+Chromian ołowiu(II) (PbCrO4)
+Azydek ołowiu(II) (Pb(N3)2)
+Azotan ołowiu(II) (Pb(NO3)2)
+Tlenek ołowiu(II) (PbO)
+Tlenek ołowiu(IV) (PbO2)
+Tlenek diołowiu(II), ołowiu(IV) (Pb3O4)
+Wodorotlenek ołowiu(II) (Pb(OH)2)
+Siarczek ołowiu(II) (PbS)
+Siarczan ołowiu(II) (PbSO4)
+
+Otrzymywanie
+Węgiel do celów laboratoryjnych otrzymuje się przez prażenie sacharozy bez dostępu tlenu z powietrza. Na skalę przemysłową otrzymuje się go z węgli kopalnych, przez rozkład termiczny drewna oraz jako diament.
+
+Krzem można otrzymać w laboratorium przez redukcję krzemionki magnezem: SiO2 + 2 Mg → 2 MgO + Si. Na skalę przemysłową redukuje się krzemionkę węglem (SiO2 + C → CO2 + Si) lub węglikiem wapnia.
+
+Pozostałe trwałe węglowce są otrzymywane przez redukcję ich tlenków. Ołów można otrzymać elektrolitycznie z jego siarczku. Flerow można uzyskać wyłącznie w reakcjach jądrowych.
+
+Zastosowanie
+Węgiel jest podstawowym składnikiem związków organicznych. Diament służy do wyrobu biżuterii. Ze względu na jego twardość używa się go także do wyrobu narzędzi do obróbki stali i szkła. Grafit jest używany do wyrobu elektrod, grafitów do ołówków oraz tygli laboratoryjnych. Węgle kopalne są wykorzystywane jako surowce energetyczne. Izotop węgla 14C jest stosowany jako wskaźnik izotopowy, zaś 1/12 masy izotopu 12C stanowi wzorzec jednostki masy atomowej.
+
+Krzem o dużym stopniu czystości jest stosowany do wyrobu półprzewodników. Krzem jest też stosowany do odtleniania specjalnych gatunków stali oraz jako składnika wielu stopów. Krzem i jego związki są surowcami w przemyśle szklarskim, ceramicznymi materiałów budowlanych.
+
+German stosuje się do produkcji półprzewodników, luminoforów, filtrów optycznych oraz stopów specjalnych.
+
+Cyna jest używana do pokrywania metali mniej odpornych na korozję. Jest też składnikiem stopów. W średniowieczu wykonywano wiele przedmiotów z cyny, ze względu na jej dostępność i niską cenę.
+
+Ołów służy do wyrobu rur kanalizacyjnych oraz ekranów chroniących przed promieniowaniem. Wykłada się nim także komory do produkcji kwasu siarkowego, celulozy i wapna bielącego. Ołowiu używa się też do wyrobu płyt akumulatorowych, szkła ołowiowego oraz do otrzymywania innych związków ołowiu.
+
+Bibliografia

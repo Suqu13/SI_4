@@ -1,0 +1,57 @@
+Sea Cat to brytyjski morski kierowany przeciwlotniczy pocisk rakietowy (klasy woda-powietrze), krótkiego zasięgu, z możliwością wykorzystania go do zwalczania celów nawodnych w zasięgu widzialności. Istniała również wersja lądowa zestawu nazwana Tigercat.
+
+Zestaw Sea Cat był pierwszym wprowadzonym do służby morskim zestawem przeciwlotniczym krótkiego zasięgu - obrony bezpośredniej okrętów. Powstał w celu zastąpienia na okrętach działek przeciwlotniczych kalibru 40 mm Boforsa, przy minimalnych zmianach w konstrukcji okrętów. 
+
+Historia
+System został zaprojektowany pod koniec lat 50. przez fimę Short Brothers z Belfastu na bazie australijskiego kierowanego pocisku przeciwpancernego Malkara. Pierwszym rozwinięciem Malkary był prototypowy pocisk Green Light. Sea Cat w pierwszej wersji został przyjęty na uzbrojenie Royal Navy w 1962.
+
+
+Główną częścią systemu jest poddźwiękowy pocisk rakietowy, niewielkich rozmiarów, napędzany dwustopniowym silnikiem rakietowym na paliwo stałe. Pocisk posiada cztery skośne skrzydła w układzie krzyżowym i cztery prostokątne stateczniki na końcu. Kierowany jest zdalnie komendami radiowymi przez operatora. Głowica posiada zapalnik kontaktowy i zbliżeniowy, składała się z połączonych prętów. Pocisk wystrzeliwany jest z czteroprowadnicowej obrotowej wyrzutni przeładowywanej ręcznie. Pomiędzy parami prowadnic znajduje się antena kierowania, w wydłużonej osłonie (prowadnice i antena umieszczone są na wspólnym łożu, ruchomym w zakresie podniesienia). Dzięki małej ilości miejsca zajmowanej przez system i prostocie instalacji, był on montowany na wielu okrętach podczas modernizacji. System Sea Cat używany był z kilkoma wariantami systemu kierowania ogniem, oprócz wersji brytyjskich, opisanych poniżej, istniały inne warianty eksportowe. Na eksport stosowano także wyrzutnie trzyprowadnicowe. 
+
+Wersje brytyjskie
+GWS-20
+Pierwsza wersja systemu, z wykrywaniem celów i naprowadzaniem wizualnym. Wyposażona była w prosty celownik tachometryczny STD (Simple Tachymetric Director). Pocisk kierowany był przez operatora posługującego się joystickiem, który obserwował przez lornetkę celownika cel i pocisk, wyposażony w flary na skrzydłach w celu lepszej jego widoczności.
+
+Próby GWS-20 prowadzono na niszczycielu typu Daring. System następnie montowano m.in. na okrętach desantowych typu Fearless, fregatach typu Tribal (Type 81), niszczycielach rakietowych typu County, modernizowanych fregatach typu Whitby (Type 12) i Rothesay. Początkowo zamierzano uzbroić w nie modernizowane niszczyciele typu C, ostatecznie otrzymały je w 1966 tylko HMS "Cavalier" i "Caprice".
+
+GWS-21
+
+System GWS-21 wyposażony był w aparaturę naprowadzania CRBF (Close Range Blind Fire) z radarem Type 262 do automatycznego śledzenia celu. Dawał on możliwość ręcznego naprowadzania pocisku wspomaganego wskazaniami radaru, naprowadzania wizualnego lub przy użyciu kamery telewizyjnej. 
+
+W system GWS-21 wyposażone były fregaty typu Leander i Tribal oraz zmodernizowane krążowniki śmigłowcowe typu Tiger: HMS "Tiger" i "Blake".
+
+GWS-22
+System GWS-22 wyposażony był w pełny system kierowania ogniem MRS-3 (Medium Range System) z radarem Type 904, bazujący na amerykańskim systemie Mk.56. Umożliwiał on automatyczne naprowadzanie pocisku (ACLOS - Automatic, Command Line-Of-Sight). Poza tym, mógł operować w trybie ręcznego naprowadzania wspieranego radarem lub kamerą TV, ewentualnie wizualnego. 
+
+Instalowano go od 1972 w zamian za dotychczasowe systemy na większości fregat typów Leander i Rothesay i niszczycieli typu County w ramach modernizacji w latach 70., a także na lotniskowcu HMS "Hermes". 
+
+GWS-24
+Ostatnia brytyjska wersja systemu, używała systemu kierowania ogiem WSA-4 z radarem Type 912.
+
+System ten przenosiły tylko fregaty Typu 21 (Amazon).
+
+Tigercat
+
+Tigercat był lądową adaptacją systemu Sea Cat, zbudowaną w oparciu o trzypociskową wyrzutnię na przyczepie, holowaną przez samochód Land Rover. Druga przyczepa przewoziła urządzenia kierowania. 
+
+Tigercat używany był w Wielkiej Brytanii jedynie przez 48. Dywizjon osłony lotnisk RAF w latach 1967-1978. Ponadto, system był eksportowany do Argentyny, Indii, Iranu, Jordanii i Kataru.
+
+Służba
+System Sea Cat był montowany na wymienionych typach okrętów brytyjskich, a ponadto eksportowany do kilku krajów. Szybko jednak stał się przestarzały z powodu rosnących prędkości samolotów i wprowadzenia naddźwiękowych pocisków przeciwokrętowych, latających na małej wysokości. Modernizacje systemu kierowania ogniem jedynie częściowo poprawiły sytuację. 
+
+Pomimo przestarzałości, Sea Cat był nadal szeroko używany na okrętach brytyjskich podczas wojny o Falklandy/Malwiny w 1982, będąc jedynym uzbrojeniem przeciwlotniczym części użytych okrętów. Będąc prostszy, cechował się jednak większą sprawnością operacyjną od nowszych systemów Sea Dart i Sea Wolf oraz zdolny był do większej gęstości ognia. Używany był głównie system w wersji GWS-22 i GWS-24 (na fregatach Type 21), a także starszy GWS-20 na okrętach desantowych typu Fearless. Na ok. 80 wystrzeleń zestrzelono za jego pomocą co najmniej jeden samolot argentyński IAI Dagger 21 maja 1982. Wkrótce po wojnie Sea Cat został wycofany z życia brytyjskiego i zastąpiony przez zestawy artyleryjskie obrony bezpośredniej Phalanx i Goalkeeper.
+
+Oprócz okrętów brytyjskich, Sea cat był montowany m.in. na szwedzkich niszczycielach typu Östergötland w miejsce działek 40 mm, australijskich niszczycielach eskortowych typu River (GWS-21) i argentyńskim krążowniku "General Belgrano". 
+
+Dane taktyczno-techniczne
+Zasięg:''' od 0,5 do 5,3 km
+Pułap:''' od 30 do 915 m (inne dane - do 3000 m)
+Prędkość:''' 0,8 Ma
+Długość:''' 1,48 m 
+Rozpiętość:''' 0,65 m
+Średnica kadłuba:''' 0,22 m
+Masa:''' 68 kg
+Masa głowicy bojowej:''' 18 kg
+
+Bibliografia
+Jacek Krzewiński: "Royal Navy 1950-1994", Warszawa 1995, ISBN 83-902554-8-0 

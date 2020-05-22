@@ -1,0 +1,24 @@
+
+
+
+
+Modyfikowanie komputera (ang. modding lub case modding) to modyfikowanie obudowy i niektórych elementów komputera w celu poprawy jego walorów estetycznych (a czasem funkcjonalnych). Modyfikowaniem zajmują się zazwyczaj entuzjaści sprzętu komputerowego, którzy chcą aby wygląd ich komputera ilustrował jego moc. Zmodyfikowane obudowy często można zobaczyć na różnych LAN party, gdzie są pokazywane przez swoich właścicieli.
+
+Najczęściej spotykane modyfikacje
+
+Okno:''' To zdecydowanie najpopularniejsza modyfikacja, polegająca na wstawieniu w bok obudowy (zwykle lewy) przezroczystej tafli z plexi lub akrylu, przez którą widać elementy wnętrza komputera. Wielu producentów oferuje obudowy z oknem, a nawet obudowy akrylowe, które są zupełnie przezroczyste.
+Oświetlenie:''' Jest to modyfikacja polegająca na podświetlaniu wnętrza komputerowego za pomocą zimnych katod lub diod LED, czasem w inny sposób. Zimne katody czasem łączone są z kontrolerami dźwięku, dzięki czemu pulsują w rytm słuchanej muzyki. Czasem diody LED montuje się w wentylatorach i innych elementach chłodzących. Oświetlenie zazwyczaj jest stosowane w parze z oknem, bez którego nie daje ono pełnego efektu.
+Chłodzenie:''' Ta kategoria jest domeną ludzi zajmujących się przetaktowywaniem (podkręcaniem). Jest wiele modyfikacji, które zaliczają się do tej kategorii. Do najpopularniejszych należy wywiercenie otworu z boku obudowy, celem zamocowania wentylatora wiejącego zimnym powietrzem (spoza obudowy) prosto na procesor. Do tej modyfikacji czasem stosuje się tunele zapobiegające rozpraszaniu się powietrza na boki. Inną modyfikacją z tej dziedziny jest chłodzenie wodne (zapewniające cichszą pracę komputera, jak i lepsze właściwości chłodzące).
+Lakierowanie:''' Większość obudów, szczególnie starszego typu, jest szara lub beżowa; pomalowanie ich lakierem w aerozolu nadaje im nowoczesny, stylowy wygląd. Bardziej zaawansowani modyfikatorzy stosują czasem lakiery samochodowe lub lakierowanie proszkowe.
+
+Unikalne modyfikacje
+Niektórym ludziom nie wystarczają jednak takie modyfikacje, gdyż można je po prostu kupić. Dlatego robią oni różne rzeczy własnoręcznie.
+Własna obudowa:''' Niektórzy ludzie robią własną obudowę od podstaw, niektóre z nich są prawdziwymi działami sztuki. Inni wolą, aby komputer udawał jakiś inny przedmiot. Okazuje się, że komputer (jego wnętrze) można umieścić w wielu niecodziennych obudowach. Do ciekawszych projektów należą: komputer w skrzynce na amunicję do CKM, w pluszowym misiu, w modelu lotniskowca, w piernikowym miasteczku (gdzie każdy komponent znajduje się w innym domku) itp.
+Ekstremalne chłodzenie:''' Rozwiązania tego typu są stosowane zwykle przy biciu rekordów podkręcania, jednak są one zbyt niepraktyczne do codziennej pracy. Należą do nich chłodzenie kompresorowe, polegające na rozprężaniu gazu na chłodzony element (zwykle jest wydajniejsze niż chłodzenie wodne, jednak ze względu na konieczność ciągłej pracy kompresora jest również bardzo głośne), oraz chłodzenie ciekłym azotem, polegające na wlewaniu go do odpowiedniego naczynia stojącego bezpośrednio na chłodzonym podzespole (co jest szczególnie niepraktyczne, ponieważ wymaga ciągłego uzupełniania azotu, gdyż szybko wyparowuje. Na dodatek jest on trudno dostępny).
+Malowanie części:''' Malowanie części znajdujących się w komputerze farbą reagującą na promieniowanie UV.
+
+Zobacz też
+tuning komputerów
+przetaktowywanie
+
+

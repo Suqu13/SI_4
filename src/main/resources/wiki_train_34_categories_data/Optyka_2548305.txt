@@ -1,0 +1,10 @@
+Spektrometria ruchliwości jonów (IMS z ang. ion-mobility spectrometry) – technika analityczna, zaliczana do metod spektroskopowych, której podstawą jest pomiar ruchliwości zjonizowanych cząsteczek w gazie buforowym pod wpływem pola elektrycznego.
+
+
+
+Wykorzystywana jest m.in. przez służby mundurowe np. do wykrywania narkotyków i materiałów wybuchowych. Technika ta ma także wiele aplikacji analitycznych. Stosowana także w sprzężeniu z spektrometrią mas (IMS-MS), chromatografią gazową (GC-IMS), wysokosprawną chromatografią cieczową (LC-IMS) i in. Urządzenia IMS są różnych rozmiarów (często dostosowane do konkretnej aplikacji) i mogą pracować w szerokim zakresie warunków pomiarowych (ciśnienie, temperatura).
+
+Linki zewnętrzne
+
+
+

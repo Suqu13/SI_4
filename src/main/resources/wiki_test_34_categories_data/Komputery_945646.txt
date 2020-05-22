@@ -1,0 +1,3 @@
+Yaws (Yet another webserver - kolejny serwer www) jest serwerem WWW napisanym w języku Erlang. Język ten kładzie duży nacisk na współbieżność, wskutek czego Yaws szczególnie dobrze radzi sobie z realizacją dużej liczby równoległych żądań. Yaws może być zagnieżdżany w innych programach erlangowych. Serwer jest rozpowszechniany na licencji BSD.
+
+Linki zewnętrzne

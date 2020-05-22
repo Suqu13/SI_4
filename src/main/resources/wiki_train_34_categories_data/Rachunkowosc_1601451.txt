@@ -1,0 +1,18 @@
+ELEMENTY KONSTRUKCJI PODATKÓW
+
+Funkcjonowanie kategorii podatku związane jest z stworzeniem warunków i narzędzi zapewniających obliczenie wysokości podatku, określeniu jakie czynności będą podlegały opodatkowaniu, a także skutecznego ściągnięcia podatku. Stanowią je elementy konstrukcji podatków składające się na technikę podatkową.
+
+Zaliczamy do nich:
+
+Przedmiot podatku – czyli przedmiot opodatkowania jest to zjawisko, stan prawny lub faktyczny, którego powstanie powoduje powstanie obowiązku podatkowego bez względu na to czy forma prawna została zachowana.
+Podmiot opodatkowania – wskazuje kto na podstawie ustawy podatkowej zobowiązany jest do zapłacenia podatku. Ustawodawca określa podatnika stosując terminy: osoba fizyczna, osoba prawna, jednostka organizacyjna nie posiadająca osobowości prawnej, ustawodawca może ustalić podatnikiem inny podmiot niż wymieniony. Rozpatrując termin podmiotu podatkowego możemy wyróżnić zarówno podmiot czynny oraz bierny. Podmiotem czynnym jest związek publicznoprawny korzystający z atrybutu władzy i przymusu administracyjnego w ściąganiu podatków. Podmiotem biernym jest podmiot zobowiązany do zapłacenia podatku w związku z ciążącym na nim obowiązkiem podatkowym.
+Podstawa opodatkowania – to wyrażony ilościowo (powierzchnia, ciężar) lub wartościowo (wartość rynkowa, przychód, dochód) przedmiot podatku.
+Stawka podatkowa – określa jaką część podstawy opodatkowania należy odprowadzić z tytułu podatku, występują stawki kwotowe i stawki procentowe.
+Skala podatkowa – zbiór stawek podatkowych, informuje o tym jaką stawkę należy zastosować do danej podstawy opodatkowania.
+Zwolnienia, zwyżki i ulgi podatkowe – decydują one o ostatecznym wymiarze podatku. Zwolnienie jest zaniechaniem poboru podatku, występują podmiotowe i przedmiotowe zwolnienia. Ulga polega na wyłączeniu określonych wartości z podstawy opodatkowania lub na obniżeniu stawek podatkowych. Zwyżka podatkowa oznacza dodatkowe, przekraczające przyjęte normy, opodatkowanie pewnych kategorii podatników. Ma ona zwykle charakter sankcyjny. Zwolnienia, ulgi i zwyżki podatkowe mogą realizować cele ekonomiczne, społeczne lub polityczne.
+
+Literatura
+prof. Stanisław Owsiak: Polityka finansowa. Teoria i praktyka.'' Wydawnictwo Naukowe PWN 2008, ISBN 978-83-01-15732-6.
+
+
+

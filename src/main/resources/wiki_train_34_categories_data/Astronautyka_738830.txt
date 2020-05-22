@@ -1,0 +1,16 @@
+Ariane 5 ESC A (Etage Supérieur Cryogénique-A) — ostatni, ucieczkowy człon rakiet nośnych Ariane 5 ECA. Wykorzystuje mieszankę ciekłego tlenu i ciekłego wodoru. Od swojego odpowiednika w rakiecie Ariane 5G różni się tym, że używa silnika i zbiornika tlenu z rakiety Ariane 4 i tym, że posiada nowy zbiornik wodoru.
+
+Producenci
+Głównym producentem wytwarzającym ESC A jest konsorcjum EADS. W produkcji poszczególnych podzespołów bierze udział również wiele innych firm:
+zbiorniki paliwa i główne podzespoły
+EADS (główny wykonawca), Alcatel Denmark, Aljo, Dassault Aviation, Franke, Industria, Moog, Rellumix, Raufoss, Walther, Witzemann, Zeppelin
+osłona aerodynamiczna
+Contraves Space (główny wykonawca), EADS, Dassault, F&W Emnen, Framatome, Raufoss
+adaptery ładunku
+EADS (główny wykonawca), Saab Ericsson Space
+adaptery Speltra i Sylda 5''
+EADS (główny wykonawca), Dassault, Framatome, HRE, Nammo, EIS
+komora ładunkowa członu
+EADS (główny wykonawca), Alcatel Denmark, Alcatel ETCA, Crisa, Dassault, Framatome, In-Snec, Raufoss, Saab Ericsson Space, Thales, Thomson Hybrides
+
+Bibliografia

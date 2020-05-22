@@ -1,0 +1,51 @@
+HTC Evo 3D (inne nazwy HTC X515M oraz HTC Shooter) - telefon komórkowy firmy HTC, zaprezentowany w sierpniu 2011 roku.
+
+Opis
+Evo 3D jest flagowym modelem firmy HTC, konkurującym m.in. z Samsungiem i9100 Galaxy S II.
+
+Wyświetlacz
+Evo 3D wyposażony został w 4.3" ekran Super LCD o rozdzielczości 540x960 pikseli, z technologią 3D. Rozdzielczość qHD na takiej powierzchni zapewnia gęstość 256ppi.
+
+Procesor i karta graficzna
+Telefon posiada dwurdzeniowy procesor Qualcomm Snapdragon serii S3 - model MSM8260 o taktowaniu 1.2 GHz, wykonany w technologii 45 nm i oparty na rdzeniach Cortex-A9 zbudowanych na architekturze ARM.
+
+Razem z procesorem MSM8260 zawarto zintegrowaną kartę graficzną Adreno 220.
+
+Pamięć
+X515M wyposażono w 1024 MB pamięci RAM typu LP-DDR2 oraz 1 GB przestrzeni dyskowej.
+
+Aparat
+Evo 3D posiada trzy aparaty - przedni do rozmów wideo o rozdzielczości 1.3 MPx, oraz dwa z tyłu telefonu. Robi on zdjęcia w 3D w rozdzielczości 2 Mpx, 2D w rozdzielczości 5 Mpx i nagrywa filmy w jakości 720p (zarówno w trybie 2D jak i w 3D).
+
+Komunikacja i system
+Telefon wyposażony jest w port USB 2.0 (microUSB) i złącze słuchawkowe 3.5 mm. Po zastosowaniu przejściówki w standardzie MHL możliwe jest wyświetlanie obrazu na telewizorze wyposażonym w złącze HDMI. Evo 3D komunikuje się za pomocą WiFi (IEEE 802.11 b/g/n) oraz Bluetooth 3.0. Posiada GPS i radio FM.
+
+System operacyjny to Google Android 2.3 Gingerbread z interfejsem HTC Sense 3.0. Producent udostępnia możliwość aktualizacji do Androida 4.0 z interfejsem Sense 3.6
+
+Podobne modele
+HTC oferuje inne modele z serii EVO, a ich system to Google Android 2.3.
+
+HTC Evo Shift 4G
+Model ten oferuje ekran 3.6" LCD TFT o rozdzielczości 480x800 pikseli, procesor Snapdragon MSM7630 o taktowaniu 800 MHz (karta graficzna Adreno 205), a także 512 MB pamięci RAM. Telefon posiada także 2 GB pamięci wbudowanej oraz baterię 1500 mAh. Obsługuje standard 4G.
+
+HTC Evo 4G
+Evo 4G obsługuje technologię 4G. Posiada ekran 4.3" LCD TFT, o rozdzielczości 480x800 pikseli. Procesor tego modelu to Snapdragon QSD8650 o taktowaniu 1GHz z kartą graficzną Adreno 200. Telefon posiada 512MB pamięci RAM, 1GB pamięci wbudowanej. Aparat w Evo 4G ma rozdzielczość 8 megapikseli.
+
+HTC Evo Design 4G
+Telefon posiada ekran 4" Super LCD o rozdzielczości 540x960 pikseli. Procesor to Qualcomm Snapdragon MSM8655 o taktowaniu 1.2 GHz z kartą graficzną Adreno 205. Evo Design 4G wyposażono w 768 MB pamięci RAM, a także baterię 1520 mAh i aparat 5 megapikseli.
+
+Zobacz też
+LG Optimus 3D – inny telefon obsługujący technologię 3D
+
+Bibliografia
+- mGSM.pl
+- mGSM.pl
+- mGSM.pl
+(bez Design 4G) - androidpolice.com
+
+
+
+
+
+
+

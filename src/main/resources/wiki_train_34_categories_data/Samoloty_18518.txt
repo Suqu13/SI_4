@@ -1,0 +1,56 @@
+Messerschmitt Bf 110''' – ciężki, dwusilnikowy samolot myśliwski konstrukcji niemieckiej z okresu drugiej wojny światowej.
+
+Historia
+Samolot ten powstał w zakładach Bayerische Flugzeugwerke (BFW) w ramach konkursu na ciężki myśliwiec dla lotnictwa niemieckiego - Luftwaffe. W Niemczech nazwano tę nową klasę samolotów Zerstörer (niem. niszczyciel). Oryginalne oznaczenie samolotu to Bf 110, pochodzące od skrótu ówczesnej nazwy wytwórni, często spotykane jest jednak także oznaczenie - błędne - Me 110 od nazwy późniejszych zakładów Messerschmitt. Projektantem samolotu był prof. Willy Messerschmitt, budowę makiety, i pierwszego prototypu rozpoczęto w lipcu 1934 roku. Oznaczony jako V1 po raz pierwszy wzbił się w powietrze 12 maja 1936 roku. Napęd Bf 110V1 stanowiły gaźnikowe silniki Junkers Jumo 210 B o mocy startowej 680 KM (500&nbsp;kW) napędzające dwułopatowe śmigła. Także drugi prototyp V2 oblatany 24 października 1936 roku posiadał identyczne silniki. Dopiero trzeci prototyp V3 napędzały silniki Daimler-Benz DB 600 A z bezpośrednim wtryskiem paliwa o mocy startowej 975 KM (717&nbsp;kW). We wszystkich trzech prototypach nie montowano jeszcze żadnego uzbrojenia. W serii przedprodukcyjnej Bf 110A-0 (7 sztuk) oraz pierwszej wersji seryjnej Bf 110 B-1 (84 sztuk + 4 egzemplarze serii przejściowej) montowano silnik Junkers Jumo 210 Ga z bezpośrednim wtryskiem paliwa do cylindrów o mocy startowej 700 KM (515&nbsp;kW) napędzający trójłopatowe śmigło. Prace nad wyborem optymalnego uzbrojenia trwały do wiosny 1938 roku. 15 marca 1938 roku wzbił się w powietrze pierwszy uzbrojony Bf 110 należący jeszcze do serii przedprodukcyjnej. Uzbrojenie samolotu od wersji B stanowiły 4 karabiny MG 17 i 2 nkm MG FF 20&nbsp;mm montowane w przedniej części kadłuba oraz pojedynczy MG 15 montowany na ruchomym stanowisku na końcu kabiny,  obsługiwany przez radiooperatora. Zapas amunicji do nkm MG FF 20&nbsp;mm wynosił po 180 naboi na nkm (łącznie 360 sztuk naboi), do przednich MG 17 po 1000 naboi na km (łącznie 4000 sztuk naboi) i do tylnego karabinu 500 sztuk naboi. Wersja Bf 110C z 1939 roku otrzymała wreszcie docelowy silnik DB-601A-1 z bezpośrednim wtryskiem paliwa do cylindrów o mocy startowej 1100 KM i stała się pierwszą masową wersją seryjną. Od wersji B różniła się rurami wydechowymi silników skierowanymi do góry, mniejszymi osłonami chłodnic oleju pod silnikami, chłodnicami glikolu przeniesionymi pod skrzydła na zewnątrz od jednostek napędowych i kołami podwozia głównego w całości mieszczącymi się w powiększonych wnękach. 
+
+Prędkość maksymalna osiągana przez prototypy Bf 110 w czasie prób:
+V1, V2, nieuzbrojony z silnikiem Junkers Jumo 210 B o mocy startowej 680 KM (500&nbsp;kW): 455&nbsp;km/h na 3000 m,
+V3, nieuzbrojony z silnikiem Daimler-Benz DB 600 A z bezpośrednim wtryskiem paliwa o mocy startowej 975 KM (717&nbsp;kW): 505&nbsp;km/h na 4000 m,
+Bf 110 A-0, uzbrojony z silnikiem Junkers Jumo 210 Ga z bezpośrednim wtryskiem paliwa do cylindrów o mocy startowej 700 KM (515&nbsp;kW): 435&nbsp;km/h na 3500 m
+
+W powszechnej ocenie niemieckich pilotów Bf 110B był samolotem zwrotniejszym i łatwiejszym w pilotażu od Bf 110C, choć z odczuwalnym niedoborem mocy. W wersji C wraz ze wzrostem prędkości opór sterów stopniowo zwiększał się, zmuszając pilota do użycia coraz większej siły przy zmianie kierunku lub wysokości lotu. Tym samym reakcje samolotu następowały z wyraźnym opóźnieniem. Jedyną zaletą Bf 110C były więc mocniejsze silniki i tym samym znacznie lepsze osiągi.
+
+Dane techniczno-taktyczne wersji Bf 110 B
+
+Masa
+własna: 4876&nbsp;kg
+maksymalna startowa: 5695–5705&nbsp;kg
+Wymiary
+rozpiętość: 16,80 m
+długość: 12,52 m
+wysokość: 4,11 m
+powierzchnia nośna: 45,62 m²
+Napęd: 2 silniki rzędowe Junkers Jumo 210 Ga o mocy startowej 700 KM (515&nbsp;kW)
+Uzbrojenie: 5 karabinów maszynowych MG 17 kal. 7,9&nbsp;mm, 2 nkm MG FF 20&nbsp;mm
+Amunicja: po 1000 naboi na km w kadłubie, 500 naboi na km na tylnym stanowisku, po 180 naboi na nkm MG FF 20&nbsp;mm,
+Osiągi:
+prędkość
+maksymalna: 455&nbsp;km/h na wysokości 4000 metrów
+przelotowa: 320&nbsp;km/h
+wznoszenie: ... m/s
+pułap: 7955 m
+zasięg: 810&nbsp;km, z dwoma dodatkowymi zbiornikami paliwa 1720&nbsp;km
+Załoga: 2 (pilot + radiooperator-strzelec)
+
+Użycie bojowe
+
+
+
+Kampania wrześniowa w Polsce stanowiła pierwszy sprawdzian bojowy zarówno Bf 110, jak też opracowanej koncepcji jego użycia. PZL P.11 będące na wyposażeniu polskich eskadr myśliwskich wielokrotnie brały udział w powietrznych pojedynkach z Zerstörerami. Zwrotniejsze, prowadzone przez lepiej wyszkolonych pilotów, uzyskiwały przewagę nad mało zwrotnymi, ociężałymi Bf 110. Jedynie brak silnego uzbrojenia PZL P.11 powodował, iż wiele trafionych, i uszkodzonych Bf 110 powracało na lotnisko. Efektem trafienia PZL P.11 salwą z 4 karabinów MG 17 i 2 nkm MG FF 20&nbsp;mm były jednak poważne uszkodzenia struktury płatowca, jego podzespołów, usterzenia oraz zerwanie dużych fragmentów poszycia. Większość z tych samolotów często była porzucana na lotniskach ze względów na rozmiar zniszczeń dokonanych przez ostrzał. W trakcie kampanii wrześniowej piloci PZL P.11 zestrzelili 5 Bf 110C i 2 Bf 110B, a także uszkodzili 4 Bf 110C i 1 Bf 110B. Dopiero sukcesy w walkach z brytyjskimi i francuskimi samolotami w 1940 roku wyrobiły Bf 110 opinię doskonałych i groźnych samolotów. Jednak w czasie bitwy o Anglię w drugiej połowie 1940 roku pojedynki z nowoczesnymi myśliwcami brytyjskimi Supermarine Spitfire i Hawker Hurricane ponownie zweryfikowały tę ocenę. Luftwaffe w Bitwie o Anglię od lipca do końca września 1940 roku straciła w walkach 214 Bf 110, co stanowiło 60% stanu z 29 czerwca tego roku. Od 1941 roku używano ich z o wiele lepszym efektem jako myśliwców nocnych (wersje Bf 110G oraz Bf 110H). Były używane jako myśliwce bombardujące (w tzw. pułkach niszczycieli), myśliwce nocne i przechwytujące (w walkach z bombowcami alianckimi). Wyposażenie nowszych wersji w radar oraz dodatkowe działka sprawiło, że stały się one groźne dla bombowców brytyjskich latających na nocne wyprawy. Samoloty te z czasem przejęły główny ciężar obrony Rzeszy przed nocnymi nalotami alianckimi.
+
+
+Ta ciężka, dwusilnikowa maszyna, nie sprawdziła się jako konwencjonalny myśliwiec, mając mimo wszystko znacznie gorszą manewrowość. Jednocześnie układ chłodzenia i układ olejowy okazały się niezwykle wrażliwe na uszkodzenia spowodowane ostrzałem z powietrza i ziemi. W czasie walki powietrznej Bf 110 często tracił strzelca pokładowego, którego rolą była ochrona tylnej półsfery samolotu. Powodem tych strat było przede wszystkim niedostateczne opancerzenie stanowiska strzelca. Pewnym ratunkiem było tworzenie kręgu obronnego złożonego z kilku Bf 110 i stopniowe wycofywanie się tak utworzonej formacji w kierunku lotniska. Nie zawsze było to jednak możliwe.
+
+Do końca wojny wybudowano 5762 samoloty Bf 110 w głównych wersjach od A do H i licznych podwersjach, oznaczanych dodatkowo cyframi i czasem literami.
+
+Opis konstrukcji
+Dwusilnikowy metalowy dolnopłat, kadłub o konstrukcji półskorupowej, usterzenie podwójne. Załoga: 2 lub 3 osoby w zależności od wersji, w stosunkowo długiej przeszklonej kabinie, z tyłu kabiny stanowisko strzelca. Podwozie główne wciągane do gondoli silnikowych. Dwa silniki widlaste w układzie V-12. Stosowano silniki: Junkers Jumo 210Ga  o mocy startowej 700 KM (wersje A-0, B), Daimler-Benz DB 601B-1  mocy 1 100 KM (od wersji C), DB 601F o mocy 1 350 KM (wersja F-1 - F-4), DB 605В-1 o mocy 1475 KM (wersje G, H).
+
+Dane techniczne samolotów Messerschmitt Bf 110
+
+
+
+
+
+
+

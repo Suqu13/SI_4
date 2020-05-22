@@ -1,0 +1,10 @@
+Lightning Bolt –  nowa technologia szybkich kabli firmy AMD zaprojektowanej do łączenia różnych urządzeń elektronicznych ze sobą, w jednym kablu łączy USB 3.0, mini DisplayPort oraz zasilanie. Jest w stanie obsługiwać do czterech monitorów, z czego jednocześnie obsłuży dwa ekrany o rozdzielczości FullHD. Dzięki prostemu rozwiązaniu, jakim jest lekko zmodyfikowany kabel DisplayPort (dodane dwa dodatkowe piny), Lightning Bolt ma kosztować producenta ok. 1 dolara i szybko podbić rynek.
+
+Maksymalna prędkość transferu tą magistralą wynosi 5 Gbit/s, co jest porównywalne prędkością USB 3.0. Możliwe jest, że Lightning Bolt trafi do laptopów pod koniec 2012 roku.
+
+
+
+
+
+
+

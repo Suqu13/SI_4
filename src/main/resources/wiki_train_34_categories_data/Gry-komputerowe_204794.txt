@@ -1,0 +1,26 @@
+Carmageddon – pierwsza gra z serii brutalnych wyścigów samochodowych oraz innych pojazdów mechanicznych wyprodukowanych przez Stainless Games i wydanych przez Interplay oraz SCi.
+
+Pierwotnie została ona wydana na komputery PC (z systemem operacyjnym DOS) w roku 1997, ale szybko ukazały się wersje na komputery Macintosh (1997) oraz konsole PlayStation (1999), Nintendo 64 (2000) i Game Boy Color (2001). Wersje na PlayStation i N64 są jednak bardziej podobne do sequela - gry ''''. W 2012 roku wydano także porty gry na platformę iOS, a w 2013 - Android.
+
+W Carmageddonie gracz, prowadząc swój pojazd, rywalizuje przeważnie z kilkoma innymi zawodnikami w terenie zabudowanym. Gracz ma limitowaną ilość czasu, aby ukończyć określoną liczbę okrążeń, dodatkowy czas można uzyskać poprzez zbieranie bonusów, niszczenie samochodów przeciwników bądź rozjeżdżanie przechodniów.
+
+W wielu krajach (jak np. Wielka Brytania czy Niemcy) kiedy gra została wydana, zamiast ludzi pojawiały się w nich zombie posiadające zieloną krew i roboty, ponieważ rozjeżdżanie nieżyjących istot było lepiej akceptowane przez poszczególne komisje wyznaczające kategorię wiekową. Nieoficjalne „krwawe łaty” zostały jednak prędko wypuszczone, aby podmienić grafiki i odgłosy wydawane przez zombie na bardziej brutalne, co spowodowało wydanie oficjalnej łaty od wydawcy gry, który zdejmował cenzurę.
+
+Slogan reklamowy stosowany w amerykańskim wydaniu brzmiał Gra wyścigowa dla chemicznie niestabilnych.
+
+W roku 1997 został wydany dodatek zatytułowany Carmageddon Splat Pack. Dodawał on wiele dodatkowych tras, samochodów i obsługę Glide API, API używanego przez ówcześnie dominującą linię akceleratorów 3D – Voodoo firmy 3dfx.
+
+Gracz może ścigać się między innymi takimi samochodami, jak:
+
+Red Eagle (czerwony sportowy samochód, z grzebieniem kolców wzdłuż karoserii)
+Hevy Impaler (kremowe kombi z lat 70, ze wzmocnionym silnikiem i opancerzeniem)
+Cop (opancerzony samochód policyjny)
+The Plow (żółty spychacz z napisem "Got Cha" na łyżce)
+King Merc (Mercedes w wojskowych barwach, osadzony na gąsienicach)
+Hell Rod (czarny Ford 1940, pomalowany w płomienie)
+Leadpumper (czarna limuzyna z lat 70 z wielkim wentylatorem zamontowanym w chłodnicy)
+Hammerhead (podniszczony samochód przyszłości, posiadający kolczasty walec, zamiast tylnych kół)
+
+
+
+Linki zewnętrzne

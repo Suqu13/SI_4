@@ -1,0 +1,145 @@
+[[Plik:M4A4 cutaway.svg|thumb|240px|M4A4 cutway:
+1 - Pierścień mocujący, 2 - Wentylator, 3 - Właz wieży, 4 - Peryskop, 5 - Turret hatch race, 6 - Stanowisko obsługi wieży, 7 - Stanowisko działonowego, 8 - Stanowisko obsługi wieży, 9 - Wieża, 10 - Filtr powietrza, 11 - Radiator filler cover, 12 - Rura prowadząca dopływ oczyszczonego powietrza do silnika, 13 - Silnik, 14 - Rura wydechowa, 15 - Koło prowadzące gąsienicę, 16 - Pojedyncza pompa wody, 17 - Radiator, 18 - Generator, 19 - Środkowy wał napędowy, 20 - Kosz wieży, 21 - Obrotnica, 22 - Przedni wał napędowy, 23 - Wózek zawieszenia, 24 - Skrzynia biegów, 25 - Koło napędzające, 26 - Stanowisko kierowcy, 27 - Stanowisko strzelca karabinu maszynowego, 28 - Działo kal. 75 mm, 29 - Właz kierowcy, 30 - karabin maszynowy M 1919A4]]
+
+
+
+
+M4 Sherman (oficjalnie Medium Tank, M4''') – amerykański czołg średni, stosowany w czasie II wojny światowej. Brytyjczycy używali nazwy M4 General Sherman. Czołg nazwany na cześć generała Williama Shermana.
+
+Historia produkcji
+Sherman bazował na podwoziu i wielu podzespołach czołgu M3 Lee, na którym zamontowano wieżę z działem 75 mm. Umożliwiło to szybkie przestawienie się zakładów na produkcję nowego pojazdu. Dlatego w okresie od lutego 1942 r. do końca II wojny światowej, wyprodukowano łącznie 49 000 sztuk wszystkich wersji. Używany, między innymi, przez armie USA, Wielkiej Brytanii, Polski, Francji i ZSRR. 
+Zbudowano także wersje specjalne, takie jak: pływający Sherman DD (Duplex Drive – podwójny napęd), Sherman Crab (z trałem przeciwminowym), Sherman Dozer (czołg inżynieryjny ze spychaczem z przodu – do rozminowywania i prac inżynierskich), Sherman Zippo (Sherman z zamontowanym miotaczem ognia zamiast głównego działa), itp.
+
+Produkcję M4 rozpoczęto w lutym 1942 r. i do lipca tegoż roku, wszystkie fabryki wytwarzające czołg M3 Lee przestawiły się na jego produkcję. Po raz pierwszy został użyty w walce przez brytyjską 8 Armię w bitwie pod El Alamein (252 szt). Od lata 1943 r. M4 stał się podstawowym czołgiem średnim aliantów zachodnich, w tym (z chwilą wejścia do działań) 1 Dywizji Pancernej gen. Stanisława Maczka i 2 Brygady Pancernej 2 Korpusu Polskiego gen. Władysława Andersa. Koniec II wojny światowej, zakończył też produkcję M4, a armie brytyjska i amerykańska zaczęły zastępować Shermany nowszymi konstrukcjami. M4 Sherman był wtedy przekazywany lub odsprzedawany do wielu krajów świata. Był także użyty przez kilka armii (wchodzących w skład sił ONZ) w wojnie koreańskiej oraz przez Francuzów w wojnie indochińskiej. Kolejnymi konfliktami, w których Sherman starł się z innymi czołgami, była wojna indyjsko-pakistańska z 1965 r.(wykorzystany przez siły Indyjskie) oraz wojna sześciodniowa z 1967 r. (użyty przez armię Izraela). W wojnie Yom Kippur w 1973 r., w której izraelskie Shermany, mocno już zużyte, okazały się doskonałymi celami dla nowoczesnych środków p.panc. (np. kierowanych pocisków rakietowych AT-3 Sagger), czołgi te były użyte w boju po raz ostatni.
+
+Część izraelskich M4 była uzbrojonych we francuskie działo 75 mm (M50 Super Sherman) lub w 105 mm (M51 Isherman). Wiele krajów w Ameryce Południowej używało Shermanów jeszcze długo po wojnie.
+
+Parametry bojowe
+M4 Sherman był niezawodnym czołgiem, wyprodukowanym na potrzeby wojny w wielkich ilościach. W momencie wprowadzenia do boju na jesieni 1942, Sherman doskonale dawał sobie radę z czołgami niemieckimi tego okresu. Sytuacja pogorszyła się, gdy w miarę postępu wojny Shermany musiały walczyć z cięższymi czołgami niemieckimi typu Tygrys (57 t) i Pantera (45 t), które z natury rzeczy miały nad nimi znaczną przewagę. Podstawowa armata 75 mm montowana na wczesnych wersjach Shermanów, nie miała szans przebić pancerza przedniego tych modeli czołgów niemieckich. Zaczęto wtedy montować długie działo 75 mm, które miało zwiększoną moc penetracyjną, ale i ono nie dawało rady spenetrować grubych pancerzy. Tego działa używało niewiele czołgów. Nawet lepsza armata 76 mm, montowana w późniejszych wersjach, które zaczęły docierać na front latem 1944, miała z tym duże trudności i była względnie skuteczna tylko z użyciem pocisków HVAP (high-velocity armor piercing), specjalnych pocisków pełnokalibrowych z rdzeniem. Ta specjalna amunicja nie była jednak dostępna w wystarczających ilościach, a każdy czołg otrzymywał zwykle tylko kilka jej sztuk. Problemów z przebiciem pancerza czołgów niemieckich nie miały za to Shermany w wersji Firefly uzbrojone w doskonałą armatę 17-funtową, używane przez wojsko brytyjskie i kanadyjskie, gdzie stanowiły mniej więcej jedną czwartą wszystkich Shermanów w ostatnim roku wojny.
+
+Różnice te niwelowała do pewnego stopnia przewaga liczebna (zwykle na mniej więcej pięć Shermanów przypadała jedna Pantera). Z powodu bardzo małej liczby Tygrysów i stosunkowo małej liczby Panter, spotkania takie zdarzały się raczej rzadko. Taktyka aliantów w czasie takich spotkań polegała na zajechaniu Pantery od tyłu i z boku, gdzie miała słabszy pancerz, możliwy do przebicia przez Shermany. Taktyka ta wymagała zwykle użycia kilku czołgów, które często ponosiły duże straty, zanim jeden z nich dotarł na pozycję skutecznego strzału do Pantery. Przeważnie jednak Shermany działały jako wsparcie piechoty i spisywały się w tej roli bardzo dobrze.
+
+Bardzo poważną wadą Shermana była łatwość zapalania się silnika benzynowego w razie trafienia. Z tego powodu przylgnęła do nich nazwa Ronson - od marki zapalniczek. Niemcy zwykli przezywać je Tommy-Kocher ("maszynka do gotowania Angoli").
+
+Zła renoma zdobyta przez Shermany w walkach z cięższymi czołgami niemieckimi była też konsekwencją całkowitego braku w armii amerykańskiej czołgów ciężkich, aż do ostatnich miesięcy wojny, kiedy wprowadzono do boju pierwsze egzemplarze czołgów M26 Pershing. Dopiero ten czołg, wyposażony w armatę 90 mm, mógł walczyć sam na sam z Panterami i mieć szansę przebijać pancerz Tygrysów z dystansu.
+
+Właściwości bojowe Shermana wynikły z dosyć osobliwej amerykańskiej doktryny działań broni pancernej. Pod wpływem sukcesów niemieckiego Blitzkriegu, Armia Stanów Zjednoczonych postanowiła zbudować czołg, który mógłby wspierać szybko przemieszczającą się piechotę. Doktryna ta zakładała wykorzystanie lekko opancerzonych niszczycieli czołgów do zwalczania wozów bojowych przeciwnika. W chwili projektowania Shermana nie przewidywano więc użycia go jako głównego pojazdu przeciwpancernego, co najwyżej zaprojektowano go do walki ze znanymi wtedy pojazdami przeciwnika np. PzKpfw III i PzKpfw IV. Z tego też powodu, bardziej skuteczne działo 76 mm zaczęto montować na Shermanach stosunkowo późno, instalując je w pierwszej kolejności na niszczycielach czołgów.
+
+W nielicznych pancernych starciach na Pacyfiku, Shermany pod każdym względem przewyższały czołgi japońskie, często strzelając do nich amunicją burzącą, która dosłownie je rozrywała.
+
+Shermany były wyposażone w jednopłaszczyznowe stabilizatory armaty. Były to co prawda urządzenia dość prymitywne, ale znacznie zwiększały celność ognia w czasie ruchu pojazdu.
+
+Dużą wadą pojazdu była też jego spora wysokość. Sherman był o ok. 50 cm wyższy od T-34 (w przypadku T-34/85 tylko ok. 20 cm) i ok. 30 cm wyższy od Panzerkampfwagen IV. Był przez to łatwiejszy do zauważenia (i trafienia) oraz trudniejszy do zamaskowania.
+
+Uzbrojenie
+Pierwsze wersje czołgu M4 były uzbrojone w krótkolufowe działo M3 75 mm nadające się głównie do niszczenia piechoty oraz lekko i średnio opancerzonych celów. Z powodu wysokich strat w walkach z niemieckimi czołgami typu Panther oraz Tiger, wprowadzono długolufową armatę M1 76mm. Tak uzbrojone Shermany miały w nazwie oznaczenie (76) (równolegle niektóre brytyjskie Shermany zostały uzbrojone w armatę 17-funtową również o kalibrze 76 mm). 1641 czołgów było wyposażonych w haubicę M4 105 mm - zazwyczaj nosiły one oznaczenie (105) w nazwie. Oprócz tego każdy Sherman miał na wyposażeniu karabiny maszynowe kalibru 7,62 mm oraz karabiny maszynowe M2 (ilość karabinów zależała od wersji czołgu). Niektóre Shermany były też uzbrojone w moździerze M3 kalibru 50,8 mm, przeznaczone do stawiania zasłony dymnej.
+
+Pancerz
+Opancerzenie Shermana było bardzo różne - w zależności od wersji i okresu produkcji. Generalnie produkcja czołgu ze wzmocnionym pancerzem rozpoczęła się z początkiem 1944&nbsp;r.
+
+Grubość w mm/kąt nachylenia w stopniach. 0 stopni oznacza pancerz pionowy zaś 90 stopni oznacza pancerz poziomy.
+Wersja M4A1 (okres produkcji - luty 1942-grudzień 1943) posiadała następujące opancerzenie:
+Kadłub
+Przód (góra): 51/56
+Przód (dół): 51/0-45
+Boki: 38/0
+Tył: 38/0-15
+Góra: 19/83-90
+Dno: 13-25/90
+Wieża
+Przód: 76/0-30
+Boki: 51/5
+Tył: 51/0
+Góra: 25/90
+Wersja M4A6 posiadała następujące opancerzenie:
+Kadłub
+Przód (góra): 51/56
+Przód (dół): 51-108/0-56
+Boki: 38/0
+Tył: 38/0-20
+Góra: 19/83-90
+Dno: 13-25/90
+Wieża
+Przód: 76-89/0-30
+Boki: 51/5
+Tył: 51/0
+Góra: 25/90
+Wersja M4A1(76)W (produkowany od stycznia 1944) posiadała następujące opancerzenie:
+Kadłub
+Przód (góra): 64/37-55
+Przód (dół): 51-108/0-56
+Boki: 38/0
+Tył: 38/10-20
+Góra: 19/83-90
+Dno: 13-25/90
+Wieża
+Przód: 64-89/0-45
+Boki: 64/13
+Tył: 64/0
+Góra: 25/90
+Wersja M4A3E2 Jumbo posiadała następujące opancerzenie:
+Kadłub
+Przód (góra): 100/47
+Przód (dół): 114-140/0-56
+Boki: 38-76/0
+Tył: 38/10-20
+Góra: 19/83-90
+Dno: 13-25/90
+Wieża
+Przód: 150-178/0-12
+Boki: 150/6
+Tył: 150/2
+Góra: 25/90
+
+Mobilność
+Sherman był czołgiem o dość przeciętnych właściwościach terenowych. Czołg bardzo słabo zakręcał (promień skrętu około 3 razy większy niż w przypadku T-34) i miał ograniczone możliwości pokonywania brodów. Także zdolność pokonywania przeszkód pionowych była stosunkowo niska. Poszczególne wersje pojazdu miały różne możliwości. Poniżej podano wartości skrajne (najgorsze i najlepsze)
+Możliwości terenowe czołgu Sherman były następujące:
+Prędkość maksymalna
+na szosie: 34-48 km/h
+w terenie: 29-40 km/h
+Zdolność pokonywania brodów : 90-107 cm
+Zdolność pokonywania wzniesień: 31" (wedle innych danych do 36")
+Zdolność pokonywania rowów: 230-244 cm
+Zdolność pokonywania pionowych ścian: 61 cm
+Promień zawracania: 19-22,5 metrów
+Zasięg 190-240 km
+Dodatkowo wspomnieć należy o dość niskim współczynniku mocy silnika do masy pojazdu. W przypadku Shermana wynosił on (średnio) około 13 KM/tonę podczas, gdy T-34 dysponował współczynnikiem ponad 17 KM/tonę. Czołg ponadto był stosunkowo wąski i wysoki, przez co bardziej wywrotny, niż analogiczne pojazdy używane w innych krajach. Przykładowo czołg T-34 był szerszy (3 metry) niż wyższy (2,45 metra), przez co był o wiele bardziej stabilny i niezwykle trudny do przewrócenia.
+
+Warianty
+Różnica między poszczególnymi wersjami polegała na miejscu ich produkcji. Każdy zakład produkcyjny stosował np. inną jednostkę napędową, co powodowało m.in. różnice w długości pojazdu i w kształcie opancerzenia przedziału silnikowego. Silniki o różnej mocy miały oczywiście niebagatelny wpływ na osiągi poszczególnych wersji. Pancerz przedziału bojowego też miewał różny wygląd, w zależności od techniki jego wykonania (odlewany lub spawany). 
+M4''' – spawany pancerz, silnik benzynowy moc 400 KM
+M4(105 mm)'''
+M4A1''' – odlewany pancerz, silnik taki sam jak w wersji M4
+M4A2''' – spawany pancerz, silnik Diesla moc 410 KM
+M4A2E4''' − dwa prototypy zostały wybudowane w lecie 1943; ze względu na problemy z drążkiem skrętnym w czasie konserwacji pojazdu, projekt został oddalony
+M4A3''' – spawany pancerz, silnik benzynowy moc 500 KM 
+M4A3''' – haubica 105 mm
+M4A3R3''' – miotacz płomieni
+M4A3E2 Jumbo – specjalna wersja ze wzmocnionym pancerzem i poszerzoną trakcją zaprojektowana do atakowania umocnień
+M4A3E8''' (Easy Eight) – nowe podwozie z systemem resorów HVSS, armata 76 mm
+M4A4''' – spawany pancerz, pięć zsynchronizowanych benzynowych silników samochodowych o łącznej mocy 425 KM
+M4A5''' – oznaczenie dla kanadyjskiego czołgu Ram II
+M4A6''' – M4A4 z jednym silnikiem benzynowym moc 500 KM
+BARV – czołg ewakuacyjny. Zamiast wieży zainstalowana została wysoka nadbudówka. Uszczelniono kadłub, wewnątrz pojazdu zamontowano pompę zęzową. Był w stanie: 
+poruszać się w wodzie do głębokości 3,05 m. W skład załogi wchodził nurek.
+M4DD – czołg ewakuacyjny z pontonem mógł poruszać się po wodzie używany podczas operacji overlord w czasie lądowania na plaży Omaha, skrót DD pochodzi od sherman duplex drive
+
+Warianty brytyjskie
+Sherman I – M4
+Sherman IB – M4 z haubicą 105 mm
+Sherman IBY – M4 z haubicą 105 mm i zawieszeniem HVSS
+Sherman IC – M4 z działem 17 funtowym
+Sherman II – M4A1 z działem 75 mm
+Sherman IIA – M4A1 z działem 76 mm
+Sherman III – M4A2 z działem 75 mm
+Sherman IV – M4A3 z działem 75 mm
+Sherman IVB – M4A3 z haubicą 105 mm
+Sherman IVC – M4A3 z działem 17 funtowym
+Sherman V – M4A4 z działem 75 mm
+Sherman VC "Firefly"''' – M4A4 z działem 17-funtowym
+
+T34 Calliope
+
+T34 Calliope – była to montowana na wieżyczce czołgu wyrzutnia rakiet. Składała się z 60 rur i wystrzeliwała rakiety 4,6 cala. Została opracowana w 1943 r. i używana w niewielkich ilościach w różnych jednostkach pancernych Armii Stanów Zjednoczonych, w latach 1944-1945.
+
+Linki zewnętrzne

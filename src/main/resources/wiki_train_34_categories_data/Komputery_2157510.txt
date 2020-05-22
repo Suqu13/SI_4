@@ -1,0 +1,16 @@
+ASCI Red, ASCI Option Red – superkomputer działający w Sandia National Laboratories w latach 1997–2005. Od czerwca 1997 do czerwca 2000 był najszybszym komputerem na świecie według rankingu TOP500.
+
+Wykonał go Intel na zamówienie Departamentu Energii Stanów Zjednoczonych i NNSA. Jego zadaniem miało być symulowanie eksplozji jądrowych, które nie mogły być przeprowadzane w rzeczywistości, zgodnie z moratorium podpisanym w 1992 roku przez prezydenta Stanów Zjednoczonych George'a Busha i w 1993 roku przez prezydenta Billa Clintona.
+
+W pierwszej wersji zawierał 4510 procesorów Pentium Pro, taktowanych zegarami 200 MHz, 1212 gigabajtów pamięci operacyjnej i 12,5 terabajta dysku twardego. W 1999 roku został rozbudowany do 9298 procesorów Pentium II OverDrive, taktowanych zegarami 333 MHz. Zajmował około 230 m² powierzchni i zużywał około 850kW mocy (nie licząc chłodzenia).
+
+Był pierwszym komputerem, który osiągnął szybkość powyżej 1 TFLOPS (biliona operacji zmiennoprzecinkowych na sekundę) w teście LINPACK. W pierwszej wersji osiągnął 1,34 TFLOPS. Po rozbudowie jego szybkość wzrosła do 2,38 TFLOPS.
+
+Zobacz też
+Advanced Simulation and Computing Program
+ASCI White
+ASC Purple
+
+
+
+

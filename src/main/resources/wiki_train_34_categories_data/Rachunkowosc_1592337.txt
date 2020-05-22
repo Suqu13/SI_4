@@ -1,0 +1,13 @@
+Różnice przejściowe to różnice między księgową a podatkową wartością aktywów i pasywów.
+Różnice przejściowe można podzielić ze względu na kryterium czasu:
+
+czasowe – takie które powstają gdy przychód lub koszt wpływa na wynik finansowy w jednym okresie, lecz wchodzi w skład dochodu do opodatkowania w innym okresie (po „odwróceniu się”), np. amortyzacja uwzględniona przy ustalaniu dochodu do opodatkowania (straty podatkowej) za dany okres może się różnić od amortyzacji wpływającej na wynik finansowy brutto tego okresu,
+
+inne – powstałe w okolicznościach, które nie powodują wystąpienia różnic czasowych np. przeszacowano aktywa, ale nie dokonano równoważnej korekty dla celów podatkowych.
+
+Źródło: materiały dydaktyczne dr Igor Styn
+
+
+
+Różnice przejściowe dodatnie
+Różnice przejściowe ujemne

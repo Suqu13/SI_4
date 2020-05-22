@@ -1,0 +1,10 @@
+Rolnictwo precyzyjne – gospodarowanie wspomagane komputerowo, oparte głównie na gromadzeniu danych o przestrzennym zróżnicowaniu plonów w obrębie pola. Rejestracja wielkości plonu w miejscu pola o dokładnie określonych współrzędnych odbywa się w kombajnie zbożowym wyposażonym w miernik plonów oraz w oparciu o satelitarny referencyjny system globalnego pozycjonowania (ang. DGPS, Differential Global Positioning System). Dane te, po przeniesieniu do komputera, wyposażonego w odpowiednie oprogramowanie, przetwarzane są w barwną mapę plonów, której analiza i interpretacja stanowią najistotniejszy element tej technologii. Na podstawie mapy plonów stosuje się wybiórczo zabiegi nawożenia i ochrony roślin polegające na tym, że te części pola, które mogą wydać większy plon otrzymują odpowiednio dostosowane do niego wyższe nawożenie i intensywniejszą ochronę roślin, natomiast te, które mają mniejszy potencjał plonotwórczy – otrzymują odpowiednio mniej. Używa się do tego celu maszyn do precyzyjnej aplikacji agrochemikaliów. Koncepcja rolnictwa precyzyjnego zapewnia uzyskiwanie większych plonów wyższej jakości, obniżenie kosztów produkcji oraz ograniczenie skażenia środowiska.
+
+Bibliografia
+Faber A. 1998. System rolnictwa precyzyjnego. I. Mapy plonów. Fragmenta Agronomica 57, 4-15.
+Faber A. 1998. System rolnictwa precyzyjnego. II. Analiza i interpretacja map plonów. Fragmenta Agronomica 57, 16-27.
+Gozdowski D., Samborski S., Sioma S. 2007. Rolnictwo precyzyjne. SGGW, Warszawa.
+Jadczyszyn T. 1998. System rolnictwa precyzyjnego. Nawożenie w rolnictwie precyzyjnym. Fragmenta Agronomica 57, 28-39.
+
+
+

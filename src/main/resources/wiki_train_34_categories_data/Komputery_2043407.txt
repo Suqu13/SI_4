@@ -1,0 +1,11 @@
+MIT TX-0''' (ang. Transistorized Experimental computer zero) - komputer zbudowany w połowie lat 50. XX wieku w Lincoln Labs w Massachusetts Institute of Technology, jako jeden z pierwszych mający budowę tranzystorową. Komputer posiadał wiele innowacyjnych jak na owe czasy urządzeń, jak np. monitor (ekran) ekranowy, czy pióro świetlne. 
+Urządzenie pobierało dane z taśmy dziurkowanej, poza tym do sterowania używany był pulpit sterowniczy. Urządzeniem wyjścia mógł być popularny wówczas teleks, jak i monitor wbudowany w róg pulpitu. Wyposażony w drukarkę Flexowriter, stosowaną także w komputerach systemu SAGE.
+
+Urządzenie miało możliwość wyświetlania grafiki w postaci linii i prostych bitmapek. Nieoficjalnie mówi się, że właśnie na TX-0 powstała pierwsza gra typu "labirynt" (Źródło: Computer Chronicles) polegająca na nakierowaniu wirtualnej myszy przez labirynt. Sterowanie gryzoniem odbywało się poprzez pióro świetlne.
+
+Pomimo technologii tranzystorowej w komputerze zastosowano niecodzienne rozwiązanie: tranzystor, po odpowiednim wlutowaniu w cokół, zamykano w odkręcanej szklanej bańce przypominającej łudząco lampę. Umożliwiało to szybką wymianę komponentów oraz, w niektórych przypadkach, zastępowanie ich zwykłymi lampami gdyby zabrakło cennych półprzewodników.
+
+Po zakończeniu eksploatacji przekazany studentom wydziału elektroniki MIT. W roku 1960 wystąpił w programie telewizji CBS (Columbia Broadcast System) "The  Thinking Machine", w którym demonstrowano publicznie napisany dlań wcześniej program SAGA II.
+
+
+

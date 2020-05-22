@@ -1,0 +1,16 @@
+Samsung Galaxy Mini – smartfon produkcji Samsung Electronics zaprezentowany w lutym 2011.
+
+Jest to telefon z systemem Android. Aktualnie dostępne są aktualizacje oprogramowania – z Froyo do Gingerbread 2.3.6. Nieoficjalnie wiadomo, że "Galaxy Mini" nie dostanie aktualizacji do systemu Android 4.0 Ice Cream Sandwich, ani do 4.1 Jelly Bean. Istnieje możliwość wgrania jednego z nieoficjalnych romów (np. CyanogenMod), dzięki którym możliwe jest uruchomienie na urządzeniu dowolnego systemu Android od 2.3.7 (Gingerbread) do 4.4.3 (KitKat).
+
+Android 2.3.6 Gingerbread nie wnosi praktycznie żadnych nowości, ponieważ firma Samsung zdecydowała się pozostawić standardowy dla systemu Android 2.2 wygląd interfejsu (w przypadku Samsunga nazwany TouchWiz) oraz locker (ekran, który widzimy gdy jest włączona blokada ekranu).
+
+Samsung Galaxy Mini jest wyposażony w ekran TFT 3,14 cali o rozdzielczości 320 × 240 px oraz procesor Qualcomm MSM7227 o taktowaniu 600 MHz. Telefon posiada aparat 3 Mpx oraz wejście słuchawkowe mini jack 3,5 mm. Wi-Fi działa w standardzie 802.11 b/g/n.  
+
+Wiosną 2012 ukazał się Samsung Galaxy Mini 2 (GT-S6500), który jest nową ulepszoną wersją telefonu Galaxy Mini.
+
+
+
+
+
+
+

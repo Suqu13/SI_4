@@ -1,0 +1,22 @@
+Interface Region Imaging Spectrograph (IRIS) – amerykański satelita do obserwacji Słońca. Misja w ramach programu Explorer. 
+
+Start
+27 czerwca 2013 roku z bazy amerykańskich sił powietrznych Vandenberg Air Force Base w Kalifornii wystartował samolot Orbital L-1011 z dołączoną do niego rakietą Pegasus XL. Cała operacja przebiegła zgodnie z planem - na wysokości prawie 12 kilometrów samolot uwolnił rakietę, a od nie z kolei odłączyła się IRIS. 
+
+Orbita
+Sonda została umieszczona na orbicie o perygeum 620 i apogeum 670 km. Sonda porusza się po orbicie heliosynchronicznej. To oznacza, że satelita przelatuje niemal dokładnie nad oboma biegunami, a nad równikiem pojawia się o tej samej godzinie czasu lokalnego. Taki tor lotu umożliwia długie - nawet ośmiomiesięczne  - nieprzerwane śledzenie naszej Gwiazdy Dziennej.
+
+Cel misji
+Naukowcy dzięki nowej sondzie zamierzają znaleźć odpowiedź na pytanie: dlaczego chromosfera Słońca osiąga temperaturę zaledwie dziesiątków tysięcy stopni kelwina, rozciągająca się wokół niego korona - aż kilka milionów kelwinów. Wszystko wskazuje na to, że rozwiązanie musi kryć się w procesach zachodzących w tak zwanej warstwie przejściowej, czyli strefie rozciągającej się pomiędzy chromosferą a koroną. To z tego obszaru pochodzi większość promieniowania UV emitowanego przez Słońce. Sonda została wyposażona w 20-centymetrowe zwierciadło i spektrograf. Obserwacje są prowadzone w ultrafiolecie. Rozdzielczość na poziomie 240 kilometrów i możliwość wykonywania zdjęć co około 10 sekund ma pozwolić na dokładne zbadanie, w jaki sposób w warstwie przejściowej przemieszcza się materia słoneczna i jak przekazywana jest energia w tym rejonie.
+
+Misja
+IRIS nie jest zbyt duży, ma masę niecałe 200 kilogramów, długość 2,1 metra i szerokość 3,7 metrów, uwzględniając rozłożone panele słoneczne. Zanim rozpoczęły  właściwe obserwacje, kierujący nim zespół sprawdził jakość uzyskanych obrazów, kalibrował przyrządy i wykonał niezbędne testy. 17 lipca 2013 otworzyły się pokrywy teleskopu i IRIS zaczął śledzić zachowanie Słońca. Już pierwsze zdjęcia ukazały z niespotykaną dotychczas dokładnością zachowanie materii w warstwie przejściowej. Sonda uchwyciła obecność wielu cienkich, włóknistych struktur, ukazujących ogromne różnice temperatury. Być może dzięki satelicie IRIS zostanie rozwikłana jedna z tajemnic Słońca.  
+
+
+
+
+
+
+
+
+

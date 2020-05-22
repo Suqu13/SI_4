@@ -1,0 +1,36 @@
+Ekscepcja (łac. exceptio) – pochodzący z prawa rzymskiego zarzut natury formalnoprawnej w stosunku do przebiegu postępowania sądowego, zgłoszony przez pozwanego na rozprawie sądowej. Ekscepcje dzieli się na peremptoryjne (niweczące proces, powodujące oddalenie pozwu) oraz dylatoryjne (tamujące postępowanie, powodujące odroczenie sprawy).
+
+W prawie rzymskim
+Pozwany był zobowiązany udowodnić fakty, na których opierał swoją ekscepcję, i obowiązywała odtąd zasada podana przez Ulpiana: Reus excipiendo fit actor – pozwany przez zarzut procesowy staje się powodem. (W kwestii ciężaru dowodu pozwanego traktowano tak, jakby był powodem).
+
+Wyróżniano m.in. następujące ekscepcje:
+exceptio legis Laetoriae – zarzut podstępnego wykorzystywania małoletnich (osób między 14 a 25 rokiem życia)
+exceptio quod metus causa – zarzut realnej, poważnej i bezprawnej groźby psychicznej lub fizycznej, która powodowała przymus psychiczny (tzw. vis compulsiva).
+W rozwoju prawa prywatnego duże znaczenie miało tzw. exceptio doli, czyli zarzut podstępu:
+exceptio doli generalis – nieuczciwego działania w złym zamiarze
+exceptio doli specialis – świadomego i celowego wprowadzenia w błąd osoby zarzucającej ekscepcję przy dokonywaniu przez nią konkretnej czynności prawnej
+
+W dawnym prawie polskim
+Ekscepcje funkcjonowały także w postępowaniu sądowym Polski przedrozbiorowej. Najpopularniejsze były:
+ekscepcje peremptoryjne:
+dawności – okoliczności powodującej wygaśnięcie praw powoda do rzeczy, np. przedawnienie
+fataliae iuris (M. fatalia iuris) – upływu roku i sześciu tygodni, w czasie których powód nie popierał sprawy, co świadczyło o jego braku zainteresowania dla przebiegu postępowania
+sprawy osądzonej, rei iudicatae (M. res iudicata) – wskazanie, że zapadł już wyrok w danej sprawie (por. ne bis in idem)
+sprawy załatwionej, rei contractae (M. res contracta) – wskazanie, że strony porozumiały się w danej sprawie bez wchodzenia na drogę sądową
+ekscepcje dylatoryjne:
+niewłaściwości sądu
+miejscowej (ze względu na miejsce zamieszkania pozwanego) – zgodnie z zasadą actor sequitur forum rei (powód udaje się do sądu pozwanego)
+rzeczowej (ze względu na rodzaj przedmiotu sporu) – np. spory o nieruchomości toczone między szlachtą sądziły sądy podkomorskie
+ze względu na stan pozwanego – np. chłopi mogli samodzielnie odpowiadać wyłącznie w sądzie dominialnym, duchowni przed sądem świeckim tylko w sprawach spadkowych, mężatki tylko w asystencji męża
+niesprawności pozwu – dawne prawo polskie wymagało zachowania zasady formalizmu procesowego, stąd przyczyną zgłoszenia tej ekscepcji mogło być popełnienie błędu w treści pozwu (np. niewymienienie wszystkich tytułów pozwanego lub przejęzyczenie w czasie odczytywania pozwu)
+intercesja – powołanie się na zachodźcę i żądanie zmiany strony
+plurium litis consortium – żądanie zmiany strony z jednoosobowej na wieloosobową
+
+Zobacz też
+Exceptio non adimpleti contractus
+Exceptio rei venditae et traditae
+
+Bibliografia
+Marek Kuryłowicz, Adam Wiliński "Rzymskie prawo prywatne" Warszawa 2008. ISBN 978-83-7601-073-1
+
+

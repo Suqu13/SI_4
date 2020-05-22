@@ -1,0 +1,39 @@
+Efekt Ramana (zjawisko Ramana, rozpraszanie kombinacyjne, rozpraszanie ramanowskie) - nieelastyczne rozpraszanie fotonów przez substancje. Polega ono na tym, że przy rozproszeniu wiązki światła w widmie rozproszonym występują, obok fotonów o takiej samej energii (rozpraszanie Rayleigha) fotony (około 1 na 107) o zmienionej energii. Powoduje to powstanie w widmie, obok pasma Rayleigha o takiej samej częstotliwości jak światło padające, tak zwanych pasm stokesowskich i antystokesowskich o odpowiednio zmniejszonej i zwiększonej częstotliwości, symetrycznie położonych po obu stronach pasma Rayleigha. Są one na ogół około 1000 razy słabsze od pasma Rayleigha, a ich liczba i położenie zależy od budowy cząsteczek rozpraszających.
+
+Największe zastosowanie w praktyce ma oscylacyjny efekt Ramana, gdzie odległość pasm stokesowkich i antystokesowskich od pasma Rayleigha (w skali częstotliwości) jest równa częstotliwości drgań normalnych cząsteczek substancji, na której zachodzi rozproszenie. Można również zaobserwować (jedynie w fazie gazowej) rotacyjny efekt Ramana, w którym odległość pasm stokesowkich i antystokesowskich od pasma Rayleigha odpowiada częstotliwości obrotów cząsteczki.
+
+Historia odkrycia
+Pierwszeństwo odkrycia zjawiska Ramana jest sprawą kontrowersyjną. Przewidziane zostało teoretycznie już w 1922 roku. Pomiar eksperymentalny został opisany po raz pierwszy w 1928 roku przez Chandrasekhara Ramana i zjawisko zostało nazwane na jego cześć. Za badanie rozpraszania światła Raman otrzymał w 1930 roku nagrodę Nobla. Najprawdopodobniej jednak jako pierwsi zarejestrowali niesprężyste rozproszenie światła radzieccy fizycy Leonid Mandelstam i Grigorij Landsberg.
+
+Mechanizm zjawiska
+
+Rozpraszanie Rayleigha (czyli rozpraszanie elastyczne) opisać można jako anihilację jednego fotonu pod wpływem oddziaływania z cząsteczką (atomem, kryształem) i natychmiastową kreację drugiego fotonu, o takiej samej energii. W wyniku takiego oddziaływania cząsteczka ani nie traci energii, ani jej nie zyskuje. Zdarza się jednak, że kreowany foton ma mniejszą energię niż padający, a różnica energii zostaje zużyta na wzbudzenie drgań lub obrotów cząsteczki - rejestruje się wtedy światło rozproszone o zmniejszonej częstotliwości, pasmo stokesowskie. Kreowany foton może mieć również większą energię niż padający, co wiąże się z deekscytacją cząsteczki, która przekazuje swój nadmiar energii (oscylacyjnej lub rotacyjnej) kreowanemu fotonowi - rejestruje się wtedy światło rozproszone o zwiększonej częstotliwości, pasmo antystokesowskie.
+
+Oscylacyjny efekt Ramana
+Najczęściej rejestruje się oscylacyjny efekt Ramana, gdzie w cząsteczkach substancji, na której zachodzi rozproszenie, wzbudzane są lub wygaszane drgania, czyli różnica energii fotonu padającego i rozproszonego odpowiada różnicy energii poziomów oscylacyjnych cząsteczki (patrz rysunek powyżej). Ponieważ z rozkładu Boltzmanna wynika, że bardziej obsadzony jest oscylacyjny poziom podstawowy niż wzbudzony, znacznie silniejsze są pasma stokesowskie niż antystokesowskie.
+
+Warunkiem pojawienia się oscylacyjnego pasma ramanowskiego jest zmiana polaryzowalności cząsteczki w czasie drgania normalnego w taki sposób, że nie ma ona ekstremum (minimum bądź maksimum) w położeniu równowagi (czyli że pochodna polaryzowalności po współrzędnej normalnej nie jest zero w położeniu równowagi). Pasmo jest tym większe, im większe są zmiany polaryzowalności podczas drgania.
+
+Rotacyjny efekt Ramana
+W przypadku rotacyjnego efektu Ramana różnica energii fotonu padającego i rozproszonego odpowiada różnicy energii poziomów rotacyjnych cząsteczki. W przeciwieństwie do absorpcyjnych przejść rotacyjnych rejestrowanych w spektroskopii mikrofalowej, liczba kwantowa rotacji J zmienia się o +2 (pasma stokesowskie) lub -2 (pasma antystokesowskie) (dla cząsteczek wieloatomowych możliwe są też zmiany o +1 lub -1, patrz widmo rotacyjne).
+
+Warunkiem pojawienia się rotacyjnego pasma ramanowskiego jest anizotropowość tensora polaryzowalności. Rotacyjne widmo Ramana mają zatem wszystkie cząsteczki poza tymi o symetrii tetraedru (jak np. metan), oktaedru (jak np. sześciofluorek siarki) lub ikosaedru (jak np. fuleren C60).
+
+Zastosowanie
+Efekt Ramana wykorzystuje się w analizie materiałowej i spektroskopii. Stosunek intensywności pasm stokesowskich i antystokesowskich może posłużyć do wyznaczenia temperatury obiektu rozpraszającego.
+
+W szczególnych warunkach, obserwuje się:
+powierzchniowo wzmocniony efekt Ramana
+rezonansowy efekt Ramana
+ramanowską aktywność optyczną
+
+Zobacz też
+Spektroskopia Ramana
+Spektroskopowe kryterium polarności wiązania
+
+
+
+
+
+
+

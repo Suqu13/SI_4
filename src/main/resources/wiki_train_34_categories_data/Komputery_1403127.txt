@@ -1,0 +1,19 @@
+Nova – polski superkomputer (klaster) uruchomiony 10 lipca 2008 na Politechnice Wrocławskiej, zainstalowany we Wrocławskim Centrum Sieciowo-Superkomputerowym. Klaster był sukcesywnie rozbudowywany i jego obecna wydajność zmierzona benchmarkiem LINPACK wynosi 57 TFLOPS. W czerwcu 2011 klaster znalazł się na 194 pozycji na liście najszybszych superkomputerów świata TOP500.
+
+Dane techniczne
+Klaster na procesorach Intel Xeon (quad-core) z siecią InfiniBand.
+Procesory: Intel Xeon 2.33, 2.4 lub 2.5 GHz, 4 lub 8 MB cache, architektura EM64T (1 lub 2 w węźle)
+Liczba serwerów (węzłów): 732
+Liczba rdzeni obliczeniowych: 6864
+Całkowita pamięć operacyjna: >13 TB
+Pamięć dyskowa: ≈100 TB Lustre
+Sieć
+obliczeniowa: InfiniBand 4X DDR2 fat-tree; przepływność 20Gbps, opóźnienia ≈5 μs
+zarządzania: Gigabit Ethernet
+
+Zobacz też
+Galeon, Galera – superkomputery TASK
+
+
+
+Linki zewnętrzne

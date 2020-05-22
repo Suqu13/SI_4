@@ -1,0 +1,15 @@
+id Tech 5''' – silnik gier autorstwa id Software, obecnie znajdujący się w fazie rozwoju. Jest to najnowszy silnik opracowany przez id Software, następca id Tech 4. Po raz pierwszy został zaprezentowany na WWDC w roku 2007. Technologia ta jest wciąż rozwijana. Silnik jest wykorzystywany w grach Rage oraz ''''.
+
+Licencja
+Wywiad z Johnem Carmackiem potwierdził, że silnik ten, podobnie jak jego poprzednicy, zostanie ostatecznie wydany jako open source. Przejście na open source będzie jednak możliwe dopiero po kilku latach od jego pierwszego wydania.
+
+Funkcje
+Rozwój id Tech 5''' skoncentrowano przede wszystkim na tym, żeby silnik był łatwiejszy w obsłudze dla programistów. Jego pokazy do tej pory koncentrowały się bardziej na korzyściach deweloperów niż graczy.
+
+W początkowym ujęciu silnika bierze 20 GB tekstur (za pomocą bardziej zaawansowanego MegaTexture o nazwie Virtual Texture, który wspiera tekstury w rozdzielczości do 128000x128000 pikseli) oraz całkowicie dynamiczne oświetlenie.
+
+Technika ta pozwala na automatyczne przesłanie strumienia tekstur do pamięci, co oznacza, że programista nie musi się martwić o limity lub ograniczenia pamięci tekstur.
+
+
+
+

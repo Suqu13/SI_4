@@ -1,0 +1,96 @@
+HP 95LX (inaczej Projekt Jaguar) – pierwszy palmtop oparty na systemie MS-DOS, wprowadzony w 1991 roku przez Hewlett-Packard we współpracy z Lotus Development Corporation.
+
+Historia
+Na początku roku 1990 inżynierowie Hewlett-Packard rozpoczęli prace nad nowym projektem o nazwie kodowej Project Jaguar. Projekt ten na celu miał stworzenie nowego, mobilnego, zgodnego z IBM PC komputera.
+
+Po piętnastu miesiącach rozpoczęto seryjną produkcję modelu HP 95LX. Ówcześnie największymi konkurentami nowego komputera mobilnego byli Atari Portfolio, którego produkcję rozpoczęto dwa lata wcześniej, oraz Poquet PC, którego produkcję rozpoczęto rok wcześniej.
+
+Pierwsze serie produkowano z 512 KB RAMu, następne z 1 MB. Można jednak, w komputerach z fabryczną ilością 512 KB, zamontować kość RAM o pojemności 1 MB.
+
+HP 95LX wybił się na rynku przed konkurentów dzięki kilku bardzo ważnym cechom:
+pełna kompatybilność z MS-DOS, co dawało dostęp do wielu aplikacji
+wbudowany program Lotus 1-2-3, który ówcześnie był bardzo popularny
+dobra baza wbudowanych aplikacji wraz z nakładką na DOS
+
+Następcą został HP 100LX. Produkcja całej serii zakończyła się 1 września 1999 r.
+
+Wygląd palmtopa
+
+Palmtop waży około 11 uncji czyli 300 gramów. Zamknięty komputer ma wymiary około 16 cm x 8,6 cm x 2,5 cm (reklamowany jako zajmujący przestrzeń dwóch książeczek czekowych sklejonych ze sobą).
+
+Ma czarną obudowę z wygrawerowanym logo HP na klapie. Z lewej strony znajduje się port PCMCIA. Od spodu znajduje się koszyczek na baterie. Z prawej strony znajduje się klapka, pod którą znajduje się wejście baterii, która podtrzymuje ramdysk, oraz dioda IrDA. Obok klapki zlokalizowano niestandardowe złącze RS232, a następnie złącze zasilacza.
+
+Jego klawiatura została dostosowana do nakładki MS-DOS. Po prawej znajduje się klawiatura numeryczna, a nad nią klawisze strzałek. Pod klawiszami funkcyjnymi znajdują się niebieskie klawisze z ikonami wbudowanych aplikacji. Istnieje oprócz tego dodatkowy klawisz Char służący do wywoływania (w połączeniu z klawiszami funkcyjnymi) makr.
+
+Informacje techniczne
+Palmtop ten pracuje pod procesorem NEC V20, fabrycznie spowolnionym do 5,37 MHz (ma to na celu zmniejszenie poboru prądu).
+
+Ze względu na ekran o rozdzielczości ćwierć CGA, nie może uruchamiać wielu aplikacji (głównie gier). Ekran LCD jest monochromatyczny. Karta graficzna jest w standardzie MDA.
+
+Posiada slot PCMCIA typu II, jednakże może pracować tylko w trybie pamięci (innymi słowy, nie można podłączać do tego slotu innych urządzeń od pamięci), służące do podłączania karty SRAM albo, po zastosowaniu odpowiedniej przejściówki oraz zainstalowaniu sterownika ATA, kart CompactFlash o pojemności do 16 MB (ze względu na ograniczenia systemu plików FAT16).
+
+Używa baterii tzw. zegarkowej (CR 2025) do podtrzymywania pamięci, gdy nie ma zasilania (z baterii bądź zasilacza) oraz gdy komputer jest wyłączony (wtedy odciąża baterie główne). Zasilany jest dwoma bateriami AA, na których może działać do jednego miesiąca, ze względu na bardzo niski pobór prądu.
+
+Posiada układ RS232 z gniazdem o nietypowej konstrukcji, gdyż zawierający tylko cztery piny, co utrudnia jego komunikację z niektórymi modemami (można połączyć palmtop z Internetem) ze względu na brak linii kontrolnych. Do połączenia z komputerem można zastosować kabel produkcji HP bądź wykonać przejściówkę. Jest on wykorzystywany do komunikacji z innymi komputerami, modemem, drukarką. Posiada także układ IrDA.
+
+Nakładka na MS-DOS
+Po uruchomieniu palmtopa uruchamia się specjalna nakładka na system MS-DOS. Na pulpicie widać zegar w prawym górnym rogu, wizytówkę użytkownika w centrum, poniżej ikony wbudowanych programów, a na dole zaproszenie do naciśnięcia klawisza aplikacji.
+
+Nakładka pozwala na takie funkcje (niedostępne w standardowym MS-DOS) jak jednoczesne uruchamianie wielu aplikacji (tych wbudowanych). Z okna aplikacji Filer można przejść do okna systemu MS-DOS oraz uruchamiać DOSowe aplikacje, jednak nie wolno wtedy mieć uruchomionych żadnych innych aplikacji poza Filerem. Pozwala także na tworzenie makr, które uruchamia się za pomocą specjalnego klawisza Char.
+
+Okno konfiguracji (uruchamiane za pomocą kombinacji Shift-Filer) pozwala na m.in. wydzielenie miejsca na ramdysk, skonfigurowanie makr, ustawienie opcji regionalnych i językowych (waluta, układ klawiatury, separatory liczb), i inne.
+
+Palmtop nie daje dostępu do BIOSu. Gdy uruchomimy go kombinacją Esc+On uruchomi się program testujący, za pomocą którego można przetestować kartę pamięci, RAM, ROM, itd. Na dwunastej stronie testu ekranu znajduje się easter egg – limeryk o jaskiniowcu.
+
+Wbudowane aplikacje
+Z systemem zostało zintegrowanych kilka aplikacji, m.in.:
+Filer
+Datacomm (skrót od Data Communication)
+Memo (skrót od Memo Editor)
+Appointment Book
+Phone Book
+Kalkulator HP
+Lotus 1-2-3
+gra TigerFox
+
+Opisy niektórych aplikacji
+Filer – aplikacja pełniąca funkcję menedżera plików, obsługuje podział ekranu na dwie części.
+
+Datacomm (skrót od Data Communication) – służący do przesyłania i odbierania plików przez protokoły Kermit oraz XMODEM. Może pełnić także funkcję terminala.
+
+Appointment Book – terminarz, zawierający funkcję alarmu, a także posiadający funkcję stopera, minutnika oraz obliczania godzin w poszczególnych strefach czasowych (z możliwością dodawania własnych miast).
+
+Palmtopy z serii LX
+
+
+
+95LX jest pierwszym z serii palmtopów produkcji Hewlett-Packard i zarazem pierwszym, w którym zastosowano system MS-DOS. Jego następcą był model HP 100LX. Później wydano jeszcze HP 200LX oraz jego budżetową wersję HP 1000CX. W następnych wersjach zrezygnowano ze stosowania systemu MS-DOS na rzecz Microsoft Windows CE, okrojonej wersji Microsoft Windows przystosowanej do tego typu urządzeń.
+
+HP 100LX
+
+100LX (nazwa kodowa Cougar) został zaprojektowany jako następca 95LX oraz jest poprzednikiem HP 200LX. Jego produkcję rozpoczęto w 1993 roku. Wprowadzono w nim procesor 80186 pracujący z częstotliwością 8 MHz. Została także wyeliminowana główna wada 95LX, mianowicie zwiększono rozdzielczość ekranu do CGA. Wbudowane aplikacje zostały ulepszone, aby mogły dobrze wykorzystywać lepszy procesor oraz zwiększoną rozdzielczość ekranu. HP przeniósł produkcję z USA do Singapuru. Zmieniono wersję systemu na MS-DOS 5.0. Pierwsze serie dostarczano z 1 MB RAMu, później zwiększono tą liczbę do 2 MB.
+
+HP 200LX i 1000CX
+
+200LX (nazwa kodowa Felix) został wprowadzona do produkcji w roku 1995. Jest on dostępny w wersjach posiadających 1, 2 lub 4 MB RAMu. Zmieniono kolor obudowy z czarnej na (do wyboru) zielony lub szary. Zwiększono wygodę korzystania z klawiatury. Najważniejszą zmianą jednak była poprawa wbudowanego oprogramowania, m.in. dołączono program Laplink Remote do łatwiejszego przesyłania plików oraz pakiet oprogramowania biznesowego Intuit's Pocket Quicken.
+
+HP 1000CX został zaprojektowany jako budżetowa wersja 200LX. Najważniejszą różnicą w stosunku do oryginału jest usunięcie wbudowanego oprogramowania (poza systemem operacyjnym MS-DOS 5.0).
+
+Te modele są ostatnimi opartymi na systemie MS-DOS, w następnych stosowano już Microsoft Windows CE.
+
+HP 300LX i 320LX
+
+300LX zapisał się w historii jako pierwszy seryjny palmtop z wbudowanym systemem Microsoft Windows CE. Posiada on ekran dotykowy, dołączano do niego rysik (pokazany na zdjęciu obok). Posiada on też pełny port RS-232, slot PCMCIA, port podczerwieni.
+
+320LX to poprawiona wersja 300LX, wydana w 1997 roku. Największą zmianą było uaktualnienie wersji systemu z 1.0 do 2.0. Oprócz tego zwiększono ilość RAMu z 2 MB do czterech, oraz dodano czytnik pamięci CompactFlash.
+
+HP 620LX i 660LX
+
+620LX i 660LX to ostatnie palmtopy z serii LX. 660LX to ulepszona wersja 620LX. Dysponują one odpowiednio Windows CE 2.0 i Windows CE 2.11. Ich procesor to Hitachi SH-3 działający z częstotliwością 75 MHz.
+
+
+
+
+
+
+

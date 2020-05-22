@@ -1,0 +1,37 @@
+Astronomische Nederlandse Satelliet (ANS)''' – pierwszy holenderski sztuczny satelita, wystrzelony w 1974; satelita naukowy do obserwacji astronomicznych w zakresie promieniowania ultrafioletowego i rentgenowskiego.
+__TOC__
+Historia projektu
+Satelita był projektowany od 1965. Dwa lata później rząd Holandii oficjalnie przyznał wsparcie inicjatywie, a 18 grudnia 1969 zatwierdził projekt budowy satelity. Projekt, mający między innymi stymulować rozwój branży kosmicznej w Holandii, zaangażował wiele tamtejszych firm, jak Philips (system kontroli położenia, komputer pokładowy, test), Dutch Signal Devices (przetwarzanie danych), Van der Heem BV, Fokker Space (szkielet konstrukcji, mechanika, okablowanie, kontrola termiczna, symulacje, montaż i testy). Za oprogramowanie operacyjne i pracę na orbicie odpowiedzialne było Narodowe Laboratorium Aerokosmiczne. Projekt nadzorował Holenderski Instytut Programów Aerokosmicznych (NIVR).
+
+6 czerwca 1970 rząd Holandii i NASA podpisały porozumienie o współpracy przy misji ANS. W 1973 Fokker Space ukończył budowę statku, którego satelizacji NASA dokonała 30 sierpnia 1974 roku.
+
+Satelita działał od września 1974 do czerwca 1976 (planowo miał pracować przez 6 miesięcy). Rząd oficjalnie zakończył projekt 27 kwietnia 1976, przy negatywnej opinii środowiska naukowego (satelita funkcjonował prawidłowo). Przez ten czas zmierzył położenie, widma i zmienność galaktycznych i pozagalaktycznych źródeł rentgenowskich w zakresie 0,1-30 keV, oraz wykonał 18 tysięcy obserwacji około 400 obiektów w UV (150-330 nm).
+
+Wraz z ANS powstał jego rezerwowy duplikat, ANS 2. Wobec powodzenia misji nie został on wysłany w kosmos a oddany do muzeum.
+
+ANS umożliwił uzyskanie niezbędnych doświadczeń dla zespołów uczestniczących w programie naukowym i budowy satelitów, tak iż wkrótce możliwe było przygotowanie satelity IRAS.
+
+Budowa i działanie
+Z powodu usterki układu kierowania I członu rakiety nośnej satelita nie trafił na docelową orbitę heliosynchroniczną o wysokości 500 km. Statek trafił na eliptyczną orbitę, która na początku powodowała problemy z promieniowaniem tła i skomplikowanym planowaniem obserwacji.
+
+Położenie satelity na orbicie było utrzymywane z dokładnością 1 minuty łuku za pomocą cewek magnetycznych oddziałujących z polem magnetycznym Ziemi i kół zamachowych. Oś Z statku zawsze była skierowana do Słońca. Eksperymenty naukowe były umieszczone na osi X. Początkowy ruch obrotowy statku został uniesiony przez dwa odczepiane ciężarki (metoda „yo-yo”). Pozycję wyznaczano za pomocą czujnika Słońca, poszukiwacza gwiazd, czujnika horyzontu i magnetometru.
+
+Łączność z satelitą utrzymywano jedynie w ciągu 12 godzin za pośrednictwem centrum satelitarnego  w Darmstadt (RFN) - European Satellite Operation Centre, poprzez stację w Redu (Belgia). Informacje uzyskiwane z drugiej połowy doby pozostawały w pamięci pokładowego komputera i były w następnym seansie łączności przekazywane na Ziemię. Dane telemetryczne przekazywano na częstotliwości 148 MHz. Komputer pokładowy dysponował sześcioma blokami 4096 b/s oraz siedmioma blokami pamięci.Satelita kontaktował się z Ziemią co 12 godzin. Czas obserwacji dzielony był równo między eksperymenty, na zasadzie 1 okrążenie Ziemi dla 1 instrumentu. Detektory obserwowały swoje cele w dwóch trybach: 1000 sekund ciągłej obserwacji, albo 128 sekund obserwacji a potem akumulacja promieniowania tła.
+
+Energii elektrycznej dostarczały 2 panele z 1025 ogniwami słonecznymi o średniej mocy 81 W. Do przechowywania energii elektrycznej służyły baterie NiCd o pojemności 6 Ah.
+
+Przyrządy naukowe
+ANS został wyposażony w 4 przyrządy naukowe:
+Dwa detektory miękkiego promieniowania rentgenowskiego SXX (2-34 nm) – zbudowane przez laboratorium badań kosmicznych Uniwersytetu w Utrechcie. Jeden detektor stanowiło lustro paraboliczne o powierzchni efektywnej 144 cm² z polem widzenia 34', z licznikiem proporcjonalnym (0,16-0,28 keV). Drugi stanowił licznik proporcjonalny 1-7 keV, o powierzchni efektywnej 45 cm² i polu widzenia 38'×75'.
+Detektor twardego promieniowania rentgenowskiego HXX (44-55 nm) – zbudowany przez NASA. Składał się z detektora typu LAD czułego na zakres 1-30 keV (pole widzenia 10'×3°, powierzchnia efektywna 40 cm²) i zestawu kryształów Bragga.
+Teleskop i spektrometr UV – zbudowany przez NASA. Teleskop o średnicy 220 mm w układzie Cassegraina. Czujnik promieniowania pracował w zakresie 150-330 nm, w pięciu zakresach o granicznych długościach fali: 155, 180, 220, 250, 330 nm.
+
+Promieniowanie rentgenowskie było rejestrowane detektorem o powierzchni czynnej 60 cm². Detektor dokonał pierwszych obserwacji błysków promieni X, a także pierwszych obserwacji promieni X z gwiazdy Kapella.
+
+
+
+Zobacz też
+
+astronomia rentgenowska
+
+Bibliografia

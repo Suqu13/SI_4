@@ -1,0 +1,82 @@
+McDonell-Douglas AV-8B Harrier II (ang. harrier, pies gończy lub błotniak, ptak drapieżny) i BAe Harrier – amerykańsko-brytyjski samolot rozpoznawczy i bliskiego wsparcia. Unikatową cechą Harriera jest możliwość krótkiego i pionowego startu i lądowania V/STOL. Harrier II jest opracowaną w Stanach Zjednoczonych zmodernizowaną i unowocześnioną wersją samolotu Hawker Siddeley Harrier.
+
+Obecnie w użyciu znajdują się amerykańskie AV-8B Harrier II i AV-8B+ Harrier II Plus produkowane początkowo przez McDonnell Douglas, a następnie Boeing Company oraz brytyjskie wersje Harrier GR.5'', Harrier GR.7'' i GR.9'' produkowane na licencji początkowo przez British Aerospace (BAe), a następnie przez BAE Systems.
+
+Historia rozwoju samolotu Harrier II
+Początki projektu samolotu Harrier sięgają 1957 roku, kiedy w wytwórni Hawker Aircraft opracowano pierwszą maszynę zdolną do pionowego startu i lądowania Hawker P.1127, nazwaną później Kestrel (ang. pustułka). W zamierzeniu samolot miał rozwijać prędkość naddźwiękową, lecz konstruktorom nie udało się spełnić tego wymogu. Mimo to oraz krótkiego zasięgu i niewielkiego udźwigu, samolot skierowano do seryjnej produkcji i przeznaczono do zastosowań militarnych, przede wszystkim ze względu na unikatową zdolność startu z praktycznie dowolnego miejsca.
+
+W 1973 roku ówczesny producent Harrierów British Aerospace wraz z amerykańską firmą McDonnell Douglas produkującym na licencji własną wersję samolotu AV-8A Harrier rozpoczęli opracowywanie nowego większego i lepszego samolotu oznaczonego roboczo jako AV-16A lub AV-8X napędzanego większym i mocniejszym silnikiem Rolls-Royce Pegasus 15''. Nazwa robocza AV-16A wzięła się stąd, że celem projektantów było podwojenie zasięgu i udźwigu nowej maszyny w porównaniu do AV-8A. Planowano również, że nowy Harrier będzie zdolny do przekraczania bariery dźwięku.
+
+Potencjalnym użytkownikiem nowych maszyn miały być siły zbrojne Stanów Zjednoczonych i Wielkiej Brytanii, ale w 1975 roku rząd brytyjski zdecydował o wycofaniu się z projektu. Prawdopodobnym powodem decyzji Brytyjczyków były bardzo duże koszty opracowania silnika Pegasus 15'', których nie chciał ponieść ani rząd brytyjski, ani amerykański. Ostatecznie zrezygnowano z projektu silnika, a cały ciężar prac rozwojowych nad samolotem spoczął na firmie McDonnell Douglas.
+
+Jedynym użytkownikiem wcześniejszej wersji AV-8A w Stanach Zjednoczonych był Korpus Piechoty Morskiej, który bardzo cenił ówcześnie używane Harriery pierwszej generacji, będąc jednocześnie zainteresowanym ich modernizacją z naciskiem na zwiększenie zasięgu i udźwigu uzbrojenia. Firma McDonnell Douglas postanowiła kontynuować prace rozwojowe, ale nie nad nowym samolotem, ale nad znaczącą modernizacją starej maszyny oznaczonej jako AV-8B Harrier II. Chociaż nowy Harrier nie był aż tak nowoczesny jak projektowany AV-16A to został znacznie ulepszony między innymi poprzez wymianę skrzydeł i użycie do budowy płatowca materiałów kompozytowych.
+
+Pierwszy prototyp oznaczony jako YAV-8B będący maszyną AV-8A wyposażoną w nowe skrzydło wzbił się w powietrze 9 listopada 1978 roku. Zalety nowego skrzydła były na tyle duże, że podjęto decyzję o wyprodukowaniu kolejnych czterech prototypów do dalszych testów. Dalszy postęp projektu został jednak, na wniosek rządu amerykańskiego, uzależniony od znalezienia przez firmę McDonnell Douglas kontrahenta zagranicznego na nową maszynę. Równolegle w Wielkiej Brytanii prowadzono pod kierownictwem British Aerospace modernizację Harrierów, nazywaną Big Wing Harrier (ang. wielkie skrzydło) lub Tin Wing Harrier (ang. blaszane skrzydło), od nowego większego i wykonanego z metalu skrzydła. Znalazły one zastosowanie w użytkowanych przez RAF maszynach Harrier GR.3'', jednak już w 1980 roku Brytyjczycy rozpoczęli testy amerykańskiego rozwiązania AV-8B pod kątem przydatności we własnych siłach zbrojnych.
+Największe zastrzeżenia dotyczyły niskiej zwrotności AV-8B uniemożliwiające skuteczną walkę powietrzną. Odpowiedzią Amerykanów było dodanie u nasady skrzydeł, tak jak w brytyjskim rozwiązaniu Big Wing Harriera, dodatkowych powierzchni wzdłuż wlotów powietrza, powodujących powstawanie zawirowań wpływających na polepszenie własności manewrowych maszyny. Dodatkowe poszerzone powierzchnie nazwano LERX od angielskiego Leading-Edge Root Extension – rozszerzenie krawędzi natarcia przy nasadzie (skrzydła)''.
+Po zakończeniu testów strona brytyjska postanowiła powtórnie dołączyć się do projektu i zadeklarowała chęć zakupu 60 nowych maszyn. Produkcję płatowców podzielono pomiędzy wykonawców w obu państwach w taki sposób, że każda ze stron wykonywała elementy tylko dla własnych maszyn.
+
+Pierwszy zbudowany od podstaw prototyp AV-8B wzbił się w powietrze 5 listopada 1981 roku, a pierwsza maszyna produkcyjna 29 sierpnia 1983.
+
+Amerykańskie wersje samolotu Harrier II
+AV-8B
+
+W porównaniu z Harrierem pierwszej generacji, AV-8B różnił się bardzo wieloma elementami, zarówno zewnętrznie, jak i wewnętrznie. Nowe superkrytyczne skrzydło ma o 2,69 m² większą powierzchnię i zmniejszony z 40° do 36° skos. Znajdujące się na końcach skrzydeł golenie podwozia dodatkowego przesunięto w kierunku środka płata, a do budowy kadłuba użyto materiałów kompozytowych. Nowe skrzydło umożliwiło zwiększenie udźwigu uzbrojenia do 4200&nbsp;kg, prawie dwukrotnie więcej w porównaniu do poprzedniej wersji. Zwiększono z czterech do siedmiu liczbę węzłów uzbrojenia, z których cztery są mokre, czyli umożliwiają podwieszenie dodatkowych zbiorników paliwa. Skrajne węzły uzbrojenia posiadają okablowanie do przenoszenia pocisków AIM-9 Sidewinder.
+Jednostką napędową samolotu jest wzmocniona wersja silnika Rolls-Royce Pegasus 104'' o symbolu Pegasus 105'' lub budowana na licencji amerykańska wersja Pratt & Whittney F402-RR-406'' o ciągu
+98,1&nbsp;kN z cyfrowym sterowaniem parametrami pracy. Stała końcówka do tankowania w powietrzu została zastąpiona składaną znajdującą się na lewym wlocie powietrza.
+Pomimo znacznego zmniejszenia masy własnej nowej maszyny i zastosowania mocniejszego silnika, AV-8B jest o około 80&nbsp;km/h wolniejszy od poprzednika, ale za to o wiele zwrotniejszy.
+
+Zdaniem korpusu piechoty morskiej, głównego użytkownika Harrierów w Stanach Zjednoczonych, wymiana używanego w AV-8A działka ADEN kalibru 30&nbsp;mm nie była konieczna, mimo stosowania nietypowej amunicji, w nowej maszynie instaluje się zasobniki z amerykańskimi działkami systemu Gatlinga GAU-12.
+AV-8B został wyposażony w podwyższoną kabinę tak jak w Sea Harrierach, zapewniającą szersze pole widzenia, a kokpit został zaprojektowany od nowa i obecnie przypomina stosowany w myśliwcu F/A-18 Hornet z dużym HUD-em i systemem sterowania HOTAS.
+
+TAV-8B
+Dwumiejscowa szkolno-bojowa wersja samolotu AV-8B oblatana 21 listopada 1986 roku. Wersja ta posiada wyższy statecznik pionowy i tylko po jednym punkcie podwieszenia uzbrojenia pod każdym ze skrzydeł. Zbudowano 22 egzemplarze samolotu TAV-8B dla USMC.
+
+AV-8B (NA)
+Kolejna zbudowana na bazie AV-8B wersja samolotu przystosowana do wykonywania misji nocnych. AV-8B (NA)'' lub Night Attack Harrier II został oblatany 26 czerwca 1987 roku. Główne modyfikacje maszyny polegały na dodaniu zabudowanych w części dziobowej systemów do obserwacji przedniej półsfery w podczerwieni (FLIR – Forward-Looking InfraRed) z możliwością wyświetlania obrazu na szybie wskaźnika HUD, zmianie projektu kabiny z podświetleniem wskaźników w kolorze niebiesko-zielonym, odpowiedniejszym do używania gogli noktowizyjnych. Dodano również wyświetlacze mapy terenu.
+Jednostkę napędową wymieniono na mocniejszą i bardziej niezawodną typu Rolls-Royce Pegasus 11-61'' (amerykańskie oznaczenie F402-RR-408'') o mocy większej o 10%, która początkowo sprawiała pewne kłopoty w związku z zastosowaniem tytanowych łopatek turbin. W pewnych warunkach, łopatki te pękały uszkadzając obudowę silnika i doprowadzając do pożaru, dlatego wymieniono je na stalowe, mniej kruche. Na górnej części kadłuba zamontowano dodatkowe wyrzutniki pułapek termicznych i antyradarowych zwiększając ich liczbę z 60 do 180 sztuk. Przewidziano również możliwość zainstalowania zasobnika zakłócającego AN/ALQ-164''.
+Pierwsze maszyny typu AV-8B (NA)'' weszły do służby we wrześniu 1989 roku.
+
+AV-8B+ (AV-8B Plus)
+Kolejna zmodernizowana wersja powstała na bazie AV-8B (NA)'', wyposażona w nowocześniejszy radar zaprojektowany dla samolotu F/A-18 Hornet, z większą anteną, co pociągnęło za sobą konieczność powiększenia dziobowej części kadłuba. Radar ten jest urządzeniem uniwersalnym przeznaczonym do atakowania celów powietrznych i naziemnych, oraz śledzenia ukształtowania terenu. Na skrzydłach, w okolicach goleni podwozia dodano (tak jak w brytyjskim GR.5'') dwa uchwyty dla pocisków Sidewinder, co zwiększyło ogólną liczbę punktów mocowania uzbrojenia do dziewięciu. Kolejną cechą wyróżniającą AV-8B+'' od poprzednich modeli jest powiększony grzbietowy wlot powietrza.
+Modyfikacja powstała na potrzeby Hiszpanii i Włoch i przez te państwa została sfinansowana. Pierwszy lot nowej maszyny odbył się 22 września 1992 roku.
+
+Pod koniec lat 90. AV-8B+ Harrier II został wyposażony w zaprojektowany w Izraelu przez firmę Rafael w kooperacji z Northrop Grumman podwieszany zasobnik Litening II zawierający systemy naprowadzające, zaawansowane urządzenia FLIR, kamery do filmowania w dzień, laserowy dalmierz i desygnator celów. Zakupiono 8 zestawów Litening II, a następnie zdecydowano o dokupieniu dalszych 68 w wersji o większym zasięgu Litening ER (od Extended Range – „wydłużony zasięg”).
+
+Brytyjskie wersje samolotu Harrier II
+Harrier GR.5
+Brytyjski odpowiednik AV-8B, został oznaczony jako GR.5''', nazwą pierwotnie zarezerwowaną dla Big Wing Harriera, który ostatecznie nie został zbudowany. Maszyna ta była bardzo podobna do amerykańskiej wersji, a różniła się tylko drobnymi szczegółami. Zmiany konstrukcyjne wprowadzone, aby zaspokoić potrzeby RAF-u były dość drogie w porównaniu do podstawowej maszyny w amerykańskiej wersji i w związku z tym krytykowane przez rząd brytyjski.
+
+Uzbrojenie strzeleckie Harriera GR.5'' stanowiło nowe działko rewolwerowe ADEN 25 kalibru 25 milimetrów, o szybkostrzelności 1850 strzałów na minutę. W pobliżu goleni podwozia, w połowie skrzydeł samolotu zainstalowano dwa dodatkowe węzły dla pocisków Sidewinder służące do samoobrony podczas działań na niskich pułapach. Wyposażenie elektroniczne i środki przeciwdziałania wrogim pociskom rakietowym były inne niż w AV-8B i pochodziły głównie od brytyjskich producentów. Pierwszy Harrier GR.5'' został oblatany 30 kwietnia 1985 roku i wprowadzony do służby w 1989 zastępując starszą wersję GR.3''. Zbudowano 41 egzemplarzy samolotów w wersji GR.5'' i 21 w wersji GR.5A różniącej się od poprzednika w niewielkim stopniu, ale łatwiejszej do modernizacji do wersji GR.7''.
+
+Hiszpańskie AV-8B
+Hiszpańska marynarka wojenna posiadała Harriery pierwszej generacji oznaczone jako AV-8S Matador, a w celu unowocześnienia zakupiła 12 nowych EAV-8B przeznaczonych do bazowania na lotniskowcu Principe de Asturias (R11). Zakupione w Stanach Zjednoczonych maszyny zostały zmontowane w hiszpańskich zakładach CASA. Obecnie służą na okręcie desantowym–lotniskowcu Juan Carlos I (L61).
+
+Włoskie AV-8B
+Podobnie jak Hiszpania, także Włochy zakupiły 16 maszyn AV-8B+'' i dwie szkolno-bojowe TAV-8B będące obecnie na wyposażeniu lotniskowca Giuseppe Garibaldi. Trzynaście z zakupionych maszyn zmontowano we włoskiej firmie Alenia Aeronautica.
+
+Użycie bojowe samolotów Harrier II
+Podczas wojny w zatoce Perskiej w 1991 roku siły amerykańskie posiadały dwie jednostki piechoty morskiej wyposażone w samoloty AV-8B wykonując misje nad Irakiem. Należące do piechoty morskiej Harriery wykonały 7,7% wszystkich misji w tej wojnie zrzucając bomby burzące, napalm, bomby kasetowe czy pociski AGM-65 Maverick.
+
+Maszyny AV-8B+'' były wykorzystywane podczas wojny w Afganistanie operując z okrętu USS „Peleliu” wspierając siły lądowe poprzez bombardowanie wrogich pozycji.
+
+Po raz drugi samoloty AV-8B+'' wzięły udział w operacji w Iraku pełniąc misje rozpoznawcze i przeprowadzając ataki na cele naziemne. Podczas tej operacji po raz pierwszy użyto bojowo zasobnika Litening ER.
+
+W 2006 roku 9 brytyjskich Harrierów Gr.7, z 800. dywizjonu Royal Navy, wzięło udział w walkach na południu Afganistanu. Samoloty wykonywały zadania bliskiego wsparcia wojsk lądowych oraz zwiadu lotniczego.
+
+Bibliografia
+Bill Gunston The Encyclopedia of modern warplanes, Barnes & Noble, 1995.
+Mike Spick BAE/MCDD Harrier, Salamander Books, 1991
+
+Linki zewnętrzne
+(30 marca 2005) 
+Los Angeles Times 
+
+
+
+
+
+
+
+
+
+

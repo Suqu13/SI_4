@@ -1,0 +1,80 @@
+Life F190''', znany również jako Life L190''' – samochód Formuły 1 zaprojektowany przez Richarda Divilę i Gianniego Marellego dla zespołu Life, który wziął udział w 14 Grand Prix sezonu 1990, wycofując się z rywalizacji po Grand Prix Hiszpanii. Początkowo kierowcą samochodu był Gary Brabham, którego później zastąpił Bruno Giacomelli. Samochód, będący właściwie konstrukcją FIRST, okazał się nieefektywny, a kierowcy Life nigdy nie zdołali się prekwalifikować, wielokrotnie będąc znacznie wolniejszymi od rywali. Pomyłką w szczególności okazała się próba zastosowania przez zespół nietypowego silnika W12.
+
+Koncept
+Pracujący od 1949 roku w Ferrari inżynier Franco Rocchi opuścił tę firmę w 1980 roku, by rozpocząć prace nad nowym silnikiem wyścigowym w układzie W. Był to wybór nietypowy, ponieważ w głównych seriach wyścigowych używa się zazwyczaj silników widlastych. Rocchi był jednak przekonany o słuszności swego pomysłu. Teoretycznie silnik W12 powinien być krótszy i bardziej elastyczny niż silnik V12. Silnik Rocchiego był gotowy w połowie roku 1989. Rocchi ogłosił, że masa silnika wynosi 140 kg przy ważących 155 kg silnikach Cosworth.
+
+Koniec lat 80. był w Formule 1 czasem, gdy zabroniono korzystania z silników turbodoładowanych i zespoły korzystające z takich silników potrzebowały zmiany na silniki wolnossące. Do Formuły 1 weszło kilku dostawców silników (Ilmor, Judd, Lamborghini czy Yamaha), a Carlo Chiti dostarczał nieosiągające dobrych osiągów silniki Motori Moderni B12 zespołom Minardi i Coloni. Renault i Honda rozwijały silniki V10 dla odpowiednio Williamsa i McLarena.
+
+W tej sytuacji włoski kupiec Ernesto Vita zainteresował się silnikiem Rocchiego. Mając nadzieję na szybki zysk, zakupił od Rocchiego prawa do silnika W12 i próbował sprzedać go innym zespołom. Włoch był przekonany, że nietypowy silnik przyciągnie sponsorów. Tak się jednak nie stało, a większość ekspertów i międzynarodowych korporacji wyrażała powątpiewanie w powodzenie silnika. Vita postanowił więc założyć zespół Life Racing Engines i samemu używać nietypowego silnika. Nazwa zespołu "Life" pochodziła od nazwiska założyciela, oznaczającego w języku włoskim "życie".
+
+FIRST Racing
+Vita postanowił nie budować własnego samochodu, a wykorzystać już istniejący. W tym celu zakupił go od zespołu FIRST Racing. FIRST – założony przez byłego kierowcę wyścigowego Lamberto Leoniego zespół zadebiutował w Międzynarodowej Formule 3000 w 1987, a w roku 1988, gdy jego kierowcami byli Pierluigi Martini i Marco Apicella, osiągał dobre rezultaty. W roku 1989 Leoni planował wystawić swój zespół w Formule 1. Do skonstruowania samochodu został zatrudniony Richard Divila, były pracownik między innymi Fittipaldi Automotive. Aby ograniczyć koszty, za pierwowzór do zbudowania samochodu posłużył pojazd Formuły 3000, March 88B. Ponadto w trakcie prac nad modelem Divila opuścił FIRST, ponieważ przeniósł się do Ligiera.
+
+Wyposażony w silnik Judd model FIRST F189 był gotowy na koniec 1988 roku i został zaprezentowany podczas Memoriału Attilio Bettegi. Testy samochodu przeprowadzone przez Gabriele Tarquiniego – który miał być kierowcą FIRST w 1989 roku – wykazały, że podwozie zostało źle zbudowane, a samochód jest niebezpieczny. Ponadto nie przeszedł obowiązkowych testów zderzeniowych przed sezonem, wskutek czego zespół FIRST nie zdołał wystartować w Formule 1. Divila powiedział kierownictwu FIRST, że samochód jest "bombą zegarową", wykazał, że samochód ma źle skonstruowaną skrzynię biegów, zawieszenie, podwozie czy kolumnę kierownicy, ostrzegł potencjalnych kierowców przed prowadzeniem F189 i podjął kroki prawne, by nie wiązano jego nazwiska z projektem. Stwierdził też, że "samochód byłby dobry, ale co najwyżej jako interesująca doniczka".
+
+Nie mając pieniędzy, zgodnego z regulaminem samochodu i opon (Pirelli i Goodyear odmówiły dostarczania opon) i pieniędzy Leoni wycofał zamiary uczestnictwa w Formule 1 i powrócił do Formuły 3000.
+
+Silnik i skrzynia biegów
+Silnik Life W12 miał trzy rzędy po cztery cylindry – dwa rzędy w konfiguracji V, a jeden położony pionowo pomiędzy nimi. Ta konfiguracja była nietypowa, ponieważ na ogół silniki W12 mają cztery rzędy po trzy cylindry. W teorii silnik ten powinien być tak kompaktowy jak jednostki V8, generując tyle mocy, co silniki V12. Jednak silnik Life W12 był nieudaną konstrukcja, która osiągała moc 450 KM, tj. nawet o 300 KM mniej od rywali (niektóre źródła podają jednak, że moc silnika Life wynosiła 360 KM przy 800 KM silnika Honda w McLarenach). Silnik oznaczony symbolem Life F35 był więc najsłabszą jednostką napędową w sezonie 1990. Przed Grand Prix Portugalii jednostki Life zastąpiono silnikami Judd CV o mocy około 600 KM.
+
+Silnik z wtryskiem paliwa miał pięć zaworów na cylinder i cztery wałki rozrządu.
+
+Sześciobiegowa manualna skrzynia biegów była skonstruowana przez Life oraz Hewlanda.
+
+Nadwozie i zawieszenie
+Vita zakupił od Leoniego FIRST F189 i zamontował w nim silnik Life W12. Większość prac mechanicznych została wykonana przez Gianniego Marellego. By pozytywnie przejść testy zderzeniowe, zmieniono pałąk. Model F190 w zasadzie był dość konwencjonalnym, prostym samochodem. Jego wadą była zbyt duża masa: Life F190 był najcięższym samochodem w stawce. Miał bardzo wąski nos, co powodowało niewielki opór powietrza. Model był wyposażony w dodatkowe wloty powietrza przy ramionach kierowcy. Sekcje boczne samochodu były bardzo niskie, wąskie i cienkie. Spłycony kokpit narażał kierowcę na niebezpieczeństwo, co Divila uzmysłowił pierwszemu kierowcy samochodu, Gary'emu Brabhamowi, przestrzegając go przed jazdą tym samochodem.
+
+Hamulce tarczowe z węgla były wyprodukowane przez Brembo/CI, a amortyzatory wyprodukowała firma Koni.
+
+Testowanie
+Kierowcą początkowo został mistrz Brytyjskiej Formuły 3000, Gary Brabham. Kierowcą rezerwowym i testowym natomiast był Franco Scapini, były kierowca Formuły 3000 oraz tester Minardi w 1987; ze względu na fakt, iż zespół dysponował tylko jednym samochodem, Scapini testował model tylko raz. Pierwsze testy planowano odbyć 28 stycznia na torze Misano World Circuit, ale do nich nie doszło. Ostatecznie samochód był gotowy w lutym, ale nie był prawie w ogóle testowany. Pierwszy test odbył się 18 lutego na torze Vallelunga w obecności Gary'ego Brabhama i Franco Scapiniego. Samochód prowadził tylko Brabham, co na krótko przyciągnęło jego sponsorów (Agip, Beta, Nardi Borelli i Albini & Fontanot). Następny test odbył się 25 lutego na torze Monza; w sumie podczas testów przejechano kilkanaście okrążeń. F190 prowadził się źle, był powolny, awaryjny i ciężki, ważąc od 25 do 30 kg więcej niż inne samochody. Ponadto zespół posiadał tylko jedno nadwozie, dwa silniki i nie miał części zamiennych.
+
+F190 w wyścigach
+W sezonie 1990 brało udział 19 zespołów wystawiających 35 samochodów, ale regulamin zakładał, że w każdym wyścigu może wziąć udział 26 kierowców, a 30 ma prawo do wzięcia udziału w kwalifikacjach. Dla najgorszych zespołów były przewidziane prekwalifikacje.
+
+Sezon rozpoczął się 11 marca 1990 roku od Grand Prix Stanów Zjednoczonych na torze Phoenix. Gary Brabham uzyskał czas 2:07,147, o prawie 30 sekund gorszy od poprzedzającego go Claudio Langesa, podczas gdy czas zdobywcy pole position – Gerharda Bergera – był prawie o 40 sekund lepszy. Ivan Capelli, który się zakwalifikował do wyścigu na ostatnim (26) miejscu, uzyskał czas 1:33,044. Derek Warwick uzyskał na torze maksymalną prędkość 271,44 km/h, a Brabham – 185,57 km/h. Ponadto samochód przejechał w sumie dwa mierzone okrążenia, po czym przegrzał mu się silnik.
+
+Gary Brabham ujawnił na konferencji prasowej w Phoenix, że mechanicy, którzy chcieli zmierzyć ciśnienie w oponach, musieli pożyczyć manometr od zespołu EuroBrun. Wyraził również swoje obawy, że zespół upadnie przed Grand Prix Brazylii. By pomóc ratować zespół, Brabham starał się pozyskać sponsorów i przeznaczył również część swoich osobistych środków, podobnie jak Ernesto Vita, który przeznaczył na zespół dodatkowe trzy miliony dolarów.
+
+W Grand Prix Brazylii Brabham przejechał 400 metrów, ponieważ strajkujący wskutek niepłacenia im pieniędzy mechanicy nie nalali oleju do silnika. Następnie zaczęło dochodzić do spięć między Brabhamem a Vitą. Australijski kierowca obwiniał pracodawcę o brak profesjonalizmu zespołu, który nie ma środków na naprawę samochodu po złamanym korbowodzie w Grand Prix Brazylii. Jego manager, Don MacPherson, powiedział, że poziom profesjonalizmu Life'a nie jest godny Formuły 1 i że jego klient chce opuścić włoski zespół.
+
+Brabham zarekomendował Vicie inżyniera Ronego Salta, z którym współpracował w Formule 3000 w zespole Bromley Motorsports. Zaproponował także wymianę silników na Judd V8. Vita odmówił, wskutek czego Brabham opuścił zespół i przeniósł się do Formuły 3000.
+
+Jako zastępcę Brabhama Vita chciał początkowo zatrudnić Bernda Schneidera. Schneider w Formule 1 debiutował w 1988 roku w Zakspeedzie, a w sezonie 1990 wystartował w Grand Prix Stanów Zjednoczonych w zespole Arrows. Schneider był obecny podczas Grand Prix Brazylii w nadziei, że jakiś zespół zainteresuje się jego usługami, a ofertę złożył mu Vita. Jednakże Schneider po zorientowaniu się, jak słabym samochodem jest F190, odrzucił propozycję Włocha i wybrał starty w Grupie C w zespole Kremer Racing w nadziei, że dzięki dobrym występom zainteresuje się nim dobry zespół Formuły 1.
+
+Na przełomie kwietnia i maja zespół opuścił Gianni Marelli, a Goodyear ogłosił, że ma zamiar zaprzestać dostarczania opon Life'owi. Goodyear zmienił decyzję, ale wiceprezes FIA, Bernie Ecclestone, spotkał się z Vitą i spróbował odwieść go od kontynuowania startów zespołu w Formule 1 ze względu na jego ograniczone zasoby finansowe i ograniczoną konkurencyjność samochodu.
+
+W poszukiwaniu kierowcy Ernesto Vita nawiązał kontakt z Franco Scapinim, ale nie otrzymał on superlicencji FIA. Vita ponownie zatem złożył ofertę Schneiderowi, który jeszcze raz nie wyraził zgody na starty w zespole. Kolejnym kandydatem do jazdy w zespole był Rob Wilson, kierowca serii Barber Saab Pro Series, niedoszły kierowca Tyrrella w 1981 roku. W międzyczasie Vita rozpoczął jednak negocjacje z Bruno Giacomellim, a Wilson obawiał się, że zostanie kierowcą rezerwowym i wyraził nadzieję, że zostanie kierowcą Life'a, jeśli zespół wystawi drugi samochód. Ostatecznie Vita zatrudnił Giacomellego. Giacomelli, były kierowca zespołów McLaren, Alfa Romeo i Toleman w Formule 1 jeździł w latach 1977–1983, startując w 83 Grand Prix i zdobywając 14 punktów, jedno pole position i jedno miejsce na podium. Giacomelli przyznał później, że wiedział, iż samochód jest bardzo powolny, ale tęsknił za środowiskiem Formuły 1.
+
+Vita zawarł również porozumienie z sowieckim konsorcjum Pilowski I.C., sprzedał także 67% udziałów w zespole bogatemu przemysłowcy z Werony, Daniele Battaglinowi. To miało umożliwić Vicie zakup jednostek Judd używanych w Brabhamach i Lotusach, jako że Vita zdawał sobie sprawę z bardzo dużych niedostatków mocy silnika Life.
+
+Podczas kwalifikacji do Grand Prix San Marino w samochodzie Giacomellego zerwał się pasek pompy oleju i pompy wody, przez co Włoch osiągnął prędkość maksymalną 104,44 km/h (Riccardo Patrese osiągnął 313,95 km/h). Giacomelli ukończył kwalifikacje na biegu jałowym z czasem 7:16,212. Ten czas oznaczał, że w trakcie wyścigu Giacomelli zostałby kilkakrotnie zdublowany na jednym okrążeniu. Ponadto Włoch powiedział, że bał się, iż zostanie uderzony od tyłu, ponieważ jechał tak wolno.
+
+W kwalifikacjach do Grand Prix Monako Giacomelli po raz pierwszy w sezonie bezproblemowo przejechał dwa mierzone okrążenia z rzędu. Rozwinął maksymalną prędkość 213 km/h przy 272 km/h osiągniętych przez Ayrtona Sennę, a jego czas – 1:41,187 – był o ponad 15 sekund gorszy od dwudziestego szóstego JJ Lehto i gorszy od wszystkich samochodów Formuły 3, ścigających się podczas imprezy towarzyszącej na tym torze.
+
+W Grand Prix Kanady czas Giacomellego (1:50,253) był o prawie pół minuty gorszy od czasu Ayrtona Senny. Autorem najniższej prędkości maksymalnej na torze – 216 km/h – był Bruno Giacomelli, a największej – 297 km/h – Nelson Piquet. Marellego zastąpił były dyrektor techniczny Zakspeed, Peter Wyss, chociaż zaproszony przez Giacomellego oficjalnie pełnił rolę doradcy mającego pomóc w przezwyciężeniu trudności zespołu. Giacomelli skontaktował się ze swoim byłym pracodawcą Leyton House (dla którego testował samochód w 1989 roku), by zakupić silniki Judd, Vita natomiast prowadził na ten temat rozmowy z Brabhamem i Lotusem. Podczas Grand Prix Meksyku dyrektor sportowy zespołu Sergio Barbasio ogłosił, że Life Racing Engines zakupił silniki Judd CV od Team Lotus, a projektanci pracują nad rozwojem samochodu, by dobrze umieścić silnik V8 w miejsce silnika W12.
+
+W Grand Prix Meksyku Giacomelli uzyskał czas 4:04,475 i prędkość maksymalną o prawie 200 km/h niższą od najszybszego na torze Satoru Nakajimy. W kwalifikacjach do Grand Prix Francji Giacomelli nie przejechał ani jednego mierzonego okrążenia i nie uzyskał czasu. Kwalifikacje do Grand Prix Wielkiej Brytanii włoski kierowca z czasem 1:25,947 ponownie ukończył na ostatnim miejscu; ostatni kierowca, który się zakwalifikował – Gabriele Tarquini, był o ponad 14 sekund szybszy. Czas Giacomellego był o trzy sekundy lepszy od samochodów Formuły 3 ścigających się wówczas na torze Silverstone.
+
+Mimo dysponowania silnikiem Judd podczas Grand Prix Niemiec Barbasio ujawnił, że mechanicy Life nie mieli czasu, by między dwoma Grand Prix zastąpić silnik Life silnikiem Judd, i że jest prawdopodobne, że zespół będzie stosował silnik W12 do końca sezonu. Barbasio wyjawił także, że rozważał wystawienie drugiego samochodu z silnikiem Judd, ale zespół nie ma na to pieniędzy. W prekwalifikacjach Giacomelli był o 20 sekund gorszy od przedostatniego Claudio Langesa.
+
+W następnych trzech Grand Prix: Węgier, Belgii i Włoch nadal korzystano z silników Life, a Giacomelli nadal tracił po kilkanaście sekund do poprzedzających go kierowców: w Grand Prix Węgier stracił do przedostatniego Langesa 15 sekund, w Grand Prix Belgii – 18 sekund, a w Grand Prix Włoch – 20 sekund. Czas Giacomellego uzyskany podczas Grand Prix Włoch był gorszy od czasu wszystkich samochodów Formuły 1 z sezonu 1969.
+
+Przed Grand Prix Portugalii w modelu F190 zainstalowano silnik Judd. Personel poświęcił dziesięć dni na przebudowanie samochodu, jako że należało zmodyfikować podwozie, karoserię i mocowanie silnika; po tych zmianach samochód był lżejszy o około 80 kg. Giacomelli wyjawił nadzieję, że po wymianie silnika jego samochód będzie w stanie osiągać 300 km/h. Ostatnie prace nad umiejscowieniem silnika miały miejsce na torze Autódromo do Estoril tuż przed Grand Prix Portugalii, kiedy to okazało się, że pokrywa silnika nie pasuje do jednostki Judd. Giacomelli nie zdołał nawet wyjechać z pit lane z powodu uszkodzenia układu elektrycznego.
+
+Na Grand Prix Hiszpanii pokrywa silnika była już w pełni przystosowana do silnika Judd, ale mechanicy byli zmuszeni podnosić samochód przez ramiona zawieszenia, ponieważ zespół nie wziął podnośnika. Czas Giacomellego wyniósł 1:42,699, a przedostatniego Langesa – 1:25,736.
+
+Z powodu wysokich kosztów wyjazdu na dwa ostatnie, zamorskie Grand Prix (Japonii i Australii) Life zrezygnował z udziału z nich, za co otrzymał od FIA grzywnę w wysokości 200&nbsp;000 dolarów. Mimo złych wyników zespołu Vita zapowiedział udział Life Racing Engines w sezonie 1991, oznajmiając przy tym, że nadal rozwijany będzie silnik W12, by w ostateczności móc konkurować z silnikami Judd V8 i Lamborghini V12. Zapowiedział także zainwestowanie w zespół od 5 do 8 miliardów lirów i zwiększenie liczby personelu. Nigdy jednak do tego nie doszło, a Life wycofał się z Formuły 1 po sezonie 1990.
+
+Dalsze losy modelu
+Jedyny model został sprzedany prywatnemu kolekcjonerowi. W 2009 roku zaprezentowano go wraz z oryginalnym, ale przebudowanym przez Lorenzo Prandinę silnikiem podczas Festiwalu w Goodwood, a jego kierowcą był Derek Bell.
+
+Wyniki w Formule 1
+
+
+
+
+
+
+
+

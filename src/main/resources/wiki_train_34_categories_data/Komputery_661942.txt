@@ -1,0 +1,9 @@
+z/OS – 64-bitowy serwerowy system operacyjny dla komputerów typu mainframe, opracowany i rozwijany przez firmę IBM. z/OS wywodzi się z OS/390. Oferuje funkcjonalność odpowiadającą obecnym systemom operacyjnym i jednocześnie ukierunkowany jest na wsteczną kompatybilność.
+
+z/OS oferuje (oprócz wielu technologii związanych z komputerami mainframe) 64-bitową Javę, zgodność ze specyfikacją SUS systemów Unix, systemy plików HFS i zFS (następca HFS, '' z/OS Distributed File Service zSeries File System). Jest dostępny dla komputerów z/Architecture, tj. m.in. IBM z800, z900, z890, z990, System z9, System z10 i zEnterprise 196.
+
+Dzięki technologii VIPA, czyli wirtualnych adresów IP, systemy mogą ze sobą współpracować za pomocą stosu TCP/IP odpornego na awarię interfejsu. Przy pomocy wbudowanej obsługi obciążeń WLM (workload manager) można zarządzać zasobami systemowymi, takimi jak procesory czy pamięć. WLM pozwala na zarządzanie połączeniami stosu TCP/IP, umożliwia podgląd procesów wejścia/wyjścia oraz ich modyfikacje. Aplikacje takie, jak WebSphere, mogą współpracować z WLM. W wersji systemu z/OS 1.9 jest zaimplementowany IBM Health Checker, który na bieżąco monitoruje sprawność systemu operacyjnego, HCM (Hardware Configuration Manager) usprawniający konfigurację sprzętu, jak również zaktualizowany język skryptowy REXX. 
+
+
+
+Linki zewnętrzne

@@ -1,0 +1,54 @@
+
+
+Pryzmat – bryła z materiału przezroczystego o co najmniej dwóch ścianach płaskich nachylonych do siebie pod kątem (tzw. kątem łamiącym pryzmatu).
+
+Używany w optyce do zmiany kierunku biegu fal świetlnych, a poprzez to, że zmiana kierunku zależy od długości fali, jest używany do analizy widmowej światła. Zjawisko całkowitego wewnętrznego odbicia pozwala użyć pryzmatu jako idealnego elementu odbijającego światło. Pryzmaty wykorzystywane są w produkcji wielu urządzeń optycznych, np.: lornetek, peryskopów.
+
+Dający najszerszą tęczę pryzmat wykonany ze szkła kwarcowego ma kąt między ścianami wynoszący 62°, ze szkła crown ZN – 78°, a ze szkła flint – ok. 82°-86°.
+
+Szczególne rodzaje pryzmatów:
+pryzmat pentagonalny
+pryzmat Nicola
+pryzmat Wollastona
+
+Kąt załamania w pryzmacie
+
+Kąt odchylenia promienia i dyspersji przez pryzmat można określić za pomocą prawa Snelliusa na powierzchniach pryzmatu.
+
+.
+
+Dla pryzmatu, którego obie powierzchnie stykają się z tą samą substancją oba współczynniki załamania są takie same, wprowadza się wówczas względny współczynnik załamania ośrodków n, kąt załamania promienia  jest określony przez:
+
+
+Jeśli kąta padania promienia na pryzmat  i kąt między płaszczyznami łamiącymi pryzmatu  są niewielkie, to powyższa wzór można przybliżyć wzorem
+gdzie:
+– kąt padania promienia padającego na pryzmat,
+– kąt padania promienia wychodzącego z pryzmatu,
+– kąt załamania promienia padającego na pryzmat,
+– kąt załamania promienia wychodzącego z pryzmatu,
+n0, n1, n2''''' – współczynnik załamania kolejnych ośrodków przez które biegnie promień,
+
+Minimalny kąt załamania pryzmatu
+Promień przechodząc przez pryzmat ulega najmniejszemu odchyleniu gdy kąt padania promienia na pryzmat jest równy kątowi wyjścia promienia z pryzmatu wówczas:
+
+Zjawisko to ma wpływ na zjawiska optyczne w atmosferze takie jak halo i tęcza. Gdy promień świetlny przechodząc przez kryształu lodu przechodzi przez ścianki nachylone do siebie pod kątem 60°, to minimalne odchylenie promienia jest równe 22°, i odpowiada za tworzenie się halo 22°. Gdy promień przechodzi przez ścianki prostopadłe do siebie, to minimalny kąt odchylenia jest równy 46°, i odpowiada za tworzenie się Halo 46°.
+
+Kąt graniczny całkowitego wewnętrznego odbicia
+
+Jeżeli kąt padania promienia świetlnego wychodzącego z pryzmatu na płaszczyznę jest większy od kąta granicznego, to promień nie wychodzi z pryzmatu a ulega całkowitemu wewnętrznemu odbiciu. Sytuacja ta zachodzi gdy:
+
+lub
+
+Jeżeli dany pryzmat ma być użyty jako równoramienny pryzmat odbiciowy, w którym światło pada prostopadle na podstawę, by zaszło w nim całkowite wewnętrzne odbicie, to kąt przy podstawie tego pryzmatu musi spełniać warunek:
+
+Zobacz też
+
+rozszczepienie światła
+przyrząd optyczny
+siatka dyfrakcyjna
+tęcza
+węgielnica pryzmatyczna
+
+
+
+

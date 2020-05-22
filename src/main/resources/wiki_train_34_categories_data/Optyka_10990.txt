@@ -1,0 +1,12 @@
+
+Achromat – układ optyczny (np. obiektyw), grupa dwóch soczewek - skupiającej i rozpraszającej - zrobionych z gatunków szkła o różnej dyspersji (np. szkła kronowego i flintowego) połączonych razem. Umożliwia korekcję aberracji chromatycznej dla światła o dwóch określonych długościach fal (zazwyczaj dla światła czerwonego i niebieskiego). Dla światła o innych długościach fal aberracja nie zostaje całkowicie wyeliminowana, ale znacznie zmniejszona (jest to tzw. chromatyzm wtórny).
+
+Dokładniejszą korekcję aberracji chromatycznej zapewnia układ 3 lub więcej soczewek, np. apochromat.
+
+Zobacz też
+Obiektyw Chevaliera
+Obiektyw Grubba
+
+
+
+

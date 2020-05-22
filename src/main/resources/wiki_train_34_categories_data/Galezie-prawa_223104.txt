@@ -1,0 +1,24 @@
+Cofnięcie pozwu – czynność procesowa strony procesu cywilnego, której istotą jest cofnięcie przez powoda żądania skierowanego wobec pozwanego w pozwie. 
+
+Możliwość cofnięcia pozwu jest przejawem zasady kontradyktoryjności procesu cywilnego - skoro stronie wolno wystąpić z żądaniem, to wolno jej również wycofać się z tego żądania. Jednakże, skoro w proces zaangażowana jest również druga strona, to przejawem kontradyktoryjności jest uzależnienie skuteczności cofnięcia od jej zgody. Kolejnym skutkiem tej zasady jest to, że sąd jest (z pewnymi wyjątkami) związany cofnięciem pozwu. 
+
+Należy rozróżnić cofnięcie pozwu od cofnięcia pozwu ze zrzeczeniem się roszczenia. Samo cofnięcie pozwu wywiera tylko skutek procesowy i oznacza tylko tyle, że strona rezygnuje z dochodzenia roszczenia w danym postępowaniu. Natomiast jeżeli cofnięcie pozwu jest połączone ze zrzeczeniem się roszczenia, to wywiera również skutek na przyszłość - zrzekając się roszczenia powód pozbawia się możliwości jego skutecznego dochodzenia w ogóle (ewentualne następne powództwo o to samo roszczenie zostanie oddalone na zarzut pozwanego). Należy podkreślić, że przedmiotem zrzeczenia jest roszczenie w znaczeniu procesowym, wobec czego skuteczność tej czynności nie zależy od tego, czy dochodzone roszczenie (w znaczeniu materialnoprawnym) faktycznie istnieje. Innymi słowy, procesowe zrzeczenie się roszczenia nie wpływa na byt prawny roszczenia materialnoprawnego, a tylko powoduje możliwość skutecznego powołania się pozwanego na zarzut zrzeczenia się roszczenia. 
+
+W polskiej procedurze cywilnej postępowanie przy cofnięciu pozwu reguluje m. in. art. 203 i 332 § 2 Kodeksu postępowania cywilnego. Dopuszczalność cofnięcia pozwu jest uzależniona od trzech czynników: 
+fazy postępowania - w czasie pomiędzy wniesieniem pozwu a rozpoczęciem rozprawy pozew może być cofnięty bez żadnych ograniczeń, 
+połączenia tej czynności ze zrzeczeniem się roszczenia - w czasie od rozpoczęcia rozprawy do prawomocnego zakończenia postępowania pozew może zostać cofnięty bez ograniczeń tylko wtedy, gdy powód jednocześnie zrzeknie się roszczenia (art. 332 § 2 kpc), 
+zgody pozwanego - w czasie od rozpoczęcia rozprawy do prawomocnego zakończenia postępowania pozew może zostać cofnięty bez zrzeczenia się roszczenia, jeżeli pozwany wyrazi na to zgodę. 
+
+Jak już wspomniano wyżej, sąd jest związany cofnięciem pozwu. Od zasady tej istnieją jednak wyjątki. W myśl art. 203 § 4 kpc sąd może uznać za niedopuszczalne cofnięcie pozwu, zrzeczenie się lub ograniczenie roszczenia tylko wtedy, gdy okoliczności sprawy wskazują, że wymienione czynności są sprzeczne z prawem lub zasadami współżycia społecznego albo zmierzają do obejścia prawa. W takim przypadku sąd zawiadamia strony o uznaniu cofnięcia za niedopuszczalne, czyni o tym wzmiankę w protokole i prowadzi postępowanie dalej; zdaniem części teoretyków i praktyków sąd powinien jednak wydać postanowienie o uznaniu cofnięcia za niedopuszczalne. 
+
+O cofnięciu pozwu sąd zawiadamia pozwanego. Pozwany ma wówczas dwa tygodnie od doręczenia zawiadomienia na złożenie wniosku o przyznanie kosztów procesu. Jeżeli skuteczność cofnięcia zależy od zgody pozwanego, niezłożenie przez niego tego wniosku w tym terminie uważa się za zgodę na cofnięcie pozwu (art. 203 § 3 kpc). Jeżeli wniosek ten zostanie złożony, sąd przyzna pozwanemu od powoda zwrot kosztów procesu. 
+
+Skutkiem cofnięcia pozwu jest umorzenie postępowania (art. 355 § 1 kpc), ponieważ wydanie wyroku staje się zbędne (ze względu na brak potrzeby rozstrzygnięcia sporu). 
+
+Pozew cofnięty nie wywołuje żadnych skutków, jakie prawo wiąże z jego wniesieniem. W szczególności nie powoduje przerwy biegu przedawnienia. 
+
+Umorzenie postępowania z powodu cofnięcia pozwu uważa się z reguły za przegraną powoda, gdyż nie osiąga on pożądanego przez siebie rozstrzygnięcia. Jednakże jeżeli pozwany spełni dochodzone świadczenie w toku procesu, powód w następstwie tego cofnie pozew, a sąd wskutek tego umorzy postępowanie, to uznaje się, że powód wygrał sprawę, ponieważ osiągnął jej cel (tyle tylko, że nie wskutek wydania orzeczenia przez sąd). Kwestia ta ma znaczenie dla rozstrzygnięcia o zwrocie kosztów procesu. 
+
+Pozew może również zostać cofnięty w części (co do pewnej części dochodzonego świadczenia, wobec jednego z pozwanych itp.), co potocznie nazywa się ograniczeniem powództwa. Wówczas skutki cofnięcia pozwu ograniczają się tylko do części cofniętej. 
+
+

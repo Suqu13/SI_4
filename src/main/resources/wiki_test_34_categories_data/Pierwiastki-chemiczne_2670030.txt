@@ -1,0 +1,87 @@
+Układ glin-miedź - układ podwójny określający wzajemną rozpuszczalność pierwiastków glinu i miedzi w określonej temperaturze; w warunkach równowagi termodynamicznej. W stopach Al-Cu można wyróżnić kilka różnych przemian oraz występowanie najczęściej twardych, trudno obrabialnych faz międzymetalicznych. Z technicznego punktu widzenia poddaje się je przesycaniu, starzeniu i niektóre wykazują efekt pamięci kształtu.
+
+Układ równowagi
+
+
+
+Ogólne informacje
+
+
+
+W układzie glin-miedź można spotkać z poniższymi fazami stałymi:
+Roztwory stałe czystych pierwiastków to miedź (α) o sieci regularnej ściennie centrowanej (A1) i glin o sieci regularnej ściennie centrowanej (A1). Faza β o strukturze regularnej przestrzennie centrowanej jest stabilna przy wysokich temperaturach w zakresie 70,6 do 82%at. miedzi. Wydziela się ona w wyniku topnienia kongruentnego w temperaturze około 1049 °C (pkt. P). Dwufazowy obszar (Cu+β) występuje między temperaturą eutektyczną (pkt. Y) i przemianą eutektoidalną β⇔γ1+Cu (pkt. W) w temperaturze około 567 °C.
+Rozpuszczalność glinu w miedzi zaczyna maleć po przemianie perytektycznej (pkt. U). Faza α2 powstaje w wyniku przemiany perytektoidalnej miedzi i fazy γ1 (pkt. S). Faza charakteryzuje się upakowaną siecią regularną ściennie centrowaną. Linia solvus miedzi nie jest jednoznacznie wyznaczona. Szacuje się, że obszar dwufazowy (Cu+α2) jest stabilny dla niskich temperatur w zakresie 78-81%at. miedzi.
+Fazy międzymetaliczne występujące w układzie Al-Cu są twarde i trudno obrabialne. Należą do nich przede wszystkim fazy z zakresu 58-70%at. Cu tj. γ0, γ1 i δ. Ich struktura jest podobna do struktury γ występującej w mosiądzach. Metodami analizy termicznej dokonano odkrycia fazy γ0, jednakże nie określono jej typu sieci krystalicznej. Obszar dwufazowy (γ0+γ1), również nie może być oszacowany metodami metalograficznymi. Fazy γ1 i δ zostały zaobserwowane w równowadze w specjalnie przygotowanej parze dyfuzyjnej. Para została wyżarzona w temperaturze 500 °C. Podobny efekt uzyskano wyżarzając stop Al-Cu w temperaturze 700 °C i powolnie chłodząc. Podjęto próbę zbadania fazy γ2. Zarówno hartowanie jak i powolne chłodzenie po wyżarzeniu nie dały jednoznacznej odpowiedzi. W wyniku hartowania najprawdopodobniej udało się uzyskać metastabilną, dalece uporządkowaną nadstrukturę γ2.
+Fazami stechiometrycznymi (równoatomowymi) w układzie Al-Cu są fazy η1 i η2. Pod względem strukturalnym zbliżone są do nich fazy trochę bogatsze w miedź tj. ζ1 i ζ2.
+Faza θ krystalizuje z cieczy w wyniku przemiany perytektycznej w temperaturze około 590 °C (pkt. I). W wyniku przesycenia stopu glinu z miedzią (31,9-32,9%at. Cu) można uzyskać metastabilną fazę zwaną strefami Guiniera-Prestona (G-P). W wyniku starzenia otrzymuje się kolejno fazy θ" i θ. Ostatnim produktem jest stabilna faza θ. Strefy G-P są substratem tzw. rozpadu spinodalnego.
+Przemiana eutektoidalna β⇔Cu+γ1 (pkt. W) jest bardzo szeroka i można uzyskać metastabilną fazę β. Z tego powodu podczas hartowania metastabilny β może ulec przemianie martenzytycznej w fazę β (o niższej zawartości glinu) lub w fazę γ (o wyższej zawartości glinu). W całym układzie Al-Cu występują trzy przemiany martenzytyczne. Ostatni martenzyt β'1 można uzyskać w wyniku zahartowania stopu i powolnego chłodzenia. Stopem wyjściowym do tego może być materiał, który uległ przemianie eutektoidalnej β⇔β1+Cu lub przemianie perytektoidalnej β+γ1⇔β1.
+Przemiana masywna β⇔Cu zachodzi, gdy β-stop jest przechładzany do zakresu występowania czystej miedzi. Wraz ze wzrostem glinu w stopie zachodzenie przemiany masywnej jest zakłócane lub  zostaje przykryte przez przemianę martenzytyczną. Najwyższe stężenie %at. glinu, przy którym zaobserwowano przemianę masywną wynosi 20,8%.
+
+Strefy Guiniera-Prestona
+
+Ogólne informacje
+W 1938 Guinier i Preston stwierdzili niezależnie, że wyjątkowe rozproszenie promieni rentgenowskich w starzonych stopach jest spowodowane powstaniem skupisk atomów rozpuszczonych w przesyconym roztworze. Owe skupiska nazwano strefami Guiniera-Prestona.
+
+Rozpuszczalność domieszki glinu rośnie wraz ze wzrostem temperatury. W konkretnej, wysokiej temperaturze stop glinu z 2% Cu będzie tworzyć jednorodny roztwór stały. Podczas wolnego chłodzenia lub wytrzymania izotermicznego poniżej granicznej rozpuszczalności z osnowy wydziela się faza bogata w domieszkę; obecna na wykresie równowagi.
+Zupełnie inny przebieg ma proces, jeżeli stop zostanie odpowiednio szybko ochłodzony. Dokona się wtedy jego przesycenie względem układu równowagi. Z upływem czasu zmienia się parametr sieci, oporność elektryczna i twardość. Spowodowane jest to pojawieniem się stref G-P. Są to skupiska całkowicie koherentne z siecią osnowy. Atomy rozpuszczalnika prawie całkowicie zastąpione zostały przez atomy substancji rozpuszczonej. W wyniku występowania różnic w wielkościach atomów w miejscach skupisk pojawiają się znaczne odkształcenia sprężyste. Strefy tworzą się bardzo szybko. Z czasem lub w temperaturze większej od otoczenia powiększają stopniowo swoje wymiary. Strefy G-P charakteryzują się małymi średnicami i równomiernym rozprowadzeniem w stopie. W wyniku starzenia koagulują.
+W układzie Al-Cu maksymalna temperatura, w której strefy G-P są stabilne jest niska. Już w temperaturze powyżej 190 °C ulegają rozproszeniu. Można je odbudować w wyniku zjawiska rewersji. Po rozproszeniu wydzieleń można ponownie ochłodzić stop i wywołać odbudowę stref. Jest to możliwe tylko do momentu, aż temperatura, w której rozpuszczane skupiska jest zbyt niska, aby mogło zajść wydzielenie fazy θ". Istotą umocnienia wydzieleniowego jest doprowadzenie do utworzenia drobnych skupisk koherentnych z osnową, które będą przeszkodą dla dyslokacji. W konsekwencji stop będzie charakteryzował się większą wytrzymałością i twardością.
+
+Termodynamika procesu
+Stop o odpowiednim składzie, nagrzany do charakterystycznej temperatury staje się jednorodnym roztworem stałym o sieci A1. Szybkie chłodzenie do temperatury otoczenia pozwala zachować roztwór w niezmienionym stanie. Przesycony roztwór będzie starał się powrócić do równowagi w postaci mieszaniny (Al+θ). Dalszy rozpad przesyconego roztworu Al-Cu będzie się odbywał skokowym wydzielaniem faz przejściowych - θ" i θ. Fazy te tylko częściowo obniżają energię swobodną układu, toteż nie w każdych warunkach muszą się wydzielić. Fazy przejściowe charakteryzują się częściową koherencją z osnową. Z tego powodu bariera zarodkowania jest niższa, niż fazy równowagowej. Tetragonalna komórka elementarna fazy θ" stanowi zdeformowaną komórkę regularną ściennie centrowaną. Wydzielanie się fazy θ" ze stref G-P odbywa się in situ. Dzięki temu możliwe jest zachowanie drobnych rozmiarów i równomierne rozmieszczenie skupisk. Z fazy θ" wydziela się θ w wyniku zarodkowania niezależnego. Charakteryzuje się zbliżonym składem do Al2Cu. Przy długich czasach starzenia wydziela się równowagowa faza θ. Pojawia się ona na granicach ziaren. Jest niekoherentna względem osnowy.
+Wzrost temperatury podczas starzenia może spowodować eliminację wydzielenia się faz przejściowych.
+Proces starzenia i wydzielania się kolejnych faz jest interesujący z punktu widzenia zastosowania. Wczesne etapy procesu pozwalają uzyskać bardzo dobre własności wytrzymałościowe stopów. Taki mechanizm nazywa się umocnieniem wydzieleniowym. Empirycznie wykazano, że maksimum twardości przypada na etap współistnienia zanikających wydzieleń fazy θ" i pojawiających się zarodków θ.
+
+Brąz aluminiowy
+
+
+Brąz aluminiowy to stop odlewniczy i do przeróbki plastycznej na bazie miedzi z dodatkiem glinu w zawartości 4-11% mas. Al. Historycznie nazywano je brązalami. Cechują się:
+dobrymi własnościami wytrzymałościowymi i plastycznymi w porównaniu do innych brązów
+odpornością chemiczną i żaroodpornością
+małą skłonnością do segregacji domieszki
+dużym skurczem odlewniczym
+skłonnością do pochłaniania gazów i tworzenia wtrąceń tlenkowych (np. Al2O3) w czasie odlewania.
+Ze względu na zawartość glinu w stopie oraz zastosowanie brązy aluminiowe można podzielić na:
+brązy przerabiane plastycznie na gorąco (2÷4% Al)
+brązy odlewnicze (>4% Al).
+Brązy aluminiowe można poddać ulepszaniu cieplnemu. Polega ona na połączeniu procesu hartowania od temperatury 850-950 °C, a następnie odpuszczeniu przy temperaturze poniżej 550 °C. Uzyskuje się stop o dużo lepszych własnościach wytrzymałościowych.
+
+Martenzyt
+
+Szybkie chłodzenie z wysokotemperaturowej fazy β prowadzi do powstania faz nierównowagowych (metastabilnych). Odbywa się to poprzez dwie przemiany:
+przemianę porządek-nieporządek
+przemianę martenzytyczną.
+Produktem pierwszej jest uporządkowana faza β1. Temperatura przemiany silnie zależy od zawartości glinu w stopie. Rośnie, im więcej jest Al. Zachodzi w wąskim zakresie temperatur; od 560-500 °C.
+Druga przemiana przebiega w niższych temperaturach. Jak w przypadku wszystkich przemian martenzytycznych, wysokość temperatury Ms silnie jest skorelowana ze składem chemicznym roztworu. Ilość glinu w stopie ma także wpływ na typ struktury pojawiającego się martenzytu. Przy zawartości około 10% mas. glinu z fazy β powstaje martenzyt β, nazywany również martenzytem 9R. W zakresie 11-13% mas. glinu z fazy β1 powstaje martenzyt β'1 (martenzyt 18R). Istnieje jeszcze jeden martenzyt pojawiający się dla stopu o zawartości większej, niż 13% mas. glinu. Martenzyt γ (martenzyt 2H) tworzy się podobnie jak martenzyt β'1.
+Martenzyt układu Al-Cu charakteryzuje się dużą liczbą błędów ułożenia. Powodują one przede wszystkim rozpraszanie promieniowania rentgenowskiego.
+
+Efekt pamięci kształtu
+
+Nagasawa jako pierwszy wykazał istnienie zjawiska pamięci kształtu dla stopu o składzie zbliżonym do AlCu3. Zahartowana i odkształcona próbka przy szybkim nagrzaniu do temperatury 450 °C wróciła do swego pierwotnego kształtu. Przy wolnym nagrzewaniu nie zaobserwowano efektu. Kolejne badania ujawniły, że przemiana eutektoidalna występująca w układzie Al-Cu jest konkurencyjna do efektu pamięci kształtu i zmniejsza jego wydajność. Stopień odzysku kształtu jest funkcją prędkości nagrzewania. Cienki i gruboziarnisty materiał charakteryzuje się wyższym stopniem odzysku kształtu.
+
+Nagrzewanie martenzytu prowadzi do tworzenia się w temperaturze As fazy β1. Stwierdzono, że warunkiem odwracalnego przebiegu przemiany jest niedopuszczenie podczas nagrzewania do powstania rozpadu β1 w eutektoid (Cu+γ1). Kolejność przebiegających przemian podczas nagrzewania przedstawia się następująco:
+
+
+
+Dla bardzo dużych prędkości nagrzewania można uniknąć rozpadu eutektoidalnego i przemiana zachodzi następująco:
+
+
+
+
+
+Przypisy
+
+
+Zobacz też
+stop żelaza z węglem
+reguła faz
+eutektyka
+eutektoid
+perytektyka
+perytektoid
+
+
+
+
+
+
+

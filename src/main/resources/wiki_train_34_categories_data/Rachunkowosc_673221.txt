@@ -1,0 +1,47 @@
+Rachunek zysków i strat (ang. income statement) zwany wcześniej rachunkiem wyników − jeden z podstawowych i obligatoryjnych elementów sprawozdania finansowego jednostki. Informuje jaka jest efektywność poszczególnych rodzajów działalności oraz jaki jest ogólny wynik finansowy przedsiębiorstwa.
+	 
+Rachunek zysków i strat ukazuje zdolność firmy do generowania zysków i samofinansowania, prezentuje różne kategorie zwiększające lub zmniejszające wynik finansowy. Sprawozdanie to polega na zestawieniu strumieni przychodów uzyskanych w jednostce ze sprzedaży wyrobów i usług bądź towarów w ramach prowadzonej działalności handlowej oraz przychodów uzyskanych z przeprowadzenia operacji finansowych i kosztów tej działalności.
+W krajach należących do Unii Europejskiej o treści i układzie tego sprawozdania przesądza zasadniczo IV Dyrektywa EWG, która zawiera 4 wzory rachunku zysków i strat (kolejno art. 23 - 26 IV Dyrektywa Rady z dnia 25.07.1978 r. Biuletyn KRDBK SKWP nr 2/1990).
+
+Polskie standardy w zakresie sprawozdania z operacji wynikowych nie odbiegają od wzorców światowych. 
+
+Ogólna postać i budowa rachunku zysków i strat
+
+
+Przychody ze sprzedaży netto są przychodami ze sprzedaży wyrobów, usług oraz towarów po potrąceniu VAT. Natomiast koszty wytworzenia sprzedanych wyrobów obejmują koszty związane z ich wytworzeniem, przede wszystkim można do nich zaliczyć: zużycie materiałów i energii, wynagrodzenia (tylko pracowników związanych z produkcją), amortyzację, usługi obce (np. częściowy przerób produktów przez inną jednostkę), ubezpieczenia społeczne i inne (głównie konta zesp. 4). Po odjęciu od przychodów kosztów otrzymujemy wynik na sprzedaży brutto.
+
+Otrzymany wynik na sprzedaży brutto następnie korygowany jest o koszty, które nie są bezpośrednio związane z główną działalnością jednostki, ale są niezbędne do jej prowadzenia. Czyli:
+koszty ogólnego zarządu (administracyjne) - obejmują głównie wynagrodzenia pracowników administracji, materiałów biurowych, ale także np. koszty prenumeraty czasopism, reklamy itp.
+koszty sprzedaży - koszty związane ze sprzedażą wyrobów gotowych ponoszone przez jednostkę np. rozładunek, transport, ubezpieczenie transportu, itp.
+Otrzymuje się w ten sposób wynik na sprzedaży netto, czyli faktyczny zysk/stratę z podstawowej działalności jednostki.
+
+Jednostka może również otrzymywać przychody i ponosić koszty niezwiązane z główną działalnością. Do ich ewidencji księgowej wykorzystuje się konta: 760 Pozostałe przychody operacyjne i 761 Pozostałe koszty operacyjne. Klasycznym przykładem takich kosztów mogą być np. kary, grzywny, likwidacja środka trwałego, itp. Przykładami przychodów mogą być przedawnione zobowiązania, dotacje. Po dodaniu tych przychodów i odjęciu kosztów od wyniku ze sprzedaży netto otrzymujemy zysk/stratę na działalności operacyjnej.
+
+Oprócz powyższych przychodów i kosztów jednostka może prowadzić działalność finansową (księgowane za pośrednictwem kont 750 Przychody finansowe i 751 Koszty finansowe). Przychodami finansowymi są głównie wszelkiego typu odsetki (np. od środków na rachunkach bankowych, udzielonych pożyczek), kosztami np. dyskonto weksli obcych, odsetki za nieterminowe płatności. Po ich uwzględnieniu w rachunku zysków i strat otrzymuje się zysk/stratę na działalności gospodarczej.
+
+Następnym etapem ustalania wyniku finansowego jest uwzględnienie zdarzeń, których nie można było przewidzieć, a miały one wpływ na działalność jednostki takie jak np. pożar, kradzież. Koszty poniesione w ich wyniku ujmuje się na koncie 771 Straty nadzwyczajne, a przychody na koncie 770 Zyski nadzwyczajne (np. odszkodowanie za poniesione straty w majątku trwałym i obrotowym spowodowane wypadkami losowymi).
+
+Po dokonaniu powyższych korekt otrzymuje się zysk/stratę brutto księgowany na koncie 860 Wynik finansowy. W przypadku wystąpienia zysku pomniejsza się go o podatek dochodowy od osób prawnych (CIT) otrzymując w ten sposób zysk netto. w przypadku wystąpienia straty pozostawia się ją do rozliczenia.
+
+Rachunek wyników może być sporządzany na dwa sposoby:
+wariant porównawczy
+wariant kalkulacyjny
+
+Różnią się one pomiędzy sobą sposobem ujmowania kosztów wytworzenia wyrobów ponoszonych przez jednostkę, co jest wynikiem przyjętego sposobu ewidencji księgowej tzw. wariantów. Wyróżnić można:
+wariant I - koszty ujmowane tylko w układzie rodzajowym (zespół 4. planu kont),
+wariant II - koszty ujmowane tylko w układzie według typów działalności (zespół 5. planu kont),
+wariant III - koszty ujmowane najpierw w układzie rodzajowym (zespół 4.), a następnie przeksięgowywane (przy pomocy konta 490 Rozliczenie Kosztów Rodzajowych) na układ według typów działalności (zespół 5.).
+
+Dla wariantu I sporządza się rachunek zysków i strat w układzie porównawczym, dla II w układzie kalkulacyjnym, a w przypadku III jednostka ma dowolność wyboru. Sposób sporządzania RZIS jak również system ewidencji kosztów na kontach zespołu 4 lub 5 albo na obu jednocześnie powinien być ściśle określony w polityce rachunkowości sporządzonej przez firmę.
+
+Wzór rachunku wyników według Ustawy o rachunkowości
+(stan prawny: marzec 2013)
+Wariant kalkulacyjny
+
+
+Wariant porównawczy
+
+
+
+
+

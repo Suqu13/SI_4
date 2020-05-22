@@ -1,0 +1,37 @@
+Przymus adwokacki '''(przymus adwokacko-radcowski)''' – obowiązek zastąpienia strony przez fachowego pełnomocnika przy dokonywaniu określonej czynności procesowej albo w określonej fazie postępowania. Oznacza pozbawienie strony zdolności postulacyjnej.
+
+Przymus adwokacki funkcjonuje w różnym zakresie w różnych systemach prawnych. Zapewnia (przynajmniej teoretycznie) większy profesjonalizm w zachowaniu strony w procesie oraz podyktowane jest zasadami ekonomii procesowej (według uzasadnienia do projektu ustawy). Jego drugą stroną jest jednak częściowe utrudnienie stronie dostępu do sądu. By nie zamykać drogi sądowej osobom, których nie stać na poniesienie kosztów zastępstwa procesowego polski ustawodawca wprowadził możliwość złożenia wniosku o ustanowienie adwokata lub radcy prawnego z urzędu.
+
+W polskim wymiarze sprawiedliwości przymus adwokacki występuje jako przymus adwokacko-radcowski i jest przewidziany – ogólnie rzecz biorąc – przy wnoszeniu nadzwyczajnych środków zaskarżenia do instancji kasacyjnej (przede wszystkim do Sądu Najwyższego).
+
+W postępowaniu cywilnym przymus adwokacko-radcowski rozciąga się na całe postępowanie przed Sądem Najwyższym oraz na czynności procesowe związane z postępowaniem przed tym sądem podejmowane przed sądem niższej instancji (art. 87¹ § 1 Kodeksu postępowania cywilnego).
+
+Oznacza to, że adwokat lub radca prawny musi sporządzić skargę kasacyjną, wnieść ją do sądu i reprezentować stronę w postępowaniu kasacyjnym. Dotyczy to odpowiednio także postępowania wszczętego na skutek zażalenia na postanowienie sądu drugiej instancji rozpoznawanego przez Sąd Najwyższy oraz rozpoznawanej przez ten sąd skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia.
+
+W poniższych sprawach przymus adwokacko-radcowski jest jednak wyłączony:
+w postępowaniu o zwolnienie z kosztów sądowych oraz ustanowienie adwokata lub radcy prawnego (kryterium funkcjonalne)
+gdy stroną, jej organem, przedstawicielem ustawowym lub pełnomocnikiem jest sędzia, prokurator, notariusz albo profesor lub doktor habilitowany nauk prawnych, a także gdy stroną, jej organem lub przedstawicielem ustawowym jest adwokat, radca prawny lub radca Prokuratorii Generalnej Skarbu Państwa (kryterium podmiotowe).
+
+W postępowaniu karnym przymus adwokacko-radcowski występuje w czterech przypadkach:
+przy wnoszeniu subsydiarnego aktu oskarżenia (art. 55 § 2 Kodeksu postępowania karnego)
+przy składaniu kasacji (art. 526 § 2)
+przy składaniu apelacji od wyroku sądu okręgowego (art. 446 § 1)
+przy składaniu wniosku o wznowienie postępowania (art. 545 § 2).
+
+Przymus adwokacko-radcowski jest tu jednak ograniczony tylko do tego, że kasacja, zażalenie, apelacja lub wniosek o wznowienie postępowania winny zostać sporządzone i podpisane przez adwokata lub radcę prawnego, o ile pochodzą od strony innej niż prokurator.
+
+W postępowaniu administracyjnosądowym przymus adwokacko-radcowski występuje w trzech przypadkach:
+przy wnoszeniu skargi kasacyjnej od wyroku wojewódzkiego sądu administracyjnego do Naczelnego Sądu Administracyjnego (art. 175 § 1 Prawa o postępowaniu przed sądami administracyjnymi)
+przy wnoszeniu do Naczelnego Sądu Administracyjnego zażalenia na postanowienie wojewódzkiego sądu administracyjnego o odrzuceniu skargi kasacyjnej (art. 194 § 4)
+przy wnoszeniu do Naczelnego Sądu Administracyjnego skargi o wznowienie postępowania (art. 276).
+
+Przymus adwokacko-radcowski polega na tym, że skarga powinna zostać sporządzona przez adwokata lub radcę prawnego (w sprawach podatkowych także przez doradcę podatkowego, w sprawach z zakresu własności przemysłowej przez rzecznika patentowego).
+
+Przymus adwokacko-radcowski występuje w postępowaniu przed Trybunałem Konstytucyjnym w sprawach ze skargi konstytucyjnej. Zasada ta nie ma zastosowania, gdy sam skarżący jest notariuszem, prokuratorem, sędzią lub osobą posiadająca co najmniej stopień naukowy doktora habilitowanego w zakresie nauk prawnych.
+
+Linki zewnętrzne
+Ustawa z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego ()
+Ustawa z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego ()
+Ustawa z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (, z późn. zm.)
+
+

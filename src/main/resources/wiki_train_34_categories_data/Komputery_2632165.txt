@@ -1,0 +1,88 @@
+Samsung Galaxy S III – smartfon z serii Galaxy produkowany przez południowo koreańską firmę Samsung. Zaprezentowano go 3 maja 2012 roku, na konferencji prasowej w Earls Court w Londynie, gdzie przedstawiono hasło marketingowe: Designed for Humans and inspired by Nature (pol. Zaprojektowany dla ludzi, inspirowany Naturą). W stosunku do poprzedniego modelu producent zwiększył rozdzielczość do 1280×720 pikseli oraz wprowadził nowe funkcje m.in. S Voice, Smart alert, Smart Stay. Premierę rynkową biała wersja urządzenia miała 1 czerwca 2012. Telefon jest produkowany w 6 kolorach: czarnym (Sapphire black), białym (Marble white), brązowym (Amber brown), szarym (Titanium grey), niebieskim (Pebble blue) i czerwonym (Garnet red) – w większości krajów.
+
+Ekran
+
+
+
+Samsung wyposażył Samsunga Galaxy S III w ekran o przekątnej 4,8" typu HD SuperAMOLED. Dzięki zastosowaniu tej technologii wyświetlacz zapewnia szerokie kąty widzenia (brak lub małe przekłamania obrazu w przypadku patrzenia na niego pod kątem), teoretycznie nieskończony kontrast i kolory o dużym nasyceniu (które część użytkowników uznaje za nienaturalne). Rozdzielczość ekranu wynosi 1280×720 pikseli, co daje 306 pikseli na cal. Jednakże w ekranie zastosowano układ PenTile, co skutkuje obniżeniem efektywnej rozdzielczości i postrzępieniem krawędzi obiektów. Zaletą jego zastosowania jest zwiększenie trwałości wyświetlacza oraz mniejszy pobór energii.
+
+Procesor
+Galaxy S III posiada procesor typu quad-core (cztery rdzenie) o nazwie Exynos 4 Quad (Exynos 4412), taktowany 1.4 GHz. Wyprodukowano go w technologii 32nm (poprzednio 45 nm), co ma skutkować obniżeniem poboru prądu o 20% względem wersji Eyxnos 4 Dual (Exynos 4210) z i9100 Galaxy S II. Grafika zintegrowana z procesorem to ARM Mali-400 Quad Core na OC (podobna jak w Galaxy S II). Serwis Engadget.com twierdzi, że zastosowany w Galaxy S III układ graficzny jest nawet 65% wydajniejszy niż ten w Galaxy S II.
+
+Pamięć
+I9300 wyposażono w 1024 MB pamięci LP DDR2 Green Memory, oraz do wyboru – 16, 32 lub 64 GB przestrzeni dyskowej. Dodatkowo pamięć wewnętrzną można rozszerzyć za pomocą karty microSD/microSDHC/microSDXC o pojemności do 64 GB. Samsung oferuje również 50 GB pamięci w serwisie Dropbox na okres dwóch lat.
+
+Aparat
+Galaxy S III ma dwa aparaty. Za pomocą głównego (tylnego) można robić zdjęcia o rozdzielczości maksymalnej 8 megapikseli, nagrywać film w rozdzielczości Full HD (1920x1080) pikseli (przy 30 fps), lub zrobić zdjęcia o rozdzielczości 5 megapikseli w trakcie nagrywania wideo. Aparat posiada szereg usprawnień, np. tylne podświetlenie matrycy (ang. backside illuminated, BSI). Samsung usprawnił również oprogramowanie aparatu dając możliwość robienia zdjęć o szerokim kontraście (HDR), wykonania zdjęcia panoramicznego oraz wprowadził tryb seryjny pozwalający wykonać 20 zdjęć z prędkością 6,3 zdjęć na sekundę.
+
+Drugi aparat ma rozdzielczość 1.9 megapiksela i znajduje się z przodu urządzenia. Można nim nagrywać filmy w jakości 720p (1280x720) z prędkością 30 fps oraz robić zdjęcia.
+
+System operacyjny i funkcje
+Fabrycznie telefonem zarządza system operacyjny Android 4.0.4 Ice Cream Sandwich, wzbogacony o autorską nakładkę TouchWiz w wersji UX.
+
+Aktualizacja do wersji 4.1 Jelly Bean zapowiedziana została na 3. kwartał 2012 roku. 24 września 2012 roku Polska stała się pierwszym krajem, w którym Samsung opublikował tę aktualizację. Pod koniec 2013 roku udostępniony został android w wersji 4.3. Producent nie planuje aktualizacji do 4.4 Kit Kat tłumacząc to zbyt małą ilością pamięci w telefonie.
+
+Funkcje
+Nowo wprowadzone funkcje w wersji SGS III w stosunku do SGS II.
+
+S Voice: Użytkownik będzie mógł odblokować ekran, ustawić alarm, włączyć aparat (i zrobić zdjęcie), odebrać/odrzucić połączenie, czy zwiększyć/zmniejszyć głośność. Odbywa się to bez dotykania wyświetlacza. S Voice obsługuje osiem języków – nie ma w nich polskiego.
+
+Social tag: Umożliwia ustawienie zdjęcia na popularnych portalach społecznościowych, poprzez zidentyfikowanie twarzy osób znajdujących się na zdjęciu w galerii telefonu.
+
+Direct call: Funkcja ta umożliwia podczas pisania wiadomości tekstowej SMS połączenie telefoniczne z odbiorcą wiadomości.
+
+Smart stay: Galaxy S III poprzez przednią kamerę śledzi oczy użytkownika, gdy ten korzysta z telefonu. Zapobiega to ściemnianiu ekranu podczas czytania e-booka czy przeglądania strony internetowej.
+
+Smart alert: Telefon powiadamia o nieodebranych wiadomościach i połączeniach.
+
+Universal Search: Wyszukiwarka systemowa wyszukuje nie tylko zasoby Google’a, ale również sprawdza dane w naszym telefonie, czy nie pasują do zadanego zapytania (na niektórych rynkach usunięta aktualizacją oprogramowania z powodu łamania patentów).
+
+Działanie w Polsce
+.
+
+Obudowa
+Samsung wykonał obudowę Galaxy S III z poliwęglanu obrabianego następnie technologią nazywaną przez Samsung Hyperglaze, nadającą obudowie błysku. Przód pokryty jest hartowanym szkłem Corning Gorilla Glass 2. Kształt i9300 z wyglądu przypomina swego poprzednika i9000 Galaxy S, jest jednak znacznie cieńszy.
+
+Wydajność
+Serwis GSM Arena przeprowadził testy wydajności Galaxy S III. W Benchmark Pi osiągnął on trzecią lokatę z wynikiem 344 pkt. W Linpack drugą z 177,1 pkt. W Quadrant pierwszą z 5365. W NenaMark 2 drugą z notą 58,8. W GLBenchmark Egypt (offscreen 720p) drugą z 103 fps. W SunSpider pierwszą z 1406. Z kolei w teście BrowserMark zdeklasował rywali, uzyskując wynik 169 811 punktów.
+
+Odbiór
+
+Recenzja autorstwa serwisu Chip.pl wskazuje słabe punkty telefonu jak: obudowę z tworzywa sztucznego, niezmienioną w stosunku do poprzedniej wersji nakładkę TouchWiz, niedopracowane funkcje takie jak sterowanie głosowe S Voice oraz obraz w obrazie.
+
+Z kolei Spidersweb.pl pl krytykuje telefon za niską żywotność baterii, lagi, samoistne restarty i wieszanie się, problemy z zasięgiem, wybudzenie po naładowaniu baterii przy włączonym trybie blokowania.
+
+Użytkownicy narzekają również na zakończenie wsparcia technicznego i brak aktualizacji systemu do wersji 4.4 Kit Kat.
+
+Wady fabryczne
+Niektóre telefony mają wadliwe płyty główne przez co telefon potrafi nagle się wyłączyć i nie włączyć z powrotem. Najwięcej zgłoszeń dotyczy sytuacji, w której wyłączony telefon ładowany był przez noc i następnego dnia rano po prostu nie chciał się uruchomić. Samsung wymienia wadliwe płyty główne na nowe z rewizji 1.400 i 1.500
+
+Czas pracy na baterii
+Telefon pozwala na 10 godzin rozmów lub oglądania filmów albo 5 godzin przeglądania internetu.
+
+Nagrody
+Telefon został również doceniony na europejskim rynku, zyskując tytuł najlepszego telefonu (2012/2013) przez stowarzyszenie EISA.
+
+Zobacz też
+Galaxy – seria smartfonów Samsung, do której należy i9300
+Galaxy S (i9000) – pierwszy model Galaxy S
+Galaxy S II (i9100) – poprzednik modelu i9300
+Galaxy S4 (i9500) – następca modelu i9300
+Galaxy S5
+
+
+
+Bibliografia
+– chip.pl
+– android.pl
+– gsmarena.com
+– chip.pl (testy)
+– telepolis.pl (testy)
+– pclab.pl
+– komorkomania.pl
+
+
+
+
+
+

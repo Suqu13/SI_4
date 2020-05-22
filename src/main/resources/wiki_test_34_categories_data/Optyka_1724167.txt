@@ -1,0 +1,48 @@
+Twierdzenie Herona, zagadnienie Herona – twierdzenie Herona z Aleksandrii dotyczące drogi promienia światła. Jedno z najstarszych zagadnień na ekstremum.
+
+Treść twierdzenia
+
+Niech ustalone punkty  leżą po tej samej stronie prostej . Weźmy dowolny punkt .
+
+Oznaczmy przez  miarę kąta pomiędzy odcinkiem  i prostą , przez  miarę kąta pomiędzy odcinkiem  i .
+
+Wówczas zachodzi następująca równoważność:
+
+Łamana  ma najmniejszą długość  .
+
+Obrazowo treść tego twierdzenie można tak wyrazić:
+Łamana  jest najkrótsza wtedy i tylko wtedy, gdy kąt padania jest równy kątowi odbicia.
+
+
+
+Dowód
+Skonstruujmy punkt  symetryczny do  względem prostej  i oznaczmy przez  miarę kąta pomiędzy odcinkiem  i .
+
+Oczywiście zachodzi  oraz .
+
+Dostajemy ciąg równoważnych zdań:
+
+Łamana  ma najmniejszą długość 
+Łamana  ma najmniejszą długość 
+punkty  są współliniowe     .
+
+Druga z powyższych równoważności opiera się na nierówności trójkąta, trzecia na własności kątów wierzchołkowych.
+
+Przykłady zastosowania
+W fizyce
+Twierdzenie znalazło zastosowanie w optyce. Stosuje się je przy konstrukcji obrazu w zwierciadle płaskim.
+
+W matematyce
+W matematyce używane często przy rozwiązywaniu zadań o trójkątach oraz dotyczących drogi o najmniejszej długości (czyli minimum). Przykładowe zadania:
+
+Tomek chce dojść jak najkrótszą trasą z miejscowości P do Q, po drodze zaczerpując wody z rzeki l. Skonstruować tę trasę.
+
+Dany jest trójkąt o danym polu S i boku c = PQ. Spośród wszystkich takich trójkątów znaleźć ten, w którym suma pozostałych boków a + b jest najmniejsza.
+Z warunku pierwszego (ustalone pole) wynika, że szukany trzeci wierzchołek znajduje się na prostej l równoległej do odcinka c, ponieważ odległość tego wierzchołka od prostej stanowiącej przedłużenie danego boku trójkąta musi być stała i wynosić h = 2S/c (wynika to ze wzoru na pole trójkąta S = 1/2 hc). Punkty P i Q są zatem jednakowo oddalone od prostej l. W tym szczególnym przypadku zgodnie z twierdzeniem Herona szukany trzeci wierzchołek trójkąta będzie równoodległy od punktów P i Q, a otrzymany trójkąt – równoramienny.
+
+Zobacz też
+Zwierciadło optyczne
+Zwierciadło płaskie
+Geometria
+
+Bibliografia

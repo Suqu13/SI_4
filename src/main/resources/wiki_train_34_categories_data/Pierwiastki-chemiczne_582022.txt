@@ -1,0 +1,37 @@
+Wzbogacony uran – uran, który zawiera znacznie większą ilość izotopu 235U niż uran występujący naturalnie, uzyskuje się go w procesie rozdzielania izotopów zwanego też wzbogacaniem uranu. Naturalny uran zawiera głównie izotop 238U, a 235U stanowi około 0,72% jego masy. Uran 235 jest jedynym izotopem występującym w naturze ulegającym rozszczepieniu pod wpływem neutronów termicznych.
+
+Wzbogacony uran jest kluczowym elementem reaktora jądrowego i broni jądrowej.
+
+Międzynarodowa Agencja Energii Atomowej kontroluje obrót wzbogaconym uranem oraz technologiami niezbędnymi do jego uzyskania w celach zapewnienia bezpieczeństwa jego produkcji, użytkowania, przetwarzania oraz rozpowszechniania.
+
+Izotop 238U odrzucany w czasie procesu wzbogacania jest znany jako uran zubożony, zachowujący wysoką gęstość. Używany w zastosowaniach wymagających materiałów wysokiej gęstości np. do produkcji podkalibrowych pocisków przeciwpancernych.
+
+Szacuje się, że na Ziemi istnieje (1997 r.) około 2000 ton wysoko wzbogaconego uranu, wyprodukowanego głównie do broni jądrowej, reaktorów jądrowych okrętów i w mniejszych ilościach do reaktorów badawczych.
+
+Rodzaje wzbogaconego uranu
+Uran wysoko wzbogacony
+
+Uran wysoko wzbogacony (HEU)''' ma większą niż 20% koncentrację izotopów 235U i 233U.
+Materiał rozszczepialny w broni jądrowej zwykle zawiera 85% lub więcej 235U i jest określany jako bojowy, w odróżnieniu od uranu o koncentracji 20% nazywanego użyteczny do zastosowania militarnego, nieefektywnego z punktu widzenia zastosowań militarnych ale umożliwiającego skonstruowanie bomby jądrowej. Pomimo znacznie większej masy krytycznej, istnieje teoretyczna możliwość wywołania eksplozji jądrowej z użyciem uranu o koncentracji mniejszej niż 20% uranu-235. Wraz ze zmniejszeniem stopnia wzbogacenia rośnie masa krytyczna uranu, w układzie bez moderacji neutronów dążąc do nieskończoności dla 6%. W eksperymentach nad wzbogacaniem uzyskano uran wzbogacony do ponad 97%. 
+
+Uran wysokowzbogacony jest także stosowany jako paliwo w reaktorach szybkich neutronów a także jako paliwo do reaktorów okrętów podwodnych (50%-90% 235U). Pierwszy prototypowy reaktor szybkich neutronów do zastosowań komercyjnych "Fermi-1" wymaga paliwa wzbogaconego do 26,5% 235U.
+
+Uran niskowzbogacony
+Uran niskowzbogacony (LEU) ma koncentrację izotopu 235U poniżej 20%, stosowany jest w najbardziej rozpowszechnionych reaktorach wodnych, stosowane w nich wzbogacenie paliwa waha się w granicach między 3 a 5% 235U. W reaktorach badawczych stosuje się uran o koncentracji 12% – 19.75%.
+
+
+Uran nieznacznie wzbogacony
+Uran nieznacznie wzbogacony (SEU) ma koncentrację izotopu 235U w zakresie 0,9% – 2%.
+Jest to nowy rodzaj, wprowadzony w miejsce uranu naturalnego używanego w niektórych reaktorach ciężkowodnych np. CANDU. Niewielkie wzbogacenie ułatwia sterowanie reaktorem, poprawiając bezpieczeństwo i zwiększając elastyczność operacyjną. Koszty uzyskania takiego paliwa są niższe z powodu konieczności małego wzbogacenia uranu. Pozwala to obniżyć ogólny koszt paliwa oraz zagospodarowania niewielkich ilości powstających odpadów.
+
+Uran odzyskany
+Uran odzyskany – rodzaj nieznacznie wzbogaconego uranu uzyskanego w wyniku przetwarzania wypalonego paliwa stosowanego w reaktorach wodnych. Zużyte paliwo zawiera więcej 235U niż uran naturalny i może być tym samym używany w reaktorach wymagających uranu naturalnego.
+
+Zobacz też
+wirówka wzbogacająca
+
+
+
+
+
+

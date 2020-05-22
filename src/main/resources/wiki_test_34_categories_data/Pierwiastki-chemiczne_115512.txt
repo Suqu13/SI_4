@@ -1,0 +1,8 @@
+[[Plik:Continuous steel-casting machine.svg|thumb|200px|Linia do ciągłego odlewania stali (pionowa)
+1 - kadź główna 2 - kadź pośrednia 3 - krystalizator 4 - chłodzenie wtórne (bezpośrednie) 5 - rolki ciągnące 6 - cięcie i transport
+a - warstwa żużla b - zatyczka c - rura osłonowa d - dyfuzor e - naskórek wlewka f - jeziorko ciekłego metalu g - woda w krystalizatorze (membranowa) h - zakrzepły wlewek i - bezpośredni natrysk wodą j - palnik gazowy k - przycięty wlewek m - urządzenie do układania wlewków na rolkach transportowych n - rolki transportowe]]
+Odlewanie ciągłe – metoda metalurgiczna pozwalająca na prowadzenie procesu odlewania metali w sposób ciągły. Uzyskiwane półprodukty stanowią różne formy odlewów i wlewków. Linia ciągłego odlewania stali (COS) jest jednym ze składowych elementów zautomatyzowanej technologii hutniczej stosowanej (obok tradycyjnej) do produkcji hutniczych wyrobów płaskich, zapoczątkowanej przez najbogatsze kraje w latach 60. XX wieku. 
+
+W procesie produkcji płynny metal, najczęściej stal o temperaturze około 1550&nbsp;°C, wlewany jest pod kontrolą z kadzi do przelotowej wlewnicy - krystalizatora, gdzie krzepnąc uzyskuje kształt tej formy i jest sukcesywnie z niej wysuwany. Opuszczający maszynę odlew stalowy ma temperaturę około 1000&nbsp;°C i jest długim blokiem, który po pocięciu przekazywany jest do dalszej obróbki w walcowni.
+
+Bibliografia

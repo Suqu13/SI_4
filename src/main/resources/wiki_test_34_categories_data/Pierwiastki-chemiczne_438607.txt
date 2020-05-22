@@ -1,0 +1,12 @@
+Wiązanie metaliczne – ogólna nazwa dla wszelkich wiązań chemicznych występujących bezpośrednio między atomami metali. 
+
+Wiązania między atomami metalu, jeśli występują w izolowanej formie (np. w związkach metaloorganicznych) są w zasadzie typowymi wiązaniami kowalencyjnymi, wyróżniają się jednak w stosunku do analogicznych wiązań między niemetalami dwiema istotnymi cechami:
+ulegają one łatwiejszej polaryzacji pod wpływem np. pola elektrycznego ze względu na to, że ogólnie w metalach elektrony walencyjne są słabiej związane z jądrami atomów niż w niemetalach
+nawet jeśli formalnie są wiązaniami pojedynczymi, ze względu na występowanie w metalach dużej liczby walencyjnych orbitali d zachodzi zjawisko ich nakładania się, co powoduje że wiązania te nabierają często charakteru częściowo wielokrotnego.
+
+Cechy te powodują, że w kryształach metali powstają pasma zdelokalizowanych elektronów, które mogą swobodnie się przemieszczać pod wpływem przyłożonego napięcia elektrycznego, dzięki czemu metale są dobrymi przewodnikami elektrycznymi. Skutkiem tej delokalizacji jest też istnienie w metalach trójwymiarowej sieci silnych wiązań, co warunkuje dużą wytrzymałość mechaniczną metali, wysokie temperatury topnienia, kowalność, duży współczynnik rozszerzalności cieplnej i inne cechy charakterystyczne dla metali.
+
+
+
+
+

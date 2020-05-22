@@ -1,0 +1,16 @@
+
+
+AN/FSQ-7''' (Army-Navy Fixed Special eQuipment) – seria komputerów produkowanych w latach 50. XX wieku przez IBM dla Sił Powietrznych Stanów Zjednoczonych. Zostały zbudowane 52 egzemplarze, zainstalowane w 26 stanowiskach dowodzenia jako elementy systemu SAGE.
+
+Każdy komputer AN/FSQ-7''' zawierał 55000 lamp elektronowych, zajmował 2000 m² powierzchni, ważył 275 ton i zużywał do 3 megawatów mocy. Mógł wykonywać około 75000 instrukcji na sekundę.
+
+Historia
+
+Po II wojnie światowej USA rozpoczęły pracę nad zastosowaniem komputerów w systemach obrony przeciwlotniczej. Prototypowy system zbudowano w oparciu o maszynę Whirlwind I skonstruowaną w Massachusetts Institute of Technology. Zbierała ona informacje z kilkunastu stacji radiolokacyjnych na przylądku Cape Cod. Nie była ona jednak wystarczająco szybka i niezawodna, żeby można byłą ją zastosować dla większej liczby radarów. Rozpoczęto prace nad większym systemem Whirlwind II. Wkrótce okazało się, że koszty jego produkcji przekraczają możliwości MIT i projekt przekazano koncernowi IBM.
+
+Ostateczny produkt AN/FSQ-7''' zawierał wiele nowatorskich rozwiązań, takich jak bardziej niezawodna pamięć ferrytowa, pióra świetlne i cyfrowe wyświetlacze CRT. Koszt produkcji całego systemu wyniósł 8-12 miliardów dolarów i w szczytowym okresie było przy nim zatrudnionych 20% programistów na świecie.
+
+
+
+Linki zewnętrzne
+– Oryginalny podręcznik użytkownika AN/FSQ-7

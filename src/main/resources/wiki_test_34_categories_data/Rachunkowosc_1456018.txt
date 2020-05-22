@@ -1,0 +1,5 @@
+Raport kasowy (RK)''' – dokument księgowy stosowany w obrocie gotówkowym. Jest to dokument zbiorczy operacji kasowych w ciągu określonego okresu, potwierdzonych dokumentami:
+KP (kasa przyjmie) – pokwitowanie odbioru gotówki przez kasę firmy,
+KW (kasa wyda) – pokwitowanie wypłaty gotówki z kasy firmy.
+
+

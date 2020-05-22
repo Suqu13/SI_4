@@ -1,0 +1,71 @@
+
+
+
+Widmo oscylacyjno-rotacyjne – rodzaj widma oscylacyjnego o dużej rozdzielczości, gdy ujawnia się struktura rotacyjna widma oscylacyjnego. Każda linia w widmie oscylacyjnym w rzeczywistości składa się z dużej liczby linii składowych położonych bardzo blisko siebie, które przy dużej rozdzielczości spektrofotometru można rozseparować na linie składowe.
+ 
+Przejście oscylacyjne rozpatrywane w ujęciu klasycznym powoduje oscylację cząsteczki – gwałtowne zwiększenie bądź zmniejszenie długości wiązania. Zmiana długości wiązania spowoduje zmianę prędkości obrotu cząsteczki, stąd w widmie oscylacyjnym struktura rotacyjna.
+
+Kwantowanie energii cząstek
+Poziomy oscylacyjno-rotacyjne można rozważać jako sumę poziomu oscylacyjnego i rotacyjnego (dla przybliżenia rotatora sztywnego i oscylatora harmonicznego):
+
+Podczas przejścia oscylacyjno-rotacyjnego zmiana rotacyjnej liczby kwantowej ΔJ&nbsp;=&nbsp;±1, dla pewnych szczególnych przypadków ΔJ&nbsp;=&nbsp;0 (gdy cząsteczka ma moment pędu wokół swojej osi – np. cząsteczka NO). W efekcie przy przejściu oscylacyjno-rotacyjnym każdej zmianie (ν&nbsp;+&nbsp;1)&nbsp;←&nbsp;ν towarzyszy zmiana ΔJ&nbsp;=&nbsp;±1 i dla szczególnych przypadków ΔJ&nbsp;=&nbsp;0, przy czym zmiana rotacyjnej liczby kwantowej następuje pomiędzy dwoma różnymi stanami oscylacyjnymi.
+
+Budowa widma
+W widmie oscylacyjno-rotacyjnym można wyróżnić trzy gałęzie, zwyczajowo nazywane P, R oraz Q. Poszczególne gałęzie dzielą się ze względu na rodzaj przejść rotacyjnych: 
+na gałąź P składają się wszystkie przejścia, dla których ΔJ&nbsp;=&nbsp;−1
+dla gałęzi R ΔJ&nbsp;=&nbsp;+1 
+dla Q ΔJ&nbsp;=&nbsp;0 (gałąź Q nie występuje, jeśli przejścia ΔJ&nbsp;=&nbsp;0 są niedozwolone)
+
+Stała rotacyjna
+Dla różnych stanów oscylacyjnych stałe rotacyjne są różne. Dla wyższego stanu oscylacyjnego stała rotacyjna jest mniejsza. Konsekwencją różnic w wielkości stałych rotacyjnych między kolejnymi poziomami oscylacyjnymi jest wygląd gałęzi Q (o ile taka w widmie występuje). Przy zaniedbaniu różnic między stałymi rotacyjnymi, na gałąź Q powinno składać się jedno pasmo, w rzeczywistości gałąź Q składa się z serii blisko położonych linii.
+
+Kolejną konsekwencją jest nierówna odległość między liniami w pasmach R i P. Linie pasma R zbliżają się do siebie ze wzrostem J, natomiast linie gałęzi P oddalają się od siebie. 
+
+Przyjmując poprawkę na różnicę stałych rotacyjnych mamy zmianę liczb falowych między pasmami w danych gałęziach:
+
+Pasmo P 
+Pasmo Q
+
+Pasmo R
+
+Na podstawie tych zmian można wyliczyć obie stałe rotacyjne. W tym celu stosuje się kombinację równań przejść do pewnego określonego stanu (stan końcowy jest wspólny dla obu wyrażeń):
+
+Intensywność pasm
+Intensywność pasm w widmie oscylacyjno-rotacyjnym jest zróżnicowana głównie ze względu na różne obsadzenia poziomów energetycznych. Z powodu degeneracji poziomów, w temperaturze pokojowej nie jest z reguły najbardziej obsadzony poziom podstawowy, a któryś z kolejnych, przez co intensywności pasm w obu gałęziach widma oscylacyjno-rotacyjnego wykazują charakterystyczne maksimum. Ponadto, na intensywność poszczególnych pasm wpływa statystyka jądrowa.
+
+Statystyka jądrowa
+
+Ze względu na symetrię całkowitej funkcji elektronowej, obsadzenie parzystych i nieparzystych poziomów rotacyjnych jest różne dla cząsteczek wykazujących symetrię ze względu na permutację jąder. W wyniku tego w widmie rotacyjnym (lub oscylacyjno-rotacyjnym) obserwuje się nieobecność niektórych linii spektralnych lub naprzemienną zmianę intensywności.
+Przykładami cząsteczek dla których to zjawisko jest widoczne są np. CO czy homojądrowe cząsteczki dwuatomowe takie jak H, N i O.
+
+Ze związku spinów ze statystykami kwantowymi (wyprowadzonych np. z postulatu mechaniki kwantowej o nierozróżnialności cząstek) wynika, że dla jąder mających całkowity spin (bozonów), całkowita funkcja falowa układu jest symetryczna ze względu na przestawienie dwóch dowolnych cząstek, natomiast dla jąder mających spin połówkowy (fermionów) jest antysymetryczna. Całkowitą funkcję falową danej molekuły przedstawia się w przybliżeniu jako iloczyn czterech rozseparowanych funkcji falowych:
+
+gdzie kolejne człony to odpowiednio funkcja elektronowa, oscylacyjna, rotacyjna i funkcja falowa spinu jądra atomowego. Dla przejść rotacyjnych symetria funkcji elektronowej i oscylacyjnej jest ściśle określona, podobnie jak dla . Narzuca to więzy na symetrię iloczynu funkcji rotacyjnej i spinowej:
+
+- dla cząsteczek ze spinem połówkowym np.H
+Cząsteczki orto ( z sym. funkcją spinowa jąder) muszą mieć funkcję J nieparzystą
+Cząsteczki para ( z asym. funkcją spinowa jąder) muszą mieć funkcję J parzystą
+
+
+- dla cząsteczek ze spinem całkowitym (np.N) jest odwrotnie:
+Cząsteczki orto ( z sym. funkcją spinowa jąder) muszą mieć funkcję J parzystą
+Cząsteczki para ( z asym. funkcją spinowa jąder) muszą mieć funkcję J nieparzystą
+
+
+Zróżnicowanie intensywności przejść związana jest z liczbą sposobów uzyskania stanu o nieparzystym J w stosunku do liczby sposobów uzyskania J parzystego:
+
+Przykłady:'''
+
+W rotacyjnym widmie ramanowskim cząsteczki dwutlenku węgla obserwujemy tylko co drugie przejście, gdyż dozwolone są tylko stany o parzystej wartości kwantowej liczby rotacji J. Stąd widoczne są przejścia 0→2, 2→4 i itd., a niewidoczne 1→3, 3→5 i itd. Odległości między liniami wynoszą nie 2B a 4B.
+
+Dla cząsteczki H I=1/2, a stosunek intensywności wynosi 3:1.
+
+Dla cząsteczki N I=1, a stosunek intensywności wynosi 1:2
+
+Dla cząsteczko O I=0, brak linii z parzystymi wartościami J.
+
+Bibliografia
+J. Sadlej: Spektroskopia Molekulana; WNT Warszawa 2002; podr. 3.4.3; 4.1.4; 4.2.4
+P. W. Atkins: Chemia Fizyczna; PWN Warszawa 2007; podr. 16.8; 16.12
+
+

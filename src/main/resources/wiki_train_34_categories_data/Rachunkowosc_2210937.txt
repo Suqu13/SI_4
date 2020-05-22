@@ -1,0 +1,23 @@
+Koszty produkcji - ogół wydatków pieniężnych jakie firma ponosi w związku z prowadzeniem działalności związanej z finansowaniem przedsiębiorstwa i finansowaniem wielkości produkcji.
+Klasyfikacja kosztów
+Koszty ex post i ex ante nazywa się rzeczywistymi kosztami ekonomicznymi.
+
+Koszty księgowe - koszty odzwierciedlone w ewidencji księgowej, dlatego też noszą miano kosztów historycznych, obejmujące zarówno rzeczywiste wydatki pieniężne jak i niepieniężne – amortyzację
+Koszty ukryte – koszty faktycznie nie ponoszone przez przedsiębiorstwo, które mogłoby one ponosić, gdyby wykorzystano je w innym możliwym zastosowaniu (koszt alternatywny)
+
+Rodzaje kosztów
+stałe - niezależne od wielkości produkcji
+płace pracowników administracji i obsługi
+amortyzacja
+koszty użytkowania ziemi, wynajmu lokali
+koszty obsługi pożyczonego kapitału
+kary z tytułu przeterminowanych zobowiązań
+
+zmienne - zależne od wielkości produkcji
+płace pracowników produkcyjnych
+koszty surowców, materiałów, półproduktów
+koszty energii, wody
+Bibliografia
+Mikroekonomia, David Begg, Stanley Fischer, Rudiger Dornbusch, Rudiger Dornbusch PWE Warszawa 2007
+
+

@@ -1,0 +1,43 @@
+Lem − drugi sztuczny satelita w całości zbudowany (ściślej: zintegrowany) w Polsce (pierwszym był studencki satelita PW-Sat), oraz pierwszy polski satelita naukowy. Stanowi część międzynarodowej konstelacji satelitów astronomicznych BRITE. Nazwa „Lem” pochodzi od nazwiska pisarza Stanisława Lema. We wrześniu 2012 roku nieoficjalnie zapowiadano wystrzelenie satelity w roku 2013 z kosmodromu Dombarowskij na rakiecie Dniepr, wraz z rekordową liczbą satelitów (łącznie 33), w tym największych Dubai-Sat 2 i STSAT-3. W 2012 roku pojawiła się też oficjalna informacja, według której planowany termin wyniesienia satelity na orbitę to II kwartał 2013. Start nastąpił zgodnie z planem 21 listopada 2013 roku.
+
+Misja
+Satelita zaprojektowany w ramach programu BRITE (BRIght-star Target Explorer), będącego kooperacją kanadyjsko-austriacko-polską, obserwuje jaśniejsze i gorętsze od Słońca gwiazdy. Polscy naukowcy mają nadzieję między innymi na lepsze poznanie procesów konwekcyjnych, zachodzących we wnętrzu masywnych gwiazd. Obserwacje prowadzone z użyciem satelitów BRITE cechują się dokładnością przeszło 10 razy większą niż teleskopy umieszczone na Ziemi.
+
+Satelity typu BRITE należą do tzw. nanosatelitów o wadze nieprzekraczającej 10 kg. Większość podzespołów „Lema” została wyprodukowana w należącym do University of Toronto Space Flight Laboratory. Drugi polski satelita, „Heweliusz”, w dużej mierze dzieło polskich inżynierów, którzy zaprojektowali i wykonali teleskop, układy zasilania, komunikacji, mechaniczny wysięgnik, system wyzwalający mechanizmy oraz dozymetr promieniowania – wystartował na pokładzie chińskiej rakiety nośnej Chang Zheng 4B z kosmodromu Taiyuan 19 sierpnia 2014 położonego na terenie Chin. Data startu została przełożona z końca 2013 roku na 2014 w związku z awarią rakiety tego typu podczas poprzedniego startu i koniecznością inspekcji.
+
+Autorem pomysłu, planu naukowego i planów konkretnej realizacji satelitów serii BRITE był profesor Sławomir Ruciński, polski astronom wykładający na University of Toronto. Projekt BRITE-PL został sfinansowany przez Ministerstwo Nauki i Szkolnictwa Wyższego. Nazwę „Lem”, włączoną do konkursu na nazwę dla satelity wskutek akcji internautów, zasugerował Michał Radomił Wiśniewski. Nadanie imienia satelicie miało miejsce w  Centrum Badań Kosmicznych PAN 19 września 2011 – imię nadała Barbara Kudrycka. W czasie uroczystości raper Sokół wykonał piosenkę „Prosto w kosmos”.
+
+Przebieg misji
+21 listopada 2013, o 8:10 czasu polskiego satelita wystartował na pokładzie rakiety Dniepr z bazy wojskowej Jasny położonej na południu Uralu.
+15 minut i 50 sekund lotu po starcie – satelita oddzielił się od górnego stopnia rakiety nośnej. Oddzielenie nastąpiło nad Oceanem Indyjskim na wysokości ok 650 km.
+1 godzina 38 minut po starcie – nawiązano pierwszy kontakt z satelitą. Łączność trwała 12 minut; w tym czasie wysłano komendy inicjujące oraz odebrano pierwszą telemetrię.
+25 listopada – ukończenie testów komputera HKC; rozpoczęto uruchamianie komputera ADCC służącego do kontroli przestrzennej.
+28 listopada – ukończono wgrywanie oprogramowania do komputera ADCC; pobranie pełnej telemetrii.
+
+Parametry
+Parametry satelity:
+Rozmiar: 20 × 20 × 20 cm
+Masa: 6,0 kg
+Precyzja wyznaczenia orientacji: 10 sekund kątowych
+Precyzja utrzymania orientacji: lepsza niż 1°
+Stabilność orientacji: 1 minuta kątowa RMS
+Moc: 5,4 W do 10 W
+Napięcie zasilające: 4,0 V (nominalne)
+Pojemność akumulatorów: 5,3 Ah
+Transmisja danych na Ziemię: pasmo S (do 256 Kbps)
+Kanał telemetryczny: zakres UHF
+Pojemność pamięci pokładowej: do 256 MB
+Średnica teleskopu: 3 cm
+Pole widzenia teleskopu: 24°
+Filtr: niebieski
+
+Upamiętnienie
+Poczta Polska wprowadziła do obiegu w dniu 4 listopada 2011 roku znaczek oraz kopertę FDC upamiętniające pierwszego polskiego satelitę naukowego BRITE-PL. Znaczek (nr katalogowy 4389 „Pierwszy polski satelita naukowy”) o nominale 4,15 zł zaprojektowany przez grafika Jacka Brodawskiego i umieszczony w bloku, został wydany w nakładzie 300 tysięcy. Przedstawia satelitę krążącego po orbicie okołoziemskiej.
+
+Zobacz też
+PW-Sat
+Heweliusz
+
+
+
+Linki zewnętrzne

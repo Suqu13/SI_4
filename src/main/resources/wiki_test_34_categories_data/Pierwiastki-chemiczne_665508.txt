@@ -1,0 +1,11 @@
+
+Kantal (kanthal) – to stop żelaza i chromu z niewielkim dodatkiem glinu i kobaltu. Charakteryzuje się dużym oporem właściwym i ma zastosowanie w produkcji drutów oporowych oraz elementów grzejnych.
+
+Przykłady: Kanthal A1 (72% Fe, 20% Cr, 5% Al, 3% Co), ma oporność 1.45 Ω mm²/m, temperaturę topnienia 1500 °C, pracy do 1300 °C; Kanthal D (69% Fe, 22% Cr, 5.8% Al, 3% Zn, Si) – oporność 1.35 Ω mm²/m i temperaturę pracy do 1150 °C. Pod względem temperatury pracy i oporności kanthale przewyższają chromonikieliny, które mogą być stosowane, zależnie od składu, do temperatury 850-1130 °C.
+
+Oporność stopów kanthal niewiele zwiększa się z temperaturą, ale nieliniowo (w odróżnieniu od konstantanu, który ma zależność liniową) i bardziej, niż manganinu, więc stopy kanthal stosuje się na oporniki grzejne pracujące w  wysokiej temperaturze, a nie na precyzyjne.
+
+
+
+
+

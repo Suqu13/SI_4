@@ -1,0 +1,21 @@
+Apple I - jeden z pierwszych komputerów osobistych w "klasycznej" konfiguracji, tzn. z klawiaturą umieszczoną w tej samej obudowie, co procesor, i podłączonej do monitora.
+
+Historia
+Zaprojektowany został przez Steve'a Wozniaka, jednego z założycieli firmy Apple i wszedł do sprzedaży w kwietniu 1976 za 666,66 USD. Początkowo wyprodukowano 200 sztuk. 
+
+W odróżnieniu od innych ówczesnych komputerów przeznaczonych dla hobbystów, które były sprzedawane w formie "zrób to sam", Apple I był sprzedawany już w pełni złożony – na jego PCB zamontowanych było ponad 60 różnego typu układów scalonych. Aby jednak uzyskać w pełni funkcjonalny komputer, jego użytkownicy musieli jeszcze dodać obudowę, zasilacz, klawiaturę i monitor. Apple I był pierwszym powszechnie dostępnym komputerem korzystającym z klawiatury i monitora.
+
+W roku 2005 szacowano, że istnieje jeszcze pomiędzy 30 a 50 egzemplarzy Apple I, są one więc dość wartościowymi przedmiotami kolekcjonerskimi. W 1999 działający model tego komputera został sprzedany na aukcji za 50 000 USD, niemniej bardziej typowa cena, która można uzyskać za ten komputer to pomiędzy 14 000 USD a 16 000 USD. 24 listopada 2012 roku na licytacji AUCTION TEAM BREKER w Kolonii (Niemcy) "Apple 1" z 1976 roku został sprzedany za rekordowe 640 000 USD. W 2013 roku kolejny rekord - Apple I sprzedano za ponad 671 tys. dolarów (prawie 2,2 mln złotych) kupcowi z Dalekiego Wschodu. Podobno pierwotnym właścicielem tego konkretnego Apple'a I był 84-letni pan Hatfield, a sprzedał go w 2013 za 40 tys. dolarów młodemu mężczyźnie z Teksasu, który miał sprawić, że komputer zadziała, i zadbać o podpis Steve'a Wozniaka.
+
+Dane techniczne
+Procesor: MOS Technology 6502 taktowany zegarem ok. 1 MHz
+Pamięć 4 KB RAM z możliwością rozszerzenia do 8 KB bezpośrednio na "płycie głównej" lub przy wykorzystaniu produktów innych firm aż do 48 KB
+Grafika: 1 KB VRAM umożliwiający tryb tekstowy 40 kolumn na 24 wiersze
+
+
+
+
+
+
+
+

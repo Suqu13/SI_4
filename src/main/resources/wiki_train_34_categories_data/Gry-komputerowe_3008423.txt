@@ -1,0 +1,45 @@
+Zeno Clash – gra komputerowa z gatunku bijatyk z elementami first-person shootera przedstawiona z perspektywy pierwszej osoby. Debiutancka produkcja chilijskiego studia ACE Team używająca silnika Source firmy Valve Corporation. Jej premiera nastąpiła 21 kwietnia 2009 na platformie dystrybucji cyfrowej Steam w wersji dla systemu Windows. Edycję gry na konsolę Xbox 360, zawierającej dodatkowe elementy względem wersji PC, wydano 5 maja 2010 roku pod tytułem Zeno Clash: Ultimate Edition. Akcja tytułu rozgrywa się w świecie fantasy o nazwie Zenozoik i przedstawia losy Ghata, młodego mężczyzny uciekającego przed swoim pragnącym zemsty rodzeństwem oraz jego towarzyszki Deadry podczas ich podróży po dziwnych i egzotycznych krainach. W kwietniu 2013 roku ukazała się jej kontynuacja Zeno Clash II.
+
+Wersja produkcji na komputery osobiste spotkała się przychylnym przyjęciem większości krytyków, uzyskując średnie ocen 77/100 w agregatorze Metacritic i 77,50% w GameRankings. Wersja na Xboksa 360 została oceniona podobnie, osiągając wyniki 74/100 na Metacritic i 75,46% na GameRankings. Recenzenci chwalili dziwny lecz spójny świat gry oraz oryginalne projekty postaci. W 2009 roku była nominowana do nagrody „Excellence in Visual Art” na Independent Games Festival oraz uzyskała tytuł „Independent Game of the Year” od „PC Gamera” i „PC Game of the Month” od IGN-u.
+
+Fabuła
+Akcja produkcji ma miejsce w fikcyjnym świecie fantasy o nazwie Zenozoik, a jej fabuła rozpoczyna się w mieści Halstedom. Na początku gry Ghat, główny bohater, odzyskuje przytomność po wybuchu, w którym ginie Ojczymatka, pozornie dwupłciowe stworzenie, które wychowało dużą i wpływową rodzinę. Ghat to jedno z jego dzieci, które zwróciło się przeciwko swojemu rodzicu po odkryciu prawdy o nim. Bohater ucieka z miasta i jest ścigany przez swoich braci i siostry, którzy pragną go zabić. Towarzyszy mu Deadra, która ratuje Ghata przed apatią.
+
+
+Rozgrywka
+
+W trybie fabularnym gracz wciela się w Ghata i podróżuje przez Zenozoik, odwiedzając różne lokacje w liniowych sekwencjach. Rozgrywka prezentowana jest głównie w perspektywie pierwszej osoby z czasem występującymi cut scenkami. Gdy postać gracza wchodzi na pewne obszary, uruchamiane są oskryptowane sekwencje, w których gracz musi pokonać wszystkich wrogów, aby kontynuować podróż. Ghat jest biegły w sztukach walki, może blokować ciosy i wyprowadzać kontrataki. Choć rozgrywka skupia się na walce bez broni, Ghat może używać broni białej lub zasięgowej, zdobywanej na przykład poprzez rozbrojenie przeciwników. W niektórych momentach gra przypomina liniowe shootery.
+
+Poza trybem jednoosobowym w produkcji obecny jest tryb wyzwań, który polega na pokonywaniu wrogów podczas wchodzenia na wieżę lub schodzenia w głąb szybu. Wyniki są dodawane do rankingu przez Steam za każdym razem, gdy gracz pokona bossa na ostatnim piętrze.
+
+Tworzenie
+
+Studio ACE Team zaczynało od tworzenia modyfikacji gier, a Zeno Clash było ich komercyjnym debiutem. Poprzedni projekt studia, Zenozoik, był bardziej rozbudowaną produkcją niż Zeno Clash; miał łączyć w sobie elementy shooterów, gier fabularnych, bijatyk i rozgrywać się w otwartym świecie. Pracownicy ACE Team zdali sobie sprawę, że jak na studio niezależne ich pomysł był zbyt ambitny i zdecydowali stworzyć bardziej skoncentrowaną grę. Z tego powodu w Zeno Clash gracz przemierza liniowe poziomy i brak w niej elementów RPG. Gra początkowo miała być modyfikacją działającą na silniku Source. ACE Team zaprezentowało wersję demonstracyjną produkcji przydstawicielom firmy Valve Corporation, którzy byli pod wrażeniem jej jakości. Obie firmy później zawarły umowy o wykorzystaniu silnika i dystrybucji.
+
+Twórcy w wywiadzie oznajmili, że uważają grę za pierwszoosobową bijatykę z elementami shootera. Stwierdzili też, że gra przypomina połączenie gier Dark Messiah of Might and Magic i Double Dragon oraz że czerpali inspiracje z tradycyjnych bijatyk, czego przykładem są ekrany versus pojawiające się przed każdą walką. Tworząc oprawę wizualną wzorowali się na pracach malarza Hieronima Boscha i ilustratora Johna Blanche'a. Oświadczyli również, że wydawcy nie byli pewni, czy odbiorcom przypadnie do gustu taka scenografia, jednak postanowiono trzymać się tej wizji i stworzyć grę o stylistyce odmiennej od innych produkcji na rynku. W celu uzyskania organicznego wyglądu użyto wyeksportowanych w programie 3ds Max modeli z prerenderowanym oświetleniem zamiast geometrii opartej na pędzlach właściwej dla silnika Source.
+
+W październiku 2009 roku ACE Team ogłosiło współpracę z firmą Atlus w celu wydania portu gry w usłudze Xbox Live Arcade. Wersja ta została zatytułowana Zeno Clash: Ultimate Edition i zawiera nowe tryby gry i funkcje, takie jak możliwość przechodzenia trybu wyzwań w kooperacji, nowe ataki, rodzaje broni, nową aktorkę głosową dla Deadry, galerię postaci i system świadomości.
+
+Wydanie
+Zeno Clash wydano pierwotnie 21 kwietnia 2009 roku poprzez platformę dystrybucji cyfrowej Steam na system operacyjny Microsoft Windows. W Rosji w sprzedaży detalicznej grę wydała firma Noviy Disk, w Europie Iceberg Interactive, a w Stanach Zjednoczonych Tripwire Interactive. 5 maja 2010 roku firma Atlus opublikowała Zeno Clash: Ultimate Edition na konsolę Xbox 360 w usłudze Xbox Live Arcade. Po premierze ACE Team kontynuowało wspieranie tytułu, wydając modele postaci do użycia w Garry's Mod, kilka poziomów do trybu wyzwań jako darmową zawartość do pobrania oraz software development kit. 19 maja 2009 studio ogłosiło, że w produkcji znajduje się kontynuacja tytułu, której premiera odbyła się 30 kwietnia 2013 roku.
+
+O Zeno Clash pisano ze względu na reakcję twórców na piractwo. Pracownik ACE Team Carlos Bordeu na wielu stronach internetowych z plikami torrentowymi umieścił komentarze, w których oznajmił, że studio nie zamierza walczyć z nielegalnym rozpowszechnianiem Zeno Clash, lecz ma zamiar zachęcać do kupna gry, jeśli pobierającemu się ona podobała. Później twórcy stwierdzili, że choć ich podejście nie zmieniło zapewne postępowania piratów, to gra zyskała nieoczekiwany rozgłos w prasie, który przyczynił się do promocji gry.
+
+Odbiór
+
+
+W agregatorze ocen Metacritic gra uzyskała wynik 77/100, natomiast w GameRankings 77,80%. Wydana na konsolę Xbox 360 edycja Zeno Clash: Ultimate Edition otrzymała podobne oceny, osiągając średnie oceny 74/100 w serwisie Metacritic i 75,46% w GameRankings. Czterej dziennikarze ze strony internetowej Rock, Paper, Shotgun ocenili pozycję na dwa dni przed jej premierą, szczerze ją polecając.
+
+Za swój niepowtarzalny styl graficzny i fabułę produkcja otrzymała od krytyków wiele pochwał. Recenzent serwisu Rock, Paper, Shotgun oznajmił, że gra ma naprawdę niezwykły wygląd, który jest nagrodą samą w sobie. Dan Pearson z Eurogamera nazwał jej środowisko bogatym i niezwykle barwnym. Jamin Smith ze strony Videogamer.com stwierdził, że przy tworzeniu scenariusza twórcy zapewne udali się na narkotykową podróż. Ponadto określił świat gry jako niezwykle spójny i powiedział, że fabuła jest świetnym uzupełnieniem atmosfery. Jason Ocampo z portalu IGN zauważył, że dzięki sprytnemu zaprojektowaniu i sposobowi opowiedzenia historii jest odświeżająco oryginalna i fascynująca.
+
+Krytycy mieli różne opinie na temat aspektów rozgrywki. Według Scotta Sharkeya z serwisu 1UP.com praca rąk w połączeniu z ruchem kamery daje poczucie realności walki; porównał te elementy do gry Mirror's Edge. Eduardo Reboucas z portalu Game Revolution stwierdził, że sterowanie gry w Ultimate Edition wymagało nieco przyzwyczajenia i że potyczki z niektórymi przeciwnikami były frustrujące. Jason Ocampo z IGN-u napisał, że walka wręcz jest nieco nieporęczna, ale jednocześnie satysfakcjonująca. Brett Todd z GameSpotu miał mniej pochlebne zdanie, nazywając walkę uproszczoną i monotonną oraz narzekając na brak zróżnicowania w rozgrywce.
+
+W styczniu 2009 roku na Independent Games Festival Zeno Clash nominowano do kategorii „Excellence in Visual Art”. W marcu 2009 roku od „PC Gamera” zdobyła nagrodę „Independent Game of the Year”. W kwietniu 2009 roku serwis IGN nadał jej tytuł „PC Game of the Month”, chwaląc oryginalność i satysfakcjonujące poczucie walki. Na dziesiątej corocznej gali nagród Game Developer Choice Awards, która odbyła się na Game Developers Conference w 2010 roku, uzyskała nagrodę „Best Debut”. W lipcu 2010 rok jeden z twórców przyznał, że sprzedaż wersji Ultimate Edition była znacząco niższa niż wersji gry na komputery osobiste.
+
+
+
+Przypisy
+
+
+Linki zewnętrzne
+

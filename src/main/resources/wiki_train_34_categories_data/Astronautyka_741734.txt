@@ -1,0 +1,16 @@
+Discoverer 35''' – amerykański satelita rozpoznawczy. Stanowił część tajnego programu CORONA. Jego zadaniami miało być wykonanie wywiadowczych zdjęć Ziemi o niskiej rozdzielczości. Kapsuła powrotna oddzieliła się od statku po wykonaniu około 18 orbit. Została przechwycona w locie przez samolot C-130.
+
+
+Oprócz normalnego wyposażenia do telemetrii, statek został wyposażony w dodatkowe mierniki napięcia i ciśnienia, oraz innych parametrów lotu.
+
+Pomyślnie wystrzelone misje Keyhole-3, czyli Discoverer 29, Discoverer 30, Discoverer 32, Discoverer 35''' i Discoverer 36, zużyły razem 7521,2448 metrów taśmy filmowej, na których wykonały 9918 fotografii. Mimo że kamery statku pracowały poprawnie, zdjęcia miały zauważalną granulację.
+
+Ładunek
+Kamera panoramiczna C-Double Prime, o ogniskowej 61 cm i rozdzielczości (na powierzchni Ziemi) 7,6 m
+Próbki wystawiane na działanie promieniowania kosmicznego
+Dwie grupy klisz pokrytych emulsją czułą na promieniowanie jądrowe, ustawione pionowo i poziomo. Badały intensywność i kierunek promieniowania kosmicznego. Były czułe na neutrony, promienie X i kwanty gamma. Eksperyment zawierał także próbki metali (w tym ziem rzadkich), wystawione na działanie środowiska kosmicznego.
+Radiometr skanujący - ważący 1,68 kg przyrząd mierzył promieniowanie termiczne wysyłane przez Ziemię oraz promieniowanie słoneczne odbite od Ziemi. Składał się z m.in.: układu optycznego i filtrów umieszczonych w wieżyczce; dwóch bolometrów (razem 175 detektorów PbS): czułego na promieniowanie termiczne, 3,5 - 30 μm, i czułego na światło widzialne i bliską podczerwień, 0,2 - 4,5 μm); systemu telemetrii. Każdy detektor miał pole widzenia około 5°. Taki sam przyrząd poleciał na satelicie MIDAS 4; wyprodukowany przez Baird-Atomic Inc. (obecnie Baird Corporation); mimo że tylko detektor promieniowania termicznego działał poprawnie, eksperyment udał się. Dobre dane odebrano ze 110 orbit, czyli z około 165 godzin pracy.
+
+
+
+Bibliografia

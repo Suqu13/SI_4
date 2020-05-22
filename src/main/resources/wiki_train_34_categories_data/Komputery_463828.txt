@@ -1,0 +1,27 @@
+Seria RS/6000''', obecnie zwana IBM pSeries, jest aktualną linią stacji roboczych, serwerów i notebooków produkcji IBM. Seria RS/6000, po raz pierwszy przedstawiona w 1990 r., zastąpiła serię RT-PC. Mikroprocesory montowane w RS/6000 są zgodne z mikroarchitekturami procesorów IBM POWER lub PowerPC oraz pozwalają na uruchamianie na nich systemów operacyjnych AIX a także dystrybucji systemu GNU/Linux.
+
+Dostępnych jest wiele modeli sprzętowych. Najbardziej zaawansowane obejmują serie eServer IBM Power (na przykład IBM Power 595) i korzystają z systemu operacyjnego AIX 6.1 lub GNU/Linux 2.6 dla procesora IBM POWER6.
+
+Deep Blue był pierwszym komputerem, przy użyciu którego maszyna wygrała mecz szachowy przeciwko współczesnemu mistrzowi świata (Garriemu Kasparowowi) przy użyciu regularnej kontroli czasu. Jest to mocno równoległy, 32-węzłowy, oparty na RS/6000 SP system komputerowy rozszerzony o 480 układów VLSI wykonujących obliczenia związane z grą. Program do gry został napisany w języku C i działa pod kontrolą systemu operacyjnego AIX. Jest zdolny do analizy do 200.000.000 pozycji szachowych na sekundę.
+
+Najpopularniejsze modele RS/6000
+
+7012-320 Pierwszy IBM RS/6000. Otwierał serię. Pokazany światu 30.06.1990
+7007-N40 Laptop RS/6000. Zbudowany na procesorze PowerPC 50 MHz. Nowsze systemy AIX miały problem z wyświetlaniem grafiki.
+6042, 6070 – tzw. IBM Power Series 830 i 850 (lub ThinkPad Power Series 830/850), miały zrewolucjonizować rynek komputerów osobistych i stać się komputerami do pracy i do domu, jednakże znikoma ilość oprogramowania i cena spowodowały klęskę projektu. Zawierały procesor PowerPC 604 lub 603e (w przypadku ThinkPad) taktowany zegarem 100 lub 133 MHz. Na maszynach tych działał Windows NT 4, próbny OS/2 Warp 3 for PowerPC oraz AIX, jednakże z powodu niekompatybilności komputer miał duże problemy wydajnościowe. W zestawieniach, komputery te często są pomijane z racji znikomej ilości sprzedanych egzemplarzy. Wiele osób w ogóle nie zalicza ich do RS/6000.
+7017-S70 Pierwsza maszyna 64bit. Zaprezentowana 6.10.1997. Obsługiwała do 12 procesorów 125 MHz
+Seria 7043 – wolno stojące komputery często spotykane obecnie w prywatnych zastosowaniach
+7043-140 – Oparty o PowerPC 604e, najczęściej w wersji 200 MHz. Pozwala na uruchomienie systemu AIX 5.1
+7043-150 – Oparty o PowerPC 604e, najczęściej 375 MHz. Pozwala na uruchomienie systemu AIX 5.3
+7043-240 – Dwuprocesorowa wersja 7043-140. Niemal niespotykana
+7043-260 – Dwuprocesorowy komputer oparty o procesor POWER3 64bit. Zaletą jest duża (32) ilość slotów na stosunkowo tanią pamięć RAM. Wadą – duża masa i jak na wolno stojący komputer duże rozmiary.
+Seria 7044 – wolno stojące komputery. Linia jest kontynuacją serii 7043.
+7044-170 – RS/6000 najczęściej obecnie spotykany w zastosowaniach prywatnych. Stosunkowo nieduży (porównywalny z PC Midi-Tower), zbudowany na procesorze Power3-II 64bit (300, 400 oraz 450 MHz). Wadą jest obecność tylko czterech gniazd pamięci RAM, przez co maksymalna jej ilość ograniczona jest do 2GB. Pozwala na uruchomienie AIX 5.3
+7044-260 – czteroprocesorowa (i odpowiednio większa) wersja 7044-170. Procesory Power3-II taktowane są zegarem 375 MHz. Wadą jest duża (~50 kg) masa i duże rozmiary.
+9112-265 – dwuprocesorowa maszyna zbudowana na procesorach Power3-II 64bit 450 MHz. W stosunku do 7044-170 dodano redundatne zasilacze oraz dodatkowe gniazda pamięci RAM. Wadą jest mała ilość półek na dyski twarde. Pozwala na uruchomienie AIX 5.3
+9114-275 – Jedno lub dwuprocesorowa maszyna zbudowana na procesorach Power4+ 64bit taktowanych 1GHz lub 1.45GHz. Wadą jest niemożność rozbudowy wersji jednoprocesorowej do dwuprocesorowej. Zaletą jest standardowa dostępność dysków Hot-swap. Jest najprostszą maszyną pozwalającą na uruchomienie systemu AIX 6
+
+
+
+
+

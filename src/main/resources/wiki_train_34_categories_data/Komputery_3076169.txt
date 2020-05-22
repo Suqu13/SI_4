@@ -1,0 +1,21 @@
+Nokia Lumia 925''' - smartfon z serii Lumia produkowany przez fińską firmę Nokia, zaprezentowany w maju 2013 roku jako następca modelu Lumia 920. Działa pod kontrolą systemu operacyjnego Windows Phone 8.1
+
+Specyfikacja
+Aparat
+W Lumii 925 zastosowano optykę ZEISSA z matrycą 1/3,2 cala o rozmiarze 8,7 megapikseli, przesłonie f/2.0 wspomaganą przez autofocus, podwójną diodę LED, technologię PureView oraz optyczną stabilizację obrazu. Aparat jest sterowany dwustopniowym spustem migawki, dysponuje również 4 krotnym zbliżeniem cyfrowym. Rozdzielczość wykonanych zdjęć to 3264 na 2448 pikseli. Filmy nagrywane tym telefonem mają jakość 1080p (Full HD).
+
+Wygląd
+Telefon wykonano z poliwęglanu, aluminium, a także hartowanego szkła (Gorilla Glass 2) pod którym znajduje się ekran. Głośnik słuchawkowy, czujnik zbliżeniowy, czujnik oświetlenia zewnętrznego, kamerę umieszczono nad wyświetlaczem. Pod nim znajdują się trzy pojemnościowe przyciski charakterystyczne dla systemu Windows Phone, czyli wstecz, start i szukaj. Lewa krawędź i dół obudowy pozbawiona jest jakichkolwiek elementów funkcyjnych. Na prawym boku znajduje się klawisz służący do regulacji głośności, przycisk blokady ekranu (włącznik) oraz dwustopniowy spust migawki. Gniazdo mini jack, wejście micro USB, slot na kartę micro SIM i mikorfon ulokowano na górnej krawędzi. Z tyłu telefonu zainstalowano aparat cyfrowy, podwójną diodę LED, mikrofon, głośnik. 
+
+Podzespoły
+Urządzenie napędza dwurdzeniowy Quallcomm Snapdragon S4 taktowany zegarem o częstotliwości 1,5 GHz. Procesor jest wspomagany 1 GB pamięci operacyjnej (RAM). Pamięć dostępna dla użytkownika to około 16 GB oraz bezpłatne 7GB pamięci w chmurze. Ekran zastosowany w tym telefonie ma przekątną 4,5 cala. Został wykonany w technologii AMOLED z wykorzystaniem autorskich funkcji SuperSensitive, ClearBlack oraz PureMotion HD+. Jego rozdzielczość to 1280 na 768 pikseli. Smartfon wyposażono w moduły Bluetooth, NFC i WiFi. Obsługuje również łączność LTE. Zastosowana bateria litowo-jonowa ma pojemność 2000 mAh. Możliwe jest jej bezprzewodowe ładowanie przez użycie odpowiedniej nakładki i ładowarki (Qi).
+
+Oprogramowanie
+Nokia Lumia 925 pracuje pod kontrolą systemu Microsoft Windows Phone 8.1 z dodatkiem Lumia Black. Preinstalowane są programy takie jak: Kalkulator, Zegar, Kalendarz, Budzik, Przypomnienia, Spis telefonów, Zadania, Pokój rodzinny, Kącik dziecięcy, OneNote, Sieci społecznościowe w książce telefonicznej, Portfel. Dodatkowo smartfon wyposażono w podstawowe programy biurowe - Excel, Word, PowerPoint i Lync oraz nawigację HERE Maps oraz inne aplikacje wykorzystujące połączenie GPS i rozszerzoną rzeczywistość np. Nokia Miasto w Obiektywie. Dodatek Lumia Black umożliwia korzystanie z kliku autorskich rozwiązań Nokii - Glance, Camera, Storyteller czy Beamer. Użytkownik może dodatkowo pobierać aplikacje i gry ze sklepu Nokii bądź Marketplace. 
+
+
+
+
+
+
+

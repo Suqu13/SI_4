@@ -1,0 +1,11 @@
+
+
+
+Elwro 442LC Jacek – jeden z pierwszych polskich kalkulatorów kieszonkowych z wyświetlaczem ciekłokrystalicznym, produkowany przez Wrocławskie Zakłady Elektroniczne Mera-Elwro.
+
+Funkcjonalność
+Cztery podstawowe działania, pamięć sumująca (M+, M-, MR, MC), obliczanie pierwiastka kwadratowego, obliczanie procentów, zmiana znaku. 
+
+Sercem kalkulatora jest układ scalony firmy NEC Corporation – D888G współpracujący z monochromatycznym wyświetlaczem ciekłokrystalicznym typu RPYD-01 firmy Unitra-Dolam. Zasilanie – 2 baterie pastylkowe 1,5&nbsp;V R43 (R1142). Klawiatura membranowa (membranki z metalu napylonego na tworzywo sztuczne), 25 klawiszy wykonanych techniką wtrysku napisów z tworzywa o innym kolorze (nieścieralne). Obudowa metalowa w wersjach czarnej lub srebrnej. Mechaniczny wyłącznik zasilania.
+
+

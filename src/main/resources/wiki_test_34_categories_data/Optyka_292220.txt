@@ -1,0 +1,54 @@
+Rozpraszanie światła (fal elektromagnetycznych), zjawisko oddziaływania światła z materią, w wyniku którego następuje zmiana kierunku rozchodzenia się światła, z wyjątkiem zjawisk opisanych przez odbicie i załamanie światła. Wywołuje złudzenie świecenia ośrodka.
+
+Rozróżnia się rozpraszanie światła:
+sprężyste – podczas rozpraszania nie następuje zmiana energii (częstotliwości) światła,
+niesprężyste – podczas rozpraszania zmienia się energia (częstotliwość) światła.
+
+Rozpraszanie wiąże się z niejednorodnościami układu, w którym zachodzi propagacja fal. Rozpraszanie może zachodzić na pyłach i aerozolach zawieszonych w powietrzu, a także fluktuacjach gęstości.
+
+Podstawy fizyczne zjawiska
+
+Fizycznie zjawisko rozpraszania związane jest z falową naturą światła, które oddziałując z materią powoduje jej drgania i wypromieniowanie (wtórnych) fal elektromagnetycznych. Te wtórne fale nazywane są promieniowaniem rozproszonym (rozpraszaniem). Wiele zjawisk fizycznych związane jest z rozpraszaniem światła, mimo że zazwyczaj nie używamy tej terminologii w potocznej mowie. Np. odbicie od porowatych powierzchni (odbicie dyfuzyjne), dyfrakcja, a nawet odbicie i załamanie światła można tłumaczyć jego rozpraszaniem (zasada Huygensa). Ze zjawiskiem rozpraszania światła związane są też zjawiska dyspersji, interferencji i dyfrakcji.
+
+Przegląd teorii
+Rozpraszanie światła zachodzi głównie w wyniku oddziaływania fotonów z elektronami. Na przestrzeni rozwoju fizyki powstało kilka teorii opisujących oddziaływanie elektronów z fotonami.
+
+Rozpraszanie światła przez dipol elektryczny
+Model oparty na fizyce klasycznej, w którym światło traktowane jest jak fala elektromagnetyczna. Światło jako zmienne pole elektryczne padając na dipol elektryczny (rezonator) wzbudza w nim drgania wymuszone, w wyniku czego staje się on źródłem własnego promieniowania. Częstotliwość drgań wymuszonych dipola jest równa częstotliwości światła padającego. Amplituda drgań dipola silnie zależy od różnicy częstotliwości własnej rezonatora i częstotliwości światła padającego, dipol pobudzony do drgań emituje falę elektromagnetyczną o częstotliwości drgań. Rozkład przestrzenny pola elektromagnetycznego, jak i przesunięcie fazowe fali padającej i emitowanej można określić na podstawie własności fal.
+
+Przybliżenie Rayleigha
+Jeżeli dipole mają częstotliwości własne znacznie większe od częstotliwości padającego światła, to wzory upraszczają się do postaci znanej jako rozpraszanie Rayleigha. Zachodzi ono, gdy cząsteczki są małe w porównaniu z długością fali elektromagnetycznej. Wówczas współczynnik rozpraszania jest odwrotnie proporcjonalny do czwartej potęgi długości fali świetlnej. W modelu zakłada się również, że częstotliwość fali rozproszonej jest identyczna z częstotliwością fali padającej. Dlatego rozproszenia, w których nie zachodzi zmiana częstotliwości fali świetlnej, nazywa się rozpraszaniem Rayleigha.
+
+Przybliżenie dyskretnych dipoli
+Model przybliżenia dyskretnych dipoli (ang. discrete dipole approximation; w skrócie DDA) opiera się na przybliżeniu cząstki rozpraszającej przez układ mniejszych elementów oddziałujących z falą elektromagnetyczną jak pojedynczy dipol. Przybliżenie to daje dokładne rozwiązanie równań rozpraszania światła na cząstkach o różnym kształcie i rozkładzie niejednorodności materiału. W praktyce rozmiary cząstek muszą być porównywalne z długością fali.
+
+Rozpraszanie na swobodnych elektronach
+Dla niezbyt dużych częstotliwości światła powyższe dokładnie opisują zjawiska rozpraszania, dla częstotliwości znacznie większych od częstotliwości światła widzialnego zaczynają odgrywać rolę zjawiska związane z oddziaływaniem fotonu z pojedynczym swobodnym elektronem. Swobodne elektrony oddziałują ze światłem rozpraszając światło, zjawisko to znane jest jako zjawisko Comptona. W wyniku oddziaływania swobodnego elektronu z fotonem w świetle rozproszonym pojawiają się fotony o długości światła mniejszej od długości światła padającego. Zjawisko obserwowane dla promieniowania rentgenowskiego, dla światła widzialnego i podczerwonego nie ma praktycznego znaczenia i jest trudne do zaobserwowania, ze względu na małą szansę zajścia oraz niewielką różnicę względną długości fal padających i rozproszonych.
+
+
+
+Rozpraszanie na małych cząstkach
+Rozpraszanie światła na małych cząstkach można scharakteryzować za pomocą stosunku wielkości cząstki do długości fali elektromagnetycznej. Stosunek ten nazywa się parametrem wielkości. Cząstki znacznie większe niż długość fali światła opisuje się optyką geometryczną – można wtedy zakładać, że światło propaguje się jako wiązka (promień światła). Rozpraszanie na cząstkach, które są porównywalne z długością są opisane rozwiązaniem Mie równań Maxwella (od nazwiska niemieckiego fizyka Gustawa Mie).
+
+Rozwiązania Mie
+Dla fali elektromagnetycznej rozpraszanej na jednorodnych sferycznych cząstkach możliwie jest dokładne rozwiązanie równań światła Maxwella. Rozwiązanie to ma postać nieskończonego ale zbieżnego szeregu. Te rozwiązania nazywa się rozwiązaniami Mie a rozpraszanie zgodne z przewidywaniami rozwiązań rozpraszaniem Mie. Rozwiązania te są ważne dla sferycznych cząstek dowolnych wielkości. Obecnie, dzięki komputerom, przy badaniu rozpraszania światła w ośrodkach polidyspersyjnych, w substancjach stosuje się rozwiązania Mie. Opracowano także dokładne metody rozwiązywania rozpraszania światła na układach sfer (np. sadza), które są rozszerzeniem metody Mie.
+
+Optyka geometryczna
+Dla cząstek lub niejednorodności znacznie większych od długości fali można światło traktować jako wiązkę nieulegających dyfrakcji promieni świetlnych, które ulegają odbiciu lub załamaniu przy przejściu pomiędzy ośrodkami o różnych własnościach optycznych (wzory Fresnela). Przybliżenie to można użyć do opisu wielu zjawisk optycznych np. zjawisko tęczy, rozpraszanie światła przez chmury, mgłę. Zakres stosowania praw optyki geometrycznej można rozszerzyć na niejednorodności porównywalne z długością fali uwzględniając dyfrakcję promieni na niejednorodnościach.
+
+Rozpraszanie na niejednorodnych powierzchniach (odbicie dyfuzyjne)
+Mechanizm rozpraszania na powierzchni wynika z faktu, że chropowata powierzchnia składa się z losowo rozmieszczonych płaszczyzn i krzywizn, które znajdują się pod różnymi kątami w stosunku do uśrednionej płaszczyzny całej powierzchni. Światło padające w różnych punktach na chropowatą powierzchnię natrafia na lokalne płaszczyzny i jest opisane (lokalnym) prawem odbicia. Patrz także opis zjawiska refleksu słońca. Mimo że refleks słońca i odbicie dyfuzyjne są związane ze zjawiskiem rozpraszania na wielu elementarnych powierzchniach to całościowy (makroskopowy) opis jest zazwyczaj dawany za pomocą funkcji odbicia kierunkowego.
+
+Zastosowania
+Rozpraszanie światła ma zdumiewająco wiele zastosowań, m.in. w technikach teledetekcyjnych, pomiarach wielkości cząstek, czy w realistycznym opisie powierzchni w grafice komputerowej.
+
+Pomiary wielkość cząstek
+Zjawiska rozpraszania mają wiele użytecznych zastosowań. Jednym z nich jest duża klasa zastosowań używanych do oceny wielkości cząstek.
+
+W optyce polimerów używa się metody opracowanej przez B. Zimma (Zimm, Bruno H., "The Scattering of Light and the Radial Distribution Function of High Polymer Solutions", J. Chem. Phys., 16, 1093-1116 (1948)). Wykonując pomiar intensywności laserowego światła rozproszonego pod różnymi kątami w stosunku do kierunku jego padania, można wyznaczyć średni rozmiar a nawet kształt drobin w mieszaninie.
+W mikrofizyce chmur wielkości kropli można ocenić za pomocą rozpraszania światła do przodu, czyli w tym samym kierunku, co światło padające na kroplę wody. Taki instrument nazywa się w skrócie FSSP (ang. Forward Scattering Spectrometer Probe). Teoretyczną podstawą tej techniki jest rozwiązanie Mie rozpraszania światła.
+Cytometria przepływowa jest używana do oceny wielkości, kształtu, i własności optycznych cząstek, najczęściej biologicznych (np. krwinek) lub roślinnych (np. fitoplankton). Cytometria przepływowa jest oparta na rozpraszaniu i fluorescencji światła.
+
+
+
+

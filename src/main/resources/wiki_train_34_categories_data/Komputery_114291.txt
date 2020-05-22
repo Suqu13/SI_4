@@ -1,0 +1,12 @@
+
+Cray X-MP był superkomputerem zaprojektowanym, produkowanym i sprzedawanym przez Cray Research. Był pierwszą maszyną wieloprocesorową zbudowaną w tej firmie i trzymał miano najszybszego komputera na świecie w latach 1983–1985.
+
+Opis
+Cray X-MP odziedziczył obudowę w kształcie podkowy po swoim poprzedniku Cray-1, co było możliwe dzięki zastosowaniu bardziej upakowanych układów (8 krotnie w porównaniu do poprzedniego komputera). Okres zegara wynosił tylko 8,5 nanosekundy (w porównaniu do 12,5 ns dla Cray-1A), dostarczając około 55 MFLOPS na procesor i  235 MFLOPS dla całej maszyny. Procesory posiadały wsparcie dla łańcuchowania potoków, równoległe potoki arytmetyczne i dostęp do pamięci współdzielonej poprzez kilka portów na procesor. Cray X-MP był sprzedawany z 1 do 4 procesorów i z 1 do 16 megasłów (8–128 MB) głównej pamięci RAM (ze względu na to że początkowo rozmiar pamięci był ograniczony poprzez wielkość rejestrów adresowych do 16 megasłów z 24-bitowym rejestrem, zaprojektowano upgrade architektury adresacji pamięci, który powiększał zakres adresacji pamięci do teoretycznych 2 GB).
+
+Historia
+Głównym projektantem komputera był Steve Chen. W 1982 Cray X-MP/48 kosztował około 15 milionów USD plus dodatkowe koszty dysków. System początkowo pracował pod kontrolą systemu operacyjnego Cray Operating System (COS) wraz z UNICOS (odmianą UNIX System V) uruchomionego jako gościnny system operacyjny. UNICOS stał się podstawowym systemem operacyjnym od 1984 roku. W 1986 Cray X-MP/48 osiągnął moc obliczeniową 713 MFLOPS z wykorzystaniem standardowego testu LINPACK.
+
+Następcą serii X-MP został Cray Y-MP, a jego sprzedaż rozpoczęła się w 1988 roku; zaprojektowany bez rewolucyjnych zmian, jako ewolucyjne rozszerzenie serii X-MP z nowymi procesorami, których liczba mogła wzrosnąć do 16.
+
+

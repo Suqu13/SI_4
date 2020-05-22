@@ -1,0 +1,36 @@
+Ciało szare, ciało doskonale szare – ciało, które pochłania określoną współczynnikiem absorpcji część promieniowania padającego na to ciało bez względu na długość fali padającego promieniowania i temperaturę ciała. 
+
+Emisja ciała szarego określona jest wzorem:
+gdzie:
+– energia emitowana przypadająca na promieniowanie mieszczące się w zakresie częstotliwości od ν do ν&nbsp;+&nbsp;dν na jednostkę powierzchni w jednostce czasu na jednostkę kąta bryłowego,
+– względna zdolność emisyjna ciała, współczynnik niezależny od częstotliwości, zależny od temperatury
+– energia emitowana przez ciało doskonale czarne,
+– temperatura bezwzględna ciała w kelwinach,
+– prędkość światła w próżni,
+– stała Boltzmanna.
+
+Wnioski
+Maksimum funkcji intensywności promieniowania ciała szarego prawo przesunięć Wiena określa identyczny wzór jak dla ciała doskonale czarnego
+Prawo Stefana-Boltzmanna dla ciała szarego przyjmuje postać:
+gdzie
+– strumień energii wypromieniowywany w kierunku prostopadłym do powierzchni ciała W/m²
+– stała Stefana-Boltzmanna.
+
+W tym sensie ciało doskonale czarne jest szczególnym ciałem szarym o zdolności emisyjnej .
+
+Ciało o zdolności emisyjnej równej  może być ciałem doskonale białym, doskonale przezroczystym lub zwierciadlanym.
+
+To samo dotyczy zdolności absorpcyjnej.
+
+Współczynnik pochłaniania wszystkich ciał rzeczywistych zależy od długości fali padającego promieniowania, jednak w ograniczonym zakresie długości fal wiele ciał może być traktowanych jako ciała szare.
+
+Zobacz też
+pirometr
+
+
+
+
+
+
+
+

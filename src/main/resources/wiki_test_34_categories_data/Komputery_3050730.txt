@@ -1,0 +1,85 @@
+Sony Xperia SP (nazwa kodowa ''"HuaShan"'') – smartfon produkcji firmy Sony Mobile Communications. W tym modelu zastosowano dwurdzeniowy procesor Qualcomm Snapdragon S4 Pro (MSM8960) z układem graficznym Adreno 320. Smartfon posiada 1 GB RAMu, 8-megapikselowy aparat z sensorem Exmor RS oraz 4.6 calowy wyświetlacz o rozdzielczości 1280x720 z technologią Sony Mobile Bravia Engine 2.
+
+Dane techniczne
+Ekran i design
+4.6", 1280 x 720 pikseli (319 pikseli na cal), 16,777,216 kolorów
+Ekran pokryty Gorilla glass
+Sony Mobile BRAVIA® Engine 2
+Wykonywanie zrzutów ekranu
+Ekran pojemnościowy z wirtualną klawiaturą QWERTY
+Tryb rękawiczki
+Efekty świetlne
+Przezroczysty dół telefonu
+
+Aparat i kamera
+8-megapikselowy aparat z auto-focusem
+16x cyfrowy zoom 
+Sony Exmor RS™ for mobile image sensor
+Nagrywanie filmów w FullHD
+Kamera do wideo-rozmów
+Rozpoznawanie scenerii, wykrywanie twarzy i uśmiechu
+zdjęcia HDR
+Sweep Panorama
+Dioda led
+Superior Auto Mode
+Obsługiwane formaty plików: BMP, GIF, JPEG, PNG
+Zapis zdjęć do: JPEG
+Odtwarzane formaty wiedo: 3GPP, MP4, MKV, MPEG2-TS, MPEG-4, WEBM
+Zapis wideo do: 3GPP,
+Fizyczny, dwustopniowy spust migawki
+
+Pre-instalowane aplikacje
+Google Chrome
+Google Play
+Google Voice Search
+Google Maps z Street view i Latitude
+
+Pamięć
+RAM: 1&nbsp;GB
+Pamięć flash: 8 GB (5.8&nbsp;GB dostępne)
+Slot microSD na karty do 32 GB pojemności
+
+Łączność
+UMTS HSPA+ 850 (Band V), 900 (Band VIII), 2100 (Band I) MHz
+UMTS HSPA+ 1700 (Band IV), 1900 (Band II) (not available in all markets)
+GSM GPRS/EDGE 850, 900, 1800, 1900&nbsp;MHz
+LTE Bands 1, 2, 4 and 5 (not available in all markets)
+LTE Bands 1, 3, 5, 7, 8 and 20 (not available in all markets)
+
+Rozrywka i multimedia
+PlayStation Certified
+Sony Entertainment Network
+Streamowanie wideo
+TV launcher
+Gry z czujnikiem ruchu
+Gry 3D
+Obsługiwane formaty odtwarzania audio: MP3, AVI, 3GPP, MP4, MKV, MPEG-TS, SMF, WAV, Ogg vorbis, FLAC
+Obsługiwane formaty nagrywania audio: 3GPP, MP4, AMR
+Radio FM z RDS
+xLoud Experience
+Alikacja “WALKMAN” 
+Rozpoznawanie muzyki przez TrackID
+3D surround sound
+Clear bass, Clear stereo and Clear Phase
+Bluetooth stereo (A2DP)
+
+Łączność i komunikacja
+Złącze jack 3.5mm
+aGPS
+Bluetooth 4.0
+DLNA Certified
+GLONASS
+MHL Support
+Media Go
+Media Transfer Protocol
+Wsparcie dla micro USB, ładowania przez USB i USB High speed 2.0 
+Natywny tethering przez USB
+NFC
+Screen mirroring
+Xperia Link
+Wi-Fi oraz hotspot Wi-Fi
+przeglądarka WebKit
+Synchronizacja przez Exchange ActiveSync, Facebook, Google Sync i SyncML 
+
+Bibliografia
+Linki zewnętrzne

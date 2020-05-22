@@ -1,0 +1,38 @@
+
+
+Texas Instruments TMS 1000''' - jeden z pierwszych mikroprocesorów i pierwszy  jednoukładowy komputer. 
+Na pojedynczym układzie scalonym umieszczono procesor, pamięć RAM, pamięć ROM, układy wejścia/wyjścia oraz zegar taktujący.
+
+Zaprojektowany i produkowany od 1971 w firmie Texas Instruments i zastosowany w kalkulatorze SR-16 z 1974 r.
+
+Dane TMS1000
+4-bitowa architektura harwardzka
+zegar: 300 kHz
+wszystkie rozkazy sprzętowe są wykonywane w 6 cyklach zegara
+przestrzeń adresowa 1024
+rozkazy sprzętowe: 11
+rozkazy mikroprogramowane: 32
+stos: 1x10 bitów
+brak przerwań
+technologia: PMOS 8 µm
+zasilanie: 15V
+rejestry:
+akumulator: 4 bity
+X i Y
+X 2 bity (3 bity dla wersji z 128 słowami pamięci RAM)
+Y 4 bity
+adres rozkazu przechowywany w rejestrach:
+licznik rozkazów - 6 bitów
+rejestr strony - 4 bity
+flaga rozdziału - 1 bit  (tylko dla 2048 bajtowej pamięci stałej)
+adres powrotu
+adres powrotu z podprogramu - 6 bitów
+adres strony powrotu z podprogramu - 4 bity
+
+Wersje
+
+
+Zobacz też
+Intel 4004
+
+Linki zewnętrzne

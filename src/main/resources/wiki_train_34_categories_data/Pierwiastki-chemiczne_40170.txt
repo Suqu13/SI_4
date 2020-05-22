@@ -1,0 +1,17 @@
+Hartowność stali – zdolność do tworzenia w trakcie hartowania struktury martenzytycznej.
+
+Głównym czynnikiem wpływającym na hartowność stali jest jej skład chemiczny, czyli zawartość węgla oraz pierwiastków stopowych i technologicznych. Poza składem chemicznym wpływ na hartowność mają także wielkość ziarna i jednorodność austenitu oraz obecność innych, nierozpuszczonych cząstek. Dodatki stopowe (wyjątek stanowi kobalt), zwiększają hartowność stali poprzez zmniejszenie krytycznej szybkości chłodzenia. Krytyczna szybkość chłodzenia, czyli najmniejsza szybkość chłodzenia pozwalająca na uzyskanie struktury martenzytycznej związana jest z trwałością przechłodzonego austenitu do rozpoczęcia się jego przemian, dla stali węglowych może ona wynosić nawet 400–500&nbsp;°C/s. Temperatura początku i końca przemiany martenzytycznej w dużym stopniu zależą od zawartości węgla w austenicie (por. wykresy ilustrujące przemiany fazowe w funkji czasu i temperatury tzw. wykresy CTP ). Dodatki stopowe wpływają na przehartowalność stali, a co za tym idzie na możliwość zahartowania przedmiotów o większym przekroju. Zawartość węgla w stali jest głównym czynnikiem wpływającym na twardość stali po hartowaniu. Wyższa hartowność pozwala na zastosowanie mniejszych szybkości chłodzenia (hartowanie w oleju), unikając w ten sposób naprężeń hartowniczych. 
+Głębokość zahartowania, jaką można uzyskać w stalach węglowych, mieści się w granicach 3 do 10 mm, w zależności od jej składu. Dodatki w stalach stopowych pozwalają zwiększyć głębokość zahartowania. 
+
+Hartowność można określić metodami:
+obliczeniowymi (np. metoda Grossmana),
+doświadczalnymi (np. metoda Jominy'ego, metoda krzywych U).
+
+Z hartownością stali związane są pojęcia:
+
+utwardzalność,
+przehartowalność,
+skłonności do pęknięć hartowniczych,
+
+
+

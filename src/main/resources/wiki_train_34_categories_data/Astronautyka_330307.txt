@@ -1,0 +1,23 @@
+
+
+Kopuła (ang. Cupola, wł. Kuppel – kopuła) to moduł obserwacyjny Międzynarodowej Stacji Kosmicznej, zaprojektowany i zbudowany przez firmę Alenia Spazio (obecnie Thales Alenia Space) w imieniu Europejskiej Agencji Kosmicznej. Alenia Spazio był głównym wykonawcą i koordynował pracę sześciu innych firm: APCO (Szwajcaria), CASA (Hiszpania), EADS (Niemcy), SAAB Ericsson and Lindholmen Development (Szwecja) i Verhaert (Belgia). 
+
+Wnętrze Cupoli zostało specjalnie zaprojektowane tak, by zamontować w nim jedno z dwóch identycznych stanowisk roboczych RWS (ang. Robotic Work Station) – sterujących pracą automatycznego ramienia Canadarm2.
+
+Cupola pozwala, z wnętrza stacji, na bezpośredni, panoramiczny podgląd: operacji wykonywanych automatycznym manipulatorem, spacerów kosmicznych astronautów, manewrów dokowania wahadłowców, przegląd i ocenę stanu technicznego urządzeń zewnętrznych, a także stanowi doskonały punkt obserwacyjny Ziemi i innych ciał niebieskich.
+
+Cupola ma w przybliżeniu 2 metry średnicy i 1,5 metra wysokości, sześć trapezoidalnych okien bocznych i jedno okrągłe okno górne, o średnicy 80 cm (wszystkie wykonane są ze szkła pancernego), z których każde jest dodatkowo wyposażone w okiennicę chroniącą przeciw uderzeniom mikrometeorytów i kosmicznych śmieci. 
+
+Montaż na ISS
+8 lutego 2010 o 09:14:06,981 Cupola wystartowała na pokładzie promu Endeavour w ramach misji STS-130, Endeavour/F24, ISS-20A.
+Po połączeniu promu z ISS (nastąpiło 10 lutego 2010 o 05:06) w dniu 15 lutego 2010 o 03:23 ramię SSRMS uchwyciło Cupolę, ale nie udało się jej odłączyć - jeden z czterech bolców mocujących zaciął się. Dwie kolejne próby odłączenia nie przyniosły rezultatów, a objawy zacięcia zaczął wykazywać drugi bolec.
+Około 05:18 udało się odłączyć konstrukcję od zewnętrznego węzła Tranquility. Po inspekcji została ona przyłączona o 06:32 do węzła dolnego. 
+17 lutego 2010 w ramach EVA-3 zdjęto izolacje startowe i osłony okien Cupoli, oddając ją tym samym do użytku.
+
+Dane techniczne
+Wysokość: 1,5 m
+Średnica: 2,95 m
+Masa: 1880 kg
+
+Linki zewnętrzne
+

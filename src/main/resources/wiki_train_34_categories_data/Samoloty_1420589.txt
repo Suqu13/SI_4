@@ -1,0 +1,24 @@
+Lockheed Martin LongShot Wing Adapter opracowywane przez Lockheed Martin w ramach programu High Altitude Anti-Submarine Warfare Weapons Concept (HAAWC) urządzenie w kształcie małego samolotu, przeznaczone do umożliwienia samolotom i helikopterom zrzucania torped Mark 50 oraz Mark 54 z bardzo dużych wysokości i odległości od atakowanego celu, czyniąc z nich broń typu Standoff. Aparat ten, czasem nazywany jest od nazwy programu HAAWC lub po prostu LongShot. Po zakończeniu programu rozwoju tego systemu, US Navy planuje wyposażenie weń samolotów P-3C Orion.
+
+Urządzenie to może być także wykorzystywane do przenoszenia bomb ogólnego przeznaczenia i kasetowych, bomb laserowo naprowadzanych oraz min morskich. Nie wymaga przystosowywania samolotów do ich przenoszenia – może tez być przenoszone przez dowolnego typu samoloty. Informacje o celu wprowadzane są do systemu LongShot za pomocą standardowego komputera przenoścnego typu notebook, lub tez za pomocą komputera pokładowego samolotu, w tym samolotów nie posiadających interfejsu 1769 SWI (Smart Weapon Interface)
+
+System LongShot jest całkowicie niezależny od przenoszącego go samolotu – dzięki zaopatrzeniu go w pokładowy komputer kontroli lotu, system nawigacji satelitarnej GPS oraz wewnętrzne źródło zasilania.
+
+Zestawienie cech systemu:
+nawigacja GPS/INS
+pułap strzału: 152,5 m – 10&nbsp;668&nbsp;m
+zasięg: do 50 mil morskich
+pełna zdolność operacyjna w każdych warunkach pogodowych
+
+Zastosowanie przeciwko:
+naziemnym środkom walki elektronicznej i wyrzutniom pocisków rakietowych
+zakłady przemysłowe, elektrownie i rafinerie
+lotniska, w tym schrony dla samolotów
+porty i stocznie
+jednostki wojskowe
+okręty nawodne i podwodne
+
+
+
+
+

@@ -1,0 +1,26 @@
+M41 Walker Bulldog – amerykański czołg lekki mający zastąpić czołg M24 Chaffee.
+
+Historia
+Poprzednik M41, czołg M24 Chaffee, z czasem stawał się coraz bardziej przestarzałą konstrukcją. Szczególnie jego krótkolufowa armata M6 kal. 75 mm nie mogłaby skutecznie zwalczać nowych, radzieckich czołgów. Jednym z głównych celów armii amerykańskiej stało się skonstruowanie czołgu lekkiego do zadań rozpoznawczych z zastosowaniem lepszego uzbrojenia. Projektowanie nowego pojazdu rozpoczęto w 1947. Według założeń miał być transportowany drogą powietrzną i być uzbrojony w długolufową armatę kalibru 76 mm. Pierwszy prototyp spełniający te oczekiwania powstał w 1949 pod oznaczeniem "M41". Po serii prób i testów produkcja ruszyła w 1951 w zakładach Cadillac's Cleveland Tank Plant. Do 1953 M41 zastąpił już przestarzałego M24 Chaffee. Początkowo był nazywany "Little Bulldog", jednak został przemianowany na "Walker Bulldog" na cześć generała Waltona Walkera, który zginął w czasie wojny koreańskiej w wypadku Jeepa (1950).
+
+Sam M41 był czołgiem dobrze uzbrojonym i mobilnym, jednak do głównych wad należało duże zużycie paliwa,  głośna praca silnika, a także duża masa, która utrudniała transport powietrzny. W 1952 armia amerykańska chciała stworzyć lżejsze czołgi (T71, T92), jednak te projekty zostały anulowane, przedłużając okres służby M41.
+
+Służba
+Chrzest bojowy M41 nastąpił podczas wojny wojny koreańskiej, gdzie było można stwierdzić jego niedostatki. Najgroźniejszym przeciwnikiem w tej wojnie był radziecki T-34/85. W 1961 roku 150 czołgów tego typu zostało dostarczone do Japonii, jednak ich liczba okazała się za mała i Japońskie Siły Samoobrony musiały uzupełniać braki czołgami Typ 61 własnej produkcji. M41 wzięły także udział w wojnie wietnamskiej, gdzie znajdował się na wyposażeniu armii Południowego Wietnamu, jednak nie mógł sobie poradzić z północnowietnamskimi czołgami T-54 produkcji radzieckiej. "Walker Bulldog" był także eksportowany do takich krajów jak: Brazylia (300 sztuk), Chile (60 sztuk), Dominikana (12), Gwatemala (10), Somalia (10), Tajlandia (200), Tajwan (675), Tunezja (10) i in. Niektóre zmodyfikowane czołgi służyły do ostatnich lat, na przykład ostatnie czołgi tego typu służące w armii Tajlandii zostały wycofane dopiero we wrześniu 2006 roku.
+
+Warianty
+
+M41 (1951).
+M41A1 (1953) - Posiada nowy, hydrauliczny napęd wieży zainstalowany w miejsce elektrycznego. Zwiększono także jednostkę ognia - z 57 do 65. 
+M41A2 (1956) - Został zainstalowany nowy silnik diesla Cummins VTA-903T
+M41A3 - czołgi wersji M41/M41A1 zmodernizowane przez instalację silnika diesla  Cummins VTA-903T.
+M41 DK-1 - Duńska modyfikacja. Nowy silnik, zainstalowanie nocnych przyrządów celowniczych, ochrona przed bronią masowego rażenia, fartuchy boczne chroniące układ jezdny.
+M41D - Tajwańska modyfikacja. Wymiana armaty na działo rodzimej produkcji, nowe systemy kierowania ogniem, zamontowanie silnika diesla, zamontowanie reaktywnego pancerza.
+M42 Duster (1952) - Samobieżne działo przeciwlotnicze. W wieży zamontowano dwie armaty Boforsa 40 mm
+M52 SPH - Samobieżne działo powstałe na podwoziu M41 poprzez zamontowanie haubicy M85 kalibru 105 mm.
+OM 41 - Bezzałogowy cel zdalnie sterowany.
+
+
+
+
+

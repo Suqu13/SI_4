@@ -1,0 +1,16 @@
+
+Handheld PC - urządzenie klasy PDA, podobne z wyglądu do małego laptopa. Charakteryzuje się zwykle większymi wymiarami wymuszonymi użyciem dużej matrycy LCD (zwykle 6 do 8 cali). Urządzenia tego typu posiadają system oparty na Windows CE, z możliwością przeinstalowania innych (np. Linuksa). Duża matryca zwiększa pobór prądu, dlatego do urządzenia tego typu montuje się większe i pojemniejsze akumulatory. W porównaniu do Pocket PC posiadają większą rozdzielczość ekranu - najczęściej HVGA - 480x320. W typowych handheldach spotyka się jeszcze rozdzielczości 480x240 (pierwsze urządzenia klasy Handheld PC), 640x480; 800x480; 800x600 i bardzo rzadko 320x240
+
+Najbardziej znanymi/popularnymi handheldami w Polsce są:
+
+HP Jornada 680/690/720/728
+
+Nec MobilePro 780/790 oraz od niedawna modele 900 i 900c
+
+Sharp Mobilon HC-4500 i HC-4600
+
+Casio Cassiopeia A10/A11/A20
+
+Fujitsu PenCentra 150 i 200
+
+

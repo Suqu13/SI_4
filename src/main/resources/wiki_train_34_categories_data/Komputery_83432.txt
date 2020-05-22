@@ -1,0 +1,23 @@
+[[Grafika:ZAM-41.jpg|thumb|350px|right|Komputer [[ZAM-41]].
+Z przodu po lewej: [[drukarka wierszowa]],
+pod ścianą: [[jednostka systemowa|jednostka centralna]] z [[pamięć bębnowa|pamięcią bębnową]],
+za szybami: jednostki [[pamięć taśmowa|pamięci taśmowej]] [[PT-2]],
+na środku biurko z modułów od lewej:
+- [[czytnik taśmy dziurkowanej]],
+- dwa [[perforator taśmy dziurkowanej|perforatory taśmy dziurkowanej]],
+- [[dalekopis]] jako [[monitor komputera|monitor]],
+- nad biurkiem [[pulpit]].
+]]
+Komputer drugiej generacji jest to komputer, w którym do budowy elementów logicznych - bramek - wykorzystano elementy półprzewodnikowe. Były nimi wynalezione w połowie XX w. tranzystory. Do komputerów takich zaliczał się np. ZAM 41, Cray-1.
+----
+
+Charakteryzowały się:
+mniejszymi wymiarami
+większą bezawaryjnością
+mniejszym poborem prądu
+Powyższe cechy pozwoliły na budowę szybszych i jednocześnie bardziej skomplikowanych maszyn.
+
+
+
+
+

@@ -1,0 +1,81 @@
+Lista chorób zakaźnych uszeregowana według przynależności systematycznej czynnika etiologicznego:
+
+Bakterie
+Angina – 
+Błonica – 
+Zatrucie jadem kiełbasianym (botulizm) – 
+Bruceloza – 
+Cholera – 
+Dyzenteria (czerwonka bakteryjna, shigelloza) – 
+Dur brzuszny - 
+Dur rzekomy (paradur) – 
+Dżuma – 
+Zakażenie Escherichia coli – 
+Gorączka okopowa – 
+Gruźlica – 
+Zakażenie Helicobacter pylori – 
+Krztusiec – 
+Nosacizna – 
+Płonica (szkarlatyna) – 
+Rzeżączka – 
+Salmonellozy – 
+Tężec – 
+Trąd – 
+Tularemia – 
+Wąglik
+
+Krętki
+Kiła – 
+Choroba Weila – 
+Choroba z Lyme (borelioza) – 
+Gorączka błotna – 
+Pinta
+
+Riketsje
+Gorączka plamista – 
+Gorączka Q -
+Tyfus plamisty (dur plamisty)
+
+Grzyby
+Aspergiloza – 
+Blastomykoza – 
+Chromoblastomikoza (chromomikoza) – 
+Dermatofitozy – 
+Drożdżyca (kandydoza, blastomykoza) – 
+Histoplazmoza – 
+Kokcydioidomikoza – 
+Kryptokokoza – 
+Kryptosporydioza – 
+Stopa madurska (maduromykoza) – 
+Mukormykoza – 
+Sporotrychoza
+
+Priony
+Kuru – 
+Choroba Creutzfeldta-Jakoba – 
+Gąbczaste zwyrodnienie mózgu (BSE)
+
+Wirusy
+Choroba Heinego-Medina – 
+Grypa – 
+Mononukleoza zakaźna – 
+Odra – 
+Opryszczka zwykła – 
+Ospa prawdziwa – 
+Ospa wietrzna i półpasiec – 
+Pryszczyca – 
+Różyczka – 
+SARS – 
+Nagminne zapalenie przyusznic – 
+Wirusowe gorączki krwotoczne – 
+Wirusowe zapalenie wątroby – 
+Wścieklizna – 
+Zespół nabytego niedoboru odporności (AIDS)
+
+Choroby zakaźne, które wywołać może kilka różnych patogenów (tzw. infekcje o mieszanej etiologii)
+Infekcje górnych dróg oddechowych – 
+Zakaźne zatrucia pokarmowe
+
+
+
+

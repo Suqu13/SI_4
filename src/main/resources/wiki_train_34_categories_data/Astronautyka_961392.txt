@@ -1,0 +1,23 @@
+Chang Zheng 3B (chin. trad.: 長征系列運載火箭; chin. upr.: 长征系列运载火箭; pinyin: Chángzhēng xìliè yùnzài huǒjiàn; pol. Długi marsz) — chińska trójstopniowa rakieta nośna. Jedna z największych chińskich rakiet. Wywodzi się z rakiety Chang Zheng 3A.
+
+
+
+Pierwszy start tej rakiety, 14 lutego 1996, zakończył się tragedią i politycznym skandalem. W 22 sekundy po starcie, rakieta spadła i eksplodowała na terenach wiejskich. Wybuch miał moc 20–50 ton trotylu (rakieta była praktycznie pełna paliwa). Zginęło co najmniej 6 ludzi, a 57 zostało rannych (inne źródła podają nawet 100 ofiar śmiertelnych). Ładunkiem rakiety był satelita Intelsat 708, który zawierał, jak się później okazało, urządzenia objęte zakazem eksportu do Chin przez amerykańskie prawo. Pracownicy wytwórcy satelity zostali dopuszczeni do wraku statku dopiero kilka godzin po katastrofie i nie znaleźli owych urządzeń na miejscu katastrofy. Spowodowało to wybuch skandalu w amerykańskim rządzie i doprowadziło do ukarania firm Hughes Electronics i Boeing Satellite Systems.
+
+
+
+Chronologia lotów
+14 lutego 1996, 19:01 GMT; s/n CZ3B-1 (40); miejsce startu: kosmodrom Xichang (LC2), ChinyŁadunek: Intelsat 708; Uwagi: start nieudany - awaria systemu kierowania spowodowała upadek i eksplozję rakiety 22 sekundy po starcie. Zginęło co najmniej 6 ludzi, a 57 zostało rannych
+19 sierpnia 1997, 17:50 GMT; s/n CZ3B-2 (46); miejsce startu: kosmodrom Xichang (LC2), ChinyŁadunek: Agila 2; Uwagi: start udany
+16 października 1997, 19:13 GMT; s/n CZ3B-3 (48); miejsce startu: kosmodrom Xichang (LC2), ChinyŁadunek: APSTAR 2R; Uwagi: start udany
+30 maja 1998, 10:00 GMT; s/n CZ3B-4 (52); miejsce startu: kosmodrom Xichang (LC2), ChinyŁadunek: Zhongwei 1; Uwagi: start udany
+18 lipca 1998, 09:20 GMT; s/n CZ3B-5 (53); miejsce startu: kosmodrom Xichang (LC2), ChinyŁadunek: Xinnuo 1; Uwagi: start udany
+12 kwietnia 2005, 12:00 GMT; s/n ?; miejsce startu: kosmodrom Xichang (LC2), ChinyŁadunek: APSTAR 6; Uwagi: start udany
+28 października 2006, 16:20 GMT; s/n ?; miejsce startu: kosmodrom Xichang, ChinyŁadunek: Xinnuo 2; Uwagi: start udany
+13 maja 2007, 16:01 GMT; s/n ?; miejsce startu: kosmodrom Xichang (LC2), ChinyŁadunek: Nigcomsat-1; Uwagi: start udany
+5 lipca 2007, 12:08 GMT; s/n ?; miejsce startu: kosmodrom Xichang (LC2), ChinyŁadunek: Zhonxing 6B; Uwagi: start udany
+9 czerwca 2008, 12:15 GMT; s/n ?; miejsce startu: kosmodrom Xichang (LC2), ChinyŁadunek: Zhongxing 9; Uwagi: start udany
+29 października 2008, 16:54 GMT; s/n ?; miejsce startu: kosmodrom Xichang (LC2), ChinyŁadunek: VENESAT 1; Uwagi: start udany
+31 sierpnia 2009, 09:28 GMT; s/n ?; miejsce startu: kosmodrom Xichang (LC2), ChinyŁadunek: Palapa D-1; Uwagi: start częściowo nieudany - zbyt niski ciąg w jednym z dwóch silników 3. stopnia podczas restartu spowodował, że osiągnięta orbita była znacznie niższa od zakładanej. Producent satelity zapewnił jednak, że statek jest w stanie skompensować brakujące 350-400 m/s własnym napędem, kosztem zapasów paliwa przeznaczonych dla manewrów na orbicie geostacjonarnej
+
+Bibliografia

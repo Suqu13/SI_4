@@ -1,0 +1,20 @@
+Profil ICC – zbiór danych (pliki o rozszerzeniu .icc), które charakteryzują kolor wejścia albo wyjścia urządzenia, zgodnie z normami ogłoszone przez International Color Consortium (ICC). 
+
+Profili ICC używa się do kontroli procesu zachowania koloru w poligrafii. 
+
+W Europie stosuje się najczęściej profil Euroscale Coated FOGRA39 dla papierów błyszczących oraz Euroscale Uncoated FOGRA39 dla papierów niepowlekanych.
+
+• Oparte na przestrzeni barw opracowanej przez CIE XYZ lub CIE Lab
+
+• Bazuje na standardzie ISO 13655:1996, Graphic Technology - Spectral measurement and colorimetric calculation for graphic arts images.
+
+• Przyjęto założenia: CIE 1931 przy 2° i iluminancie D50.
+
+• Przestrzeń CIE XZY nazywana jest PCS (Profile Connection Space)
+
+– Przedstawia barwy oryginalne i reprodukcji (bez żadnych konwersji)
+
+– Przelicza barwy oryginalne na możliwe do uzyskania na urządzeniu docelowym
+
+
+

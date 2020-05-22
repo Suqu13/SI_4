@@ -1,0 +1,13 @@
+Stal sprężynowa – stal używana do produkcji resorów, sprężyn i drążków skrętnych. Stale sprężynowe są stalami węglowymi zawierającymi 0.6% - 0.85% węgla stalami niskostopowymi zawierającymi dodatki krzemu, manganu, chromu i wanadu. Większość stali sprężynowych charakteryzuje się podwyższoną zawartością krzemu, która normalnie jest niepożądanym zanieczyszczeniem. W tych jednak aplikacjach jest wymaganym dodatkiem obniżającym plastyczność stali.
+
+Według Polskiej Normy PN-74/H-84032, stale sprężynowe dzieli się na:
+węglowe – używane są tu stale konstrukcyjne wyższej jakości – '''65, 75''' i '''85'''.
+Stale niskostopowe manganowe – ''65G
+Stale niskostopowe krzemowe – '''50S, 45S, 40S2, 50S2, 55S2, 60S2, 60S2A
+stale niskostopowe manganowo-krzemowe – '''60SG
+stale niskostopowe manganowo-krzemowe- chromowe – '''60SGH
+stale niskostopowe chromowo-manganowo – '''50HG
+stale niskostopowe chromowo-krzemowe – '''60HS
+stale niskostopowe chromowo-wanadowe – '''60HF
+
+

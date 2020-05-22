@@ -1,0 +1,49 @@
+AgustaWestland AW101''' (dawniej EH101'') – europejski śmigłowiec wielozadaniowy opracowany przez dwie firmy: włoską Agusta i brytyjską Westland Helicopters. Firmy te po połączeniu tworzą obecnie konsorcjum AgustaWestland. W służbie brytyjskiej i portugalskiej śmigłowiec nosi nazwę Merlin.
+
+Historia
+W 1977 Brytyjskie Ministerstwo Obrony ogłosiło wymagania jakie powinien spełniać nowy śmigłowiec do zwalczania okrętów podwodnych mający zastąpić Westland Sea King. W tym samym czasie Włoska Marynarka Wojenna również poszukiwała następcy dla budowanych na licencji przez Agustę Sea Kingów. Doszło do rozmów o współpracy, których owocem była podpisana w 1979 umowa o utworzeniu nowej firmy EH Industries (skrót od Elicottero Helicopter). Celem konsorcjum było opracowanie śmigłowca transportowego, taktycznego, wielozadaniowego dla wojsk lądowych i marynarki wojennej. Zdecydowano się na opracowanie równocześnie trzech wariantów, ponieważ charakterystyki wymagane od tego typu śmigłowców były do siebie zbliżone.
+
+Śmigłowce są produkowane w Yeovil w Anglii i Vergiate koło Mediolanu. Należący do producenta egzemplarz promocyjny EH101 Mk.510 (rej. G-17-510'') wystąpił w filmie Skyfall z 2012 roku.
+
+Wersje
+Dziewieć protoytpów: 5 Westland, 4 Agusta; dwa utracono.
+'''110''' – wersja ZOP/przeciwokrętowa dla Marina Militare (oznaczenie SH-101A), silniki T-700-GE-T6A1 (CT7-6), radar Eliradar APS-784, sonar Honeywell HELRAS, pociski Marte, brak rampy, 8 sztuk.
+'''111'''/Merlin HM1 – wersja ZOP/przeciwokrętowa dla  dla Royal Navy (oznaczenie Merlin HM Mk.1), silniki RR RTM322, radar Blue Kestrel, sonar Thomson Marconi FLASH, mogą przenosić sondę do tankowania w locie, brak rampy, 44 sztuki.
+'''112''' – wersja wczesnego ostrzegania z radarem Eliradar HEW-784 dla Marina Militare (oznaczenie EH-101A), 4 sztuki. 
+'''410''' – wersja transportowa dla Marina Militare (oznaczenie UH-101A), łopaty BERP IV o mniejszych wibracjach i wyższych osiągach, składany wirnik i ogon, rampa załadunkowa, 4 sztuki.
+'''411'''/Merlin HC3 – wersja transportowa dla Royal Air Force, 22 sztuki.
+'''413''' – wersja desantowa i wsparcia operacji specjalnych dla Marina Militare (UH-101A), 4 sztuki.
+'''510''' – wersja cywilna z rampą, 1 sztuka dla policji w Tokio, druga sztuka na potrzeby promocji US101.
+'''511''' – wersja SAR dla Canadian Forces (oznaczenie CH-149 Cormorant), silniki GE CT7-6, 15 sztuk.
+'''512''' – wersja eksportowa dla Danii, sześć w wariancie 512 SAR, drugie sześć w transportowym 512 TTT odsprzedano Wielkiej Brytanii (jako Merlin HC3A), w zamian dostarczono sześć nowych.
+'''514''' – wersja SAR dla Portugalii, 6 sztuk.
+'''515''' – wersja patrolowa/ochrony rybołówstwa dla Portugalii, 2 sztuki.
+'''516''' – wersja combat SAR dla Portugalii, 4 sztuki.
+'''518''' – wersja zwalczania min (11 MCH-101) i transportowa/operacji arktycznych (3 CH-101) dla Japonii, silniki RTM322 Mk.250, sonar AN/AQS-24, składany wirnik i ogon, rampa, 14 sztuk.
+'''519''' – wersja VVIP dla USMC (oznaczenie VH-71 Kestrel) do transportu prezydenta USA (Marine One), silnik CT7-8E, anulowana.
+'''610''' – wersja SAR dla Algierii, 6 sztuk.
+Merlin HM2''' – 30 HM1 zmodernizowanych od 2006 przez Lockheed Martina, awionika z siedmioma dużymi wyświetlaczami LCD, gogle noktowizyjne, nowy komputer misji, Data Link 11, tryb pracy SAR dla radaru, system ostrzegania przed pociskami BAE Systems AN/AAR-57, wyrzutnia flar AN/ALE-47, system zakłócania AN/ALQ-157.
+Merlin HC4/4A – planowana konwersja wersji HC3/3A RAF na potrzeby Royal Navy.
+Merlin ASaC5''' – planowana konwersja 8 HM1 do wersji wczesnego ostrzegania.
+
+Użytkownicy
+Marynarka wojenna otrzymała sześć sztuk w wersji ratowniczej w latach 2010-2011, z brytyjskiej linii produkcyjnej.
+Flyvevåbnet otrzymały 8 śmigłowców w wersji SAR (ratowniczej - Search And Rescue) i 6 maszyn przeznaczonych do transportu taktycznego, produkcji brytyjskiej. Ostatni z 14 zamówionych  EH101 został dostarczony 1 marca 2007. Pierwszy śmigłowiec w wersji SAR osiągnął gotowość operacyjną w kwietniu 2007. W 2007 sześć śmigłowców transportowych przekazano Wilekiej Brytanii, której siły ISAF w Afganistanie trapiły braki sprzętowe, w zamian Brytyjczycy dostarczyli 6 nowych AW101.
+Japońskie Powietrzne Siły Samoobrony oraz Japońskie Morskie Siły Samoobrony zamówiły w 2003 14 śmigłowców przeznaczonych do wykonywania misji wykrywania i niszczenia min morskich a także do zadań transportowych, 13 z nich zmontuje Kawasaki Heavy Industries z zestawów dostarczonych z Anglii.
+W 25 marca 1999 Policja Tokijska jako pierwszy użytkownik cywilny otrzymała jeden śmigłowiec EH-101-510.
+Royal Canadian Air Force otrzymały 15 śmigłowców EH-101-511 przeznaczonych do zadań SAR oznaczonych jako CH-149 Cormorant, dostarczone 2001-2003 z włoskiej linii produkcyjnej, pierwsze dwie we wrześniu 2001.
+Norwegia wybrała ofertę AW na 16 śmigłowców w wersji poszukiwawczo-ratowniczej (SAR) dla zastąpienia posiadanych Westland Sea King w ramach programu Norwegian All Weather Search and Rescue Helicopter. Śmigłowce mają wchodzić do  służby stopniowo, od 2017 do 2020 roku i będą eksploatowane przez wojska lotnicze (Luftforsvaret).
+Força Aérea Portuguesa kupiły 12 śmigłowców: 6 w wersji ratowniczej SAR, 4 ratowniczo-bojowej Combat SAR, 2 do kontroli rybołówstwa SIFICAP - dostarczone do 2006.
+Rząd Turkmenistanu zmówił w 2010 dwie sztuki do transportu VIP, śmigłowce wyprodukowano w Yeovil, pierwszą sztukę dostarczono do Turkmenistan Airlines w kwietniu 2013.
+Marynarka brytyjska Royal Navy otrzymała 44 śmigłowce w wersji do zwalczania okrętów podwodnych, oznaczone Merlin HAS.1, ostatecznie Merlin HM1. Dostarczono je w latach 1997-2002, rozpoczęły służbę 2 czerwca 2000. Używane są przez 5 dywizjonów Fleet Air Arm, bazujących w RNAS Culdrose w Kornwalii: nr 814, 820, 824, 829 i 700M. Do bazowania śmigłowców 829 dywizjonu dostosowano 9 fregat typu 23, mogą one bazować także na brytyjskich lotniskowcach, śmigłowcowcach desantowych i okrętach zaopatrzeniowych.
+Lotnictwo brytyjskie Royal Air Force otrzymały 22 śmigłowce w wersji transportowej Merlin HC3. Pierwszy wszedł do służby w 28 Dywizjonie RAF w styczniu 2001. Zostały one użyte operacyjnie na Bałkanach w 2003, po czym w Iraku. Dalsze 6 śmigłowców Merlin HC3A zakupiono w 2007 od Danii, dla przyspieszenia dostaw. W grudniu 2007 typ ten wszedł na wyposażenie drugiego dywizjonu, nr 78. Wszystkie Merliny RAF mają w przyszłości być przeniesione do Royal Navy w celu zastąpienia Sea Kingów.
+Marina Militare zakupiła 20 śmigłowców EH101: 8 w wersji morskiej przeciwpodwodnej (ASW), 4 wczesnego ostrzegania (AEW), 4 transportowe (TTH) i 4 desantowe (ASH - Amphibious Support Helicopter). Dostawy trwały pomiędzy 2001 i 2006. Używane są z pokładów włoskich niszczycieli rakietowych, lotniskowców i śmigłowcowców desantowych.
+Aeronautica Militare wybrały AW101 jak następce dla śmigłowców CSAR Sikorsky HH-3F Pelican, zamówiono 15 sztuk. Pierwszy HH-101A "CAESAR" dla oblatano w marcu 2014 roku.
+
+Dawni
+Indian Air Force zamówiły 12 śmigłowców w wersji VVIP, sześć dostarczono. W odpowiedzi na zapytanie ofertowe z 2006 odpowiedziało trzech producentów oferujących AW101, Mi-172 i Sikorsky S-92. Oferty Rosoboronexportu nie rozpatrzono, S-92 nie spełnił wszystkich wymogów technicznych dotyczących samoobrony, w rezultacie AW101 podpisał kontakt w 2010 roku. W lutym 2013 szef Finmeccanica (spółki matki) został zwolniony z powodu zarzutów korupcyjnych ciążących na kontrakcie. Pod koniec 2013 roku zerwano cały kontrakt na 12 śmigłowców, pomimo że część z nich została już dostarczona.
+United States Marine Corps miał otrzymać 23 śmigłowce przeznaczone dla jednostki HMX-1, która obsługuje transport m.in. prezydenta. Śmigłowce miały być montowane na licencji w Stanach Zjednoczonych przez Bella, a większość ich wyposażenia miała pochodzić z firm amerykańskich, głównym integratorem systemów był Lockheed Martin. Produkowane tam maszyny miały być sprzedawane pod oznaczeniem US101, a ich wojskowe oznaczenie to VH-71A Kestrel. 1 czerwca 2009 roku kontrakt został anulowany. 9 wyprodukowanych egzemplarzy sprzedano Kanadzie z przeznaczeniem na części.
+
+
+
+Linki zewnętrzne

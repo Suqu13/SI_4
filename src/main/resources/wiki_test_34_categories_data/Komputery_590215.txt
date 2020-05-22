@@ -1,0 +1,47 @@
+RTDS-8''' (Real Time Development System for '''8''' bit microprocesors), to mikrokomputerowy system uruchomieniowy, przeznaczony do wspomagania procesu uruchamiania 8-bitowych, prototypowych systemów mikrokomputerowych, pakietów lub oprogramowania oraz do ich testowania.
+
+Historia systemu
+System RTDS-8''' został opracowany w:
+ZSAK PAN w Gliwicach (obecnie IITiS PAN), przy współpracy
+Instytutu Informatyki Politechniki Śląskiej,
+a produkowany był przez
+ZUK MERA-Elzab w Zabrzu.
+W latach 1987-1988 wdrożono 16-bitową wersję systemu.
+
+Przeznaczenie systemu
+System dla architektury 8-bitowej dostępny był z sondami mikroprocesorów:
+8080
+8085
+Z80
+8048.
+Natomiast system 16-bitowy dla mikroprocesorów:
+8086
+8088.
+
+Budowa i działanie systemu
+System składał się z dwóch podstawowych bloków funkcjonalnych:
+mikrokomputera bazowego,
+uniwersalnego emulatora mikroprocesorów.
+Wspomaganie uruchamiania systemów oparte na emulacji układowej polega na symulacji mikroprocesora przez taki sam procesor jak symulowany, ale pracujący z rozbudowanymi układami sterowania i monitorowania, poprzez zastąpienie mikroprocesora sondą układu emulatora.
+
+Mikrokomputer bazowy był uniwersalnym mikrokomputerem z procesorem 8085 pracującym pod kontrolą:
+prostego monitora rezydującego w pamięci EPROM (8kB) rozszerzonego o obsługę sterowania pamięcią dyskową, lub
+systemu CP/M.
+
+Uniwersalny emulator mikroprocesorów to układ oparty na metodzie forsowania wykonania instrukcji, umożliwiającej programowe sterowanie przebiegiem operacji, sterowanie stanem mikroprocesora i monitorowania uruchamianego systemu (objęta patentem PRL nr 202905).
+
+Zlecenia systemu
+Dostępne zlecenia dzielą się na 3 funkcjonalne grupy:
+zlecenia inicjujące pracę systemu,
+zlecenia dotyczące właściwego uruchamiania systemu:
+wyświetlania stanu mikroprocesora i układów we-wy,
+modyfikowania stanu mikroprocesora i układów we-wy,
+krokowego wykonania,
+deasemblacji,
+kontroli stanu rejestrów,
+zatrzymania programu,
+śledzenia programu w czasie rzeczywistym,
+pomiaru czasu,
+zlecenia zapamiętania stanu systemu (w pamięci dyskowej) i umożliwiające odtworzenie tego stanu.
+
+Bibliografia

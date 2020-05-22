@@ -1,0 +1,113 @@
+Nintendo 64''', N64''' – domowa konsola gier komputerowych stworzona przez firmę Nintendo. Premiera konsoli w Japonii miała miejsce 23 czerwca 1996 roku, w Ameryce Północnej – 29 września 1996, a w Europie – 1 marca 1997 roku. Oficjalnie prace nad konsolą rozpoczęły się 23 sierpnia 1993. W tym dniu bowiem poinformowano o podpisaniu umowy między firmami Nintendo i Silicon Graphics, w której była mowa o projekcie "Reality", mającym na celu stworzenie nowej konsoli do gier. Początkowo konsola miała się nazywać Ultra 64.
+
+Konsola obsługuje grafikę trójwymiarową. Zostało na nią wydane 396 gier. Sprzedano ponad 32 mln. egzemplarzy tej konsoli. Pad do N64 posiada gałkę analogową.
+
+
+
+Dane techniczne
+Procesor:''' 64 bit MIPS VR4300 (kompatybilny z R4300i) (RISC) 93,75 MHz
+24 kB L1 Cache
+93 mln. operacji na sekundę
+Wyprodukowany przez firmę NEC i zbudowany z ponad 4 mln. tranzystorów w technologii 0,35 µm
+Koprocesor:''' 64 bit MIPS RISC RCP (Reality Immersion Co-Processor)  i DP (Pixel Drawing Processor) 62.5 MHz
+ponad 500 mln. operacji na sekundę to jest około 10 razy więcej niż procesory Pentium o podobnym taktowaniu.
+zawiera RSP (Reality Signal Processor) – odpowiedzialny za dźwięk i za przetwarzanie grafiki 3D
+zawiera RDP (Reality Drawing Processor) – przeprowadza operacje na pikselach i jest odpowiedzialny za następujące funkcje:
+Advanced Texture-Mapping – zaawansowane mapowanie tekstur:
+Detail Texturing – teksturowanie szczegółów
+Tri-linear Mip Map Interpolation – trójliniowa interpolacja mipmap
+Perspective Correction – korekcja perspektywy
+Environment Mapping – mapowanie otoczenia
+Depth Buffering – buforowanie głębi
+potrafi wyświetlić do 150 000 wielokątów na sekundę z następującymi efektami:
+Color Combiner
+Anti-Aliasing and Blending
+Rasterizing
+Z-Buffering – Z-bufor
+Automatic LOD (Level Of Detail) Management – automatyczne zarządzanie poziomem detali obiektów
+Vertex positioning and transformations – pozycjonowanie i transformacja wierzchołków
+Depth, color and texture clipping
+Transparency (256 levels max) – przezroczystość (max. 256 poziomów)
+Gouraud Shading – cieniowanie Gourauda
+Grafika:''' 256x224, max. 640x480, 16,8 mln. kolorów z czego w jednej chwili może być wyświetlanych 32 000.
+Pamięć:''' 4 MB  Rambus DRAM, istnieje możliwość rozbudowania do 8 MB za pomocą Expansion Pak
+pracuje na magistrali 9-bitowej o faktycznej częstotliwości 500 MHz.
+przepustowość 562,5 MB/s
+wewnętrzna magistrala danych między pamięcią i koprocesorem jest 128-bitowa
+Dźwięk:''' stereo 16 bit, kompresja ADPCM
+teoretycznie 100 kanałów PCM gdyż każdy kanał wykorzystuje 1% czasu procesora. Średnio 16-24.
+wykorzystuje syntezę wavetable
+próbkowanie max. 48 kHz
+posiada wewnętrzne efekty specjalne:
+Voice (w/ Pitch Shifting)
+Gain and Pan
+Reverb and Chorus
+Nośnik danych:''' kartridż o pojemności od 32 do 512 Mbit (od 4 do 64 MB).
+Wejścia:''' 4 porty padów 3 pinowe
+Wyjścia:'''
+RF
+stereo AV
+S-Video
+Wymiary:''' 260 mm x 170 mm x 73 mm
+Waga:''' 1,1 kg
+
+Akcesoria do N64
+
+
+
+
+
+Adaptoid – przejściówka umożliwiająca podłączenie joypada od konsoli do gniazda USB w komputerach.
+
+Backup Units – urządzenia umożliwiające zrobienie kopii zapasowej gry z kartridża:
+Doctor V64''' – to pierwsze tego typu urządzenie wyprodukowane przez firmę Bung.
+V64jr – drugie urządzenie z firmy Bung.
+CD64''' – wyprodukowane przez firmę UFO / Success Company w 1998, posiada 16 MB pamięci RAM.
+CD64 Plus – wyprodukowane przez firmę UFO / Success Company, posiada 32 MB pamięci RAM.
+Z64''' – wyprodukowane przez firmę Interesting Devices z Tajwanu i sprzedawane w USA przez firmę Harrison Electronics.
+
+Controller Pak – jest to karta pamięci dla niektórych gier jest konieczna żeby móc zapisać stan gry np. '''', '''', Pokémon Stadium a w pozostałych grach nie jest wymagana gdyż kartridż z grą posiadał możliwość zapisania.
+
+DexDrive – urządzenie do archiwizowania i kopiowania danych z kart pamięci (Controller Pak) na komputer klasy PC.
+
+Expansion Pak – rozszerza pamięć RAM o dodatkowe 4 MB, polepszając jakość grafiki w wyższej rozdzielczości. Bez niego nie da się uruchomić dwóch gier: Donkey Kong 64'' i '''', używany jest poza tym do poprawy grafiki w około czterdziestu tytułach niezależnych producentów, w tym , Rayman 2 oraz Perfect Dark.
+
+Game Buster, GameShark, Action Replay – umożliwiają stosowanie kodów podobnie jak Game Genie w innych konsolach.
+
+Import Adapter, N64 Passport – urządzenie umożliwiające granie w importowane gry na europejskim N64 i odwrotnie.
+
+Kierownica – wykorzystywana w wyścigach. Wyprodukowana przez firmę Gamester jako model LX4, posiada efekt wibracji.
+
+Myszka – wykorzystywana np. w ''''.
+
+Nintendo 64 Dynamic Drive – napęd dysków magnetycznych wydany tylko w Japonii. Na takich dyskach mieściło się więcej danych niż na kartridżach, ponieważ na początku dostępne były tylko kartridże o mniejszej pojemności. Możliwe było także wydanie gry na kilku dyskach.
+
+RadnetDD Keyboard – klawiatura wykorzystywana tylko z dyskiem do Nintendo 64 Dynamic Drive RadnetDD Disk i umożliwiająca pisanie e-maili, rozmowę na czacie itp.
+
+Rumble Pak – urządzenie dodające wibrację do pada na baterie AA potocznie zwane "paluszkami" lub nieco mniejsze AAA. Są też modele pobierające prąd z joypada.
+
+Transfer Pak – urządzenie, dzięki któremu można przesyłać dane między grami na Nintendo 64 oraz Game Boy/Game Boy Color. Niestety niewiele gier wykorzystuje to urządzenie.
+
+Tristar 64''' – urządzenie umożliwiające grę w gry z konsoli Famicom, Nintendo Entertainment System, Super Famicom i Super Nintendo Entertainment System.
+
+Voice Recognition Unit (VRU)''' – urządzenie do rozpoznawania głosu wykorzystywane tylko w grze Hey You, Pikachu!'' oraz Densha De Go 64.
+
+Tilt Pak – urządzenie przypominające z wyglądu Rumble Pak, które pozwala na sterowanie w grze za pomocą przechylania całego joypada. Posiada też wbudowaną funkcję rumble.
+
+Bio Sensor –  z wyglądu przypomina Controller Pak z kablem i klipsem na końcu. Klips przypina się do płatka usznego i dzięki temu konsola odczytuje nasz puls. W zależności od tego jak rozwija się akcja na ekranie nasz puls może przyspieszać lub zwalniać co, dzięki Bio Sensorowi, zwrotnie wpływa na wydarzenia w grze – gdy zaczynamy się denerwować akcja robi się szybsza, gdy się uspokoimy wszystko wraca do normy. Produkt wydany został tylko na japoński rynek i kompatybilny jest z jedną grą – Tetris 64 (nie mylić z The New Tetris). Bio Sensor wyprodukowała firma Seta.
+
+GB Hunter – przejściówka pozwalająca grać w gry z Game Boy / Game Boy Color na N64. Niestety dużym minusem jest fakt że wówczas nie można save'ować.
+
+Gry sprzedawane razem z konsolą
+Super Mario 64''
+Pilot Wings 64''
+'''' – tylko w Europie
+F-1 World Grand Prix
+'''' – tylko w Europie
+Pokémon Snap
+Donkey Kong 64''
+''''
+
+
+
+Linki zewnętrzne

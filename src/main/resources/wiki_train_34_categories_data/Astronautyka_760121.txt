@@ -1,0 +1,54 @@
+Nawigacja satelitarna – rodzaj radionawigacji wykorzystujący fale radiowe ze sztucznych satelitów w celu określania położenia punktów i poruszających się odbiorników wraz z parametrami ich ruchu w dowolnym miejscu na powierzchni Ziemi. 
+
+Najpopularniejszym systemem nawigacji satelitarnej jest GPS (Global Positioning System).
+
+Zarys historyczny
+Dzisiejsze systemy satelitarne zostały zapoczątkowane przez system Transit, stworzony w 1958 w Laboratorium Fizyki Stosowanej Uniwersytetu Johnsa Hopkinsa w USA. System ten miał praktyczne zastosowanie w nawigacji morskiej oraz służył jako pomoc geodezyjna i źródło częstotliwości wzorcowej. Od 1967 system Transit zaczął być sporadycznie wykorzystywany również do celów cywilnych. Na początku lat 80. stał się ogólnodostępny. Złożony z sześciu satelitów, był stosowany do 31 grudnia 1996.
+
+W 1960 został skonstruowany system satelitarny MOSAIC (Mobile System for Accurate ICBM Control)'', mający określać koordynaty ruchomych wyrzutni rakiet Minuteman. Z powodu zawieszenia prac nad systemem rakietowym nigdy nie zaczął funkcjonować.
+
+SECOR (Sequential Collation of Range)'' to uruchomiony w kwietniu 1964 satelitarny system lokalizacyjny i nawigacyjny. Był złożony z trzynastu satelitów, stworzony na potrzeby wojsk lądowych.
+
+W 1967 ZSRR uruchomiło swój pierwszy system nawigacyjny CYKADA.
+
+Zasady wyznaczania pozycji
+Wyznaczanie pozycji polega na pomiarze czasu propagacji sygnału (pomiar kodowy) oraz przesunięcia fazowego(pomiar fazowy)sygnału nadawanego przez satelitę poruszającego się po znanej orbicie. W nawigacji wykorzystywane są przybliżone współrzędne satelitów nadawane w depeszy nawigacyjnej zakodowanej na transmitowanym sygnale oraz wyłącznie pomiary kodowe (dokładność ok. 30 m). W geodezji w celu zwiększenia precyzji wykorzystuję się pomiary kodowe, pomiary fazowe oraz orbity precyzyjne (współrzędne satelitów z dokładnością około 0,03 m).
+
+Na podstawie pomiarów kodowych lub fazowych wyznaczane są odległości satelita - odbiornik. Tak wyznaczona odległość obarczona jest wieloma błędami pomiarowymi spowodowanymi: błędami zegara satelity, błędami zegara odbiornika, wpływem jonosfery, wpływem troposfery, efektami relatywistycznymi. Dlatego w pomiarach nawigacji satelitarnej wykorzystuje się systemy wspomagające, takie jak EGNOS lub serwisy ASG-EUPOS: NAWGEO, KODGEO, NAWGIS.
+
+Znajomość odległości do satelitów pozwala na wyznaczenie współrzędnych odbiornika poprzez rozwiązanie przestrzennego wcięcia wstecz. Należy nadmienić iż obserwacje do minimalnie 4 satelitów, pozwalają na wyznaczenie pozycji odbiornika, ponieważ w równaniach występują 4 niewiadome: współrzędne odbiornika XYZ oraz poprawka do zegara odbiornika.
+
+Rodzaje systemów nawigacji satelitarnej
+GPS
+
+Najnowocześniejszy z satelitarnych systemów nawigacyjnych, satelitarny system nawigacyjny Navstar (Navigational Satellite Time and Ranging) znany pod nazwą GPS (Global Positioning System) został zaprojektowany jako precyzyjny system określania położenia o zasięgu globalnym.
+
+GLONASS
+(Global Navigation Satellite System) jest rosyjskim odpowiednikiem GPS Navstar. Oba systemy działają na zasadzie biernego pomiaru odległości między odbiornikiem a satelitami. Metoda pomiaru i działanie systemu są podobne.
+
+GALILEO
+W 2002 UE wraz z Europejską Agencja Kosmiczną zdecydowały się na wprowadzenie alternatywy dla GPS, nazwanej systemem Galileo. System ma się składać z 30 satelitów (27 operujących i trzech w rezerwie) znajdujących się na trzech kołowych orbitach. W Europie mają powstać dwa centra kontrolujące pracę satelitów
+
+Beidou
+Chiński system nawigacji satelitarnej, który w chwili uruchomienia będzie obejmował swym zasięgiem tylko region Chin i państw sąsiadujących. Do końca 2020 roku planowane jest wystrzelenie 35 satelitów. Odbiorcom komercyjnym zapewni badanie położenia z dokładnością do 10 metrów oraz szybkości z precyzją do 0,2 metra na sekundę.
+
+DORIS
+(Doppler Orbitography and Radio-positioning Integrated by Satellite), to system nawigacyjny stworzony przez Francję.
+
+GNSS
+W fazie projektów i wstępnych realizacji jest stworzenie ogólnoświatowego cywilnego systemu nawigacji, określanego jako Global Navigation Satellite System (GNSS)'''. Pierwszy etap tworzenia wspólnego systemu jest określany jako GNSS-1'''. Koncepcja systemu zakłada eliminację typowych niedomagań GPS poprzez zwielokrotnienie źródeł informacji pozycyjnej, zapewnienie nieprzerwanego dopływu danych korekcyjnych oraz możliwość stałego monitoringu jakości danych pozycyjnych. GNSS-1 bazuje na istniejących segmentach orbitalnych GPS Navstar i rosyjskiego systemu GLONASS. Rozwinięciem GNSS-1''' ma być GNSS-2'''. Konstelacja satelitów nawigacyjnych będzie obejmować satelity GPS Navstar typu II F, GLONASS M i nowe satelity europejskie o roboczej nazwie Galileo.
+
+Zastosowanie nawigacji satelitarnej
+Oprócz zastosowań militarnych, system nawigacji satelitarnej jest obecnie spotkany w bardzo wielu różnych dziedzinach gospodarczych m.in. w:
+
+Ratownictwie. Nadajniki określające pozycję, pozwalają na szybką lokalizację zaginionych pojazdów, samolotów, statków oraz osób.
+
+Transporcie zarówno morskim, drogowym, lotniczym jak i kolejowym. Nawigacja satelitarna ma zastosowanie w automatycznej identyfikacji poruszających się obiektów, do sterowania ich trasami i ostrzegania o potencjalnych zagrożeniach.
+
+Nawigacji osobistej, zaczynając od pomocy w identyfikacji nieznanego terenu i dostarczaniu o nim adekwatnych informacji, poprzez nadzór nad pracownikami podczas pracy w sytuacjach zagrożenia, aż do szeroko rozumianej rekreacji.
+
+Administracji publicznej np. w finansach, bankowości. Systemy nawigacji satelitarnej ze swymi certyfikowanymi znacznikami czasu będą mogły zapewnić autentyczność i bezpieczeństwo elektronicznego systemu przesyłania danych. Prawdopodobieństwo nadużyć ulegnie zmniejszeniu, a wszelkie transakcje będą archiwizowane w jednorodnym i godnym zaufania systemie czasu.
+
+Geodezji, do określania położenia nadajnika z dokładnością sięgającą kilku milimetrów dzięki zastosowaniu pomiaru różnicowego i pomiaru faz fali nośnych, na których kody są modulowane.
+
+Linki zewnętrzne

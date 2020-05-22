@@ -1,0 +1,53 @@
+
+Pierwotnie nazywany R-bar pitch maneuver (RPM)''', następnie Rendezvous Pitch Maneuver (RPM)''', także nazywany Rotational Pitch Maneuver (RPM)''', czyli salto w tył, ang. backflip, które wykonywał prom kosmiczny mocą silniczków Reaction Control System (RCS), przed przycumowaniem do Międzynarodowej Stacji Kosmicznej (ISS), w celu zaprezentowania osłony termicznej wahadłowca astronautom fotografującym ją z pokładu stacji kosmicznej. Podczas gdy prom kosmiczny był oddalony od stacji o 180 metrów, obracał się w tył, o 360° w płaszczyźnie pionowej, aby umożliwić wykonanie zdjęć cyfrowych osłony termicznej, w celu udokumentowania jej stanu technicznego
+.
+
+Bazując na informacjach zebranych podczas RPM, zespół kontroli misji mógł podjąć decyzję o gotowości, lub nie, do wejścia w atmosferę. Mogli oni również podjąć decyzję na oczekiwanie w ISS na misję ratowniczą lub próbować EVA do naprawienia osłony termicznej umożliwiającego bezpieczne wejście promu w atmosferę. Te działania stały się standardem dla wszystkich wahadłowców dokujących do ISS po katastrofie promu Columbia, spowodowanej przez uszkodzoną osłonę termiczną. Po raz pierwszy manewr RPM wykonano w misji STS-114. Manewr RPM trwał dziewięć minut, półtora minuty podczas manewru było przeznaczone na fotografowanie osłony termicznej promu. Zdjęcia były wykonywane aparatami cyfrowymi z matrycami o wysokiej rozdzielczości i z długoogniskowymi obiektywami o ogniskowej długości 400 mm, 800 mm, 1000mm. Manewr (RPM) wymagał od dowódcy statku wysokich kwalifikacji pilotażowych w sterowaniu wahadłowców, ze względu na to, iż manewr był wykonywany w pobliżu stacji kosmicznej, nie zawsze pozostającej w pełnym widoku
+
+.
+
+Galeria Rendezvous Pitch Maneuver
+
+Plik:STS-129 Rendezvous Pitch Maneuver Station Photographers.jpg|Astronauci Jeffrey Williams i Nicole Stott, obydwaj z ekspedycji 21, z Modułu Sewisowego Zwiezda, fotografują prom Atlantis podczas RPM  
+Plik:STS-130 Endeavour Rendezvous Pitch Maneuver aft portion.jpg| Tylna część wahadłowca Endeavour sfotografowana przez załogę ekspedycji 22, podczas RPM w STS-130
+Plik:STS-130 Endeavour Rendezvous Pitch Maneuver.jpg|Zdjęcie to wykonano podczas STS-130 i Ekspedycji 22 w czasie RPM 
+Plik:STS 134 Endeavour's Rendezvous Pitch Maneuver.jpeg|Zdjęcie wykonali członkowie załogi Ekspedycji 27 podczas RPM w STS-134
+
+
+Dokowanie promu do ISS
+
+
+
+Układ współrzędnych (na rysunku z lewej strony) przedstawia współrzędną  R-bar łączącą środek Ziemi, z ISS (na wykresie oznaczony jako TARGET), plusem skierowaną do środka ziemi. Współrzędna V-bar jest styczną do orbity ISS,  dodatnią w kierunku jej obrotu i prostopadłą do współrzędnej R-bar. Po zakończeniu manewru RPM (punkt 1 na układzie współrzędnych), wahadłowiec wykonywał zmianę kąta pochylenia o 90° podnosząc dziób do góry w tempie 0,1° na sekundę. Jednocześnie silniczki systemu RCS ustawiały wahadłowiec tak, aby w momencie kiedy będzie skierowany ogonem w kierunku Ziemi, otwarta skrzynia ładunkowa wskazywała wyznaczony   (punkt 2), a prędkość wznoszenia zmniejszyła się do zera. Port dokowania promu  znajdował się we wnęce ładunkowej promu. Jeżeli założymy, że przód ISS to strona zwrócona w kierunku poruszania się w ruchu orbitalnym, to tak ustawiony prom (punkt 2) znajdował z przodu ISS. W tym miejscu znajdował się początek etapu, w którym wahadłowiec poruszał się według osi V-bar. Na początku trasy promu według osi V-bar prędkość wahadłowca w ruchu orbitalnym początkowo nieznacznie malała (hamowanie silnikami RCS), co rozpoczynało zbliżanie się wahadłowca do portu dokowania ISS. W ostatniej fazie dokowania, prędkość wahadłowca względem ISS stopniowo malała tak, aby w momencie spotkania równała się zeru (była zbliżona do zera).
+
+Dokowanie było można realizować w trybie manualnym i automatycznym. Okna promu umieszczone na pokładzie tylnym () ułatwiały sterowanie promem podczas dokowania ręcznego. W misji STS-128, wystrzelonej 28 sierpnia 2009 roku, odbyło się inauguracyjne użycie  systemu nawigacyjnego do dokowania nowej generacji o nazwie . W urządzeniu tym użyto skanera 3D i kamerę termograficzną. Zasada działania TriDAR-u nie opierała się na zastosowaniu znaczników, czujników i punktów umownych, lecz śledziła ISS na podstawie jej kształtu przestrzennego i termograficznego zapisanego w pamięci programu urządzenia.
+
+Galeria dokowania promu do ISS
+
+
+Plik:ISS from Endeavour before docking.jpg|ISS widziana z jednego z dwóch okien tylnego pokładu promu (w dachu kabiny), podczas gdy prom znajdował się na ścieżce dokowania V-bar
+Plik:TriDAR on STS-131 (iss023e020008).jpg|Mała skrzynka nad portem dokowania jest urządzeniem do automatycznego dokowania TriDAR,
+Plik:APAS-95 active side.jpg|APAS-95 (strona aktywna) – port dokowania promu Atlantis
+Plik:APAS-95 passive side.jpg|APAS-95 (strona pasywna) portu dokowania do ISS na hermetycznym module cumowania PMA-2
+Plik:Space Shuttle docked to station - cropped and rotated.jpg|Wahadłowiec Discovery, przycumowany do laboratorium Destiny na ISS
+Plik:STS 134 Endeavour Docked.jpg|Wahadłowiec Endeavour przycumowany do ISS podczas STS-134
+
+
+
+
+Zobacz też
+Lądowanie wahadłowca
+Nosiciel wahadłowców
+System manewrowania orbitalnego
+
+
+
+
+Bibliografia
+[dostęp 27-10-2011]
+[dostęp 27-10-2011]
+[dostęp 17-10-2011]
+[dostęp 17-10-2011]
+[dostęp 27-10-2011]
+
+Linki zewnętrzne

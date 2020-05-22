@@ -1,0 +1,249 @@
+
+Podatek akcyzowy w Polsce (akcyza w Polsce) – podatek pośredni, który reguluje ustawa o podatku akcyzowym (). W Polsce opodatkowaniem akcyzą podlegają: wyroby energetyczne i energia elektryczna, inne wyroby ropopochodne, napoje alkoholowe oraz alkohol etylowy, wyroby tytoniowe, samochody osobowe. Pod względem wpływów do budżetu jest drugim co do wielkości podatkiem.
+
+Podmiot opodatkowania
+Podatnikiem akcyzy jest osoba fizyczna, osoba prawna oraz jednostka organizacyjna niemająca osobowości prawnej, która dokonuje czynności podlegających opodatkowaniu akcyzą lub wobec której zaistniał stan faktyczny podlegający opodatkowaniu akcyzą, w tym podmiot:
+nabywający lub posiadający wyroby akcyzowe znajdujące się poza procedurą zawieszenia poboru akcyzy, jeżeli od wyrobów tych nie została zapłacona akcyza w należnej wysokości, a w wyniku kontroli podatkowej, postępowania kontrolnego albo postępowania podatkowego nie ustalono, że podatek został zapłacony;
+będący nabywcą końcowym zużywającym energię elektryczną, jeżeli od tej energii nie została zapłacona akcyza w należnej wysokości i nie można ustalić podmiotu, który dokonał sprzedaży tej energii elektrycznej nabywcy końcowemu;
+u którego powstają ubytki wyrobów akcyzowych lub doszło do całkowitego zniszczenia wyrobów akcyzowych, o których mowa w art. 2 ust. 1 pkt 20, również gdy nie jest właścicielem tych wyrobów akcyzowych;
+będący przedstawicielem podatkowym;
+będący zarejestrowanym odbiorcą, z wyłączeniem zarejestrowanego odbiorcy posiadającego zezwolenie na jednorazowe nabycie wyrobów akcyzowych jako zarejestrowany odbiorca – z tytułu nabycia wewnątrzwspólnotowego wyrobów akcyzowych na rzecz innego podmiotu;
+będący zarejestrowanym wysyłającym, jeżeli wysyła z zastosowaniem procedury zawieszenia poboru akcyzy wyroby akcyzowe z miejsca importu;
+dokonujący użycia lub sprzedaży wyrobów węglowych, które uzyskał w drodze czynu zabronionego pod groźbą kary.
+
+Podatnikiem jest również podmiot niebędący importerem, jeżeli ciąży na nim obowiązek uiszczenia cła.
+
+Podatnikiem z tytułu wyprowadzenia ze składu podatkowego, poza procedurą zawieszenia poboru akcyzy, wyrobów akcyzowych niebędących własnością podmiotu prowadzącego ten skład podatkowy jest podmiot będący właścicielem tych wyrobów, który uzyskał od właściwego naczelnika urzędu celnego zezwolenie, o którym mowa w art. 54 ust. 1.
+
+Jeżeli obowiązek podatkowy ciąży na kilku podatnikach z tytułu dokonania czynności lub zaistnienia stanu faktycznego, o których mowa w art. 8 ust. 1 pkt 3 oraz ust. 2, 3 i 5, których przedmiotem są te same wyroby akcyzowe, zapłata akcyzy związanej z tymi wyrobami przez jednego z tych podatników powoduje wygaśnięcie zobowiązania podatkowego pozostałych podatników
+
+Podatnikiem w przypadku nabycia wewnątrzwspólnotowego energii elektrycznej przez nabywcę końcowego od podmiotu zagranicznego niemającego siedziby, miejsca zamieszkania lub stałego miejsca prowadzenia działalności na terytorium kraju, jest podmiot reprezentujący wyznaczony przez podmiot zagraniczny.
+
+W przypadku niewyznaczenia podmiotu reprezentującego, odmowy przyjęcia zgłoszenia rejestracyjnego podmiotu reprezentującego przez właściwego naczelnika urzędu celnego lub nieprzesłania w terminie przez nabywcę końcowego podmiotowi reprezentującemu kopii faktury, o której mowa w art. 24 ust. 1 pkt 1, podatnikiem jest nabywca końcowy, który dokonał nabycia wewnątrzwspólnotowego energii elektrycznej.
+
+Przedmiot opodatkowania
+Zgodnie z art 8. przedmiotem opodatkowania podatkiem akcyzowym jest:
+produkcja wyrobów akcyzowych;
+wprowadzenie wyrobów akcyzowych do składu podatkowego;
+import wyrobów akcyzowych, z wyłączeniem importu wyrobów akcyzowych wysłanych następnie z zastosowaniem procedury zawieszenia poboru akcyzy z miejsca importu przez zarejestrowanego wysyłającego niebędącego importerem tych wyrobów;
+nabycie wewnątrzwspólnotowe wyrobów akcyzowych, z wyłączeniem nabycia wewnątrzwspólnotowego dokonywanego do składu podatkowego;
+wyprowadzenie ze składu podatkowego, poza procedurą zawieszenia poboru akcyzy, wyrobów akcyzowych niebędących własnością podmiotu prowadzącego ten skład podatkowy, z wyłączeniem wyrobów akcyzowych objętych zwolnieniem od akcyzy ze względu na ich przeznaczenie, przez podmiot, o którym mowa w art. 13 ust. 3;
+wysłanie z zastosowaniem procedury zawieszenia poboru akcyzy importowanych wyrobów akcyzowych z miejsca importu przez zarejestrowanego wysyłającego niebędącego importerem tych wyrobów;
+użycie wyrobów akcyzowych objętych zwolnieniem od akcyzy ze względu na ich przeznaczenie albo określoną stawką akcyzy związaną z ich przeznaczeniem, jeżeli ich użycie było niezgodne z przeznaczeniem uprawniającym do zwolnienia lub nastąpiło bez zachowania warunków zwolnienia.
+dostarczenie wyrobów akcyzowych objętych zwolnieniem od akcyzy ze względu na ich przeznaczenie, jeżeli odbyło się ono bez zachowania warunków uprawniających do zastosowania zwolnienia od akcyzy;
+sprzedaż wyrobów akcyzowych znajdujących się poza procedurą zawieszenia poboru akcyzy, objętych określoną stawką akcyzy związaną z ich przeznaczeniem, jeżeli ich sprzedaż odbyła się bez zachowania warunków uprawniających do zastosowania tej stawki akcyzy;
+nabycie lub posiadanie wyrobów akcyzowych znajdujących się poza procedurą zawieszenia poboru akcyzy, jeżeli od tych wyrobów nie została zapłacona akcyza w należnej wysokości, a w wyniku kontroli podatkowej, postępowania kontrolnego albo postępowania podatkowego nie ustalono, że podatek został zapłacony.
+
+Przedmiot opodatkowania w przypadku energii elektrycznej
+Zgodnie z art. 9. W przypadku energii elektrycznej przedmiotem opodatkowania akcyzą jest:
+nabycie wewnątrzwspólnotowe energii elektrycznej przez nabywcę końcowego;
+sprzedaż energii elektrycznej nabywcy końcowemu na terytorium kraju, w tym przez podmiot nieposiadający koncesji na wytwarzanie, przesyłanie, dystrybucję lub obrót energią elektryczną w rozumieniu przepisów ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, który wyprodukował tę energię;
+zużycie energii elektrycznej przez podmiot posiadający koncesję, o której mowa w pkt 2;
+zużycie energii elektrycznej przez podmiot nieposiadający koncesji, o której mowa w pkt 2, który wyprodukował tę energię;
+import energii elektrycznej przez nabywcę końcowego;
+zużycie energii elektrycznej przez nabywcę końcowego, jeżeli nie została od niej zapłacona akcyza w należnej wysokości i nie można ustalić podmiotu, który dokonał sprzedaży tej energii elektrycznej nabywcy końcowemu.
+
+Przedmiot opodatkowania w przypadku wyrobów węglowych
+W przypadku wyrobów węglowych przedmiotem opodatkowania akcyzą jest:
+sprzedaż wyrobów węglowych na terytorium kraju;
+nabycie wewnątrzwspólnotowe wyrobów węglowych;
+dostawa wewnątrzwspólnotowa wyrobów węglowych;
+import wyrobów węglowych;
+eksport wyrobów węglowych;
+użycie wyrobów węglowych do celów innych niż wskazane w art. 31a ust. 2, przy czym za takie użycie uważa się naruszenie warunków zwolnienia, jak i sprzedaż, dostawę wewnątrzwspólnotową albo eksport wyrobów węglowych przez podmiot korzystający ze zwolnienia, o którym mowa w art. 3la ust. 2, niebędący pośredniczącym podmiotem węglowym, zamiast użycia go do celów zwolnionych;
+użycie lub sprzedaż wyrobów węglowych uzyskanych w drodze czynu zabronionego pod groźbą kary;
+powstanie ubytków wyrobów węglowych.
+
+Podstawa
+Wyroby energetyczne i energia elektryczna
+Podstawą opodatkowania wyrobów energetycznych jest ich ilość, wyrażona, w zależności od rodzaju wyrobów, w litrach gotowego wyrobu w temperaturze 15 °C lub w kilogramach gotowego wyrobu, albo wartość opałowa, wyrażona w gigadżulach (GJ). Podstawą opodatkowania energii elektrycznej jest jej ilość, wyrażona w megawatogodzinach (MWh).
+
+Napoje alkoholowe
+Do napojów alkoholowych w rozumieniu ustawy zalicza się alkohol etylowy, piwo, wino, napoje fermentowane oraz wyroby pośrednie.
+Podstawą opodatkowania alkoholu etylowego jest liczba hektolitrów alkoholu etylowego 100% vol. w temperaturze 20 °C zawartego w gotowym wyrobie. W przypadku pozostałych napojów podstawą jest ilość hektolitrów niezależnie od zawartości czystego alkoholu etylowego.
+
+Wyroby tytoniowe
+Podstawą opodatkowania wyrobów tytoniowych jest 1000 sztuk, a w przypadku pozostałych wyrobów tytoniowych – kilogram liści tytoniu zużytych do produkcji danego wyrobu.
+
+Samochody osobowe
+Podstawą opodatkowania samochodów osobowych jest cena zakupu, bądź wartość celna samochodu sprowadzonego importowanego bądź nabytego wewnątrzwspólnotowo. W przypadku samochódów specjalistycznych cena jest pomniejszona o koszt przebudowy analogicznego samochodu do wykonywania takich samych zadań jak przebudowany.
+
+Stawki
+Wyroby energetyczne i energia elektryczna
+Stawki podatku na wyroby energetyczne wynoszą:
+węgiel i koks przeznaczony do celów opałowych objętych pozycjami CN 2701, 2702 oraz 2704 00 – 1,28 zł/1 gigadżul (GJ);
+benzyna silnikowa o kodach CN 2710 11 45 lub 2710 11 49 oraz wyroby powstałe ze zmieszania tych benzyn z biokomponentami, spełniających wymagania jakościowe określone w odrębnych przepisach – 1565,00 zł/1 000 litrów;
+benzyna lotnicza o kodzie CN 2710 11 31, paliwa typu benzyny do silników odrzutowych o kodzie CN 2710 11 70 oraz nafta pozostała o kodzie CN 2710 19 25 – 1822,00 zł/1000 litrów;
+paliwa do silników odrzutowych o kodzie CN 2710 19 21 – 1446,00 zł/1000 litrów;
+oleje napędowe o kodzie CN 2710 19 41 oraz wyroby powstałych ze zmieszania tych olejów z biokomponentami, spełniających wymagania jakościowe określone w odrębnych przepisach – 1196,00 zł/1000 litrów;
+biokomponenty stanowiących samoistne paliwa, spełniających wymagania jakościowe określone w odrębnych przepisach, przeznaczonych do napędu silników spalinowych, bez względu na kod CN – 1196,00 zł/1000 litrów;
+oleje napędowe przeznaczone do celów opałowych o kodach CN od 2710 19 41 do 2710 19 49, zabarwione na czerwono i oznaczone znacznikiem zgodnie z przepisami szczególnymi – 232,00 zł/1000 litrów;
+oleje opałowe o kodach CN od 2710 19 51 do 2710 19 69:
+z których 30% lub więcej objętościowo destyluje przy 350 °C lub których gęstość w temperaturze 15 °C jest niższa niż 890 kilogramów/metr sześcienny, zabarwionych na czerwono i oznaczonych znacznikiem zgodnie z przepisami szczególnymi – 232,00 zł/1000 litrów,
+pozostałe, niepodlegających obowiązkowi barwienia i znakowania na podstawie przepisów szczególnych – 64,00 zł/1 000 kilogramów;
+oleje smarowe, pozostałe oleje o kodach CN od 2710 19 71 do 2710 19 99, z wyłączeniem wyrobów o kodzie CN 2710 19 85 (oleje białe, parafina ciekła) oraz smarów plastycznych zaliczanych do kodu CN 2710 19 99 – 1 180,00 zł/1 000 litrów;
+gaz przeznaczonych do napędu silników spalinowych:
+gaz ziemny (mokry) i pozostałe węglowodory gazowe objęte pozycją CN 2711 oraz gazowe węglowodoru alifatyczne objęte pozycją CN 2901:
+skroplone – 695,00 zł/1 000 kilogramów,
+w stanie gazowym – 11,04 zł/1 gigadżul (GJ),
+wyprodukowanych w składzie podatkowym i spełniających wymagania jakościowe określone w odrębnych przepisach:
+biogazu, bez względu na kod CN – 0 zł,
+wodoru i biowodoru o kodzie CN 2804 10 00 – 0 zł;
+gaz ziemny (mokry) i pozostałe węglowodory gazowe objęte pozycją CN 2711, przeznaczone do celów opałowych – 1,28 zł/1 gigadżul (GJ);
+pozostałe paliwa silnikowe –1822,00 zł/1000 litrów;
+pozostałe paliwa opałowe:
+w przypadku gdy ich gęstość w temperaturze 15 °C jest:
+– niższa niż 890 kilogramów/metr sześcienny – 232,00 zł/1 000 litrów,
+– równa lub wyższa niż 890 kilogramów/metr sześcienny – 64,00 zł/1 000 kilogramów,
+gazowych – 1,28 zł/gigadżul (GJ).
+
+Stawka akcyzy na wyroby energetyczne inne niż określone wyżej, przeznaczone do celów innych niż opałowe, jako dodatki lub domieszki do paliw opałowych, do napędu silników spalinowych albo jako dodatki lub domieszki do paliw silnikowych, wynosi 0 zł.
+
+Stawka akcyzy na energię elektryczną wynosi 20,00 zł za megawatogodzinę (MWh).
+
+Napoje alkoholowe
+Akcyza na alkohol i napoje alkoholowe wynosi:
+Alkohol etylowy (spirytus, wódka) – 5704,00 zł od 1 hektolitra alkoholu etylowego 100% vol. zawartego w gotowym wyrobie. Stawka ta obowiązuje od 01.01.2014 roku. Do 31.12.2013 stawka wynosiła 4960zł. 
+Piwo – 7,79 zł od 1 hektolitra za każdy stopień Plato gotowego wyrobu.
+Wino – 158,00 zł od 1 hektolitra gotowego wyrobu; w przypadku kiedy wino zostało dodatkowo destylowane – jest uznawane za wyrób pośredni.
+Napoje fermentowane – 158,00 zł od 1 hektolitra gotowego wyrobu.
+Wyroby pośrednie – 318,00 zł od 1 hektolitra gotowego wyrobu.
+
+Wyroby tytoniowe
+Stawka akcyzy na wyroby tytoniowe wynosi
+Papierosy – 170,97 zł za każde 1000 sztuk i 31,41% maksymalnej ceny detalicznej;
+Tytoń do palenia – 115,86 zł za każdy kilogram i 31,41% maksymalnej ceny detalicznej;
+Cygara i cygaretki – 254,20 zł za każde 1000 sztuk.
+Na wyroby nie mające określonej ceny maksymalnej
+Papierosy – 312,00 zł za każde 1000 sztuk;
+Tytoń do palenia – 208,00 zł za każdy kilogram.
+
+Samochody osobowe
+Stawka akcyzy na samochody osobowe wynosi:
+18,6% podstawy opodatkowania – dla samochodów osobowych o pojemności silnika powyżej 2000 centymetrów sześciennych;
+3,1% podstawy opodatkowania – dla pozostałych samochodów osobowych.
+
+Zwolnienia, ulgi i wyłączenia
+Zwolnienia ogólne
+Zgodnie z art 4. ulgi i zwolnienia podatkowe udzielone na podstawie odrębnych przepisów nie mają zastosowania do akcyzy. Zwolnienie z podatku akcyzowego następuje jeżeli w stosunku do wyrobu akcyzowego powstał obowiązek podatkowy w związku z wykonaniem jednej z czynności, o których mowa w ust. 1, jeżeli kwota akcyzy została, po zakończeniu procedury zawieszenia poboru akcyzy, określona lub zadeklarowana w należnej wysokości, chyba że przepisy ustawy stanowią inaczej.
+
+Ponadto zwolnione są wszystkie podmioty przeznaczające wyroby akcyzowe do konsumpcji zgodnie z umową zawartą z państwami trzecimi lub organizacjami międzynarodowymi, pod warunkiem że wyroby te są zwolnione od podatku od towarów i usług.
+
+W przypadku dostaw wewnątrzwspólnotowych podatek akcyzowy jest nakładany tylko raz przez państwo, z którego pochodzi pochodzi pierwszy dostawca. W przypadku kiedy produkt jest objęty zwolnieniem przedmiotowym w kraju dostawcy, akcyza jest nakładana na odbiorcę przez kraj, w którym jest zarejestrowany odbiorca.
+
+Zwolnienia podmiotowe
+Zgodnie z artykułem 31. z podatku akcyzowego zwolnione jest zużycie wyrobów akcyzowych przez:
+Placówki dyplomatyczne i konsularne w ramach stosunków dyplomatycznych lub konsularnych, w odniesieniu do osób, które nie są obywatelami polskimi i nie mają stałego miejsca pobytu na terytorium kraju.
+Instytucje Unii Europejskiej
+Siły zbrojne innych państw Unii Europejskiej oraz państw NATO nie będących członkami Unii Europejskiej. Siły Zbrojne Rzeczypospolitej Polskiej nie podlegają zwolnieniu podmiotowemu.
+Organizacje międzynarodowe uznawane przez właściwe organy na terytorium kraju oraz członków takich organizacji, w granicach i na warunkach określonych w konwencjach międzynarodowych ustanawiających takie organizacje lub w umowach w sprawie ich siedzib.
+
+Zwolnienia przedmiotowe
+Zwolnienia produkcji energii elektrycznej
+Zgodnie z artykułem 30. z podatku akcyzowego zwolniona jest produkcja energii elektrycznej w przypadku:
+Wytwarzania energii elektrycznej ze źródeł odnawialnych. Na podstawie świadectwa pochodzenia energii.
+Zużycie energii elektrycznej w skojarzonym procesie produkcji energii oraz w procesach podtrzymywania produkcji energii elektrycznej.
+Wytwarzanie energii elektryczne na potrzeby własne statków, w tym kutrów rybackich.
+
+Zwolnienie produkcji i przetwórstwa alkoholu etylowego
+Zgodnie z artykułem 30. z podatku akcyzowego zwolniona jest produkcja i przetwarzanie alkoholu etylowego w przypadku:
+Alkoholu całkowicie skażonego, importowanego, nabywanego wewnątrzwspólnotowo albo produkowanego na terytorium kraju, wskazanym przez dowolne państwo członkowskie Unii Europejskiej, środkami dopuszczonymi do skażania alkoholu etylowego na podstawie rozporządzenia Komisji (WE) nr 3199/93 z dnia 22 listopada 1993 r. w sprawie wzajemnego uznawania procedur całkowitego skażenia alkoholu etylowego do celów zwolnienia z podatku akcyzowego, w tym zawarty w wyrobach nieprzeznaczonych do spożycia przez ludzi
+Zawartego w nabywanych wewnątrzwspólnotowo wyrobach nieprzeznaczonych do spożycia przez ludzi, skażonych środkami skażającymi dopuszczonymi przez państwo członkowskie Unii Europejskiej pochodzenia wyrobu;
+Zawartego w importowanych wyrobach nieprzeznaczonych do spożycia przez ludzi, skażony środkami skażającymi, o których mowa w art. 32 ust. 4 pkt 2;
+Zawartego w produktach leczniczych w rozumieniu przepisów ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm. 5));
+Zawartego w olejkach eterycznych lub mieszaninach substancji zapachowych, stosowanych do wytwarzania artykułów spożywczych i napojów bezalkoholowych o rzeczywistej objętościowej mocy alkoholu nieprzekraczającej 1,2% objętości;
+Zawartego w artykułach spożywczych lub półproduktach, o których mowa w art. 32 ust. 4 pkt 3 lit. d.
+
+Zwolnienie przetwórstwa i obrotu węglem oraz wyrobami węglowymi
+Zgodnie z artykułem 31a. z podatku akcyzowego zwolnione są przetwórstwo i obrót węglem oraz wyrobami węglowymi w przypadku:
+Obrotu z podmiotami korzystającymi ze zwolnień podmiotowych.
+Zużycia węgla w procesie produkcji energii elektrycznej.
+Zużycia węgla przez: gospodarstwa domowe, organy administracji publicznej, jednostki Sił Zbrojnych Rzeczypospolitej Polskiej, podmioty systemu oświaty, żłobki i kluby dziecięce, podmioty lecznicze, jednostki organizacyjne pomocy społecznej, organizacje pożytku publicznego.
+Przewozu towarów i pasażerów koleją.
+Prac rolniczych, ogrodniczych, w hodowli ryb, oraz w leśnictwie
+Procesów mineralogicznych, elektrolitycznych i metalurgicznych oraz do redukcji chemicznej.
+Celów opałowych przez zakłady energochłonne.
+Zużycia przez podmioty gospodarcze, w których wprowadzone zostały w życie systemy prowadzące do osiągania celów dotyczących ochrony środowiska lub do podwyższenia efektywności energetycznej.
+
+Warunkiem zwolnienia w większości przypadków jest zgłoszenie oraz prowadzenie ewidencji zużycia środków. Z prowadzenia ewidencji zwolnione zostały gospodarstwa domowe, organy administracji publicznej, jednostki Sił Zbrojnych Rzeczypospolitej Polskiej, podmioty systemu oświaty, żłobki i kluby dziecięce, podmioty lecznicze, jednostki organizacyjne pomocy społecznej, organizacje pożytku publicznego.
+
+Zwolnienie przetwórstwa i obrotu paliwami i innymi substancjami ropopochodnymi
+Zgodnie z artykułem 32. z podatku akcyzowego zwolnione są przetwórstwo i obrót paliwami i innymi substancjami w przypadku:
+Używania do napędzania statków powietrznych;
+Używania do celów żeglugi, włączając rejsy rybackie;
+Używania do celów opałowych pozostałych węglowodory gazowe o kodach CN od 2711 12 11 do 2711 19 00;
+Prowadzenia prób zdawczych u producentów silników dla morskich jednostek pływających;
+Zużycia wyrobów ropopochodnych do produkcji energii elektrycznej;
+Artykuł 35. zwalnia z podatku akcyzowego również import paliw w zbiornikach pojazdów silnikowych w ilości nieprzekraczającej 600 litrów na pojazd oraz statkach i samolotach nie zależnie od ilości. Ten sam artykuł zwalnia także z podatku akcyzowego import smarów niezbędnych do eksploatacji pojazdów.
+
+Zwolnienia związane z ubytkami produktów akcyzowych
+Zgodnie z artykułem 30. z podatku akcyzowego w przypadku całkowitego bądź częściowego uszkodzenia bądź ubytku wyrobów akcyzowych w taki sposób, że nie możliwe jest zużycie tych towarów następuje zwolnienie z podatku. Wyjątkiem jest sytuacja, w której zniszczenie lub ubytek nastąpiły w wyniku popełnienia przestępstwa przeciwko mieniu.
+
+Zwolnienia specjalne
+Odpowiedni minister można na drodze rozporządzenia dokonać zwolnienia od akcyzy w przypadku, gdy:
+Uzasadnia to ważny interes związany z bezpieczeństwem publicznym, obronnością państwa, bezpieczeństwem paliwowym państwa lub ochroną środowiska;
+Wynika to z przepisów prawa Unii Europejskiej lub umów międzynarodowych;
+Wynika to z konieczności uniknięcia wielokrotnego opodatkowania wyrobów akcyzowych;
+Na podstawie przepisów prawa celnego wyroby akcyzowe są zwolnione od należności celnych przywozowych;
+Zwolnienie to może być całkowite lub częściowe.
+
+Rozliczenie
+Organ podatkowy
+Organami podatkowymi właściwymi w zakresie akcyzy są naczelnik urzędu celnego i dyrektor izby celnej.
+
+Zadania w zakresie akcyzy na terytorium kraju wykonują odpowiednio naczelnicy urzędów celnych i dyrektorzy izb celnych wyznaczeni przez ministra właściwego do spraw finansów publicznych.
+
+Właściwość miejscową naczelnika urzędu celnego i dyrektora izby celnej ustala się ze względu na miejsce wykonania czynności lub wystąpienia stanu faktycznego, podlegających opodatkowaniu akcyzą. Jeżeli nie można ustalić właściwości, właściwym organem podatkowym jest Naczelnik Urzędu Celnego I w Warszawie i Dyrektor Izby Celnej w Warszawie.
+
+Rejestracja
+Podmiot prowadzący działalność gospodarczą jest obowiązany, przed dniem wykonania pierwszej czynności podlegającej opodatkowaniu akcyzą lub pierwszej czynności z wykorzystaniem wyrobów akcyzowych objętych zwolnieniem od akcyzy ze względu na ich przeznaczenie, złożyć zgłoszenie rejestracyjne właściwemu naczelnikowi urzędu celnego. Właściwy naczelnik urzędu celnego, bez zbędnej zwłoki, nie później niż w ciągu 7 dni od dnia przyjęcia zgłoszenia rejestracyjnego, pisemnie potwierdza jego przyjęcie.
+
+Jeżeli podmiot zaprzestał wykonywania czynności, jest obowiązany w terminie 7 dni złożyć zgłoszenie o zaprzestaniu wykonywania tych czynności właściwemu naczelnikowi urzędu celnego.
+
+Deklaracja
+Rozliczenie podatku wykonuje się na podstawie deklaracji podatnika. Podatnik jest zobowiązany do składania miesięcznych deklaracji najpóźniej do 25 następnego miesiąca. Ze składania deklaracji są zwolnione podmioty zwolnione z podatku akcyzowego na podstawie odrębnych przepisów i wyłączeń z wyjątkiem zwolnień częściowych.
+
+Zarejestrowani odbiorcy, którzy mają okazjonalne obroty towarami akcyzowymi rozliczają się z podatku akcyzowego za pomocą deklaracji dziennych. Wpłata dzienna musi nastąpić nie później niż 25 dni po powstaniu obowiązku podatkowego.
+
+Zobowiązanie podatkowe przyjmuje się w wysokości wynikającej z deklaracji podatkowej lub z deklaracji uproszczonej, chyba że organ podatkowy lub organ kontroli skarbowej określi inną wysokość tego zobowiązania.
+
+Skład podatkowy
+Naliczenie podatku akcyzowego odbywa się w składzie podatkowym. Składem podatkowym jest nazywana każde przedsiębiorstwo produkujące bądź przetwarzające wyroby akcyzowe. Zwolnieniem z obowiązku posiadania składu podatkowego są objęte podmioty produkujące wyroby akcyzowe w małych ilościach, tj.:
+Mniej niż 1000 hektolitrów rocznie wina,
+Piwa, wina i napojów fermentowanych, wytwarzanych domowym sposobem przez osoby fizyczne na własny użytek i nieprzeznaczonych do sprzedaży
+Mniej niż 10 hektolitrów w ciągu roku kalendarzowego, alkoholu etylowego, dokonywanej przez gorzelnie prawnie i ekonomicznie niezależne od wszelakich innych gorzelni oraz niedziałające na podstawie licencji uzyskanej od innego podmiotu
+
+Ponadto z obowiązku prowadzenia składu są zwolnieni, niezależnie od wielkości produkcji, producenci energii elektrycznej, kopalnie węgla oraz producenci przetwarzający wyroby akcyzowe, od których została zapłacona przedpłata akcyzy.
+
+Oprócz tego składy podatkowe muszą prowadzić podmioty zajmujące się magazynowaniem lub przeładunkiem towarów akcyzowych, gdyż magazynowanie i przeładunek, z wyjątkiem sytuacji losowych, może odbywać się wyłącznie w składzie podatkowym.
+
+Zezwolenie na prowadzenie składu podatkowego wydaje właściwy naczelnik urzędu celnego na pisemny wniosek podmiotu. Zezwolenie może być wydane na czas nieokreślony lub określony.
+
+Wpływ do budżetu
+Wpływy z podatku akcyzowego w 2010 wyniosły 55&nbsp;684&nbsp;476 tysięcy złotych (ok. 4,50% budżetu). W 2011 wzrosły do 58&nbsp;700&nbsp;000 tysięcy (ok. 4,80% budżetu). Podatek dochodowy ma drugi udział w budżecie, większe wpływy są tylko z podatku od towarów i usług (VAT). W latach 90. oraz na początku XXI wieku (tj. przed wejściem do Unii Europejskiej) wpływy z akcyzy stanowi od 14,3% (w 1994) do 24,3% (w 2004) wpływów do budżetu. Jednakże z drugiej strony do 1999 stanowiły trzecią co do wielkości pozycję w budżecie po podatku od towarów i usług i podatku dochodowym od osób fizycznych.
+
+Historia
+Zabory
+Królestwo Polskie będące w unii z Imperium Rosyjskim było pod względem skarbowym integralną częścią Rosji. Kwestia dochodów uzyskiwanych z podatków pobieranych w Polsce w budżecie Imperium jest dyskusyjna. Niezależnie jednak od metody badawczej obciążenia podatkowe w Królestwie były wyższe niż w innych prowincjach. Podatki pośrednie, z których większość to akcyza (nie było jeszcze podatku VAT) stanowiły ok. 50% dochodów, natomiast w Imperium udział ten wynosił ok. 20%. Na obszarze Królestwa obłożone akcyzą były: cukier, tytoń, trunki (napoje alkoholowe), nafta i zapałki. Wyższe niż w Rosji wpływy z akcyzy były spowodowane głównie przez większą zamożność i zurbanizowanie.
+
+1918–1945
+Po pierwszych miesiącach funkcjonowania II RP system podatkowy był niespójny. W każdej z dzielnic obowiązywały stawki państw zaborczych. 10 maja 1921 sejm wprowadził ustawę o regulowaniu podatków od spożycia, zużycia, względnie produkcji na obszarze Rzeczypospolitej Polskiej. Ustawa ta nie wprowadziła jednolitych stawek, jednakże dawała to prawo Radzie Ministrów, nakazując jednak, by stawki były jednakowe. Stawki zostały uregulowane rozporządzeniem Rady Ministrów z dnia 23 października 1923. Rząd wprowadził wówczas akcyzę na wyroby spirytusowe, tytoniowe, zapałki i wyroby z drożdży.
+
+1945–1989
+W pierwszych latach po II wojnie światowej obowiązywały przepisy skarbowe przedwojenne, które były tylko aktualizowane o nowe stawki.
+
+W 1947 zostało uchwalone Prawo akcyzowe, które ustanawiało podatek akcyzowy od napojów alkoholowych, octu, kwasu węglowego, wyrobów tytoniowych, cukru, kart do gry, drożdży.
+
+1989–2004
+8 stycznia 1993 została przyjęta ustawa o podatku od towarów i usług oraz o podatku akcyzowym, która unieważniała poprzednie przepisy. Ustawa ta ustalała dwa najważniejsze podatki pośrednie: akcyzę oraz wprowadzony tą ustawą VAT, który zastąpił podatek obrotowy. Zgodnie z nowymi regulacjami podatkiem akcyzowym zostały objęte: wyroby spirytusowe oraz drożdżowe, napoje alkoholowe, paliwa oraz samochody osobowe.
+
+Po 2004
+Wskutek planowanej akcesji do Unii Europejskiej 23 stycznia 2004 zostało wprowadzone nowe prawo akcyzowe. Nowe prawo wprowadzało głównie regulacje dotyczące dostaw wewnątrzwspólnotowych.
+
+Zobacz też
+czopowe
+szelężne
+
+
+
+Linki zewnętrzne

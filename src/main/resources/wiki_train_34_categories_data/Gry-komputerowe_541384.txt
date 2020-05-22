@@ -1,0 +1,151 @@
+ – platformowa gra konsolowa, należąca do serii Sonic the Hedgehog firmy Sega, kontynuacja Sonic Adventure. Gra została wydana w czerwcu 2001 roku w celu uczczenia dziesiątych urodzin głównego bohatera gry – legendarnego, niebieskiego jeża Sonica. W grze zadebiutowały dwie nowe postaci: nietoperzyca Rouge i czarny jeż Shadow. Głównym producentem jest Yuji Naka, ówczesny szef Sonic Team, a oprawą muzyczną zajął się Jun Senoue. Największy wkład w projekt miała 12-osobowa grupa Sonic Team USA, wydzielona z głównego zespołu Sonica, która na początku 1999 przeniosła się do San Francisco. Po wydaniu Sonic Adventure w wersji International (9 września w USA) grupa pozostała w San Francisco i rozpoczęła prace nad swoim pierwszym niezależnym projektem, Sonic Adventure 2''.
+
+Powstanie i wydania
+Gra została wydana w czerwcu 2001 roku jednocześnie w Japonii, Europie oraz Stanach Zjednoczonych w celu uczczenia dziesiątych urodzin głównego bohatera gry – legendarnego, niebieskiego jeża Sonica.
+
+W grze zadebiutowały dwie nowe postaci: nietoperzyca Rouge i czarny jeż Shadow. Pozycja jest jedną z niewielu, w której istnieje możliwość wcielenia się w antagonistę serii – Doktora Eggmana (pozostałymi są Sonic Drift, Sonic R i Sonic Riders).
+
+Głównym producentem jest Yuji Naka, ówczesny szef Sonic Team, a oprawą muzyczną zajął się Jun Senoue, który także jest autorem muzyki do poprzedniej części gry. Największy wkład w projekt miała 12-osobowa grupa Sonic Team USA, wydzielona z głównego zespołu Sonica, która na początku 1999 przeniosła się do San Francisco w celu dopracowania na miejscu gry Sonic Adventure i wydania jej w wersji Sonic Adventure: International. Po wydaniu wersji International (9 września w USA) grupa pozostała w San Francisco i rozpoczęła prace nad swoim pierwszym niezależnym projektem, Sonic Adventure 2''.
+
+Dzięki wysiłkom Sonic Team USA, gra, jako jedna z nielicznych w serii, ukazała się wcześniej w Stanach Zjednoczonych niż w Japonii, a premiera europejska odbyła się równolegle z japońską. W Japonii dostępna była edycja kolekcjonerska Sonic Birthday Pack, która oprócz samej gry zawierała złotą płytę z muzyką (począwszy od Sonic 1'' aż po Sonic Adventure 2''), złotą monetę z podobizną niebieskiego jeża oraz małą książeczkę opisującą historię głównego bohatera.
+
+Opis fabuły
+W grze są do wyboru dwie strony/drużyny: Hero (bohaterska) i Dark (mroczna). W zależności od wybranej strony odkrywana fabuła zmienia się i poznajemy wydarzenia od różnych stron. Po ukończeniu obu scenariuszy dostajemy trzecią i ostatnią historię, Ostatnia historia, będącą tak naprawdę kontynuacją części mrocznej, gdyż bohaterska kończy się szczęśliwie. Gracz przemierza po kolei poziomy, posiadające różne cele i style rozgrywki, pomiędzy którymi prezentowane są wstawki filmowe posuwające akcję fabuły w przód.
+
+Bohaterska strona (Hero)
+Sonic, niebieski jeż posiadający niezwykłą szybkość, zostaje wmieszany w kradzież szmaragdu chaosu z miejskiego banku, z którego to powodu zostaje ujęty i aresztowany przez Guardian Unit of Nations (w skrócie GUN, Strażnicza Jednostka Narodów). Podczas przelotu helikopterem nad miastem Sonic uwalnia się z kajdan, odrywa fragment helikoptera w celu użycia go jako deski snowboardowej i zeskakuje z ogromnej wysokości na ulice miasta. Po ucieczce przed policyjnym pościgiem i pokonaniu oddziału wojska, dochodzi do konfrontacji Sonica z Shadowem, prawdziwym złodziejem szmaragdu. Shadow używa mocy szmaragdu w celu zastosowania Kontroli Chaosu (ang. Chaos Control) i ucieczki przed niebieskim jeżem. Sonic zostaje ponownie złapany i umieszczony w odizolowanym wojskowym więzieniu na Więziennej Wyspie (ang. Prison Island).
+
+W międzyczasie Knuckles ma problem z Głównym Szmaragdem, gdyż tajemnicza Rouge the Bat próbuje go ukraść. Doktor Eggman, szalony naukowiec marzący o dominacji nad światem, wykorzystuje kłótnie pomiędzy postaciami i kradnie go. Knuckles orientuje się w porę i niszczy szmaragd, rozbijając go na drobne kawałeczki. W tej sytuacji zmuszony jest wyruszyć w podróż dla zebrania wszystkich małych kawałków szmaragdu.
+
+W tym czasie do więzienia na wyspie dostaje się Tails, najlepszy przyjaciel Sonica. Uwalnia go z celi i ratuje Amy Rose przed Eggmanem. Tails wierzy w niewinność Sonica i razem postanawiają odnaleźć prawdziwego sprawcę kradzieży. Sonic odnajduje Shadowa na pobliskiej wyspie, dochodzi do ich potyczki, lecz są zmuszeni ją przerwać, gdyż Eggman informuje ich, iż wyspa wkrótce wybuchnie.
+
+Niedługo potem bohaterowie są świadkami jak Eggman korzystając z swojej potężnej broni, Armaty Zaćmienia (ang. Eclipse Cannon), niszczy połowę księżyca i szantażuje ludzkość zniszczeniem Ziemi. Wiedzą, że Eggmanowi brakuje tylko siódmego Szmaragdu Chaosu, aby zniszczyć ich planetę, dlatego razem wyruszają w stronę ARKI, opuszczonej stacji kosmicznej, aby zniszczyć broń przed jej użyciem.
+
+Mroczna strona (Dark)
+Doktor Eggman dowiaduje się o ściśle tajnej militarnej broni ukrywanej przez GUN i stworzonej przez jego dziadka, Geralda Robotnika, o tajemniczej nazwie "Projekt Shadow". Włamuje się na Więzienną Wyspę w poszukiwaniu strzeżonej broni, niszcząc wszystko co napotka na swojej drodze. Po długich poszukiwaniach odnajduje to, czego szukał.
+
+Aktywując strzeżoną komorę, odkrywa czym jest "Projekt Shadow" – czarny jeż o niezwykłej szybkości i sprawności, bardzo przypominający jego odwiecznego wroga, Sonica. Shadow przedstawia siebie jako najpotężniejszą z istot i obiecuje spełnić jedno życzenie doktora w zamian za wypuszczenie go na wolność.
+
+Następnie zaprasza Eggmana na opuszczoną Kolonię Kosmiczną, ARKĘ (ang. Space Colony ARK), gdzie prezentuje mu potężną broń o nazwie Armata Zaćmienia, która jest w stanie zniszczyć całą planetę. Shadow i Eggman uzgadniają plan, aby zdobyć wszystkie 7 Szmaragdów Chaosu w celu zasilenia broni aby następnie zawładnąć Ziemią dzięki groźbie zniszczenia całej planety. Tajemnicza złodziejka Nietoperzyca Rouge postanawia pomóc złowrogiej dwójce, choć jej motywy nie są znane.
+
+Dzięki współpracy całej trójki udaje im się zdobyć wszystkie 7 szmaragdów, choć przez cały czas mają na uwadze działania Sonica, który próbuje ich powstrzymać. Wcześniej jednak Eggman wywołuje panikę na Ziemi używając cząstki mocy Armaty Zaćmienia w celu zniszczenia fragmentu Księżyca i pokazaniu niszczycielskiej mocy działa. Sonic nie pozostaje obojętny i dostaje się na opuszczoną kolonię, jednak robi to za późno, gdyż Eggman już jest w posiadaniu mocy pozwalającej zasilić broń.
+
+Ostatnia historia
+Po zebraniu wszystkich szmaragdów, Eggman przygotowuje się do uruchomienia Armaty Zaćmienia. Jednak ku zaskoczeniu doktora, zamiast wystrzelić broń wyświetla komunikat ostrzegawczy – okazuje się, iż Shadow oszukał doktora w celu urzeczywistnienia ostatniej próby zemszczenia się Geralda Robotnika na świecie za zamordowanie jego wnuczki, Marii Robotnik. Stacja kosmiczna zmienia swoje położenie i zaczyna kierować się w stronę Ziemi. Kolizja stacji kosmicznej z Ziemią oznacza całkowite zniszczenie planety.
+
+Odkładając na bok wrogość i kłótnie, wszyscy (oprócz Shadowa) postanawiają połączyć siły i zapobiec tragedii. Układają plan: należy dotrzeć do samego środka stacji kosmicznej i wyłączyć ją ręcznie. Dzięki wiedzy Eggmana na temat budowy stacji, wiedzą gdzie dokładnie muszą dotrzeć i co należy zrobić. Jednak najważniejsze kroki wykonuje Amy Rose, która, prosząc Shadowa o zaprzestanie zemsty na Ziemi, przypomina jeżowi o ostatnich słowach jakie wypowiedziała Maria przed jej śmiercią i obietnicę jaką jej złożył: aby przynieść szczęście i nadzieję dla całej ludzkości.
+
+Shadow postanawia pomóc Sonicowi, walcząc z napotkanym przez bohaterów tajemniczym stworzeniem – Biojaszczurem (ang. Biolizard), eksperymentem profesora Geralda powstałym z prób stworzenia najpotężniejszej istoty. Niestety, Biojaszczur korzystając z mocy szmaragdów łączy się ze stacją zmieniając się w swoją potężniejszą formę – The Finalhazard (pol. Ostateczne zagrożenie), w celu przyspieszenia kolizji stacji z Ziemią. Sonic i Shadow korzystając ze szmaragdów umieszczonych w systemie zasilającym działo przemieniają się w swoje super-formy, Super Shadowa i Super Sonica. Walczą z Biojaszczurem w kosmosie i pokonują go przed uderzeniem stacji w planetę.
+
+Następnie łącząc siły wykonują potężną Kontrolę Chaosu aby zatrzymać stację kosmiczną i przenieść ją na bezpieczną odległość. Shadowowi nie udaje się wrócić do bohaterów. Po wykonaniu obietnicy złożonej Marii pozwala swojemu ciału spaść na Ziemię w kierunku pewnej śmierci i znika w błysku światła. Bohaterowie przyjmując z wielką ulgą ocalenie są jednakże zasmuceni zniknięciem Shadowa. Również Eggman wydaje się być przejęty tym, co się stało, gdyż postanawia odłożyć, na jakiś czas, swoje plany stworzenia Imperium Eggmana.
+
+Inne wątki fabularne
+Projekt Shadow
+
+W oficjalnym japońskim Przewodniku strategicznym dla Sonic Adventure 2'', Sega zamieściła, jak zwykle, wiele ciekawych informacji i wątków fabularnych. Można dowiedzieć się z nich, iż Rouge jest podwójnym agentem pracującym dla rządu w Sonic Adventure 2'' i trochę więcej o tajemniczych początkach Shadowa.
+
+W napisanym własnoręcznie raporcie Rouge informuje o odnalezionym przez siebie liście ówczesnego prezydenta do Geralda Robotnika, w którym wystosował prośbę dotyczącą rozpoczęcia prac nad marzeniem każdego człowieka – nieśmiertelnością. Początkowo Robotnik odmawia twierdząc, iż jest to zabawa w Boga. Z dalszej części raportu Rouge okazuje się, że profesor ostatecznie podejmuje badania nad nieśmiertelnością, poruszony wieścią o nieuleczalnej chorobie NIDS jego wnuczki, Marii Robotnik. Brak leku spowodował, że Gerald dołącza do projektu mając nadzieję na uratowanie w ten sposób życia wnuczki.
+
+Projekt Shadow narodził się na Kolonii Kosmicznej ARCE, to właśnie tam rozpoczęto badania nad gadami i ich zdolnościami regeneracyjnymi. Aplikowanie mocy Szmaragdu Chaosu obiektom doświadczalnym szybko stało się zbyt ryzykowne, a same badania wymykały się spod kontroli. W niewiadomy sposób informacja o wypadku na stacji kosmicznej, w którym uczestniczyła zmutowana jaszczurka, Biojaszczur (prototyp Ostatecznej Formy Życia), przeciekła do władz G.U.N. Podejmując wszelkie środki ostrożności i wykorzystując zaistniałą sytuację G.U.N. postanowiła wymazać wszystkie informacje oraz wyniki zamykając w ten sposób definitywne Projekt Shadow.
+
+W wyniku błędu G.U.N. nie zdążył zrealizować swoich planów. Kiedy żołnierze G.U.N. dotarli na kolonię kosmiczną, profesor właśnie kończył pracę nad dopracowaną wersją Ostatecznej Formy Życia, którą okazał się być jeż nazwany na cześć projektu „Shadowem”. Gerald, Maria i Shadow postanowili uciec z ARKI, aby uniknąć schwytania tego ostatniego przez wojsko. Gdy Maria miała właśnie wysłać Shadowa na Ziemię zostaje ona śmiertelnie postrzelona przez jednego z żołnierzy, udaje się jej jednak wystrzelić kapsułę z jeżem, który obserwuje śmierć swojej przyjaciółki.
+
+Maria Robotnik
+
+Maria jest wnuczką profesora Geralda i jedyną bliską osobą z jego rodziny (nie wiadomo, czy wówczas Eggman, który również był wnukiem Geralda, już żył). Jako że nie udało mu się odnaleźć lekarstwa na jej chorobę (NIDS) i to przez niego znalazła się na ARCE, gdzie została śmiertelnie postrzelona, profesor obwiniał się za jej śmierć i popadł w szaleństwo, a później z jej powodu stworzył plan zemsty nad światem.
+
+Dziewczyna również wpłynęła na Shadowa, którego poprosiła o przyniesienie dobra i pokoju całej ludzkości. Mimo iż na początku (po uwolnieniu go przez Eggmana) nie pamiętał jej słów i również chciał się zemścić z powodu jej śmierci, później przypomniał je sobie i drastycznie zmienił swoje plany. Wiadome więc jest, iż Gerald i Shadow byli głęboko do niej przywiązani.
+
+Przebieg gry
+
+
+Postaci
+W grze występuje 6 grywalnych postaci (nie licząc postaci w wyścigach go-kartów), które można podzielić na 3 rodzaje gry: ściganie się, strzelanie i poszukiwanie skarbów. W zależności od kierowanej postaci zmienia się w sposób w jaki przechodzi się daną planszę. Od liczby zdobytych punktów (na które mają wpływ punkty zdobyte na planszy, czas jej ukończenia i liczba zdobytych pierścieni) zależy ocena która zostaje wystawiona na końcu planszy, począwszy od E (najgorsza) do A (najlepsza). Każda plansza posiada 5 misji, za których wykonanie dostaje się emblemat. Piątą misją jest tzw. "Hard Mode" (pol. Tryb trudny), który charakteryzuje się większą liczbą przeciwników.
+
+Ściganie się
+Hero: Sonic the Hedgehog
+Dark: Shadow the Hedgehog
+Tryb ten charakteryzuje niezwykła dynamika i szybkość przechodzenia poziomów. Celem każdej z plansz w tym trybie jest dotarcie do końca planszy (do tzw. Goal Ring), czasem z narzuconym limitem czasowym (jak np. w planszy Green Forest). Oprócz tego należy w jak najkrótszym czasie zdobyć jak największą liczbę pierścieni i przedmiotów, które można napotkać na swojej drodze.
+
+Strzelanie
+Hero: Miles "Tails" Prower
+Dark: Doktor Eggman
+Te postacie, jak sama nazwa wskazuje, po prostu strzelają. Bohaterowie zasiadają za sterami mecha i wysyłają pociski w stronę wszystkiego, co się rusza. Gracz likwiduje obiekty najpierw zaznaczając je celownikiem, a następnie, puszczając przycisk, wypuszczając w ich kierunku salwę rakiet. Im więcej obiektów zaznaczy za jednym razem, tym więcej punktów zdobędzie.
+
+Poszukiwanie skarbów
+Hero: Knuckles the Echidna
+Dark: Rouge the Bat
+Odrobinę wolniej i skupiając się bardziej na eksploracji całego terenu, w tym trybie gracz ma za swój cel znalezienie trzech ukrytych przedmiotów. Do dyspozycji ma radar informujący go jak blisko jest celu oraz podpowiedzi, które za pomocą tajemniczych zdań pomagają odnaleźć przedmioty. Im szybciej obiekt zostane znaleziony i im mniej podpowiedzi zostanie użyte (maksymalnie 3), tym większa będzie punktacja.
+
+
+Opieka nad Chao
+Wszystkie postaci
+Oprócz rozgrywki stricte platformowej, w grze dostępna jest także mini-gra, która wystąpiła również w poprzedniej części gry, mianowicie opieka nad Chao, która bardzo przypomina gry w stylu Tamagotchi. Chao są małymi stworzeniami żyjącymi w swoim własnym świecie; nie odgrywają jednak żadnej roli w fabule gry. Podczas unicestwiania przeciwników w normalnym trybie gry gracz otrzymuje tzw. Napędy Chaosu (ang. Chaos Drives), które może podarować swojemu podopiecznemu. W zależności od koloru, zwiększają się odpowiednie statystyki stworka, dzięki czemu może szybciej biegać, być silniejszym fizycznie, lepiej pływać lub latać. W zależności od tego w którą stronę gracz będzie rozwijać umiejętności swojego podopiecznego, jego wygląd będzie się zmieniał. Następnie może wystawić go na wyścigach, w których to konkurować może z innymi Chao.
+
+Tryb gry wieloosobowej
+W trybie gry wieloosobowej występuje możliwość walki z drugim graczem. Konfrontacja ze swoim przeciwnikiem zależy od wybranego trybu. Tryb ścigania się polega na dotarciu do mety jako pierwszym, strzelanie przyjmuje formę walki podobnej do walki z bossem, a w poszukiwaniu skarbów wygraną gracza gwarantuje odnalezienie trzech szmaragdów przed oponentem.
+
+Podczas gry można korzystać z przeróżnych specjalnych zdolności, które odblokować można przez zebranie odpowiedniej liczby pierścieni, Shadow może przykładowo skorzystać z kontroli chaosu zatrzymując czas na najbliższe 10 sekund.
+
+Kolejnym możliwością rozgrywki dla dwóch graczy jest tryb gokart, w którym postaci zasiadają za sterami pojazdów ściagjąc się na autostradzie. Każda postać i jej gokart charakteryzuje się innymi parametrami takimi jak prędkość maksymalna, przyspieszenie itp.
+
+W trybie wieloosobowym do dyspozycji graczy oddano następujące plansze:
+Green Forest,
+Radical Highway,
+Sky Rail,
+Wild Canyon,
+Pumpkin Hill,
+Meteor Herd,
+Weapons Bed,
+Pyramid Cave.
+
+Różnice między wczesnymi a ostateczną wersją gry
+Wczesny plan gry różnił się znacząco od jego ostatecznej wersji. Uważa się, iż początkowo gra miała zawierać w sobie tylko Sonica, Knucklesa i Eggmana jako grywalne postacie, ale po negatywnych komentarzach fanów na temat braku grywalnych kluczowych postaci (szczególnie postać Tailsa), Tails, Rouge i Shadow zostali włączeni w poczet grywalnych bohaterów, choć wczesne opisy gry wspominają o Rouge (wtedy określana jako ''"Nails the Bat"'') i Shadow (wtedy określany jako ''"Dark Sonic"'') jako postaciach będących częścią fabuły, bez względu na to czy są grywalne czy nie.
+Sonic Team dołożyło wszelkich środków, aby imię Shadow the Hedgehog nie zostało ujawnione przed wydaniem gry. Niestety szczegóły dotyczące czarnego jeża wyciekły zaraz po tym, jak firma ReSaurus ogłosiła wydanie serii figurek z postaciami z gry (ta sama firma wydała figurki do poprzedniej wersji. gry). Ostatecznie firma nigdy nie wyprodukowała zabawek, gdyż zbankrutowała. Jednak inne figurki zostały wyprodukowane przez firmę Joyride Studios.
+Wersja demo gry która była dołączana do gry Phantasy Star Online różni się wieloma szczegółami od wersji ostatecznej; przede wszystkim Sonic w demie ma na sobie swoje klasyczne buty. Dopiero kilka miesięcy przed oficjalnym wydaniem gry Sonic Team ujawniło swój kontrakt z firmą Soap Shoes produkującą buty do grindowania.
+Inną zmianą jest tekst wypowiadany w filmie początkowym. W wersji demo pilot przeklina, krzycząc ''"What the hell?"'' (pol. Co do cholery?''). W wersji ostatecznej zmieniono to zdanie na ''"What in the world?"'' (pol. Co u licha?'').
+Kolejne różnice to inne logo, inne efekty dźwiękowe, inny tekstury użyte dla billboardów, mniej dokładne sterowanie i fizyka gry oraz inna wersja instrumentalna piosenki Escape from the City.
+Na podstawie nazw plików tekstur i modeli znajdujących się na płycie gry uważa się, iż oryginalnym imieniem Shadowa był . Rzeczownik  oznacza ładną, słoneczną pogodę, a bliski mu czasownik wyraża świecenie bądź błyszczenie, z kolei  to wyraz określający samca (zwierzęcia). Nieoficjalne imię więc było więc antonimem obecnego. Jako postać Shadow mógł też oryginalnie być tenrekiem. Terios to również model samochodu firmy Daihatsu, a wyrazy zawierające grecką cząstkę therio-'' powiązane są znaczeniowo z wyrazem therion (gr. θηρίον) oznaczającym bestię, dzikie zwierzę.
+Drążąc głębiej w zawartości dysku znaleziono również dowody, iż plansza Green Hill Zone miała być dostępna również w trybie dla dwóch graczy, jednak ostatecznie pomysł ten został zarzucony.
+
+Nawiązania
+Na jednym z plakatów w City Escape widnieje napis "Anti-XXXX XX2 Association" ("Stowarzyszenie Anty-XXXX XX2"). Anti-XXXX XX2'' najprawdopodobniej oznacza Anti-SONY PS2'', gdyż wówczas konsole ze sobą konkurowały.
+W grze Sonic Adventure w mieście znajdują się plakaty reklamujące fikcyjny film pt. "Chao in Space" (pol. "Chao w kosmosie"). W City Escape znajdują się plakaty promujące sequel filmu, "Chao in Space 2".
+Utwór będący tłem muzycznym jednej z końcowych scen gry, w której Sonic spotyka Shadowa, jest remiksem utworu z Sonic Adventure pt. ''"Event: Strain"''. Natomiast piosenka dla planszy Cannon's Core 4'' jest remiksem ''"Lost World: DANGER! Chased By Rock"''.
+
+Głosy
+
+
+Sonic Adventure 2: Battle
+
+Sonic Adventure 2: Battle jest nowszą wersją gry Sonic Adventure 2 wydaną na konsolę Nintendo GameCube, tak samo jak było to w przypadku Sonic Adventure i . Gra została wydana w grudniu 2001 roku w Japonii, a w Europie i Ameryce w pierwszym kwartale 2002 roku podczas oficjalnego startu konsoli GameCube.
+
+W wersji battle (pol. bitwa) dodano nowe tryby gry wieloosobowej, zaś postaci uprzednio zablokowane w tej wersji są dostępne od samego początku. Całości dopełnia odświeżona grafika i obecność przeróżnych drobiazgów nieobecnych w poprzedniej wersji gry.
+
+Wiele nowych możliwości zyskała również opieka nad chao. Pierwszą i najbardziej widoczną jest podgląd statystyk danego Chao, dzięki któremu łatwo możemy śledzić postępy i kierunek rozwoju podopiecznego. Poza tym umożliwiono przeniesienie Chao do gier Sonic Advance, Sonic Advance 2 i Sonic Pinball Party na platformę GameBoy Advance, aby w trybie "Tiny Chao Garden" móc sprawować nad nimi dalszą opiekę. Dodano także możliwość potyczek między Chao, Chao-Karate, która właściwie bardziej przypomina walkę sumo niż karate, lecz stanowi jeszcze jedną okazję do zabawy ze swoimi chao.
+
+Udoskonaleniu uległa również gra wieloosobowa: zyskała ona nowe tryby rozgrywki i poziomy przy jednoczesnej rozbudowie poprzednich (np. poziom City Escape, przypominający wyglądem San Francisco, w którym gracze mają możliwość ścigania się na deskach).
+
+Mimo iż Sonic Adventure 2'' zebrało dobre recenzje, to wersja "battle" nie została tak dobrze przyjęta jak poprzednia. Głównym tego powodem był fakt, iż gra nie zmieniła się wiele w stosunku do swojego poprzednika, a zmiany graficzne nie wykorzystywały pełni możliwości konsoli i oczekiwań ówczesnego rynku gier wideo. Mimo wszystko Sonic Adventure 2: Battle jest jedną z najlepiej sprzedających się gier na tę konsolę.
+
+W planszy Crazy Gadget w wersji na konsolę GameCube, zmieniono kolor niektórych znaków "X" występujących na pudłach z zielonego na czerwony. Prawdopodobnie zastosowano tę zmianę z powodu dużego podobieństwa między tym znakiem a logo konkurencyjnej konsoli Xbox. Usunięto również dużą liczbę wystąpień Dużego, a w trybie gry wieloosobowej ukrytą postać Biga zastąpił Evil Chao.
+
+Zmieniono również punktację w Cosmic Wall wymaganą do ukończenia poziomu w piątej misji z oceną "A". W wersji na konsolę Dreamcast wymagane było zdobycie 100 000 punktów, co dla niektórych było niemożliwe do osiągnięcia. W wersji Battle obniżono te wymagania o połowę.
+
+Jako iż konsola Nintendo Wii jest wstecznie-kompatybilna i obsługuje gry z konsoli Gamecube, można również na niej grać w Sonic Adventure 2: Battle.
+
+
+
+Bibliografia
+Sonic Adventure 2 – User Manual, instrukcja obsługi gry Sonic Adventure 2'', 2001 © Sonic Team
+Sonic Adventure 2: Prima's Official Strategy Guide, Prima Games, ISBN 0-7615-3614-0
+
+Zobacz też
+Sonic Team,
+Sonic the Hedgehog.
+
+
+
+
+
+

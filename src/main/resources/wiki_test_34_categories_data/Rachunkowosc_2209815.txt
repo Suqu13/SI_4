@@ -1,0 +1,35 @@
+Rachunek redukcji kosztów Kaizen – sposób zarządzania kosztami w firmach japońskich.
+
+Informacje ogólne
+Ideą doktryny Kaizen  jest zmiana na lepsze. System redukcji kosztów w literaturze krajów zachodnich jest objaśniany pod nazwą Kaizen Costing. Został on uznany za główne narzędzie sukcesu firm japońskich na rynkach światowych w latach 80. Według idei tego systemu są tworzone w krajach zachodnich rozwiązania do redukcji kosztów. Na przykład w krajach anglosaskich taki system nosi nazwę Continous Improvement Process (CIP)'', a w Niemczech Kontinuerliche Verbesserungsprozess (KVP)''.
+
+Cele rachunku redukcji kosztów
+System redukcji kosztów oznacza systematyczne wyszukiwanie i wdrażanie udoskonaleń w technologii i organizacji oraz podnoszenie poziomu wiedzy i kwalifikacji pracowników niezbędnych do osiągnięcia kosztu założonego ustalonego dla wytwarzanego produktu (cel firmy). Inaczej system Kaizen oznacza działania obniżające koszty produktu w fazie wytwarzania wyrobu i zapewniające osiągnięcie celu (założony zysk w strategii). Tak jak kompleksowe zarządzanie kosztami, rachunek redukcji kosztów jest zorientowany na osiąganie zysku w długim okresie i wzrost wartości firmy.
+
+Redukcja kosztów a koszty standardowe
+System kosztów Kaizen wykorzystuje wiele informacji z rachunku kosztów standardowych. Na podstawie informacji o bieżącym rzeczywistym koszcie indywidualnym wytworzenia z roku bazowego dla fazy wytwarzania sporządza się w systemie rachunku kosztów standardowych informację o koszcie standardowym produktu na rok następny (rok 1), która jest przekazywana do zespołów roboczych powoływanych w systemie Kaizen. Informacja ta stanowi podstawę do wyszukiwania udoskonaleń redukujących koszt wytworzenia produktu w ciągu roku, a więc bieżąco są dokonywane zmiany w ilości i rodzaju zużywanych zasobów organizacji i procesów. Informacje o kwotach obniżających koszt standardowy przez każde z wprowadzonych usprawnień wynikają z kalkulacji, które są prowadzone na bieżąco. Kalkulacje kosztów dla nowych rozwiązań są sporządzane na bieżąco i analizowane przez zespoły robocze, w których uczestniczą również specjaliści rachunkowości zarządczej. Oznacza to jednocześnie, że system rachunku redukcji kosztów jest zorientowany na wielu różnych pracowników (nie tylko kierowników działów i centrów) i prowadzi do większej instytucjonalizacji wiedzy z zakresu rachunku kosztów niż w przypadku stosowania tylko tradycyjnych systemów.
+
+Porównanie systemu redukcji kosztów Kaizen z rachunkiem kosztów standardowych
+
+Źródło: Rachunek kosztów i rachunkowość zarządcza, Irena Sobańska
+
+Zastosowanie w praktyce
+W przemyśle samochodowym w Japonii (np.: Toyota Production System) realizacja systemu Kaizen  następuje z reguły w czterech etapach:
+Opracowanie krótkookresowego planu zysku firmy jako całości dla ustalenia różnicy między poziomem zysku planowanego a zysku założonego w strategii (cel).
+Obliczanie kwoty obniżki kosztów dla całego koncernu (cel).
+Ustalenie zgodności między zyskiem założonym (cel) a obniżką kosztów (cel) w rachunku redukcji kosztów.
+Podział kwoty obniżki kosztów (cel) między jednostki organizacyjne (fabryki).
+
+Zobacz też
+Kaizen
+Toyota
+Toyota Production System
+Rachunek kosztów
+Rachunkowość zarządcza
+Controlling
+
+Bibliografia
+Rachunek kosztów i rachunkowość zarządcza, Irena Sobańska, C.H. Beck, Warszawa 2006
+Rachunkowość zarządcza, W. Gabrusewicz, A. Kamela-Sowińska, H. Poetschke, PWE, Warszawa 2000
+
+

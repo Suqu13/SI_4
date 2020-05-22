@@ -1,0 +1,49 @@
+Zintegrowany system informacji o nieruchomościach (ZSIN), początkowo nazywany Zintegrowanym systemem katastralnym (ZSK) – zespół rozwiązań prawnych, organizacyjnych i technicznych zapewniający szybki dostęp do aktualnych i wiarygodnych informacji o nieruchomościach, gromadzonych w ewidencjach i rejestrach publicznych.
+
+Zgodnie z Prawem geodezyjnym i kartograficznym, Główny Geodeta Kraju we współpracy z organami administracji samorządowej oraz Ministrem Sprawiedliwości, ministrem właściwym do spraw administracji publicznej, ministrem właściwym do spraw finansów publicznych, ministrem właściwym do spraw środowiska, Prezesem Głównego Urzędu Statystycznego oraz Prezesem Agencji Restrukturyzacji i Modernizacji Rolnictwa tworzy i utrzymuje zintegrowany system informacji o nieruchomościach, będący systemem teleinformatycznym, umożliwiający w szczególności:
+prowadzenie centralnego repozytorium kopii zbiorów danych ewidencji gruntów i budynków;
+monitorowanie w skali poszczególnych województw oraz całego kraju spójności i jakości zbiorów danych ewidencji gruntów i budynków;
+wymianę danych w formie dokumentów elektronicznych między ewidencją gruntów i budynków a innymi rejestrami publicznymi, takimi jak: 
+księga wieczysta, 
+państwowy rejestr granic i powierzchni jednostek podziałów terytorialnych kraju, 
+krajowy rejestr urzędowy podziału terytorialnego kraju (TERYT), 
+krajowy rejestr urzędowy podmiotów gospodarki narodowej (REGON), 
+krajowy system ewidencji producentów, 
+ewidencji gospodarstw rolnych, 
+ewidencji wniosków o przyznanie płatności, w zakresie niezbędnym do prowadzenia tych rejestrów publicznych, 
+przekazywanie w formie dokumentów elektronicznych zawiadomień o zmianach danych, dokonywanych w poszczególnych rejestrach publicznych, mających znaczenie dla innych rejestrów publicznych włączonych do zintegrowanego systemu informacji o nieruchomościach;
+dokonywanie przez sądy prowadzące księgi wieczyste sprawdzeń, o których mowa w art. 6268 § 4 Kodeksu postępowania cywilnego;
+weryfikację zgodności danych ewidencji gruntów i budynków z danymi zawartymi w: 
+księgach wieczystych, 
+Powszechnym Elektronicznym Systemie Ewidencji Ludności, 
+krajowym rejestrze urzędowym podmiotów gospodarki narodowej, 
+krajowym rejestrze urzędowym podziału terytorialnego kraju, 
+pozyskiwanie danych zawartych w ww. rejestrach na potrzeby ewidencji gruntów i budynków;
+udostępnianie organom administracji publicznej zintegrowanych zbiorów danych ewidencji gruntów i budynków, niezbędnych do realizacji przez te organy ich ustawowych zadań publicznych, dotyczących w szczególności:
+badań statystycznych, 
+spisów powszechnych, 
+prowadzenia krajowego rejestru urzędowego podmiotów gospodarki narodowej, 
+prowadzenia krajowego rejestru urzędowego podziału terytorialnego kraju, 
+planowania gospodarczego, 
+planowania przestrzennego, 
+środowiska, 
+ewidencji podatkowej nieruchomości, 
+kontroli państwowej, 
+zwalczania korupcji, 
+bezpieczeństwa wewnętrznego;
+przeprowadzanie analiz przestrzennych na zbiorach danych ewidencji gruntów i budynków obejmujących obszary większe niż jeden powiat.
+
+Główny Geodeta Kraju oraz inne organy ww. mają czas na wdrożenie pełnej funkcjonalności ZSIN w terminie nie dłuższym niż 42 miesiące od dnia wejścia w życie rozporządzenia Rady Ministrów z dnia 17 stycznia 2013 r. w sprawie zintegrowanego systemu informacji o nieruchomościach, tj. 9 września 2016 r.
+
+
+
+Zobacz
+Kataster nieruchomości
+
+Linki zewnętrzne
+PDF (2006), data dostępu 2012-06-29
+
+
+
+
+

@@ -1,0 +1,21 @@
+Astra 5B – komercyjny geostacjonarny satelita telekomunikacyjny firmy SES. świadczący usługi Direct-To-Home. Pracuje na pozycji geostacjonarnej 31,5°E, gdzie zastąpił satelitę Astra 1G.
+
+Satelita został zamówiony w 2009 roku w firmie Astrium. Pierwotnie miał trafić na orbitę w drugim kwartale 2013 roku, ale drugi satelita wraz z którym miał zostać wyniesiony, Optus 10, został usunięty z listy startowej w obliczu możliwej zmiany właściciela firmy Optus. Drugą parą satelity został Amazonas 4A, operatora Hispasat. Start miał odbyć się 6 grudnia 2013 roku, ale z powodu opóźnień w przygotowaniu Amazonasa, start odbył się dopiero w końcu marca 2014 roku.
+
+Budowa i działanie
+Satelita posiada 40 transponderów pasma Ku i 6 Ka obejmujące przede wszystkim Europę Środkową, Europę Wschodnią, Bałkany, Turcję, Kaukaz i basen Morzą Czarnego (odbiór anteną 50 centymetrową). 
+
+Satelita przenosi także ładunek systemu EGNOS pracujący w paśmie L.
+
+Ogniwa słoneczne będą dostarczały ok. 13 kW w końcu trwania misji satelity, planowanej na 15 lat.
+
+Ciekawostki
+Statek jest 56. satelitą we flocie SES.
+
+
+
+Bibliografia
+Linki zewnętrzne
+- YouTube
+
+

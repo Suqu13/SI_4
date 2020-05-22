@@ -1,0 +1,34 @@
+Radioteleskop Green Bank im. Roberta C. Byrda (ang. Robert C. Byrd Green Bank Telescope, GBT) – największy na świecie w pełni sterowalny radioteleskop i największa na świecie lądowa konstrukcja ruchoma. Wchodzi w skład National Radio Astronomy Observatory (NRAO); znajduje się w miejscowości Green Bank w Wirginii Zachodniej w Stanach Zjednoczonych. Teleskopowi nadano imię senatora Roberta C. Byrda.
+
+Obecny teleskop został zbudowany po zniszczeniu poprzedniego teleskopu w Green Bank o kształcie paraboloidy o średnicy 90,44 m. Poprzedni teleskop zawalił się 15 listopada 1988 z powodu nagłej utraty podparcia w montażu dźwigara, które miało kluczowe znaczenie dla integralności jego struktury.
+
+Położenie
+Teleskop znajduje się w samym sercu amerykańskiej Narodowej Strefy Ciszy Radiowej, dużego obszaru, w którym wszystkie transmisje radiowe są ograniczone albo wręcz zakazane, aby umożliwić niezakłócone działanie radioteleskopów.
+
+Opis
+Powierzchnia GBT ma wymiary 100 na 110 metrów, przy czym jest to powierzchnia aktywna, której prawidłowy kształt kontroluje 2209 siłowników (małe silniki służą do regulacji położenia) oddziałujące na 2004 panele powierzchni. Panele wykonane są z aluminium z dokładnością (odchylenie standardowe) lepszą niż 0,003 cala (76,2 mikrometrów). Siłowniki dostosowują pozycje poszczególnych paneli w celu skorygowania odkształceń radioteleskopu, które zmieniają się w trakcie ruchu teleskopu, a powstają pod wpływem siły ciężkości. Bez wykorzystania tej tak zwanej "powierzchni aktywnej" obserwacje w zakresie częstotliwości powyżej 4 GHz nie byłyby skuteczne.
+
+Teleskop jest nietypowy, ponieważ zwierciadło nie jest symetryczne, ale jest wycinkiem stosunkowo dużej paraboloidy z odbiornikiem fal w jej ognisku. W rezultacie tego podpora odbiornika fal nie może w żaden sposób zasłaniać nieba widocznego przed zwierciadłem.
+
+Na tak przesuniętym "ramieniu" umieszczony jest konwerter przed 8-metrowym zwierciadłem wtórnym i zawierający ośmio-kanałowy odbiornik wysokiej częstotliwości w obrotowej wieżyczce. Teleskop pracuje w układzie Gregory'ego. Użytkowany zakres częstotliwości obejmuje od 290 MHz do 100 GHz.
+
+Odkrycia
+W 2002 roku za pomocą GBT astronomowie odkryli trzy nowe pulsary milisekundowe w gromadzie kulistej Messier 62.
+
+W 2006 roku zostało ogłoszone kilka odkryć, w tym dużego obszaru silnego pola magnetycznego w kształcie cewki w obłoku molekularnym w Orionie oraz dużego obłoku wodoru (tzw. superbąbel) odległego od nas o 23 000 lat świetlnych, nazwanego superbąbel Wężownika.
+
+Za pomocą GBT odkryto wiele wcześniej nieznanych obszarów H II formowania gwiazd w Drodze Mlecznej, co umożliwia lepsze poznanie procesów tworzenia gwiazd oraz składu chemicznego i struktury naszej Galaktyki, w tym kształtu jej ramion spiralnych.
+
+Radioteleskop miał istotny wkład w odkrycie w 2014 roku supergromady Laniakea.
+
+
+
+Linki zewnętrzne
+- kolekcja zdjęć z Wirginii Zachodniej, zawierająca fotografie Green Bank na stronie davidmetraux.com 
+
+
+
+
+
+
+

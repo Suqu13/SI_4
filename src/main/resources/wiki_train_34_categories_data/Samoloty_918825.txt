@@ -1,0 +1,83 @@
+Convair B-58 Hustler – amerykański bombowiec strategiczny osiągający dwukrotną prędkość dźwięku, zbudowany w końcu lat 50. Służył w Siłach Powietrznych Stanów Zjednoczonych od 1960 do 1969 roku.
+
+Projekt
+Genezę programu B-58 stanowił opublikowany w lutym 1949 dokument II etapu Ogólnego Studium Bombowców (Generalized Bomber Study, GEBO II), stworzony przez Dowództwo Badań i Rozwoju Lotnictwa (Air Research and Development Command, ARDC) w bazie Wright-Patterson. Kilku producentów złożyło swoje propozycje, w tym: Boeing, Convair, Curtiss, Douglas, Martin i North American Aviation.
+
+Convair wykonał szereg projektów w ramach GEBO II, opierając się na swoim doświadczeniu w konstrukcji myśliwców o skrzydłach delta (trójkątnych), poczynając od XF-92A. Pierwotnie badano konfiguracje ze skrzydłami skośnymi lub pół-delta, lecz ostatecznie zdecydowano się na skrzydła trójkątne. Finalną propozycją Convaira o oznaczeniu FZP-110, był zaawansowany bombowiec o dwuosobowej załodze napędzany przez silniki General Electric J53. Osiągi szacowano na 1600 km/h prędkości i 4800 km zasięgu.
+
+USAF wybrała projekty Boeing (MX-1712) i Convair do wykonania studium Fazy 1. Convair MX-1626 ewoluował następnie w bardziej dopracowany projekt MX-1964, który wygrał w konkurencji na nowo planowany naddźwiękowy bombowiec (SAB-51, od Supersonic Aircraft Bomber) i naddźwiękowy samolot rozpoznawczy (SAR-51), na podstawie pierwszych na świecie wymagań operacyjnych (General Operational Requirement, GOR) na bombowiec naddźwiękowy. Dzięki tankowaniu w powietrzu, samolot miał mieć promień działania 7400 km, a bez tankowania 4250 km.
+
+
+Rozwój konstrukcji
+W 1953 dowództwo lotnictwa podpisało z firmą Convair umowę na opracowanie projektu technicznego samolotu, który otrzymał oznaczenie B-58. Konstruktorzy samolotu używali nieoficjalnie nazwy Hustler (pol. oszust), która później została przyjęta jako oficjalna. Przez najbliższe kilka lat trwały prace nad awangardową jak na te czasy konstrukcją samolotu.
+
+Konstrukcja odznaczała się skrzydłami delta o dużym  skosie krawędzi natarcia 60° i cienkim profilu, w układzie bezogonowca (bez usterzenia poziomego). Trzyosobowa załoga zajmowała miejsca w kabinie w nosie kadłuba, w układzie jedno za drugim, w celu zminimalizowania oporów. W ostatecznej konfiguracji zastosowano 4 nowo opracowane silniki turboodrzutowe General Electric J79, w pojedynczych gondolach pod skrzydłami (początkowo rozważano podwójne gondole). Nowością było to, że pod kadłubem umieszczono zasobnik bojowy, w którym znajdował się ładunek bojowy i dodatkowe zbiorniki paliwa. Po zużyciu znajdującego się tam paliwa, samolot miał zrzucić zasobnik nad celem.
+
+Pierwszy prototyp XB-58A (nr  55-660) został oblatany 11 listopada 1956 w bazie Carswell (koło portu lotniczego Dallas-Fort Worth w Teksasie). Próby przebiegały pomyślnie i 30 grudnia 1956 przekroczył on prędkość dźwięku. Z powodu obaw na etapie projektowania, że samolot nie osiągnie wystarczającego zasięgu lotu, początkowo zamówiono w 1955 jedynie 13 przedseryjnych egzemplarzy dla celów doświadczalnych (łącznie z dwoma prototypami). Piętrzące się trudności z programem perspektywicznego naddźwiękowego bombowca XB-70 Valkyrie oraz dobre rokowania co do B-58 w miarę zaawansowania projektu, spowodowały jednak, że Dowództwo Lotnictwa Strategicznego (Strategic Air Command) ponownie wyraziło zainteresowanie tym samolotem. Dwa dni po pierwszym locie liczbę zamówionych maszyn przedseryjnych zwiększono do 30. 16 lutego 1957 oblatano drugi prototyp XB-58A. W toku prób kolejnych samolotów testowano m.in. zrzucany zasobnik, system walki radioelektronicznej, działko, a także eksploatację w warunkach zimowych na Alasce. Samoloty przedseryjne były oznaczone YB/RB-58A, gdyż samolot miał pełnić także funkcje rozpoznawcze.
+
+W 1958 lotnictwo amerykańskie planowało zakupić 260 samolotów B-58, lecz wkrótce plany te ograniczono z powodu przewartościowania roli lotnictwa strategicznego. Gdy zdano sobie sprawę z dynamicznego rozwoju rakiet przeciwlotniczych, zdecydowano skupić się z jednej strony na bombowcach Boeing B-52 Stratofortress przenoszących pociski skrzydlate odpalane z dużej odległości, a z drugiej strony, na misjach na małej wysokości, gdzie trudniej wykryć samolot. B-58 okazał się zdolny do lotów na małej wysokości, lecz z uwagi na wytrzymałość konstrukcji, mógł na nich rozwijać jedynie prędkość poddźwiękową (ok. Ma 0,95), a także rosło zużycie paliwa. Prędkość dźwięku mógł przekraczać dopiero na wysokościach ponad 7000 m. Postanowiono więc kontynuować zamawianie B-58, lecz w mniejszej ilości, z założeniem, że w zależności od sytuacji samolot będzie wykonywać misje z prędkością ponaddźwiękową na dużym pułapie, albo z prędkością do 1100 km/h na wysokości 100-150 m.
+
+Ostatecznie, łącznie z prototypami zbudowano 116 samolotów (13 zamówione w 1955, 17 w 1956, 36 w 1959, 20 w 1960 i 30 w 1961). Produkcja seryjna trwała do 1962. Zbudowano 86 samolotów w jedynej wersji seryjnej B-58A, lecz ponieważ pięć z nich utracono jeszcze przed 1962 rokiem, doprowadzono następnie do takiego standardu także 10 samolotów przedseryjnych.
+
+W celu ułatwienia przeszkalania załóg, 8 samolotów przedseryjnych przebudowano w latach 1960-63 na szkolno-treningowe dwustery TB-58'''. Miejsce dla instruktora umieszczono za pilotem, zamiast nawigatora, przesuwając jego fotel nieco w prawo dla zapewnienia minimalnej widoczności do przodu (fotel pilota był w B-58 przesunięty nieco w lewo).
+
+Uzbrojenie i zastosowanie
+Główne uzbrojenie samolotu stanowił zasobnik MB-1, podczepiany pod kadłubem, obejmujący dwa zbiorniki paliwa o pojemności łącznej 15 795 l, przedzielone bojowym ładunkiem termojądrowym W-39Y-1 (z bomby Mk 39) o mocy 4 Mt, pozwalającym na zwalczanie silnie umocnionych celów punktowych lub dużych celów powierzchniowych. Zasobnik miał 17,38 m długości.
+
+Początkowo opracowany profil ataku wyglądał tak, że samolot na ok. 1500-2000 km przed celem miał lecieć z prędkością 1,6 Ma, a na 400-500 km przed celem zwiększał prędkość do 1,8-2,0 Ma, lecąc na wysokości 15-18 tys. m. Na 200 km przed celem, cel był wykrywany przez stację radiolokacyjną systemu celowniczego AN/ASQ-42, który wyliczał kurs samolotu i odpowiedni moment zrzutu zasobnika bojowego. Zasobnik po zrzucie leciał ok. 40 km po torze balistycznym, po czym  upadał w rejonie celu z dokładnością 150-200 m.
+
+Opracowano też modyfikację zasobnika bojowego do celów rozpoznawczych LA-1, z kamerą panoramiczną KA-56, montowaną zamiast ładunku bojowego. Według niektórych publikacji, samoloty dostosowane do zadań rozpoznawczych były oznaczone RB-58, lecz nie było to oznaczenie oficjalnie przyjęte. Pracowano nad zasobnikiem MA-1 z własnym napędem rakietowym, o zasięgu 300 km, lecz w 1957 zarzucono te prace, gdyż zasobnik taki nie posiadał zbiorników paliwa i zmniejszyłby się zasięg samolotu. Także w 1957 roku zarzucono prace nad zasobnikiem rozpoznania fotograficznego MC-1 i rozpoznania radioelektronicznego MD-1. W 1961 opracowano przyjęty następnie na uzbrojenie nowy, dwuczęściowy zasobnik TC-1 (TCP), z silniejszym ładunkiem termojądrowym W-53 o mocy 9 Mt (bomba B53). Dolna część zasobnika zawierała 14 705 l paliwa i po jego wyczerpaniu była zrzucana, a samolot kontynuował lot z mniejszą górną częścią, zawierającą ładunek bojowy, co pozwalało zmniejszyć zużycie paliwa (dolna część miała wnękę u góry, na mniejszą część).
+
+Na początku lat 60. opracowano nowe założenia użycia lotnictwa strategicznego, zgodnie z którymi, w celu umożliwienia działania bombowcom B-52 uzbrojonym w pociski, należało wyeliminować w pasie pokonywania obrony powietrznej stacje radiolokacyjne i stanowiska naprowadzania myśliwców przechwytujących. Do tego celu świetnie nadawał się szybki Hustler, lecz nie było potrzeby używania aż tak silnych ładunków, więc zdecydowano o wyposażeniu samolotu w cztery belki pod skrzydłami do podwieszania mniejszych lotniczych bomb jądrowych B43 o mocy 1 Mt. Można było zabierać także nieuzbrojony lub uzbrojony zasobnik, z uwagi na dodatkowe paliwo. Belki te zamontowano w samolotach w latach 1962-64. W 1968 dostosowano je do nowych bomb B61 o mocy 500 kt, a także, w związku z doktryną elastycznego reagowania, do konwencjonalnych bomb burzących 445 kg Mk 83 lub 911 kg Mk 84 na belkach wielozamkowych  (16&nbsp;×&nbsp;911&nbsp;kg, łącznie 14 500 kg lub 24&nbsp;×&nbsp;445&nbsp;kg, łącznie 10 700 kg).
+
+Samolot miał uzbrojenie obronne w postaci zdalnie sterowanego stanowiska ogonowego MD-7 z sześciolufowym działkiem 20 mm Vulcan M61A, sterowanym radarem (zapas 1200 nabojów, kąt ostrzału 30° w pionie i poziomie).
+
+Służba
+
+
+Pierwszą jednostką bojową używającą B-58A było 43. Skrzydło Bombowe z 15. Armii Lotniczej (poprzednio latające na Boeing B-47 Stratojet), w składzie 63., 64. i 65. Dywizjonu, po 12 samolotów każdy oraz jednostki treningowej 43. CCTS (Combat Crew Training School). Używało ono B-58 od 1960 roku, z czego pierwszy dywizjon osiągnął gotowość bojową w grudniu 1960, a od sierpnia 1961 pełnił dyżury bojowe.
+
+Następnie samoloty B-58A weszły także na uzbrojenie 305. Skrzydła Bombowego z 8 Armii Lotniczej (poprzednio latającego także na B-47), w składzie 364., 365. i 366. Dywizjonu oraz jednostki treningowej 305. CCTS.
+
+43. Skrzydło początkowo stacjonowało w Carswell, od 1964 w Little Rock. Dodatkowo wykonywało one misje rozpoznawcze z zasobnikami LA-1.
+
+Poza terytorium USA, samoloty B-58 były używane podczas ćwiczeń w Japonii,
+Wielkiej Brytanii i Hiszpanii. Planowano w 1968 użycie ich do bombardowania Wietnamu Północnego podczas wojny wietnamskiej, w rejonie działania myśliwców i obrony przeciwlotniczej, gdzie nie latały bombowce B-52, ale nastąpiła w tym czasie czteroletnia przerwa w uderzeniach na obiekty w głębi Wietnamu i ostatecznie do użycia bojowego B-58 nie doszło.
+
+Z uwagi na pojawienie się nowych myśliwców przechwytujących o lepszych parametrach (jak Su-15M) oraz na wysokie koszty utrzymania i eksploatacji, na przełomie 1969 i 1970 wycofano B-58 ze służby i zakonserwowano na pustyni Davis Monthan w Arizonie, po czym w 1977 większość złomowano.
+
+B-58 był samolotem trudnym w pilotażu. Łącznie w wypadkach z różnych przyczyn utracono aż 25 sztuk ze 116 zbudowanych, przy tym zginęła znaczna część załóg. Pierwszy wypadek miał miejsce 16 grudnia 1958. Część wypadków była spowodowana przez błędy pilotów. Dwa samoloty rozbiły się podczas pokazów na Paryskich Salonach Lotniczych w Le Bourget (3 czerwca 1961 i 15 czerwca 1965, odpowiednio trzy i jedna ofiara). 8 grudnia 1964 w kolizji w bazie w Bunker Hill w stanie Indiana zapalił się B-58A (nr 60-1116) 305. Skrzydła z ładunkiem 4 bomb wodorowych B43 i ładunkiem termojądrowym w zasobniku. Nie doszło do wybuchu, lecz ładunki uległy uszkodzeniu, powodując lokalne skażenie terenu.
+
+B-58 pobił w 1961 kilka światowych rekordów prędkości, w różnych warunkach. Pokonał też w 1961 trasę z Nowego Jorku do Paryża w 3 godziny 19 minut i 58 sekund.
+
+Konstrukcja
+
+
+Metalowy średniopłat ze skrzydłem delta, w układzie bezogonowym, wykonany z duraluminium. Skrzydło o cienkim profilu (3%), prostej krawędzi natarcia o skosie 60° i ujemnym kącie krawędzi spływu -10°, wyposażone w sterolotki. Skośny statecznik pionowy.
+
+Kadłub półskorupowy, zaprojektowany zgodnie z regułą pól, o owalnym przekroju. Trzyosobowa załoga zajmowała miejsca w kabinie w nosie kadłuba, w układzie tandem, wyposażona w fotele wyrzucane. W latach 1962-63 zamontowano na samolotach indywidualne rozkładane naokoło foteli katapultowych kapsuły ratunkowe, umożliwiające bezpieczniejsze katapultowanie się przy prędkości naddźwiękowej.
+
+Podwozie główne: pojedyncze golenie z ośmiokołowymi wózkami (cztery koła na jednej osi) chowane hydraulicznie do skrzydeł w kierunku kadłuba, wózki chowane w kadłubie. Podwozie przednie: goleń z dwoma kołami, chowana do kadłuba przed kabiną, łamana przy chowaniu (z uwagi na zasobnik podkadłubowy). W tylnej części kadłuba spadochron hamujący.
+
+Cztery silniki turboodrzutowe General Electric J79-GE-5 (ciąg 4536 kg/44,45 kN bez dopalania, 7080 kg/69,38 kN z dopalaniem). Silniki umieszczone były w pojedynczych gondolach pod skrzydłami, z ruchomymi stożkami we wlotach regulującymi ilość powietrza. Integralne zbiorniki paliwa w skrzydłach i zbiorniki w kadłubie, łącznie 41 350 l.
+
+System celowniczy AN/ASQ-42 ze stacją radiolokacyjną z radiowysokościomierzem, komputerem i układem astronawigacyjnym KS-39.
+
+System walki radioelektronicznej: urządzenie ostrzegające przed opromieniowaniem przez radar AN/ALR-12, urządzenie zakłóceń aktywnych AN/ALQ-16, wyrzutnik dipoli AN/ALE-16.
+
+
+
+Bibliografia
+E.F. Rybak, J. Gruszczyński: Zapomniany bombowiec strategiczny Convair B-58 Hustler. Cz.I, w: nowa Technika Wojskowa 2/1999, s. 31-37
+E.F. Rybak, J. Gruszczyński: Zapomniany bombowiec strategiczny Convair B-58 Hustler. Cz.II, w: nowa Technika Wojskowa 3/1999, s. 37-44
+Miller, Jay. "History of the Hustler." Airpower, Vol. 6, No. 4, July 1976''.
+
+Zobacz też
+A-5 Vigilante
+Avro Vulcan
+BAC TSR-2
+Boeing XB-59
+Dassault Mirage IV
+Tupolew Tu-22 Blinder
+
+Linki zewnętrzne

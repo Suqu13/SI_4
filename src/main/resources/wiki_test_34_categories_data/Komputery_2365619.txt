@@ -1,0 +1,9 @@
+
+
+Pleiades - superkomputer zbudowany przez SGI dla NASA i umieszczony w Centrum Badawczym imienia Josepha Amesa w Mountain View. Ma moc obliczeniową 1,243 PFLOPS i w czerwcu 2013 znajdował się na 19 miejscu w rankingu najszybszych superkomputerów świata TOP500.
+
+W obecnej wersji Pleiades zawiera 11648 węzłów połączonych interfejsem InfiniBand. Każdy węzeł zawiera dwa cztero- lub sześciordzeniowe procesowy Xeon, co daje w sumie 111104 rdzeni. Jego całkowita pamięć operacyjna to 185 TB. Działa pod kontrolą systemu operacyjnego SUSE Linux.
+
+
+
+

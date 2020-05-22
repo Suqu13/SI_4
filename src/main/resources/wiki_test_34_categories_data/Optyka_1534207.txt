@@ -1,0 +1,11 @@
+Światłowodowa siatka Bragga (światłowodowy filtr Bragga lub filtr Bragga) to segment światłowodu o długości 1-10 mm, który odbija (zawraca) światło o określonej długości fali. Światło o innych długościach fali jest całkowicie przepuszczane. Takie selektywne odbicie zachodzi dzięki wykonanej w rdzeniu światłowodu strukturze będącej okresową zmianą współczynnika załamania światła. Siatka taka może działać jako filtr optyczny, który blokuje światło o jednej długości fali, oraz jako selektywne zwierciadło..
+
+Zastosowanie
+Filtry Bragga stosuje się np. w laserach półprzewodnikowych do budowy rezonatora.
+
+Zobacz też
+rozproszony reflektor Bragga (tzw. "zwierciadło Bragga")
+
+
+
+

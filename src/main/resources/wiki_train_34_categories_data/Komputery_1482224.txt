@@ -1,0 +1,11 @@
+
+
+IBM 701''' pierwszy komputer firmy IBM przeznaczony do zadań naukowych, wszedł do sprzedaży 29 kwietnia 1952. Produkowano także "biznesowe" odmiany tego komputera IBM 702 i IBM 650.
+
+Pamięć komputera zbudowana była z 72 tzw. "Williams tubes" o pojemości 1024 bitów każda, dając łączną pojemność 2048 36-bitowych słów.  Każda z "tub" pamięci miała trzy cale (ok. 7,5 cm) średnicy, istniała możliwość rozszerzenia pamięci do 4096 36-bitowych słów.
+
+Łącznie sprzedano 19 komputerów tego typu.
+
+
+
+

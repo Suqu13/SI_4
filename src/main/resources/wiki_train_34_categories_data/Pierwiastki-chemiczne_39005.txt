@@ -1,0 +1,27 @@
+Stal konstrukcyjna ogólnego przeznaczenia – stal konstrukcyjna do wykonywania konstrukcji oraz części maszyn i urządzeń ogólnego przeznaczenia, wszędzie tam, gdzie jej charakterystyki są wystarczające dla spełnienia funkcji. Stale konstrukcyjne ogólnego przeznaczenia są stalami najniższego gatunku i zawierają znaczne ilości zanieczyszczeń, głównie  siarki,  krzemu i  fosforu. Przy jej produkcji stosuje się niski reżim technologiczny, co wpływa na szeroki rozrzut zawartości węgla. Stali ogólnego przeznaczenia nie poddaje się  obróbce cieplnej. Stale te są najczęściej  uspokojone, chyba że brak uspokojenia jest oddzielnie zaznaczony.
+
+Stale te charakteryzują się słabymi właściwościami wytrzymałościowymi, stosunkowo wysoką odpornością na obciążenia zmienne oraz dobrą spawalnością.
+
+Według  Polskiej Normy PN-88/H-84020 stale konstrukcyjne ogólnego przeznaczenia oznacza się: skrótem StnS, gdzie n to liczba naturalna z zakresu 0 do 7 kodująca zawartość węgla. Litera S (stal uspokojona) może być zastąpiona przez inna literę oznaczającą:
+V – ograniczoną zawartość węgla
+W – ograniczoną zawartość węgla, fosforu i siarki
+X - stal nieuspokojoną
+Y – stal półuspokojoną
+
+Według normy PN-EN 10020:2002(4) do stali niestopowych zaliczamy te stale w których zawartość poszczególnych pierwiastków chemicznych jest mniejsza od podanych wartości granicznych:
+Mn - 1,65%
+Si - 0,50%
+Cu, Pb - 0,40%
+Cr, Ni - 0,30%
+Al, Bi, Co, Se, Te, V i W - 0,10%
+Mo - 0,08%
+Nb - 0,06%
+La, Ti, Zr - 0,05%
+B - 0,0008%
+Przykładowe stale ogólnego przeznaczenia:
+St7''' – stal o zawartości ok. 0,55% węgla
+St4VX – stal nieuspokojona, o zawartości maksymalnie 0,22% węgla, o ograniczonej zawartości fosforu i krzemu
+St0S – stal uspokojona o zawartości węgla maksymalnie 0,23%.
+S235JR – według EN 10025 (JR - próba udarności w temp. +20'C - minimalna udarnościowa energia 27J ) 
+
+

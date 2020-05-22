@@ -1,0 +1,37 @@
+
+LISA (skrót od Laser Interferometer Space Antenna) – planowany wspólnie przez NASA i ESA eksperyment w przestrzeni kosmicznej, mający na celu bezpośrednie wykrycie fal grawitacyjnych. Urządzenie znajduje się w fazie projektu, rozpoczęcie obserwacji planowane jest najwcześniej na rok 2018.
+
+LISA ma być gigantycznym interferometrem Michelsona utworzonym przez trzy sztuczne satelity umieszczone na orbicie okołosłonecznej, w formacji trójkąta równobocznego o długości boku wynoszącej około 5 milionów kilometrów. Odległości pomiędzy satelitami będą nieustannie precyzyjnie mierzone metodą interferometrii laserowej. Przejście fal grawitacyjnych, będących zaburzeniami geometrii czasoprzestrzeni, wywoływać będzie niewielkie zmiany tych odległości, rejestrowane przez układ pomiarowy.
+
+Cel naukowy
+Podstawowym celem misji LISA jest bezpośrednie udowodnienie istnienia fal grawitacyjnych, przewidywanych przez Ogólną Teorię Względności, a dotychczas zaobserwowanych jedynie pośrednio z obserwacji zmian okresu obiegu podwójnego pulsara PSR B1913+16.
+
+W wypadku odkrycia fal grawitacyjnych kolejnym celem będzie zbadanie ich własności i obserwacje fal pochodzących z takich oczekiwanych źródeł, jak:
+układy podwójne gwiazd neutronowych lub czarnych dziur,
+zjawiska o charakterze katastroficznym (kolaps masywnej gwiazdy, zlewanie się czarnych dziur),
+reliktowe promieniowanie grawitacyjne z okresu wczesnego Wszechświata (analogiczne do elektromagnetycznego tła mikrofalowego).
+Zwłaszcza wykrycie i pomiary tego ostatniego rodzaju fal grawitacyjnych byłoby bardzo cenne, ponieważ umożliwiłoby wgląd w historię Wszechświata znacznie wcześniejszą, niż pozwala na to obserwacja tła mikrofalowego.
+
+Budowa
+Klasyczny interferometr Michelsona składa się z dwóch prostopadłych ramion stykających się końcami. W miejscu ich zetknięcia znajduje się źródło światła, układ rozdzielający i część detekcyjna, w której doprowadza się do interferencji promieni światła odbitych od zwierciadeł umieszczonych na końcach ramion.
+
+
+W eksperymencie LISA trzy satelity, wyznaczające ramiona interferometru, znajdują się w wierzchołkach trójkąta równobocznego, co oznacza, że ramiona interferometru stykają się pod kątem 60°. Wszystkie trzy satelity będą miały identyczną konstrukcję – każdy z nich będzie miał własne źródło światła i układ detekcyjny, a jednocześnie będzie służył jako zwierciadła dla dwóch pozostałych. Eksperyment będzie się więc składał praktycznie z trzech niezależnych interferometrów. Pozwoli to na wzajemną kontrolę ich działania, zwiększy czułość układu i pozwoli na pomiar polaryzacji fal grawitacyjnych.
+
+Dla zredukowania wpływów grawitacyjnych Ziemi i Księżyca formacja zostanie umieszczona na orbicie okołosłonecznej o takim samym okresie obiegu jak Ziemia, ale w odległości ok. 20° za nią. Średnia odległość eksperymentu od Ziemi ma wynosić około 50 mln kilometrów. Każdy ze składających się na eksperyment satelitów zostanie umieszczony na orbicie eliptycznej i o nieco innym nachyleniu do płaszczyzny ekliptyki, dzięki czemu będą one zachowywały stałą odległość od siebie (rysunek). Zmieniająca się przy tym orientacja całej formacji w przestrzeni może dodatkowo umożliwić pomiar kierunków dla silniejszych źródeł fal grawitacyjnych. Całkowity rozmiar formacji będzie kilkakrotnie większy od rozmiarów orbity Księżyca.
+
+Bardzo istotne dla precyzji eksperymentu jest odizolowanie satelitów (a ściślej: umieszczonych na ich pokładach swobodnie spadających mas referencyjnych, których wzajemne położenia są mierzone) od wpływu czynników innych niż grawitacja na ich ruch. Chodzi tu na przykład o ciśnienie światła słonecznego, oddziaływania z cząstkami gazu i pyłu międzyplanetarnego, a nawet efekty zmiennych pól elektrycznych od pracujących na pokładzie sondy komputerów i innej aparatury. Dlatego w każdym z satelitów masy referencyjne znajdą się wewnątrz specjalnej osłony. Położenie osłony, a więc i całego satelity, względem masy będzie mierzone z dokładnością do kilkuset nanometrów, a wszelkie odchylenia precyzyjnie korygowane miniaturowymi silniczkami o sile ciągu rzędu mikroniutonów.
+
+Każdy z satelitów będzie wyposażony, poza źródłem światła laserowego (laser podczerwony o mocy ok. 1 W), w układ optyczny z dwoma teleskopami Cassegraina, używanymi zarówno do wysyłania światła w kierunku pozostałych satelitów, jak i obserwowania światła przychodzącego. Same masy referencyjne, wykonane ze stopu złota i platyny, będą miały formę sześcianów o idealnie wypolerowanych ścianach, służących za zwierciadła. Konstruktorzy zamierzają osiągnąć precyzję pomiarów zmian wzajemnej odległości mas na poziomie 10 pikometrów.
+
+Porównanie z innymi detektorami fal grawitacyjnych
+W porównaniu z istniejącymi lub planowanymi ziemskimi detektorami fal grawitacyjnych opartymi na zasadzie interferometru, jak LIGO, VIRGO czy GEO 600, LISA wyróżnia się czułością na fale grawitacyjne o niskich częstotliwościach, co zawdzięcza dużej długości ramion interferometru. Detektor będzie więc komplementarny do obserwatoriów naziemnych, czułych na małe długości fal (czyli wyższe częstotliwości).
+
+Skala czasowa i finansowanie
+Eksperyment jest wspólnym przedsięwzięciem NASA i Europejskiej Agencji Kosmicznej ESA. ESA dostarczy same satelity wraz z napędem, czujniki położenia oraz część aparatury pomiarowej. NASA dostarczy resztę aparatury naukowej, urządzenia telekomunikacyjne oraz umieści satelity w przestrzeni kosmicznej.
+
+Start satelitów przewidywany jest najwcześniej na rok 2018, a początek programu naukowego na rok 2020. Okres działania eksperymentu obliczony jest na 5 lat z możliwością przedłużenia do 10 lat. W 2014 planowane jest wystrzelenie pojedynczej testowej sondy nazwanej LISA Pathfinder, która ma zademonstrować możliwość kontrolowania położenia satelity z wymaganą precyzją i przetestować elementy aparatury.
+
+
+
+Linki zewnętrzne

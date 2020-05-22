@@ -1,0 +1,11 @@
+Stal maraging jest to rodzaj stali w którym podstawowym mechanizmem umacniania jest wydzielanie faz międzymetalicznych w osnowie typu martenzytycznego z końcowym procesem starzenia.
+Stale tego typu zachowują dobre właściwości plastyczno-wytrzymałościowe w szerokim zakresie temperatur pracy. Niektóre gatunki stali maraging mogą pracować niezawodnie nawet do 600°C. Do najbardziej znanych stali tego typu należą stale zawierające 20-25% Ni z dodatkami 1,3-1,6%Ti, 0,15-0,30% Al, 0,3-0,5% Nb. Wadą stali mariging jest ich wysoka cena, w porównaniu do niskostopowych stali wysokowytrzymałych, w związku z tym zastosowanie ogranicza się jedynie do specjalnych zastosowań takich jak:
+elementy silników rakietowych,
+przeguby skrzydeł o zmiennej geometrii,
+wały turbin gazowych,
+lufy dział szybkostrzelnych,
+korbowody i wały napędowe samochodów,
+ostrza do szermierczej broni sportowej (np. floret),
+i inne.
+Bibliografia
+

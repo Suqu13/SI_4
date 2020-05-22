@@ -1,0 +1,8 @@
+Optyka nieliniowa - dział optyki obejmujący zjawiska nie spełniające zasady superpozycji fal. Są to zjawiska, w których optyczne własności ośrodka zależą od natężenia padającego światła.
+
+Spektakularnym zjawiskiem optyki nieliniowej jest powielanie częstości fali elektromagnetycznej, z których najbardziej istotna jest generacja drugiej harmonicznej. Innymi przykładami zjawisk nieliniowych są: zjawisko Faradaya, efekt Kerra, samoogniskowanie się światła, nasycenie absorpcji, ramanowskie rozpraszanie światła itp.
+
+Zjawiska optyki nieliniowej wykorzystywane są w nowoczesnych technologiach.
+
+
+

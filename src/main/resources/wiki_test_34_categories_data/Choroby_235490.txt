@@ -1,0 +1,21 @@
+Wirus zapalenia wątroby typu D, HDV (z ang. Hepatitis D Virus), nazywany też wirusem delta, jest małym, kolistym wirusem RNA. Wiriony są owalne, średnica ich wynosi 36&nbsp;nm, zawierają kolistą, pojedynczą nić RNA o ujemnej polarności będącą najmniejszym genomem występującym w wirusach ludzkich i zwierzęcych. Może ulegać namnażaniu jedynie w organizmach zakażonych wirusem zapalenia wątroby typy B. Związek między tymi dwoma wirusami wynika stąd, iż HDV nie koduje białka osłonki, którym jest HBsAg. Genom otoczony jest:
+antygenem powierzchniowym s wirusa HBV,
+nukleoproteiną HDAg.
+
+Wirus HDV jest prawdopodobnie wirusem roślinnym (wiroidem), który pierwotnie trafił do człowieka zainfekowanego HBV.
+
+Zakażenie następuje drogą pozajelitową przez zakażone igły, strzykawki, narzędzia chirurgiczne i stomatologiczne, przetaczanie krwi zakażonej wirusami oraz wydzieliny organizmu: spermę, śluz szyjkowy. Nie występuje w kale, ślinie i łzach.
+
+Epidemiologia
+Szacuje się, że 18 milionów ludzi spośród 410 milionów nosicieli HBV jest zakażonych wirusem HDV. Koinfekcja HBV+HDV występuje w Europie stosunkowo rzadko i jest ograniczone zwykle do grup zwiększonego ryzyka. Jedyne przypadki HDV w Polsce stwierdzono u zarażonych wirusem HIV narkomanów po kontaktach z grupami spoza Polski (część może być jednakże nie wykryta, gdyż nie prowadzi się rutynowo diagnostyki w tym kierunku).
+
+Zakażenie HDV w wzw typu B znacznie nasila postęp choroby.
+
+Profilaktyka i leczenie
+Szczepionka przeciw wirusowi zapalenia wątroby typu B chroni również przed HDV, ponieważ może się on replikować tylko w obecności wirusa HBV.
+
+Leczenie przewlekłego zapalenia wątroby typu D jest aktualnie niezadowalające. Leki stosowane w terapii wirusowego zapalenia wątroby typu B w większości są nieskuteczne przy zakażeniu HDV. Jedynym czynnikiem, który ma jakiś skutek leczniczy w przebiegu tego zapalenia wątroby jest interferon alfa, który jest skuteczny tylko w około 20% przypadków. Transplantacja narządu z reguły wiąże się z wtórnym zakażeniem przeszczepu.
+
+
+
+Bibliografia

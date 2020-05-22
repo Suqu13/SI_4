@@ -1,0 +1,5 @@
+Barwy interferencyjne są to barwy widoczne w kryształach i ciekłych kryształach anizotropowych optycznie przy badaniu pod mikroskopem w świetle spolaryzowanym przy skrzyżowanym polaryzatorze i analizatorze.
+
+Barwy interferencyjne powstają w krysztale, ponieważ kąt polaryzacji światła przechodzącego przez kryształy ulega zmianie i zmiana ta jest funkcją jego kąta padania na powierzchnię kryształu. Prędkość przechodzenia światła przez sam kryształ zależy natomiast od kąta jego polaryzacji. Światło opuszcza więc kryształ, będąc w różnych fazach, co powoduje powstanie barw interferencyjnych.
+
+

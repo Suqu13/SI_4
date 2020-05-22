@@ -1,0 +1,29 @@
+
+
+
+Kwitnienie, okres kwitnienia, okres dojrzałości – u roślin nasiennych okres, w którym dochodzi do wytworzenia kwiatów. Rośliny w początkowym okresie wzrostu nie są w stanie wytworzyć kwiatów. Czas ten określany jest jako okres młodociany lub juwenilny, a jego długość zależy od gatunku rośliny oraz warunków w jakich następuje jej wzrost. Niektóre rośliny mogą przejść w fazę generatywną już po kilku dniach wzrostu, inne mogą wytworzyć kwiaty dopiero po kilkudziesięciu latach rozwoju młodocianego. Niektóre rośliny wytwarzają kwiaty tylko raz w życiu. Są to rośliny monokarpiczne, które po kwitnieniu starzeją się i obumierają. Zalicza się do nich rośliny jednoroczne, niektóre dwuletnie oraz część roślin wieloletnich. Drugą grupę stanowią rośliny polikarpiczne, które po osiągnięciu dojrzałości kwitną wielokrotnie. Przechodzenie do fazy dojrzałości może zachodzić stopniowo w kolejnych pędach. Pierwsza zakwitają pędy położone najwyżej,a pędy w dolnych partiach rośliny dłużej pozostają w fazie młodocianej. Stopniowe przechodzenie części rośliny w fazę dojrzałości określa się jako zjawisko topofizy.
+
+Przechodzenie roślin do fazy dojrzałości następuje w trzech etapach:
+indukcja kwitnienia,
+ewokacja albo inicjacja kwitnienia,
+morfogeneza albo dyferencjacja kwiatu.
+
+Indukcja kwitnienia
+Niektóre rośliny przechodzą z fazy wegetatywnej do fazy generatywnej automatycznie po osiągnięciu określonego stopnia rozwoju. Pozostałe gatunki wymagają szczególnych warunków środowiska. Zewnętrznym czynnikiem decydującym o rozpoczęciu kwitnienia może być długość dnia. Należą do nich rośliny dnia długiego, zakwitające gdy długość przekroczy określoną granicę oraz rośliny dnia krótkiego, zakwitające gdy okres światła ulegnie skróceniu do wartości granicznej. Drugim czynnikiem mogącym indukować kwitnienie jest temperatura. Rośliny dwuletnie oraz zboża ozime wymagają wernalizacji, czyli okresu niskich temperatur aby mogły zakwitnąć. Fotoperiodyzm, zdolność rozpoznawania i mierzenia okresów światła i ciemności związana jest z przekształcaniem różnych form fitochromu. Rośliny dnia długiego zakwitają gdy powstanie odpowiedni dużo Pfr, rośliny dnia krótkiego poziom Pfr musi być niski aby rozpoczęły kwitnienie. Odbiór bodźca termicznego w procesie wernalizacji nie został w pełni wyjaśniony. Wiadomo, że percepcja bodźca zachodzi w merystemie wierzchołkowym. Pewną rolę w procesie ogrywają gibereliny, ich podanie z zewnątrz może zastąpić wernalizację. Fotoperiodyzm z wernalizacja pozwalają roślinom dostosować swój cykl rozwojowy do warunków środowiska. Rośliny dwuletnie przez pierwszy rok gromadzą substancje zapasowe, dzięki którym mogą rozpocząć kwitnienie wiosną. Ważne jest również skoordynowanie kwitnienia u wielu osobników jednego gatunku. Istnienie wielu kwiatów w tym samym okresie zwiększa szansę na zapylenie krzyżowe.
+
+Ewokacja kwitnienia
+
+Po indukcji fotoperiodycznej, termoindukcji lub samorzutnie dochodzi do przekształcenia wegetatywnego wierzchołka wzrostu w wierzchołek generatywny. Pierwszy etap przekształcenia polega na rozpoczęciu intensywnych podziałów mejotycznych w obrębie stożka wzrostu. Następnie podziały ustają. W tym czasie następuje intensywna synteza DNA. Wzrasta również ilość wytwarzanego RNA, białek histonowych, rybosomów. Zwiększa się też ilość mitochondriów w komórkach merystemu. W wierzchołku wzrostu wzrasta stężenie giberelin, cytokinin oraz poliamin. Zmianom biochemicznych towarzyszą zmiany cytologiczne. Wakuole komórek położonych w centralnej cześć merystemu zwiększają  swoją objętość. Po zmianach metabolicznych i cytologicznych następuje kolejna faza intensywnych podziałów mitotycznych. Komórki tuniki i zewnętrzne warstwy korpusu przekształcają się w podkwiat i zawiązki kwiatów.
+
+Morfogeneza kwiatu
+Zawiązki kwiatów powstałe w obrębie merystemu wierzchołkowego rozwijają się w kwiat. Liście pędu kwiatowego przeobrażają się w mikrosporofile i makrosporofile nazywane u roślin nasiennych pręcikami i słupkami. Część liści stanowi okwiat. Z mikrosporofili i megasporofili powstają odpowiedni mikrosporangia i megasporangia. Rozwój kwiatu kontrolowany jest przez geny, fitohormony oraz czynniki środowiska.
+
+Bibliografia
+
+
+
+
+
+
+
+

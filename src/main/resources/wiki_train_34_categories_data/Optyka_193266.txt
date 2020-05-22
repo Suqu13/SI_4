@@ -1,0 +1,80 @@
+
+Teleskop zwierciadlany (reflektor) – teleskop optyczny, używający zwierciadeł, zamiast soczewek, do skupiania światła.
+
+Historia
+
+Podstawowym problemem trapiącym wczesne, XVII-wieczne lunety była aberracja chromatyczna i aberracja sferyczna. W lunetach tych stosowano pojedynczą soczewkę jako obiektyw, co sprawiało, że oba rodzaje aberracji manifestowały się szczególnie silnie (pierwszy obiektyw achromatyczny został wynaleziony dopiero w I połowie XVIII wieku). Początkowo z problemem tym próbowano sobie radzić stosując lunety o monstrualnie długich ogniskowych (soczewka o bardzo małej światłosile jest praktycznie pozbawiona obu aberracji). Przykładem takich konstrukcji może być luneta Jana Heweliusza o długości ponad 40 metrów, lub stosowane w I połowie XVII wieku teleskopy powietrzne (aerial telescopes). Były to lunety pozbawione tubusa, składające się z długoogniskowego obiektywu osadzonego ruchomo na wysokim maszcie i okularu trzymanego przez obserwatora w ręce, połączonego z oprawą obietywu przy pomocy naciągniętej linki. Konstrukcje te były jednak niewygodne w użyciu, posiadały małe pole widzenia a wycelowanie lunety na obiekt i późniejsze utrzymanie obiektu w polu widzenia było zadaniem ekstremalnie trudnym. Pomysł zastosowania w teleskopie zwierciadła wklęsłego zamiast soczewki jako elementu skupiającego światło narodził się w połowie XVII wieku. Zwierciadło z definicji pozbawione jest aberracji chromatycznej (ponieważ podczas odbicia światło nie zmienia ośrodka w którym się rozchodzi), natomiast aberrację sferyczną można korygować dobierając odpowiednio kształt zwierciadła. Jeden z pierwszych projektów teleskopu zwierciadlanego stworzył około 1663 roku James Gregory, lecz praktycznej realizacji doczekał się on (za sprawą Roberta Hooke'a) dopiero 10 lat później. Zbudowanie pierwszego działającego teleskopu zwierciadlanego (około roku 1670) przypisuje się angielskiemu uczonemu Isaacowi Newtonowi, który zaprojektował i wykonał instrument własnego pomysłu. Od XVII aż do połowy XIX wieku zwierciadła teleskopów wykonywane były ze specjalnego brązu ("speculum metal"), łatwego do obróbki mechanicznej (szlifowania i polerowania), ale posiadającego względnie niewielki współczynnik odbijalności światła i dość szybko tracącego swoje właściwości wskutek korozji. Z takiego materiału zostało m.in. wykonane w 1789 roku zwierciadło 126 cm teleskopu Williama Herschela oraz w 1845 roku 183 cm zwierciadło teleskopu Leviathan of Parsonstown. Metalowe zwierciadła zostały wyparte przez szklane w II połowie XIX wieku, po wynalezieniu technologii powlekania szkła cienką warstwą srebra, posiadającego znacznie lepszy współczynnik odbijalności.
+
+
+Wykonanie zwierciadła teleskopowego jest znacznie prostsze i tańsze, niż wykonanie obiektywu achromatycznego o porównywalnej średnicy (wyszlifować należy tylko jedną zamiast co najmniej czterech powierzchni). Poza tym w przypadku zwierciadła dużo łatwiej jest zapewnić mu odpowiednią sztywność i uniknąć gięcia pod własnym ciężarem (zwierciadło może być od spodu podparte praktycznie na całej powierzchni, soczewka tylko na obwodzie). Z tego powodu wszystkie duże teleskopy budowane po II połowie XIX wieku są teleskopami zwierciadlanymi. 
+
+2 listopada 1917 roku w Obserwatorium na Mount Wilson w USA uruchomiono największy wówczas na świecie teleskop ze szklanym zwierciadłem o średnicy 100 cali (254 cm). Teleskop ten (nazywany teleskopem Hookera od nazwiska fundatora, Johna Hookera) przyczynił się do dokonania wielu ważnych odkryć w dziedzinie astronomii, m.in. pozwolił na zaobserwowanie pojedynczych gwiazd w galaktykach innych niż Droga Mleczna oraz odkrycie ucieczki galaktyk przez Edwina Hubble'a. Teleskop Hookera  
+przez ponad 30 lat był największym teleskopem na świecie. Kolejny rekord został pobity w 1948 roku przez 508 cm teleskop Hale'a umieszczony w obserwatorium na Mount Palomar, a następny w 1975 roku przez rosyjski teleskop BTA-6 o średnicy zwierciadła 6 metrów, oddany do użytku w Specjalnym Obserwatorium Astrofizycznym Rosyjskiej Akademii Nauk na górze Pastuchowa na Kaukazie. 
+
+
+Teleskop BTA-6 i teleskop Hale'a są dwoma największymi teleskopami wyposażonymi w zwierciadło w postaci monobloku szklanego. Konstrukcja pojedynczych zwierciadeł o większych średnicach napotyka na poważne trudności technologiczne, dlatego współcześnie budowane duże teleskopy są wyposażone w zwierciadła mozaikowe, składające się wielu mniejszych segmentów. Przykładami takich teleskopów mogą być teleskopy Kecka, SALT lub Gran Telescopio Canarias. W planach jest budowa jeszcze większych teleskopów, m.in. europejskiego (ESO) teleskopu ELT z mozaikowym zwierciadłem o średnicy 39,3 m.
+
+Rodzaje teleskopów zwierciadlanych
+
+Teleskop Newtona
+
+Reflektor Newtona jest teleskopem z wklęsłym, najczęściej paraboloidalnym zwierciadłem głównym i płaskim zwierciadłem wtórnym. Zwierciadło wtórne jest nachylone pod kątem 45 stopni do osi optycznej teleskopu, dzięki czemu światło jest wyprowadzone z boku tubusa w jego przedniej części. Ten typ teleskopu zwierciadlanego stosowany jest najczęściej w przypadku małej i średniej wielkości przyrządów. Ze względu na prostotę konstrukcji jest instrumentem szczególnie chętnie używanym przez miłośników astronomii. 
+
+Teleskop Gregory'ego
+
+Teleskop Gregory'ego był historycznie pierwszym zaprojektowanym teleskopem zwierciadlanym. Autorem projektu był szkocki astronom i matematyk James Gregory. Teleskop posiada wklęsłe, paraboloidalne zwierciadło główne oraz wklęsłe, elipsoidalne zwierciadło wtórne. Po odbiciu od zwierciadła wtórnego światło jest wyprowadzane z teleskopu przez otwór znajdujący się w centralnej części zwierciadła głównego. Teleskopy tego typu dają proste (nieodwrócone) obrazy. Ich zaletą jest też łatwość wykonania zwierciadła wtórnego, którego kształt może być badany metodą cieniową (w przeciwieństwie do wypukłych zwierciadeł w układzie Cassegraina). Wadą jest większa długość tubusa teleskopu. Teleskopy Gregory'ego zostały niemal całkowicie wyparte przez teleskopy Cassegraina.
+
+Teleskop Cassegraina (i jego modyfikacje)
+
+Teleskop Cassegraina został zaprojektowany w 1672 roku przez francuskiego księdza Laurenta Cassegraina. Jego konstrukcja jest zbliżona do teleskopu Gregory'ego, z tą różnicą, że zwierciadło wtórne ma kształt wypukłej hiperboloidy. Daje obrazy odwrócone. Zastosowanie wypukłego zwierciadła wtórnego umieszczonego przed ogniskiem zwierciadła głównego sprawia, że tubus może być krótszy i konstrukcja teleskopu jest przez to bardziej zwarta. System Cassegraina (oraz rozmaite jego modyfikacje) jest obecnie rozwiązaniem najpowszechniej stosowanym w przypadku średnich i dużych teleskopów. Znajduje również zastosowanie przy budowie teleobiektywów fotograficznych, gdy wymagana jest długa ogniskowa przy względnie niedużych rozmiarach obiektywu. 
+
+Teleskop Ritcheya–Chrétiena
+Wadą teleskopów z paraboloidalnym zwierciadłem głównym jest występowanie komy, aberracji optycznej polegającej na zniekształceniu obrazów obiektów leżących poza osią optyczną teleskopu. Wady tej jest praktycznie pozbawiony system zaprojektowany na początku XX wieku przez George'a Willisa Ritcheya i Henriego Chrétiena. W systemie tym paraboloidalne zwierciadło główne zostało zastąpione zwierciadłem hiperboloidalnym. Przez odpowiedni dobór krzywizn zwierciadła głównego i wtórnego można uzyskać wolny od komy obraz dla względnie dużego pola widzenia. Teleskopy tego typu są powszechnie używane w zastosowaniach profesjonalnych.
+
+Teleskop Dall-Kirkham
+Układ zaprojektował w 1928 roku Horace Dall. Składa się on z elipsoidalnego zwierciadła pierwotnego i sferycznego, wypukłego zwierciadła wtórnego. Poniewż system ten nie pozwala na pełną eliminację komy, często wyposaża się go w dodatkowy system soczewek korekcyjnych umieszczony przed ogniskiem teleskopu (rozwiązanie takie nosi nazwę Corrected Dall-Kirkham lub Modified Dall-Kirkham). 
+
+Teleskop Nasmytha i Coude
+
+W systemie Nasmytha pomiędzy zwierciadłem głównym i wtórnym znajduje się dodatkowe płaskie zwierciadełko nachylone pod kątem 45 stopni do osi teleskopu, które wyprowadza światło w bok tubusa. W teleskopach tego typu zwierciadło główne nie posiada otworu centralnego. 
+
+W systemie Coude światło jest wyprowadzane z boku tubusa do wnętrza jednej z osi obrotu instrumentu, a nastepnie przy pomocy kolejnego, ruchomego zwierciadełka kierowane do ustalonego miejsca na zewnątrz teleskopu. System taki stosowany był często w teleskopach współpracujących ze spektrografami o wysokiej dyspersji.
+
+Teleskop Herschela
+
+Jest przykładem teleskopu z ogniskiem pozaosiowym. Został zbudowany w II połowie XVIII wieku przez Williama Herschela. Rozwiązanie takie miało na celu wyeliminowanie zwierciadła wtórnego w celu zmniejszenia strat światła (ówczesne teleskopy miały zwierciadła wykonane z polerowanego brązu o stosunkowo niedużym współczynniku odbijalności). Herschel zastosował ten system w zbudowanym przez siebie w 1789 roku teleskopie o srednicy 126 cm. W teleskopie Herschela zwierciało głowne jest lekko nachylone w stosunku do osi teleskopu, dzięki czemu ognisko wyprowadzone jest w okolice przedniej krawędzi tubusa. 
+
+Teleskop "Prime Focus"
+
+W systemie tym detektor światła (kamera CCD, klisza fotograficzna itp.) znajduje się bepośrednio w ognisku głównym. Przy dostatecznie dużej średnicy zwierciadła możliwe jest umieszczenie w ognisku głównym kabiny obserwatora (takie rozwiązanie było zastosowane m.in. w 508 cm teleskopie Hale'a na Mount Palomar).
+
+Systemy soczewkowo-zwierciadlane
+W celu zapewnienie dużego, wolnego od komy i innych aberracji pola widzenia stosowane są systemy soczewkowo-zwierciadlane (katadioptryczne), stanowiące połączenie teleskopu zwierciadlanego z dodatkowymi soczewkowymi układami korygującymi obraz.
+
+Teleskop Schmidta
+
+Wynaleziony w 1930 roku przez Bernharda Schmidta. Zwierciadło główne ma kształt sferyczny. W celu usunięcia aberracji sferycznej z przodu tubusa umieszczona jest cienka, szklana płyta korekcyjna, która w części centralnej działa jak soczewka skupiająca, w części obwodowej jak rozpraszająca. Światło jest z takiego teleskopu wyprowadzone najczęściej przez otwór w zwierciadle głównym (system Schmidta-Casegraina), ale spotykane są też inne konfiguracje.
+
+Teleskop Maksutowa
+
+System zaprojektował w 1941 roku rosyjski fizyk Dmitrij Maksutow. Jego zasada działania jest zbliżona, jak w przypadku teleskopu Schmidta, z tą różnicą, że funkcję korekcyjną pełni w nim wklęsło-wypukły menisk szklany.  
+
+Teleskop z płynnym zwierciadłem (Liquid Mirror Telescope, LMT)
+
+W teleskopach tych powierzchnią odbijającą światło nie jest wypolerowany element szklany lub metalowy, lecz ciecz (najczęściej rtęć), przybierająca kształt paraboloidy w wyniku wprawienia jej w ruch obrotowy z odpowiednią prędkością katową. W celu zminimalizowania ilości cieczy potrzebnej do uzyskania odpowiedniego efektu, obrotowy pojemnik ma dno o kształcie możliwie jak najbardziej zbliżonym do pożądanego kształtu powierzchni odbijającej. Po nalaniu rtęci do nieruchomego pojemnika zbiera się ona początkowo w centralnej jego części, natomiast po wprawieniu pojemnika w ruch obrotowy rozpływa się równomiernie po całej powierzchni.
+
+Wadą tego rodzaju teleskopu jest to, ze może on pracować jedynie jako teleskop zenitalny (skierowany zawsze dokładnie w okolice zenitu) i niemożliwe jest skierowanie go w dowolny obszar nieba (do obserwacji dostępny jest jednie wąski pas sfery niebieskiej przemieszczający się przez zenit w wyniku ruchu dobowego). Ponadto ze względu na toksyczność par rtęci konieczne jest zapewnienie personelowi pracującemu przy teleskopie odpowiednich środków ochronnych. Problemem jest też czyszczenie powierzchni ciekłego zwierciadła z osiadającego na nim kurzu i pyłu. 
+
+Największą zaletą LMT jest natomiast niski koszt wykonania w porównaniu z klasycznym teleskopem zwierciadlanym o porównywalnej średnicy.
+
+Linki zewnętrzne
+Zobacz też
+teleskop Cassegraina
+teleskop Gregory'ego
+teleskop Newtona
+
+
+
+
+
+

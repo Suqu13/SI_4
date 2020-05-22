@@ -1,0 +1,20 @@
+Dekretacja to zarządzenie odpowiedniej osoby, dotyczące zwłaszcza pism wpływających do komórki organizacyjnej, nadaje właściwy bieg dokumentacji wpływającej  zgodnie z przyjętą instrukcją kancelaryjną lub innymi przepisami regulującymi obieg danego rodzaju dokumentów (np. księgowych).
+
+Zgodnie z instrukcją kancelaryjną adnotacja umieszczana na piśmie (dokumencie) lub do niego dołączona, powinna wskazywać komórkę organizacyjną (osobę) odpowiedzialną za załatwienie danej sprawy. Może również określać sposób lub termin załatwienia sprawy.
+
+Pisma przychodzące najpierw są rejestrowane a następnie przekazywane do dekretacji. W urzędzie administracji publicznej dekretacją zajmuje się kierownik urzędu lub wyznaczona przez niego osoba. Zadekretowane dokumenty przekazywane są następnie przez sekretariat do właściwych komórek organizacyjnych. Przesyłki zadekretowane do załatwienia przez komórkę organizacyjną mogą być przyjęte do załatwienia bezpośrednio przez kierownika komórki lub ponownie dekretowane innej osobie przy założeniu, że ponowna dekretacja nie może wprowadzać zmian w sposobie i terminie załatwienia sprawy. Zmiany może dokonać tylko dekretujący.  
+
+Sposób wykonania dekretacji jest zależny od obowiązującego w danej komórce organizacyjnej systemu kancelaryjnego. Dekretacje wykonane w systemie EZD (Elektroniczne Zarządzanie Dokumentacją) potwierdza się podpisem elektronicznym poprzez dołączenie danych identyfikujących imię, nazwisko i stanowisko osoby dokonującej tej czynności do dekretowanej treści.
+
+Natomiast w systemie tradycyjnym dekretacji dokonuje się na przesyłkach w postaci papierowej.  Polega ona na odręcznym umieszczeniu odpowiednich informacji bezpośrednio na przesyłce, wraz z datą i podpisem dekretującego.  W systemie tym dopuszcza się możliwość korzystania z narzędzi informatycznych w celu dokonania dekretacji pod warunkiem późniejszego przeniesienia jej w formie dekretacji zastępczej na dokument w postaci nieelektronicznej.  
+
+W sądownictwie niektórych krajów wypisywaniem dekretacji zajmuje się asystent sędziego. W Polsce, zgodnie z przepisami prawa, zajmuje się tym bezpośrednio sędzia.
+
+W księgowości dekretów używa się aby ująć zdarzenie gospodarcze w systemie finansowo-księgowym firmy. Dekretując zdarzenie gospodarcze, np. wystawienie faktury kosztowej, osoba odpowiedzialna powinna oznaczyć dany dokument, np. fakturę, w ten sposób aby można było przenieść operację do systemu księgowego. Dekret powinien zawierać numery kont księgowych, na których powinna zostać umieszczona operacja gospodarcza, krótki opis operacji gospodarczej, podpis osoby dekretującej, datę zdarzenia gospodarczego i kwotę. Po zadekretowaniu zdarzenia gospodarczego, co najczęściej następuje poprzez wystawienie dekretu na danym dokumencie, np. fakturze lub poleceniu księgowania, taki dokument można wprowadzić do systemu księgowego, czyli zaksięgować.
+
+
+
+
+
+
+

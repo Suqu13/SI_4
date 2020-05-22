@@ -1,0 +1,87 @@
+
+Krzywa Laffera – koncepcja teoretyczna, która za pomocą krzywej ilustruje zależność między stawką opodatkowania dochodów a dochodami budżetowymi państwa z tytułu podatków; opracowana w połowie lat 70. XX wieku (1974) przez amerykańskiego ekonomistę Arthura Laffera; bywa używana jako argument za zmniejszeniem podatków.
+
+Koncepcja
+Wartość przychodów budżetowych przy stawce opodatkowania dochodów równej  jest zerowa. Zgodnie z teorią Laffera kolejne wzrosty stawek opodatkowania powodują coraz mniejsze przyrosty przychodów podatkowych, aż do momentu, w którym dalszy wzrost stawki będzie skutkował obniżeniem całkowitej wartości przychodów z tytułu podatków. Gdy stawka opodatkowania dochodów osiągnie , przychody znów będą zerowe. Punkt na krzywej Laffera odpowiadający stawce maksymalizującej przychody podatkowe nazywany jest punktem nasycenia. Z kształtu krzywej Laffera wynika, że ten sam poziom przychodów do budżetu z tytułu podatków rząd może osiągnąć dla dwóch różnych stawek opodatkowania –  i .
+
+Założenia
+Laffer w swojej koncepcji oparł się na następujących założeniach:
+Przy stawce opodatkowania równej  podatnicy nie płacą żadnych podatków, zatem budżet państwa nie odnotowuje żadnych przychodów z podatków.
+Wzrost stawki opodatkowania wyzwala dwa przeciwstawne efekty:
+zwiększenie udziału budżetu państwa w dochodach podmiotów gospodarczych
+zmniejszenie deklarowanego do opodatkowania dochodu podmiotów gospodarczych.
+
+Ten drugi efekt podniesienia stawki opodatkowania Laffer wyjaśnia poprzez:
+zmniejszenie motywacji do podejmowania pracy i działalności gospodarczej – ograniczenie korzyści, jaką podmioty gospodarcze odnoszą ze swojej pracy i działalności gospodarczej skłania je do ograniczenia swojej aktywności w tej dziedzinie,
+zwiększenie skłonności podmiotów gospodarczych do ukrywania swoich dochodów i wchodzenia w szarą strefę – przy wyższej stawce opodatkowania podmioty gospodarcze odnoszą większe korzyści z niepłacenia podatków, co skłania je do rozwinięcia tego procederu,
+zwiększenie skłonności, zwłaszcza dużych przedsiębiorstw, do delokalizacji działalności gospodarczej, przeniesienia całości lub znacznej części czynników produkcji za granicę, na przykład do tzw. rajów podatkowych.
+
+Przy poziomie opodatkowania dochodów  ustają wszelkie bodźce do pracy i prowadzenia działalności gospodarczej podlegającej opodatkowaniu. Nie mając motywacji do pracy i prowadzenia działalności gospodarczej, podmioty zaprzestają działalności i żadne dochody nie są wytwarzane (albo wytwarzane są w szarej strefie). W ten sposób przestaje istnieć przedmiot opodatkowania i przychody z tego tytułu mają wartość zerową.
+
+Krzywa Laffera w praktyce
+Krzywa Laffera jest najbardziej znanym modelem ekonomii podaży której twórcy postulowali obniżenie stóp podatkowych w celu pobudzenia inwestycji oraz ograniczenia roli państwa w gospodarce w celu zwiększenia podaży pracy.
+
+Podstawową przesłanką dla polityki fiskalnej państwa formułowaną na podstawie krzywej Laffera jest możliwość (przy określonych warunkach) zwiększenia wpływów podatkowych poprzez obniżenie stopy opodatkowania.
+
+Przykłady potwierdzające słuszność modelu
+Najbardziej spektakularne efekty zastosowania w praktyce gospodarczej wniosków płynących z koncepcji krzywej Laffera wykazały doświadczenia Stanów Zjednoczonych, zanim jeszcze koncepcja ta została naukowo opracowana. Co ciekawe, oprócz efektu w postaci zwiększenia wpływów budżetowych oraz zwiększenia tempa wzrostu gospodarczego odnotowano znaczący efekt redystrybucyjny.
+
+W 1925 r. w Stanach Zjednoczonych obniżono najwyższą stawkę PIT z 73% do 25%. Dochody budżetowe z tytułu tego podatku wzrosły z 719 milionów USD w 1921 do ponad $1 miliarda w 1929 r., a udział ówczesnych ludzi bogatych (zarabiających ponad 100 tys. USD rocznie) w całości przychodów z podatku zwiększył się z 28% w roku 1921 do 51% w 1926. Z drugiej strony osoby z dochodami najmniejszymi poniżej 10 tys. USD w roku 1921 zapłaciły 23%, a w roku 1926 tylko 5% ogólnej kwoty wpływów podatkowych.
+
+Pierwszym bezpośrednim zastosowaniem w polityce gospodarczej koncepcji krzywej Laffera (opracowanej już wówczas w formie naukowej) było znaczące obniżenie stawek PIT w USA w 1981 roku. Administracja prezydenta Ronalda Reagana zmniejszyła najwyższą stawkę opodatkowania z 70 do 50%, a następnie w 1986 roku do 28%.
+
+W Polsce doświadczenia z mechanizmem krzywej Laffera związane są z podatkiem akcyzowym od wyrobów spirytusowych. Podwyżki stawek akcyzy na wyroby spirytusowe w latach 1999–2001 przyczyniły się do obniżenia dochodów budżetu państwa z tego tytułu. Obniżka stawki akcyzy w roku 2002 skutkowała zwiększeniem przychodów, co stało się argumentem dla dalszych reform podatkowych wdrażanych przez rząd Leszka Millera. Z kolei wzrost stawek akcyzowych na wyroby tytoniowe spowodował spadek dochodów akcyzowych przy równoczesnym wzroście wykorzystania papierosów z przemytu. Ww. podwyżkom akcyzy w Polsce towarzyszył zarówno spadek produkcji krajowej, jak też spadek legalnej sprzedaży wyrobów tytoniowych, natomiast liczba osób palących nie uległa przy tym zmianie, co wskazuje na jednoczesny wzrost szarej strefy i przemytu tych wyrobów. Również obniżenie stawki CIT z 27 na 19% spowodowało znaczący wzrost wpływów budżetowych z tytułu tego podatku.
+
+Na przykład według analiz ośrodka Concorde francuski rynek z powodu zbyt wysokiego obciążenia podatkowego pracy stracił około miliona miejsc pracy. Emigrację podatkową podjęło około 60 tysięcy przedsiębiorców, z których każdy zatrudniał średnio 60 osób.
+
+Dyskusja nad przykładami
+Do dziś trwają spory o rzeczywiste efekty gospodarcze, które wystąpiły po obniżce podatków, a także spekulacje co do faktycznych przyczyn tych efektów. Obniżce podatków w latach 80. w Stanach Zjednoczonych towarzyszyło zwiększenie deficytu budżetowego. Był to silny argument w rękach przeciwników koncepcji Laffera, jednak zwolennicy starali się wykazać, że wzrost przychodów miał miejsce, a pogłębienie deficytu budżetowego wynikało z jeszcze większego wzrostu wydatków budżetowych. Część oponentów Laffera uznawała argument o wzroście przychodów, ale jego przyczyn dopatrywała się raczej w ogólnym wzroście PKB, którego tempo nie odbiegało wówczas od innych dekad XX w.
+
+Dane statystyczne potwierdzają natomiast jednoznacznie efekt redystrybucyjny, jaki nastąpił w latach 80. w USA. W 1981 r. udział 5% najlepiej zarabiających Amerykanów w przychodach z podatków wynosił 35,4%, podczas gdy w 1990 r. wynosił już 44%. Udział płacony przez najbogatszych podatników stanowiących 1% ogółu amerykańskiej populacji wzrósł z 17,9 do 25,6%. Natomiast „dolne” 50% podatników zmniejszyło w tym samym czasie swój udział w ogólnej kwocie płaconych podatków z 7,4% do 5,7%. Jednak także tu występują wśród ekonomistów poważne rozbieżności co do przyczyn tego zjawiska. Zwolennicy rozwiązań administracji Reagana skłonni są uważać, że to efekt podażowy oraz osłabienie bodźców do unikania opodatkowania zdecydowały o zwiększeniu dynamiki wzrostu dochodów, a tym samym rozszerzenia bazy podatkowej. Przeciwnicy szkoły ekonomii podaży przekonywali, że wzrost udziału ludzi bogatych w przychodach podatkowych wynikał raczej z ich obaw co do utrzymania się korzystnych stawek w dłuższej perspektywie i efektu spekulacyjnego. Oczekując podwyżek stawek, najbogatsi postanowili – jak argumentowali przeciwnicy – zrealizować zyski z kapitału, koncentrując znaczną część swoich dochodów w czasie. Tym samym podlegali mniejszemu wymiarowi podatków, ale odbyło się to kosztem przyszłych wpływów do budżetu.
+
+Niezależnie jednak od ocen wpływu znacznych obniżek podatków na wysokość i strukturę przychodów podatkowych dostrzegany jest ich zdecydowanie pozytywny wpływ na dynamikę amerykańskiego wzrostu gospodarczego w latach 80.
+
+Kształt
+Praktyczne określenie kształtu krzywej
+
+Ze względu na płynące z koncepcji krzywej Laffera wnioski o możliwości jednoczesnego obniżenia stawki podatku i zwiększenia przychodów budżetowych z tego tytułu, krzywa ta często bywa wykorzystywana przez zwolenników liberalizmu gospodarczego do uzasadniania obniżania podatków. Należy podkreślić, że jakkolwiek koncepcja krzywej Laffera w określonych warunkach gospodarczych uzasadnia obniżenie podatków celem zwiększenia przychodów budżetowych, to jednak nie daje jednoznacznych przesłanek w tym zakresie. W szczególności powołanie się na krzywą Laffera wymagałoby wykazania, że obecna stawka opodatkowania jest wyższa od stawki odpowiadającej punktowi nasycenia, ponieważ tylko przy takich warunkach obniżenie stawki opodatkowania zwiększy przychody z tytułu podatków. Tym samym koncepcja krzywej Laffera nie w każdych okolicznościach może być uzasadnieniem dla obniżenia stopy opodatkowania. Wyznaczenie ex ante stopy maksymalizującej przychody podatkowe państwa jest niezwykle złożone i wiąże się z licznymi trudnościami (niektórzy ekonomiści wątpią w ogóle w możliwość jej jednoznacznego wyznaczenia). Jedynym pewnym sposobem wydaje się analiza ex post, czyli empiryczne badanie reakcji wysokości przychodów podatkowych na zmiany stopy opodatkowania. Pewne badania wskazują, iż rzeczywista krzywa może nie mieć symetrycznego kształtu.
+
+Zmienność krzywej w czasie
+Innym problemem przy stosowaniu krzywej Laffera jest zmienność kształtu krzywej w czasie. Doświadczenia państw europejskich z czasów II wojny światowej pokazują, że w warunkach wojny i zagrożenia militarnego obywatele są skłonni ponosić większe obciążenia na rzecz państwa. Kolejne podwyżki podatków na cele wojenne skutkowały zwiększeniem przychodów z tego tytułu. Tym samym punkt nasycenia na krzywej Laffera był znacząco przesunięty w prawo. Po zakończeniu działań wojennych w wielu państwach zdecydowano się obniżyć stawki opodatkowania. Efektem tych obniżek było ponowne zwiększenie przychodów do budżetu, z czego wynika, że stawka opodatkowania (choć w czasie wojny ustalona poniżej poziomu nasycenia) była wyższa od powojennej stawki nasycenia. Wraz z ustaniem zagrożenia i zmianą warunków życia krzywa Laffera zmieniła kształt, a stawka nasycenia znacznie się obniżyła.
+
+Lokalizacja działalności gospodarczej a krzywa Laffera
+Dodatkową trudnością może być zróżnicowanie lokalizacyjne kształtu krzywej Laffera. Pozapodatkowe warunki gospodarowania w różnych lokalizacjach mogą mieć wpływ na reakcję podmiotów gospodarczych na zmiany stawki opodatkowania. Na przykład w regionach przygranicznych łatwiej substytuować obłożone wysokim podatkiem akcyzowym krajowe wyroby alkoholowe tańszym importem. Jednostki będą bardziej skłonne rezygnować z konsumpcji alkoholu objętego podatkiem na rzecz łatwo sprowadzanego z zagranicy tańszego alkoholu i tym samym będą zmniejszać podstawę opodatkowania. Punkt nasycenia krzywej Laffera będzie tu przesunięty znacznie w lewo w stosunku do regionów centralnych kraju, gdzie substytucja wyrobów alkoholowych jest trudniejsza (a więc bardziej kosztowna).
+
+Krzywa Laffera w krótkim okresie
+Jednym z problemów, przed jakim stają decydenci polityki gospodarczej państwa, jest ograniczenie zastosowania krzywej Laffera związane z różnicą elastyczności krzywej w krótkim i w długim okresie. W krótkim okresie podmioty gospodarcze nie są w stanie zareagować odpowiednio szybko na zmiany stopy opodatkowania, co powoduje, że punkt nasycenia na krzywej przesuwa w kierunku maksymalnego opodatkowania.
+
+Choć nie zostało to nigdy potwierdzone empirycznie (i jest bardzo wątpliwe, by kiedykolwiek tego dokonano), można teoretycznie uzasadnić, że w ultrakrótkim okresie nawet stopa opodatkowania dochodów na poziomie 100% nie będzie skutkować zerowymi przychodami podatkowymi. Reakcja podmiotów gospodarczych na podniesienie stopy opodatkowania do tego poziomu nie będzie natychmiastowa. Podmioty będą stopniowo wygaszać działalność gospodarczą, co oznacza, że przynajmniej przez okres do jej całkowitego ustania będą płacić podatki w wysokości 100% dochodu. Poza tym można z dużym prawdopodobieństwem założyć, że większość podmiotów, które przy 100% stawce zdecydowałyby się na funkcjonowanie w szarej strefie, ujawniałaby część swoich dochodów, aby zachować pozory legalności działania.
+
+Krzywa Laffera w długim okresie
+W długim okresie reakcja podmiotów gospodarczych jest bardziej wyraźna, dlatego długookresowa stawka opodatkowania maksymalizująca przychody budżetowe jest niższa od stawki krótkookresowej. Optymalizacja stawki opodatkowania na podstawie krzywej Laffera będzie zatem wymagała decyzji politycznej co do okresu optymalizacji. Cykl wyborczy często skłania rządy do optymalizacji krótkoterminowej, co jest poważnym ograniczeniem stosowalności krzywej Laffera w praktyce gospodarczej i stanowi jedną z ważniejszych form zawodności państwa w zakresie działalności regulacyjnej.
+
+Krzywa Laffera a optymalizacja stawki opodatkowania
+Przedmiot optymalizacji
+Należy podkreślić, że stawka opodatkowania odpowiadająca punktowi nasycenia na krzywej Laffera jest stawką optymalną jedynie z punktu widzenia wysokości przychodów budżetowych. Nie wykazano prostej zależności pomiędzy tą stawką a stawką opodatkowania optymalną z punktu widzenia rozwoju gospodarczego. Nie istnieje też bezpośrednia zależność między stawką nasycenia na krzywej Laffera a stawką optymalną z punktu widzenia preferencji podatników.
+
+Wieloparametrowość optymalizacji
+Można wyobrazić sobie sytuację, w której obywatele dwóch różnych państw mają takie same preferencje co do wysokości stopy opodatkowania, jednak przepisy pierwszego z państw ściślej regulują kontrolę fiskalną przy takich samych kosztach kontroli. Taka silniejsza kontrola osłabia jeden z czynników obniżających wpływy podatkowe, jakim jest skłonność podmiotów gospodarczych do przechodzenia w szarą strefę (ponieważ wiąże się ono wówczas z większym ryzykiem). Tym samym reakcja podmiotów gospodarczych pierwszego państwa na zmianę stawki opodatkowania będzie (ceteris paribus) sztywniejsza niż w przypadku drugiego państwa, o mniej ścisłej kontroli fiskalnej. Stawka odpowiadająca punktowi nasycenia na krzywej Laffera w przypadku pierwszego państwa będzie zatem wyższa niż w przypadku drugiego państwa, przy takich samych preferencjach podatników co do wysokości stopy opodatkowania.
+
+Optymalizacja z punktu widzenia aparatu urzędniczego
+Krzywa jasno wskazuje, że istnieją co najmniej dwie różne stawki opodatkowania, którym odpowiada ten sam przychód podatkowy. Nie należy jednak sądzić, że sytuacja ekonomiczna budżetu jest w obydwu tych punktach identyczna, różne mogą być bowiem koszty zbierania podatków w punktach  i , a co za tym idzie, różne są dla nich przepływy pieniądza. Niektórzy argumentują, że dla aparatu urzędniczego może być istotnie korzystne utrzymywanie stawki wyższej. Może to być źródłem nieefektywnej optymalizacji stawki podatkowej, co z punktu widzenia gospodarki jest sytuacją niekorzystną.
+
+Wokół krzywej Laffera
+Krzywa Laffera po raz pierwszy została wykreślona na serwetce w restauracji Two Continents w Waszyngtonie w 1974. Arthur Laffer w ten sposób tłumaczył swoje koncepcje podatkowe ówczesnemu zastępcy szefa sztabu Białego Domu Dickowi Cheneyowi. Świadkiem i organizatorem tego spotkania był dziennikarz Jude Wanniski, który nadał krzywej nazwę od nazwiska jej autora i spopularyzował ideę w licznych artykułach i książce The Way The World Works.
+
+Idea, która kryje się za krzywą Laffera, pojawiała się wielokrotnie w historii myśli ekonomicznej, zanim jeszcze została opracowana w formie naukowej. Podobne koncepcje zostały zawarte m.in. w pracach francuskiego ekonomisty Frédérica Bastiata (XIX wiek) i arabskiego uczonego Ibn Chalduna (XIV wiek).
+
+Zobacz też
+opór podatkowy
+
+
+
+Bibliografia
+Linki zewnętrzne
+
+
+Grzegorz Rossa:  EIOBA

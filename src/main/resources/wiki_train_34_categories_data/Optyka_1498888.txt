@@ -1,0 +1,31 @@
+Prawo Bouguera (zwane również prawem Lamberta) – prawo dotyczące absorpcji (pochłaniania) światła w ośrodku materialnym. Mówi ono, że natężenie światła przechodzącego przez warstwę substancji maleje wykładniczo wraz ze wzrostem grubości tej warstwy. Analitycznie prawo to wyraża wzór:
+gdzie
+x – grubość warstwy ośrodka,
+I(x) – natężenie światła po przejściu przez warstwę,
+I'0 – natężenie światła padającego,
+α – współczynnik absorpcji (pochłaniania) światła,
+e – podstawa logarytmu naturalnego.
+__NOTOC__
+Współczynnik pochłaniania światła
+Współczynnik absorpcji można zdefiniować następująco: jest to odwrotność grubości warstwy po przejściu której światło ma e-krotnie mniejsze natężenie. Jednostką jego jest odwrotność metra (m−1). Współczynnik pochłaniania jest stały dla danej substancji dla światła o ustalonym składzie widmowym. Duża wartość tego współczynnika oznacza silne pochłanianie światła. Ośrodek doskonale przezroczysty ma zerowy współczynnik absorpcji. Współczynnik ten zależy od długości fali, czyli ośrodek może być bardzo przezroczysty dla światła niebieskiego, natomiast światło czerwone będzie silnie pochłaniane.
+
+Przykładowe orientacyjne wartości współczynnika pochłaniania dla światła białego:
+dla szkła ~ 1 m−1,
+dla metalu ~ 106 m−1.
+
+Historia odkrycia
+Prawo to zostało odkryte przez Pierre'a Bouguera w roku 1729. Ten francuski uczony znany był przede wszystkim ze swoich prac na temat hydrografii. W roku 1760 niemiecki fizyk, matematyk i astronom Johann Heinrich Lambert opublikował pracę, w której po raz wtóry sformułował to samo prawo, zapisując je w trochę innej postaci. Lambert nie znał wcześniej publikacji Bouguera, a gdy się z nią zapoznał, przyznał pierwszeństwo swemu francuskiemu koledze. Mimo to często prawo to bywa nazywane prawem Lamberta.
+
+
+
+Bibliografia
+Jurgen R. Meyer-Arendt, Wstęp do optyki, PWN, Warszawa, 1977.
+I.W. Sawieliew, Wykłady z fizyki t. 2, PWN, Warszawa, 1994.
+
+Zobacz też
+prawo Lamberta
+prawo Lamberta-Beera
+prawo Beera
+głębokość optyczna
+
+

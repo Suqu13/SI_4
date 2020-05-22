@@ -1,0 +1,16 @@
+System zarządzania kolorem (CMS, ang. Color Management System) – standard systemowy, który umożliwia wierne odwzorowanie kolorystyczne danego produktu (reprodukcja kolorów). CMS pozwala na utworzenie dokładnie takich samych profili kolorystycznych na wszystkich urządzeniach, które biorą udział w procesie prepress i press (dtp).
+
+System zarządzania barwami:
+zapewnia przenośność barwy w przepływie pracy i niezależność barw od urządzeń (niezależna przestrzeń barw)
+umożliwia kontrolę koloru w etapie prepress
+wymaga kalibracji urządzeń (posiada profile barwowe urządzeń)
+posiada algorytm przekształcania modeli barw i algorytm renderowania barw spoza gamy
+
+Przyczyny niezgodności kolorystycznych:
+różne modele pracy urządzeń
+różne gamy barw na urządzeniach
+indywidualne cechy urządzeń
+
+
+
+

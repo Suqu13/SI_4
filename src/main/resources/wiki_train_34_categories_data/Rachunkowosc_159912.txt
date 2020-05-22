@@ -1,0 +1,233 @@
+Podatek dochodowy od osób fizycznych (PIT od ang. Personal Income Tax, czyli podatek od dochodów osobistych) – podatek bezpośredni obejmujący dochody uzyskiwane przez osoby fizyczne. 
+
+"PIT" to również nazwa druków urzędowych udostępnianych w Polsce przez Ministerstwo Finansów, na których podatnicy składają deklaracje rozliczeniowe dotyczące podatku od dochodów osobistych.
+
+Charakterystyka
+Obecnie na świecie wykształciły się dwa podstawowe typy podatków dochodowych: podatek cedularny znany też jako podatek analityczny i podatek globalny, określany jako syntetyczny czy unitarny.
+
+Podatek cedularny powstał w Anglii w 1842 r. W konstrukcji tego podatku wszystkie dochody zostały podzielone na 5 tzw. ceduł – grup (z użytkowania własności, z kapitału, z wolnej działalności zarobkowej, pozostałych dochodów z kapitałów, z płac i pensji urzędniczych), które były obciążone różnymi stawkami proporcjonalnymi w poszczególnych cedułach. Później Lloyd George w latach 1909–1910 wprowadził tzw. super-tax (dochodu globalnego) – który obejmował sumy nadwyżek dochodów osiągniętych z poszczególnych ceduł, podlegających ponownemu opodatkowaniu, ale już według skali progresywnej. Taki wzór mieszany systemu podatkowego ukształtował się też w takich krajach jak: Francja, Belgia i Włochy. W Polsce taki charakter miał w latach 1950–1971 podatek dochodowy płacony przez osoby fizyczne i prawne nie będące jednostkami gospodarki uspołecznionej.
+
+W 1891 r. opracowano w Prusach tzw. globalny podatek dochodowy. Podatek ten obejmował cały dochód jednostki, bez względu na źródło jego pozyskania. W podatku globalnym nie ma podziału podstawy opodatkowania na dochody z poszczególnych źródeł, a jest nią suma dochodów. Podstawą opodatkowania był w tym systemie tzw. czysty dochód, w niektórych jednak przypadkach (np. w przypadku opodatkowania pracy najemnej i działalności gospodarczej prowadzonej na własny rachunek), sposób ustalania dochodów z poszczególnych źródeł przychodów mógł być zróżnicowany. Austria, wprowadziła podatek dochodowy globalny na własnych terenach w latach 1896–1898. Globalny charakter miał też przedwojenny polski państwowy podatek dochodowy oraz ma go obecnie obowiązujący podatek dochodowy od osób fizycznych.
+
+Podatek dochodowy od osób fizycznych w Polsce
+Podatek dochodowy od osób fizycznych w Polsce uregulowany jest ustawą z dnia 26 lipca 1991 r. (tekst jedn. , z późn. zm.). Ponadto prawa i obowiązki podatnika tego podatku wynikają z szeregu postanowień Konstytucji RP, wielu ustaw i ratyfikowanych umów międzynarodowych oraz rozporządzeń wykonawczych.
+
+Polska ustawa o podatku dochodowym od 2000 roku była nowelizowana 133 razy.
+
+Zakres podmiotowy podatku dochodowego od osób fizycznych
+Podatnikami podatku dochodowego są osoby fizyczne. Ani Ordynacja podatkowa, ani inne ustawy podatkowe czy też przepisy prawa podatkowego nie definiują pojęcia „osoba fizyczna”. Przy ustalaniu definicji osoby fizycznej pomocnymi są uregulowania art. 8 kodeksu cywilnego, który mówi iż każdy człowiek od chwili urodzenia ma zdolność prawną.
+
+Oddzielnym problemem jest kwestia ustalania istnienia obowiązku podatkowego w stosunku do dochodów uzyskiwanych poza terytorium kraju. Może istnieć tu zjawisko tzw. podwójnego opodatkowania, czyli sytuacja gdy ten sam dochód został opodatkowany zarówno w państwie jego uzyskania jak i w kraju zamieszkania. Zapobieganiu podwójnemu opodatkowaniu dochodów osób fizycznych służyć mają przede wszystkim zawierane w tym celu bilateralne umowy w sprawie zapobiegania podwójnemu opodatkowaniu.
+
+Podmiotowość w polskim podatku dochodowym od osób fizycznych oparta została przede wszystkim na tzw. zasadzie rezydencji, czyli zależy od miejsca zamieszkania osoby fizycznej i jest związana z tzw. nieograniczonym obowiązkiem podatkowym. Osoba posiadająca miejsce zamieszkania na terytorium RP płaci podatek od całości swych dochodów krajowych i zagranicznych, bez względu na miejsce położenia źródeł przychodów.
+
+Gdy brak jest przesłanek do przyporządkowania obowiązku podatkowego kryteriom rezydencji, stosuje się przyporządkowanie według zasady źródła, tj. według miejsca osiągania dochodów i konstrukcję tzw. ograniczonego obowiązku podatkowego. Podatnikami podatku dochodowego mogą być zatem i osoby fizyczne niemające miejsca zamieszkania ani stałego pobytu na obszarze Polski, ale tutaj osiągające dochody. Ograniczony obowiązek podatkowy polega na tym, iż osoba fizyczna niemająca na terytorium RP miejsca zamieszkania podlega opodatkowaniu od dochodów uzyskanych na jej obszarze na podstawie stosunku służbowego lub stosunku pracy, bez względu na miejsce wypłaty wynagrodzenia, oraz od innych dochodów uzyskiwanych w Polsce (np. z tytułu dywidend, kontraktów menedżerskich). Takie szerokie określenie polskiej jurysdykcji podatkowej może doprowadzić do podwójnego opodatkowania tych samych dochodów osiąganych przez jedną osobę w państwie miejsca zamieszkania i w państwie źródła przychodów. Podwójnemu opodatkowaniu dochodów osób fizycznych zapobiegać mają z jednej strony postanowienia wewnętrznego prawa podatkowego, z drugiej strony natomiast umowy międzynarodowe o unikaniu podwójnego opodatkowania. Obecnie na świecie są stosowane następujące metody w celu uniknięcia tego niekorzystnego dla podatnika zjawiska:
+środki jednostronne (unilateralne) – polegające na zrezygnowaniu przez dane państwo z przysługujących mu wierzytelności podatkowych w stosunku do określonego podatnika lub z określonych tytułów; znajdują one zastosowanie w przypadku braku bilateralnych i multilateralnych porozumień międzynarodowych; będą to m.in.
+instytucja ograniczonego obowiązku podatkowego (art. 3 ust. 2a u. p. d. o. f.),
+przewidziane postanowieniami art. 27 ust. 8 i ust. 9 u. p. d. o. f. specjalne metody obliczania podatku osobom, na których ciąży nieograniczony obowiązek podatkowy od dochodów położonych poza granicami RP – tzw. metodę wyłączenia z progresją i metodę odliczenia;
+środki dwustronne (bilateralne) – postanowienia dwustronnych umów międzynarodowych;
+środki wielostronne (multilateralne) – postanowienia wielostronnych umów międzynarodowych.
+
+Specjalną kategorią podatników są małżonkowie. Mianowicie możliwe jest ich łączne opodatkowanie za pośrednictwem tzw. ilorazu małżeńskiego, przy spełnieniu następujących warunków:
+pozostawanie przez cały rok podatkowy w związku małżeńskim;
+pozostawanie w ciągu całego roku podatkowego we wspólności majątkowej małżeńskiej (ograniczenie wspólności nie spełnia tej przesłanki);
+wspólne i w terminie złożenie wniosku o łączne opodatkowanie;
+żaden z małżonków (ani osoba samotnie wychowująca dzieci) nie korzysta jednocześnie z opodatkowania na zasadach określonych w ustawie z 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne; niekorzystanie z opodatkowania pozarolniczej działalności gospodarczej 19% stawką podatkową.
+
+Śmierć małżonka przed złożeniem wspólnego zeznania nie stanowi przeszkody do łącznego opodatkowania, brak wniosku o łączne opodatkowanie małżonka uniemożliwia wspólne rozliczanie się małżonków. Ponadto bez znaczenia jest także fakt, że małżonkowie mieszkają oddzielnie i podlegają z uwagi na swe miejsce zamieszkania właściwości różnych organów podatkowych. W sytuacji oddzielnego zamieszkiwania małżonków, właściwy miejscowo jest organ podatkowy wskazany przez nich we wspólnym rocznym zeznaniu podatkowym. Z tej możliwości rozliczania się ze swych dochodów osobistych nie mogą natomiast skorzystać osoby pozostające w konkubinacie. Konstrukcja łącznego opodatkowania ma zastosowanie także do osób samotnie wychowujących dzieci.
+
+Kumulacja dochodów małżonków (osób samotnie wychowujących dzieci) polega na sumowaniu dochodów małżonków, ewentualnie doliczeniu dochodów małoletnich dzieci, a następnie dzieleniu sumy dochodów na połowę. Podatek jest obliczany od tej połowy dochodów i mnożony przez dwa oraz ustalany na imię obojga małżonków.
+
+Specjalną kategorię podatników stanowią też spółki nieposiadające osobowości prawnej. Spółki tego typu stanowią tzw. pośrednie podmioty podatkowe, które co prawda wypracowują dochód, ale nie ciąży na nich obowiązek podatkowy. Dlatego też podatnikiem nie jest spółka nie posiadająca osobowości prawnej, lecz osoby fizyczne będące wspólnikami. Obliczanie podatku w takich podmiotach przebiega w dwóch fazach: w pierwszej ustala się dochód spółki, w drugiej ustala się dochód wspólnika z udziału w spółce, przy założeniu iż dochód (strata) wspólnika jest proporcjonalny do jego udziału w spółce, a w przypadku braku ustaleń odnośnie do udziałów, iż udziały wspólników są równe.
+
+Zakres przedmiotowy podatku dochodowego od osób fizycznych
+Do zakresu przedmiotowego podatku od dochodów osób fizycznych należą wszelkiego rodzaju dochody, z wyjątkami dochodów, które zostały zakwalifikowane przez ustawę do kategorii zwolnień przedmiotowych.
+
+Dochód jest rozumiany jako nadwyżka sumy przychodów nad kosztami ich uzyskania w danym roku podatkowym, z wyjątkiem wyraźnie zwolnionych od opodatkowania. Oprócz zwolnień przedmiotowych ustawodawca polski wyróżnił pewne dochody, których nie sumuje się (np. dochodu ze sprzedaży nieruchomości nie łączy się z dochodami z innych źródeł; dotyczy to także dochodów z nieujawnionych źródeł przychodów lub nieznajdujących pokrycia w ujawnionych źródłach albo dywidend). Wyłączenie niektórych dochodów (przychodów) z ogólnego dochodu danej osoby fizycznej nie znaczy, że nie podlegają one opodatkowaniu podatkiem dochodowym. Dochody ze źródeł przychodów niewliczanych do dochodu ogólnego są co do zasady opodatkowane oddzielnie, w formie najczęściej podatku ryczałtowego.
+
+Przedsiębiorcy mają wybór metody opodatkowania, mogą albo:
+wyodrębnić dochód z działalności gospodarczej od innych źródeł przychodów i płacić od tak wyodrębnionego dochodu cząstkowego podatek liniowy (proporcjonalny) według 19% stawki podatkowej;
+lub też skumulować dochód z działalności gospodarczej z innymi źródłami przychodów i być opodatkowanym od tak ujętego dochodu globalnego według progresywnej skali podatkowej (wtedy mają możliwość korzystania z przewidzianych w tym podatku ulg).
+
+Po stronie podatnika może wystąpić sytuacja, w której koszty uzyskania przychodu przekroczą sumę przychodów, wówczas osoba taka poniesie stratę. Wtedy podatnik może odliczyć stratę (z wyjątkiem straty powstałej z tytułu odpłatnego zbycia rzeczy i praw majątkowych oraz przychodów, z których dochody są wolne od podatku dochodowego) od dochodu osiągniętego w następnych 5 latach podatkowych z tego samego źródła, które przyniosło stratę.
+
+Źródła przychodów można podzielić na dwie kategorie: pierwsze związane z pracą a drugie z majątkiem. Źródłami przychodu, z których dochód podlega opodatkowaniu, są:
+stosunek służbowy, stosunek pracy, w tym również spółdzielczy stosunek pracy, członkostwo w rolniczej spółdzielni produkcyjnej lub innej spółdzielni zajmującej się produkcją rolną, praca nakładcza, emerytura i renta;
+działalność wykonywana osobiście (np. z tytułu osobistego wykonywania usług na podstawie umowy zlecenia lub umowy o dzieło albo wykonywania czynności na podstawie kontraktu menedżerskiego, wynagrodzenia biegłych oraz inkasentów należności publicznoprawnych, a także wynagrodzenie otrzymywane przez członków organów osób prawnych);
+pozarolnicza działalność gospodarcza, w tym również wykonywanie wolnego zawodu, o ile nie jest to działalność wykonywana osobiście;
+działy specjalne produkcji rolnej (np. hodowla drobiu i zwierząt futerkowych, prowadzenie pasiek);
+nieruchomości lub ich części;
+najem, podnajem, dzierżawa, poddzierżawa oraz inne umowy o podobnym charakterze, w tym również dzierżawa, poddzierżawa działów specjalnych produkcji rolnej oraz gospodarstwa rolnego lub jego składników na cele nierolnicze albo prowadzenie działów specjalnych produkcji rolnej;
+kapitały pieniężne i prawa majątkowe (za przychody z kapitałów pieniężnych ustawodawca nakazuje uważać m.in. odsetki od pożyczek, wkładów oszczędnościowych i środków na rachunkach wartościowych, dywidendy czy przychody z tytułu udziału w dochodach funduszy powierniczych oraz przychody z odpłatnego przeniesienia tytułu własności udziałów w spółkach, akcji oraz innych papierów wartościowych; natomiast za przychód z praw majątkowych uważa się w szczególności przychody z praw autorskich i praw pokrewnych, w tym również z odpłatnego ich zbycia);
+odpłatne zbycie: nieruchomości lub ich części oraz udziału w nieruchomości; spółdzielczego własnościowego prawa do lokalu mieszkalnego lub użytkowego oraz wynikającego z przydziału spółdzielni mieszkaniowej prawa do domu jednorodzinnego lub prawa do lokalu w małym domu mieszkalnym; prawa wieczystego użytkowania gruntów; innych rzeczy – jeżeli zbycie nie następuje w wykonywaniu działalności gospodarczej i zostało dokonane albo przed upływem 5 lat, albo przed upływem pół roku od ich nabycia;
+inne źródła (za przychody z innych źródeł ustawa w szczególności uważa kwoty wypłacanych przez zakład pracy lub organ rentowy zasiłków chorobowych, wyrównawczych, macierzyńskich, opiekuńczych oraz świadczeń rehabilitacyjnych; alimenty, z wyjątkiem alimentów na dzieci, stypendia, dotacje, nagrody oraz przychody nieznajdujące pokrycia w ujawnionych źródłach).
+
+Sąd Najwyższy w swoim orzeczeniu stwierdził, że "zakres przedmiotu opodatkowania musi być precyzyjnie określony w ustawie podatkowej, a interpretacja jej przepisów nie może być rozszerzająca".
+
+Zwolnienia w podatku dochodowym od osób fizycznych
+Zwolnienia podmiotowe związane są głównie z tzw. immunitetem podatkowym przedstawicielstw dyplomatycznych i konsularnych wynikającym przede wszystkim z postanowień prawa międzynarodowego publicznego.
+
+Zwolnienia przedmiotowe można podzielić na następujące grupy:
+o charakterze socjalnym (np. świadczenia rodzinne wypłacone na podstawie przepisów o świadczeniach rodzinnych, dodatki rodzinne i pielęgnacyjne, zaliczki alimentacyjne oraz zasiłki porodowe wypłacone na podstawie odrębnych przepisów, stypendia otrzymywane na podstawie przepisów o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki, stypendia doktoranckie);
+o charakterze odszkodowawczym i z tytułu ubezpieczeń gospodarczych (np. określonych w prawie pracy odpraw i odszkodowań z tytułu skrócenia okresu wypowiedzenia umowy o pracę, renty przyznane na podstawie odrębnych przepisów o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin);
+niektóre przychody związane z pracą (np. wartość otrzymanych przez pracownika od pracodawcy bonów, talonów, kuponów lub innych dowodów uprawniających do uzyskania na ich podstawie posiłków, artykułów spożywczych lub napojów bezalkoholowych);
+niektóre przychody związane ze sprzedażą (np. przychody uzyskane z zamiany budynku mieszkalnego);
+niektóre przychody rencistów i emerytów (np. dodatek pieniężny dla niektórych emerytów, rencistów i osób pobierających świadczenie przedemerytalne albo zasiłek przedemerytalny);
+związane z dietami (np. podróż służbowa pracownika);
+niektóre przychody z kapitałów i praw majątkowych;
+niektóre przejawy działalności gospodarczej;
+zwolnienia niektórych dochodów osiąganych za granicą (np. dochody pochodzące od rządów państw obcych, organizacji międzynarodowych lub międzynarodowych instytucji finansowych ze środków bezzwrotnej pomocy).
+
+Podstawa opodatkowania
+Podstawą opodatkowania w podatku dochodowym od osób fizycznych jest zasadniczo suma dochodów z poszczególnych źródeł przychodów. Dochód ustawodawca definiuje jako dodatnią różnicę między sumą przychodów a kosztami ich uzyskania w danym roku podatkowym.
+
+Przychodem są otrzymane lub postawione do dyspozycji podatnika w roku kalendarzowym pieniądze i wartości pieniężne oraz wartość otrzymanych świadczeń w naturze i innych nieodpłatnych świadczeń. W przypadku pozarolniczej działalności gospodarczej przychodem są kwoty należne, choćby nie zostały faktycznie otrzymane. Na przedsiębiorcach ciąży obowiązek podatkowy od kwot należnych z tytułu prowadzonej działalności, bez uzyskania rzeczywistego przychodu. W przypadku nieruchomości odstąpionych bezpłatnie do używania innym osobom – przychodem jest tzw. wartość czynszowa, a więc równowartość czynszu, jaki podatnik otrzymałby w razie zawarcia umowy najmu lub dzierżawy nieruchomości. Przychodem natomiast z zamiany rzeczy i praw majątkowych jest zamieniana rzecz lub prawo majątkowe o wyższej wartości, pomniejszona o koszty zamiany.
+
+Specjalną kategorią podstawy opodatkowania jest przychód z tzw. źródeł nieujawnionych, który ustala się, przyjmując za podstawę sumę poniesionych w roku podatkowym wydatków i wartość zgromadzonych w tym roku zasobów finansowych, nieznajdujących pokrycia w już opodatkowanych bądź wolnych od opodatkowania źródłach przychodów i posiadanych przedtem zasobach majątkowych.
+
+Kosztami uzyskania przychodów z poszczególnego źródła są wszelkie koszty ponoszone w celu osiągnięcia przychodów, z wyjątkiem kosztów wymienionych przez ustawę. Podatnik ma możliwość odliczenia do celów podatkowych wszelkich wydatków, pod tym jednak warunkiem, iż wykaże ich bezpośredni związek z prowadzoną działalnością gospodarczą lub inną działalnością zarobkową, a ich poniesienie ma lub może mieć bezpośredni wpływ na wielkość osiągniętego przychodu. Ustawodawca zawarł też katalog wydatków nie stanowiących kosztów uzyskania przychodu, są nimi:
+wydatki na nabycie składników majątku trwałego, nakłady tego typu mogą być w kosztach podmiotów gospodarczych uwzględniane zasadniczo poprzez odpisy amortyzacyjne;
+wydatki związane z wykonaniem przez podatnika zobowiązań wobec jego wierzycieli oraz strat związanych z niewykonaniem zobowiązań przez dłużników podatnika (np. spłata pożyczek, kredytów, wierzytelności odpisane jako nieściągalne, rezerwy tworzone na pokrycie wierzytelności, których nieściągalność została uprawdopodobniona);
+wydatki mających charakter sankcji finansowych (np. grzywny i kary pieniężne, koszty egzekucyjne związane z niewykonaniem zobowiązań, kary umowne i odszkodowania);
+wydatki związanych z regulowaniem zobowiązań podatkowych (np. z tytułu podatku akcyzowego od nadmiernych ubytków lub zawinionych niedoborów wyrobów, podatku dochodowego, podatku od spadków i darowizn oraz podatku od sprzedaży akcji w publicznym obrocie oraz podatku od towarów i usług);
+wydatków przekraczających ustalony przez prawodawcę limit (np. koszty reprezentacji i reklamy przekraczające zasadniczo 0,25% przychodu, wysokość diet z tytułu podróży służbowych);
+różnych innych wydatków (np. darowizny i wszelkiego rodzaju ofiary, składki na rzecz organizacji, do których przynależność podatnika nie jest obowiązkowa).
+
+W przypadku podmiotów zobowiązanych do prowadzenia ksiąg rachunkowych oraz księgi przychodów i rozchodów koszty uzyskania przychodu rzeczywiście poniesione powinny mieć pokrycie w rzetelnych i prawidłowych księgach, mających oparcie w dokumentach księgowych.
+
+Istnieje też możliwość ryczałtowego określenia kosztów uzyskania niektórych przychodów (np. przychody z tytułu praw autorskich – 50%, z umów o dzieło – 20%). Jeżeli podatnik wykaże, że koszty uzyskania przychodów były wyższe niż wynikające z zastosowania normy procentowej, koszty uzyskania przyjmuje się w wysokości kosztów faktycznie poniesionych.
+
+W niektórych przychodach koszty są przez ustawodawcę traktowane jednocześnie jako dochód (np. dochody z kapitałów pieniężnych), w takich przypadkach w ogóle nie ustala się kosztów uzyskania przychodu.
+
+Dochód w zależności od rodzaju działalności objętej opodatkowaniem oraz osób je prowadzących może być różnie ustalany. U podatników sporządzających bilans i rachunek wyników, dochodem z działalności gospodarczej jest dochód wykazany na podstawie prawidłowo prowadzonych ksiąg, zmniejszony o dochody wolne od podatku i zwiększony o wydatki niestanowiące kosztów uzyskania przychodów zaliczone uprzednio w ciężar kosztów uzyskania przychodów. U podatników osiągających dochody z działalności gospodarczej oraz prowadzących podatkowe księgi przychodów i rozchodów – dochodem z działalności jest różnica pomiędzy przychodem a kosztami uzyskania powiększona o różnicę między wartością remanentu końcowego i początkowego oraz sprzedaży składników majątku trwałego związanego z prowadzoną działalnością.
+
+W stosunku do osób, które nie są obowiązane do prowadzenia ksiąg, dochód może być dokumentowany wszystkimi środkami dowodowymi przewidzianymi w ordynacji podatkowej. Ponadto koszty uzyskania przychodu mogą być potrącone jedynie w tym roku podatkowym, w którym zostały faktycznie poniesione.
+
+Ulgi w podatku dochodowym od osób fizycznych
+Państwo za pomocą odpowiedniej polityki finansowej może posłużyć się podatkami do realizacji celów innych niż fiskalne. Służyć temu mogą ulgi podatkowe, faworyzujące określone kierunki działalności, jej przejawy lub sytuacje, w których znaleźli się określeni podatnicy. Konstrukcje prawne interwencji podatkowej polegać mogą na zastosowaniu preferencji okresowych lub bezterminowych dla określonych podatników lub dla określonej działalności. Ulgi podatkowe o charakterze podmiotowym lub przedmiotowym, okresowe lub bezterminowe, mogą polegać na:
+możliwości odliczenia pewnych ściśle określonych wydatków od podstawy opodatkowania przed opodatkowaniem;
+możliwości zastosowania w niektórych przypadkach niższej stawki podatkowej od powszechnie obowiązującej;
+możliwości odliczenia określonych wydatków od należnego podatku.
+
+Przez ulgę podatkową należy rozumieć przewidziane w przepisach prawa podatkowego zwolnienia, odliczenia, obniżki albo zmniejszenia, których zastosowanie powoduje obniżenie podstawy opodatkowania lub wysokości podatku (taką definicję formułuje ordynacja podatkowa).
+
+Według kryterium podmiotowo-przedmiotowego ulgi podatkowe przysługujące podatnikom podatku od dochodów osobistych można podzielić na dwie grupy:
+przysługujące podmiotom prowadzącym działalność gospodarczą (np. ulgi z tytułu nauki zawodu czy dochody z tytułu prowadzenia szkół), ustawodawca przewidział tu m.in.:
+ulgę polegająca na odliczeniu od uzyskanego dochodu (np. składki na ubezpieczenia społeczne),
+ulgę polegająca na odliczeniu od podatku,
+ulgę polegająca na zastosowaniu niższych stawek podatkowych;
+przysługujące podmiotom nieprowadzącym działalności gospodarczej, kategorie ulg są tu takie same jak w przypadku prowadzenia działalności gospodarczej.
+
+Od dochodu można odliczyć:
+składki na ubezpieczenia społeczne:
+zapłacone w roku podatkowym bezpośrednio na własne ubezpieczenia emerytalne, rentowe, chorobowe oraz wypadkowe podatnika oraz osób z nim współpracujących,
+potrącone w roku podatkowym przez płatnika ze środków podatnika na ubezpieczenia emerytalne i rentowe oraz na ubezpieczenie chorobowe;
+dokonane w roku podatkowym zwroty nienależnie pobranych świadczeń, które uprzednio zwiększyły dochód podlegający opodatkowaniu, w kwotach uwzględniających pobrany podatek dochodowy, jeżeli zwroty te nie zostały potrącone przez płatnika;
+wydatki na cele rehabilitacyjne oraz wydatki związane z ułatwieniem wykonywania czynności życiowych, poniesionych w roku podatkowym przez podatnika będącego osobą niepełnosprawną lub podatnika, na którego utrzymaniu są osoby niepełnosprawne;
+wydatki ponoszone przez podatnika z tytułu użytkowania sieci Internet w lokalu (budynku) będącym miejscem zamieszkania, posiadania Internetu w telefonie komórkowym, korzystania z sieci wireless, w kafejce internetowej, czy posiadania przenośnego modemu podłączanego do laptopa w wysokości nieprzekraczającej w roku podatkowym kwoty 760 zł;
+darowizny przekazane na cele (nie więcej jednak niż 6% dochodu):
+określone w art. 4 ustawy o działalności pożytku publicznego, organizacjom, o których mowa w art. 3 ust. 2 i 3 ustawy o działalności pożytku publicznego prowadzącym działalność pożytku publicznego w sferze zadań publicznych określonych w tej ustawie, realizującym te cele,
+kultu religijnego;
+faktycznie poniesione w roku podatkowym wydatki na spłatę odsetek od kredytu (pożyczki) udzielonego podatnikowi, na sfinansowanie inwestycji mającej na celu zaspokojenie własnych potrzeb mieszkaniowych.
+
+Od obliczonego już podatku można odliczyć:
+kwotę składki na ubezpieczenie zdrowotne;
+wpłaty na rzecz organizacji pożytku publicznego działającej na podstawie ustawy o działalności pożytku publicznego do wysokości 1% kwoty obliczonej;
+od 1 stycznia 2007 r. podatnicy wychowujący dzieci własne lub przysposobione, rozliczający się na zasadach ogólnych przy zastosowaniu skali podatkowej, mogą odliczyć od podatku kwotę stanowiącą iloczyn liczby wychowywanych dzieci i kwoty 1 112,04 zł (stan na rok 2009).
+
+Zryczałtowany podatek (w wysokości mniejszej od stawek podstawowych) pobiera się m.in. od:
+wygranych w konkursach, grach i zakładach wzajemnych lub nagród związanych ze sprzedażą premiową, w wysokości 10% wygranej lub nagrody;
+od świadczeń otrzymanych przez emerytów lub rencistów, w związku z łączącym ich uprzednio z zakładem pracy stosunkiem służbowym, stosunkiem pracy, pracy nakładczej lub spółdzielczym stosunkiem pracy, z zastrzeżeniem – w wysokości 10% należności.
+
+Ulgi można podzielić na:
+uwzględniające poniesione przez podatnika koszty związane z uzyskaniem przychodu (np. ulgi z tytułu składek na ubezpieczenie społeczne);
+stanowiące zwrot kosztów związanych z egzystencją podatnika (np. ulgi z tytułu rehabilitacji podatnika będącego osobą niepełnosprawną i ulgi związane z zaspokajaniem potrzeb mieszkaniowych);
+ulgi o charakterze rodzinnym, takie np. jak związane z rehabilitacją niepełnosprawnych członków rodziny;
+ulgi o charakterze stymulacyjnym (np. darowizny na cele społecznie użyteczne);
+ulgi mające charakter zabiegu technicznego (np. zwrot nienależnie pobranych rent, przez co zapobiega się opodatkowaniu nieistniejącego dochodu).
+
+Skala podatkowa
+
+
+
+
+Skala podatkowa określona w art. 27 ust. 1 i 1a ustawy o podatku dochodowym od osób fizycznych nie ma zastosowania do dochodów opodatkowanych w formach uproszczonych, lecz jedynie w odniesieniu do dochodów opodatkowanych na zasadach ogólnych. Stawki podatkowe określają wysokość podatku w stosunku do podstawy opodatkowania i mają w tym podatku charakter stawek progresywnych (progresja łączna, szczeblowa). Obecnie (od 1 stycznia 2009) wynoszą one odpowiednio: '''18% i 32%''' – wyższą stawkę podatku płaci około 1% podatników. W latach 2003–2006 nie waloryzowano progu dochodów (od którego zależy wysokość stawki) zgodnie ze wskaźnikiem wzrostu przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej. Na lata 2009 i 2010 tzw. kwota wolna od opodatkowania wynosiła: '''3091,00 zł.  W Polsce jest najniższa kwota wolna od podatku wśród krajów Unii Europejskiej stosujących to rozwiązanie, 9 krajów jej nie stosuje
+
+Dochody, które nie realizują w polskim podatku dochodowym zasady powszechności przedmiotowej i nie są włączone do dochodu globalnego podatnika oraz opodatkowane są oddzielnie zostały obciążone stawkami proporcjonalnymi o różnej wysokości. Są to m.in.
+w przypadku zryczałtowanego podatku dochodowego ze sprzedaży lub zamiany nieruchomości i praw majątkowych – 19% uzyskanego przychodu;
+dochodów z działalności literackiej, z uprawiania sportu, dziennikarstwa również nie łączy się z innymi dochodami i ustala się w formie ryczałtu w wysokości 20% uzyskanego przychodu;
+wygrane w konkursach i grach oraz nagrody związane ze sprzedażą premiową obciążone są 10% stawką;
+wynagrodzenia za udzielanie pomocy policji, organom kontroli skarbowej, straży granicznej, odpowiednim służbom wywiadu i kontrwywiadu opodatkowane są w wysokości 20% wynagrodzenia;
+od dochodów z nieujawnionych źródeł przychodu podatek ustala się według '''75%''' stawki w relacji do tego dochodu (tzw. stawka sankcyjna).
+
+Wszystkie dochody kapitałowe (np. odsetki z lokat bankowych, zyski ze sprzedaży akcji) są oprocentowane według 19% stawki podatkowej, przy czym w niektórych przypadkach możliwe jest uwzględnienie kosztów uzyskania przychodów.
+
+Specjalne metody obliczania podatku dochodowego oraz stawki podatkowej związane są z unikaniem podwójnego opodatkowania dochodu. Istnieją tu dwie możliwości:
+Pierwsza z tych metod, zwana metodą zwolnienia z progresją (tzw. exemption with progression), polega na tym, że dochód opodatkowany w jednym państwie jest zwolniony od podatku w drugim, jednakże przy ustalaniu stawki od dochodu osiągniętego w drugim państwie uwzględnia się również dochód osiągnięty w tym drugim państwie. I tak dla ustalenia stawki procentowej – do dochodów podlegających opodatkowaniu podatkiem dochodowym dodaje się dochody zwolnione od tego podatku ze źródeł położonych za granicą (dochód łączny); od dochodu łącznego oblicza się podatek według właściwej progresywnej skali podatkowej (kwota podatku); oblicza się stopę procentową podatku, którą wyraża stosunek kwoty podatku do dochodu łącznego; stopa procentowa podatku stosowana jest do dochodu uzyskanego ze źródeł przychodu położonych w Polsce, co daje należny podatek dochodowy.
+Druga metoda to tzw. kredyt podatkowy (tax credit), zwana też metodą odliczenia, polega na tym, że dochody osiągnięte w kraju łączy się z dochodami osiągniętymi za granicą, od tak uzyskanej sumy oblicza się podatek, a następnie od tego podatku odlicza się kwotę podatku zapłaconego za granicą. Odliczenie to nie może jednak przekroczyć tej części podatku obliczonego przed dokonaniem odliczenia, która proporcjonalnie przypada na dochód uzyskany w państwie obcym (taką metodę przewiduje obecna umowa o unikaniu podwójnego opodatkowania między Polską a Wielką Brytanią.
+
+Pobór podatku dochodowego od osób fizycznych
+Ustawa ustanawia płatnikami podatku dochodowego od osób fizycznych przede wszystkim zakłady pracy (w tym i indywidualnych pracodawców), rolnicze spółdzielnie produkcyjne, organy rentowe, banki wypłacające renty zagraniczne, organy zatrudnienia od wypłacanych przez nie zasiłków, Fundusz Gwarantowanych Świadczeń Pracowniczych, jednostki organizacyjne wypłacające stypendia, centra integracji społecznej. Organy te są obowiązane jako płatnicy w ciągu całego roku do obliczania, potrącania podatnikom z wypłacanych sum należnych zaliczek na poczet podatku dochodowego oraz odprowadzania tych kwot na konto urzędu skarbowego.
+
+Niektóre grupy podatników są obowiązane do samodzielnego obliczania zaliczek na poczet podatku, składania deklaracji o miesięcznych dochodach i terminowej zapłaty owych zaliczek. Do takiego samodzielnego, bez udziału płatnika, obliczania zaliczek na podatek dochodowy zobowiązane są m.in.: osoby prowadzące działalność gospodarczą, w tym i w zakresie wolnych zawodów; osoby otrzymujące wynagrodzenie z tytułu najmu lub dzierżawy; osoby prowadzące działy specjalne produkcji rolnej; osoby otrzymujące wynagrodzenia z zagranicy; osoby otrzymujące renty i emerytury z zagranicy bez pośrednictwa płatników.
+
+Podatnicy mają też obowiązek w terminie do dnia '''30 kwietnia następnego roku złożyć w urzędzie skarbowym zeznanie na odpowiednim druku o wysokości osiągniętego dochodu (straty) w roku podatkowym. Osoby prowadzące księgi rachunkowe (handlowe) do zeznania dołączają roczny bilans z rachunkiem wyników. Podatnicy, na których ciąży obowiązek złożenia zeznania podatkowego, są obligowani jednocześnie do wpłacenia różnicy pomiędzy podatkiem należnym od dochodu wynikającego z zeznania a sumą należnych za dany rok zaliczek, w tym również pobranych przez wszystkich płatników (także np. zleceniodawców). Podatek dochodowy wynikający z zeznania jest podatkiem należnym za dany rok, chyba że urząd skarbowy wyda decyzję, w której określi inną wysokość podatku. W razie niezłożenia zeznania o wysokości osiągniętego dochodu, urząd skarbowy wydaje decyzję deklaratoryjną, określającą wysokość zobowiązania w podatku dochodowym. W stosunku do podatnika nieskładającego zeznań podatkowych możliwe jest zastosowanie sankcji karnych wynikających z kodeksu karnego skarbowego.
+
+Szczególne formy opodatkowania
+Ryczałt od przychodów ewidencjonowanych
+Prawo do opłacania podatku dochodowego w formie ryczałtu od przychodów ewidencjonowanych przysługuje osobom fizycznym prowadzącym pozarolniczą działalność gospodarczą.
+Ustawodawca stawia podatnikowi cały szereg warunków aby korzystać z tej formy opodatkowania, m.in.:
+rozpoczynają działalność lub ich przychody z danej działalności w roku poprzedzającym rok podatkowy nie przekraczają '''150 000''' euro, ponadto nie opłacają podatku w formie karty podatkowej,
+nie prowadzenie działalności określonej przez ustawę takiej jak: apteki, lombardy, wykonywanie wolnego zawodu innego niż określonego w ustawie, np. w zakresie pośrednictwa finansowego, usług prawniczych, rachunkowo-księgowych, detektywistycznych i ochroniarskich itp.
+
+Stawki podatku płaconego w systemie ryczałtu od przychodów ewidencjonowanych, wynoszą odpowiednio: '''20%, 17%, 8,5%, 5,5% i 3%''' przychodów z określonej działalności. Dla ustalenia przychodu podatnicy zobowiązani zostali do prowadzenia ewidencji przychodu odrębnie za każdy rok podatkowy, a ponadto wykazu środków trwałych oraz wartości niematerialnych i prawnych, a także przechowywania dowodów zakupu towarów.
+
+Podatnikom płacącym podatek w tej formie przysługuje prawo pomniejszania przychodu ewidencjonowanego z tytułu spłaty odsetek od komercyjnych kredytów mieszkaniowych na nowe budownictwo czy z tytułu darowizn na rzecz organizacji pożytku publicznego oraz na cele kultu religijnego, prawo do odliczenia m.in.: składek na ubezpieczenie zdrowotne, 1% ryczałtu w przypadku wpłat na rzecz organizacji pożytku publicznego, na remont i modernizację zasobów mieszkaniowych w ramach limitu obowiązującego na lata 2003–2005.
+
+Podatnicy ryczałtu od przychodów ewidencjonowanych są zobowiązani do samoobliczenia należnego świadczenia podatkowego, obliczania ryczałtu w okresach miesięcznych i złożenia zeznania rocznego w terminie do 31 stycznia następnego roku. Ryczałt od przychodów ewidencjonowanych wynikający z zeznania jest podatkiem należnym za dany rok podatkowy, chyba że naczelnik urzędu skarbowego wyda decyzję, w której określi inną wysokość podatku.
+
+W razie nieprowadzenia ewidencji lub prowadzenia ewidencji bez zachowania warunków do uznania jej za dowód w postępowaniu podatkowym, organ podatkowy określa przychód na podstawie innych niż ewidencja dowodów lub w drodze oszacowania, opodatkowując tak określony przychód sankcyjną stawką podatkową w wysokości pięciokrotności stawki właściwej dla danej działalności, jednak nie większą niż 75% przychodu.
+
+Karta podatkowa
+
+Z tej formy opodatkowania mogą korzystać jedynie podmioty wymienione przez ustawę w odpowiednim załączniku (jest to głównie działalność usługowa lub wytwórczo-usługowa). Ponadto trzeba spełnić jeszcze dodatkowe warunki, takie jak:
+nieprzekroczenie określonego limitu zatrudnienia pracowników najemnych,
+nieprowadzenie innej pozarolniczej działalności gospodarczej,
+nieprowadzenie działalności w tym samym zakresie co małżonek podatnika.
+
+Podatek jest płacony miesięcznie według stawek kwotowych wynikających z tabel stanowiących załącznik do ustawy o zryczałtowanym podatku dochodowym. Wysokość miesięcznych stawek karty podatkowej uzależniona jest od rodzaju wykonywanej działalności, miejsca jej wykonywania oraz liczby zatrudnionych pracowników. Dlatego podatnicy prowadzący działalność opodatkowaną w formie karty podatkowej są zwolnieni od obowiązku prowadzenia ksiąg, składania zeznań podatkowych czy wpłacania zaliczek. Obowiązani są jedynie do prowadzenia książki ewidencji zatrudnienia. Podatek dochodowy w formie karty podatkowej wynikający z decyzji uwzględniającej wniosek podatnika o zastosowanie karty podatkowej obniża się o kwotę składki na powszechne ubezpieczenie zdrowotne. Płacony jest on bez wezwania w terminach miesięcznych na rachunek właściwego urzędu skarbowego. Naruszenie warunków, na których przyznano prawo do opodatkowania w formie karty podatkowej, powoduje wygaśnięcie decyzji o wysokości podatku dochodowego w formie karty podatkowej i opodatkowanie podatkiem dochodowym na zasadach ogólnych.
+
+Korzystanie z karty podatkowej
+Przejście na kartę podatkową jest możliwe po otrzymaniu stosownej decyzji z urzędu skarbowego.
+Zryczałtowany podatek dochodowy w formie karty podatkowej mogą płacić:
+osoby fizyczne oraz
+spółki cywilne osób fizycznych,
+spełniające ustawowe warunki uprawniające do skorzystania z tej formy opodatkowania.
+
+Karta podatkowa w przeciwieństwie do ryczałtu od przychodów ewidencjonowanych jest fakultatywną formą opodatkowania, co oznacza, że jej zastosowanie zależy od wyboru podatnika, który by móc skorzystać z tej formy opodatkowania musi złożyć stosowny wniosek.
+
+Zryczałtowany podatek dochodowy w formie karty podatkowej mogą płacić podatnicy prowadzący działalność:
+usługową lub wytwórczo-usługową,
+usługową w zakresie handlu detalicznego żywnością, napojami, wyrobami tytoniowymi oraz kwiatami, z wyjątkiem napojów o zawartości powyżej 1,5% alkoholu,
+usługową w zakresie obnośnego i obwoźnego handlu detalicznego artykułami nieżywnościowymi, z wyjątkiem handlu paliwami silnikowymi, środkami transportu samochodowego, ciągnikami rolniczymi i motocyklami oraz z wyjątkiem handlu artykułami nieżywnościowymi objętego koncesjonowaniem,
+gastronomiczną – jeżeli nie jest prowadzona sprzedaż napojów o zawartości powyżej 1,5% alkoholu,
+w zakresie usług transportowych wykonywanych przy użyciu jednego pojazdu,
+w zakresie usług rozrywkowych,
+w zakresie sprzedaży posiłków domowych w mieszkaniach, jeżeli nie jest prowadzona sprzedaż napojów o zawartości powyżej 1,5% alkoholu,
+w wolnych zawodach, polegającą na świadczeniu usług w zakresie ochrony zdrowia ludzkiego,
+w wolnych zawodach, polegającą na świadczeniu usług weterynaryjnych, w tym również sprzedaż preparatów weterynaryjnych wymienionych w ustawie o zryczałtowanym podatku dochodowym,
+w zakresie opieki domowej nad dziećmi i osobami chorymi,
+w zakresie usług edukacyjnych, polegającą na udzielaniu lekcji na godziny.
+
+Zryczałtowany podatek dochodowy od przychodów osób duchownych
+Osoby duchowne prawnie uznanych wyznań, osiągające przychody z opłat otrzymywanych w związku z pełnionymi funkcjami duszpasterskimi, opłacają od tych przychodów podatek dochodowy w formie ryczałtu od przychodów osób duchownych. Stawki ryczałtu są kwartalne i zależą od funkcji osoby duchownej (proboszcz, wikary i osoba sprawująca porównywalne funkcje w danym związku wyznaniowym), liczby mieszkańców parafii, liczby mieszkańców gminy na terenie której znajduje się siedziba parafii. Ustawowe stawki ryczałtu podlegają obniżeniu przez urząd skarbowy, jeżeli liczba wyznawców na danym terenie stanowi mniejszość w ogólnej liczbie mieszkańców. Kwartalna stawka ryczałtu ulega ponadto obniżeniu o kwotę składki na powszechne ubezpieczenie zdrowotne.
+
+Zobacz też
+Alternatywne koncepcje podatku dochodowego
+
+
+
+Bibliografia
+Ordynacja podatkowa – tekst jednolity ()
+Ustawa o podatku dochodowym od osób fizycznych – tekst jednolity ()
+Linki zewnętrzne

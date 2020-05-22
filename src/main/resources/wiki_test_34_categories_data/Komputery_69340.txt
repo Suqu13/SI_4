@@ -1,0 +1,10 @@
+
+PDP-7''' – minikomputer wyprodukowany w Digital Equipment Corporation. Ukazał się na rynku w roku 1965, kosztował wtedy około 72000 dolarów. Jak na tamte czasy posiadał dużą moc obliczeniową i był stosunkowo tani. PDP-7 ma architekturę 18-bitową.
+
+W 1969 r. Ken Thompson i Dennis Ritchie napisali w asemblerze pierwszego Uniksa na komputery PDP-7. 
+
+Obecnie w Oslo znajduje się projekt, w którym uczestniczą w pełni sprawne tego typu komputery.
+
+
+
+

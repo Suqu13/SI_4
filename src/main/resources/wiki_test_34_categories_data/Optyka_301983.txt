@@ -1,0 +1,14 @@
+
+Analizator cyklotronowego rezonansu jonów z fourierowską transformacją wyników (FT-ICR, Fourier Transform Ion Cyclotron Resonance) to analizator jonów, element konstrukcji niektórych spektrometrów mas.
+
+Analizator ten, z fizycznego punktu widzenia, działa identycznie jak analizator cyklotronowego rezonansu jonów (ICR). Różnica polega tylko na tym, że analizatorze FT-ICR zastosowano bardziej wydajną metodę zbierania danych niż w ICR. W zwykłym analizatorze ICR jony o różnym stosunku masy do ładunku elektrycznego (m/z) są kolejno wzbudzane. Podczas wzbudzania mierzone jest natężenie prądu generowanego przez jony w płytach wykrywających jony. Jeśli rejestrowane jest duże natężenie w momencie wzbudzania jonów o danym m/z, znaczy to, że jonów jest dużo. Na widmie rysowany jest pik. 
+
+W analizatorze FT-ICR przy pomocy złożonej fali elektromagnetycznej wzbudzane są jednocześnie wszystkie jony. Na płytach detektora rejestrowany jest sygnał zawierający wiele częstotliwości charakterystycznych dla jonów o różnym m/z. Sygnał ten jest przekształcany w widmo masowe przy pomocy Transformacji Fouriera. 
+
+Analizatory FT-ICR są znacznie szybsze niż tradycyjne analizatory ICR. Inne parametry takie jak rozdzielczość, czułość, są podobne. Do przetwarzania sygnału z analizatora FT-ICR stosuje się stosunkowo szybkie komputery. Analizatory FT-ICR wyparły obecnie z rynku analizatory ICR.
+
+Bibliografia
+E. de Hoffmann, J. Chatette, V. Stroobant (1994) Spectrométrie de masse; Masson Editeur, Paris; tłum. L. Konopski (1998) Spektrometria Mas; Wydawnictwa Naukowo-Techniczne (ISBN 83-204-2291-4).
+Robert A. W. Johnstone, Malcolm E. Rosse (1996) Mass spectrometry for chemists and biochemists; Press Syndicate of the University of Cambridge; tłum. Karol Bal i Marek Daniewski; red. techn. Krystyna Jurkowska (2001) Spektrometria mas; Wydawnictwo Naukowe PWN SA (ISBN 83-01-13605-7).
+
+

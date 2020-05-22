@@ -1,0 +1,15 @@
+
+Zaurus – nazwa serii PDA produkowanej przez firmę Sharp. Zaurus był najbardziej popularnym PDA w Japonii lat 90., bazował na własnym systemie operacyjnym. Pierwszym PDA Sharpa używającym systemu operacyjnego GNU/Linux był model SL-5000D. Dystrybucja ta nosi nazwę Embedix Plus. Istnieje też niezależna dystrybucja OpenZaurus.
+
+Historia
+We wrześniu 1993 Sharp przedstawił model PI-3000 pierwszy PDA z serii Zaurus. Wyposażony w monochromatyczny wyświetlacz LCD i obsługujący rozpoznawanie pisma Zaurus szybko został produktem flagowym Sharpa.
+
+PI-4000 wypuszczony w rok po sukcesie pierwszego modelu dodatkowo wzbogacił się o wbudowany fax/modem, przypieczętowało to w 1995 PI-5000 posiadający interfejsy e-mail i telefonii komórkowej.
+Zaurus K-PDA był pierwszym z tej linii posiadającym wbudowaną klawiaturę obok możliwości rozpoznawania pisma odręcznego; były w nią wyposażone modele PI-6000 i PI-7000.
+
+Przez ten czas Sharp pracował intensywnie nad kolorowymi wyświetlaczami LCD opartymi na technologii TFT. W maju 1996 na rynek trafił pierwszy kolorowy Zaurus, model MI-10 i MI-10DC posiadający 5-calowy (127 mm) wyświetlacz. Ten model miał możliwość łączenia się z internetem, posiadał także wbudowaną kamerę i mikrofon. Po roku Sharp wyprodukował 40-calowy (1 m) wyświetlacz LCD oparty na technologii TFT, największy w tamtym czasie.
+
+Linki zewnętrzne
+Oficjalna strona serii Zaurus 
+
+

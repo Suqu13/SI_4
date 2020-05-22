@@ -1,0 +1,4 @@
+
+ARPA (ang. Automatic Radar Plotting Aid) – komputer wbudowany w radar, prowadzący automatycznie nakres radarowy. Pozwala na jednoczesne śledzenie wielu obiektów (w zależności od rozwiązania kilku do kilkuset), obliczenie parametrów ich ruchu oraz możliwości kolizji. W zależności od rozwiązania i ustawień może pokazywać dane na ekranie radaru w formie graficznej lub tekstowej.
+
+Bibliografia

@@ -1,0 +1,17 @@
+Steam Tank – wczesny amerykański projekt czołgu o napędzie parowym, bazujący na brytyjskim ciężkim czołgu Mark IV. 
+
+Budowa == 
+Zaprojektowany został przez oficera Korpusu Inżynierów Armii Stanów Zjednoczonych. Prace nad projektem rozpoczął gen. John A. Johnson. Pomocy udzieliła spółka Endicott and Johnson Shoe Company, a głównymi sponsorami prac byli dwaj bostońscy bankierzy - Phelan and Ratchesky - wspierając Johnsona kwotą 60 000$. Jako wykonawcę wybrano firmę produkującą samochody napędzane silnikami parowymi - Stanley Motor Carriage Company, mającą swoją siedzibę w Watertown, w stanie Massachusetts. Projektanci zdecydowali się na zastosowanie silników parowych, gdyż produkowane na ten czas silniki spalinowe były zbyt słabe by napędzić 50-tonowego kolosa; ponadto główne uzbrojenie, jakim był miotacz ognia w zamyśle także używał do działania pary. Kiedy jako pomocnicze urządzenie do wytwarzania odpowiedniego ciśnienia zastosowano silnik benzynowy o mocy 35 KM (26 kW), moc obydwu silników parowych wzrosła do 500 KM, co pozwoliło na rozpędzenie maszyny do 6 km/h. Skrzynia biegów pozwalała na poruszanie się na dwóch biegach do przodu oraz na dwóch biegach do tyłu. Jako paliwa do silników parowych użyto nafty.
+
+Uzbrojenie
+Miotacz ognia, który został zamontowany z przodu pojazdu, posiadał zasięg skuteczny ognia dochodzący do 27 metrów. Wspomagające ogień karabiny maszynowe zamontowano w sponsonach, po dwa z każdej ze stron pojazdu. Gąsienice miały szerokość 60 centymetrów. Z przodu pojazdu, przy krawędziach gąsienic zamontowano kolce (często mylone z taranami), których zadaniem było usuwanie nagromadzonego błota. W skład ośmioosobowej załogi wchodzili: dowódca, kierowca, operator miotacza ognia, mechanik oraz czterech strzelców.
+
+Eksploatacja == 
+Wyprodukowana tylko jeden egzemplarz tego czołgu parowego w Bostonie. Społeczeństwu zaprezentowano go w kwietniu 1918 roku. Brał udział w kilku paradach wojskowych; podczas jednej z nich uległ awarii na oczach zebranych widzów. 
+W czerwcu wysłano go do Francji by przetestować jego możliwości w warunkach bojowych. W celu zwiększenia morale jednostek sojuszniczych nazwano go America. Dysza miotacza ognia została przeniesiona do obrotowej wieży ulokowanej na górnej płycie pancerza. Jednak podczas prób we Francji stwierdzono, że konstrukcja posiada poważną wadę. Poprzez zastosowanie zamkniętej nadbudówki wentylacja silnika pomocniczego, dwóch silników parowych oraz kotłów napędzających gąsienice była zdecydowanie nie wystarczająca, przez co zrezygnowano z produkcji tego czołgu na większą skalę.
+
+Oprócz tego czołgu Stany Zjednoczone pracowały także nad innymi opancerzonymi pojazdami bojowymi napędzanymi silnikami parowymi. Jednak nie spełniały one podstawowych założeń czołgu - ich trakcja nie była gąsienicowa, a kołowa.
+
+
+
+

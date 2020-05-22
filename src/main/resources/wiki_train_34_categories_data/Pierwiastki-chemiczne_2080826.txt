@@ -1,0 +1,31 @@
+
+
+
+Szkło metaliczne – stop metali z udziałem niemetali poddany dużemu przechłodzeniu (rzędu 106 K/s) z temperatury wyższej od temperatury topnienia do temperatury niższej od temperatury zeszklenia. Temperaturą zeszklenia, w przypadku ciał krystalicznych jakimi są metale, jest temperatura krystalizacji. Uzyskany materiał ma strukturę nieuporządkowaną – amorficzną. Szkło metaliczne wykazuje dużą rezystywność rzędu 50–300 Ω·m (dla porównania rezystywność czystego srebra w t. pok. wynosi ok. 1,6, a żelaza 10 Ω·m). 
+
+Taśmy amorficzne wykonane ze stopów na bazie żelaza lub kobaltu mają właściwości magnetyczne przewyższające tradycyjne materiały magnetycznie miękkie stosowane w maszynach elektrycznych, takie jak stal transformatorowa czy blacha elektrotechniczna.
+
+Wytwarzanie
+Szkła metaliczne można wytwarzać poprzez:
+odlewanie stopu na wirujący i chłodzony wodą bęben (np. Fe-Ni)
+naparowanie w próżni na podłoże ochłodzone do temperatury −196 °C (np. Cu-Ag)
+elektroosadzanie
+
+Historia
+Pierwszy metal amorficzny (stop złota z krzemem, Au75Si25) został wyprodukowany w roku 1960 w Caltech. Ten i inne metale amorficzne otrzymywane w tamtym okresie były produkowane przez ekstremalnie szybkie schładzanie (szybkość rzędu miliona kelwinów na sekundę). Z tego powodu można było produkować tylko kształty o jednym z wymiarów rzędu mikrometrów (taśmy, folie, druty, itd).
+
+W latach 90. XX wieku odkryto stopy tworzące metale amorficzne przy szybkości schładzania rzędu 1 K/s. Umożliwiło to produkowanie kształtek o wymiarach centymetrowych.  
+
+Pierwszy komercyjny metal amorficzny został wprowadzony na rynek w roku 1992 pod nazwą Vitreloy 1 (41,2% Zr, 13,8% Ti, 12,5% Cu, 10% Ni, oraz 22,5% Be). Stop ten został opracowany przez Caltech pod egidą Departamentu Energii USA oraz  NASA.
+
+Współcześnie (2010), materiały najlepiej tworzące szkła metalowe oparte są na stopach cyrkonu z palladem, ale znanych jest wiele stopów amorficznych żelaza, tytanu, miedzi, magnezu i szeregu innych pierwiastków.
+
+Zobacz też
+stal szklista
+szkło
+
+
+
+
+
+

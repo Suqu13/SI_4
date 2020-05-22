@@ -1,0 +1,34 @@
+Sony Ericsson XPERIA X8''' – model telefonu komórkowego z serii X produkowany przez Sony Ericsson. Jest to także kolejny model tej serii pracujący w oparciu o system Android v.1.6 (Donut), po aktualizacji 2.1.
+
+Po raz pierwszy telefon Xperia X8 został zaprezentowany publicznie 16 czerwca 2010. Został przedstawiony jako "telefon który czerpie z sukcesu telefonu Sony Ericsson Xperia X10 oraz produktów mini, a który równocześnie rozszerza o nowy model najbardziej rozrywkową kolekcję smartphonów, przybliżając ją jeszcze szerszemu gronu odbiorców".
+
+Telefon posiada wbudowaną kamerę o rozdzielczości 3.15 Mpx oraz procesor Qualcomm MSM7227 taktowany zegarem 600&nbsp;MHz. Smartfon nagrywa filmy wideo o rozdzielczości VGA. Telefon jest kompatybilny z wieloma akcesoriami Sony Ericsson takimi jak  zestawy głośnomówiące, zestawy Bluetooth, różnego typu słuchawki itp.
+
+Multimedia
+GPS
+WAP w wersji 2.0
+obsługa wiadomości SMIL
+obsługiwane formaty zdjęć: GIF, JPEG, PNG, WBMP, SWF
+obsługiwane formaty audio: MP3, AAC, AAC+, EAAC+, OGG, AMR, WAV , M4a
+obsługiwane formaty video: MPEG-4, H263
+odtwarzacz MP3
+radio FM
+dyktafon
+gry (3D)
+HD Voice (na razie w sieciach Play i T-Mobile)
+
+Modyfikacje
+Xperia X8 doczekała się wielu nieoficjalnych modyfikacji, m.in.:
+dualtouch (zależnie od digitizera)
+możliwość zmiany kernela z domyślnego
+instalacja nowszych wersji systemu Android, w tym najnowszego 4.4.
+overclock (zwiększenie taktowania procesora)
+undervolt (zwiększanie żywotności baterii)
+
+
+
+
+
+
+
+

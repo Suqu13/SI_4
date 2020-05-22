@@ -1,0 +1,24 @@
+Abundancja izotopu, abundancja naturalna (ang. natural abundance, w skrócie NA) zwana też obfitością występowania izotopu to procentowa zawartość danego izotopu pierwiastka w pierwiastku naturalnie występującym. 
+
+Dla przykładu izotopy wodoru mają następujące abundancje:
+wodór-1 (prot): 99,985%
+wodór-2 (deuter): 0,015%
+wodór-3 (tryt, promieniotwórczy): ślady.
+
+Pomimo zapisanego sumowania abundancji protu i deuteru do 100% (skończona dokładność podania tych wartości) w Przyrodzie występują ślady niestabilnego trytu, tworzonego w atmosferze podczas oddziaływania promieniowania kosmicznego z gazami atmosferycznymi oraz "resztki" wodoru-3 (czas połowicznego zaniku trytu to 12 lat) powstałego w czasie prób jądrowych.
+
+Innym przykładem może być uran, posiadający trzy naturalnie występujące izotopy: 238U, 235U i 234U. Ich abundancje naturalne wynoszą odpowiednio 99,2745%, 0,72% i 0,0055%. Oznacza to, że analizując 100&nbsp;000 atomów uranu, średnio znajdziemy w nich 99&nbsp;275 atomów uranu-238, 720 atomów uranu-235 i nie więcej niż 5 lub 6 atomów uranu-234. Abundancje te wynikają z czasów połowicznego zaniku podanych izotopów uranu: dla 238U jest on równy 4,47&nbsp;mld&nbsp;lat, dla 235U 704&nbsp;mln&nbsp;lat zaś dla 234U 245&nbsp;500&nbsp;lat. Zatem w przypadku uranu najbardziej abundantnym izotopem jest najtrwalszy, najmniej występującym - najmniej trwały. 
+Jednak nie jest to reguła: naturalne abundancje mogą być dyktowane przez różne czynniki, jak na przykład przez:
+prawdopodobieństwo ich kreacji w nukleosyntezie (przykład: samar, promieniotwórcze izotopy 147Sm i 148Sm są o wiele bardziej abundantne niż stabilny 144Sm);
+produkcję danego izotopu w szeregach promieniotwórczych (przykład: ołów, izotopy o liczbach masowych 206, 207 i 208 posiadają obfitości odpowiednio 24,1%, 22,1% i 52,4%, każdy z nich jest produktem końcowym jednego z szeregów promieniotwórczych; izotop pierwotny o liczbie masowej 204 występuje z obfitością jedynie 1,4%).
+
+Wartość abundancji zależy głównie od procesów tworzenia się pierwiastków we Wszechświecie oraz trwałości poszczególnych nuklidów. Praktycznie nie zależy od warunków geologicznych i geograficznych, z wyjątkiem przypadku pierwiastków lekkich w których efekty izotopowe mogą prowadzić do powstawania różnic obfitości danego izotopu pierwiastka w różnych tworach geologicznych i astronomicznych.
+
+Ze względu na te same własności chemiczne różnych izotopów tego samego pierwiastka oraz niewielkich różnic ich masy głównym źródłem informacji o abundancjach izotopów jest spektrometria mas lub metody jądrowe.
+
+Zobacz również
+częstość występowania pierwiastków we Wszechświecie
+nukleosynteza
+frakcjonowanie izotopowe
+
+Linki zewnętrzne

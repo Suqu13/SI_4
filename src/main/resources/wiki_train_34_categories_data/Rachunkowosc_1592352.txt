@@ -1,0 +1,7 @@
+Różnice przejściowe dodatnie – różnice przejściowe, które powodują powstanie kwot do opodatkowania uwzględnianych w toku ustalania dochodu do opodatkowania (straty podatkowej) w przyszłych okresach, gdy wartość bilansowa składnika aktywów lub zobowiązań zostanie zrealizowana lub rozliczona; są to zatem różnice podlegające opodatkowaniu w przyszłych okresach.
+
+W związku z występowaniem dodatnich różnic przejściowych tworzy się rezerwę z tytułu odroczonego podatku dochodowego w wysokości kwoty CIT, wymagającej w przyszłości zapłaty z uwzględnieniem stawki podatkowej obowiązującej w roku powstania obowiązku podatkowego (tzn. w roku rozliczenia różnic przejściowych).
+
+
+
+

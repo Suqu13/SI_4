@@ -1,0 +1,18 @@
+Rozliczenie międzyokresowe kosztów to sposób rozliczania kosztów działalności w czasie, tak aby została zachowana zasada współmierności kosztów i przychodów.
+
+Stosuje się go, gdy w jednostce wystąpią koszty dotyczące innego okresu sprawozdawczego lub kilku okresów sprawozdawczych.
+
+Koszty rozliczone w czasie:
+czynsze i dzierżawy,
+planowane koszty remontów,
+koszty zakupu,
+koszty przygotowania nowej produkcji,
+płace urlopowe pracowników fizycznych,
+odpis roczny na zakładowy fundusz świadczeń socjalnych. 
+
+W zależności od sposobu rozliczania kosztów w czasie wyróżniamy rozliczenia bierne i czynne.
+
+Czynne wykazują saldo debetowe, które oznacza środki zaangażowane w rozliczeniach z tytułu nabytych, lecz nieużytych usług i stanowi składnik aktywów; metoda rozliczenia kosztów w czasie które już zostały poniesione w bieżącym okresie sprawozdawczym i dotyczyć mają następnych okresów sprawozdawczych np. czynsz za lokal. 
+Bierne wykazują saldo kredytowe oznaczające rezerwę na wydatki, które nastąpią w późniejszym okresie; jest składnikiem pasywów.
+
+

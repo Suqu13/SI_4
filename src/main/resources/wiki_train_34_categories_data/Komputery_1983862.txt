@@ -1,0 +1,19 @@
+Microsoft Surface SDK - zestaw narzędzi dla deweloperów, przeznaczoną do tworzenia programów na Microsoft PixelSense. Pozwala na tworzenie programów bez potrzeby posiadania urządzenia.
+
+Wymagania
+ 
+Surface SDK wymaga:
+
+Visual Studio 2008, albo Visual C# 2008
+XNA Game Studio, albo XNA Framework
+
+Dokumentacja
+Microsoft udostępnia dla wszystkich bogatą dokumentację.
+
+Programy
+Programy na PixelSense tworzy się w WPF, albo w XNA - w C#.
+
+Surface Simulator
+Surface Simulator pozwala on testować aplikacje przeznaczone dla PixelSense, bez konieczności posiadania urządzenia.
+
+

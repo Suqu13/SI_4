@@ -1,0 +1,11 @@
+vsftpd ("Very Secure FTP Daemon") to serwer FTP dla systemów uniksowych włączając Linuxa. 
+
+Zapewnia obsługę standardowego protokołu FTP jak i jego zabezpieczonej wersji, FTPS. Bezpieczne uwierzytelnianie i transfer plików osiągnięto poprzez wykorzystanie protokołu SSL. Protokół SSL jest dostępny dzięki zastosowaniu zewnętrznej biblioteki OpenSSL, co znacznie uprościło sam kod serwera vsftpd. FTPS obsługiwany jest w trybie jawnym (explicit) od wersji 2.0.7 i ukrytym (implicit) od wersji 2.1.0.
+
+Udostępniany jest na zasadach licencji GPL w wersji 2, z wyjątkiem umożliwiającym łączenie z biblioteką OpenSSL, która z kolei nie jest zgodna z GPL. 
+
+W warstwie sieciowej vsftpd zapewnia obsługę protokołu IPv6.
+
+Jest domyślnym serwerem w dystrybucjach GNU/Linux jak Ubuntu, CentOS, Fedora, NimbleX i RHEL. W Slackware i Debian wymaga dodatkowej instalacji.
+
+Linki zewnętrzne

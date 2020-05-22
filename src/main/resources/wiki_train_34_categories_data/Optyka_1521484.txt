@@ -1,0 +1,12 @@
+Odległość dobrego widzenia (odległość wyraźnego widzenia, standardowy punkt zbliżenia) jest to minimalna odległość między przedmiotem a okiem, przy której przedmiot jest ostro widziany bez wysiłku. Za jej wartość przyjmuje się
+Odległość dobrego widzenia nie jest stałą fizyczną, ponieważ nawet dla ludzi bez wad wzroku, może ona przybierać różne wartości. Dla osób, które posiadają wadę wzroku, odległość dobrego widzenia zmienia się w znacznie większym stopniu: przy nadwzroczności ulega ona wydłużeniu, przy krótkowzroczności - skróceniu. Ponadto, pomiar tej odległości przez określonego człowieka podlega subiektywnej ocenie - nie jest zatem precyzyjny w sensie niezależności pomiaru. Ścisłe ustalenie wartości tego parametru potrzebne było do standaryzacji okularów w przyrządach optycznych, np. w mikroskopie. Okulary takie mają zwykle możliwość regulacji względem wartości wyjściowej, którą jest odległość dobrego widzenia równa 25&nbsp;cm.
+
+Odległość ta nie jest minimalną odległością, z jakiej można oglądać ostro przedmiot. 
+
+Minimalna odległość, ze względu na akomodację oka, może dochodzić do 10&nbsp;cm (jej wielkość jest uzależniona od wieku). Ostre oglądanie przedmiotów z tak małej odległości, np. czytanie, jest dla oka męczące i nie może trwać zbyt długo.
+
+Zobacz też
+lupa
+powiększenie
+
+Bibliografia

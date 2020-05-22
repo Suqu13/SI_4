@@ -1,0 +1,14 @@
+MQM-105 Aquila (Eagle) – taktyczny, bezzałogowy aparat latający (UAV - Unmanned Aerial Vehicle) opracowany przez amerykańską firmę Lockheed Missiles and Space Company.
+Historia
+Aquila był pierwszym amerykańskim małym aparatem bezzałogowym przeznaczonym do wskazywania celów. Opracowaniem jego konstrukcji zajął się Lockheed na początku lat 70. XX wieku. Początkowo oznaczony jako Little R miał być odpowiedzią wytówrni na zapotrzebowanie US Army na mały i tani bezpilotowy samolot służący celom rozpoznawczym, wskazywaniu celów artylerii, zdolnym do przekazywania rejestrowanych obrazów w czasie rzeczywistym do stanowiska kontroli na ziemi. Wstępny projekt spełniał wszystkie stawiane wymagania z wyjątkiem jednego, nie był tani. W 1974 roku armia amerykańska i Lockheed podpisały porozumienie o dalszej współpracy w celu stworzenia odpowiedniego aparatu. Bazując na wcześniejszych pracach, w 1975 roku Lockheed zaprojektował XMQM-105A, który odbył swój pierwszy lot w tym samym roku. Dalsze prace doprowadziły do powstania wersji YMQM-105A, który swój pierwszy lot odbył w lipcu 1982 roku. Na przełomie 1986 i 1987 roku Aquila przeszedł testy operacyjne, które zakończyły się pomyślnie, jednak wzrastające wymagania jakie stawiała armia, które doprowadzały do znaczącego wzrostu kosztów doprowadziły do anulowania całego programu w 1987 roku. Lockheed promował swój produkt na rynkach zagranicznych jako Altair ale również bez sukcesów.
+
+Konstrukcja
+MQM-105 został wykonany z kompozytów kevlarowo-epoksydowych. Napęd stanowi dwusuwowy, dwucylindrowy silnik tłokowy napędzający dwułopatowe, obudowane śmigło pchające umieszczone z tyłu kadłuba. Samolot pozbawiony jest usterzenia pionowego, posiada bardzo spłaszczony kadłub. Na pokładzie znajdowała się kamera telewizyjna pracująca w świetle dziennym, kamera FLIR (Forward Looking Infra Red - obserwacja przedniej półsfery w podczerwieni) oraz laserowy system oznaczania celów. Aparat startował z wyrzutni, lądowanie odbywało w sieci rozpinanej na specjalnie przeznaczonym do tego samochodzie, w przypadkach awaryjnych mógł być również użyty spadochron znajdujący się na pokładzie. Sterowanie aparatu odbywało się ze stanowiska naziemnego.
+
+Linki zewnętrzne
+Bibliografia
+Eugeniusz Sobecki, Małe bezpilotowe statki latające, "Lotnictwo", nr 6 (1993), s. 12-15, ISSN 364215.
+
+
+
+

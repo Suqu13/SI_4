@@ -1,0 +1,45 @@
+Zyprazydon (Ziprasidonum) – wielofunkcyjny organiczny związek chemiczny stosowany jako lek neuroleptyczny drugiej generacji w leczeniu objawów schizofrenii i choroby afektywnej dwubiegunowej. W 2001 roku jako piąty atypowy neuroleptyk został dopuszczony do stosowania w Stanach Zjednoczonych przez FDA. Doustna postać leku zawiera wodorosiarczan zyprazydonu, natomiast postać domięśniowa metanosulfonian zyprazydonu.
+
+Mechanizm działania
+Zyprazydon wykazuje powinowactwo do większości receptorów dopaminergicznych i serotoninergicznych oraz do receptorów α1-adrenergicznych i histaminowych H1. W pewnym stopniu blokuje również wychwyt zwrotny monoamin (transporter serotoniny i noradrenaliny), ale nie działa na transporter dopaminy.
+
+Skuteczność zyprazydonu w schizofrenii wyjaśnia się działaniem leku na receptory dopaminergiczne D2 i receptory serotoninergiczne 5HT2A. Działanie względem innych receptorów serotoninergicznych (5HT2C, 5HT1A) może odpowiadać za skuteczność działania w zakresie funkcji poznawczych i objawów afektywnych. Jest częściowym agonistą receptorów 5-HT1A. Jako jedyny neuroleptyk ma działanie antagonistyczne wobec receptorów 5HT2D. Stosunkowo słaby antagonizm wobec receptorów α1-adrenergicznych i histaminowych H1 częściowo wyjaśnia niektóre działania niepożądane (ortostatyczne spadki ciśnienia, sedacja). Zyprazydon nie ma znaczącego powinowactwa do receptorów muskarynowych, dzięki czemu w przeciwieństwie do wielu innych neuroleptyków nie wywiera działania antycholinergicznego.
+
+Farmakokinetyka
+Dostępność biologiczna zyprazydonu wynosi 100% przy podaniu domięśniowym i 60% przy podaniu doustnym, podczas posiłku. Dostępność leku zmniejsza się o połowę, gdy nie jest przyjęty razem z jedzeniem.
+
+Zyprazydon jest metabolizowany w wątrobie przy udziale oksydazy aldehydowej. W mniejszym stopniu w metabolizmie zyprazydonu uczestniczy cytochrom P450 3A4 (CYP3A4). Induktory CYP3A4 (np. karbamazepina) i inhibitory CYP3A4 (np. ketokonazol) odpowiednio, obniżają i zwiększają poziom zyprazydonu w osoczu, ale ma to niewielkie kliniczne znaczenie.
+
+Zyprazydon stosowany doustnie jest przekształcany w trzech szlakach metabolicznych do czterech głównych metabolitów: sulfotlenku benzoizotiazolopiperazyny, sulfonu benzoizotiazolopiperazyny, sulfotlenku zyprazydonu i S-metylodihydrozyprazydonu.
+
+Działania niepożądane
+W porównaniu z innymi neuroleptykami, zyprazydon stosunkowo rzadko daje objawy pozapiramidowe i hiperprolaktynemię. Prawdopodobnie w niewielkim stopniu lub w ogóle nie powoduje przyrostu masy ciała. Pierwsze doniesienia o niebezpiecznym wydłużeniu odstępu QT (QTc) i związanym z tym ryzykiem kardiologicznym u pacjentów stosujących zyprazydon w ostatnich metaanalizach nie znajdują potwierdzenia.
+
+Udokumentowano, że u kilku pacjentów chorobą afektywną dwubiegunową zyprazydon spowodował zmianę fazy na maniakalną.
+
+Dawkowanie
+
+Najczęściej stosowany zakres dawek leku w schizofrenii wynosi 40–200 mg/dobę. Zalecane są dawki dobowe 120 mg i większe. Lek jest dostępny w postaci kapsułek i iniekcji domięśniowych. Zyprazydon powinien być przyjmowany dwa razy na dobę w czasie posiłku.
+
+Preparaty
+Preparaty zyprazydonu dostępne w Polsce.
+Pramaxima (Teva)
+Zeldox (Pfizer)
+Zipragen (Biogened)
+Zipramyl (Mylan)
+Zipwell (Actavis)
+Zypsila (Krka)
+
+
+
+Bibliografia
+Związki policykliczne
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+
+Plamka Airy'ego, krążek Airy'ego – obraz dyfrakcyjny powstający w wyniku dyfrakcji Fraunhofera światła na otworze kołowym. Plamkę zaobserwował po raz pierwszy George Airy, za co między innymi został odznaczony w 1833 roku Złotym Medalem Królewskiego Towarzystwa Astronomicznego.
+
+Natura zjawiska
+Obserwowany efekt
+Zgodnie z prawami optyki geometrycznej za otworem kołowym na ekranie powinien powstać również kołowy obraz o średnicy zbliżonej do rozmiarów otworu. W miarę zmniejszania się średnicy otworu, średnica obrazu też powinna maleć. Obserwuje się zjawisko dokładnie odwrotne – średnica obrazu rośnie, chociaż robi się on coraz słabszy. Ponadto obraz nie jest jednorodnym kołem a jasną plamkę otoczoną na przemian jasnymi i ciemnymi pierścieniami (prążkami).
+Wyjaśnienie fizyczne
+Zgodnie z zasadą Huygensa, każdy punkt otworu staje się źródłem fali kulistej. Fale pochodzące z różnych stref otworu interferują ze sobą dając tzw. obraz dyfrakcyjny. Powstanie obrazu dyfrakcyjnego (obszarów jaśniejszych i ciemniejszych) jest możliwe, ponieważ istnieje ograniczenie w postaci brzegu otworu, dzięki czemu za otworem nie powstaje fala płaska. Mówi się też, że światło ugina się na brzegach otworu (ulega dyfrakcji). 
+Opis formalny
+Kątowe rozmiary poszczególnych ciemnych pierścieni wyrażone są wzorem
+a wobec niewielkich wartości kątów '''' wzór ten można zapisać prościej
+gdzie 
+d – średnica otworu,
+λ – długość fali świetlnej,
+n – rząd widma (numer ciemnego pierścienia licząc od środka obrazu),
+J(n) – funkcja Bessela pierwszego rzędu.
+Wzór ten został wyprowadzony również przez Airy'ego w roku 1835. Widać z niego, że istotnie, zmniejszanie średnicy otworu d powoduje zwiększanie rozmiaru kątowego pierścieni.
+
+
+
+Znaczenie historyczne
+Obserwacja Airy'ego potwierdzona późniejszymi obliczeniami była kolejnym po doświadczeniu Younga potwierdzeniem falowej natury światła.
+
+Wpływ na zdolność rozdzielczą przyrządów
+Plamkę Airy'ego można zaobserwować jako obraz punktu powstający przy przejściu światła przez układ optyczny bez aberracji z kołową przesłoną aperturową. Powstawanie takich niepunktowych obrazów powoduje, ograniczenie możliwości rozróżniania szczegółów przez układ optyczny, np. mikroskop czy teleskop. Dlatego występowanie zjawiska dyfrakcji ogranicza zdolność rozdzielczą przyrządów optycznych.
+Bibliografia

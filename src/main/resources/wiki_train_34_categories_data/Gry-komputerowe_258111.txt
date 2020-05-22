@@ -1,0 +1,63 @@
+Hot Coffee – modyfikacja gry komputerowej '''' (GTA:SA). Zainstalowanie modyfikacji pozwala na uruchomienie ukrytej w grze minigry, w której pojawia się seks (również seks oralny z „niewidzialnym penisem”) z dziewczynami głównego bohatera.
+
+Treść
+Podczas gry, gracz (jako główny bohater Carl „CJ” Johnson) może zaprosić na randkę maksymalnie sześć dziewczyn, uruchamiając przy tym różne „misje randek”, podczas których zacieśnia więzy z daną partnerką. Gdy Carl zbliży się w relacjach do dziewczyny, może ona na koniec randki zaprosić go do domu „na kawę” - eufemizm dla seksu.
+
+W niemodyfikowanej wersji San Andreas kamera zostaje na zewnątrz mieszkania, podczas gdy z jego wnętrza dochodzą tłumione przez ściany okrzyki Carla i jego dziewczyny podczas stosunku. Wtedy modyfikacja Hot Coffee uruchamia minigierkę, w której gracz wchodzi do sypialni obydwojga kochających się bohaterów i kontroluje poczynaniami Carla podczas stosunku. Żadna z sześciu możliwych scen nie oferuje nagości. Jednakże nowsza wersja modyfikacji Hot Coffee zamienia dziewczynom częściowo zakrywające ciało tekstury stworzonymi przez modera, bitmapami z kobiecym ciałem. Mimo wszystko ten dodatek, jak większość tak zwanych nude patchów, może być wykorzystany w wersji gry na komputery osobiste i nie dołącza widocznych genitaliów.
+
+Rockstar Games, wydawca serii Grand Theft Auto, początkowo zaprzeczył, że minigra została „ukryta” w grze, twierdząc, że modyfikacja Hot Coffee jest rezultatem działań „hakerów wprowadzających ogromne zmiany techniczne w grze, wykorzystując dekompilowanie programu” do kodu źródłowego, co byłoby naruszeniem licencji użytkownika.
+
+Autor modyfikacji, Patrick Wildenborg (pod internetowym aliasem „PatrickW”) z Holandii, odrzucił oświadczenie firmy Rockstar na temat ogromnych zmian technicznych mocno ingerujących w kod gry, mówiąc, że zmienił tylko jeden bit w pliku main.scm i że nie zawiera on nowej zawartości, a ukryta minigra została zawarta w grze przez producenta. Modyfikacja sama w sobie jest jedynie zmienioną kopią plików skryptowych main.scm i script.img.  
+
+Są świadectwa na to, że ukryta zawartość znajduje się również w wersjach konsolowych tej gry, co potwierdza tezę Wildenborga, że jego modyfikacja jedynie „odblokowuje” ukryty przez twórców kod. Wersja gry na konsole PlayStation 2, która nie powinna zawierać tego materiału, ponieważ jest dostępna na odtwarzalnej płycie DVD, również udostępnia te minigierki. Minigra Hot Coffee może zostać włączona na wersji PlayStation 2 poprzez wprowadzenie krótkich kodów, przy użyciu Action Replay Max lub Gameshark. Na konsoli Microsoft Xbox również można zainstalować tę modyfikację używając np. Action Replay Max.
+
+Pokazało to, że scenki erotyczne rzeczywiście były zawarte w oryginalnym kodzie gry, a nie były dodatkiem wprowadzonym przez modyfikacje. Mimo wszystko nadal nie jest możliwe uruchomienie scenek po zagraniu w grę kupioną w sklepie.
+
+Kontrowersje
+Przedstawienie modyfikacji Hot Coffee spowodowało kontrowersje związane z GTA:SA, gdzie głos zabrali również politycy krytykujący zarówno producenta gry, jak i organizację klasyfikującą gry według kategorii wiekowych (Entertainment Software Rating Board - ESRB) w Stanach Zjednoczonych. Debata przerodziła się w kolejne protesty, tym razem przeciwko grom, takim jak Killer 7'', The Sims 2'' czy Bully.  
+
+Jack Thompson, prawnik i czynny przeciwnik gier komputerowych z Florydy był jednym z pierwszych atakujących grę za umieszczone w niej wstawki erotyczne. Thompson uważa, że silne media, takie jak gry komputerowe, są jedną z głównych przyczyn przestępstw w Ameryce i zaatakował firmę Rockstar również za gry wydane wcześniej. W oskarżeniach posunął się do tak skrajnych opinii, że niektórymi z metod wywołania sprzeciwu przeciwko grom komputerowym były obrażanie graczy i porównanie dyrektora Entertainment Software Association (ESA), Douglasa Lowensteina, do Hitlera.
+
+Senator Hillary Clinton była kolejną znaną osobistością, która dołączyła do walki, sugerując nowe regulacje sprzedaży gier komputerowych. Instytucja ESRB również zaczęła prowadzić dochodzenie mające odpowiedzieć na pytanie, czy jej wydawca świadomie zataił prawdę na temat zawartości gry w celu uzyskania niższej oceny wiekowej.
+
+W Nowym Jorku rozpoczął się również proces wytoczony przez 85-letnią kobietę, która kupiła grę dla swojego 14-letniego wnuka. Prawnik babci oświadczył, że jego zdaniem Rockstar Games i Take-Two Interactive., wydawca gry, są winni oszustwa, fałszowania faktów dotyczących zawartości, defraudacji i nadużyć. Oskarżenie o oszustwo jest oparte na zmianie oceny gry z M na AO, przy czym stwierdzono, że oryginalna ocena była praktyką dezinformacyjną.
+
+4 sierpnia 2005 Grupa znana jako Peaceholics (z ang. dosł. Pokojoholicy) zorganizowała protest przeciwko grom San Andreas oraz nadchodzącej Bully. Chcieli oni, aby zostały one wycofane z produkcji z powodu obaw, że mogą być inspiracją dla dzieci, aby zastraszały młodszych kolegów (z ang. bully - tyranizować). Protestujący nosili ze sobą znaki z tekstami „Prosecute Rockstar Games; they are felon”s („Wytoczyć sprawę Rockstarowi; oni są przestępcami”), „Hey hey, ho ho, Rockstar Games has got to go” („Rockstar Games musi odejść”). Peaceholics przedstawili firmie Rockstar następujące postulaty:
+
+Żądanie wycofania się z produkcji gry Bully.
+Prowadzenie sprzedaży gier zawierające sceny erotyczne bądź przemoc jedynie w sklepach z kasetami wideo dla dorosłych.
+Umożliwienie zwrotu gry Grand Theft Auto do czasu zakończenia kampanii mającej na celu edukację rodziców o zawartości gier i możliwych złych efektach ich działania (finansowanej ze strony Rockstar).
+Żadanie utworzenia funduszu na rzecz ofiar, którym skradziono pojazdy jedno lub dwuśladowe.
+Żądanie oficjalnych przeprosin za wprowadzenie w błąd i okłamywanie dzieci, rodziców i wszystkich urażonych.
+Żądanie pisemnej odpowiedzi w ciągu pięciu dni roboczych na powyższe postulaty. 
+
+Z drugiej strony, było też wiele osób, które nie zgadzały się z krytyką i odczuwały, że ataki na gry komputerowe są nieuzasadnione. Niezorganizowane tak jak powyższy ruch strony internetowe zdecydowały rozpocząć walkę z atakującymi gry komputerowe. W tej polityce wzięły udział między innymi GamePolitics  i Gamerandy . Gamerandy dodatkowo wystosował petycję przeciwko Jackowi Thompsonowi i innym aktywistom przeciwnym grom komputerowym.
+
+Padło wiele argumentów obalających tezy przeciwników gry. Jednym z nich było pokazanie, że po wydaniu komputerowej bijatyki Mortal Kombat na początku lat dziewiędziesiątych przestępczość w Los Angeles drastycznie spadła. 
+
+GamePolitics również podważył wiarygodność Thompsona. Thompson wyjął informacje z kontekstu artykułu z serwisu GamePolitics i jednoznacznie wyjawił, że poprzednia gra z tej serii, '''', również zawiera sceny erotyczne. Jest to zdanie wprowadzające w błąd - gra Vice City zawiera bowiem jedynie animację w scenerii kręcenia filmu erotycznego, w której to nic nie jest ukazane oczom gracza.
+
+Odpowiedź
+20 lipca 2005 ESRB oświadczyło, że zmienia ocenę GTA:SA z Mature na Adults Only 18+'''. Rockstar oświadczył, że produkcja gry, zawierająca sceny erotyczne, zostanie wstrzymana i zostanie wznowiona dopiero po stworzeniu nie zawierającej scen odblokowywanych przez modyfikację Hot Coffee. Rockstar powiedział też, że „czysta” wersja zostanie wydana w czwartym kwartale 2005, ze znaczkiem Mature 17+'''. 9 sierpnia firma wydała poprawkę dla wersji PC, usuwającą kontrowersyjny materiał.
+
+Dzień po zmianie oceny, wiele sieci sklepowych zdjęło GTA:SA z półek. Były wśród nich sieci Wal-Mart, Target, Best Buy czy EB Games. Rockstar wysyłał sprzedawcom nalepki z oceną Adults Only, aby mogli oni umieścić ją na pudełkach San Andreas mówiąc jednocześnie, że powinni zdecydować się na dalszą sprzedaż gry.
+
+eBay zaczął usuwać aukcje, w których przedmiotem sprzedaży było San Andreas. eBay odpowiedział, że San Andreas narusza politykę sprzedaży produktów na aukcjach eBay i może być sprzedawane jedynie w kategoriach z produktami dla dorosłych. Ta sekcja wymaga od klienta podania numeru karty kredytowej, na podstawie którego określa się jego wiek.
+
+29 lipca 2005, australijska organizacja Office of Film and Literature Classification odrzuciła ocenę MA15+''' oryginalnie umieszczonej przy GTA:SA i zmieniła ją na Refused Classification (RC)''', tym samym uniemożliwiając sprzedaż, wypożyczanie, reklamę czy publiczne pokazywanie gry w całej Australii. Wszystkie sklepy sprzedające lub udostępniające grę musiały jak najszybciej usunąć grę z półek.
+
+Do tej pory nie było reakcji w Europie, gdyż większość krajów nie musiało reklasyfikować San Andreas. Od początku gra dostępna była jedynie dla pełnoletnich obywateli w większości krajów Europy, więc nie potrzeba było żadnych innych przedsięwzięć, aby ocenę zmienić.
+
+
+
+Linki zewnętrzne
+Strony anglojęzyczne opisujące kontrowersje związane z modyfikacją
+(Ballada Rockstar Games [Parodia Hot Coffee]'')
+(IGN: Trzymajcie dzieci zdala od Hot Coffee)
+(IGN: Rockstar odpowiada na zmianę oceny GTA: SA)
+(IGN: Wskazówki do Hot Coffee)
+
+
+
+
+

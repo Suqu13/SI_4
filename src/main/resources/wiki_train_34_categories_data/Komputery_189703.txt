@@ -1,0 +1,50 @@
+IBM WebSphere Application Server (WAS)''' – serwer aplikacji JEE oferowany przez firmę IBM. 
+Jest platformą, na której uruchamiane są aplikacje Javy zgodne ze specyfikacją JEE (Java Enterprise Edition) / J2EE. 
+WebSphere Application Server zapewnia szereg usług. Przykładowo połączenia z bazami danych, obsługa wątków, rozkład obciążenia (workload management), które mogą być wykorzystywane przez aplikacje. 
+
+Istnieją inne konkurencyjne serwery aplikacji, które też są implementacjami specyfikacji Java EE – patrz serwer aplikacji JEE. 
+
+Wersje WebSphere Application Server
+Wersja 8
+wprowadzona w czerwcu 2011
+wspiera Java EE 6
+EJB 3.1
+Contexts and Dependency Injection for Java (CDI) 1.0
+Bean Validation 1.0
+JavaServer Faces (JSF) 2.0
+Java Servlet 3.0
+Java Persistence API (JPA) 2.0
+Java API for RESTful Web Services (JAX-RS) 1.1
+Java API for XML-based Web Services (JAX-WS) 2.2
+Enterprise Web Services 1.3 (JSR-109)
+Java Architecture for XML Binding (JAXB) 2.2
+wspiera OSGi, SCA
+Wersja 7
+wprowadzona we wrześniu 2008
+Wersja 6.1
+wprowadzona w czerwcu 2006
+Wersja 6
+wprowadzona w grudniu 2004
+specyfikacja J2EE 1.4
+Express
+Base
+Network Deployment
+Wersja 5.1
+Wersja 5
+specyfikacja J2EE 1.3
+Wersja 4
+specyfikacja J2EE 1.2
+...
+
+Zobacz też
+Oracle WebLogic
+Apache Tomcat
+JBoss Application Server
+
+Linki zewnętrzne
+– strona producenta
+– opis WASa na stronach IBM
+
+
+
+

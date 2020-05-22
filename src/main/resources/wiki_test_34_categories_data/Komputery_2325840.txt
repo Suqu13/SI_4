@@ -1,0 +1,259 @@
+
+Samsung Galaxy — seria produktów koreańskiej firmy Samsung obejmująca smartfony i tablety. Pierwszy model „Galaxy” pojawił się w połowie 2009 roku jako jeden z trzech flagowych serii Samsunga, obok ówczesnej serii „Wave” (S8500) oraz wysłużonej już „Omnia” (pierwszy model — i900).Kolejnym modelem serii jest dostępny w kolorach: czarnym (Sapphire Black), stalowym (Titanium Grey), białym, brązowym (Amber Brown), niebieskim (Pebble Blue) i czerwonym (Garnet Red) oraz w wersji mini Samsung Galaxy S III oraz Galaxy Note II. Obecnie najnowszymi modelami z serii Galaxy jest S5 (GT-I9500, GT-I9505) oraz Galaxy Note III (SM-N9000, SM-N9005). W lutym 2014 roku został przedstawiony model Samsung Galaxy S5 o matrycy aparatu 16 Mpx i ekranem o wielkości 5.1 cala.
+
+Spór o patenty
+Wyrok w Hadze
+
+25 sierpnia 2011 roku sąd w Hadze uznał, że niektóre ze smartfonów Galaxy łamią prawa patentowe firmy Apple. Z tego powodu holenderski oddział Samsunga nie może sprzedawać i rozsyłać do innych krajów trzech modeli telefonów - i9000 Galaxy S, i9100 Galaxy S II oraz S5830 Galaxy Ace. "Nadużyty" patent ma związek z przeglądaniem zdjęć - przeciąganie palcem kolejnych grafik. Przez zablokowanie Holandii, Samsung nie będzie mógł dostarczać tą drogą tych trzech telefonów do: Wielkiej Brytanii, Francji, Niemiec, Irlandii, Księstwa Lichtensteinu, Monako i Szwajcarii.
+
+Telefony
+W skład serii Galaxy wchodzą następujące modele telefonów:
+
+Według nowego nazewnictwa
+I8150''' - Galaxy W. Wyposażony w procesor 1.4&nbsp;GHz, ekran 3.7" 480x800, aparat 5 megapikseli oraz system Android 2.3 Gingerbread.
+I8190''' - model Galaxy S III Mini. Od modelu i9300 różni się m.in. wielkością ekranu (4"), procesorem (dwurdzeniowy, 1.0GHz), czy baterią - 1500mAh.
+I9000''' - to jeden z najdroższych telefonów Galaxy. Oferuje 4.0" ekran SuperAMOLED o rozdzielczości 480x800 pikseli. Ma procesor Hummingbird (1&nbsp;GHz).
+I9001''' - Galaxy S Plus to ulepszenie modelu i9000. Ma procesor taktowany 1.4&nbsp;GHz oraz baterię 1650&nbsp;mAh.
+i9070''' -  tańsza wersja Galaxy S II. Ma 4" ekran, dwurdzeniowy procesor i aparat 5 megapikseli.
+I9100''' - następca Galaxy S. Ma ekran 4.3" SuperAMOLED Plus (480x800 pikseli), oraz dwurdzeniowy procesor Samsung Exynos 4210 (Orion) o taktowaniu 1.2&nbsp;GHz.
+I9103''' - Galaxy R. Ma ekran 4.2" Super Clear LCD, dwurdzeniowy, 1 GHz procesor Nvidia Tegra 2, aparat 5 Mpx z możliwością nagrywania wideo 720p.
+I9210''' - udoskonalona wersja Galaxy S II. Ma ekran 4.5" 480x800, dwurdzeniowy procesor 1.5&nbsp;GHz, a także inny design. Telefon obsługuje łączność 4G (LTE).
+I9230''' - zaawansowana wersja modelu I9210. Od oryginału różni się większym ekranem (4.65") rozdzielczością HD (1280x720). Pozostałe podzespoły pozostały bez zmian.
+I9300''' - Galaxy S III. Następca modelu i9100, mający 4.8" ekran HD Super AMOLED, czterordzeniowy procesor 1.4 GHz i aparat 8 MPx.
+M340S - model zwany Galaxy M (M Style). Ma procesor 1 GHz, ekran 4.0" Super AMOLED czy aparat 3 megapiksele.
+S5360''' - Galaxy Y. Ma ekran 3.0", procesor 832 MHz oraz 160 MB pamięci wbudowanej.
+S6310/S6312 - Galaxy Young. Ma ekran 3.27", procesor 1GHz, interfejs Motion UI i 768 MB pamięci RAM. Model S6312 posiada Dual Sim.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Galaxy Y
+(S5360''', Young)
+
+Telefon przeznaczony jest dla młodych użytkowników. S5360 nazwany został według nowego sposobu nazewnictwa smartfonów Samsunga. Ma 3.0" ekran LCD TFT, procesor taktowany 832 MHz. Telefon ma 160 megabajtów pamięci wbudowanej i 384 MB RAM. Wyposażono go również w aparat 2 Mpx.
+
+Galaxy M
+(M340S, Magical)
+
+Zwany też Galaxy M Style. Urządzenie ma procesor taktowany 1 GHz. Największą zaletą Galaxy M jest 4.0" ekran Super AMOLED o rozdzielczości 480x800 (układ PenTile). Prócz tego, M340S wyposażono w 4 GB pamięci wbudowanej oraz dwa aparaty: tylny - 3 megapiksele, oraz przedni - VGA (kamerka do rozmów wideo). Telefon ma baterię 1650 mAh.
+
+Galaxy W
+(i8150''', Wonder)
+
+Model I8150 wyposażono w procesor 1.4&nbsp;GHz, oraz ekran 3.7" typu LCD TFT o rozdzielczości 800x480 pikseli. Bateria o pojemności 1500&nbsp;mAh ma starczyć na około 500 minut rozmów przez 3G. Galaxy W ma także aparat o rozdzielczości 5 Mpx oraz przednią kamerę 0.3&nbsp;Mpx. Główny aparat pozwala na nagrywanie filmów 720p. System operacyjny zainstalowany w I8150 to Android 2.3 Gingerbread.
+
+Galaxy R
+(i9103''', Royal)
+
+Telefon pracuje na platformie NVidia Tegra 2, ma ekran 4.2" Super Clear LCD [480x800], aparat 5 megapikseli oraz 8&nbsp;GB pamięci wewnętrznej. Telefon ma wbudowany system Android 2.3 Gingerbread.
+
+Galaxy S
+(i9000''', Super)
+
+I9000 to największy konkurent Apple IPhone. Galaxy S ma 4.0" ekran SuperAMOLED o rozdzielczości 480x800 pikseli. Procesor to Samsung Hummingbird S5PC110  o taktowaniu 1&nbsp;GHz. Galaxy S ma również 512&nbsp;MB pamięci RAM, oraz 8 lub 16&nbsp;GB pamięci wewnętrznej. I9000 pracuje na systemie Android 2.3 Gingerbread. To urządzenie ma także procesor graficzny PowerVR SGX-540. Galaxy S obsługuje standardy: Bluetooth 3.0, USB 2.0, Wi-Fi b/g/n. Aparat ma rozdzielczość 5&nbsp;Mpx.
+
+Galaxy S Plus
+(i9001''', Super Plus)
+
+Model i9001 jest zmodyfikowaną wersją Galaxy S i9000. Nowa osłona i9001 ma procesor Qualcomm Snapdragon MSM8255T, taktowany 1.4&nbsp;GHz, oraz lekko mniej wydajną grafikę Andreno 205. Telefon dostał także mocniejszą baterię 1650&nbsp;mAh (zamiast 1500). Urządzenie ma 8&nbsp;GB pamięci wewnętrznej i pracuje na systemie Android 2.3 Gingerbread.
+
+Galaxy S Advance
+(i9070''', Super Advance)
+
+Model i9070 to ulepszona wersja Galaxy S oraz tańsza wersja Galaxy S II. Samsung wyposażył ją w 4.0" ekran SuperAMOLED 480x800 pikseli, dwurdzeniowy procesor 1 GHz oraz 768 MB pamięci RAM. Galaxy S Advance ma również aparat 5 megapikseli, 8 lub 16 GB pamięci wbudowanej. Bateria to akumulator litowo-jonowy o pojemności 1500 mAh. Całość kontroluje system Android 2.3 (lub po aktualizacji 4.1.2)
+
+Galaxy S II
+(i9100''', Super II)
+
+I9100 oferuje dwurdzeniowy procesor taktowany 1.2&nbsp;GHz, ekran SuperAMOLED Plus o rozdzielczości 480x800 pikseli. Ma także 1024&nbsp;MB pamięci RAM i aparat 8&nbsp;Mpx z lampą LED. Urządzenie pracuje na systemie operacyjnym Android 4.0 Ice Cream Sandwich. Galaxy S II obsługuje wiele standardów, na przykład: WiFi a/b/g/n, Bluetooth 3.0, czy USB. i9100 tak samo jak jego poprzednik ma plastikową obudowę, która sprawia jednak wrażenie bardziej wytrzymałej.
+
+Galaxy S II LTE
+(i9210''', Super II LTE)
+
+Model i9210 to nowsza i lepsza wersja i9100. Ma 4.5" ekran typu Super AMOLED Plus, o rozdzielczości 480x800, dwurdzeniowy procesor Qualcomm o taktowaniu 1.5&nbsp;GHz, a także pojemniejszą baterię - 1850&nbsp;mAh. Telefon obsługiwać będzie sieć 4G (LTE). Galaxy S II LTE cechować będzie inny design od tego, który charakteryzuje model Galaxy S II.
+
+''(zobacz też sekcję i9210 Galaxy S II LTE w artykule Samsung Galaxy S II)''.
+
+Galaxy S II HD LTE
+(i9230''', Super II HD LTE)
+
+Model HD LTE jest ulepszoną wersją smartfona i9210 Galaxy S II LTE. Od pierwowzoru różni się ekranem - w tym modelu jest to 4.65" HD Super AMOLED o rozdzielczości 1280x720 pikseli. Zmiany dosięgnęły także wyglądu telefonu. Z przodu urządzenie różni się minimalnie, a tył znacząco zmodyfikowano. Pozostałe parametry (w tym system Android 2.3.3) pozostały bez zmian.
+
+Galaxy S III
+(i9300''', Super III)
+
+"Designed for Humans and inspired by Nature" - tak brzmi hasło promujące model Galaxy S III, który wyposażono w 4.8" ekran HD SuperAMOLED (PenTile) o rozdzielczości 1280x720 pikseli, cztero-rdzeniowy procesor 1.4 GHz (Samsung Exynos 4 Quad). Ponadto Galaxy S III ma aparat 8 megapikseli i baterię 2100 mAh. Całość pracuje pod kontrolą systemu Android w wersji 4.0.4 Ice Cream Sandwich. 
+
+Galaxy S III Mini
+Jest to mniejsza wersja flagowego modelu Samsunga - Galaxy S3. Od pierwowzoru różni się wieloma rzeczami: ma mniejszy ekran 4.0" SuperAMOLED (480x800 pikseli), dwurdzeniowy procesor 1GHz (STE NovaThor) z grafiką Mali-400, czy baterią 1500mAh. Wyposażono go także w 5 megapikselowy aparat (filmy 720p) oraz w przednią kamerkę VGA. Całość zapakowana jest w bardzo podobną do Galaxy S III obudowę i pracuje pod kontrolą systemu Android 4.1 Jelly Bean.  
+
+Galaxy S5
+Posiada on ekran o przekątnej 5,1 cala w rozdzielczości 1920x1080, 2GB pamięci RAM, procesor Qualcomm Snapdragon 801, akumulator o pojemności 2800mAh. Obsługuje LTE, NFC, sieć bezprzewodową w standardzie 802.11ac, Bluetooth 4.0, GPS. Posiada aparat o rozdzielczości 16 megapikseli z możliwością nagrywania filmów 4K. System operacyjny to Google Android 4.4.2 KitKat.
+
+Sprzedawany w wersji z 16GB lub 32GB pamięci wewnętrznej. W obu przypadkach dostępny jest port microSD.
+
+Urządzenie jest wodoodporne i waży 145g.
+GT-B
+Galaxy Pro
+B7510 to urządzenie z klawiaturą QWERTY. Ma 2.8" ekran dotykowy, procesor taktowany 800&nbsp;MHz (prawdopodobnie ten sam, co w Galaxy Ace). Urządzenie wyposażono w aparat o rozdzielczości 3 megapikseli z funkcją autofocus i łączność WiFi. Galaxy Pro pracuje pod kontrolą systemu Android 2.2 FroYo.
+
+GT-I
+I5500''' - jeden z nowszych modeli Galaxy; ma ekran 2.8", o rozdzielczości 240x320 pikseli. Procesor tego telefonu to ARM o taktowaniu 600&nbsp;MHz.
+I5510''' - telefon o ekranie 3.2" TFT i procesorze Qualcomm o taktowaniu 667&nbsp;MHz; system operacyjny to Android 2.2 FroYo.
+I5700''' - nowsza wersja i7500, zwana "Spica". Miała taki sam ekran (tyle że LCD TFT), jednak wyposażono ją w inny procesor - Samsung, o taktowaniu 800&nbsp;MHz.
+I5800''' - następca modelu i5700. Wyposażony w ekran 3.2", o rozdzielczości 240x400 pikseli. Wyposażony został w 667&nbsp;MHz procesor Samsung.
+I7500''' - pierwszy model z tej serii; wyposażony był w 3.2" ekran AMOLED, o rozdzielczości 480x320 pikseli. Telefon ten ma procesor Qualcomm o taktowaniu 528&nbsp;MHz.
+i8160''' - następca Ace Plus. Ma m.in. dwurdzeniowy procesor taktowany zegarem 800 MHz, 768 MB RAM oraz ekran dotykowy 3.8" wykonany w technologii Super PLS.
+I8520''' - o nazwie Beam. Ma procesor 800&nbsp;MHz, ekran 3.7" SuperAMOLED o rozdzielczości 480x800 oraz wbudowany projektor (do 50", rozdzielczość WVGA).
+I9003''' - ten model to tańsza wersja Galaxy S. Różni się on ekranem 4.0" SuperClear LCD oraz procesorem TI OMAP 3630 o taktowaniu 1000&nbsp;MHz.
+I9101''' - bliźniacze urządzenie i9100. Różni się procesorem (TI OMAP 1&nbsp;GHz), grafiką (SGX-540), ekranem (4.3" Super LCD) i aparatem fotograficznym (5 megapikseli).
+I9220''' - Galaxy Note. Cechuje go ekran 5.3" Super AMOLED HD, dwurdzeniowy procesor 1.4&nbsp;GHz i aparat fotograficzny 8&nbsp;Mpx.
+I9250''' - zrobiony dla Google. Galaxy Nexus ma ekran 4.65" Super AMOLED HD, dwurdzeniowy procesor 1.2&nbsp;GHz, a także aparat 5&nbsp;Mpx.
+
+
+
+
+
+
+
+
+
+
+
+
+Galaxy
+
+I7500 to pierwszy telefon z serii. Ma ekran 3.2" w technologii AMOLED. Pamięć wewnętrzna tego modelu to 192MB. Procesor Qualcomm MSM7200a pracuje z częstotliwością 528&nbsp;MHz. System operacyjny to Android 1.5 Cupcake, który można zaktualizować do wersji 1.6 Donut. Aparat Galaxy i7500 ma rozdzielczość 5 Mpx i wyposażony jest w lampę flash.
+
+Galaxy Spica
+
+I5700 Spica (wcześniej nazywany Lite) to nowsza wersja i7500. Ma ekran LCD TFT 3.2", o rozdzielczości 320x480 pikseli. I5700 pracuje pod kontrolą systemu Android 1.5, jednak w maju 2010 Samsung wydał uaktualnienie do wersji 2.1 Eclair. Procesor Galaxy Spica to Samsung S3C6410 o taktowaniu 800MHz. I5700 ma 256&nbsp;MB pamięci RAM oraz 512&nbsp;MB ROM. Aparat to standardowe 3.2&nbsp;Mpx.
+
+Galaxy 5
+I5500 Europa (Galaxy 5, i5503) to telefon zaprezentowany w czerwcu 2010 roku. Ma mały ekran dotykowy (2.8"), o rozdzielczości 240x320 pikseli. Europa ma procesor o taktowaniu 600 MHz, oraz 170 MB pamięci wbudowanej. System operacyjny to Android 2.1 Eclair. Samsung ma udostępnić aktualizację do wersji 2.2 FroYo. Aparat ma rozdzielczość 2 milionów pikseli, bez lampy flash lub LED.
+
+Galaxy 551
+
+I5510 (znany także jako Galaxy 551) wyposażony został on 3.2" ekran dotykowy typu LCD TFT o rozdzielczości 400x240 pikseli. Aparat ma rozdzielczość 3.2 megapikseli. 551 ma także procesor o taktowaniu 667&nbsp;MHz (0.667&nbsp;GHz), oraz 160&nbsp;MB pamięci wbudowanej. Telefon wyposażony jest w łączność Wi-Fi oraz sprzętową klawiaturę QWERTY.
+
+Galaxy 3
+
+I5800 ma ekran LCD o przekątnej 3.2" i rozdzielczości 240x400 pikseli. Procesor to Samsung S5P6422 o taktowaniu 667&nbsp;MHz. Telefon ma 256&nbsp;MB pamięci RAM. System to Android 2.1. Urządzenie obsługuje Bluetooth w wersji 3.0. Aparat ma rozdzielczość 3.2 miliona pikseli.
+
+Galaxy Beam
+
+I8520 cechuje projektor, który ma rozdzielczość 480x800 pikseli i może wyświetlać obraz wielkości od 5 do 50 cali. Ekran samego telefonu to 3.7" Super AMOLED, o rozdzielczości WVGA. Ma on aparat o rozdzielczości 8 milionów pikseli oraz procesor o taktowaniu 800&nbsp;MHz. Beam pracuje pod kontrolą systemu Android 2.1.
+
+Galaxy scl
+I9003 scl (wcześniej SL) to młodsza wersja Galaxy S. Różni się między innymi procesorem TI OMAP 3630 o taktowaniu 1&nbsp;GHz, oraz 4.0" ekranem SuperClear LCD. I9003 będzie dostępny tylko w wersji z 16&nbsp;GB pamięci wewnętrznej.
+
+I9101
+Model i9101 to planowana tańsza wersja modelu i9100. Ma dwurdzeniowy procesor TI OMAP4, taktowany 1&nbsp;GHz, grafikę SGX-540 (tę samą, co w Galaxy S i9000). Ekran to 4.3" Super LCD 480x800 pikseli. Zmieniony został także aparat - i9101  będzie mieć 5&nbsp;Mpx. 
+
+Galaxy Note
+
+Note N7000 to smartfon z wyświetlaczem Super AMOLED HD 5,3" o rozdzielczości 1280x800 pikseli. Model ten wyposażony został w rysik zwany S-Pen, umożliwiający zarówno obsługę telefonu jak i wykonywanie ręcznych notatek, rysunków oraz "wycinanie" fragmentów stron internetowych czy też plików graficznych, aby dołączyć je do notatki czy też wiadomości. Note oferuje dwurdzeniowy procesor taktowany 1.4&nbsp;GHz i grafikę Mali 400 MP4, ma 1&nbsp;GB RAM i aparat 8&nbsp;MP z lampą LED.
+
+Galaxy Nexus
+
+Trzeci Nexus ma 4.65" ekran typu HD Super AMOLED (lub Super AMOLED HD) o rozdzielczości 1280x720 pikseli. Procesor to dwurdzeniowy TI OMAP 4460, taktowany 1.2&nbsp;GHz. Grafika to PowerVR SGX-540. I9250 wyposażono w dwa aparaty - przedni 1.3&nbsp;Mpx i tylny (główny), o rozdzielczości 5 Mpx, nagrywający filmy 1080p. System operacyjny to Android 4.1.1 Jelly Bean. 
+
+GT-S
+Pierwsze cztery modele (Mini, Gio, Fit, Ace) producent zaprezentował na targach MWC 2011.
+S5570''' - zwany Galaxy Mini. Jest to mała wersja popularnego Galaxy S, oferująca m.in. 3.14" ekran dotykowy oraz procesor taktowany 600&nbsp;MHz.
+S5660''' - (Galaxy Gio) to niewielki telefon ze średniej półki cenowej. Ma ekran dotykowy 3.2", a ciekawostką jest moduł Wi-Fi.
+S5670''' - jest to model Galaxy Fit. Ma trochę większy ekran (3.3") od S5660 Gio, jednak ma wolniejszy procesor. Jest on taktowany 600&nbsp;MHz.
+S5690''' - model Galaxy Xcover, cechujący się odpornością na niekorzystne warunki. Telefon wyposażono w 3.6" ekran, procesor 800 MHz czy aparat 3.2 megapiksela.
+S5830''' - to najlepszy z czterech telefonów GT-S zaprezentowanych na MWC 2011. Ma 3.5" ekran dotykowy, i procesor o taktowaniu 800&nbsp;MHz.
+S6500''' - model Galaxy Mini 2, zaprezentowany w lutym 2012. Ma m.in. procesor 800 MHz, ekran 3.27", czy 4 GB pamięci wbudowanej.
+S7500''' -  ulepszona wersja modelu Ace, nazwana Galaxy Ace Plus. Różnice w wyglądzie względem oryginału są niewielkie.
+
+
+
+
+
+
+
+
+
+
+
+Galaxy Mini
+
+S5570 Mini to telefon o ekranie 3.14" o rozdzielczości QVGA (320x240) i procesorze o taktowaniu 600&nbsp;MHz (0.6&nbsp;GHz). Ma łączność Wi-Fi oraz czytnik dokumentów Microsoft Office. Telefon ma także Bluetooth 3.0, a działa pod kontrolą systemu Android 2.2.1 z nakładką Samsung TouchWiz.
+
+Galaxy Gio
+
+S5660, zwany Galaxy Gio, ma ekran dotykowy o wielkości 3.2" i rozdzielczości 320x480 pikseli. Wyposażony został w procesor taktowany 800 MHz, 160 MB pamięci wewnętrznej. Ma także łączność Bluetooth 2.1, WiFi b/g/n oraz USB 2.0. System operacyjny to Android 2.2 FroYo, z aktualizacją do 2.3.6 Gingerbread.
+
+Galaxy Fit
+Fit S5670 to smartfon z wyświetlaczem 3.31" o rozdzielczości 320x240 pikseli. Telefon ma także procesor z zegarem taktowanym 600&nbsp;MHz, system Google Android 2.2 FroYo z nakładką TouchWiz. Galaxy Fit może komunikować się za pomocą WiFi o standardzie b, g lub n, Bluetooth w wersji 2.1, oraz USB, czy A-GPS. Ma także wbudowane gniazdo Jack 3.5&nbsp;mm.
+
+Galaxy Xcover
+Model S5690 ma certyfikat IP67, co potwierdza, że telefon jest odporny na kurz i wodę. Samsung twierdzi, że usterki tego modelu nie spowoduje upadek na twarde podłoże. Producent wyposażył Galaxy Xcover w procesor 832 MHz, 150 megabajtów pamięci wbudowanej, baterię 1500mAh, czy aparat 3.2 megapiksela.
+
+Galaxy Ace
+
+Ace to najmocniejszy z czterech pierwszych modeli GT-S5xx0. Wyposażony został w ekran o wielkości takiej, jak w iPhone - 3.5", o rozdzielczości 320x480 pikseli. Sercem Galaxy Ace jest układ SoC Qualcomm MSM7227-1 z procesorem ARM taktowanym 800&nbsp;MHz i grafiką Adreno 200. Pamięć urządzenia to 158&nbsp;MB. Telefon ma aparat 5 Mpx i system Android 2.2 FroYo.
+
+Galaxy Mini 2
+Mini 2 to smartfon zaprezentowany w roku 2012. Ma procesor taktowany 800 MHz, ekran LCD TFT o przekątnej 3.27" i rozdzielczości 320x480 (HVGA), 4 GB pamięci wbudowanej oraz 512 MB pamięci RAM. Bateria modelu S6500 ma pojemność 1300mAh. Telefon ma aparat o rozdzielczości 3.2 megapiksela. Mini 2 pracuje pod kontrolą systemu Android 2.3.6 Gingerbread. Samsung pod koniec września 2012 roku zapowiedział wydanie aktualizacji do Android 4.1 Jelly Bean w krótkim czasie po Galaxy S III.
+
+Galaxy Ace Plus
+S7500 to ulepszona wersja modelu S5830. Od oryginału różni się ekranem większym o 0.15" (teraz jest 3.65"), procesorem 1 GHz, większą pamięcią (512 MB RAM oraz 3 GB pamięci wbudowanej). Rozdzielczość aparatu pozostała bez zmian - 5 megapikseli. Zmniejszyła się za to pojemność baterii. W tym modelu jest to 1300 mAh.
+
+Galaxy Ace 2
+Jest to następca modelu Ace S5830. Wyposażono go w dwurdzeniowy procesor taktowany 800 MHz, 768 MB pamięci RAM, 4 GB pamięci wbudowanej. Telefon ma również pojemniejszą baterię - 1500 mAh. Ekran w tym modelu to 3.8" LCD o rozdzielczości 480x800 pikseli. Aparat ma rozdzielczość 5 Mpx. Za jego pomocą możemy nagrać film w jakości 720p.
+
+Fabrycznie instalowany system Android 2.3 Gingerbread a obecnie po uaktualnieniu posiada Androida 4.1.2 Jelly Bean.
+
+Tablety
+Galaxy to nie tylko telefony. W skład serii wchodzą również tablety:
+P1000''' - zwany Galaxy Tab. Ma 7.0" ekran LCD, o rozdzielczości 1024x600 pikseli, oraz procesor ARM Cortex A8, o taktowaniu 1&nbsp;GHz. Jest konkurentem iPada.
+Tab 10.1''' - wyposażony w 10.1" ekran dotykowy LCD TFT, o rozdzielczości 1200x800 pikseli, oraz dwurdzeniowy procesor Cortex (na platformie Tegra 2).
+Tab 8.9''' - urządzenie o 8.9" ekranie dotykowym LCD. Ma dwurdzeniowy procesor 1&nbsp;GHz, a także aparat 3&nbsp;Mpx.
+Tab 10.1 v.2''' - odświeżona wersja Tab 10.1. Od poprzednika różni się mniejszymi wymiarami i wagą.
+Tab 7.7''' - następca Galaxy Tab P1000. Wyposażony jest w ekran Super AMOLED Plus 7.7" o rozdzielczości 1280x800 pikseli i dwurdzeniowy procesor Exynos 1.4&nbsp;GHz. 
+Note 10.1''' - znacznie powiększona wersja modelu Galaxy Note. Od N7000 różni się większym ekranem - 10.1", czterordzeniowym procesorem Exynos 4412 o taktowaniu 1,4GHz, dwoma gigabajtami pamięci RAM i aparatem 5 Mpx. Note 10.1 ma rysik S-Pen.
+
+Odtwarzacz
+Player 50''' - odtwarzacz MP4, o ekranie 3.2" i pamięci wewnętrznej 8 lub 16&nbsp;GB. Urządzenie ma GPS, aparat 2&nbsp;Mpx, oraz WiFi. Pracuje pod kontrolą systemu operacyjnego Android.
+
+Galeria urządzeń
+Zdjęcia ułożone alfabetycznie nazwami urządzeń
+
+Plik:Samsung i5500.jpg|I5500''' Galaxy Europa
+Plik:Spica.png|I5700''' Galaxy Spica
+Plik:Samsung Galaxy Apollo.jpg|I5800''' Galaxy Apollo
+Plik:I7500 with screen protector.jpg|I7500''' Galaxy
+Plik:Samsung Galaxy W (GT-I8150) front 2.jpg|I8150''' Galaxy W
+Plik:Samsung Galaxy S III mini.jpg|I8190''' Galaxy S III Mini
+
+Plik:Samsung i9000 galaxy s.jpeg|I9000''' Galaxy S
+Plik:Samsung Galaxy S II in hand.jpg|I9100''' Galaxy S II
+
+Plik:Galaxy Nexus smartphone.jpg|I9250''' Galaxy Nexus
+Plik:Front of Samsung Galaxy S III.jpg|I9300''' Galaxy S III
+
+Plik:IFA 2010 Internationale Funkausstellung Berlin 15.JPG|P1000''' Galaxy Tab
+Plik:Samsung Galaxy Gio.JPG|S5660''' Galaxy Gio
+Plik:Samsung Galaxy Ace.jpg|S5830''' Galaxy Ace
+Plik:Samsung Galaxy S Sprint jeh.jpg|SPH-D700''' Epic 4G
+
+
+Zobacz też
+Samsung Wave
+Samsung Galaxy S Pro
+
+
+
+Linki zewnętrzne

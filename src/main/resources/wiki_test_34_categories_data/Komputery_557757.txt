@@ -1,0 +1,28 @@
+MiSter Z80''' to mikroprocesorowy sterownik przemysłowy produkowany w latach 1985-1989 w Zakładach Elektroniki Górniczej w Tychach. W latach 1987-1988 rozpoczęto wprowadzanie nowego systemu ''' MiSter Z80/ComPAN '''.
+
+Zastosowania
+Podstawowe zastosowanie systemu, do którego został zaprojektowany i wdrożony do produkcji, to sterowanie i kontrola pracy urządzeń przemysłowych w czasie rzeczywistym. Jednak jego budowa i zastosowane oprogramowanie sprawiły, że mógł być i był stosowany także jako:
+komputer biurowy
+komputer do obliczeń naukowo-technicznych
+system programowania i uruchamiania systemów operacyjnych
+system rejestracji, przetwarzanie i wizualizacji danych.
+
+Dane techniczne
+procesor U880D (odpowiednik Z80 produkcji NRD)
+pamięć operacyjna 64KB (z możliwością rozbudowy do 960KB)
+pamięć EPROM 16KB (lub 32KB)
+stacje dysków 5,25” lub 8”
+
+Oprogramowanie
+systemy operacyne:
+CP/M 2.2
+ISIS-II
+ZSAK PAN (Wielozadaniowy Monitor Czasu Rzeczywistego)
+języki programowania:
+asembler
+BASIC
+Forth
+Fortran
+Pascal
+
+Bibliografia

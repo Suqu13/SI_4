@@ -1,0 +1,34 @@
+Odpuszczanie – rodzaj obróbki cieplnej, której poddawana jest stal wcześniej zahartowana. Celem odpuszczania jest usunięcie naprężeń hartowniczych oraz zmiana własności fizycznych zahartowanej stali, a przede wszystkim zmniejszenie twardości, a podniesienie udarności zahartowanej stali.
+
+Odpuszczanie polega na rozgrzaniu zahartowanego wcześniej przedmiotu do temperatury w granicach 150 do 650 °C, przetrzymywaniu w tej temperaturze przez pewien czas, a następnie schłodzeniu. W czasie odpuszczania całość lub część martenzytu zawartego w zahartowanej stali rozpada się, wydzielając bardzo drobne ziarna cementytu, tworząc fazy noszące nazwy: „martenzyt odpuszczania”, „sorbit odpuszczania” i „troostyt odpuszczania”.
+
+Przemiany zachodzące w martenzycie podczas nagrzewania można podzielić na cztery etapy. Śledzenie tych przemian umożliwiają badania dylatometryczne.
+Pierwsze stadium, w temperaturze 80–200 °C, jest związane z rozkładem martenzytu i wydzieleniem w nim węglika ε-Fe2C o strukturze heksagonalnej. Następuje zmniejszenie stężenia węgla w martenzycie, zmniejszenie tetragonalności martenzytu i tworzy się martenzyt o sieci regularnej, tzw. martenzyt odpuszczania).
+Drugie stadium, w temperaturze 200–300 °C, jest związane z dalszym wydzielaniem się w stopie węglika ε, skutkiem czego zawartość węgla w martenzycie maleje do około 0,15%; równocześnie zachodzi dyfuzyjna przemiana austenitu szczątkowego w strukturę o charakterze bainitycznym; w etapie tym powstaje mieszanina ferrytu nieznacznie przesyconego węglem oraz węglika ε. W miarę wydzielania się węglików z martenzytu stopień tetragonalności jego struktury sieciowej c/a maleje.
+Trzecie stadium przebiega w temperaturze 300–400 °C. Następuje całkowite wydzielenie węgla z roztworu, a węglik ε ulega przemianie w cementyt; struktura otrzymana na tym etapie jest mieszaniną ferrytu i cementytu (troostyt odpuszczania).
+Czwarte stadium przebiega w temperaturze 400–650 °C. Zachodzi koagulacja cząsteczek cementytu, wzrastająca ze wzrostem temperatury. Struktura otrzymana w tym zakresie temperatur, będąca mieszaniną ferrytu i cementytu, nazywa się sorbitem odpuszczania (cząstki cementytu mają kształt globularny). Na tym etapie następuje całkowite usunięcie naprężeń.
+
+Rodzaje odpuszczania ze względu na temperaturę:'''
+Odpuszczanie niskie
+Przeprowadza się je w temperaturach w granicach 150–250 °C. Celem jego jest usuniecie naprężeń hartowniczych, przy zachowaniu w strukturze wysokiego udziału martenzytu, a przez to zachowanie wysokiej twardości. Stosuje się przy narzędziach.
+Odpuszczanie średnie
+Przeprowadza się je w temperaturach w granicach 250–500 °C. Stosowane w celu uzyskania wysokiej wytrzymałości i sprężystości przy znacznym obniżeniu twardości. Stosowane przy obróbce sprężyn, resorów, części mechanizmów pracujących na uderzenie np. młoty, części broni maszynowej, części samochodowych itp.
+Odpuszczanie wysokie
+Przeprowadza się je w temperaturach powyżej 500 °C w celu uzyskania wysokiej wytrzymałości przy niskiej twardości. Stal odpuszczana wysoko nadaje się do obróbki skrawaniem.
+
+Podczas odpuszczania występuje kruchość odpuszczania, którą dzieli się na:
+kruchość odpuszczania I rodzaju – kruchość nieodwracalna, występuje w zakresie temperatur 250-450 °C, powoduje zmniejszenie odporności na pękanie
+kruchość odpuszczania II rodzaju – kruchość odwracalna, występuje powyżej 500 °C i powolnym chłodzeniu
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+
+
+Mikroskop warsztatowy - optyczne urządzenie pomiarowe, które służy do bezdotykowego pomiaru długości przedmiotów w układzie współrzędnych prostokątnych oraz kątów. Wykorzystywany jest najczęściej w laboratoriach pomiarowych i w przemyśle maszynowym (izba pomiarów, narzędziownia). 
+
+Mikroskop zawiera układ optyczny umożliwiający obserwację mierzonego przedmiotu w okularze, na matówce lub z wykorzystaniem kamery na ekranie. Stosowane są powiększenia obiektywów od 1x do 5x, a całkowite powiększenie (wynoszące od 10x do 50x) jest znacznie mniejsze niż w mikroskopach do obserwacji biologicznych. Przedmioty mogą być obserwowane w świetle przechodzącym (cień) lub odbitym.
+
+Mierzony przedmiot umieszcza się na obrotowym stoliku, który jest przesuwany śrubami mikrometrycznymi w dwu wzajemnie prostopadłych kierunkach. Położenie stolika jest odczytywane za pomocą bębnów mikrometrycznych z działką elementarną 0,01 mm. Do rozszerzenia zakresu pomiarowego (poza zakres przesuwu śruby − typowo 25 mm) wykorzystywane są płytki wzorcowe wkładane między nieruchomą płytkę oporową a zderzak sań. Rozdzielczość pomiaru kątów za pomocą głowicy okularowej goniometrycznej jak i podziałki obrotowego stołu wynosi 1’.
+
+Mikroskopy warsztatowe produkowane są w dwu wielkościach jako mały mikroskop warsztatowy o polu pomiarowym 25x50 mm i duży mikroskop warsztatowy o polu pomiarowym 50x150 mm 
+
+Bibliografia
+str. 212-213
+
+

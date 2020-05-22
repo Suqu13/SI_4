@@ -1,0 +1,29 @@
+Nexus 7''' – tablet firmy Google oparty na systemie Android, wyprodukowany przez ASUS. Jest pierwszym tabletem z serii Nexus. Został zaprezentowany 27 czerwca 2012 roku podczas Google I/O.
+
+Opis urządzenia
+Szczegółowa specyfikacja
+ekran: 7", dotykowy, LCD IPS, rozdzielczość 1280x800.
+procesor: NVIDIA Tegra 3 T30L bazujący na ARM Cortex A9, taktowany 1,2GHz.
+pamięć: 8, 16GB lub 32GB flash bez możliwości rozszerzenia przez microSD.
+RAM: 1GB DDR3
+bateria: 4325 mAh
+aparat: przedni – 1,2MPx
+wymiary i masa: 198,5 × 120 × 10,45 mm, 340 g
+sensory: akcelerometr, magnetometr, GPS, żyroskop
+złącza: microUSB
+bezprzewodowy przesył danych: WLAN 802.11 b/g/n@2.4GHz, Bluetooth 4.0, 3G (tylko w wersji 32GB)
+
+System operacyjny
+Nexus 7 został wydany z systemem Android w wersji 4.1 Jelly Bean, ale może zostać zaktualizowany do wersji 5.0 Lollipop. Tablet używa interfejsu podobnego do tego ze smartfonów, jednak m.in. menu i powiadomienia zostały przystosowane do większego ekranu. Ponadto – przynajmniej do Android 4.4 – tylko tablety mogą posiadać różne profile użytkowników.
+
+Problemy
+Użytkownicy zgłaszali problemy z regulacją jasności ekranu, zrywaniem połączeń przez Bluetooth, częstymi restartami, bardzo szybkim rozładowywanie baterii, długim czas ładowania, niedopracowanymi widgetami i aplikacją aparatu oraz brakiem grudnia w kalendarzu. Większość z tych usterek została usunięta wraz z aktualizacją systemu Android do wersji 4.2.1.
+
+Zobacz też
+Google Nexus
+
+
+
+
+
+

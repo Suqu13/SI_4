@@ -1,0 +1,31 @@
+
+
+ELWAT - rodzina komputerów analogowych skonstruowanych w Wojskowej Akademii Technicznej i produkowanych przez zakład Elwro we Wrocławiu od 1967 r.
+
+Przeznaczone do rozwiązywania równań różniczkowych i symulacji procesów. Na przełomie lat 60. i 70. znacznie szybsze i tańsze od komputerów cyfrowych.
+
+Ich rozwinięciem był komputer analogowo-cyfrowy WAT 1001.
+
+Dane komputera ELWAT-1
+Zawartość stojaka (komputer mógł zawierać dowolną ilość stojaków):
+dokładność: 0,1 (wzmacniacze) do 5% (generator funkcji)
+19 lampowych wzmacniaczy operacyjnych każdy z przekaźnikiem zerującym i potencjometrem wieloobrotowym
+12 uniwersalnych bloków funkcyjnych sumujących i całkujących
+6 bloków sumujących
+1 układ mnożenia
+4 generatory funkcji
+9 bloków ograniczników
+Urządzenia zewnętrzne:
+oscyloskop
+pisak
+woltomierz cyfrowy z drukarką.
+
+Produkcja modelu ELWAT 1
+1967: 26 szt.
+1968: 20 szt.
+1969:  4 szt.
+
+
+
+
+

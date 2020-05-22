@@ -1,0 +1,31 @@
+Rachunkowość finansowa jest systemem ewidencji gospodarczej, odzwierciedlającym w formie pieniężnej zjawiska i procesy gospodarcze, zachodzące w danej jednostce. Dzięki zapisom księgowym, można przedstawić sytuację majątkowo-finansową i wynik finansowy.
+
+W tej odmianie rachunkowości mamy do czynienia z określeniem majątku (aktywa) oraz sposobu jego finansowania (pasywa).
+
+Funkcje rachunkowości
+Funkcja informacyjna, dostarcza danych o wynikach finansowych i sytuacji finansowej, oraz danych do podejmowania decyzji gospodarczych przez zarząd. Jest to nadrzędna funkcja rachunkowości.
+Funkcja dowodowa, polega na odzwierciedleniu zaszłości gospodarczych w pisemnych dowodach, archiwizowaniu dokumentów, dokonywaniu zapisów księgowych na ich podstawie.
+Funkcja rozliczeniowo-obrachunkowa, polega na ścisłym określeniu rozliczeń z otoczeniem i wycenie wewnętrznych powiązań majątkowych i wynikowych.
+Funkcja kontrolna, wyraża się w tworzeniu zbiorów informacji o majątku, przebiegu i osiąganych wynikach. Jest też interpretowana jako umożliwienie ochrony majątku przed nadużyciami.
+Funkcja sprawozdawcza, polega na sporządzaniu na podstawie danych księgowych zewnętrznych sprawozdań finansowych, wykorzystywanych przez użytkowników zewnętrznych, np. urzędy skarbowe, akcjonariuszy, banki, Główny Urząd Statystyczny.
+Funkcja powiernicza, związana z ochroną nienaruszalności powierzonego kapitału.
+
+Systemy rachunkowości
+Uproszczony, oparty na pojedynczych zapisach wybranych zasobów lub wyników. Celem jest uproszczenie sposobu naliczania podatku dochodowego z prowadzonej działalności gospodarczej. Formami tego systemu są: podatkowa księga przychodów i rozchodów (k.p. i r.), ryczałt ewidencjonowany i karta podatkowa.
+Pełny (księgi handlowe) dotyczy osób prawnych oraz innych podmiotów o większych obrotach (zobacz niżej), rejestrujących swoją działalność na zasadzie wpisu do Krajowego Rejestru Sądowego. System jest w pełni sprawdzalny przez organa kontrolne. Polega na prowadzeniu zapisów na tzw. kontach ksiąg rachunkowych na zasadzie wzajemnego bilansowania zdarzeń gospodarczych (reguła podwójnego zapisu).
+
+Podmioty zobowiązane do prowadzenia pełnej księgowości:
+osoby prawne
+spółki kapitałowe prawa handlowego
+instytucje finansowe (banki, ubezpieczyciele, fundusze powiernicze)
+jednostki państwowe i samorządowe
+wszystkie jednostki otrzymujące dotacje (np. stowarzyszenia)
+osoby fizyczne prowadzące działalność gospodarczą, spółki cywilne, spółki jawne osób fizycznych oraz spółki partnerskie, których roczny obrót netto za poprzedni rok obrotowy wyniósł w walucie polskiej co najmniej równowartość kwoty 1 200 000 euro.
+
+Rachunkowość aktywów kompetencyjnych i kapitału intelektualnego
+Tradycyjna rachunkowość finansowa skoncentrowana na ewidencji zasobów majątkowych nie jest w stanie dostarczyć obrazu niematerialnych czynników wytwórczych typowych dla gospodarki opartej na wiedzy. Tę lukę w systemie rachunkowości uzupełnia nowy dział, tj. rachunkowość finansowa aktywów kompetencyjnych i kapitału intelektualnego. Rachunkowość aktywów kompetencyjnych i kapitału intelektualnego pozwala wprowadzać do ksiąg jednostki wycenione w mierniku pieniężnym kompetencje pracownicze oraz źródła ich pochodzenia, a następnie przedstawiać ich syntetyczny obraz w odpowiednio rozbudowanym sprawozdaniu finansowym sporządzonym na dzień bilansowy. Na obecnym etapie rozwoju rachunkowości nie jest to usankcjonowany prawnie obligatoryjny element systemu rachunkowości. Jednakże jego stosowanie zapewnia kompletność obrazu gospodarującej jednostki bazując na zasadzie wyższości treści nad formą.
+
+
+
+Linki zewnętrzne
+Ustawa z dnia 29 września 1994 r. o rachunkowości ( ze zm.)

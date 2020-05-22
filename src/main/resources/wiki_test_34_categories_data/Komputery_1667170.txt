@@ -1,0 +1,5 @@
+Elwro 140''' – prosty kalkulator biurkowy produkowany przez Wrocławskie Zakłady Elektroniczne Mera-Elwro. 
+
+Funkcje: cztery podstawowe działania matematyczne, obliczanie pierwiastka kwadratowego, kwadratu i odwrotności liczby, procentów. Pamięć sumująca (M+, M-, MR, MC, X↔M). Zasilanie sieciowe. 
+
+

@@ -1,0 +1,35 @@
+Substytucja (podstawienie) – w prawie, pojęcie oznaczające ustanowienie dalszego pełnomocnika dla którego mocodawcą jest już ustanowiony pełnomocnik. Działania Substytuta wywołują skutki prawne względem pierwotnego mocodawcy. 
+
+Zgodnie z treścią art. 106 kodeksu cywilnego, "Pełnomocnik może ustanowić dla mocodawcy innych pełnomocników tylko wtedy, gdy umocowanie takie wynika z treści pełnomocnictwa, z ustawy lub ze stosunku prawnego będącego podstawą pełnomocnictwa", w związku z czym, ustanowienie dalszego pełnomocnictwa z pominięciem dyspozycji ustawowej jest nieważne. 
+
+Nie ma ograniczenia co do liczby dalszych pełnomocników, art. 107 kc stanowi: "Jeżeli mocodawca ustanowił kilku pełnomocników z takim samym zakresem umocowania, każdy z nich może działać samodzielnie, chyba że co innego wynika z treści pełnomocnictwa. Przepis ten stosuje się odpowiednio do pełnomocników, których pełnomocnik sam dla mocodawcy ustanowił." 
+W przypadku ustanowienia substytuta, należy kierować się tymi samymi przesłankami, które obowiązują przy udzielaniu zwykłego pełnomocnictwa: "jeżeli do ważności czynności prawnej potrzebna jest szczególna forma, pełnomocnictwo do dokonania tej czynności powinno być udzielone w tej samej formie (art. 99 kc)". Dla Substytuta, podobnie jak do pierwotnego pełnomocnika nie wymaga się pełnej zdolności do czynności prawnej. W obu przypadkach pełnomocnik może posiadać jedynie ograniczoną zdolność do czynności prawnych (art. 100 kc.) 
+
+Pełnomocnik procesowy ma prawo udzielić dalszego pełnomocnictwa (substytucji), ale tylko radcy prawnemu lub adwokatowi i za pozwoleniem mocodawcy (pełnomocnictwo szczególne) zgodnie z art. 91 pkt 3 kpc „pełnomocnictwo procesowe obejmuje z samego prawa umocowanie do udzielenia dalszego pełnomocnictwa procesowego adwokatowi lub radcy prawnemu”. 
+
+Dalsze pełnomocnictwo ogólnie (substytucja) upoważnia tak umocowanego pełnomocnika do wszelkich czynności, do których umocowany jest pełnomocnik (art. 91KPC) 
+
+Możliwość substytucji adwokatom nadaje art. 25 pkt 3 prawo o adwokaturze, który brzmi następująco: „W wypadku gdy adwokat prowadzący sprawę nie może wziąć osobiście udziału w rozprawie lub wykonać osobiście poszczególnych czynności w sprawie, może on udzielić substytucji.” Warto wspomnieć, że w powyższym artykule brak wzmianki o tym, jakiego substytuta chodziło ustawodawcy. Dlatego w orzecznictwie SN z 14.10.2005 r., III CZP 70/05 podjął uchwałę, że możliwe jest przekazanie substytucji radcy prawnemu.
+
+Substytucja radcy prawnego została zawarta w art. 21 ustawy o radcach prawnych: „Radca prawny może udzielić dalszego pełnomocnictwa (substytucji) innemu radcy prawnemu, adwokatowi, prawnikowi zagranicznemu wykonującemu stałą praktykę w zakresie wynikającym z ustawy o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej.” 
+
+Szczególnym rodzajem dalszego pełnomocnictwa jest wyznaczenie z urzędu przez dziekana rady adwokackiej zastępcy adwokata, który nie ma czasowo lub trwale możliwości wykonywania zawodu, jak również wypadku skreślenia z listy adwokatów (Andrzej Zieliński Komentarze Kodeksowe- Kodeks postępowania cywilnego BECK o art. 91 nb 17 str. 180)
+
+W wypadku wygaśnięcia pełnomocnictwa wygasa jednocześnie udzielona uprzednio substytucja. (Andrzej Zieliński Komentarze Kodeksowe- Kodeks postępowania cywilnego BECK o art. 91 nb 19 str. 180) (omówienie art. 101 k. c.) (wyrok SN z 10.8.1990r., III CZP 38/90)
+
+Działania substytuta wywołują skutki prawne względem pierwotnego mocodawcy.
+Adwokat, radca prawny, rzecznik patentowy będący dalszym pełnomocnikiem nie może uwierzytelnić odpisu pełnomocnictwa podstawowego. 
+
+Substytucja jest możliwa także w przypadku ustanowienia pełnomocnika przez prokurenta. Różnica polega na tym, że prokurent musi mieć pełną zdolność do czynności prawnych, a dalsze pełnomocnictwo powinno określać do jakiego rodzaju czynności pełnomocnik zostaje upoważniony, tzw. Pełnomocnictwo szczególne (art. 109 ze znaczkiem 6 kc.). Dla pełnomocników (substytutów) ustanowionych przez prokurenta stosuje się przepisy ogólne o przedstawicielstwie (art. 95 i następne kc.)
+
+Źródło:''' Ustawa z dnia 23 kwietnia 1964 r. Kodeks cywilny, ()
+
+Źródła:
+a) Orzecznictwo SN z 14.10.2005 r., III CZP 70/05 
+SN z 10.8.1990r., III CZP 38/90
+b) art. 25 o adwokaturze 
+c) art. 21 ustawy o radcach prawnych
+d) komentarze kodeksowe Andrzej Zieliński BECK
+e) kodeks cywilny i kodeks postępowanie cywilnego
+
+

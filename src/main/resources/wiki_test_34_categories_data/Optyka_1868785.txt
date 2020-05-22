@@ -1,0 +1,3 @@
+Mikroskopia z detekcją fazy (z ang. PDM - Phase Detection Microscopy) - technika mikroskopu typu SPM wykrywająca przesunięcie fazowe. Służy do obrazowania właściwości powierzchni takich jak tarcie, adhezja, sprężystość. Dźwigienka z sondą skanującą wprawiana jest w drgania, mierzy się opóźnienie fazowe między sygnałem wprawiającym dźwigienkę w drgania a sygnałem wracającym od dźwigienki.
+
+

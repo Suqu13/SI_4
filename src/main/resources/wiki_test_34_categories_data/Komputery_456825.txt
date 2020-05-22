@@ -1,0 +1,36 @@
+K-202''' to polski 16-bitowy minikomputer opracowany i skonstruowany przez inż. Jacka Karpińskiego z zespołem w latach 1970–1973. Był to pierwszy polski komputer  zbudowany z użyciem układów scalonych w kooperacji polskich zakładów zjednoczenia MERA m.in. Metroneks z firmami z Wielkiej Brytanii: Data-Loop oraz MB Metals. Według opinii dr hab. Piotra J. Durki K-202 przewyższał pod względem szybkości pierwsze IBM PC oraz umożliwiał wielozadaniowość, wielodostępność i wieloprocesorowość.
+
+Minikomputer pracował z teoretyczną szybkością miliona operacji zmiennoprzecinkowych na sekundę, jedynymi jego konkurentami w tamtym okresie były minikomputer Super-Nova (USA) oraz CTL Modular One (Wielka Brytania). Komputer ten, jako jeden z pierwszych w historii, według opisu stosował powiększanie pamięci przez adresowanie stronicowe, de facto przez segmentowanie. Komputery Super-Nova i Modular One, tak jak K-202 były komputerami 16-bitowymi, ale tylko K-202 był w stanie zaadresować teoretycznie do 8 megabajtów (64 strony, każda strona posiadała 64 kilobajty przestrzeni adresowej, z jednostką adresową w postaci 16-bitowych słów) choć praktycznie, z uwagi na powolność podzespołów, było to 144 KB, podczas gdy inne komputery tylko do 64 kilobajtów. Autorem tego typu adresowania był twórca minikomputera Jacek Karpiński. Minikomputer ten od fazy projektu do działającego urządzenia budowany był przez ok. rok. Współautorami urządzenia byli: Ewa Jezierska, Andrzej Ziemkiewicz, Zbysław Szwaj, Teresa Pajkowska oraz Krzysztof Jarosławski. Liczba wyprodukowanych urządzeń nie przekroczyła 30 sztuk, które sprzedano w Wielkiej Brytanii (wszystkie nabyte przez MB Metals zostały zwrócone w celu napraw serwisowych), Polsce i Związku Radzieckim.
+
+Dane podstawowe
+Słowo 16-bitowe
+Ponad 90 rozkazów procesora
+Pamięć operacyjna do 4 milionów słów
+Do 64 urządzeń wejścia-wyjścia
+Wymiary: szer. 48 cm x wys. 21 cm x dł. 58 cm
+Masa: 35 kg
+Zasilanie: 220 V, 600 W lub 700 W
+
+Oprogramowanie
+ASSK - Język symboliczny, assembler
+BASIC
+FORTRAN IV
+ALGOL 60
+CSL
+BICEPS
+CEMMA
+MOST-2
+COMIT
+
+
+
+Bibliografia
+:
+Reklamówka z MTP Poznań 1971
+Broszura o K-202 w j. angielskim z MTP Poznań 1971
+"Maszyna cyfrowa K-202 – organizacja logiczna" – materiały szkoleniowe
+"Język operacyjny maszyny – JOM 1" – materiały szkoleniowe
+"Opis podstawowego języka symbolicznego M.C. K-202 – ASSK" – materiały szkoleniowe
+"System programowania minikomputera K-202 w języku Lisp 1.5. Instrukcja programisty, Poznań Instytut Automatyki Politechniki Poznańskiej 1974
+
+Linki zewnętrzne

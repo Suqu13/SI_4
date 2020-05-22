@@ -1,0 +1,12 @@
+Księgowanie to dokonywanie zapisów w księgach rachunkowych.
+
+Zapisy dotyczą zaszłości gospodarczych mających wpływ na zmianę stanu majątkowego przedsiębiorstwa. Podstawą zapisów są dowody księgowe. 
+Zapis księgowy powinien określać (co najmniej): rodzaj zaszłości ("treść"), datę zaszłości, kwotę, dane identyfikujące dokument będący dowodem księgowym. 
+Zapisu dokonuje się równocześnie na co najmniej dwu urządzeniach księgowych:
+w dzienniku, w porządku chronologicznym
+na kontach księgowych, przedmiotowo, zgodnie z dekretacją
+
+Księgowanie jest zadaniem księgowości. 
+Wykwalifikowany pracownik księgowości to księgowy. Pracownik pomocniczy, zajmujący się księgowaniem na kontach to kontysta.
+
+

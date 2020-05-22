@@ -1,0 +1,31 @@
+Foton (gr. φῶς – światło, w dopełniaczu – φωτός, nazwa stworzona przez Gilberta N. Lewisa) jest cząstką elementarną, nie posiadającą ładunku elektrycznego ani momentu magnetycznego, o masie spoczynkowej równej zero (m'0&nbsp;=&nbsp;0), liczbie spinowej s&nbsp;=&nbsp;1 (fotony są zatem bozonami). Fotony są nośnikami oddziaływań elektromagnetycznych, a ponieważ wykazują dualizm korpuskularno-falowy, są równocześnie falą elektromagnetyczną.
+
+W fizyce foton jest kwantem pola elektromagnetycznego, np. światła widzialnego, W mechanice kwantowej pole elektromagnetyczne zachowuje się jak zbiór cząstek (fotonów). Z kwantowego punktu widzenia światło jest dużym strumieniem fotonów. Bardzo czułe instrumenty optyczne potrafią rejestrować pojedyncze fotony.
+
+W zależności od energii fotonów, promieniowanie, na które się składają, ma inną nazwę. I tak mówi się (poczynając od najwyższej energii fotonu) o promieniowaniu gamma, rentgenowskim (promieniowaniu X), nadfiolecie, świetle widzialnym, podczerwieni, mikrofalach, falach radiowych (promieniowaniu radiowym). Jednak z fizycznego punktu widzenia wszystkie te rodzaje promieniowania mają jednakową naturę.
+
+Fotony poruszają się z prędkością światła. W próżni fotony mogą pokonywać dystanse wielu miliardów lat świetlnych, poruszając się po torach lekko tylko zakrzywianych przez pola grawitacyjne ciał niebieskich. Zakrzywienie to, przy odpowiedniej konfiguracji źródła i masy powodującej zakrzywienie, może prowadzić do efektu soczewkowania grawitacyjnego. Jedynie czarne dziury mają wystarczająco silne pole grawitacyjne, by móc uwięzić światło wewnątrz horyzontu zdarzeń.
+
+Historia
+
+
+Aż niemal do końca XVII wieku większość teorii zakładała, że światło składa się z cząstek. Ponieważ model cząsteczkowy nie może łatwo wyjaśnić załamania, dyfrakcji i dwójłomności, powstały teorie o falowej naturze światła, zaproponowane przez Kartezjusza (1637), Roberta Hooke’a (1665) oraz Christiaana Huygensa (1678). Pomimo to wciąż dominowały modele cząsteczkowe, głównie z powodu wpływu Isaaca Newtona. Na początku dziewiętnastego wieku Thomas Young i Augustin-Jean Fresnel zademonstrowali dyfrakcję oraz interferencję światła i od 1850 roku modele falowe zostały powszechnie zaakceptowane. W 1865 roku James Clerk Maxwell wysunął przypuszczenie, że światło jest falą elektromagnetyczną. Hipoteza ta została potwierdzona eksperymentalnie w 1889 roku przez Heinricha Hertza, który odkrył fale radiowe. To ostatecznie zadecydowało o odrzuceniu cząsteczkowego modelu światła.
+
+
+
+Teoria falowa Maxwella nie wyjaśnia jednak wszystkich własności światła. Teoria ta przewiduje, że energia fali świetlnej zależy wyłącznie od jej natężenia i nie ma związku z jej częstotliwością. Pomimo to szereg różnych, niezależnych eksperymentów pokazuje, że energia przekazywana atomom przez światło zależy wyłącznie od częstotliwości światła, a nie od jego natężenia. Na przykład niektóre reakcje chemiczne są wyzwalane tylko przez światło o częstotliwości wyższej od pewnej wartości progowej, a światło o częstotliwości niższej od progowej, bez względu na jego natężenie, nie zapoczątkuje reakcji. Podobnie elektrony mogą zostać wybite z metalowej płytki przez oświetlanie jej światłem o wystarczająco wysokiej częstotliwości (efekt fotoelektryczny), a maksymalna energia wybitych elektronów zależy jedynie od częstotliwości światła.
+
+W tym samym czasie badania nad promieniowaniem ciała doskonale czarnego prowadzone przez ponad cztery dekady (1860 – 1900) przez wielu badaczy zostały uwieńczone hipotezą Maxa Plancka, głoszącą, że energia wypromieniowywana przez ciało doskonale czarne ma postać cząstek. Jak wykazał Albert Einstein, pewien rodzaj kwantyzacji energii musi być założony, by wyjaśnić równowagę termiczną zachodzącą pomiędzy materią a promieniowaniem elektromagnetycznym (której nie ma od kilku lub kilkunastu miliardów lat).
+
+Ponieważ teoria światła Maxwella dopuszczała wszystkie możliwe energie promieniowania elektromagnetycznego, większość fizyków przypuszczała początkowo, że energia kwantyzacji jest rezultatem pewnego nieznanego ograniczenia dla materii, która pochłania lub emituje światło. W 1905 roku Einstein jako pierwszy zasugerował, że energia kwantyzacji jest własnością samego promieniowania elektromagnetycznego. Chociaż Einstein uważał teorię Maxwella za słuszną, wskazał, że wiele niewytłumaczalnych zjawisk mogłoby być wyjaśnione, gdyby energia maxwellowskiej fali świetlnej była zlokalizowana w punktowych kwantach, poruszających się niezależnie od siebie, nawet jeżeli sama fala rozprzestrzenia się w przestrzeni w sposób ciągły. W 1909 i 1916 roku Einstein wykazał, że jeśli prawo Plancka, opisujące promieniowanie ciała doskonale czarnego, jest słuszne, kwanty energii muszą mieć pęd , co czyni je pełnoprawnymi cząstkami. Pęd fotonu został zaobserwowany eksperymentalnie przez Artura Comptona w rozpraszaniu wysokoenergetycznych fotonów na swobodnych elektronach. Fotony w takim oddziaływaniu zachowują się jak cząstki, a układ foton–elektron w zderzeniu zachowuje pęd i energię. Po kwantowym wyjaśnieniu zjawiska fotoelektrycznego był to kolejny dowód na istnienie fotonów. Arthur Compton za odkrycie tego zjawiska (nazwanego od jego nazwiska efektem Comptona) otrzymał w 1927 roku Nagrodę Nobla. Kluczowe pytanie w tym okresie brzmiało: jak połączyć maxwellowską falową teorię światła z jego cząsteczkową naturą, zaobserwowaną eksperymentalnie? Szukanie odpowiedzi na to pytanie zaprzątała Alberta Einsteina przez resztę jego życia, a została znaleziona w ramach elektrodynamiki kwantowej i jej następcy, Modelu Standardowego.
+
+Zobacz też
+
+oddziaływanie elektromagnetyczne
+
+
+
+
+
+
+

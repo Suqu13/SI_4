@@ -1,0 +1,21 @@
+IBM Personal System/2''' – kolejna po IBM PC/AT seria komputerów osobistych firmy IBM, wprowadzona na rynek 2 kwietnia 1987, znana także pod nazwą PS/2'''.
+
+Poprzez przejście na nowe zasady licencjonowania oraz wprowadzenie zaawansowanych, ale niekompatybilnych z dotychczasowym standardem IBM PC technologii takich jak 15-kanałowa magistrala MCA, karty graficzne MCGA lub VGA, złącza PS/2, 3 ½ calowe dyskietki o pojemności 1440 KB i system operacyjny OS/2, firma IBM chciała powiększyć swój udział w rynku komputerów osobistych. Strategia ta zawiodła w obliczu zalewu rynku przez zdecydowanie tańsze i szybsze produkty innych producentów oparte na już istniejącym standardzie IBM PC. W szczególności masowej akceptacji rynku nie uzyskały technologia MCA i system operacyjny OS/2.
+
+Serię PS/2''' stanowiły modele:
+
+Model 25''': procesor Intel 8086 @ 8 MHz, 16-bitowa szyna danych, 512 kB pamięci RAM, 2 stacje dyskietek 3 ½ cala o pojemności 720 kB, port szeregowy, port równoległy, kontroler stacji dyskietek i dysku twardego, wspólna obudowa jednostki centralnej i monitora z 2 gniazdami dla kart rozszerzeń, DOS 3.3.
+
+Model 30''': procesor Intel 8086 @ 8 MHz, 16-bitowa szyna danych, 640 kB pamięci RAM, 2 stacje dyskietek 3 ½ cala o pojemności 720 kB, port szeregowy, port równoległy, kontroler stacji dyskietek i dysku twardego, 3 gniazda dla kart rozszerzeń, wspólna obudowa jednostki centralnej i czarno-białego monitora, DOS 3.3.
+
+Model 50''': model podstawowy; procesor Intel 80286 @ 10 MHz, architektura MCA, 1 MB pamięci RAM, DOS 3.3 lub OS/2, stacja dyskietek 3 ½ cala o pojemności 720 kB, dysk twardy o pojemnosci 20 MB, port szeregowy, port równoległy, kontroler stacji dyskietek i dysku twardego, 3 gniazda dla niekompatybilnych z PC kart rozszerzeń, karta grafiki VGA, monitor analogowy
+
+Model 60''': procesor Intel 80286 @ 10 MHz, 1 MB pamięci RAM, stacja dyskietek 3 ½ cala o pojemności 1,44 MB, dysk twardy o pojemności 44 do 70 MB, obudowa typu "wieża" z 7 gniazdami dla 16-bitowych kart rozszerzeń,, system operacyjny OS/2
+
+Model 70''': procesor Intel 80386 @ 25 MHz, karta graficzna VGA, dysk twardy o pojemności 120 MB
+
+Model 80''': procesor Intel 80386 @ 16 lub 20 MHz, 2 MB pamięci RAM, dysk twardy o pojemności od 44 MB, karta grafiki VGA, obudowa typu "wieża" z 7 gniazdami dla 16-bitowych kart rozszerzeń, system operacyjny OS/2
+
+Wprowadzona w roku 1990 seria komputerów domowych IBM PS/1 była oparta na tradycyjnej architekturze podobnej do IBM PC/AT (komputery PS/1 korzystały m.in. z magistrali ISA zamiast MCA) i poza podobnym nazewnictwem nie mają wiele wspólnego z serią PS/2.
+
+

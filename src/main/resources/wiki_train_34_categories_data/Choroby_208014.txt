@@ -1,0 +1,129 @@
+Ból głowy (łac. cephalgia, cephalea, cephalalgia, cephalodynia) – niespecyficzny, subiektywny objaw charakteryzujący się występowaniem bólu zlokalizowanego w obrębie głowy, odczuwanego zarówno na powierzchni skóry twarzy (w okolicy oczodołowo-skroniowej), jak i głęboko we wnętrzu czaszki. Jest jednym z najczęstszych powodów konsultacji lekarskich. Może cechować się różną intensywnością oraz czasem trwania; sam rzadko bywa oznaką poważnej choroby.
+
+Z różnych badań populacyjnych wynika, że co najmniej 1 incydent tego  rodzaju ma w ciągu roku ponad 90% ludzi. Przeważnie są to tak zwane bóle przygodne (spowodowane przez alkohol, przemęczenie, niedospanie  itp.), ale u około 15% osób bóle powtarzają się, bywają dokuczliwe, negatywnie  wpływają na jakość życia, stanowią zjawisko chorobowe i&nbsp;mogą wymagać pomocy lekarskiej. 
+
+Klasyfikacja
+W celu skategoryzowania olbrzymiej ilości zjawisk, które są łącznie opisywane przez pacjentów jako ból głowy, Międzynarodowe Towarzystwo Bólu Głowy (ang. International Headache Society, IHS) utworzyło klasyfikację zawierającą kryteria diagnostyczne najistotniejszych zespołów. Pierwsza wersja dokumentu została opublikowana w 1988; aktualnie obowiązuje wersja II, zmodyfikowana po raz ostatni w 2004. 
+
+Zastosowany podział opiera się na rozróżnieniu między wtórnym a pierwotnym bólem głowy. Ból wtórny to konsekwencja toczącej się w organizmie niezależnie choroby, na przykład zapalenia zatok, grypy, urazu mechanicznego. Ich występowanie jest znacznie rzadsze niż bólów o charakterze pierwotnym. Dawniej wtórne bóle głowy ujmowano w literaturze fachowej jako bóle objawowe. Lecząc przyczynę, można skutecznie usunąć również uczucie bólu. Stosunkowo łagodne bóle wtórne, dające się odczuć przy pozostawaniu na czczo lub przechodzeniu przeziębienia, zwykle nie są powodem do większych obaw. Istnieje jednak wśród nich grupa przypadłości, które manifestują się przede wszystkim ostrym bólem głowy i stanowią bezpośrednie zagrożenie dla życia (m.in. krwotok wewnętrzny, udar mózgu, infekcja ośrodkowego układu nerwowego).
+
+Pierwotny zespół bólowy jest schorzeniem sui generis, to znaczy nie można wyróżnić odrębnego czynnika patofizjologicznego, który pośredniczyłby w powstaniu zgłaszanych objawów. Oznacza to, że w przypadku pierwotnych bólów głowy doznania bólowe są jedynym (lub głównym) objawem, a jego przyczyny pozostają jak dotąd medycznie niewyjaśnione. Migrena, napięciowe bóle głowy czy zespół Hortona mogą przyczynić się do znacznego obniżenia jakości życia pacjenta; w chwili obecnej są one leczone tylko objawowo.
+
+IHS wydzieliło też osobną kategorię dla neuralgii, grupy 19 różnych jednostek, z których najbardziej znana jest klasyczna neuralgia nerwu trójdzielnego. Są to bardzo dotkliwe, niespodziewanie pojawiające się przypadłości, których przyczyną jest patologiczne przewodzenie impulsów w obrębie nerwów obwodowych. 
+
+Przyczyny
+Bóle głowy mogą mieć rozmaite przyczyny, od przemęczenia oczu lub zapalenia zatok przynosowych do ciężkich stanów chorobowych. Kiedy ból pojawia się na skutek bezpośredniego urazu głowy, przyczyna jest oczywista; jednak często jego etiologia jest bardzo ulotna. Ból per se jest wynikiem drażnienia obwodowych receptorów bólowych (w odpowiedzi na uraz tkanek, rozszerzenie trzewi lub inne czynniki). Zwykle zdrowy organizm natychmiast reaguje na taki bodziec, starając się usunąć jego przyczynę. Czasem jednak drogi przewodzenia bólu same doznają uszkodzenia lub generują odpowiedź nieprawidłową. Wówczas ból głowy staje się skutkiem uszkodzenia wrażliwych na ból dróg obwodowego bądź OUN lub ich nieadekwatnego pobudzenia. W obrębie głowy względnie niewiele struktur jest wrażliwa na ból: zaliczamy do nich skórę głowy, odejścia większych naczyń tętniczych, zatoki opony twardej, sierp mózgu oraz odcinki proksymalne dużych tętnic opony miękkiej. W przeciwieństwie do nich liczne struktury bezpośrednio związane z mózgowiem nie są unerwione zewnętrznie – stąd wyściółka komór mózgu, splot naczyniówkowy, żyły opony miękkiej i większa część miąższu mózgu nie mają zdolności wywoływania bólu. 
+
+W wypadku bólu pierwotnego najbardziej istotnymi strukturami zaangażowanymi w patogenezę wydają się być:
+duże naczynia wewnątrzczaszkowe wraz z oponą twardą
+obwodowe zakończenia nerwu trójdzielnego, które je zaopatrują
+część ogoniasta jądra trójdzielnego, która przyjmuje impulsacje bólową z okolic głowy i szyi
+obwody modulujące uczucie bólu wewnątrz mózgu.
+
+Objawy pochodzenia autonomicznego, na przykład łzawienie i zatkanie przewodów nosowych, wyraźnie zaznaczają się w bólach głowy pochodzenia tak zwanego trójdzielno-autonomicznego. Są konsekwencją pobudzenia włókien przywspółczulnych nerwów czaszkowych. Kontrowersje wzbudza składowa naczyniowa wielu pierwotnych bólów głowy. W badaniach obrazowych pojawiające się zmiany są niespecyficzne i nie wpływają na szansę osiągnięcia sukcesu terapeutycznego. Pomimo tego główną przesłanką do stosowania środków farmakologicznych typu tryptanów (mających potwierdzoną skuteczność) jest odpowiedź na niedostrzegalne zaburzenia ukrwienia.
+
+Ból głowy może być objawem klinicznym depresji maskowanej (czyli takiego rodzaju depresji, w której endogenny zespół depresyjny maskowany jest przez inne objawy).
+
+Ocena kliniczna
+Z powodu trudności w uchwyceniu mierzalnych zmian rozpoznanie opiera się w przeważającej części na informacjach zebranych w wywiadzie. Pierwszym celem badania lekarskiego jest wykluczenie możliwych przyczyn wtórnego bólu głowy, które można potwierdzić badaniami dodatkowymi. Wśród nich jest kilka szczególnie niebezpiecznych zjawisk, dlatego szczególną uwagę należy zwrócić na występowanie wczesnych „objawów ostrzegawczych”. W wypadku braku takowych stawia się diagnozę pierwotnego bólu głowy. Każdy nietypowy symptom zgłaszany podczas długotrwałej obserwacji chorego domaga się ponownego rozważenia wszystkich możliwych przyczyn.
+
+U pacjentów zgłaszających się z pierwszym ciężkim bólem głowy  możliwości diagnostyczne są zupełnie inne niż u pacjentów z nawracającymi bólami głowy występującymi od wielu lat. W bólach  głowy pojawiających się po raz pierwszy i mających duże nasilenie prawdopodobieństwo stwierdzenia potencjalnie ciężkiej przyczyny jest znacznie większe niż w nawracającym bólu głowy. Pacjenci,  u których niedawno pojawił się ból głowy, wymagają szybkiej oceny  i często leczenia. Do ciężkich chorób, które należy uwzględnić jako możliwą przyczynę bólu głowy, należą: zapalenie opon mózgowo-rdzeniowych, krwotok podpajęczynówkowy, krwiak nadtwardówkowy i podtwardówkowy, jaskra oraz ropne zapalenie zatok.  
+
+Wywiad
+Informacje o obecnym bólu zbiera się, zwracając szczególną uwagę na:
+czas wystąpienia i dynamikę dolegliwości
+charakter dolegliwości (natężenie, sposób odczuwania)
+objawy towarzyszące i ich czasowy stosunek względem epizodów bólowych
+czynniki wyzwalające napad
+przebyte choroby i leczenie podejmowane w przeszłości
+występowanie bólów głowy w rodzinie
+typowy wywiad socjalny, obejmujący m.in. warunki sanitarne w miejscu pracy oraz w domu.
+
+Objawy alarmujące przy bólu głowy
+
+
+Badanie przedmiotowe
+Zwykle dostępnych jest niewiele informacji. Warto zmierzyć podstawowe parametry życiowe oraz temperaturę ciała. Ocena  ogólna ostrego bólu powinna obejmować: badanie stanu układu  krążenia i nerek przez monitorowanie ciśnienia krwi oraz badanie  moczu, ocenę oczu przez badanie dna oka, pomiar ciśnienia wewnątrzgałkowego i ocenę ostrości widzenia, badanie tętnic czaszkowych  przez palpacyjne uciskanie oraz badanie odcinka szyjnego kręgosłupa przez ocenę efektu biernych ruchów głowy, a także badania  obrazowe.  Należy również ocenić stan psychologiczny pacjenta pod kątem ewentualnego powiązania bólów głowy z depresją. Przeprowadza się pełne badanie neurologiczne. Obecność objawów oponowych świadczy o zapaleniu opon mózgowych. Wyzwalanie napadu bólu przez ucisk na tzw. punkty spustowe nerwu trójdzielnego jest charakterystyczne dla jego neuralgii.  
+  
+Badania dodatkowe
+W wypadku typowych, przewlekłych zespołów bólowych nie są potrzebne. Odchylenia od normy zdarzają się wówczas rzadko. Neuroobrazowanie (techniką CT lub MRI) oraz punkcja lędźwiowa(lumbar puncture – LP) są podstawowymi metodami wykluczenia przyczyn zewnętrznych ostrego napadu bólu.
+
+Częstotliwości występowania różnych zespołów bólowych.'''
+. Cierpi na nią do 15% kobiet i 6% mężczyzn, głównie w wieku średnim. 
+Rozróżnia się dwie, najczęstsze postacie migreny:  
+bez aury (90%); na jej obraz kliniczny składają się: ból średnio lub znacznie nasilony o tętniącym charakterze, obejmujący połowę głowy (na zmianę) z intensywnymi odczuciami bólowymi za okiem i wskazanymi wcześniej zaburzeniami wegetatywnymi.
+z aurą (10%); na jej obraz kliniczny składają się: ból poprzedzony kilkanaście- kilkadziesiąt minut znamiennymi objawami ogniskowymi (neurologicznymi). Najczęstsza  jest aura wzrokowa, która polega na pojawieniu się w polu widzenia  (jedno- lub obustronnie) migocących błyszczących plam lub festonowatych linii, rzadziej ubytków, a nawet zaślepnięcia. Rzadsze postacie aury to jednostronne drętwienie lub mrowienie połowicze lub tylko twarzy i ręki. Wyjątkowo może wystąpić afazja. Aura trwa  krótko, po czym rozwija się napad bólowy.   
+
+Wśród napadów migrenowych rozróżnia się napady:  
+lekkie (zdolność do zajęć zachowana,  choć upośledzona); 
+średnio ciężkie (pacjent nie może wykonywać  pracy);  
+ciężkie (wymagają reżimu łóżkowego). 
+
+Choroba składa się z okresów zaostrzeń i remisji, które towarzyszą pacjentowi do końca życia; z czasem intensywność objawów może ulec osłabieniu. Patogeneza jest w dużej mierze nieznana. Prawdopodobnie ból głowy wynika z nieprawidłowej reakcji układu nerwowo-naczyniowego na bodźce wewnętrzne i zewnętrzne. Uważa  się, że jest to genetycznie uwarunkowane zaburzenia kanałów jonowych (kanałopatie), kluczową rolę odgrywają receptory serotoninowe  (m.in. 5-HT1B/D i 5-HT2). W czasie napadu ma miejsce jałowe zapalenie okołonaczyniowe, prawdopodobnie w obrębie opon. Brak wygaszania odpowiedzi bólowej prowadzi do masowego uwalniania neurotransmiterów (serotonina, dopamina, CGRP, substancja P) oraz mediatorów naczyniowych (kininy, wtórnie histamina). 
+
+Głównym środkiem zapobiegawczym jest unikanie czynników i sytuacji, które wyzwalają napady choroby. Natomiast leczenie farmakologiczne w migrenie obejmuje dwa zakresy: 1. doraźne leczenie napadów, 2. leczenie profilaktyczne. Leczenie doraźne (mające na celu przerwanie ataku) opiera się na stosowaniu środków swoistych, tj. działających wyłącznie na ból migrenowy oraz nieswoistych – czyli zwykłych, nienarkotycznych leków przeciwbólowych. W postępowaniu doraźnym zaleca się pacjentom stosowanie  kwasu acetylosalicylowego (popularnej aspiryny), ergotaminy, tryptanów, paracetamolu oraz preparatów z grupy niesteroidowych leków przeciwzapalnych NLPZ, a w razie potrzeby – leków przeciwwymiotnych i analgetyków opioidowych. Tradycyjnie (tj. od lat 20. XX w.) ergotaminę  uważano za swoisty przeciwmigrenowy lek doraźny, ale wraz z wprowadzeniem tryptanów straciła ona swoje znaczenie.  Z kolei NLPZ – obok paracetamolu – od ponad 100 lat odgrywają znaczącą rolę w doraźnym leczeniu napadów migrenowych. Do 1993 r. Przeprowadzono 21 obszernych badań kontrolowanych, które objęły ponad 1000 pacjentów. Wykazały  one, że doraźne podawanie NLPZ w bólach migrenowych (dotyczyło to głównie napadów lekkich i średnio ciężkich) jest celowe i skuteczne. 
+
+Profilaktyczna farmakoterapia zostaje wdrożona w momencie, gdy zwykłe środki zaradcze nie wykazują pożądanej skuteczności. Z powodu niedostatecznej wiedzy na temat przyczyn migreny opiera się ona na próbowaniu różnych środków o udokumentowanym wpływie na OUN: β-blokerów, leków przeciwpadaczkowych, blokerów kanału wapniowego, agonistów receptorów serotoninowych, leków przeciwdepresyjnych i niesteroidowych środków przeciwzapalnych. Szansa powodzenia waha się wówczas od 50–75%. 
+Stan migrenowy to napad trwający nieustannie przez ponad 72h. Ból osiąga duże nasilenie i znacząco upośledza funkcjonowanie; na ogół konieczna jest interwencja kliniczna. Migrenę przewlekłą określa się jako ból głowy odpowiadający kryteriom migreny, pojawiający się częściej niż 15 dni na miesiąc w okresie dłuższym niż 3 miesiące.
+
+Ból głowy typu napięciowego
+NBG (ang. tension type headache) – to  częsta postać bólów głowy niejako przeciwstawna migrenie, od której odróżnia się brakiem napadów, a incydentalnością.  W literaturze fachowej określany również do niedawna jako ból głowy psychogenny, stresowy ból głowy, zwykły ból głowy lub ból głowy spowodowany wzmożonym napięciem mięśni. Samoistny, uciskowy, obustronny ból głowy (lub obejmujący tylko czoło bądź obie skronie, ewentualnie potylicę), nienasilający się podczas aktywności fizycznej (w przeciwieństwie do migreny) rodzaj bólu głowy. Często łączy się on z intensywnymi skurczami mięśni czepca, karku i barków. Chociaż stan ich wzmożonego napięcia może być wyczuwany dotykiem, to jednak badanie elektromiograficzne (EMG) często nie potwierdza tego faktu. Towarzyszyć mogą mu też – ale stosunkowo rzadko – niewielkie nudności lub światłowstręt. Ma zwykle umiarkowane natężenie i uciskający, tępy charakter. Czas trwania takiego stanu wynosi od godziny do kilku dni bez znacznej poprawy. Z tego względu rozróżnia się trzy postaci NBG:   
+epizodyczną – stosunkowo rzadką, około raz w miesiącu; 
+częstą – występującą do 15 razy w miesiącu; 
+przewlekłą – pojawiającą się codziennie lub prawie codziennie.
+Generalnie to najczęściej (w 69%) stwierdzany pierwotny rodzaj bólu głowy. Pojawia się on  (częściej u kobiet) w młodości i może trwać wiele lat.  Nieznana jest jego patogeneza, ale depresja,stres , silne emocje, przemęczenie, niedospanie czy stany lękowe sprzyjają jego wystąpieniu. W przeciwieństwie do migreny jest zaburzeniem ograniczonym wyłącznie do ośrodkowego układu nerwowego (bez komponenty obwodowej). Nazwa wywodzi się od przypuszczenia, nie potwierdzonego w badaniach klinicznych, że w trakcie ataku następuje wzmożone pobudzenie nerwowe.  
+
+Leczenie NGB jest niełatwe, a nawet sądzi  się, że oporność terapeutyczna jest znamienną cechą tej choroby.  Podobnie jak w migrenie prowadzi się postępowanie doraźne i profilaktyczne. Podczas epizodów bólowych wskazane jest stosowanie NLPZ (kwas acetylosalicylowy, deksketoprofen, diklofenak, ibuprofen, paracetamol itp.), często skojarzonych z kofeiną. Na częste, przewlekłe ataki przypisuje się leki przeciwdepresyjne (trójpierścieniowe – potwierdzona skuteczność amitryptyliny; opipramol, SSRI) i przeciwlękowe (benzodiazepiny). W niektórych przypadkach pomagają leki beta-adrenolityczne np. propranolol.
+Dotychczasowe słabe rezultaty stanowią bodziec do poszukiwania alternatywnych rozwiązań: terapii opartych na technikach relaksacyjnych, biofeedback, wsparcia psychologicznego. Stosowanie akupunktury i leczenie toksyną botulinową nie wnosi żadnych korzyści klinicznych.
+
+Bóle trójdzielno-autonomiczne
+Bóle głowy zaliczone do tej kategorii (tj. omówione niżej klasterowe bóle głowy, hemikrania ciągła, hemikranie napadowe  oraz zespół SUNCT) charakteryzują się wyraźnie wyrażoną aktywacją układu przywspółczulnego. Pobudzenie dróg trójdzielno-przywspółczulnych skutkuje wtórnymi objawami, takimi jak: łzawienie oczu, przekrwienie spojówek, obrzęk błony śluzowej nosa z wodnistym wyciekiem, nadmierna potliwość, zwężenie źrenicy (przejawia się czasem jako fotofobia), niepokój lub pobudzenie. Są one nieodłączną częścią napadu, a nie nieswoistą reakcją na ból w zakresie unerwienia nerwu trójdzielnego. 
+
+Klasterowy ból głowy
+
+Silne jednostronne napady bólowe, przebiegające z objawami autonomicznymi, analogicznie ograniczonymi do jednej połowy ciała. Epizodyczny klasterowy ból głowy – najczęstsza postać  – charakteryzuje się krótkotrwałymi napadami bólu w okolicy  okołooczodołowej, pojawiającego się codziennie (zwykle od jednego do trzech napadów) przez okres 4–8 tygodni, z rocznymi bezbólowymi przerwami pomiędzy okresami napadów. Przewlekłe klasterowe bóle głowy mogą zaczynać się de novo lub pojawiać po  kilku latach trwania postaci epizodycznej. Ataki mają podobny  charakter, ale nie ma okresów remisji. Każdy z typów może zmieniać się w inny. Notowana częstość w granicach 0,4-0,1% populacji, z wyraźną (9:1) przewagą mężczyzn. Częstość napadów: od 1 na 2 dni do 8 dziennie, czas trwania: 15–180 min. Patogeneza nieustalona; zaobserwowano pobudzenie włókien C układu nerwu trójdzielnego oraz wzmożoną aktywność jąder podwzgórza (w badaniach obrazowych). Jako choroba przewlekła, napady mogą pojawiać się na przestrzeni kilkudziesięciu lat. Zwykle obejmują jedną i tą samą część głowy.
+
+Leczenie doraźne jest utrudnione z powodu niespodziewanego początku i krótkotrwałego przebiegu ataku. Skuteczność wykazują leki z grupy tryptanów oraz tlenoterapia; stosuje się również ergotaminę w postaci aerozolu. Profilaktyka dzieli się na dwie części: leczenie krótkookresowe, rozpoczynane po ustąpieniu napadu w celu uniknięcia nawrotów (glikokortykosterydy przez 2–3 tygodnie) oraz przewlekłe, do rozważenia w cięższych przypadkach. Wypróbowuje się wówczas m.in. sole litu, werapamil, topiramat bądź baklofen. Interwencja chirurgiczna oparta ma na celu przerwanie wadliwie działającego obwodu: zwój nerwu trójdzielnego nastrzykuje się alkoholem/lidokainą (efekt przejściowy) albo uszkadza się go w sposób mechaniczny. Takie postępowanie grozi jednak trwałą dysfunkcją nerwu (zniesienie czucia w okolicy twarzy, owrzodzenie rogówki, zbaczanie żuchwy). Neurostymulacja tylnego podwzgórza lub nerwu potylicznego również pomaga w znaczącym odsetku przypadków przy znacznej mniejszej inwazyjności samego zabiegu.
+ 
+Zespół klaster-tik to współwystępowanie klasterowego bólu głowy łącznie z neuralgią nerwu trójdzielnego.
+
+Hemikrania napadowa
+Określana też jako CPH (chronic paroxysmal hemicrania). Rzadka forma epizodycznego bólu głowy, charakteryzująca się częstymi (kilka w ciągu dnia), krótkimi (2–30 min) jednostronnymi atakami bólu. Ból zlokalizowany jest w okolicach oczodołu, czoła i skroni, jest bardzo silny i rwący. Wywołuje objawy autonomiczne, jak przekrwienie spojówki, łzawienie, wyciek z nosa, a niekiedy nawet opadnięcie powieki. Ujawnia się zwykle w młodości albo w 3. dekadzie życia (głównie u kobiet). Indometacyna, nieskuteczna w bólach klasterowych, jest w stanie całkowicie znieść objawy choroby. Notowano również objawy hemikranii napadowej wtórne do uszkodzeń obszaru siodła tureckiego spowodowanych zmianami rozrostowymi. 
+
+SUNCT
+
+SUNCT jest angielskim akronimem rozpoznania Short-lasting Unilateral Neuralgiform headache with Conjuctival injection and Tearing – krótkotrwałego jednostronnego bólu głowy przepominającego neuralgię z towarzyszącym przekrwieniem spojówek i łzawieniem. Zespół bardzo rzadko spotykany, bywał notowany u mężczyzn w wieku średnim. Do cech wyróżniających go spośród innych trójdzielnych bólów głowy należy wysoka częstotliwość (zbliżona do hemikranii napadowej) i bardzo krótki czas ataku, mierzony w sekundach – od 5 do 120 sekund – (niepełne wygaszanie poszczególnych impulsów może dawać wrażenie „piłki do drewna” – ang.: saw-tooth phenomenon). Ból umiejscowiony jest w okolicy oczodołu i skroni, ma charakter nerwobólu z nastrzyknięciem spojówek i łzawieniem. Brak skutecznych metod terapii; u pacjentów hospitalizowanych serię napadów uśmierza podanie i.v.'' lidokainy. W profilaktyce największe nadzieje wzbudza lamotrygina; testuje się również inne leki przeciwpadaczkowe nowej generacji.
+
+Inne pierwotne bóle głowy
+Kłujący ból głowy
+Doznania w formie serii ukłuć, powtarzających się nieregularnie na przestrzeni godzin lub dni. Brak objawów autonomicznych, okolic „spustowych” (wyzwalających napad). Mogą nakładać się na inny rodzaj bólu głowy. Przewlekłe występowanie KBG może zwiastować początek tzw. olbrzymiokomórkowego zapalenia tętnic, czyli zespołu Hortona. Bardzo skuteczna indometacyna p.o.''
+Kaszlowy ból głowy
+Poprzedzony napadem kaszlu, trwa normalnie kilka minut. W celu zróżnicowania samoistnej i objawowej  postaci kaszlowego bólu głowy konieczne jest wykonanie badania neuroobrazowego ze szczególnym  uwzględnieniem tylnej jamy i podstawy czaszki. Nie można go uzasadnić żadną chorobą organiczną. Objawy przypominają przejściowe zmiany ciśnienia płynu mózgowo-rdzeniowego. Indometacyna lekiem z wyboru.
+Wysiłkowy ból głowy
+Poprzedzony aktywnością fizyczną, trwa od 5 minut do 24 godzin. Obustronny, tętniący, ustępuje pod wpływem indometacyny. Do innych czynników ryzyka należą ciepły klimat i znaczna wysokość ponad poziom morza. Po wystąpieniu pierwszego epizodu nagłego bólu spowodowanego wysiłkiem fizycznym należy przeprowadzić odpowiednie  badania diagnostyczne w celu wykluczenia krwotoku  podpajęczynówkowego i rozwarstwienia tętnicy. 
+Ból głowy związany z aktywnością seksualną
+Wyróżnia się trzy odmiany tej przypadłości: ból w trakcie osiągania podniecenia seksualnego (tępe lub rwące doznania w okolicy potylicznej i szyi), ból w trakcie orgazmu (ostry, eksplodujący napad bólu) oraz ból po stosunku (przypominający objawy niskiego ciśnienia CSF, wrażliwy na zmiany położenia). Profilaktycznie przepisuje się indometacynę, tryptany i ergotaminę (częstą przyczyną bólów głowy podczas stosunku pozostaje migrena) oraz propranolol. 
+Śródsenny ból głowy
+Rozlany, tępy ból głowy, pojawiający się w kilka godzin po zapadnięciu w sen. Trwa do kilku godzin, nie powoduje żadnych charakterystycznych objawów. Najbardziej istotnym następstwem może być wzrost ciśnienia tętniczego. W terapii stosuje się węglanu litu, werapamil, metysergid lub kofeinę (1–2 filiżanki kawy przed snem).
+Piorunujący ból głowy
+Gwałtowny, ciężki ból, diagnozowany po wykluczeniu wszelkich możliwych przyczyn naczyniowych, infekcyjnych i zapalnych. Nasilenie bólu osiąga maksimum w czasie krótszym niż 1 minuta, a utrzymywać może się od 1 godziny do 10 dni. W odczuciach zmysłowych przypomina on ból spowodowany pęknięciem tętniaka. Ciężkie doznania ulegają złagodzeniu w ciągu kilku godzin, ustępując całkowicie w przeciągu 2 tygodni. Mając wątpliwości co do źródła pochodzenia warto podać nimodipinę.
+Hemikrania ciągła
+Ból o umiarkowanym natężeniu, ciągły, jednostronny, zmieniający się w czasie. Mogą dojść objawy autonomiczne, utrudniając  postawienie prawidłowego rozpoznania. Przypadłość ustępuje po zażyciu indometacyny. Generalnie rzadko występujący, dwukrotnie częściej u kobiet, spotykany o osób w praktycznie każdym wieku.
+Codzienny uporczywy ból głowy 
+Ból głowy występujący najczęściej obustronnie, ściskający lub uciskający, wykazuje małe lub umiarkowane nasilenie i nie zależy od zwykłej codziennej aktywności fizycznej. Bólowi może towarzyszyć jeden (ale nie więcej niż jeden) z następujących objawów: nadwrażliwość na światło, nadwrażliwość na dźwięki lub łagodne nudności. Pod wieloma względami – codzienne występowanie i nieustępliwość – przypomina przewlekły ból głowy typu napięciowego. Świeżo rozpoznany nieustający ból głowy musi być różnicowany z przyczynami wtórnymi. Zdarza się jednak, że pacjent skarży się na ciągły ból o charakterze napięciowym o dokładnie zdefiniowanym początku, którego genezy nie można jasno określić. Przewlekłe stosowanie środków przeciwbólowych może być dodatkowym czynnikiem ryzyka.
+
+Wtórne zespoły bólowe.'''
+
+
+
+
+Bibliografia
+Prusiński A.: Bóle głowy. Red. B. Pec. Warszawa: PZWL 1999
+Prusiński A.: Leczenie migreny i innych bólów głowy. Termedia, Poznań 2010.  
+Stępień A.: Bóle głowy, wyd. Medical Tribune, Warszawa 2008.   
+Stępień A., Napięciowy ból głowy. Nowa Medycyna 2003, nr 2 [w:] czytelniamedyczna.pl [dostęp 2014-02-11]. 
+Świerkot J., Matuszewska A.: Bezpieczeństwo stosowania niesteroidowych leków przeciwzapalnych.  Lekarz Rodzinny 2012, nr 17(6), s. 536-547.  
+Fumal A., Schoenem J.: Ból głowy typu napięciowego: aktualne badania naukowe i prowadzenie kliniczne (tłum. z j. ang.). Neurologia Praktyczna 2008, nr 8, s. 43-60.   
+Goadsby P.J. Raskin N.H., Headache, [w:] Harrison's Principles of Internal Medicine 18e, pod red. Kasper D.L., Longo D., Loscalzo J., wyd, McGraw-Hill, 2011. ISBN: 9780071748896.
+
+Linki zewnętrzne

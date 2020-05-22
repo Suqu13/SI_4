@@ -1,0 +1,60 @@
+World of Warcraft: The Burning Crusade jest pierwszym dodatkiem do gry World of Warcraft. Dodatek został wydany na całym świecie 16 stycznia 2007.
+
+Zawartość
+Poszerza on grę, dodając nowe rasy, krainy, battlegroundy, profesje, przedmioty i wiele innych atrakcji. Poniżej znajduje się lista zmian wprowadzonych w dodatku:
+Krwawe elfy są nową grywalną rasą, która stoi po stronie Hordy. Rozgrywkę rozpoczynają w Quel'Thalas.
+Draenei są nową grywalną rasą, która stoi po stronie Przymierza. Rozgrywkę rozpoczynają w Azuremyst Isle.
+Nowe profesje - jubilerstwo, zaklinanie
+Przymierzu została udostępniona klasa szamana (draenei) a Hordzie paladyna (krwawe elfy).
+Limit poziomu postaci zwiększony do 70.
+Wprowadzony został nowy świat - Outland - dostępny po przejściu przez Mroczny Portal (od 58 poziomu).
+Wprowadzenie w Outland latających wierzchowców.
+Udostępnienie nowych instancji rajdowych: 
+Caverns of Time (Jaskinie Czasu) w Tanaris umożliwiających udział w bitwach z przeszłości, m.in. wizyta w Hillsbrad Foothills nie zniszczonych przez plagę oraz bitwa na górze Hyjal. 
+Karazhan 
+Black Temple. 
+Gruul's Lair 
+Hellfire Citadel - instancje: siedziba Magtheridona, Coilfang Reservior (siedziba Lady Vashj), Auchindoun, Tempest Keep (siedziba Kael'thasa).
+pole bitewne (Eye of the Storm).
+Setki zadań i potworów.
+Setki nowych przedmiotów.
+
+Fabuła
+Minęło kilka lat od porażki Płonącego Legionu na górze Hyjal a rasy Azerothu zaczęły odbudowywać swoje siedziby. Wraz z odnowionymi siłami, bohaterowie Hordy i Przymierze rozpoczęli odkrywanie nowych ziem zamkniętymi za Mrocznym Portalem aby zbadać nieznane krainy spoza znanego świata. 
+
+Historia krwawych elfów
+Tysiące lat temu, wygnani Szlachetnie Urodzeni wylądowali na brzegach Lordaeronu i stworzyli magiczne królestwo Quel'Thalas. Wysokie elfy, gdyż tak się nazwali, odkryli potężną magiczną energię w sercu ich ziem - Sunwell. Z czasem zaczęli oni polegać na mocach tego miejsca - nie zaważając na to co przeżyli przed laty. 
+
+Podczas Trzeciej Wojny, okrutny Książę Arthas zaatakował Quel'Thalas i z niegdyś potężnego królestwa zostawił tylko zgliszcza. Jego armia nieumarłych wybiła niemalże dziewięćdziesiąt procent populacji wysokich elfów. Dodatkowo użył on mocy Studni Słońca aby wskrzesić Kel'thuzada - potężnego lisza - tym samym plugawiąc to miejsce. Elfy które przeżyły te wydarzenia zdając sobie sprawę, że zostały odcięte od źródła ich mocy, stały się brutalne i zdesperowane.
+
+W najczarniejszej godzinie dla elfów pojawił się Kael'thas Sunstrider - ostatni ze szlachetnego rodu z Quel'Thalas. Kael, wiedział że resztki jego ludu nie przetrwają długo bez energii magicznej która towarzyszyła im przez tak długi czas. Nazywając swoich ludzi krwawymi elfami aby uhonorować poległych braci, nauczył ich jak przemieniać ogarniające ich moce magiczne - nawet te pochodzące z demonów - aby nasycić ich głód magii. W poszukiwaniu nowego przeznaczenia dla swego ludu, Kael'thas wkroczył do świata znanego jako Outland gdzie spotkał upadłego nocnego elfa, Illidana. Pod jego opieką, Kael i jego bracia odzyskali wiele z ich dawnej mocy. 
+
+Niestety posługiwanie się mocą demonów sprawiło że od elfów odwrócił się ich dotychczasowy sojusznik, Przymierze. Jednak krwawe elfy w Azeroth desperacko pragną dostać się do Outlandu gdzie mogą połączyć się z Kael'thasem i wspólnie osiągnąć obiecane im przeznaczenie, w tym ma pomóc im Horda. 
+
+Historia draenei
+Niemalże dwadzieścia pięć tysięcy lat temu rasa eredar powstała w świecie Argus. Byli oni bardzo inteligentni i w naturalny sposób połączeni z czystymi formami magii. Używając swych umiejętności, stworzyli ogromne i wspaniałe społeczeństwo. 
+
+Na ich nieszczęście ściągnęli uwagę Sargerasa, Niszczyciela Światów. Już wcześniej rozpoczął on swą płonącą krucjatę, której zadaniem było zniszczyć wszystkie żywe istoty we wszechświecie, i uwierzył, że genialni eredarowie mogą okazać się nieocenieni w kierowaniu potężną armię demonów, którą zaczął gromadzić. W związku z tym skontaktował się z trzema potężnymi liderami erdarów: Kil'jaedenem, Archimonde i Velen. W zamian za lojalność rasy eredar Sargeras zaoferował im nieopisaną moc i wiedzę. Pomimo że oferta była kusząca, Velen dostrzegł wizję przyszłości, która napełniła go strachem. Sargeras mówił prawdę: eredarowie, którzy dołączyli do mrocznego tytana pozyskali ogromną moc i wiedzę. Jednakże sama rasa eredar została przemieniona w demony. 
+
+Velen ujrzał Legion w całej swej przerażającej potędze i był świadkiem zniszczenia, jakie niesie. Chciał on ostrzec Kil'jaedena i Archimonde, ale ci odrzucili jego obawy, zaślepieni obietnicami Sargerasa. Przysięgli oni swoją wierność Sargerasowi i zostali przemienieni w kolosalne demony z czystego zła. Ogrom mocy, jaką dysponował Sargeras, wyeliminował możliwość otwartego konfliktu. Velen zaczął rozpaczać, a jego modły o pomoc zostały wysłuchane. Do Velena przybyła istota, która wytłumaczyła mu, iż jest przedstawicielem rasy naaru, stworzonej z czystej energii, której misją jest powstrzymanie Płonącej Krucjaty. Naaru zaoferował, że zabierze Velena i myślących podobnie eredarów do bezpiecznego miejsca. 
+
+Z wielką ulgą Velen zebrał innych eredarów, którzy odmówili dołączenia się do Sargerasa. Nazywając się draenei, albo Wygnańcami w języku Eredun, renegaci ledwie uciekli z Argus, mając tuż za plecami hordy Płonącego Legionu. Kil'jaeden był wściekły przez, jak to rozumiał, zdradę Velena, i poprzysiągł ścigać jego i resztę draenei do końca wszechświata, jeśli zajdzie taka potrzeba. 
+
+Legion ścigał draenei przez tysiące lat. Wygnani odwiedzili wiele planet i zakątków Wszechświata w poszukiwaniu bezpiecznej przystani. Jednakże Legion nie zaprzestał swej pogoni. W tym czasie enigmatyczna rasa naaru błogosławiła draenei daną przez Światło wiedzą i mocą. Naaru wyjaśnili im, że we Wszechświecie istnieją również inne siły, które walczą z Płonącym Legionem. Jednego dnia naaru zjednoczyliby je w jedną, niepokonaną armię światła. Dotknięci głęboko słowami naaru, draenei poprzysięgli wierność ich altruistycznym ideałom i światłości. 
+
+W końcu Velen i jego draenei osiedlili się w spokojnym świecie, który zdawał się być idealnym miejscem dla uciekinierów. Nazwali go Draenor, albo "azylem wypędzonych", i na nowo rozpoczęli rozwijanie swego społeczeństwa. Ciągle świadom możliwości bycia odkrytym przez Kil'jaedena i jego armię, Velen i jego mistycy ukrywali swą magię przez generacje. W tym czasie draenei spotkali i zaprzyjaźnili się z szamanami orkowych klanów, które zamieszkiwały spokojne, pokryte zielenią, południowe ziemie Nagrand. Oprócz utrzymywania sporadycznych kontaktów handlowych, draenei i orkowie szanowali się wzajemnie, jednakże nie kontaktowali się zbyt często. 
+
+Pomimo ostrożności draenei, Kil'jaeden odkrył ich sekretne schronienia w Draenorze. Dowiedział się wiele o tym świecie i jego mieszkańcach, ale najbardziej zaciekawiła go siła rasy orków. Sprytny plan przemknął mu przez umysł i władca demonów zaczął się śmiać. Mógł on stworzyć z orków potężny instrument jego zemsty. Była to jedynie kwestia czasu. 
+
+Wtedy Kil'jaeden zaczął plugawić orków, początkowo przez starszego szamana Ner'zhula, a następnie przez jego ucznia, Gul'dana. Orkowe klany poddały się żądzy krwi i przekształciły w jedną morderczą Hordę. Nawet najmądrzejsi szamani nauczyli się czarnej magii i porzucili niegdyś szanowane nauczania. 
+
+Idealnie manipulowani ze stanu świadomego zaakceptowania do ślepego szału i żądzy krwi, orkowie zaatakowali draenei. Krwawy konflikt trwał niemalże osiem lat, jednakże wygrana orków była niekwestionowana. Draenei byli potężni dzięki Światłości i jej mocom, ale opanowana przez demony Horda była silniejsza. Orkowie wybili niemalże osiemdziesiąt procent rasy draenei, wypędzając resztę, która uciekła do innych zakątków świata w poszukiwaniu kolejnego schronienia. 
+
+Po tym wszystkim draenei, którzy walczyli z Hordą i przetrwali, zauważyli, że zostali dotknięci przez spaczone moce, które dzierżyli orczy czarnoksiężnicy. Ci draenei zostali zmutowani w niższe formy, tworząc tym samym podgatunki rasy. Złamani i ostatni ocaleni są ich reprezentantami. Ich zmienione ciała noszą jedynie minimalne pozostałości rasy draenei, którą niegdyś tworzyli.
+
+
+
+Zobacz też
+World of Warcraft
+
+Linki zewnętrzne

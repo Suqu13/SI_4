@@ -1,0 +1,35 @@
+Odra 1003''' - tranzystorowy komputer drugiej generacji skonstruowany i produkowany w Zakładach Elektronicznych Elwro od 1964 roku (skonstruowany w 1963 roku). 
+Komputer przeznaczony był do obliczeń naukowo-technicznych i sterowania procesami technologicznymi. Jej następcą była Odra 1013.
+
+Była pierwszą Odrą produkowaną seryjnie. Poprzednie modele (1001 i 1002) nie uzyskały zadowalającej niezawodności. Niezawodność Odry 1003 zwiększono przez selekcję i starzenie elementów oraz dokładną kontrolę pakietów.
+
+
+Dane techniczne
+typ: komputer szeregowy II generacji zbudowany na krajowych germanowych tranzystorach stopowych (pakiety na jednostronnej płytce drukowanej ze złączem krawędziowym o wymiarach 135x85 mm)
+organizacja:
+komputer 1+1 adresowy
+arytmetyka binarna, kod uzupełnień do dwóch
+długość słowa maszynowego: 39 bitów
+języki programowania: JAS, MOST 1
+pamięć operacyjna: bębnowa o pojemności 8192 słów
+podstawowa częstotliwość zegara: 250 kHz
+szybkość liczenia: 500 dodawań na sekundę
+zasilanie: 3 X 380 V 50 Hz 700 VA
+jednostka centralna:
+wymiary: 640 x 1300 X 1600 mm
+waga: 400 kg
+technologia: germanowe tranzystory stopowe (TG2, TG70), pakiety na jednostronnej płytce drukowanej ze złączem krawędziowym o wymiarach 135x85 mm
+koszt 1 mln operacji: 49 zł (wg cen z 1976 r.).
+
+Produkcja
+1963 r. - 2 szt.
+1964 r. - 8 szt.
+1965 r. - 32 szt.
+
+Zachowana
+Muzeum Techniki w Warszawie.
+
+
+
+
+

@@ -1,0 +1,10 @@
+Elwro 180''' – polski stołowy kalkulator naukowy, produkowany przez Wrocławskie Zakłady Elektroniczne "Mera-Elwro".
+
+funkcje: 4 podstawowe działania, yx, pierwiastek kwadratowy, funkcje trygonometryczne i odwrotne, ln, log10, ex, 1/x, zmiana znaku liczby
+funkcja przeliczania minut i sekund na jednośtki dziesiętne i odwrotnie (oznaczane 60→10 i 10→60)
+wielkości kątowe wyrażane wyłącznie stopniach lub radianach (przełącznik)
+pamięć: jedna sumująca (M+, MR)
+
+Zasilanie sieciowe. Obudowa taka jak w kalkulatorze Elwro 140.
+
+

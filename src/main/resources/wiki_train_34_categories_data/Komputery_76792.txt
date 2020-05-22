@@ -1,0 +1,10 @@
+IBM 601''' - maszyna matematyczna produkcji koncernu IBM z roku 1931. IBM 601''' odczytywała dwie liczby ośmiocyfrowe z karty dziurkowanej i  dziurkowała na tej samej karcie ich iloczyn. Wykonywała także dodawanie i odejmowanie. Ponieważ nie drukowała wyników była używana jako pomocnicza dla tabulatora lub maszyny księgującej. John Presper Eckert, który otrzymał w 1933 roku jeden z egzemplarzy tej maszyny, połączył ją z tabulatorem "Typ 285" i perforatorem "Typ 016" za pomocą urządzenia pośredniczącego własnej konstrukcji, tworząc w ten sposób pierwszą maszynę, zdolną do automatycznego wykonywania złożonych obliczeń naukowych.
+
+Literatura
+Eckert, W.J., Punched Card Methods in Scientific Computation, The Thomas J. Watson Astronomical Computing Bureau, Columbia University, Lancaster Press, Inc., Lancaster PA (January 1940).
+Renner, H.W., Solving Simultaneous Equations through the Use of IBM Electric Punched Card Accounting Machines, IBM, Endicott NY (1946), 8pp.
+
+Zobacz też
+
+
+

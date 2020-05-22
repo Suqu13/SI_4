@@ -1,0 +1,37 @@
+
+Stopy aluminium – tworzywa metaliczne otrzymane przez stopienie aluminium z jednym lub większą liczbą metali (bądź z niemetalami), celowo wytworzone dla uzyskania żądanych właściwości.
+
+Właściwości czystego aluminium
+Aluminium krystalizuje w sieci A1, a więc cechuje się dużą plastycznością. Ma parametr sieci a = 0,40409 nm, temperaturę topnienia 660,4 °C, temperaturę wrzenia 2060 °C. Mała gęstość 2,7 g/cm3 (3 razy mniejsza niż żelaza) kwalifikuje ten metal do grupy metali lekkich. Dzięki tej właściwości i stosunkowo bogatemu występowaniu w przyrodzie (ok. 7%) jest szeroko stosowany w przemyśle lotniczym i transporcie. Aluminium cechuje się dobrym przewodnictwem cieplnym i elektrycznym (gorszym jednak niż miedź), stąd jego zastosowanie na przewody elektryczne. Ma wysoką energię błędu ułożenia 200 – 250 mJ/m2. Na powietrzu pokrywa się cienką warstwą Al2O3, która chroni je przed dalszym utlenianiem (pasywacja). Jest odporne na działanie wody, H2CO3, H2S, wielu kwasów organicznych, związków azotowych. Natomiast nie jest odporne na działanie wodorotlenków (np. NaOH, KOH), kwasów beztlenowych (HF, HCl), wody morskiej i jonów rtęci. Wytrzymałość czystego wyżarzonego aluminium jest niska Rm = 70 – 120 MPa, Re = 20 – 40 MPa, wydłużenie A10 = 30 – 45, przewężenie Z = 80 – 95%. Twardość wynosi 15 – 30 HB; może jednak być umacniana przez zgniot..
+
+Wytwarza się aluminium o różnych stopniach czystości (zgodnie z normami PN-79/H-82160 i PN-79/H-82163):
+najczystszy gatunek Al99,995R jest używany przy wytwarzaniu aparatury chemicznej i folii kondensatorowych,
+gatunek Al99,8H stosuje się na folie, powłoki kablowe i do platerowania,
+Al99,5HE na przewody elektryczne,
+Al99''' na wyroby codziennego użytku.
+
+Do najczęstszych zanieczyszczeń aluminium należą Fe, Si, Cu, Zn, Ti, które obniżają plastyczność i przewodnictwo elektryczne, natomiast zwiększają twardość i wytrzymałość.
+
+Aluminium przerabia się plastycznie – walcuje (blachy, folie) lub wyciska (pręty, rury, drut, kształtowniki). Obróbkę plastyczną można przeprowadzać na zimno lub na gorąco (ok. 450 °C). Aluminium ma duże powinowactwo do tlenu, stąd jego zastosowanie w aluminotermii oraz do odtleniania stali. Oprócz tego jest szeroko stosowane w przemyśle spożywczym oraz do aluminiowania dyfuzyjnego stali.
+
+Stopy aluminium
+
+Właściwości wytrzymałościowe czystego aluminium są stosunkowo niskie, dlatego stosuje się stopy, które po odpowiedniej obróbce cieplnej mają wytrzymałość nawet kilkakrotnie większą. Stopy aluminium cechują się korzystnym parametrem konstrukcyjnym, tzn. stosunkiem wytrzymałości do ciężaru właściwego, który jest większy niż dla stali, a oprócz tego ich udarność nie maleje w miarę obniżania temperatury, dzięki czemu w niskich temperaturach mają większą udarność niż stal. Mają jednak niską wytrzymałość zmęczeniową.
+
+Stopy aluminium dzieli się na:
+odlewnicze (PN-EN 1706:2001)
+do obróbki plastycznej (PN-EN 573-3:2005)
+
+Do odlewniczych zaliczamy stopy przeważnie wieloskładnikowe o większej zawartości pierwiastków stopowych (5 – 25%), np. z krzemem (silumin); z krzemem i magnezem, z krzemem, miedzią, magnezem i manganem, z krzemem, miedzią, niklem, magnezem i manganem i inne. Cechują się one dobrą lejnością i małym skurczem.
+
+Stopy do przeróbki plastycznej zawierają na ogół mniejsze ilości dodatków stopowych, głównie miedź (do ok. 5%), magnez (do ok. 6%) i mangan (do 1,5%), rzadziej krzem, cynk, nikiel, chrom, tytan. Niektóre stopy aluminium można poddawać utwardzaniu wydzieleniowemu, po którym ich właściwości wytrzymałościowe nie są gorsze niż wielu stali.
+
+Niektóre stopy aluminium nadają się zarówno do odlewania, jak i przeróbki plastycznej.
+
+Przykłady stopów aluminium:
+Fechral (chromal) - stop żelaza, chromu i aluminium - odporny na utlenianie oraz siarkę, używany do wyrobu elementów grzejnych w postaci drutów i taśm.
+Kantal (kanthal) - stop żelaza i chromu z niewielkim dodatkiem glinu i kobaltu. Charakteryzuje się dużym oporem właściwym i ma zastosowanie w produkcji drutów oporowych oraz elementów grzejnych.
+
+
+
+

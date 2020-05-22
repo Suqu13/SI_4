@@ -1,0 +1,49 @@
+Al-Chisas (arab. الخصاص‎) – nieistniejąca już arabska wieś, która była położona w Dystrykcie Safedu w Mandacie Palestyny. Wieś została wyludniona podczas I wojny izraelsko-arabskiej w wyniku wojny psychologicznej prowadzonej przez Sił Obronnych Izraela w dniu 25 maja 1948 roku.
+
+Położenie
+Wioska al-Chisas leżała w północnym krańcu Doliny Hula w Palcu Galilei. Według danych z 1945 do wsi należały ziemie o powierzchni 479,5 ha. We wsi mieszkało wówczas 530 osób, w tym 60 Żydów.
+
+
+
+
+
+
+
+
+Historia
+W wyniku I wojny światowej w 1918 roku al-Chisas znalazła się we francuskiej strefie okupacyjnej Libanu, a następnie weszła do francuskiego Mandatu Syrii i Libanu. Brytyjczycy utworzyli na południu Mandat Palestyny. Francuzi sprawowali swoją władzę w sposób bardzo swobodny, co sprzyjało powstaniu niepokojów i zaburzeń społecznych. Liczni Arabowie zaangażowali się wówczas w utworzenie Wielkiej Syrii. Konsekwencją było nasilenie tendencji panarabizmu i wybuch walk w Libanie i Syrii, a obszar pogranicza stał się ziemią niczyją, której status był niepewny. Na podstawie brytyjski-francuskiego porozumienia z 1920 roku stwierdzono, że obszar al-Chisas miał wejść do brytyjskiego Mandatu Palestyny, jednak cała procedura przeciągnęła się do kwietnia 1924 roku.
+
+
+
+ImageSize = width:500 height:270
+PlotArea = left:50 right:40 top:20 bottom:40
+TimeAxis = orientation:vertical
+AlignBars = justify
+Colors =
+  id:gray1 value:gray(0.9)
+DateFormat = yyyy
+Period = from:0 till:545
+ScaleMajor = unit:year increment:100 start:0 gridcolor:gray1
+TextData =
+  pos:(250,20) textcolor:black fontsize:S
+  text:Ludność Al-Chisas
+PlotData =
+  bar:1931 color:gray1 width:1
+   from:0 till:386 width:15 text:386 textcolor:red fontsize:8px
+  bar:1945 color:gray1 width:1
+   from:0 till:530 width:15 text:530 textcolor:red fontsize:8px
+  bar:1948 color:gray1 width:1
+   from:0 till:545 width:15 text:545 textcolor:red fontsize:8px
+
+
+
+W poszukiwaniu skutecznego rozwiązania narastającego konfliktu izraelsko-arabskiego w dniu 29 listopada 1947 roku została przyjęta Rezolucja Zgromadzenia Ogólnego ONZ nr 181. Zakładała ona między innymi, że obszar ten miał znaleźć się w granicach nowo utworzonego państwa żydowskiego. Arabowie odrzucili tę Rezolucję i dzień później doprowadzili do wybuchu wojny domowej w Mandacie Palestyny. W trakcie jej trwania siły Arabskiej Armii Wyzwoleńczej paraliżowały żydowską komunikację w rejonie całej Galilei. W ramach operacji odwetowych, w nocy z 18 na 19 grudnia 1947 roku do wioski al-Chisas wkroczyła kompania szturmowa Palmach. W masakrze zginęło 10 Arabów, w tym 5 dzieci. Skutki tego ataku wywołały wstrząs opinii społecznej w środowiskach syjonistycznych. Wydział Polityczny Agencji Żydowskiej otwarcie skrytykował podobne metody działań, a Josef Sapir z Komitetu Obrony wezwał do ukarania osób winnych. Nie podjęto jednak żadnych działań w tym celu.
+
+Kolejne operacje żydowskie prowadzone w rejonie Palca Galilei spowodowały wzrost niepokojów mieszkańców wioski al-Chisas, którzy obawiali się kolejnej masakry. Z tego powodu w dniu 11 maja 1948 roku wioskę opuściła pierwsza fala uchodźców. Gdy cztery dni później wybuchła I wojna izraelsko-arabska niepokoje te tylko wzrosły. W efekcie wojny psychologicznej w dniu 25 maja wioskę opuściła druga fala uchodźców. Pozostałych 55 mieszkańców zmuszono do opuszczenia swoich domów w nocy z 5 na 6 czerwca 1949 roku. Zostali oni przewiezieni samochodami ciężarowymi do opuszczonej arabskiej wioski Akbara na południe od miasta Safed. Zamieszkiwali tam przez 18 lat, po czym wyrazili zgodę na przesiedlenie do wioski Hamaam.
+
+Miejsce obecnie
+Na miejscu al-Chisas powstał kibuc Ha-Goszerim. Palestyński historyk Walid Chalidi, tak opisał pozostałości wioski al-Chisas: „Większość ziemi wsi porośnięta jest przez lasy i trawy. W terenie porozrzucane są kaktusy i stosy kamieni, jak również pozostałości starych domów i dużej kamiennej zapory. Ziemie wsi są uprawiane przez osiedle Ha-Goszerim”.
+
+
+
+Bibliografia

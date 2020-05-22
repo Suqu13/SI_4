@@ -1,0 +1,101 @@
+Efedryna – alkaloid roślinny, pochodna fenyloetyloaminy. Stosowana jako stymulant, reduktor apetytu, środek zwiększający koncentrację i uwagę, lekarstwo na nieżyt nosa oraz do leczenia niedociśnienia związanego z narkozą. Występuje w roślinach z rodzaju przęśl (Ephedra equisetina, Ephedra sinica – má huáng, Ephedra distachya), oraz w cisie (Taxus baccata). Jest najczęściej dostępna w formie chlorowodorku i siarczanu.
+
+Występuje w postaci dwóch enancjomerów o konfiguracji 1'R,2'S i 1'S,2'R, pozostałe dwa diastereoizomery znane są jako pseudoefedryna. Preparaty handlowe zawierają (−)-(1'R,2'S)-efedrynę
+
+Historia
+
+Roślina má huáng (麻黄, Ephedra sinica), zawierająca efedrynę oraz pseudoefedrynę, stosowana jest w tradycyjnej chińskiej medycynie. Istnieją przypuszczenia, że substancja o nazwie soma wymieniana w starych hinduskich tekstach, takich jak Rygweda, mogła być ekstraktem z krzewu Ephedra.
+
+Efedryna po raz pierwszy została wyizolowana z rośliny Ephedra vulgaris przez Nagayoshi Nagai w 1885 roku.
+
+Produkcja
+Produkcja efedryny w Chinach stała się dochodowym przemysłem eksportowym o wartości 13 mln $ rocznie, z przetworzenia 30 tys. ton surowca roślinnego, a jest 10 razy więcej niż wynosi roczne zapotrzebowanie w tradycyjnej chińskiej medycynie.
+
+Syntetyczna efedryna
+Oprócz efedryny otrzymywanej ze źródeł naturalnych uzyskuje się ją na drodze syntezy chemicznej. Jedną z pierwszych metod było działanie na mieszaninę 1-fenylopropano-1,2-dionu i metyloaminy wodorem w obecności katalizatora:
+
+Reakcję przeprowadza się w środowisku czystego alkoholu etylowego, katalizatorem redukcji jest tlenek platyny(IV). Po zakończeniu redukcji katalizator jest usuwany przez filtrację, natomiast nieprzereagowana metyloamina jest oddestylowana pod zmniejszonym ciśnieniem. Następnie mieszaninę traktuje się roztworem chlorowodoru w alkoholu etylowym i wytrąca się kryształy przez odparowanie rozpuszczalnika. Tak przygotowany chlorowodorek efedryny przemywa się zimnym acetonem i suszy. Produkt zawiera oba stereoizomery efedryny oraz pewne ilości pseudoefedryny.
+
+Komercyjnie dostępna efedryna syntezowana jest jedną z dwóch poniższych metod:
+Metoda wykorzystująca fermentację cukru:
+Cukier lub inne źródło sacharozy (np. melasa) poddawana jest fermentacji za pomocą drożdży w obecności benzaldehydu. Produktem takiej reakcji jest (R)-1-fenylo-1-hydroksypropan-2-on, który reagując z metyloaminą w eterze dibutylowym w obecności katalizatora, którym może być platyna, daje produkt końcowy. Wadami tej metody jest potrzeba użycia dużej ilości eteru, wymagana duża czystość benzaldehydu oraz duże zużycie surowca cukrowego (do produkcji 1 kg efedryny potrzebne jest 9 kg cukru).
+
+Metoda wykorzystująca jako surowiec propiofenon:
+
+Propiofenon reaguje z bromem dając α-bromopropiofenon, który następnie traktowany jest metyloaminą. Tak otrzymany produkt jest redukowany wodorem wobec katalizatora, którym jest pallad lub nikiel Raneya. Otrzymuje się racemiczną mieszaninę efedryny i pseudoefedryny, co jest główną wadą tej metody. Produkty rozdziela się, a ponadto pseudoefedrynę poddaje się izomeryzacji, co zwiększa wydajność efedryny.
+
+Ponadto w literaturze naukowej informowano o innych możliwościach syntezy efedryny; koncentrują się one zwykle na otrzymaniu selektywnie jednego z enancjomerów. Poniżej podano wybrane przykłady:
+Metoda oparta na redukcji za pomocą związków silanowych:
+Pierwszym etapem syntezy jest redukcja zabezpieczonego aminoketonu za pomocą dimetylofenylosilanu w środowisku kwasu trifluorooctowego (TFA). Etap ten przebiega praktycznie stereospecyficznie (selektywność >99%). W drugim etapie redukuje się otrzymany aminoalkohol za pomocą tetrahydroglinianu litu (LAH). Wydajność tego etapu wynosi 80%, a produktem jest ''(-)''-efedryna. Syntezę tę można również przeprowadzić w innych kwasach i przy użyciu innych związków silanowych, jednak uzyskuje się gorsze wyniki.
+
+Metoda oparta na cyjanohydrynach:
+Pierwszym etapem syntezy jest reakcja cyjanohydryny [z atomem tlenu zabezpieczonym grupą trimetylosililową (TMS)] ze związkiem Grignarda. Produkt pośredni jest następnie hydrolizowany, w efekcie czego otrzymuje się 1-fenylo-1-hydroksypropan-2-on (stereoizomer R). Drugim etapem syntezy jest reakcja z metyloaminą, po której następuje redukcja. W zależności od warunków redukcji otrzymuje się efedrynę i pseudoefedrynę w różnych proporcjach. Najlepszy wyniki otrzymano stosując jako reduktor Zn(BH4)2 oraz przeprowadzając reakcję w eterze w temperaturze -76&nbsp;°C. Niezależnie od stosowanych warunków i reduktora otrzymywano wydajności powyżej 75%.
+
+Właściwości spektroskopowe
+Spektroskopia UV (efedryna w formie chlorowodorku w metanolu): maksima absorpcyjne przy długościach fali: 250, 256 oraz 262 nm. W zależności od środowiska pomiaru wartości te wykazują niewielkie (nie więcej niż 1 nm) odchylenia.
+Spektroskopia IR: Główne maksima absorpcyjne występują przy liczbach falowych: 700, 2885 oraz 2974 cm-1
+Spektroskopia masowa: największy pik rejestruje się dla stosunku m/z=58
+Spektroskopia NMR (rozpuszczalnik CDCl3):
+
+1H NMR:
+
+13C NMR:
+
+
+
+Działanie
+
+Działa bezpośrednio, pobudzająco na układ współczulny (na receptory α-adrenergiczne i β-adrenergiczne) oraz pośrednio poprzez uwalnianie noradrenaliny z zakończeń nerwowych. Z tego względu przy powtarzanym podawaniu występuje zjawisko tachyfilaksji. Każda następna dawka podawana w krótkim czasie powoduje mniejszy skutek farmakologiczny. Obecnie coraz rzadziej stosowana w lecznictwie, zostaje zastąpiona środkami o bardziej specyficznym działaniu (np. synefryną).
+
+Efedryna pomaga utrzymać szybkie tempo przemiany materii dzięki stymulowaniu konwersji nieaktywnej formy hormonu tarczycy T4 w postać aktywną T3. Indukowanie metabolizmu tkanki tłuszczowej w procesie termogenezy oraz działanie pobudzające efedryny są wynikiem jej zdolności do pobudzania wydzielania katecholamin: adrenaliny i noradrenaliny. Obie te substancje przyspieszają uwalnianie tłuszczu z komórek tłuszczowych i pobudzają układ nerwowy. Proces termogenezy gwałtownie spada po kilku tygodniach.
+
+Najważniejsze działania efedryny to:
+podwyższenie ciśnienia tętniczego krwi (skurcz naczyń oporowych) – stosowana w leczeniu niedociśnienia;
+zwiększenie siły skurczu mięśnia sercowego;
+przyspieszenie akcji serca;
+rozszerzenie oskrzeli (rozkurcz mięśni gładkich oskrzeli);
+pobudzające ośrodkowy układ nerwowy;
+zwiększenie przepływu krwi przez tętnice wieńcowe, mózgowe i zaopatrujące mięśnie prążkowane;
+zmniejszenie przepływu przez tętnice trzewne oraz zaopatrujące skórę.
+Przypomina adrenalinę, ale nie ulega rozkładowi w układzie pokarmowym.
+
+Dawniej była stosowana w leczeniu astmy oskrzelowej. W medycynie chińskiej stosowana od 4 tysięcy lat. Obecnie najczęściej bywa stosowana w preparatach leczniczych takich jak: Tussipect, Proasthmin, Allergoasthmin.
+
+Bywa używana jako środek dopingujący i w postaci ECA jako silny i skuteczny środek odchudzający (patrz wyżej termogeneza). Może powodować uzależnienie psychiczne u niektórych osób (ze względu na początkowy efekt euforii – nie powoduje fizycznego), z powodu rosnącej tolerancji nie można jej długo stosować (tolerancja wynika z tego że receptory są po pewnym czasie zablokowane i niewrażliwe na działanie efedryny).
+
+Efekty niepożądane
+
+Skutki uboczne najczęściej występują przy regularnym stosowaniu (iniekcje, bądź przyjmowanie doustne), rzadziej w przypadku okresowego korzystania z inhalatorów zawierających efedrynę (np. do nosa). Możliwe efekty uboczne stosowania efedryny:
+nieprawidłowości kardiowaskularne: tachykardia, arytmia serca, choroba wieńcowa, wazokonstrykcja, nadciśnienie;
+zmiany dermatologiczne: zaczerwienienie skóry, pocenie się, trądzik (wysypki skórne);
+rozstrój żołądka: nudności, utrata apetytu;
+układ moczowo-płciowy: zwiększone wydalanie moczu z powodu zwiększonego ciśnienia krwi;
+układ nerwowy: niepokój, chaotyczność (zmieszanie), bezsenność, umiarkowana euforia, manie i halucynacje (rzadko, pod warunkiem wcześniej występujących psychicznych zaburzeń), wrogość (drażliwość), mrowienie (nieudokumentowane), paranoja, pobudzenie psychomotoryczne (zwłaszcza kiedy przyjmowana z kofeiną);
+układ oddechowy: duszności, obrzęk płuc;
+inne: podniesiona średnio o 1&nbsp;°C temperatura ciała (działanie termogeniczne), zawroty głowy, ból głowy, drżenie (zwłaszcza rąk), hiperglikemia, suchość w ustach.
+
+Przedawkowanie może prowadzić do śmierci (m.in. przez obciążenie serca), aczkolwiek w przypadku zażycia zalecanej dawki ( . Istnieją podejrzenia nadwrażliwości na efedrynę u osób przyjmujących ją wcześniej.
+
+Neurotoksyczność
+Ponieważ efedryna jest substancją sympatykomimetyczną, podobną strukturalnie oraz pod względem aktywności do amfetamin, Efedryna bywa używana jako prekursor do produkcji narkotyków (metamfetaminy i metkatynonu). Efedryna ze względu na swoje właściwości pobudzające bywa używana jako domieszka do narkotyków np. dostępny w USA „uliczny” narkotyk zwany Cloud Nine, uważany za „całkowicie naturalny” odpowiednik MDMA (Ecstasy) zawiera w swym składzie efedrynę.
+
+Zbadane zostało, czy może powodować ona podobne efekty neurodegeneracyjne do amfetamin. W poszczególnych badaniach porównano poziom takich neurotransmiterów jak serotonina, dopamina, glutaminian – kwas glutaminowy czy epinefryna przy równoległej administracji efedryny oraz różnych amfetoaminopodobnych substancji. W badanym obszarze efedryna nie wykazała działania neurotoksycznego. Stwierdzono, że efedryna zwiększa poziom uwalniania dopaminy w minimalnym stopniu w porównaniu z identyczną dawką dekstroamfetaminy. Słabsze działanie efedryny na układ nerwowy wynika prawdopodobnie z utrudnionego przenikania  bariery krew-mózg.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

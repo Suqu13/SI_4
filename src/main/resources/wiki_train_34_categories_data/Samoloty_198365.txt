@@ -1,0 +1,90 @@
+Grumman A-6 Intruder (ang. intruz) - amerykański pokładowy samolot szturmowy Marynarki Wojennej Stanów Zjednoczonych zbudowany w wytwórni Grumman jako dwumiejscowa, dwusilnikowa maszyna odrzutowa w konfiguracji średniopłata. Użytkowany w latach 1962 - 1997 został wprowadzony jako następca napędzanego silnikiem tłokowym A-1 Skyrider. Na bazie Intrudera zbudowano wyspecjalizowany samolot walki elektronicznej EA-6B Prowler, który nadal pozostaje w służbie. Po wycofaniu samolotu A-6 Intruder jego rolę przejął najpierw F-14 Tomcat w wersji myśliwsko-bombowej, a docelowo wielozadaniowy F/A-18E/F Super Hornet.
+
+Historia
+Intruder został opracowany w odpowiedzi na zapotrzebowanie amerykańskiej marynarki wojennej na bazujący na lotniskowcu samolot szturmowy zdolny do działań w każdych warunkach pogodowych, mający zastąpić napędzaną silnikiem tłokowym, skonstruowaną w czasie II wojny światowej maszynę A-1 Skyrider. Kontrakt na nowy samolot wygrała wytwórnia Grumman z samolotem oznaczonym jako A2F-1''', który został oblatany 19 kwietnia 1960.
+
+Załogę samolotu stanowiły dwie osoby zajmujące miejsca obok siebie, pilot po lewej stronie i bombardier/nawigator po prawej na fotelu nieco obniżonym w porównaniu do fotela pilota. W kabinie znajdował się nowatorski system obrazowania terenu na ekranie CRT, który wspomagał nawigatora i umożliwiał maszynie loty w każdych warunkach pogodowych na bardzo niskim pułapie. Zastosowane w maszynie skrzydła charakteryzowały się wysoką efektywnością dla prędkości poddźwiękowych. Te same skrzydła, ale w konfiguracji umożliwiającej zmianę ich kąta zastosowano w myśliwcu F-14 Tomcat.
+
+Pod koniec 1962 roku w ramach wprowadzonej przez Departament Obrony standaryzacji nazw Intruder został oznaczony symbolem A-6''' i w lutym 1963 wprowadzony do służby, stając się główną maszyną szturmową Marynarki Wojennej i Piechoty Morskiej. W Siłach Powietrznych Stanów Zjednoczonych tę samą rolę pełniły samoloty F-105 Thunderchief, a później General Dynamics F-111, który tak jak Intruder stał się bazą do budowy samolotu walki elektronicznej.
+
+Maszyny A-6 Intruder służyły podczas wojny w Wietnamie, operacji w Libanie i Libii, a od 1991 brały udział w wojna w Zatoce Perskiej. W połowie lat 90. rozpoczęto ich wycofywanie, a ich rolę przejęły maszyny F/A-18E/F Super Hornet, które zastąpiły również myśliwce F-14 i szturmowy A-7 Corsair II.
+
+Ostatni Intruder został wycofany ze służby 28 lutego 1997 roku. Wiele z tych maszyn po zdemontowaniu elektroniki i silników zostało zatopionych u wybrzeży Florydy w hrabstwie St. Johns w celu utworzenia sztucznej rafy nazwanej Intruder Reef (ang. Rafa Intruderów). Pozostałe maszyny po wyposażeniu w nowe skrzydła zostały zakonserwowane i przekazane do Tucson w Arizonie, gdzie są składowane w AMARC (Aerospace Maintenance and Regeneration Center - centrum utrzymania i regeneracji statków powietrznych). Chociaż Intrudery nie dorównują maszynom typu F/A-18 prędkością czy możliwościami bojowymi, to ich zasięg i masa przenoszonego uzbrojenia były znacznie wyższe od nowych samolotów Marynarki Wojennej Stanów Zjednoczonych.
+
+Ze względu na charakterystyczną sylwetkę, tępy dziób oraz długą i smukłą część ogonową, Intrudery zyskały wiele nieoficjalnych nazw poczynając od Double Ugly (podwójnie brzydki), The Mighty Alpha Six (wszechmogąca A szóstka), Iron Tadpole (żelazna kijanka), oraz Drumstick (pałeczka od perkusji) lub Pregnant Guppy (ciężarny gupik).
+
+Wersje samolotu A-6 Intruder
+YA-6A
+Oznaczenie nadane ośmiu prototypom i samolotom serii informacyjnej używanym jako wersje rozwojowe A-6A Intruder.
+
+A-6A
+Pierwsza wersja Intrudera wyposażona w zaawansowany zintegrowany system nawigacji i kierowania ogniem DIANE (Digital Integrated Attack/Navigation Equipment) przeznaczony do bombardowania celów z wysoką efektywnością w każdych warunkach pogodowych i w nocy. System DIANE zawierał zestaw radarów: przeszukujący Norden AN/APQ-92, naprowadzający AN/APQ-112, radiowysokościomierz AN/APN-141, radar dopplerowski do określania pozycji AN/APN-153, oraz bezwładnościowy system nawigacyjny AN/ASN-31 (INS). Zainstalowano również system nawigacyjny TACAN i automatyczny wykrywacz kierunku ADF.
+
+Łącznie wyprodukowano 488 maszyn w tej wersji włącznie z sześcioma samolotami prototypowymi. Wiele z nich zostało później zmodernizowane do innych wersji.
+
+A-6B
+W odpowiedzi na zapotrzebowanie marynarki na samolot SEAD (Suppression of Enemy Air Defences - stłumienia obrony powietrznej wroga) do wykonywania misji Wild Weasel polegających na niszczeniu wyrzutni przeciwlotniczych pocisków rakietowych w latach 1967 - 1970 przebudowano 19 maszyn A-6A do nowych zadań oznaczając je jako A-6B. W ramach modernizacji zdemontowano większość systemów kierowania ogniem instalując w ich miejsce urządzenia do wykrywania i namierzania wrogich instalacji radarowych i naprowadzania pocisków przeciwradarowych AGM-45 Shrike i AGM-78 Standard ARM. Pięć z 19 maszyn została utracona w misjach bojowych a pozostałe przebudowano pod koniec lat 70. na wersję A-6E.
+
+A-6C
+W celu przeprowadzania nocnych ataków na cele położone na szlaku Ho Chi Minha w Wietnamie przebudowano 12 maszyn A-6A do nowej wersji A-6C. Samoloty te wyposażono w wieloczujnikowy system wykrywania szlaków i dróg TRIM (Trails/Roads Interdiction Multi-sensor) zainstalowany w zasobniku pod kadłubem i zawierający kamery telewizyjne pracujące w podczerwieni i przy słabym oświetleniu, oraz system Black Crow (ang. czarna wrona) wykrywający pracę silników spalinowych. Jedna z maszyn została utracona podczas akcji, a resztę przebudowano do wersji A-6E.
+
+KA-6D
+Pod koniec lat 70. 78 maszyn wersji A-6A i 12 wersji A-6E zostało przebudowane do roli powietrznego tankowca, którego zadaniem było tankowanie w powietrzu innych samolotów szturmowych. System DIANE został zdemontowany, a w jego miejsce dodano system tankowania z przewodem elastycznym umieszczony pod kadłubem, a na węzłach podwieszeń uzbrojenia instalowano cztery dodatkowe zbiorniki paliwa. Wiele z maszyn KA-6D zostało po wycofaniu ze służby zatopionych w morzu, ale niektóre były używane do momentu wprowadzenia nowego F/A-18E Super Hornet, który również może być przystosowany do zadań powietrznego tankowca.
+
+A-6E
+
+Ostatnia wersja szturmowa Intrudera opracowana w 1970 roku i wprowadzona do służby 9 grudnia 1971. Systemy elektroniczne maszyny zostały znacznie unowocześnione. Zestaw radarów został zastąpiony jednym uniwersalnym AN/APQ-148 Norden, a pozostałe systemy wymieniono na nowocześniejsze i bardziej niezawodne. Poza nowym systemem nawigacji bezwładnościowej zainstalowano drugi bezwładnościowy system nawigacyjny samolotów pokładowych CAINS (Carrier Aircraft Intertial Navigation System) zapewniający dokładniejsze określanie pozycji. Od 1979 zaczęto wyposażać wszystkie A-6E w system wykrywania i określania odległości DRS (Detecting and Ranging Set) w postaci charakterystycznej małej wieżyczki montowanej pod dziobem maszyny, zawierającej detektory podczerwieni FLIR, oraz laserowy desygnator celów. DRS był częścią systemu TRAM (Target Recognition and Attack, Multi-Sensor) wielosensorowego systemu rozpoznawania i ataku, który umożliwiał naprowadzanie na cel we współpracy z radarem lub pasywnie bez użycia radaru. Ponadto możliwe było oznaczenie celu wiązką lasera i zrzucenie bomb naprowadzanych. Ponadto Intrudery zostały wyposażone w AMTI (Airborne Moving Target Indicator) powietrzny wskaźnik celów ruchomych, który umożliwiał namierzenie i zaatakowanie poruszających się po ziemi celów będących w ruchu. Możliwe było również atakowanie celów niewidocznych na radarze po wprowadzeniu ich koordynat do komputera pokładowego.
+
+Pod koniec lat 90. pozostające jeszcze w służbie egzemplarze wyposażono w możliwość używania najnowocześniejszego uzbrojenia służącego do precyzyjnego atakowania celów takiego jak pociski rakietowe AGM-65 Maverick, AGM-84 Harpoon, AGM-84E SLAM i przeciwradarowy AGM-88 HARM. Po serii problemów ze skrzydłami powstałymi na skutek zmęczenia materiału w 85% maszyn wymieniono płaty na kompozytowe zbudowane z tytanu, aluminium i włókien węglowych.
+
+Ogólnie zbudowano 445 egzemplarzy A-6E, z których około 240 zostało zmodernizowanymi maszynami wcześniejszych wersji A-6A/B/C.
+
+A-6F i A-6G
+
+W połowie lat 80. zaproponowano modernizację Intrudera do wersji A-6F Intruder II polegającą na wymianie przestarzałych silników Pratt & Whitney J52 na ekonomiczniejsze i mocniejsze, turbowentylatorowe General Electric F404, takie same jak zastosowano w samolocie F/A-18 Hornet. Maszyna ta miała posiadać całkowicie nową awionikę i możliwość odpalania pocisków rakietowych klasy powietrze-powietrze AIM-120 AMRAAM. Dodano również dwa dodatkowe uchwyty uzbrojenia podwieszanego zwiększając ich liczbę do siedmiu.
+
+Zbudowano pięć maszyn prototypowych, które nie uzyskały zainteresowania marynarki skupionej na projekcie A-12 Avenger II. W 1991 projekt Avenger II został zamknięty, ale mimo to nie przyjęto do służby maszyn A-6F.
+
+Kolejną propozycją firmy Grumman był A-6G, który posiadał całkiem nowe wyposażenie awioniczne, takie samo jak proponowany A-6F, ale stare jednostki napędowe. Ten projekt także nie zyskał zainteresowania marynarki i ostatecznie również został zamknięty.
+
+Samoloty walki elektronicznej
+
+
+Wersja samolotu przeznaczona do walki elektronicznej i przeciwdziałania radioelektronicznego ECM została opracowana na początku projektu A-6 Intruder dla potrzeb lotnictwa piechoty morskiej, jako następca przestarzałego F3D Skynight. Pierwsza wersja Intrudera do walki elektronicznej oznaczona początkowo jako A2F-1Q, a później jako EA-6A została oblatana 26 kwietnia 1963 roku. Maszyna była wyposażona w urządzenia ECM zainstalowane w charakterystycznej opływowej gondoli na szczycie statecznika pionowego. Teoretycznie EA-6A miał możliwość przenoszenia pocisków przeciwradarowych AGM-45 Shrike, ale nigdy ich nie stosowano.
+
+Zbudowano tylko 28 egzemplarzy EA-6A włączając 2 maszyny prototypowe, 15 nowych samolotów i 11 przebudowanych z A-6A, a głównym polem działania tych maszyn była wojna w Wietnamie. W połowie lat 70. maszyny zostały wycofane z jednostek liniowych i zostały przeniesione do rezerwy i celów szkoleniowych. Ostatnia maszyna zakończyła służbę w 1993 roku.
+
+Bardziej wyspecjalizowaną do walki elektronicznej wersją Intrudera był EA-6B Prowler, wydłużony i przebudowany samolot z czteroosobową załogą i nowocześniejszymi systemami. Wyprodukowano 170 egzemplarzy maszyn tego typu, które pozostają w służbie do chwili obecnej (2006). Maszyny te zastąpiły zbudowany na bazie General Dynamics F-111 Aardvark samolot EGeneral Dynamics F-111A Raven, nazywany również Spark Vark. Planuje się, że następcą Plowlera będzie specjalna wersja samolotu EF-18 Growler Super Hornet.
+
+NA-6A
+Oznaczenie sześciu maszyn z których trzy to YA-6A, a trzy pozostałe to A-6A, które zmodyfikowano do celów testowych.
+
+YEA-6A
+Jeden YA-6A na podstawie którego powstał prototyp EA-6A.
+
+YEA-6B
+Oznaczenie dwóch prototypów EA-6B przeznaczonych do celów testowych.
+
+NEA-6A
+Jeden egzemplarz EA-6A zmodyfikowany do celów testowych.
+
+Użycie bojowe Intruderów
+
+Pierwsze użycie bojowe samolotów A-6A Intruder miało miejsce podczas wojny w Wietnamie, gdzie intensywnie używano ich do atakowania celów naziemnych. Duży zasięg i udźwig uzbrojenia w połączeniu ze zdolnością do lotów w każdych warunkach atmosferycznych stanowiły ich największą zaletę. Z drugiej strony zdolność maszyn do lotów na niskich pułapach czyniła je bardzo podatnymi na ataki bronią przeciwlotniczą, co objawiło się w stratach 68 maszyn podczas ośmiu lat służby.
+
+Później Intrudery wspierały wojska amerykańskie także podczas innych konfliktów, jak operacja w Libanie w 1983, gdzie 4 grudnia siły syryjskie zestrzeliły jedną z maszyn typu Intruder i jedną A-7 Corsair.
+
+Intrudery odegrały też znaczącą rolę podczas operacji Pustynna Burza w Zatoce Perskiej operując z lotniskowców USS Saratoga, USS "John. F Kennedy", USS "Midway", USS Ranger, USS "America" i USS "Theodore Roosevelt", a ich głównym zadaniem było niszczenie celów za pomocą naprowadzanych laserowo bomb. Później samoloty A-6E były używane do patrolowania strefy zakazu lotów na północy Iraku i do zapewnienia wsparcia z powietrza dla oddziałów piechoty morskiej podczas operacji w Somalii.
+
+Ciekawostki
+Samolot A-6 Intruder został przedstawiony w filmie Lot Intrudera z 1991 roku opartym na motywach powieści z 1986 autorstwa Stephena Coontsa pod tytułem Flight of the Intruder i opowiadającym o pilotach wykonujących misje bojowe nad Wietnamem w 1972 roku. Na początku lat 90. wydano grę komputerową pod tym samym tytułem, a w 1995 kontynuację książki pod tytułem The Intruders.
+A-6 został pokazany także w komedii Hot Shots!'' jako niezidentyfikowana maszyna - postrach szkoły lotniczej Top Gun.
+Startujący z lotniskowca A-6 znalazł się w czołówce amerykańskiego serialu telewizyjnego Prezydencki poker (The West Wing).
+W filmie Jeszcze raz Pearl Harbour myśliwce tankują z KA-6D.
+
+
+
+
+
+
+

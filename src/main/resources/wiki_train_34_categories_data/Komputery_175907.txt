@@ -1,0 +1,150 @@
+Mac mini to model komputera firmy Apple, wyróżniający się stosunkowo niską ceną i niewielkimi rozmiarami.
+
+Mac mini zadebiutował w styczniu 2005 jako oferta dla użytkowników komputerów typu PC, którzy chcieliby wypróbować Macintosha. Niska jak na komputer firmy Apple cena ($499 w chwili wprowadzenia) spowodowana była doborem tanich części składowych (identycznych jak w linii iBook), a także brakiem myszy, klawiatury i monitora w zestawie. Wyjątkowo mały rozmiar (16,5 x 16,5 x 5,1cm, wymiary radia samochodowego) uzyskano przez instalację dysku twardego typowego dla laptopów (2,5 cala) i umieszczenie zasilacza poza komputerem. Komputer pierwotnie posiadał procesor G4.
+
+Mac mini w pierwszych miesiącach od wprowadzenia spotkał się z dużym zainteresowaniem mediów i użytkowników, ale też z krytyką niskiej wydajności i niewielkich możliwości rozbudowy (później pojawiły się akcesoria zaprojektowane dla Maca Mini, takie jak zewnętrzne dyski twarde i tunery TV).
+Znalazł także zastosowanie jako platforma deweloperska aplikacji wbudowanych używających procesora PowerPC jako najtańszy komputer wyposażony w ten procesor z możliwością zainstalowania systemu operacyjnego GNU/Linux.
+
+28 lutego 2006 firma Apple wypuściła na rynek nową generację komputerów Mac mini z notebookowymi procesorami Intel Core&nbsp;T, dwoma dodatkowymi portami USB oraz pilotem.
+Nowa generacja tych komputerów była wyraźnie szybsza i nowocześniejsza niż pierwsze modele. Głównym zarzutem pod kątem nowego Mini było użycie zintegrowanej karty graficznej używającej systemowego RAM. Chipset (Intel GMA 950) znakomicie nadawał się do pracy z OS X (w przeciwieństwie do karty poprzedniego mini, obsługuje efekty Core Image) i wideo, ale był zbyt słaby, by obsłużyć najnowsze gry komputerowe.
+
+15 czerwca 2010 firma wypuściła Mac Mini unibody który wyróżnia się jako pierwszy komputer firmy Apple z portem HDMI wideo. Komputery te wyposażone są w procesor Intel Core 2 Duo oraz kartę graficzną ze zintegrowanym chipsetem Nvidia GeForce 320M.
+20 lipca 2011 kolejna kolekcja komputerów Mac Mini z procesorami Intel Core i5 2,3-2,5 GHz 3-ciej generacji (Sandy Bridge), Intel HD Graphics 3000 288MB DDR3 SDRAM pamięci współdzielonej, AMD Radeon HD 6630M 256MB GDDR. W 2012 roku pojawiła się aktualna seria komputerów Mac Mini, także korzystających z procesorów i5 lub i7 (Ivy Bridge) oraz karty graficznej Intel HD 4000.
+
+Specyfikacja techniczna
+
+
+Mac mini G4
+styczeń 2005 – lipiec 2005
+11 stycznia 2005 roku na MacWorld Expo w San Francisco przedstawiono dwa modele:
+Słabszy, o procesorze PowerPC G4 1.25&nbsp;GHz, 256&nbsp;MB pamięci PC-2100 SDRAM i 40&nbsp;GB dysku twardym. Cena: $499 [Model # M9686LL/A]
+Mocniejszy o procesorze PowerPC G4 1.42&nbsp;GHz, 256&nbsp;MB pamięci PC-2100 SDRAM, oraz 80&nbsp;GB dysku twardym. Cena: $599 [Model # M9687LL/A]
+
+Każdy model posiadał:
+Napęd szczelinowy Combo (CD-RW/DVD-ROM)
+Kartę graficzną ATi Radeon 9200 z wyjściem DVI (w komplecie przejściówka do VGA) oraz 32 MB pamięci własnej
+Dwa porty USB i jeden FireWire 400
+Wbudowany port 10/100 Ethernet oraz V.92 56&nbsp;kbit/s modem
+Wbudowany głosnik, wyjście słuchawkowe i wyjście liniowe minijack
+
+Opcjonalne elementy (na zamówienie):
+SuperDrive
+Maksymalnie 1 GB pamięci RAM (Mac mini G4 miał jeden slot DIMM)
+Przejściówka DVI→S-Video/Wyjście kompozytowe
+Dodatkowe karty Airport Extreme (WiFi) oraz Bluetooth
+
+lipiec 2005 – październik 2005
+26 lipca 2005 roku nieznacznie poprawiono powyższe modele. Najważniejszą zmianą było zwiększenie pamięci RAM z 256 MB PC-2100 do 512 MB PC-2700 (lub PC-3200 pracującej z prędkością PC-2700) SDRAM. 256 MB nie wystarczało dla systemu i jego aplikacji.
+1.25&nbsp;GHz (M9686LL/B za $499)
+1.42&nbsp;GHz (M9687LL/B za $599)
+
+Usunięto z modelu 1.42&nbsp;GHz wbudowany modem, jednakże był dostępny jako opcja (na zamówienie).
+
+Dodatkowo wprowadzono high-endowy model:
+Model 1.42&nbsp;GHz mógł być zakupiony z napędem szczelinowym SuperDrive za $699 (M9971LL/B)
+
+październik 2005 – luty 2006
+Mac mini został "cicho" uaktualniony w październiku:
+Procesor 1.33&nbsp;GHz (z 1.25&nbsp;GHz); 1.5&nbsp;GHz(1.42&nbsp;GHz)
+Dysk 80 GB Seagate Momentus 5400.2 ST9808211A (5400 rpm, 8 MB cache)
+SuperDrive (MATSHITA DVD-R UJ-845) obsługuje nagrywanie DVD+R DL i nieoficjalnie obsługuje DVD-RAM
+Połączono moduły Airport i Bluetooth
+
+Numer seryjny oraz nalepka ze specyfikacją nie uwzględniają powyższej aktualizacji. Na przykład na nalepce modelu 1.5 GHz widniało 1.42 GHz. Również pudełko nie wskazywało na aktualizację.
+
+Apple nie poprawiło również specyfikacji na swojej stronie internetowej.
+
+Mac mini Core
+luty 2006 – wrzesień 2006
+Dwa nowe modele oparte na procesorze Intel zostały przedstawione 28 lutego 2006 roku. Zastąpiły one starszą linię, opartą na procesorze G4:
+Procesor Intel Core Solo 1.5&nbsp;GHz (T1200), 60&nbsp;GB dysk twardy SATA oraz napęd Combo (DVD-ROM/CD-RW). Cena: $599 (MA205LL/A).
+Procesor Intel Core Duo 1.66&nbsp;GHz Intel Core Duo (T2300), 80&nbsp;GB dysk twardy SATA i SuperDrive (DVD+R DL/DVD±RW/CD-RW). Cena: $799 (MA206LL/A). SuperDrive to MATSHITA DVD-R UJ-846.
+
+W obu modelach znajdują się:
+
+512&nbsp;MB pamięci RAM PC2-5300 DDR2 SDRAM, w 2 slotach SO-DIMM (200 pinów) (rozszerzalne do 2&nbsp;GB).
+Zintegrowana grafika Intel GMA950, która zużywa maksymalnie 80&nbsp;MB z głównej pamięci RAM (128&nbsp;MB w Windows XP z firmware 1.0 lub nowszym)
+Cztery porty USB
+Jeden port Firewire 400
+Zintegrowane analogowe oraz cyfrowe (optyczne) wyjście/wejście audio
+Wyjście DVI (lub VGA przy użyciu dołączonej przejściówki)
+10/100/1000BASE-T (Gigabit) Ethernet
+Wbudowany AirPort Extreme (WiFi) (802.11g) i Bluetooth wersja 2.0+EDR
+Apple Remote (pilot zdalnego sterowania) i Front Row
+
+wrzesień 2006 – sierpień 2007
+6 września 2006 roku Apple zmieniło procesor modelu za $599 dolarów z Intel Core Solo 1.5&nbsp;GHz na Intel Core Duo T2300 1.66&nbsp;GHz [MA607LL/A] oraz modelu za $799 z Core Duo T2300 (1.66&nbsp;GHz) na T2400 1.83&nbsp;GHz [MA608LL/A]. Odtąd wszystkie nowe Maki mają wielordzeniowe procesory.
+
+Mac mini Core 2
+Sierpień 2007
+7 sierpnia 2007 roku Mac mini został odświeżony sprzętowo oraz programowo:
+Procesor Intel Core 2 Duo pracujące z częstotliwością 1.83 (T5600) lub 2.0 (T7200) GHz
+1 GB (maksymalnie 2 GB) pamięci DDR2 SDRAM (PC-5300) w dwóch bankach SO-DIMM
+80 lub 120 GB dysk twardy SATA (5400 rpm), opcjonalnie 160 GB
+iLife '08
+
+Listopad 2007
+Nowy Mac OS X v10.5 Leopard
+
+Odświeżony Mac mini nie obsługuje standardu IEEE 802.11n. Jest obecnie jedynym komputerem Apple, który nie oferuje najnowszego proponowanego standardu Wi-Fi. Mac mini używa starszej szyny FSB (667 MHz) oraz chipsetu 945GM, przez co niemożliwe jest użycie szyny FSB 800 MHz oraz chipsetu X3100 zastosowanego w nowych MacBookach oraz MacBookach Pro z procesorami Core 2 Duo.
+
+Marzec 2009
+3 marca, po 19 miesiącach, Mac mini został odświeżony sprzętowo:
+Nowy procesor Intel Core 2 Duo (2.0 GHz lub 2.26 GHz na zamówienie).
+1 GB (w jednej kości) pamięci RAM w modelu podstawowym lub 2 GB (w dwóch kościach) pamięci DDR3 SDRAM w dwóch slotach SO-DIMM, rozszerzalne do 4 GB
+120 lub 320 GB dysk twardy (5400 rpm), jako opcja 250 GB w modelu podstawowym
+Grafika nVidia GeForce 9400M z 128 lub 256 MB współdzielonej pamięci (przy 1 GB - 128 MB, przy 2 GB lub więcej - 256 MB)
+Combo w wersji podstawowej zostało zastąpione napędem SuperDrive (DVD-RW); napęd ten jest podłączony przez złącze SATA
+Port FireWire 400 został zastąpiony przez FireWire 800
+Dodano piąty port USB
+Port DVI został zastąpiony przez mini-DVI, został dodany również port mini Display Port; oba porty mogą być używane naraz np. do podłączenia monitorów Apple LED Cinema Display 24" (1920x1200) oraz Apple HD Cinema Display 30" (2560x1600) za pomocą przejściówek mini-DVI/DVI i mini Display Port/Dual-link DVI
+Pilot Apple Remote nie jest dołączany, aczkolwiek jest dostępny
+Zaktualizowany firmware pozwala na zdalną instalację Mac OS X
+
+październik 2009
+20 października, po 7 miesiącach wprowadzono następujące zmiany:
+Uaktualniony procesor (2.26, 2.53 lub 2.66 GHz)
+2GB RAM w podstawowym modelu, 4GB w wyższych
+Pojemności dysków twardych - 160GB, 320GB lub 500GB
+Nowy model serwerowy posiadający procesor 2.53GHz, 4GB RAM, zmodyfikowaną obudowę niezawierającą napędu optycznego, dwa dyski twarde 500GB oraz system operacyjny Mac OS X Server 10.6
+
+czerwiec 2010
+15 czerwca został wydany nowy Mac mini posiadający:
+Nowy wygląd dopasowany do reszty produktów Apple
+Obudowę o zmienionych wymiarach wykonaną w technologii Unibody
+Wbudowany zasilacz
+Port mini-DVI zamieniony na HDMI
+Zmienioną kartę graficzną - GeForce 320M
+Uaktualniony procesor oraz dysk twardy
+
+Mac mini i5/i7 == 
+lipiec 2011
+Ostatnie zmiany nastąpiły 20 lipca 2011. Były to:
+Brak napędu optycznego
+Dwurdzeniowy Intel Core i5 2.3 oraz 2.5 GHz oraz dwurdzeniowy i7 2.7 GHz. W modelu serwerowym czterordzeniowy Intel Core i7 2.0 GHz
+Zmiana karty graficznej na ATI Radeon HD 6630M
+Port mini Display Port zamieniony na Thunderbolt
+Uaktualniony dysk twardy
+System OS X Lion
+
+październik 2012
+23 października 2012 Mac mini został ponownie zaktualizowany:
+USB 3.0 w standardzie
+OS X Moutain Lion
+Dwurdzeniowy Intel Core i5 2.5 GHz oraz czterordzeniowy Intel Core i7 2.3 GHz (opcjonalnie 2.6 GHz, Core i7 standardowo w modelu serwerowym)
+Dysk twardy 500 GB oraz 1 TB (dysk twardy lub hybrydowy), lub 256 GB SSD (w modelu serwerowym 2 TB (2 x 1 TB) oraz 256 lub 512 GB (2 x 256 GB) SSD)
+Grafika Intel HD Graphics 4000
+Możliwość rozbudowy do 16 GB RAMu
+
+Kino domowe
+Niewielkie wymiary, napęd CD/DVD, wieloformatowe wyjście wideo, cyfrowe (optyczne) oraz analogowe wyjście audio oraz pilot zdalnego sterowania (w starszych modelach) tworzą Maka mini bardzo dobrym elementem kina domowego.
+
+Może być klasyfikowany jako Media PC, jednak z paroma ograniczeniami: Mac mini nie posiada wbudowanego tunera TV i nie można go dokupić (jako wewnętrzny element). Jednakże zewnętrzne urządzenia, takie jak np. Elgato HD HomeRun rekompensują tę stratę.
+
+Wyjście wideo jest kompatybilne z DVI, HDMI, SVGA, S-Video, composite video oraz component video przy użyciu odpowiednich przejściówek. Dźwięk może być przesyłany cyfrowo bądź analogowo (połączone wyjście analogowe i optyczne TOSLINK w złączu mini-jack).
+
+Mac mini rywalizuje z Apple TV: również posiada iTunes (wypożyczanie, kupowanie i zarządzanie mediami) i podobny interfejs (Front Row). Apple TV jest jednak ograniczone do formatów video mp4, a użytkownicy Maka mini mogą oglądać filmy również w wielu innych formatach, takich jak DivX, XviD i innych. W przeciwieństwie do Maka mini, Apple TV posiada złącze komponentowe (Mac Mini wymaga odpowiedniej przejściówki).
+
+
+
+Linki zewnętrzne

@@ -1,0 +1,30 @@
+SkyRoads – gra platformowa na platformę DOS, wyprodukowana przez estońską firmę Bluemoon, a wydana w 1993 roku przez Creative Dimensions.
+
+SkyRoads jest remakiem gry Kosmonaut, wyprodukowanej przez Bluemoon w 1990 roku. Nad wytworzeniem gry spędzono trzy miesiące. Gra została wydana jako shareware w 1993 i odniosła międzynarodowy sukces – od USA po Tajwan. Grafika stanowi połączenie technik 2D (tło oraz pojazd) z 3D (plansza).
+
+Obecnie z oficjalnej strony Bluemoon można pobrać pełną wersję oraz demo Skyroads oraz sequela gry, SkyRoads XMAS-Special.
+
+Rozgrywka
+Zadaniem gracza jest dotarcie statkiem kosmicznym do mety planszy. Plansza składa się z nawierzchni o różnym kolorze oraz tuneli i klocków; te elementy tworzą "tor przeszkód". Gracz steruje spacją (skok) oraz strzałkami (kierowanie, hamowanie, przyspieszanie); alternatywnymi kontrolerami są mysz oraz dżojstik. Podczas rozgrywki zużywa się tlen (jest to de facto upływający czas) oraz paliwo (szybka jazda powoduje zwiększone jego zużycie), a ich wyczerpanie się spowoduje nieukończenie planszy.
+
+Istnieje kilka rodzajów nawierzchni:
+ciemnoszara ("Slippery") – nie można skręcać pojazdem
+ciemnozielona ("Sticky") – pojazd nagle zwolni
+jasnozielona ("Boost") – pojazd nagle przyspieszy
+jasnoczerwona ("Burning") – pojazd wybuchnie
+niebieska ("Supplies") – zostanie uzupełniony poziom paliwa i tlenu
+
+Podczas rozgrywki ważną rolę odgrywa grawitacja, w której wskaźnik jest wyposażony kokpit. Jej poziom może wahać się od 100 do 1700.
+
+Na rozgrywkę składa się dziesięć "planet" po trzy plansze w każdej. Poziom trudności rośnie z każdą "planetą".
+
+SkyRoads XMAS-Special
+Po sukcesie oryginału, w 1994 roku została wydana wersja "świąteczna" gry, nazwana SkyRoads XMAS-Special. Plansze były trudniejsze, niż w pierwowzorze, a sama gra nie odniosła już takiego sukcesu.
+
+Planety
+
+
+Klony
+Firma Tinsanity wyprodukowała klon gry w wersji freeware, nazwany Tasty Static. Tasty Static działa na takich platformach, jak Windows, Apple i Linux. Wersja Windows posiada również edytor plansz.
+
+Linki zewnętrzne

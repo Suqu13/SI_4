@@ -1,0 +1,40 @@
+
+
+Izotopy wodoru – izotopy pierwiastka chemicznego wodoru (symbol H), z których trzy występują na Ziemi naturalnie. Ze względu na duże względne różnice w masach atomowych najlżejszych izotopów, różnią się one wyraźnie właściwościami chemicznymi i fizycznymi. Z tej przyczyny wodór jest jedynym pierwiastkiem, którego izotopy (naturalne) mają swoje własne nazwy: prot (1H), deuter (2H) i tryt (3H). Dwa najlżejsze izotopy są stabilne, pozostałe są radioaktywne.
+
+Wodór występuje naturalnie na Ziemi jako mieszanina trzech izotopów: 1H (>99,98%), 2H (ok. 0,015%), i 3H (ślady). Średnia masa atomowa tej mieszaniny wynosi 1,00794 u. Pozostałe izotopy wodoru, (4H–7H) zostały wytworzone sztucznie.
+
+Wodór-1 (prot)
+'''1H stanowi ponad 99,98% wszystkich atomów wodoru. Jego jądro zawiera jedynie proton, a masa atomowa wynosi 1,00782503207(10) u. Opisywane właściwości chemiczne wodoru i jego związków w praktyce odnoszą się zazwyczaj do tego izotopu. Nazwa prot jest obecnie rzadko używana.
+
+Wodór-2 (deuter)
+'''2H jest drugim stabilnym izotopem wodoru; zawiera proton i neutron w jądrze. Stanowi 0,0026–0,0184% wodoru występującego na Ziemi. Deuter nie jest radioaktywny ani toksyczny. Woda zawierająca atomy deuteru zamiast zwykłego wodoru to woda ciężka.
+
+Wodór-3 (tryt)
+'''3H znany jako tryt zawiera w jądrze proton i dwa neutrony. Jest radioaktywny, rozpada się w hel-3 poprzez rozpad beta minus z okresem połowicznego rozpadu 12,32 lat. Niewielkie ilości trytu występują na Ziemi z powodu oddziaływania promieniowania kosmicznego z gazami atmosferycznymi; tryt jest także produktem reakcji nuklearnych.
+
+Wodór-4
+'''4H jest wysoko niestabilnym izotopem wodoru. Jądro składa się z protonu i trzech neutronów. Został sztucznie wytworzony w laboratorium w wyniku bombardowania trytu rozpędzonymi do dużej prędkości jądrami deuteru. Obecność wodoru-4 została stwierdzona przez wykrycie emitowanych protonów. Jego masa atomowa wynosi 4,02781±0,00011 u. Ulega rozpadowi poprzez emisję neutronu i ma okres połowicznego rozpadu (1,39±0,10)  sekundy.
+
+Wodór-5
+'''5H jest kolejnym wysoko niestabilnym izotopem wodoru. Jądro składa się z protonu i czterech neutronów. Został uzyskany razem z wodorem-4 podczas bombardowania trytu rozpędzonymi jądrami trytu. Ulega rozpadowi poprzez podwójną emisję neutronu i ma okres połowicznego rozpadu co najmniej 9,1 sekundy.
+
+Wodór-6
+'''6H ulega potrójnej emisji neutronów, okres połowicznego rozpadu 3 sekundy. Składa się z protonu i pięciu neutronów.
+
+Wodór-7
+'''7H składa się z protonu i sześciu neutronów. Został otrzymany po raz pierwszy w 2003 roku przez grupę rosyjskich, japońskich i francuskich fizyków w wyniku bombardowania tarczy z zestalonego wodoru wysokoenergetycznymi atomami 8He.
+
+----
+
+
+
+Uwaga
+W nawiasach podano niepewność pomiaru.
+
+Przypisy
+
+
+Bibliografia
+Składy izotopowe za:  oraz 
+Niektóre informacje o izotopach pochodzą z następujących źródeł:

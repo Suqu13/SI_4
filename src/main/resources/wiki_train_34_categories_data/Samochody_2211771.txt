@@ -1,0 +1,4 @@
+Hill Descent Control (HDC) - kontrola zjeżdżania samochodu ze wzniesienia. Elektronicznie uruchamiana zostaje funkcja ograniczenia prędkości zjazdu do zadanej prędkości.
+
+
+

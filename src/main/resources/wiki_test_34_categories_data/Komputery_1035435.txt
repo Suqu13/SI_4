@@ -1,0 +1,26 @@
+
+
+
+IBM 360''', IBM System/360''' lub IBM S/360''' to rodzina komputerów typu mainframe produkowanych przez firmę IBM od 1964. Komputery systemu 360 stanowiły różne modele od modelu 360/20 (wersja mini, 16KB RAM) poprzez model 360/65 i później model 360/95. 
+
+Historia
+W 1964 roku pod kierownictwem Thomasa Watsona Jr., syna założyciela firmy, IBM zainwestował 5 mld USD w opracowanie maszyny IBM 360, która stała się sukcesem rynkowym. IBM 360 zapoczątkował rodzinę kompatybilnych maszyn, spopularyzował prace na odległość (terminale podłączone przez linie telefoniczne), do roku 1968 sprzedano 14 tys. maszyn.
+
+Specyfikacja
+W ramach Systemu/360 projektowano cały szereg modeli komputerów do zastosowań uniwersalnych, wybrano małą długość przetwarzanej porcji informacji - jednostką tą był bajt, zdefiniowany przez projektantów IBM najpierw jako grupa bitów charakterystyczna dla danej dziedziny zastosowań, a potem sformalizowany w dokumentacji firmy jako 8 bitów. Komputer nazwano System/360, bo miał to być cały system czy rodzina komputerów, zaś liczba 360 oznaczała "system trzeciej generacji na lata sześćdziesiąte". W ciągu kilku miesięcy od maja do listopada 1965 roku, na rynku ukazały się modele 360/30, 360/40, 360/50, 360/75, a w następnym roku 360/20, 360/44 i 360/65. 
+
+Właściwości rodziny 360: podobna lub identyczna lista rozkazów, podobny lub identyczny system operacyjny, rosnąca szybkość, rosnąca liczba urządzeń wejścia - wyjścia, rosnący rozmiar pamięci, rosnąca cena.
+
+Specjalnie dla komputerów serii 360 IBM opracował systemy operacyjne DOS/360 i OS/360.
+
+Rodzina modeli Systemu/360
+
+
+W końcu lat sześćdziesiątych pojawił się termin mainframe czyli wielki system dla odróżnienia komputerów, których jednostka centralna stoi w sali komputerowej w oddzielnej szafce, od pojawiających się coraz liczniej minikomputerów.
+
+Zobacz też
+
+IBM System/360 Model 50
+Jednolity System Elektronicznych Maszyn Cyfrowych ''(RIAD)''
+
+Literatura

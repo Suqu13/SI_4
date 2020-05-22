@@ -1,0 +1,54 @@
+Moreszet (hebr. מורשת‎‎; ang. Moreshet; pol. Dziedzictwo) - wieś komunalna położona w Samorządzie Regionu Misgav, w Dystrykcie Północnym, w Izraelu.
+
+Położenie
+Wioska Moreszet jest położona na wysokości 309 metrów n.p.m. w zachodniej części Dolnej Galilei. Leży na zachodnim skraju grzbietu górskiego Gór Jatvat (ok. 500 m n.p.m.), który położoną na północy Dolinę Sachnin od położonej na południu  Doliny Bejt Netofa. Na południowy wschód od wioski jest wadi strumienia Evlajim, za którym wznosi się góra Har Acmon (547 m n.p.m.). Na północnym wschodzie wznosi się góra Har Szechanija (456 m n.p.m.), z której spływa przepływający na północ od wioski strumień Szechanija. Okoliczne wzgórza są zalesione. Teren opada w kierunku zachodnim do wzgórz Zachodniej Galilei i dalej na równinę przybrzeżną Izraela. W otoczeniu wioski Moreszet znajdują się miasta Tamra i Szfar'am, miejscowości Kabul, Kaukab Abu al-Hidża, Kefar Maneda, Bir al-Maksur i I'billin, wioski komunalne Manof, Szechanija, Koranit i Micpe Aviv, oraz arabska wioska Dmeide.
+
+Podział administracyjny
+Moreszet jest położona w Samorządzie Regionu Misgav, w Poddystrykcie Akka, w Dystrykcie Północnym Izraela.
+
+Demografia
+Stałymi mieszkańcami wioski są wyłącznie Żydzi. Tutejsza populacja jest w większości religijna (judaizm):
+
+
+
+ImageSize  = width:500 height:220
+PlotArea   = left:70 right:40 top:20 bottom:20
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+Colors =
+  id:gray1 value:gray(0.9)
+DateFormat = yyyy
+Period     = from:0 till:1217
+ScaleMajor = unit:year increment:250 start:0 gridcolor:gray1
+PlotData =
+  bar:1983 color:gray1 width:1
+   from:0 till:24 width:15 text:24 textcolor:red fontsize:8px
+  bar:2003 color:gray1 width:1
+   from:0 till:633 width:15 text:633 textcolor:red fontsize:8px
+  bar:2011 color:gray1 width:1
+   from:0 till:1217 width:15 text:1217 textcolor:red fontsize:8px
+
+Źródło danych: .''
+
+
+Historia
+Osada została założona w 1981 roku w ramach rządowego projektu Perspektywy Galilei, którego celem było wzmocnienie pozycji demograficznej społeczności żydowskiej na północy kraju. Początkowo zamieszkała tutaj tymczasowa grupa osadnicza Tikva, w skład której weszli ultraortodoksyjni Żydzi. Dopiero gdy w 1996 roku rozpoczęto budowę normalnych domów, w wiosce zaczęli osiedlać się kolejni osadnicy. Wówczas nastąpiło oficjalne założenie wioski. Większość osadników należała do żydowskiej organizacji religijnej Amana, która rozwijała osadnictwo żydowskie w Palestynie. Jest to jedyna religijna wioska w tym regionie. Istnieją plany rozbudowy wioski.
+
+Edukacja
+Wioska utrzymuje przedszkole oraz religijną szkołę podstawową.
+
+Kultura i sport
+W wiosce jest ośrodek kultury z biblioteką, oraz centrum młodzieżowego ruchu syjonistycznego Bnei Akiva. Z obiektów sportowych jest basen pływacki, sala sportowa z kompleksem boisk oraz siłownia.
+
+Infrastruktura
+W wiosce jest przychodnia zdrowia, synagoga, mykwa, sklep wielobranżowy oraz warsztat mechaniczny.
+
+Gospodarka
+Lokalna gospodarka opiera się na działalności usługowej. Część mieszkańców dojeżdża do pracy w pobliskich strefach przemysłowych.
+
+Transport
+Z wioski wyjeżdża się na północ na drogę nr 784 przy skrzyżowaniu z drogą nr 781. Jadąc drogą nr 784 na północny wschód dojeżdża się do miejscowości Kaukab Abu al-Hidża i wioski Koranit, lub jadąc na południe dojeżdża się do wioski Dmeide i dalej na wschód do miejscowości Kefar Maneda. Natomiast droga nr 781 prowadzi na zachód do wioski Micpe Aviv, miejscowości I'billin oraz skrzyżowania z drogą nr 70.
+
+
+
+Linki zewnętrzne

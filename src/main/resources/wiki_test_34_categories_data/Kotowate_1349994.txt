@@ -1,0 +1,42 @@
+
+Paradoks kota z kromką posmarowaną masłem (ang. Buttered cat paradox) – humorystyczny „paradoks” nawiązujący do dwóch popularnych przekonań:
+kot zawsze spada na cztery łapy,
+kromka z masłem zawsze spada stroną posmarowaną masłem.
+Paradoks powstaje, gdy w drodze eksperymentu myślowego badacz usiłuje ustalić, co się stanie z kotem po umocowaniu na jego grzbiecie posmarowanej z wierzchu masłem kromki chleba i spuszczeniu go z wysokości. Najwcześniejsze znane nawiązanie do paradoksu pojawiło się w 1993 roku w magazynie OMNI; ogłoszono w nim zwycięzcę konkursu nr 54, Johna Frazee, który zgłosił ów paradoks do konkursu.
+
+Eksperymenty myślowe
+Dogłębna analiza paradoksu przy wykorzystaniu błędnego toku myślenia może doprowadzić do powstania wniosku, iż eksperyment wytworzy antygrawitację, bowiem można sądzić, iż na początku kot będzie spadać na cztery łapy, jednak w miarę zbliżania się do ziemi zacznie obracać się, aby kromka spadła stroną posmarowaną masłem. Następnie kot będzie wirować w nieskończoność, utrzymując się na małej wysokości ponad powierzchnią ziemi.
+
+Aby kot lewitował, musiałaby istnieć siła przeciwstawiająca się ziemskiej sile grawitacji równej:
+Gdzie  jest masą kota,  jest masą kromki posmarowanej masłem, a  przyspieszeniem ziemskim.
+
+Jeśli kot miałby się dodatkowo obracać wokół własnej osi, musiałaby istnieć dodatkowa siła, a miejsce jej przyłożenia determinowałoby, w którą stronę kot się obraca (zob. moment siły). Z drugiej strony, obracanie się kota musiałoby jednak być spowodowane wpływami sił grawitacji – w przeciwnym wypadku naruszałoby to zasadę zachowania energii.
+
+Innym rozwiązaniem mógłby być upadek kota na bok.
+
+Naukowe wytłumaczenie „paradoksu”
+W typowych warunkach domowych kromka chleba często wydaje się spadać na stronę posmarowaną masłem, ponieważ zsuwając się ze stołu, dokonuje obrotu. Zatem odpowiednio posmarowana kromka, spadając z odpowiednio dużej wysokości, może spaść posmarowaną stroną na dół. Przeprowadzone eksperymenty wykazują jednak, iż wpływ na to ma m.in. wysokość, z jakiej spada kromka, a statystycznie liczba upadków na stronę posmarowaną niewiele różni się od liczby upadków na stronę nieposmarowaną. Jednakże w warunkach domowych kanapki spadają wyłącznie ze stołów – tzn. z takiej wysokości, że ma miejsce na dokładnie jeden półobrót i to właśnie najczęściej obserwowane. Gdyby zrzucać kanapki z większej wysokości, to podczas spadania miałyby one czas na wykonanie dwóch półobrotów, po których strona posmarowana znajdzie się ponownie u góry (po pełnym obrocie). 
+
+Kot instynktownie podczas upadku z wysokości ustawia się tak, aby upaść na cztery łapy. Kiedy zaczyna spadać, jego oczy i aparat przedsionkowy umieszczony w uchu środkowym przekazują do mózgu dane o położeniu głowy względem ziemi. Kot następnie próbuje dokonać obrotu ciała, by wylądować na cztery łapy: początkowo następuje skręcanie kręgosłupa wokół osi, tak że łapy tylne i przednie są pod kątem; następnie dokonywany jest ruch obrotowy oraz ruch posuwisto-zwrotny tylnych łap. Potrzebny jest jednak czas na dokonanie obrotu, zatem może się zdarzyć, iż kot spadając z małej wysokości, nie zdąży się poprawnie ustawić i dozna obrażeń. W większości przypadków kotu udaje się jednak dokonać obrotu. 
+
+Zakładając nawet, iż kromka zawsze spada stroną posmarowaną masłem, jej masa nie jest dostatecznie duża, by mieć wpływ na upadek kota.
+
+„Paradoks” w kulturze masowej
+W czerwcu 2003 Kimberly Miner wygrała Nagrodę Akademii Studenckiej (ang. Student Academy Award) za swój animowany film Perpetual Motion (pol. Perpetuum mobile). Film został oparty na eksperymentach przeprowadzonych przez jej przyjaciela, który badał potencjalne skutki działania paradoksu.
+W jednym z odcinków komiksu Jack B. Quick główny bohater próbuje sprawdzić działanie paradoksu. Udaje mu się przywiązać kanapkę do kota, który następnie zaczyna unosić się nad ziemią. Jednak po chwili kot rozbija się o ziemię, bowiem udaje mu się zlizać masło z kromki.
+W komiksie Bunny różowy króliczek przedstawia swój plan stworzenia Perpetual Motion MoggieToast5k Power Generator, w oparciu o prawo Soda.
+„Paradoks” pojawił się w brytyjskim teleturnieju QI, gdzie zadawano różne pytania dotyczące tego "problemu". Zastanawiano się m.in. co by się stało „gdyby kromka była posmarowana margaryną zamiast masłem” lub „gdyby kromka była posmarowana czymś innym, ale kot by myślał, iż jest to masło”, sugerując pojawienie się efektu placebo.
+„Paradoks” został również wykorzystany w reklamie napoju energetycznego Flying Horse.
+
+Zobacz też
+
+Reguła pięciu sekund
+Kot Schrödingera
+
+
+
+
+
+
+
+

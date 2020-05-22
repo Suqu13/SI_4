@@ -1,0 +1,9 @@
+Przegrupowanie McLafferty'ego – jest to reakcja obserwowana w spektrometrii mas. Przegrupowaniu Mclafferty'ego ulegają związki posiadające grupy karbonylowe oraz atom wodoru w pozycji γ. Tego typu przegrupowania są powszechnie obserwowane w procesach fragmentacji cząsteczek w spektrometrii mas. 
+Reakcję tę po raz pierwszy zaobserwował i opublikował amerykański chemik Fred McLafferty w 1959 roku.
+
+Mechanizm
+Atom wodoru 
+γ ulega wewnątrzcząsteczkowej migracji na atom tlenu grupy karbonylowej.
+
+Bibliografia
+Linki zewnętrzne

@@ -1,0 +1,75 @@
+Fiskalizm – polityka państwa polegająca na dążeniu do osiągnięcia jak największych wpływów do budżetu poprzez nakładanie kolejnych obciążeń podatkowych na podatników.
+
+Racjonalność systemu podatkowego
+W systemie podatkowym zrównoważone muszą być dwa częściowo przeciwstawne interesy:
+płatników podatków do jak najmniejszych obciążeń podatkowych,
+Skarbu Państwa do jak największych przychodów.
+
+Racjonalna polityka fiskalna polega zrównoważeniu tych wartości w taki sposób, że obciążenia podatkowe nie zmniejszają w znaczący sposób konkurencyjności przedsiębiorstw ani zdolności gospodarstw domowych do oszczędzania. Konsekwencją nadmiernego fiskalizmu jest ograniczenie wzrostu gospodarczego, co z kolei prowadzi do ograniczenia wpływów do budżetu.
+
+Według Adama Krzyżanowskiego i Jeana-Baptiste Say podatki są przerzucalne i ich koszt ponosi zawsze ostateczny konsument w wyniku podniesienia przez opodatkowany podmiot ceny towaru lub usług, które sprzedaje, co najmniej o wysokość straty wywołanej podatkiem.
+
+
+
+Równocześnie na obciążenia podatkowe składają się następujące czynniki:
+bezpośrednia wartość podatku rozliczanego (np. VAT czy podatek dochodowy), stanowiąca podstawę kwoty wpływającej do budżetu,
+obciążenie płatników kosztami naliczania oraz ewidencjonowania podatku, czyli koszty takie jak czas pracowników, oprogramowanie czy biura rachunkowe, które zmniejszając przychód płatnika zmniejszają także kwotę podatku przez niego płaconą i zmniejszają jego konkurencyjność,
+koszty własne administracji publicznej związane z obsługą wpływów podatkowych (koszty poboru), które stanowią bezpośrednią konsumpcję wpływów podatkowych zanim zostaną one wykorzystane na inne cele publiczne.
+
+Dalszymi elementami racjonalnej polityki podatkowej jest więc minimalizowanie kosztów podatkowych po stronie płatników oraz administracji publicznej co prowadzi do dalszej maksymalizacji wpływów podatkowych i minimalizacji obciążeń.
+
+Metody mierzenia stopnia fiskalizmu
+Stopień fiskalizmu mierzy się różnymi metodami. Do oceniania stopnia fiskalizmu używa się:
+liczba obciążeń podatkowych,
+ilość czasu poświęcana przez podatników na wypełnianie zobowiązań podatkowych,
+wysokość stawek podatkowych,
+poziom obciążeń fiskalnych w stosunku do PKB,
+zakres ingerencji systemu finansów publicznych w PKB,
+stopień pokrycia wydatków publicznych dochodami publicznymi,
+zakres występowania szarej strefy w gospodarce.
+
+Według rankingu ''„Doing Business 2010”'' przygotowanego przez Bank Światowy krajem o największych obciążeniach podatkowych jest Białoruś, zaś najmniejszym – Malediwy. W Unii Europejskiej najmniejsze obciążenia fiskalne występują w Luksemburgu, największe – we Włoszech. Równocześnie w rankingu czasu poświęcanego przez podatników na wypełnianie zobowiązań podatkowych najkorzystniejsza sytuacja panuje w Luksemburgu, najgorsza w Bułgarii. Polska plasuje się w tych rankingach w połowie stawki jeśli chodzi o wysokość podatków (40 obciążeń, średnio 42,3%) i pod koniec jeśli chodzi o ich czasochłonność (395 godzin rocznie).
+
+Fiskalizm a teorie ekonomii
+Krzywa Laffera
+
+Jedną z koncepcji opisujących wpływy państwa z podatków jest tzw. krzywa Laffera, obrazująca wpływy państwa z podatków w zależności od wielkości obciążenia podatkowego, będąca linią zbliżoną kształtem do paraboli. Ukazuje ona, że nie zawsze zwiększanie podatków powoduje zwiększenie wpływów do budżetu, gdyż przy rosnącym obciążeniu przedsiębiorstwa postanawiają przenieść się do tzw. „szarej strefy”, gdzie ukrywają swoją działalność, aby uniknąć podatków.
+
+Na przykład według analiz ośrodka Concorde francuski rynek z powodu zbyt wysokiego obciążenia podatkowego pracy stracił ok. milion miejsc pracy. Emigrację podatkową podjęło ok. 60 tys. przedsiębiorców, z których każdy zatrudniał średnio 60 osób.
+
+Keynesizm
+
+Według J.M. Keynesa udział państwa w gospodarce jest niezbędny, aby zachować pełne zatrudnienie, a co za tym idzie większą zdolność produkcyjną gospodarki. Dokonuje tego głównie przez bezpośrednie inwestycje w gospodarkę. Jednak aby państwo mogło inwestować potrzebuje pieniędzy, które uzyskuje z podatków, które zostają zwiększone szczególnie dla bogatszych podmiotów. Według teorii Keynesa pieniądze odebrane gospodarstwom domowym i przedsiębiorstwom w formie podatków zostaną im zwrócone dzięki wzrostowi PKB zgodnie z mnożnikiem Keynesa.
+Jednak jeśli państwo utworzy nierentowne instytucje, finansowane z budżetu których z różnych powodów (np. działalność związków zawodowych) nie można zamknąć, musi ich straty rekompensować z wpływów do budżetu, czyli podatków. W przypadku gdy te instytucje generują coraz większe straty, potrzeba coraz więcej pieniędzy aby mogły one dalej istnieć, co powoduje zwiększone zapotrzebowanie na wpływy do budżetu, czyli zwiększenie podatków.
+
+Ekonomia neoklasyczna
+
+Ekonomia neoklasyczna głosi, że wpływ państwa na mechanizmy rynkowe powinien być ograniczony do minimum, państwo powinno być „nocnym stróżem” wolnego rynku. Jakiekolwiek wydatki inwestycyjne państwa nie mają sensu, gdyż państwo nie jest tak efektywne jak przedsiębiorcy. Według neoklasyków problem fiskalizmu nie powinien wcale istnieć, gdyż wydatki państwa są zminimalizowane, a więc podatki także powinny być minimalne. Jednakże istnieją pewne gałęzie rynku, w których udział jest z definicji nieopłacalny, np.: służba zdrowia, czy edukacja w biedniejszych społeczeństwach, gdzie obywateli nie stać by płacić za te usługi. Najlepszym rozwiązaniem w tym wypadku jest połączenie finansowanie tych instytucji wspólnie przez państwo i kapitał prywatny.
+
+Fiskalizm bizantyjski
+Jednym z pierwszych lepiej udokumentowanych przypadków fiskalizmu był fiskalizm rzymski (bizantyjski), który był jedną z głównych przyczyn upadku Cesarstwa Zachodniorzymskiego. Koneczny w „Cywilizacji bizantyjskiej” zauważa przekształcenie, pod wpływem wschodnich cywilizacji (szczególnie egipskiej), Imperium Romanum z państwa obywatelskiego w państwo biurokratyczne.
+
+Rozrost biurokracji był związany głównie z centralizacją władzy i zwiększaniem podatków. Dodatkowo
+imperium targały niezliczone wojny domowe, co powodowało zwiększone wydatki na wojsko. Kolejni cesarze byli wojskowymi uzurpatorami, którzy zdobyli tron siłą. Doskonale ilustruje to obraz cesarstwa po śmierci Treboniusa Gallusa na Rzym ruszyły trzy armie, każda z innym cesarzem na czele.
+
+Po paru latach cesarz Galienus rozszerzył na państwo metodę egipską (Koneczny widział Egipt jako kraj pełen monopoli). Metody stosowane przez ówczesny organ skarbowy opisuje fragment pisma kobiety z IV lub V w. uciekającej przed władzami:
+
+
+
+Fiskalizm doprowadzał do coraz częstszego powstawania patologii, np. powstania urzędu przymusowego poborcy podatkowego, który ręczył za niezebrane podatki swoim majątkiem. Kolejną konsekwencją fiskalizmu było wyludnienie. Pięcioletnie cenzusy (spisy ludności) wykazują stały ubytek ludności nawet z najbogatszych prowincji (ludność Aleksandrii zmniejszyła się o połowę).
+
+W końcu ludność rzymska obróciła się przeciwko własnemu państwu, jak pisze Koneczny: „w hordach Attyli znaleźli się obywatele rzymscy, którzy zbiegli tam przed (...) podatkami. Okrutna ta wiadomość pochodzi od słynnego Sahianusa, uczonego prezbitera Marsylii (...)”.
+
+Fiskalizm w Polsce
+
+
+Zobacz też
+Inflacja prawa
+Biurokracja
+Szara strefa
+Ease of Doing Business Index
+
+
+
+
+

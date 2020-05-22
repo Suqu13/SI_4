@@ -1,0 +1,17 @@
+Elektron 4''' (ros. Электрон 4'') – radziecki satelita naukowy, wystrzelony 10 lipca 1964 razem z Elektronem 3, przeznaczony do badania zewnętrznych i wewnętrznych pasów radiacyjnych na inklinacjach większych niż w ówczesnych podobnych badaniach amerykańskich.
+__NOTOC__
+Przyrządy naukowe
+Magnetometry ze strumieniomierzami
+Zestaw dwóch trójosiowych magnetometrów ze strumieniomierzami, o różnych czułościach (pierwszy: od -120 do +120 gamma, z dokładnością ±2 gamma; drugi: od -1200 do +1200 gamma, z dokładnością ±20 gamma). Częstotliwość pomiaru wektora oboma czujnikami była zmienna: od jednego na 2 minuty do 1 na 8 minut. Kalibracja przeprowadzana była poprzez pomiar pola odniesienia. Elektron 4 i 3 przenosiły dodatkowo jednoosiowy magnetometr indukcyjny do badania pulsacji pola ziemskiego na niskich wysokościach. Urządzenie było czułe na oscylacje pola w dwóch zakresach: 1-10 i 3-300 Hz
+Detektor protonów
+Zestaw liczników scyntylacyjnych i półprzewodnikowych pracujących w czterech przedziałach energetycznych. W licznikach scyntylacyjnych użyto kryształów o grubościach 0,15 i 3 mm. Cieńszy rejestrował protony o energiach od 1,5 do 10 MeV. Grubszy, w dwóch przedziałach: 5-80 MeV i 9-30 MeV. Osłonę stanowiło aluminium o masie powierzchniowej 2 mg/cm² i ołów o grubości 15-20 mm. Licznik półprzewodnikowy osłonięty był podobną osłoną aluminiową i rejestrował protony o energiach od 1 do 5 MeV. Zliczenia były kumulowane w interwałach 15, 105 lub 465 sekund
+
+Zobacz też
+Elektron 1
+Pas radiacyjny
+Explorer 1
+
+
+
+Bibliografia
+Linki zewnętrzne

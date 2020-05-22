@@ -1,0 +1,16 @@
+STOVL - akronim od angielskiego Short Take Off and Vertical Landing używany w lotnictwie do określania zdolności samolotu do krótkiego startu i pionowego lądowania.
+
+Zdolność niektórych samolotów do startowania z krótkich pasów i lądowania w każdym miejscu, nawet bez pasa startowego. Czasami własność ta jest wykorzystywana na lotniskowcach wyposażonych w specjalne pasy startowe, ski-jump (ang. skok narciarski), zamiast systemu katapultowego. 
+
+Samoloty STOVL mają zazwyczaj większy udźwig niż porównywalne samoloty VTOL, ale potrzebują pasa startowego. Najsławniejszym przykładem takiego samolotu jest niewątpliwie Hawker Siddeley Harrier Jump Jet (skaczący odrzutowiec), który technicznie będąc samolotem typu VTOL, może startować także jako STOVL dzięki czemu udźwig uzbrojenia i paliwa jest większy niż przy starcie pionowym. To samo dotyczy samolotu F-35B Joint Strike Fighter, który dysponuje własnościami VTOL, ale docelowo będzie samolotem typu STOVL.
+
+Inne samoloty STOVL
+EWR VJ 101C (Niemcy)
+Dassault Mirage III V (Francja)
+Jakowlew Jak-38 (Rosja)
+Jakowlew Jak-141 (Rosja)
+F-35B Lightning II (Stany Zjednoczone)
+
+Poza samolotem Jak-38, żaden z wyżej wymienionych nie został wprowadzony do uzbrojenia, chociaż F-35 ma wejść do służby w najbliższych latach.
+
+

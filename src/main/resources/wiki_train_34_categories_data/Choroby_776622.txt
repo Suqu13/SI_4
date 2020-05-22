@@ -1,0 +1,57 @@
+
+Zespół Kallmanna (ang. Kallmann syndrome) – grupa uwarunkowanych genetycznie chorób endokrynologicznych, w których obrazie klinicznym występuje zaburzenie węchu i hipogonadyzm hipogonadotropowy.
+
+Historia
+Pierwszy znany opis tego zespołu pochodzi z 1856 roku, kiedy hiszpański lekarz Aureliano Maestre de San Juan dokonał autopsji 40-letniego mężczyzny, u którego stwierdził hipogonadyzm, bardzo małe jądra i nieobecne opuszki węchowe. Kilka lat później podobny przypadek opisał austriacki patolog Richard Ladislaus Heschl. W 1914 Franz Weidenreich u trzech na dziesięciu pacjentów z anosmią stwierdził hipogonadyzm, i zasugerował związek tych dwóch patologii. Franz Josef Kallmann i wsp. w 1944 jako pierwszy przedstawił rodzinny charakter eunuchoidyzmu połączonego z brakiem powonienia, sugerując w opisie trzech rodzin etiologię genetyczną. Jednak pierwszy dowód zaburzenia na osi przysadka-podwzgórze pojawił się dopiero, gdy opracowano metodę oznaczania gonadotropin w moczu. Zespół Kallmanna został sklasyfikowany jako postać hipogonadyzmu hipogonadotropowego. W późniejszych badaniach uzyskano jednoznaczny dowód na niedobór wydzielania gonadoliberyny - hormonu uwalniającego gonadotropiny (GnRH).
+
+Definicja i występowania
+Zespół Kallmanna de Morsiera oznacza połączenie wrodzonego hipogonadyzmu hipogonadotropowego z brakiem powonienia (anosmią) lub jego upośledzeniem (hiposmią). Zespół ten bywa też czasem nazywany wrodzoną dysplazją węchu. 
+
+Idiopatyczny hipogonadyzm hipogonadotropowy to szerszy termin opisujący pacjentów z niewytłumaczalnym izolowanym niedoborem gonadotropiny, który może, lecz nie musi, być połączony z brakiem powonienia. Nawet w rodzinach obciążonych genetycznie jedne osoby mogą przejawiać zarówno izolowany niedobór gonadotropiny, jak i brak powonienia, podczas gdy inne - izolowany niedobór gonadotropiny i normalny zmysł węchu.
+
+Zespół Kallmanna jest heterogenicznym zaburzeniem genetycznym występującym z częstością 1:10&nbsp;000 - 86&nbsp;000 osób. Zespół ten cztery do pięciu razy częściej dotyka mężczyzn. Może występować zarówno dziedzicznie, jak i samoistnie. Stwierdzono dziedziczenie w sposób autosomalny recesywny, autosomalny dominujący i związany z chromosomem X. 
+
+Przypadki samoistne wykazują zbliżone cechy kliniczne do klasycznego zaburzenia dziedzicznego. Nawet w przypadku dziedziczenia autosomalnego dominującego zespół ten zazwyczaj częściej dotyka mężczyzn. Niezależnie od modelu dziedziczenia często obserwuje się niekompletne objawy znanych cech zespołu, co wynika ze zmienności penetracji genu.
+
+Patofizjologia
+Podstawowym zaburzeniem prowadzącym do hipogonadyzmu w tym zespole jest nienormalne wydzielanie gonadoliberyny w podwzgórzu wtórne w stosunku do zaburzenia migracji neuronów wydzielających gonadoliberynę z opuszki węchowej do mózgu i agenezji receptorów węchowych. Wykazano, mutację w genie KAL1'' w przypadku dziedziczenia związanego z chromosomem X; gen KAL1'' koduje białko zbliżone budową do cząsteczek adhezji komórek neuronowych (N-CAM). Stwierdzono też, że u płodów myszy można zablokować normalną migrację neuronów wydzielających gonadoliberynę z pierwotnego miejsca w embrionie do podwzgórza przeciwciałami anty-N-CAM.
+
+Objawy kliniczne
+Pacjenci z zespołem Kallmanna zgłaszają się na ogół do lekarza w związku z opóźnionym dojrzewaniem lub niepełnym rozwojem cech płciowych. U około 80% pacjentów występuje brak lub upośledzenie powonienia, co stanowi podstawę dla diagnozy zespołu u osób z izolowanym niedoborem gonadotropiny. Obserwuje się też zazwyczaj małe jądra, małe prącie i wnętrostwo. U kobiet brak rozwoju piersi jest istotniejszy niż owłosienie łonowe i pachowe, ponieważ adrenarche może wystąpić niezależnie od gonadarche.
+
+Pozostałe objawy są następujące: 
+nieprawidłowości układu kostnego (zrost palców, skrócony dalszy koniec kości śródręcza, asymetria twarzoczaszki);
+zaburzenia linii środkowej (rozszczep warg lub podniebienia, daltonizm, agenezja nerek, głuchota nerwowa);
+nieprawidłowa rotacja trzewi;
+wrodzona wada serca;
+objawy neurologiczne (ruchy mimowolne, niemożność płynnego śledzenia wzrokiem i dysfunkcja móżdżku).
+Zaburzenia związane z chromosomem X mogą być połączone z rybią łuską, upośledzeniem umysłowym, chorobą Conradiego i niskim wzrostem.
+
+Jeśli zespół Kallmanna zostaje zdiagnozowany powyżej 16. roku życia, występują często eunuchoidalne proporcje budowy ciała. Rozpiętość ramion może przewyższać wzrost o 6&nbsp;cm, a proporcja górnej do dolnej części ciała może być obniżona.
+
+Diagnoza
+Hipogonadyzm hipogonadotropowy stwierdza się u dorosłych na podstawie normalnego lub niskiego poziomu hormonu luteinizującego w surowicy (LH) oraz folikulotropiny (FSH) w obecności małego stężenia testosteronu u mężczyzn i estradiolu u kobiet. 
+
+U młodszych pacjentów oznaczenia te nie pozwalają rozróżnić niedoboru gonadotropiny od organicznego opóźnienia dojrzewania. Zróżnicowanie jest bardzo trudne. Dojrzewanie uważa się za opóźnione, jeśli nie rozpoczyna się w 14. roku życia u chłopców i 13. roku życia u dziewcząt. Nie istnieją żadne niezawodne testy pozwalające z całą pewnością rozróżnić te dwie jednostki chorobowe. Jedynym sposobem na rozróżnienie idiopatycznego hipogonadyzmu hipogonadotropowego (IHH) od opóźnionego dojrzewania jest długofalowa obserwacja.
+
+Po stwierdzeniu hipogonadyzmu hipogonadotropowego dodatni wywiad rodzinny i osłabiony węch lub inne podobne zaburzenia są silnym argumentem przemawiającym za diagnozą tego zespołu. IHH pozostaje diagnozą z wykluczenia. Testy czynności tarczycy u wszystkich pacjentów powinny obejmować oznaczenie TSH, wolnego T4 i prolaktyny. W razie potrzeby należy przeprowadzić test stymulacji wydzielania ACTH. Wskazane jest oznaczenie żelaza w surowicy, transferryny i ferrytyny, co pozwala wykluczyć hemochromatozę, jak również przeprowadzenie tomografii komputerowej lub rezonansu magnetycznego. Powinno się też zrobić próbę czułości powonienia, ponieważ pacjenci mogą nie być świadomi osłabienia zmysłu węchu.
+
+W diagnozie różnicowej występują przyczyny powszechne i rzadkie:
+powszechne: organiczne opóźnienie dojrzewania, idiopatyczny niedobór lub brak hormonów przysadkowych, guz podwzgórza, powikłania radioterapii, przewlekła choroba ogólnoustrojowa, niedożywienie, jadłowstręt psychiczny, bulimia, niedoczynność tarczycy, hiperprolaktynemia, choroba Cushinga, cukrzyca;
+rzadkie: uraz głowy, komplikacje po infekcji, wady rozwojowe naczyń, inne guzy przysadki i podwzgórza, histiocytoza X, wrodzony przerost nadnerczy i inne.
+
+Leczenie
+Mężczyźni:
+testosteronowa terapia zastępcza: enantat testosteronu lub cypionat testosteronu 50–100&nbsp;mg i.m.'' q 2 tygodnie (dawka początkowa), potem 200&nbsp;mg i.m.'' q 2 tygodnie (dawka dla dorosłego);
+prowokowanie spermatogenezy: spermatogenezę można wywołać u większości mężczyzn przez podawanie gonadotropiny lub pulsacyjne leczenie gonadoliberyną; klomifen jest nieskuteczny w przypadku IHH. U niektórych pacjentów osiągnięcie normalnego poziomu wytwarzania nasienia może wymagać co najmniej dwuletniej terapii.
+Kobiety:
+sterydowa terapia zastępcza: cykliczna estrogenowo-progestagenowa terapia zastępcza. Zmodyfikowany estrogen 0,3&nbsp;mg p.o.'' dziennie (dawka początkowa) lub zmodyfikowany estrogen 0,625-1,2&nbsp;mg p.o.'' dziennie, od 1 do 25 dnia, plus octan medroksyprogesteronu 10&nbsp;mg p.o.'' przez ostatnie 10-14 dni (aby sprowokować i utrzymać normalne miesiączkowanie);
+prowokowanie owulacji: owulację i płodność można uzyskać, podając gonadotropiny lub przez pulsacyjne leczenie gonadoliberyną.
+
+Rokowanie
+Zespół Kallmana daje dość dobre rokowania, jeśli chodzi o indukcję i zachowanie drugorzędnych cech płciowych, a uzyskanie płodności jest także możliwe w wielu przypadkach. Lepsze rokowania mają pacjenci o rozmiarze jąder > 2,5&nbsp;cm.
+
+
+
+Bibliografia
+Linki zewnętrzne

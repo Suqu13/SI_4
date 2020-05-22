@@ -1,0 +1,15 @@
+Motorola Flipout (MB511''') - smartfon firmy Motorola, zaprezentowany na początku czerwca 2010 roku. Ten nietypowy telefon zbudowany jest z dwóch segmentów połączonych ze sobą obrotowym zawiasem usytuowanym w prawym dolnym dogu urządzenia.
+Specyfikacje
+Telefon wyposażony jest w 2.8 calowy dotykowy ekran QVGA o rozdzielczości 240x320 pikseli po którego odsunięciu ukazuje się pięciorzędowa klawiatura QWERTY. Pod obudową urządzenia kryje się procesor ARM Cortex A8 o taktowaniu 720MHz, wydajna zintegrowana grafika PowerVR SGX530, oraz 512MB RAM. Telefon posiada aparat o rozdzielczości 3.1 megapiksela.
+Wszystkimi komponentami steruje system operacyjny Android 2.1 (niestety brak planów na aktualizacje).
+
+
+
+Zobacz też
+Motorola DEFY
+
+
+
+
+
+

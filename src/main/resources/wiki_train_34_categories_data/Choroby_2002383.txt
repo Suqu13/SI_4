@@ -1,0 +1,4 @@
+Peptyd PTH-podobny (PTHrP, ang. Parathyroid hormone-related protein) – peptyd o długości 135-173 aminokwasów wykazujący homologię do N-końcowego fragmentu parathormonu (PTH). Może być produkowany przez nowotwory sutka, płuc i nerek. Z powodu jego podobieństwa do PTH jest rozpoznawany przez receptory dla PTH powodując wzrost stężenia wapnia we krwi i wydalanie fosforanów z moczem. W sytuacji fizjologicznej stężenie parathormonu we krwi spada na skutek ujemnego sprzężenia zwrotnego powodując cofnięcie wspomnianych zmian. Jednak w przypadku pobudzenia receptorów przez PTHrP spada stężenie PTH a stężenie PTHrP nie ulega zmianie, gdyż peptyd ten jest produkowany przez nowotworowo zmienione komórki - co prowadzi do hiperkalcemii i hipofosfatemii.
+
+
+

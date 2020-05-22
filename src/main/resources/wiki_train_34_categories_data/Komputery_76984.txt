@@ -1,0 +1,67 @@
+
+Palmtop (także: PDA, Personal Digital Assistant, komputer kieszonkowy) – bardzo mały, przenośny komputer osobisty. Mniejszy od laptopa, czy też netbooka – z powodzeniem mieści się w dłoni lub w kieszeni (ang. palm – dłoń, top – na wierzchu). Palmtopy są komputerami programowalnymi – można w nich instalować oprogramowanie, np. pobrane lub zakupione w Internecie. Zostały w XXI wieku stopniowo wyparte przez smartfony i obecnie (2014 rok) nie są już produkowane.
+
+Palmtopy obsługuje się między innymi rysikiem, gdyż wyposażone są w ekran dotykowy. Większość z nich rozpoznaje pismo odręczne (lub zbliżone do niego znaki graffiti), a niektóre posiadają także wbudowaną miniaturową klawiaturę .
+
+Zastosowanie palmtopów jest bardzo szerokie. Mogą służyć zarówno w życiu prywatnym, jak i służbowym.
+Podstawowe funkcje: kalendarz, terminarz, kalkulator, notatnik (także notatki odręczne), książka adresowa.
+Dodatkowe funkcje: czytanie e-booków, przechowywanie/przeglądanie zdjęć oraz filmów, edycja tekstów, współpraca z urządzeniami GPS, wbudowany moduł GSM, dyktafon, wbudowany cyfrowy aparat fotograficzny oraz kamera, odtwarzanie muzyki (np. MP3), obsługa Internetu (WWW, e-mail, komunikatory internetowe, telnet, SSH), gry i wiele innych.
+
+Łączność z innymi urządzeniami zapewniają palmtopom: porty podczerwieni (IrDA), Bluetooth oraz Wi-Fi. Do synchronizacji z komputerem stacjonarnym (celem zabezpieczenia przed utratą danych) oraz do instalowania programów, najczęściej wykorzystywane jest łącze szeregowe (np. USB) lub Bluetooth.
+
+Najpopularniejsze palmtopy to urządzenia pracujące pod kontrolą systemów operacyjnych Windows Mobile (zwane Pocket PC), Palm OS i Nokia Internet Tablet OS. Coraz częściej można też spotkać MDA (Mobile Digital Assistant).
+
+Do zastosowań profesjonalnych produkowany jest sprzęt o zwiększonej odporności mechanicznej (jednym ze standardowych testów jest swobodny upadek z wysokości 1,5/1,8 m na betonowe podłoże). Są to urządzenia zdecydowanie droższe w zakupie, ale ich całkowity koszt eksploatacji (TCO) jest porównywalny ze sprzętem "domowym". Dodatkowo, producenci sprzętu profesjonalnego oferują pakiety serwisowe gwarantujące bardzo szybką naprawę (często wymianę na podstawie telefonicznego zgłoszenia awarii), a nawet wymianę urządzenia uszkodzonego mechanicznie.
+
+Producenci
+Główni producenci sprzętu dla systemu Microsoft Windows Mobile (w kolejności alfabetycznej):
+Acer
+ASUS
+Blaupunkt
+BlackBerry
+Compaq
+Dell
+ETEN
+Fujitsu Siemens Computers
+Hewlett-Packard
+HTC
+Mitac MIO
+Nokia
+Samsung
+TomTom
+
+Główni producenci sprzętu dla systemu Palm OS:
+Palm, Inc. (dawniej przejściowo zwany "palmOne")
+Sony – urządzenia Sony Clié
+Handspring – do 2004 r. (wchłonięty przez palmOne)
+Tapwave
+
+Historia palmtopa
+
+Pierwszym urządzeniem mogącym przypominać dzisiejsze palmtopy był Psion Organizer, który powstał w 1984 r. Wyglądem i funkcjonalnością przypominał rozbudowany kalkulator. W 1989 r. powstały dwa urządzenia: Atari Portfolio oraz Poqet&nbsp;PC
+''(nie mający nic wspólnego z urządzeniami Pocket PC pracującymi pod kontrolą systemu Windows Mobile)''.
+
+Portfolio był rozmiarów kasety wideo. Posiadał 63 klawisze oraz ekran o rozdzielczości 240x60 pikseli, co dawało w trybie tekstowym 40x8 znaków tekstu. Pracował pod systemem DIP-DOS 2.11. Posiadał procesor 80C88 pracujący z częstotliwością 4,91 MHz. Miał 128 KB pamięci RAM rozszerzalnej do 1 MB oraz 256 KB ROM, na której znajdowały się: edytor tekstów, arkusz kalkulacyjny, alarm, schowek na dane, książka adresowa.
+
+Bardziej zaawansowanym palmtopem w porównaniu do Atari Portfolio był Poqet PC, który miał prawie 2 razy szybszy procesor, 640 KB pamięci i ekran o rozdzielczości 640x200 pikseli. Pracował pod DOS-em w wersji 3.3. Dzięki złączu PCMCIA możliwe było rozszerzenie pamięci oraz podłączenie modemu czy karty sieciowej. Zarówno Atari Portfolio jak i Poqet PC był kompatybilny z IBM PC.
+
+W 1991 firma HP wydała model 95LX. Rozdzielczość ekranu to 128x240, a liczba znaków to 16x40. Mimo upływu lat procesor był słabszy od Poqet PC. Był taktowany z częstotliwością 5.37 MHz. Dane standardowo były przechowywane w 512 Kb lecz było możliwe dołączanie kart rozszerzających o pojemnościach 1 MB, 2 MB a nawet na 4 MB. Takie rozwiązanie nie było zbyt dobre ponieważ pod odłączeniu kart zawartość na nich była kasowana. HP95 LX posiadał port podczerwieni, dzięki czemu mógł pracować jako pilot do telewizora.
+
+W tym samym roku Psion wydał palmtop z serii 3. Sercem był procesor Nec V30 4.7 MHz, co nie było rewolucyjnym rozwiązaniem. Zasilały go dwie baterie AAA lub bateria litowa. Rozdzielczość ekranu to 240x80. Bardzo ważnym rozwiązaniem było zainstalowanie systemu EPOC, który wyewoluował w Symbiana, stosowanego w telefonach komórkowych.
+
+W roku 1993 firma Apple wydała palmtop o nazwie Newton Original MessagePad (OMP), a następnie Message Pad 100. Cechował go szybki jak na tamte czasy procesor ARM 610 o częstotliwości taktowania 20 MHz. Posiadał 4 MB pamięci ROM oraz 640 KB RAMU. Urządzenie posiadało port PCMCIA. W przeciwieństwie do innych urządzeń tego typu nie posiadał klawiatury. Tekst pisało się na ekranie, a następnie program rozpoznający tekst wprowadzał go do pamięci. Nie było to dobre rozwiązanie ponieważ MessagePad M100 rozpoznawał tylko angielskie słowa. Słownik mieścił 13000 słów, a użytkownik mógł dodać jeszcze 1000 własnych. Aplikacje wybierało się klikając na ikonę. Urządzenie było wyposażone w port podczerwieni oraz port szeregowy, co umożliwiało komunikację z komputerami kompatybilnymi z IBM PC.
+W tym samym roku pierwsze polskie firmy z branży FCMG zaczęły korzystać z urządzeń mobilnych do wspomagania prowadzenia sprzedaży – na przykład przy pomocy terminala Symbol  (ekran znakowy, system operacyjny DR-DOS).
+
+Rok 1996 przyniósł PalmPilota 1000 wyprodukowanego przez firmę US Robotics. Wyposażony był w procesor DragonBall firmy Motorola z częstotliwością taktowania zaledwie 16 MHz. Ten palmtop posiadał 128 KB pamięci RAM i wyświetlacz o rozdzielczości 160x160, co też nie było imponujące. Pracował pod systemem Palm OS 1.0. To oprogramowanie było bardzo funkcjonalne i do dnia dzisiejszego jest modernizowane.
+
+Odpowiednikiem Palm OS napisanym przez Microsoft był Windows CE. Prace nad tym systemem zapoczątkowano w roku 1992, jednak urządzenia nie były w stanie zapewnić płynnej pracy programów. Postanowiono prace nad projektem powierzyć grupie Pegasus co zaowocowało w roku 1996 podpisaniem przez firmy Casio, HP, LG, NEC i Philips umowy, która umożliwiała zastosowanie systemu Windows CE w palmtopach tych firm.
+
+W roku 1997 jako jeden z pierwszych z systemem Microsoftu powstał komputer naręczny firmy HP o symbolu 300LX. Napędzał go procesor SH3 44 MHz. Posiadał on 2MB RAM i 5 MB ROM, który był uaktualniany. Urządzenie posiadało wyświetlacz o rozdzielczości 640x240, dotykowy ekran klawiaturę i głośnik. Oprogramowanie zawierało takie aplikacje jak: Pocket Word, Pocket Excel, Pocket Inbox, Pocket Internet Explorer.
+
+W roku 1999 firma HP wypuściła na rynek model Jornada 420. Ten palmtop posiadał kolorowy wyświetlacz, co było przełomowym rozwiązaniem.
+
+Zobacz też
+Laptop
+Osaris
+
+Linki zewnętrzne

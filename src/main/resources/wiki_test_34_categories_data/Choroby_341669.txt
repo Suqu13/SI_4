@@ -1,0 +1,47 @@
+Panleukopenia kotów (łac. Panleucopenia infectiosa felinum). Znana również jako: zakaźne zapalenie jelit kotów, tyfus koci, nosówka kotów (ang. Feline distemper), agranulocytoza.
+
+Jest to zakaźna, wysoce zaraźliwa, wirusowa choroba wszystkich kotowatych. Przebiega z objawami zapalenia układu pokarmowego, wraz z towarzyszącą leukopenią. Choroba występuje na całym świecie.
+
+Etiologia
+Przyczyną jest wirus panleukopenii kotów (ang. feline panleukopenia virus – FPV). Jest on blisko spokrewniony z parwowirusem psów typ 2 (CPV-2). Wirus jest oporny na warunki środowiska zewnętrznego i większość środków dezynfekcyjnych. Najbardziej wrażliwe na zachorowanie są młode zwierzęta między 2 a 5 miesiącem życia, u których spadł poziom przeciwciał matczynych.
+
+Źródła i drogi zakażenia
+Źródłami zakażenia są wydzieliny i wydaliny chorych zwierząt (głównie kał, ślina, wymiociny). Zakażenie następuje najczęściej drogą pokarmową wirusem obecnym w środowisku (miski, kuwety, legowiska) oraz przez kontakt bezpośredni. Możliwe jest przeniesienie zakażenia przez owady (pchły, wszy itp.).
+
+Patogeneza
+W pierwszym rzędzie wirus namnaża się w tkance limfoidalnej okolicy gardła. Po kilku dniach od zakażenia następuje wiremia, tą drogą zarazek przedostaje się do węzłów chłonnych, śledziony, grasicy, szpiku kostnego i krypt jelitowych. U ciężarnych kotek wirus przenika do komórek płodu i łożyska. Zaatakowanie komórek układu limfatycznego i szpiku skutkuje znaczną immunosupresją, co w konsekwencji daje powikłania w postaci wtórnych infekcji.
+
+Objawy
+Okres wylęgania choroby wynosi zwykle od 4 – 10 dni. Dominujące objawy to: gorączka, depresja, biegunka (czasem z domieszką krwi), wymioty, odwodnienie, znaczna bolesność brzucha, wychudzenie. W obrazie krwi obserwujemy spadek ilości krwinek białych – leukopenia (panleukopenia, agranulocytoza). U młodych zwierząt może wystąpić nadostry przebieg choroby – śmierć następuje nagle, bez pojawienia się objawów. W przebiegu ostrym padnięcia następują najczęściej w 3 – 5 dniu choroby.
+
+Współczynnik umieralności jest wysoki i bez podtrzymującej terapii może wynosić nawet do 75%. Śmiertelność nieszczepionych kociąt wynosi nawet do 90%.
+Zwierzęta starsze, powyżej kilku miesięcy życia, chorują łagodniej, a śmiertelność jest dużo niższa.
+
+Wirus FPV może przekroczyć łożysko, rezultatem czego może być resorpcja płodów, ronienia, wczesna śmierć noworodków, niedorozwój móżdżku potomstwa. Rzadko stan kociąt zaczyna się pogarszać dopiero w 2 – 3 tygodniu po porodzie, kiedy to zaczyna się u nich rozwijać brak koordynacji i ataksja.
+
+Zmiany anatomopatologiczne
+Głównie obserwujemy: obraz nieżytowego zapalenia jelit cienkich wraz z nalotem włóknika (czasem zapalenie dyfteroidalno-martwicowe). Obrzęk nerek i wątroby. Krew w naczyniach nieskrzepła, ciemna. Żołądek pusty.
+
+Rozpoznawanie
+Objawy kliniczne uzupełnione badaniem obrazu krwi pozwalają z reguły na postawienie podejrzenia panleukopenii. Wirus można wykryć m.in. metodą immunofluorescencji lub testem ELISA.
+
+Rozpoznanie różnicowe
+W rozpoznaniu różnicowym należy uwzględnić m.in.: bakteryjne zapalenia jelit, zatrucia, obecność ciała obcego w przewodzie pokarmowym.
+
+Leczenie
+Podaje się antybiotyki aby zapobiec wtórnym nadkażeniom bakteryjnym. W ciężkich stanach kluczową rolę odgrywa niwelowanie skutków odwodnienia i zaburzeń elektrolitowych poprzez intensywne wlewy dożylne. Stosuje się środki przeciwbólowe, hamujące wymioty i biegunkę. Witaminy z grupy B i witaminę C. W dłużej przebiegającej chorobie konieczne jest odżywianie pozajelitowe. Można stosować leki stymulujące odporność. W okresie rekonwalescencji bardzo ważna jest odpowiednia dieta. Stosowanie surowicy w momencie rozwiniętego, objawowego zakażenia jest dyskusyjne.
+
+Zapobieganie
+Skuteczną metodą zapobiegania panleukopeni kotów jest szczepienie. Należy szczepić koty klinicznie zdrowe i odrobaczone. Szczepienia kociąt należy zacząć jak najwcześniej, zgodnie z zaleceniami lekarza weterynarii.
+
+Wirus może przeżyć w temperaturze pokojowej nawet do roku i jest oporny na zamrażanie. Wszystkie przedmioty i powierzchnie, z którymi mógł mieć kontakt chory kot lub jego wydaliny, powinny zostać dokładnie odkażone (preparat Virkon). Z domowych środków można zastosować Domestos, ale musi on działać przez minimum 1 godzinę. Każdy, nawet dorosły kot przed wprowadzeniem do miejsca potencjalnie zagrożonego, powinien być zaszczepiony na 2 tygodnie przed tym zdarzeniem.
+
+Odporność
+Zakażenie FPV indukuje miejscową jak i ogólną odpowiedź immunologiczną. Długotrwałą odporność po przebytej infekcji warunkuje obecność przeciwciał w surowicy, których wysoki poziom w surowicy utrzymuje się jeszcze przez kilka lat. Kocięta, które przechorowały panleukopenię są odporne na ponowne zakażenie prawdopodobnie do końca życia.
+
+
+
+
+
+
+

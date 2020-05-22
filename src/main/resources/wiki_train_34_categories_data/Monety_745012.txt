@@ -1,0 +1,49 @@
+
+Rzut monetą – popularna metoda rozstrzygania sporów lub wyboru jednej z dwóch możliwości za pomocą monety. Polega na przypisaniu możliwości do dwóch stron monety (orła i reszki) i rzuceniu monety w powietrze. Gdy moneta spadnie, wybierana jest możliwość przypisana do strony która jest widoczna na górze.
+
+Metoda ta zapewnia, że wybór jest całkowicie przypadkowy i nie zależy od żadnych wcześniejszych zdarzeń. Jednocześnie każda próba wpłynięcia na szanse poszczególnych wyników (jak np. używanie monety której obie strony są identyczne) jest traktowana jako oszukiwanie. Zwykle można zakładać że przewidzenie wyniku jest całkowicie niemożliwe, i oba wyniki mają identyczne prawdopodobieństwa.
+
+Historia
+Historycznie zdarzenia o całkowicie losowym charakterze były przedstawiane jako przejawy boskiej woli. Przykładowo w Księdze Jonasza w Biblii, prorok Jonasz został wskazany przez losowanie jako przyczyna burzy grożącej statkowi. W ten sposób Bóg skierował go do zadań które miał wypełnić.
+
+Rzucanie monetą jako gra było znane w Starożytnym Rzymie jako "navia aut caput" ("statek albo głowa") - używane monety miały statek na jednej stronie i głowę cesarza po drugiej. W Starożytnej Grecji grano w grę o nazwie Ostrakinda, polegającą na rzucaniu muszlą której jedna strona została zaczerniona (przeciwnik miał zgadnąć na którą stronę muszla upadnie). W Anglii przez stulecia grano w "cross and pile" ("krzyż i spód"), posługując się ręcznie bitymi monetami mającymi krzyż na wierzchniej stronie.
+
+Rzut monetą w sporcie
+Rzucanie monetą jest oficjalną metodą rozstrzygania, która strona rozpoczyna mecz w piłce nożnej, futbolu amerykańskim i wielu podobnych dyscyplinach. W rozgrywkach NFL drużyna, która wygra rzut monetą wybiera albo rozpoczęcie meczu, albo wybór strony z której zaczyna, przegrywająca drużyna dostaje drugi z tych wyborów. Rzut monetą jest również ostatecznym rozstrzygnięciem, gdy wszystkie standardowe metody rozstrzygania remisu zawiodą.
+
+Najbardziej spektakularny wpływ rzutu monetą na rozgrywki międzynarodowe miał miejsce w czasie Mistrzostw Europy w Piłce Nożnej w 1968, gdy półfinał pomiędzy Włochami a ZSRR zakończył się po dogrywce remisem 0-0 i o awansie do finału zadecydował rzut monetą (wskazujący na Włochy, które ostatecznie wygrały również finał).
+
+Rzut monetą rozstrzygnął także tytuł Indywidualnego Mistrza Świata Juniorów na Żużlu w 2005. Zawody przerwano po 12 biegach z powodu mocnych opadów deszczu. Wtedy to, po trzech seriach, Polak Krzysztof Kasprzak i Czech Tomáš Suchánek mieli po 8 punktów (dwie "trójki" i po jednej "dwójce"), jednak do bezpośredniej rywalizacji pomiędzy tymi zawodnikami miało dojść w 16 biegu. Sędzia zaproponował bieg dodatkowy, jednak Suchánek - z uwagi na złe warunki na torze - odmówił. Sędzia zatem zarządził rzut monetą, który okazał się szczęśliwy dla Polaka.
+
+Sprawiedliwy wynik z oszukanej monety
+Jeśli nie mamy pewności, czy moneta, której używamy, jest sprawiedliwa (czy prawdopodobieństwo orła jest takie samo jak reszki), istnieje zaskakująco prosta metoda na uzyskanie sprawiedliwego wyniku. Wygląda ona następująco:
+
+Rzucamy dwukrotnie monetą
+Jeśli wypadło dwa razy to samo, zaczynamy od początku, zapominając o tych rzutach
+Jeśli wypadły dwa różne wyniki, używamy pierwszego z nich, zapominając o drugim
+
+Łatwo obliczyć że uzyskanie pary orzeł-reszka jest zawsze równie prawdopodobne jak uzyskanie pary reszka-orzeł, gdyż moneta nie zmienia swoich prawdopodobieństw pomiędzy rzutami. Należy jednak pamiętać że ta metoda wymaga rzucania zawsze parami – użycie części jednej pary i części drugiej zniszczy uzyskaną sprawiedliwość.
+
+Fizyka rzutu monetą
+Analizy teoretyczne i eksperymentalne pokazały, że wynik rzutu monetą jest możliwy do przewidzenia, jeśli wystarczająco dokładnie znane są warunki początkowe (położenie, prędkość i moment obrotowy). Monety rzucane przez robota z dużym prawdopodobieństwem lądują w wybrany wcześniej sposób – co oznacza że chaotyczność samego procesu jest niewielka.
+
+Praktyczność rzutu monetą wynika z faktu że mięśnie człowieka nie potrafią powtarzać czynności dokładnie z tą samą siłą. Niektórzy zawodowi prestidigitatorzy i szulerzy potrafią jednak rzucać monetą tak aby wykonała ona z góry założoną przez nich liczbę obrotów – w sposób nieodróżnialny od zwykłego losowego rzutu. Również łapanie monety przed pokazaniem daje rzucającemu możliwość rozpoznania (np. opuszkiem palca) charakterystycznych wypukłości na monecie i ewentualne obrócenie jej przed pokazaniem.
+
+Rzut monetą przez telefon
+Rzutu monetą nie da się zastosować w sytuacji gdy spór toczy się pomiędzy osobami w dużej odległości. Ta strona która faktycznie ma przy sobie monetę może skłamać co do wyniku rzutu. Okazuje się jednak że istnieje kryptograficzny algorytm umożliwiający uzyskanie tego samego. Wygląda on następująco:
+
+Strona A wybiera dwie duże liczby pierwsze p i q, albo obie przystające do 1 albo obie przystające do 3 modulo 4 (do znalezienia dużych liczb pierwszych można użyć np. testu Millera-Rabina ).
+Strona A przekazuje stronie B wynik mnożenia tych dwóch liczb: N = pq, zachowując p i q w tajemnicy. Łatwo obliczyć że N zawsze będzie przystawało do 1 modulo 4. Wybrane liczby muszą być na tyle duże, żeby faktoryzacja N była niewykonalna dla strony B w czasie przeznaczonym na wykonanie następnego kroku.
+Strona B wybiera wynik: "1" albo "3", określając do jakiej liczby przystają p i q modulo 4. 
+Strona A ogłasza wartości p i q, i czy B odgadła prawidłowo. Strona B może łatwo sprawdzić czy to są prawidłowe liczby sprawdzając czy są pierwsze i mnożąc je przez siebie (jeśli są pierwsze, to N nie ma innych rozkładów na czynniki).
+
+
+
+Zobacz też
+Loteria
+Paradoks hazardzisty
+Kości do gry
+
+
+
+

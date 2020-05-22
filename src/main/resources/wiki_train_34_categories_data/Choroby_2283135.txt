@@ -1,0 +1,34 @@
+Acyduria orotowa, orotoacyduria – genetycznie uwarunkowana choroba o dziedziczeniu autosomalnym recesywnym. Związana jest z występowaniem bloku w przemianie pirymidyn, gromadzeniem kwasu orotowego i wzrostem jego stężenia w moczu.
+
+Wyróżnia się dwa typy acydurii orotowej:
+typ I - uszkodzenie fosforybozylotransferazy orotowej oraz dekarboksylazy orotydylanowej (orotydyno-5-fosforanowej)
+typ II - uszkodzenie dekarboksylazy orotydylanowej (orotydyno-5-fosforanowej)
+polekowa - spowodowana ubocznym działaniem neuroleptyków oraz leków psychotropowych
+towarzysząca zespołowi Reye'a - jako zjawisko wtórne, wynikające z niezdolności uszkodzonych mitochondriów do spożytkowania karbamoilofosforanu, który staję się wówczas substratem do nadmiernego cytoplazmatycznego wytwarzania kwasu orotowego
+
+Mechanizm patogenezy
+Następuje blok jednego lub dwóch enzymów:
+Na poziomie fosforybozylotransferazy orotanowej: katalizuje przejście OA (kwas orotowy) → OMP (orotydynomonofosforan)
+Na poziomie dekarboksylazy orotydyno-5-fosforanowej: katalizuje przejście OMP → UMP (urydynomonofosforan)
+
+Zaburzenia kliniczne spowodowane są przede wszystkim niedostateczną syntezą pirymidyn, zaburzoną równowagą stosunku puryny-pirymidyny, a w konsekwencji deficyt kwasów nukleinowych. Przejawia się to głównie w zaburzeniach dojrzewania układu erytroblastycznego, dysfunkcjach immunologicznych. Poza tym zachodzi kumulacja niewykorzystywanych produktów pośrednich, nierzadko których właściwości toksycznie powodują uszkodzenie OUN.
+
+Objawy kliniczne i diagnostyka
+Pierwsze objawy kliniczne acydurii orotowej pojawiają się u dzieci w wieku 3–7 miesięcy. 
+Są to przede wszystkim:
+kamica orotowa w typie I
+orotoacyduria - wzrost stężenia kwasu orotowego w moczu oraz nadmierne wydalanie kwasu karboksyasparaginowego i dihydroorotowego,
+anemia megaloblastyczna (bladość, senność i apatia),
+leukocytoza z monocytozą,
+szpik kostny bogatokomórkowy, megaloblastyczny,
+biegunki,
+defekty immunologiczne (podatność na zakażenia układu oddechowego),
+zaburzenia wzrastania włosów i paznokci,
+zaburzenia drożności dróg moczowych,
+zahamowanie wzrostu i zaburzenia ze strony OUN - upośledzenie umysłowe.
+
+Leczenie
+Leczenie acydurii orotowej polega na podawaniu urydyny, z której mogą powstawać pozostałe pirymidyny, a jednocześnie zostaje zahamowana synteza toksycznych związków pośrednich szlaku biosyntezy pirymidyn. Następuje remisja choroby, obraz hematologiczny oraz stan kliniczny chorego ulegają poprawie.
+Jednocześnie suplementuje się preparaty krwiotwórcze.
+
+Bibliografia

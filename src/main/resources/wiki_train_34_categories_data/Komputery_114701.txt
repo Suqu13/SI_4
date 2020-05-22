@@ -1,0 +1,13 @@
+
+ 
+
+
+Cray T3D był pierwszym superkomputerem firmy Cray Research zbudowanym zgodnie z koncepcją masowego przetwarzania równoległego (MPP). Serwer został wprowadzony do sprzedaży w 1993 roku.
+
+Opis
+Cray T3D MC 256 składał się z 256 "Elementów Przetwarzających" (ang. Processing Elements - PE), z których każdy zawierał 150 MHz procesor Alpha (21064) oraz od 8 do 64 MB pamięci lokalnej. PE połączone były ze sobą poprzez trójwymiarową sieć połączeniową, przez co system mógł być rozbudowywany aż do 2048 procesorów. System Cray T3D musiał pracować wyłącznie razem z Cray Y-MP lub Cray C90.
+
+Historia
+Następcą Cray T3D został w pełni samodzielny Cray T3E.
+
+

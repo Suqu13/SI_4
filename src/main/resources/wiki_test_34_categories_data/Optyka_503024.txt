@@ -1,0 +1,10 @@
+YIQ – obok YUV jest jednym z modeli przestrzeni kolorów dla sygnału telewizyjnego. Na kontynencie amerykańskim (USA, Kanada), w Azji południowo-wschodniej (Japonia) jest rozpowszechniony system nadawania telewizji kolorowej nazywany NTSC. Model opisu kolorów w tym systemie nazywany jest YIQ.
+
+Model YIQ, system NTSC:
+    Y=0.299*R+0.587*G+0.114*B
+    I=0.74*(R-Y)-0.27*(B-Y)
+    Q=0.48*(R-Y)+0.41*(B-Y)
+
+Składowa Y określana jest jako luminancja, tak praktycznie w danej chwili dla obrazu w pełni wielokolorowego wyznacza miejsce, gdzieś pomiędzy jakimś minimum, a maksimum. Wyznaczenie R, G oraz B i indywidualne ich użycie obniża lub podwyższa indywidualnie emisję dla odpowiednich trzech barw w kineskopie.
+
+Linki zewnętrzne

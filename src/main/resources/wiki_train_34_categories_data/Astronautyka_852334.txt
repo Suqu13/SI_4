@@ -1,0 +1,18 @@
+ADATS (ang. Air Defense Anti Tank System) – uniwersalny system rakietowy opracowany przez międzynarodowe konsorcjum w skład którego weszły firmy z Szwajcarii, USA, Kanady i Włoch. System w zależności od sytuacji może zwalczać cele powietrzne lub opancerzone. Obecnie znajduje się na wyposażeniu armii Kanady i Tajlandii.
+Historia
+W celu opracowania nowego uniwersalnego systemu rakietowego pod koniec lat 70. powołano międzynarodowe konsorcjum. Główną jego część tworzyły firmy Oerlikon ze Szwajcarii i Martin-Marietta z USA. Prace nad systemem były prowadzone pod kątem zapotrzebowania, które zgłosiło w tym czasie US Army na kompleksowy system ochrony wojsk lądowych przed zagrożeniami ze strony lotnictwa i wojsk pancernych nieprzyjaciela. W armii amerykańskiej zestawy ADATS miały zastąpić przestarzałe samobieżne systemy obrony przeciwlotniczej Chaparral i Vulcan.
+
+Prace nad systemem rozpoczęły się w 1981 na poligonie w Nowym Meksyku. Podczas testów zestrzelono przy pomocy nowych rakiet dwa przerobione na samoloty cele F-86 Sabre. Z powodzeniem dokonano także strzelań do celów naziemnych w tym do czołgów M47. Próby systemu trwały do 1984, a decyzja o podjęciu seryjnej produkcji miała zapaść w ciągu kilku lat.
+Pomimo pozytywnych wyników testów z uwagi na koniec zimnej wojny zamówienie ze strony US Army zostało anulowane, a jedynymi odbiorcami broni okazały się armie Kanady i Tajlandii.
+
+Opis systemu
+System dowodzenia ADATS może jednocześnie i w czasie rzeczywistym koordynować prowadzenie ognia przez sześć zestawów (obejmuje to: analizowanie danych, rozpoznawanie i priorytetyzację celów, kontrolę ognia; maksymalna liczba jednocześnie zwalczanych przez 6 kooperujących wyrzutni celów to 48), oddalonych jeden od drugiego o 20 kilometrów, a rolę pojazdu dowodzenia pełnić może którykolwiek zestaw rakietowy. Komunikacja między zestawami odbywać się może poprzez kabel, jak i falami radiowymi (ponad 2000 dostępnych częstotliwości) - obiema tymi drogami można dokonywać pełnej wzajemnej wymiany danych.
+Pocisk systemu ADATS może przechwytywać każdy typ celów powietrznych na niskim pułapie. Zasięg pocisku wynosi 10 km, sterowany jest metodą podążania wzdłuż wiązki laserowej, osiąga prędkość Mach 3+ i wytrzymuje przeciążenia do 60g.
+Detonacja 12-kilogramowej głowicy następuje za pośrednictwem laserowego zapalnika zbliżeniowego. Zdolność penetracyjna na testach sięgała 900 mm pancerza jednorodnego.
+Elektrooptyczne układy śledzenia celów i kierowania ogniem zestawu ADATS są dziełem firmy Lockeed Martin i mają wiele wspólnego z układami wykorzystywanymi w śmigłowcu Apache. Uzupełnione są układami śledzenia w podczerwieni, laserem na dwutlenek węgla służącym do sterowania pociskiem i dalmierzem laserowym.
+Pulsacyjny radar dopplerowski systemu ADATS o zasięgu 25 km i pułapie maksymalnym 8600 m zapewnia każdemu zestawowi pełną autonomiczność, a współpracujące z nim systemy pozwalają na namierzanie celów także dla innych zestawów. Śledzonych może być jednocześnie 20 obiektów, tak podczas ruchu pojazdu bazowego, jak i w spoczynku.Od wstępnego wykrycia celu do odpalenia pocisku mija niespełna 5 sekund. Wykryciu celu, rozpoczyna się śledzenie go, tak przez radar, jak i w widmie podczerwieni oraz przed systemy telewizyjne (w przypadku zwalczania celów lądowych nie jest używany radar). Następnie następuje identyfikacja celu i decyzja o otwarciu ognia. Cel zostaje oświetlony laserowym promieniem sterującym, po czym następuje odpalenie pocisku. Po 2 sekundach zestaw gotów jest do odpalenia kolejnego pocisku.
+
+
+
+
+

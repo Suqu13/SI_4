@@ -1,0 +1,13 @@
+Koszty przeciętne to inaczej koszty jednostkowe - powstają w wyniku podzielenia odpowiednich kosztów przez wielkość produkcji (liczbę jednostek). Wyróżniamy: przeciętny koszt całkowity, przeciętny koszt stały i przeciętny koszt zmienny).
+
+Przykładowo, przeciętny koszt całkowity obliczamy, dzieląc koszt całkowity przez liczbę wyprodukowanych jednostek:
+
+
+
+
+gdzie ATC - przeciętny koszt całkowity, TC - koszt całkowity, Q - wielkość produkcji.
+
+Zobacz też
+Optimum techniczne
+
+

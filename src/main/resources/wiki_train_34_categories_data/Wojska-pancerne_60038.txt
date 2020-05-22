@@ -1,0 +1,104 @@
+T-55''' – radziecki czołg podstawowy I generacji.
+
+Historia
+Czołg powstał przez modernizację czołgu T-54. Produkowany w latach 1958-1981. Głównym uzbrojeniem czołgu jest armata D-10T kal. 100 mm stabilizowana w dwóch płaszczyznach. Produkowany w ZSRR, a także na licencji w Czechosłowacji i Polsce.  Czołg T-55 był ówcześnie jedną z najlepszych konstrukcji w swojej klasie. W latach 80. XX wieku był wykorzystywany przez siły zbrojne 38 państw. Wycofany z polskiej armii w 2002 r. Czołg T-55 produkowany był również w Chinach przez firmę Norinco pod nazwą Typ 59. Liczba wszystkich wyprodukowanych na świecie czołgów T-54/T-55 przekracza 95 000 egzemplarzy i przewyższa liczbę wszystkich czołgów innych typów wyprodukowanych na świecie po II wojnie światowej (stan na dzień 20.05.2004 r.).
+
+Wersje podstawowe
+T-55''' – produkowana w latach 1958-1962
+T-55A – produkowana w latach 1963-77, w Polsce 1968-81
+T-55K,T-55AK, T-55MK – wersje dowódcze
+
+Modernizacje
+T-55M, T-55AM – dodany system kierowania ognia Volna, stabilizacja działa, silnik V-55U, zwiększone opancerzenie,
+T-55M-1'''/T-55AM-1''' – wersja z silnikiem V-46 od T-72
+T-55AD/T-55AMD/T-55AD1'''/T-55AMD1''' – wersja z systemem obrony aktywnej Drozd
+T-55MV/T-55AMV/T-55MV-1'''/T-55AMV-1''' – wersja z pancerzem reaktywnym
+T-55AM2'''
+T-55AM2PB – wersja dla armii NRD
+T-55M5''' – wersja z pancerzem reaktywnym, nowy system kontroli ognia i system stabilizacji ognia
+T-55M6''' – wersja M5 z dodatkowymi kołami w podwoziu, nową wieżą i automatycznym systemem ładowania.
+Safir-74'''/T-72Z – modernizacja irańska, SKO Fotona, armata 105 mm M68/L7, pancerz reaktywny, silnik o mocy 780 KM.
+
+Produkcja w Polsce
+Licencję czołgu T-55 zakupiono w 1964 r. Jego produkcję podjęły Zakłady Mechaniczne Bumar-Łabędy w miejsce wcześniej produkowanych czołgów T-54. W 1968 r. podjęto produkcję nowego modelu T-55A, a następnie jego wersji dowódczej T-55AD. Produkcja czołgu kontynuowana była do 1981 r. Ogółem wyprodukowano ok. 5000 pojazdów wszystkich wersji. Podwozie czołgu T-55 wykorzystano do opracowania wozu zabezpieczenia technicznego WZT-2 oraz mostu towarzyszącego BLG-67.
+
+Czołgi T-55 produkowane były nie tylko na potrzeby armii polskiej. Znaczna ich część przeznaczona była na eksport i to nie tylko do państw Układu Warszawskiego ale także do państw zaprzyjaźnionych, zwłaszcza z Bliskiego Wschodu. Produkowane w Polsce pojazdy cieszyły się bardzo dobrą opinią i były wyżej oceniane od czołgów tego samego typu produkowanych w ZSRR. W latach siedemdziesiątych czołgi te były polskim hitem eksportowym.
+
+Czołgi T-55 eksploatowane w Wojsku Polskim w połowie lat 70. zmodernizowano do wersji T-55M, zbliżonej standardem do czołgu T-55A.
+
+W połowie lat 80. XX w. część czołgów T-55A (560 szt.) zmodernizowano do typu T-55AM "Merida"'''''
+
+
+Wersje produkowane w Polsce
+T-55''' – produkowana w latach 1964-1968
+T-55A – produkowana w latach 1968-1981
+T-55M - unifikacja T-55 do standardu T-55A
+T-55U - unifikacja T-54 do standardu T-55A. Występowała także pod wcześniejszą nazwą T-54AM2'''
+T-55AD1''' - czołg dowódczy  
+T-55AD2''' - czołg dowódczy
+T-55AM - czołg z systemem kierowania ogniem Merida
+T-55AD1M - czołg dowódczy z systemem kierowania ogniem Merida
+T-55AD2M - czołg dowódczy z systemem kierowania ogniem Merida
+T-55AMS - czołg saperski z systemem kierowania ogniem Merida
+
+Pojazdy wsparcia na podwoziu T-55 produkowane w Polsce
+BLG-67P/BLG-67M/BLG-67M2'''/BLG-67MP - most towarzyszący
+WZT-1'''/WZT-2''' - wóz zabezpieczenia technicznego
+KLON - czołg saperski (seria prototypowa)
+
+Opis konstrukcji T-55A
+Czołg T-55, podobnie jak T-54, miał klasyczny układ konstrukcyjny. Kadłub wykonano z walcowanych płyt pancernych o maksymalnej grubości 99 mm. Wieża w kształcie półsferycznym składała się z elementów odlewanych o grubości do 203 mm i stropu z blach pancernych. Wnętrze kadłuba i wieży wyłożone było wykładziną antyradiacyjną ograniczająca promieniowanie przenikliwe. Pojazd podzielony był na trzy przedziały: kierowania, bojowy i napędowy.
+
+W przedziale kierowania znajdowało się stanowisko mechanika-kierowcy (po lewej stronie) oraz zbiornik paliwa i część amunicji do armaty (po prawej stronie). Środkową część wozu, przykrytą obrotową wieżą, stanowił przedział bojowy. Znajdowały się tu stanowiska dowódcy czołgu i działonowego (z lewej strony) oraz ładowniczego (z prawej). W wieży zamontowane było uzbrojenie, przyrządy obserwacyjne i celownicze oraz środki łączności zewnętrznej i wewnętrznej.
+
+W przedziale napędowym, zajmującym tylną część czołgu, umieszczono silnik  wysokoprężny i układ przeniesienia mocy złożony z: przekładni pośredniej, wielotarczowego sprzęgła głównego, skrzyni biegów o 5 przełożeniach do jazdy w przód i jednym w tył, dwóch mechanizmów skrętu i dwóch przekładni bocznych. Sterowanie mechanizmami skrętu za pomocą układu kierowania z wspomaganiem hydraulicznym typu HD-45. Układ bieżny składał się z dziesięciu podwójnych kół nośnych zawieszonych niezależnie na wahaczach i wałkach skrętnych, dwóch kół napinających z przodu i dwóch kół napędzających z tyłu. Gąsienice metalowe złożone z 90 ogniw każda.
+
+Zasadnicze uzbrojenie obejmowało: 100 mm armatę sprzężoną z 7,62 mm karabinem maszynowym, stabilizowane w płaszczyźnie pionowej i poziomej, umieszczone w wieży oraz przeciwlotniczego 12,7 mm wielkokalibrowego karabinu maszynowego zamocowanego na stropie wieży (przy włazie ładowniczego). Czołg posiadał dzienny celownik przegubowy typu TSz-2B-32P o powiększeniu 3,5x i 7x oraz nocny celownik peryskopowy typu TPN-1-22-11 o powiększeniu 5,5x. Dowódca czołgu dysponował przyrządem obserwacyjnym TPKU-2B i czterema peryskopami. W nocy, w miejsce przyrządu TPKU-2B montowano aktywny noktowizor TKN-1. Działonowy i ładowniczy mieli do dyspozycji po jednym peryskopie, a mechanik-kierowca dwa peryskopy oraz noktowizor TWN-2 do jazdy w nocy. Środki łączności stanowiła radiostacja typu R-123 o zasięgu do 20 km i czołgowy telefon wewnętrzny typu R-124. Czołg posiadał półautomatyczny system przeciwpożarowy typu "Rosa", układ ochrony przeciwatomowej z rentgenometrem DP-3B (w najnowszych seriach - DPS-68M1), urządzenie dymotwórcze TAD do stawiania zasłon dymnych oraz wyposażenie do pokonywania przeszkód wodnych po dnie.
+
+W polskich muzeach
+Czołgi T-55 są eksponowane w następujących muzeach:
+Muzeum Wojsk Lądowych w Bydgoszczy - T-55, nr taktyczny 2110, nr rejestracyjny UBC 8930
+Muzeum Regionalne w Dębicy - T-55
+Lubuskie Muzeum Wojskowe w Drzonowie - T-55 nr taktyczny 7152 
+Muzeum Czynu Zbrojnego w Lipcach Reymontowskich - T-55
+Muzeum Uzbrojenia w Poznaniu - T-55, nr taktyczny 1955
+Muzeum Broni Pancernej Centrum Szkolenia Wojsk Lądowych w Poznaniu - T-55
+Muzeum Wojska Polskiego w Warszawie
+Park plenerowy przed siedzibą główną MWP
+T-55U
+T-55AMS, nr taktyczny X777 - 8 Drezdeńska Dywizja Zmechanizowana - 36 Łużycki Pułk Zmechanizowany
+Muzeum Polskiej Techniki Wojskowej 
+T-55, nr taktyczny 8315
+T-55, nr taktyczny 8002
+T-55AM (czołg radziecki, pierwowzór polskiej modernizacji czołgów T-55AM) 
+T-55AM, nr taktyczny 781 - czołg na chodzie
+Muzeum Miejskie "Sztygarka" w Dąbrowie Górniczej - T-55
+
+Plany i modele
+Tamiya: 35257 T-55A skala 1/35
+Trumpeter: 07282 T-55 Mod. 1958 skala 1/72
+Trumpeter: 00342 T-55 Mod. 1958 skala 1/35
+Trumpeter: 07284 T-55 with BTU-55 skala 1/72
+Trumpeter: 07283 T-55 with KMT-5 skala 1/72
+Skif: 220 TO-55 skala 1/35
+Skif: 221 T-55A skala 1/35
+Skif: 222 T-55AM skala 1/35
+Skif: 225 T-55AK skala 1/35
+UM: 232 T-55AD 1 skala 1/35
+Italeri: 6427 T-55 skala 1/35
+PST: 72046 T-55 skala 1/72
+GPM: 3/2007 T-55A skala 1:25
+
+Bibliografia
+Czołg średni T-55A i czołg dowódczy T-55AD. Opis i użytkowanie, Warszawa 1969
+Jerzy Kajetanowicz, Prace nad rozwojem sprzętu pancernego w Polsce-przegląd lat 1955-1990'', Poligon 2010, nr 5
+Janusz Magnuski, Wozy bojowe LWP 1943-1983'' wyd. MON Warszawa 1985 ISBN 83-11-06990-5
+Krzysztof M. Gaj, Czołg T-55AM i pochodne (T-55AD-1M, T-55AD-2M, T-55AMS)'', 2013 ISBN 978-83-936039-3-0 
+
+
+
+
+
+
+
+

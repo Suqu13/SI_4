@@ -1,0 +1,13 @@
+
+
+
+PDP-1''' (ang. Programmed Data Processor-1'') – pierwszy komputer Digitala należący do serii PDP. Jest to jednocześnie jeden z pierwszych minikomputerów wprowadzonych na rynek. Produkcja została rozpoczęta w roku 1960. Komputer ten jest znany z tego, że był jedną z podstawowych maszyn nowo tworzącej się kultury hakerskiej MITu, BBNu i innych ośrodków. PDP-1 był także platformą jednej z pierwszych gier komputerowych, Spacewar!'' Steve’a Russela.
+
+Opis
+Był to komputer tranzystorowy oparty na 18-bitowych słowach i miał 4 kilosłowa ferrytowej pamięci operacyjnej (odpowiednik 9 kilobajtów lub 9000 bajtów) z możliwością rozbudowy do 64 kilosłów (144 KB). Cykl pamięci głównej trwał 5 mikrosekund (co odpowiadało „prędkości zegara” 200 kiloherców). Efektywnie instrukcje arytmetyczne zajmowały 10 mikrosekund, więc komputer wykonywał 100 000 operacji na sekundę (operacje te wymagały dwóch cykli pamięci: jednego na pobranie instrukcji, a drugiego na pobranie danych). Komputer obsługiwał liczby całkowite ze znakiem w systemie ZU1.
+
+
+
+
+
+

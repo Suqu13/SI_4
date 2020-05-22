@@ -1,0 +1,11 @@
+Połyskomierz to urządzenie pomiarowe do mierzenia połysku, mające zastosowanie w różnych dziedzinach gospodarki. 
+Zasada działania połyskomierza polega na tym, że urządzenie emituje strumień białego, niespolaryzowanego światła pod określonym kątem mierzonym pomiędzy prostą równoległą do strumienia światła a prostą prostopadłą do badanej powierzchni. Spotyka się urządzenia o geometrii 20°, 45°, 60°, 75°, 85°. Geometria w tym przypadku oznacza kąt emisji światła mierzony do badanej powierzchni. Strumień światła odbija się od mierzonej powierzchni i dostaje się do urządzenia pomiarowego, które mierzy jego natężenie; im mniejsza jest różnica między natężeniem światła emitowanego a odbitego (przy tej samej geometrii) tym jest większy połysk. Wynikiem pomiaru jest część (podana w %) ilości światła emitowanego (czyli ze 100 %) przez połyskomierz. Często procent (%) dla uproszczenia zamienia się na punkty (pkt). Dla otrzymania poprawnych rezultatów pomiarowych stosuje się zasadę: dla wysokiego połysku stosuje się niską geometrię pomiarów (kąt 20°), a dla powierzchni o słabym połysku, matowych, wysoką geometrię (kąt 85°). 
+Podstawowe standardy mierzenia połysku określone są w normach: ASTM D 2457, DIN EN ISO 2813 i DIN 67530.
+
+
+Połyskomierze znajdują zastosowanie m.in. w poligrafii. Z ich pomocą można badać wybłyszczenie samego podłoża drukowego, podłoża drukowego pokrytego farbą lub lakierem. Dla tych celów stosunkowo uniwersalną geometrią jest kąt emisji 60°.
+Połyskomierze znajdują szerokie zastosowanie w lakiernictwie przy pomiarze połysku powłok lakierniczych i malarskich.
+
+
+
+

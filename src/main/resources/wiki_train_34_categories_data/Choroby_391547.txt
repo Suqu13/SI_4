@@ -1,0 +1,87 @@
+Miastenia (miastenia rzekomoporaźna, choroba Erba-Goldflama, łac. myasthenia gravis, ang. myasthenia gravis) – nabyta, przewlekła choroba, charakteryzująca się nużliwością (szybkim zmęczeniem i osłabieniem) mięśni szkieletowych. Przyczyną miastenii jest proces autoimmunologiczny, skierowany przeciwko receptorom acetylocholinowym.
+
+Historia
+Pierwsze medyczne opisy miastenii pochodzą z XVII wieku. Chorobę opisywali Thomas Willis w 1672 i  Samuel Wilks w 1877. Pod koniec XIX wieku poznano symptomatologię choroby, za sprawą prac Wilhelma Erba, Samuela Goldflama i Hermanna Oppenheima. Friedrich Jolly w 1895 wprowadził termin „Myasthenia gravis pseudoparalytica”. Związek miastenii z patologią grasicy odkrył Carl Weigert. Pierwszą tymektomię w terapii miastenii przeprowadził Ferdinand Sauerbruch w 1912. Próby farmakoterapii podjęła w latach 30. Mary Walker, sama chora na miastenię.
+
+Epidemiologia
+Częstość choroby wynosi około 50-125:1&nbsp;000&nbsp;000. Kobiety chorują 2-3 razy częściej od mężczyzn. Dwie największe grupy chorych stanowią młode kobiety w wieku 20-35 lat i starsi mężczyźni w wieku 60-75 lat.
+
+Etiologia
+Przyczyną miastenii jest autoimmunologiczny atak wyprodukowanych własnych przeciwciał skierowanych przeciwko receptorom dla acetylocholiny. Wynikiem tego jest spadek ilości receptorów w obrębie mięśni. Choroby grasicy, która nie uległa atrofii, nie pozostają bez związku z zachorowalnością na miastenię. U około 10% pacjentów stwierdza się obecność guza nowotworowego grasicy - grasiczaka.
+
+Objawy i przebieg
+Podstawowym objawem jest nadmierna męczliwość mięśni, manifestowana jako:
+opadanie powiek
+diplopia
+zmiana mimiki, tzw. uśmiech poprzeczny
+opadanie żuchwy
+osłabienie gryzienia, żucia, połykania pokarmów, nasilające się w miarę jedzenia
+osłabienie głosu, niewyraźna mowa w miarę wydawania głosu
+opadanie głowy
+osłabienie mięśni rąk w czasie wykonywania zwykłych czynności (mycie, czesanie, golenie się)
+osłabienie siły mięśni nóg przy chodzeniu
+upadki podczas biegu
+zaburzenia oddychania.
+
+Kliniczny podział miastenii
+Zmodyfikowany podział Ossermana przedstawia się następująco:
+Grupa I – miastenia oczna
+Grupa IIA – łagodna miastenia uogólniona
+Grupa IIB – umiarkowana do ciężkiej miastenia uogólniona
+Grupa III – miastenia ostra (gwałtowna) lub ciężka uogólniona z niewydolnością  oddechową
+Grupa IV – miastenia, późna, ciężka, ze znaczącą symptomatologią opuszkową.
+
+Zazwyczaj opadanie powiek oraz podwójne widzenie pojawia się we wstępnej fazie choroby. Następna faza miastenii obejmuje mięśnie gardła i krtani, czego objawem jest "nosowy głos" oraz pojawiająca się dysfagia oraz trudności z żuciem pokarmów. Często zajmowane są również mięśnie tułowia i kończyn.
+
+Besinger wprowadził system oceny punktowej objawów klinicznych oddający stopień ciężkości choroby. Składał się on z 8 objawów punktowanych od 0 do 3, gdzie 3 punkty oznaczały największe nasilenie objawu. Skalę tę rozszerzył Tindall do 13 objawów tworząc tzw. skalę QMG (Quantitative Myasthenia Gravis Test), używaną obecnie; najcięższa postać kliniczna miastenii określana jest w niej na 3x13=39 punktów .
+
+Rozpoznanie
+Rozpoznanie opiera się o:
+wywiad
+stwierdzenie objawu apokamnozy, czyli wykazanie słabnięcia mięśni podczas pracy; np. przy osłabieniu mięśni opuszkowych poleca się pacjentowi liczenie do 50, przy obecnym objawie mowa staje się coraz bardziej nosowa i niewyraźna;
+dodatni wynik próby z chlorkiem edrofonium (Tensilonem): zmniejszeniu lub zniesieniu objawów po dożylnym podaniu 10&nbsp;mg leku
+badania elektrofizjologiczne:
+stwierdzenie tzw. dekrementu miastenicznego w elektrostymulacyjnej próbie nużliwości
+ocena wyniku badania elektromiograficznego pojedynczego włókna mięśniowego (wydłużenie tzw. jittera).
+wykryciu przeciwciał anty-AChR i (lub) anty-MusK.
+
+Różnicowanie
+W diagnostyce różnicowej miastenii rzekomoporaźnej należy uwzględnić:
+zespół miasteniczny Lamberta-Eatona
+botulizm
+zatrucie pestycydami
+zespół po leczeniu cuprenilem
+stwardnienie rozsiane
+guz pnia mózgu
+uszkodzenie nerwów gałkoruchowych
+miopatię oczno-gardłową
+miopatie mitochondrialne
+nerwicę
+
+Leczenie
+Leczenie farmaceutyczne ma na celu zwiększenie stężenia acetylocholiny w złączach nerwowo-mięśniowych i zapobieganie wytwarzania przeciwciał receptorów acetylocholiny. 
+W pierwszym celu stosuje się inhibitory cholinoesterazy:
+neostygminę
+pirydostygminę
+ambenonium.
+
+Produkcję przeciwciał ogranicza się leczeniem immunosupresyjnym. Stosowane leki to:
+prednizon, metyloprednizon
+azatiopryna
+cyklofosfamid
+metotreksat
+mykofenolan mofetylu.
+
+Niekiedy stosuje się plazmaferezę i dożylne wlewy immunoglobulin. W razie wystąpienia niewielkich nawet objawów ze strony układu oddechowego, należy ocenić pojemność życiową płuc w badaniu spirometrycznym. Wartości poniżej 1,5 l są wskazaniem do przyjęcia pacjenta na oddział intensywnej opieki medycznej. 
+
+Leczenie chirurgiczne polega na usunięciu grasicy (tymektomia), do czego bezwzględnym wskazaniem jest podejrzenie grasiczaka. Usunięcie przerośniętej grasicy u pacjentów bez grasiczaka również, z niejasnych przyczyn, poprawia rokowanie.
+
+W styczniu 2009 r. naukowcy z zespołu Henry'ego Kaminskiego z Saint Louis University opublikowali w Annals of Naurology artykuł, w którym twierdzą, że białko rEV756, znajdujące się w ślinie kleszczy i będące inhibitorem układu dopełniacza (białko to bowiem działa przez przyłączenie się do składnika C5 dopełniacza i zablokowanie jego interakcji z konwertazą C5 co blokuje powstawanie MAC – kompleksu atakującego błonę) może grać znaczną rolę w leczeniu miastenii.
+
+Rokowanie
+W miastenii jest bardzo zróżnicowane. U niektórych pacjentów dochodzi do samoistnej remisji. W przełomie miastenicznym złe, prowadzące do śmierci w wyniku zajęcia mięśni oddechowych.
+
+
+
+Bibliografia
+Linki zewnętrzne

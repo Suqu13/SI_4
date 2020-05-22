@@ -1,0 +1,31 @@
+
+
+HP-48''' - to seria kalkulatorów firmy Hewlett-Packard, pracująca w systemie odwrotnej notacji polskiej (RPN), produkowana w latach 1990 - 2003. Seria składa się z modeli: HP-48S, HP-48SX, HP-48G, HP-48GX oraz HP-48G+''', przy czym modele G były ulepszonymi wersjami modeli S. Sufiks X oznaczał możliwość rozszerzenia pamięci RAM oraz ROM poprzez dodatkowe karty rozszerzeń. Modele z '''+''' posiadały więcej pamięci wbudowanej (onboard). 
+Warto wiedzieć, że HP-48GII (wprowadzony na rynek w 2004) nie ma nic wspólnego z poprzednikami, jest raczej bardziej związany z HP-49G i HP-49G+.
+
+Kalkulatory z tej serii są do dziś bardzo cenione przez użytkowników (i kolekcjonerów) ze względu na ich ogromne możliwości. W niektórych kręgach, mimo wprowadzenia na rynek następców, otoczone są swego rodzaju kultem. Można powiedzieć, że funkcjonalność kalkulatora HP-48 niewiele ustępuje dzisiejszym urządzeniom typu palmtop. Na kalkulator HP-48 powstały setki programów użytkowych i gier. Poniżej znajduje się krótka charakterystyka głównych możliwości kalkulatorów z tej serii:
+
+operacje arytmetyczne w notacji RPN, z widocznymi 4 najniższymi poziomami stosu
+możliwość wprowadzania wyrażeń w klasycznej notacji i odkładania ich na stos
+operacje na liczbach zespolonych
+operacje na macierzach i wektorach
+solver
+obliczenia w trybie dwójkowym, ósemkowym, szesnastkowym
+obliczenia z użyciem jednostek, przeliczanie jednostek
+operacje algebraiczne (calculus), przekształcanie wyrażeń, całki, różniczki, szereg Taylora
+całkowanie oznaczone
+równania różniczkowe
+statystyka, regresja
+wykresy funkcji na płaszczyźnie i w przestrzeni, wykresy statystyczne
+współpraca z drukarką HP-82240 i komunikacja z innymi kalkulatorami przez port podczerwieni
+port RS232 do ładowania programów z komputera
+możliwość zaawansowanego programowania
+
+Linki zewnętrzne
+(en) Paul Courbis & Sébastien Lalande
+(fr) Paul Courbis & Sébastien Lalande
+(fr) Paul Courbis & Sébastien Lalande
+
+
+
+

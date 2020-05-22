@@ -1,0 +1,4 @@
+
+C-One to komputer zbudowany w oparciu o technologię FPGA, mający pierwotnie być klonem Commodore 64, później rozszerzony o możliwość emulacji innych platform (obecnie Amstrad CPC i własny tryb C-One). Został zaprojektowany przez Jeri Ellsworth i Jensa Schönfelda a wyprodukowany przez firmę Individual Computers.
+
+Linki zewnętrzne

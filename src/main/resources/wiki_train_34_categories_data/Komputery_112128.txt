@@ -1,0 +1,25 @@
+
+Z4''' – komputer zerowej generacji zaprojektowany przez niemieckiego inżyniera Konrada Zuse i zbudowany przez jego firmę Zuse KG w 1950 r. dla szwajcarskiej uczelni ETH Zürich (Konfederacyjna Wyższa Szkoła Techniczna w Zurychu). W 1954 został przeniesiony do Institut Franco-Allemand des Recherches de St. Louis we Francji, gdzie był używany do roku 1959. Był to pierwszy sprzedany na świecie komputer, który wyprzedził o 5 miesięcy brytyjski Ferranti Mark I i o 10 miesięcy maszynę UNIVAC I.
+
+Pierwszy komputer posiadający asembler realizowany przez moduł Planfertigungsteil.
+
+Obecnie znajduje się w muzeum techniki (Deutsches Museum) w Monachium.
+
+Specyfikacja
+
+Taktowanie: ok. 40 herców
+Średni czas obliczeń: 400 ms dla dodawania
+Wejście: Liczby dziesiętne za pomocą taśmy dziurkowanej
+Wyjście: Liczby dziesiętne za pomocą taśmy dziurkowanej
+Długość słowa maszynowego: 32 bity
+Ilość elementów: ok. 2500 przekaźników, 21 zestyków
+Pamięć: 64 słowa maszynowe, 32 bitowe
+Zużycie prądu: ok. 4 kW
+
+
+
+
+
+
+
+

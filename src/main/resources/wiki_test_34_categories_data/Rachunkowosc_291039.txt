@@ -1,0 +1,29 @@
+Operacja gospodarcza – zdarzenie gospodarcze, które powoduje zmiany w składnikach bilansu. 
+
+Cechy charakterystyczne operacji gospodarczych:
+ścisły związek z przedmiotem działalności prowadzonej przez jednostkę,
+określenie terminu wystąpienia operacji – data,
+obowiązek udokumentowania,
+masowość i powtarzalność powtarzania,
+wywołanie zmian w składnikach bilansu,
+wyrażone są wartościowo.
+
+W operacjach gospodarczych wyróżniane są: 
+operacje bilansowe (bezwynikowe),
+operacje wynikowe.
+
+Operacje gospodarcze powodujące zmiany w składnikach bilansu przyczyniające się do przemieszczania jego składników nazywane są operacjami gospodarczymi bezwynikowymi (bilansowe operacje gospodarcze); np. spłata kredytu gotówką.
+
+Wśród nich rozróżnia się:
+operacje aktywne, powodujące zmiany wyłącznie w aktywach (suma bilansowa bez zmian),
+operacje pasywne, powodujące zmiany wyłącznie w pasywach (suma bilansowa bez zmian),
+operacje aktywno-pasywne zwiększające, wzrost aktyw i pasyw (suma bilansowa wzrasta),
+operacje aktywno-pasywne zmniejszające, spadek aktyw i pasyw (suma bilansowa maleje).
+
+Drugą grupą są operacje, które prowadzą do powstania zysku lub straty. Są to tak zwane operacje wynikowe np. przychody ze sprzedaży usług.
+
+Zobacz też
+Konto księgowe,
+księgi rachunkowe.
+
+

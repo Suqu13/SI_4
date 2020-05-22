@@ -1,0 +1,68 @@
+webMethods Integration Server (lub webMethods ESB) jest bazującym na Java, wieloplatformowym serwerem integracyjnym klasy enterprise i jednocześnie jednym z kluczowych elementów rodziny webMethods. Umożliwia on w łatwy sposób tworzenie i udostępnianie usług, mapowanie komunikatów różnych typów, oraz realizację komunikacji między różnorodnymi systemami i technologiami.
+
+Integration Server wspiera tworzenie usług w języku Java (opcjonalnie w C/C++), ale dzięki graficznemu edytorowi przede wszystkim zachęca do pracy z własnościowym językiem flow znanym jako webMethods Flow. Wspiera także koncepcję adapterów, oferując zarówno adaptery technologiczne jak i dedykowane do produktów firm trzecich.
+
+webMethods Flow jest graficznym językiem programowania strukturalnego, którego przejrzystość i prosta konstrukcja pozwala na skupienie logiki biznesowej usług bezpośrednio na platformie integracyjnej. To w dalszej kolejności ułatwia analizę zmian oraz modyfikację logiki realizacji usług w przyszłości. 
+
+Sam język webMethods Flow składa się z kilku kluczowych elementów programistycznych takich jak:
+INVOKE - wywołanie innej usługi
+MAP - wykonanie mapowania danych z możliwością wykonania transformacji danych przy użyciu innej funkcji lu usługi
+SEQUENCE - blok kodu z definicją warunku przerwania wykonywania bloku
+LOOP - pętla
+BRANCH - krok warunkowy
+EXIT - wyjście z bloku kodu lub serwisu z możliwością sygnalizacji wyjątku
+REPEAT - powtarzanie określonej sekwencji instrukcji z możliwością definiowania ilości powtórzeń oraz czasowych odstępów pomiędzy powtórzeniami
+
+Za pomocą webowego interfejsu użytkownika Integration Server udostępnia narzędzia administracyjne, konfiguracyjne i monitorujące.
+
+Cechy produktu
+Języki programowania:
+Java
+webMethods Flow
+webMethods DSP (Dynamic Server Pages)
+C/C++
+SQL (poprzez adapter)
+
+Podstawowe protokoły/standardy:
+HTTP/HTTPS
+FTP/FTPS (FTPS od wersji 6.5)
+Web Services/SOAP (SOAP 1.1 do wersji 6.5)
+XML
+LDAP
+SMTP
+
+Dodatkowe protokoły/standardy (poprzez adaptery):
+EDI/Flatfiles
+XSLT
+JMS (Java Messaging Service)
+IBM WebSphere MQ
+EDIINT
+RosettaNet
+Microsoft .NET
+SAP
+Siebel
+Peoplesoft
+Remedy
+
+webMethods Integration Server zawiera wbudowany Apache Tomcat lub JBoss J2EE dla zgodności z webowym lub pełnym profilem Java EE/JEE (dawniej J2EE) (JSP/Servlets, EJB).
+
+Środowisko
+webMethods Integration Server oferowany jest ze wsparciem na platformach:
+Solaris
+HP-UX
+AIX
+Windows
+Linux
+AS/400
+
+webMethods Integration Server da się uruchomić na różnych wersjach Java, ale wsparcie ograniczone jest dla wybranych wersji, w zależności od wersji produktu.
+
+Instalacja
+Instalacja produktu odbywa się za pomocą programu webMethods Installer.
+
+Zobacz też
+webMethods - firma
+webMethods Developer - narzędzie IDE
+SAP Business Connector - dedykowana wersja Integration Server dla SAP R/3
+
+Linki zewnętrzne

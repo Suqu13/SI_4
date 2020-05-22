@@ -1,0 +1,67 @@
+Faktura – dokument sprzedaży, rodzaj rachunku zawierającego szczegółowe dane o transakcji:
+dane identyfikujące dokument: numer, data wystawienia
+strony kupna-sprzedaży: sprzedawca i nabywca
+specyfikacja przedmiotu transakcji: nazwa towaru lub usługi, ilość, cena, wartość
+dane do rozliczenia obowiązujących podatków
+podsumowanie: cyframi i słownie
+informacja o uzgodnionych terminach i formie zapłaty
+informacje dodatkowe: sposób odbioru, miejsce dostawy i inne
+podpisy uczestników transakcji (obecnie w Polsce wymagane wyłącznie w przypadku faktury VAT RR, wystawianej w transakcjach z rolnikami ryczałtowymi).
+
+Faktury w Polsce
+Faktura VAT
+Faktura VAT – szczególny rodzaj rachunku wystawiany przez podatników podatku VAT, podlegający osobnym przepisom.
+
+Zgodnie z obowiązującym w Polsce prawem, faktura taka powinna zawierać przynajmniej:
+
+nazwy i adresy sprzedawcy i nabywcy oraz ich numery NIP (patrz przypis)
+datę dokonania sprzedaży oraz datę wystawienia dokumentu
+numer kolejny faktury
+nazwę towaru lub usługi (przedmiotu transakcji)
+jednostkę miary i ilość sprzedanych towarów lub rodzaj wykonanych usług
+cenę jednostkową towaru lub usługi bez kwoty podatku (cenę jednostkową netto)
+wartość towarów lub wykonanych usług, których dotyczy sprzedaż, bez kwoty podatku (wartość sprzedaży netto)
+stawki podatku
+sumę wartości sprzedaży netto towarów lub wykonanych usług z podziałem na poszczególne stawki podatku, zwolnionych z podatku oraz niepodlegających opodatkowaniu
+kwotę podatku od sumy wartości sprzedaży netto, z podziałem na kwoty dotyczące poszczególnych stawek podatku
+wartość sprzedaży towarów lub wykonanych usług wraz z kwotą podatku (wartość sprzedaży brutto), z podziałem na kwoty dotyczące poszczególnych stawek podatku, zwolnionych z podatku lub niepodlegających opodatkowaniu
+kwotę należności ogółem wraz z należnym podatkiem (brutto), wyrażoną cyframi
+
+Faktura powinna być wystawiona przynajmniej w dwóch egzemplarzach. Obecnie nie obowiązuje już rozróżnienie na „oryginał” i „kopię” faktury.
+
+Tradycyjnie faktura wystawiana jest na papierze, jednak w pewnych okolicznościach dopuszczona jest postać elektroniczna (e-faktura).
+
+Faktura elektroniczna
+Faktura elektroniczna (e-faktura) to dokument elektroniczny, który zgodnie z rozporządzeniem ministra finansów z dnia 14 lipca 2005 roku w sprawie wystawiania oraz przesyłania faktur w formie elektronicznej, zrównuje się prawnie z fakturą tradycyjną, czyli papierową. Od 01.01.2011 obowiązuje nowe Rozporządzenie Ministra Finansów z dnia 17.12.2010 w sprawie przesyłania faktur w formie elektronicznej, zasad ich przechowywania oraz trybu udostępniania organowi podatkowemu lub organowi kontroli skarbowej (Dz. Ustaw. 249 poz. 1661 z 2010 r.). Rozporządzenie to jest bardziej liberalne niż poprzednie, ponieważ pozostawia podatnikowi swobodę w zakresie sposobu zapewnienia autentyczności i integralności e-faktury.
+
+Za pomocą e-faktury można rozliczać się z fiskusem tak samo jak przy użyciu faktury tradycyjnej. Zgodnie z wyrokiem Naczelnego Sądu Administracyjnego faktura przesłana w formie elektronicznej, a następnie wydrukowana u odbiorcy nadal może być traktowana jako faktura tradycyjna (papierowa) i nie musi spełniać wymagań dla faktury elektronicznej.
+
+Akceptacja fakturowania elektronicznego
+Podstawowym warunkiem stosowania faktur w formie elektronicznej jest uzyskanie wcześniejszej akceptacji od kontrahentów. Akceptacja nie musi być zawarta w dokumentacji firmy, nie trzeba też o niej informować urzędu skarbowego. Opłacenie pierwszej e-faktury przez kontrahenta uznawane jest za wyrażenie zgody na elektroniczną wersję faktur. Wystawianie i przesyłanie e-faktur można rozpocząć następnego dnia po dokonaniu akceptacji przez odbiorcę.
+Z akceptacją e-faktur ściśle wiąże się też utrata prawa do ich wystawiania. Podatnik traci prawo do stosowania faktur elektronicznych (w przypadku cofnięcia akceptacji przez odbiorcę faktury) od dnia następującego po dniu, w którym otrzymał powiadomienie od odbiorcy o wycofaniu akceptacji.
+
+Faktura pro forma
+
+Faktura pro forma – dokument będący zapowiedzią lub propozycją faktury (zwykle faktury VAT). Nie jest dokumentem księgowym.
+
+Podstawa prawna
+Obowiązek dokumentacji operacji gospodarczych przy pomocy faktur definiuje ustawa z dnia 11 marca 2004 o podatku od towarów i usług (z późniejszymi zmianami), która popularnie zwana jest ustawą o VAT.
+Artykuł 106 ustęp 8 ustawy o VAT stwierdza:
+
+Minister właściwy do spraw finansów publicznych, w drodze rozporządzenia:
+1) określi szczegółowe zasady wystawiania faktur, dane, które powinny zawierać,
+oraz sposób i okres ich przechowywania
+2) może określić wzory faktur dla wszystkich lub niektórych rodzajów czynności
+3) może określić przypadki, w których faktury mogą być wystawiane przez inne podmioty
+niż wymienione w ust. 1 i 2, oraz szczegółowe zasady i warunki wystawiania
+faktur w takich przypadkach.
+
+Szczegółowe zasady wystawiania faktur zawierają przepisy rozporządzenia Ministra Finansów z dnia 28 marca 2011 r. w sprawie zwrotu podatku niektórym podatnikom, wystawiania faktur, sposobu ich przechowywania oraz listy towarów i usług, do których nie mają zastosowania zwolnienia od podatku od towarów i usług (Dz.U. 2011 nr 68 poz. 360). Wcześniej obowiązywało rozporządzenie Ministra Finansów z 28 listopada 2008 (Dz.U. nr 212 poz. 1337) w sprawie zwrotu podatku niektórym podatnikom, wystawiania faktur, sposobu ich przechowywania oraz listy towarów i usług, do których nie mają zastosowania zwolnienia od podatku od towarów i usług. (Zastąpiło ono poprzednie, z dnia 25 maja 2005, o adresie publikacyjnym Dz.U. nr 95 poz. 798.)
+
+
+
+
+
+
+
+

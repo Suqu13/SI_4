@@ -1,0 +1,48 @@
+
+
+
+Volksempfänger (niem. "Odbiornik ludowy") - radioodbiornik, jedno z narzędzi wewnątrzniemieckiej propagandy Goebbelsa.
+
+Odbiornik radiowy specjalnie zaprojektowany w celu umożliwienia dostępu do radia szerokim kręgom społeczeństwa dla lepszego oddziaływania propagandy nazistowskiej. Odbiornik służył do odbioru stacji radiowych na falach średnich i długich (w założeniu chodziło o centralną rozgłośnię "Deutschlandsender" i jedną z radiostacji lokalnych). W sprzyjających warunkach odbiornik mógł służyć do odbioru radiostacji zagranicznych, co zostało zakazane po rozpoczęciu II wojny światowej; na odbiornikach umieszczano wówczas informację o zakazie i grożących za jego złamanie karach.
+
+Ze względu na swoją budowę i przeznaczenie radio nie było drogie, kosztowało 65 RM (w wersji bateryjnej; w wersji zasilanej z sieci niewiele więcej), co stanowiło około 50% średniego wynagrodzenia robotniczego. Popularnie nazywane "radiem ludowym" lub "radiem Goebbelsa", odbiornik był ponad dwukrotnie tańszy od oferowanych wówczas na rynku urządzeń, przyczynił się również do spadku popularności radioodbiorników opartych na detektorze kryształkowym. W 1938 r. liczba abonentów w III Rzeszy sięgała 10 mln abonentów, w 1940 r. - 13,7 mln, a w 1941 r. - 15,8 mln. Dochody abonamentowe stanowiły poważną część budżetu Ministerstwa Propagandy i Oświecenia Publicznego.
+
+Pierwszym odbiornikiem tego typu był VE301 z II połowy 1933 roku; wtedy też powstało kilka wersji odbiorników o oznaczeniach zaczynających się od VE301 (w oznaczeniu tym litery były skrótem niemieckiej nazwy Volksempfänger, natomiast cyfry 301 nawiązywały do daty – 30 stycznia – dojścia nazistów do władzy w 1933 roku, co znalazło odzwierciedlenie m.in. w reklamach tego odbiornika, w których pisano: Am '''30.1'''.1933 ist das neue Deutschland geboren, tj. "30.1.1933 narodziły się nowe Niemcy"). Klasyczny DKE powstał w 1935 roku. Produkowało go wiele niemieckich zakładów radiowych, np. "Roland Brandt" w Berlinie, do końca II wojny światowej.
+
+Volksempfänger był prostym odbiornikiem reakcyjnym, jednoobwodowym, w wersji klasycznej zasilany z sieci 110/220 V (były też wersje DKE z zasilaniem bateryjnym, z lampami KC1, KC1, KL1). Wersja podstawowa (klasyczna) oparta na lampach VY 2 (prostownicza, w niektórych wersjach zastąpiona stosem selenowym) oraz VCL 11. Obudowa bakelitowa lub drewniana. Głośnik z podkowiastym magnesem i kotwiczką. 
+
+Zabytkowe egzemplarze występują licznie w wielu kolekcjach. Istnieją też kluby zbieraczy specjalizujące się tylko w tym radioodbiorniku. 
+
+Produkowane były trzy modele – VE301 z głośnikiem magnetycznym w różnych odmianach (fot. 1, schemat rys. 3) produkowany był w latach 1933–1937, VE301 Dyn (z głośnikiem dynamicznym) w latach 1938-1939, a Kleinempfänger DKE (fot. 2) w latach 1938 - 1944.
+
+VE301W wyposażony był w trzy lampy:
+REN904 – audion (detekcja),
+RES164 – wzmacniacz m.cz.,
+RGN354 – prostownik jednopołówkowy;
+
+VE301G wyposażony był w dwie lampy:
+REN1821 – audion (detekcja),
+RES11823d – wzmacniacz m.cz.;
+
+VE301Wn wyposażony był w trzy lampy:
+AF7 – audion (detekcja),
+RES164 – wzmacniacz m.cz.,
+RGN354 – prostownik jednopołówkowy;
+
+VE301 Dyn wyposażony był w trzy lampy:
+AF7 – audion (detekcja),
+RES164 – wzmacniacz m.cz.,
+RGN1064 – prostownik jednopołówkowy;
+
+DKE38 (GW)''' miał dwie lampy:
+VCL11 – audion (detekcja) (część triodowa) + wzmacniacz m.cz. (część tetrodowa),
+VY2 – prostownik jednopołówkowy.
+
+B - Bateryjny
+G - Prąd stały
+W - Prąd zmienny
+
+
+
+Linki zewnętrzne
+[dostęp: 2009-07-04]

@@ -1,0 +1,70 @@
+Szósta generacja (czasem nazywana erą 128-bitowców, zobacz sekcję poniżej) odnosi się do gier komputerowych, konsoli i przenośnych konsoli gier wideo dostępnych na początku XXI wieku. Platformy szóstej generacji to Sega Dreamcast, Nintendo GameCube, Sony PlayStation 2 i Microsoft Xbox.
+
+Konsole gier wideo
+Konsola PlayStation 2 zdominowała konkurencję sprzedając ponad 100 milionów sztuk. Xbox był na drugim miejscu z wynikiem 24 milionów sztuk, a Nintendo trzecie z 20,85 milionami sprzedanych GameCube'ów. Mówi się także, że Sega Dreamcast został sprzedany w 10 milionach egzemplarzy.
+
+Liczba bitów
+Liczba bitów w konsolach stała się normatywnym określeniem jakości konsoli w erze 32-bitowców. Liczba “bitów” podawana przy nazwach konsoli odnosiła się do słowa maszynowego na którym operuje procesor. Jednak wydajność konsoli nie zależy wcale od wielkości słowa. Można bez problemów zwiększyć wielkość słowa maszynowego powyżej 32-bitów – wydajność konsoli zależy również od innych czynników, jak  szybkość procesora konsoli, szybkości procesora graficznego, przepustowości i wielkości pamięci.
+
+Sega Dreamcast, miała dwuinstrukcyjny 32-bitowy procesor, 64-bitową kartę graficzną i 64-bitową magistralę danych. Jeden z wielu procesorów PlayStation 2 znany jest jako “128-bitowy Emotion Engine”, lecz tak naprawdę jest on dwuinstrukcyjnym procesorem 64-bitowym. Nintendo GameCube jest wydajniejszy od PS2, mimo że posiada jednoinstrukcyjny 64-bitowy procesor. Microsoft Xbox, który również jest wydajniejszy od PS2, używa natomiast 32-bitowego procesora i 256-bitowego procesora graficznego, czyli konfiguracji, która stała się standardem wielu komputerów osobistych. Ważność w ilości bitów na rynku konsoli zmalała z powodu używania komponentów, które operują na różnych wielkościach słów maszynowych. Sega Dreamcast i PlayStation 2 były ostatnimi konsolami, używającymi terminu “128-bitów” w ich marketingu w celu opisania ich możliwości.
+
+Przenośne konsole gier wideo
+
+Podczas szóstej generacji rynek przenośnych konsoli gier wideo znacznie się rozszerzył dzięki wprowadzeniu nań nowych urządzeń od różnych producentów. Nintendo utrzymało większą część rynku dzięki wydaniu w 2001 ulepszonej wersji konsoli Game Boy nazwanej Game Boy Advance. Następnie firma wydała dwie odświeżone wersje systemu: Game Boy Advance SP w 2003 i Game Boy Micro w 2005. Podczas tej generacji wprowadzone zostały na rynek również Neo Geo Pocket Color w 1998 i Bandai WonderSwan Color w Japonii w 1999. Warto odnotować, że w 2001 koreańska firma Game Park wydała własny przenośny system GP32, który był pierwszą przenośna konsolą gier wideo o strukturze open-source.
+
+Główną innowacją na rynku stało się dodawanie do konsoli możliwości, które nie były przeznaczone do grania. Wszystkie możliwości, jak telefon komórkowy, odtwarzacz MP3, przenośny odtwarzacz filmów czy nawet palmtop, były dodawane do istniejących konsoli. Pierwszą taką hybrydą była Nokia N-Gage, która wydana została w 2003 i była reklamowana głównie jako telefon komórkowy. Później, w 2004, konsola została przerobiona i wydana jako N-Gage QD. Drugą taką konsolą był Zodiac, firmy Tapwave wydany w 2004, bazujący na Palm OS. W konsoli znalazło się wiele opcji zwykle dostępnych w palmtopach.
+
+Gdy coraz więcej przenośnych konsoli pojawiało się na rynku pod koniec generacji, trudno było określić, kiedy dokładnie kończy się szósta i rozpoczyna siódma generacja. Zwykle mówi się, że siódma generacja rozpoczęła się pod koniec 2004 wydaniem przez Nintendo konsoli Nintendo DS i PlayStation Portable firmy Sony.
+
+Gry konsolowe
+Kontrowersyjność
+Podczas tej generacji gry komputerowe stały się obiektem krytyki osób publicznych za "niepożądaną" zawartość prezentowaną w grach (seks, przestępstwa, przemoc, przekleństwa, użycie narkotyków czy społeczna propaganda oraz poruszanie w grach takich tematów, jak religia, polityka, feminizm czy ekonomia). Jednakże większość krytyki była nieprawidłowa, gdyż w większości dotyczyła gier wydanych dawno temu, jak Wolfenstein 3D, Doom, Mortal Kombat czy Night Trap.
+
+W szóstej generacji warte odnotowania były również sprawy sądowe wytoczone kilku firmom z przemysłu gier komputerowych. Najbardziej znaną sprawą była sprawa gier  Grand Theft Auto III i '''', których producenci zostali oskarżeni o ukryty rasizm i podżeganie do popełniania wykroczeń, natomiast '''' dostała plakietkę "tylko dla dorosłych" z powodu odnalezienia w grze minigierki pozwalającej na odbycie stosunku z dziewczynami bohatera za pomocą modyfikacji Hot Coffee.
+
+W szóstej generacji doszło do zamachu na World Trade Center i Pentagon, co miało duży wpływ na przemysł rozrywkowy, jak i na przemysł gier komputerowych powodując zmniejszenie wydźwięku wielu gier. Najbardziej znanym przykład jest '''', który do czasu wydania przedstawiał w grze zniszczenie Statuy Wolności i dużej części Manhattanu.
+
+Emulatory i stare gry
+Z powodu zwiększonego użycia emulatorów i coraz łatwiejszemu dostępowi do wyszukiwarek obrazów ROM na poprzednie konsole gier wideo, szósta generacja gier zbiegła się ze wzrostem popularności emulacji konsoli.
+
+Był to również okres, w którym klasyczne gry były ulepszane lub ponownie dystrybuowane na nowsze systemy. Na przykład Nintendo wydało serię "klasycznych" gier dla konsoli NES i SNES na przenośną konsolę Game Boy Advance. Innymi takimi grami były m.in. Wild ARMs: Alter Code F, Final Fantasy I & II: Dawn of Souls czy ''''. Również duża część third-party developerów wydała antologie gier (wśród tych firm były między innymi Midway Games, Capcom, Namco, Atari czy Sega). Dodatkowo szósta generacja była również okresem, w którym duża liczba gier lub serii gier początkowo wydanych w Japonii zaczęła być sprzedawana w Ameryce Północnej i Europie.
+
+Konsole szóstej generacji
+
+Plik:DreamcastConsole.jpg|Sega Dreamcast'1998-2006: Japonia1999-2003: USA, Europa
+Plik:PS2Slim.JPG|Sony PlayStation 2''2000-2012: Japonia2000-2013: USA, Europa
+Plik:GameCube-Console-Set.png|Nintendo GameCube'2001-2007: Japonia, USA2002-2007: Europa
+Plik:Xbox and controller.jpeg|Microsoft Xbox'2001-2008: Japonia, USA2002-2008: Europa
+
+
+Przenośne konsole
+
+Plik:Neo geo pocket color.png|Neo Geo Pocket Color'1998-2003''
+Plik:Gba.jpg|Nintendo Game Boy Advance'2001-2005''
+Plik:Gp32-flu.jpg|GP32''2001–2005''
+Plik:Wonder-Swan-Crystal.jpg|SwanCrystal'2002-2004''
+Plik:Tapwave Zodiac R Int L.jpg|Tapwave Zodiac'2003-2005''
+Plik:Wonderswan color.jpg|WonderSwan Color'1999-2003''
+Plik:Nokia N-Gage.png|Nokia N-Gage'2001–2004''
+Plik:Gameboy-advance-sp.jpg|Nintendo Game Boy Advance SP'2003-2007''
+Plik:NgageQD.jpg|Nokia N-Gage QD
+Plik:Gameboy-micro.jpg|Game Boy Micro'2005–2007''
+
+
+Serie gier powstałe w tej generacji
+
+
+Gry uznawane za kamienie milowe
+Shenmue znalazł się w Księdze Rekordów Guinnessa jako najbardziej kosztowny tytuł ($20 000 000). Stworzona przez AM2 gra pomogła ustanowić standardy grafiki w aktualnym czasie.
+
+'''' była najbardziej udanym tytułem startowym konsoli Microsoft Xbox. Jej sequel, Halo 2'', ustanowił rekord najbardziej dochodowej gry w historii rozrywki.
+
+Grand Theft Auto III i jej sequele na PlayStation 2 (później również na Xbox i PC) przyniosły przemoc i inną kontrowersyjną zawartość do gier powodując falę krytyki i debat na temat kontrowersyjności gier komputerowych. Seria Grand Theft Auto pozostaje najlepiej sprzedającą się serią gier w USA od dziesięciu lat. Aktualnie gry z tej serii są adresowane do tzw. grupy "młodych-dorosłych".
+
+Metroid Prime staje się jedną z najlepiej ocenianych gier na Nintendo GameCube oraz staje się przykładem współpracy pomiędzy Nintendo i second-party developerem.
+
+Soul Calibur na Sega Dreamcast zostanie uznana za jedną z najlepszych bijatyk wszech czasów i jest jedyną grą z tego gatunku, jaka otrzymała ocenę 10/10 w portalu IGN za wersje na jakiekolwiek konsole () i Gamespot ().
+
+
+
+Linki zewnętrzne

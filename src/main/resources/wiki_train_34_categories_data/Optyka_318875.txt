@@ -1,0 +1,48 @@
+
+Barwienie płomienia palnika - technika stosowana w chemicznej analizie jakościowej polegająca na umieszczaniu próbki w płomieniu palnika i obserwowaniu zmian zabarwienia płomienia. 
+
+W wysokiej temperaturze związki niektórych metali wyparowują, a ich pary pobudzone do świecenia zabarwiają płomień palnika w charakterystyczny dla siebie sposób. Zabarwienie to jest efektem wzbudzenia atomów metali w płomieniu, które wracając do stanu podstawowego emitują kwant światła o ściśle określonej długości fali. Należy podkreślić, że w przypadku większości pierwiastków obserwuje się emisję światła jedynie od elektrycznie obojętnych atomów, a nie jonów. Przykładowo gdy do płomienia wprowadzimy jon sodu to w pierwszej kolejności ulega on rekombinacji z wolnym elektronem, a dopiero potem w wyniku kolejnego zderzenia może dojść do wzbudzenia i relaksacji, której towarzyszy emisja pomarańczowego światła o długości fali równej 589 nm. Różnica energii między poziomami w przypadku tego przejścia jest niewielka i wynosi 2,1 eV, podczas gdy najniższe poziomy wzbudzone dla jonu sodu mają energię ponad 30 eV i są nieosiągalne w płomieniu. Świecenie jonów w płomieniu można zaobserwować jedynie w przypadku berylowców - choć i w tym przypadku intensywność emisji atomów jest wielokrotnie wyższa. W wielu przypadkach barwa ta jest na tyle charakterystyczna, że w połączeniu z innymi technikami analitycznymi umożliwia niemal stuprocentową pewność obecności danego metalu w próbce.
+
+Warunki poprawności wykonania testu barwienia
+
+Technika ta, jakkolwiek pozornie prosta, wymaga stosowania specjalnego sprzętu i procedury:
+szczypce laboratoryjne lub specjalna łyżeczka do spalań sama nie może barwić płomienia; najczęściej są one wykonywane z platyny i przed ich użyciem należy je wyprażyć, aby pozbyć się z ich powierzchni jonów sodowych pochodzących z wody, które zabarwiają płomień na żółto;
+płomień palnika musi być maksymalnie bezbarwny; w przypadku najczęściej stosowanych palników gazowych muszą one być tak skonstruowane, aby tworzyć spokojny, stojący płomień z białym środkiem i dużą, jasnoniebieską, ledwo widoczną obwódką;
+obserwacja zmiany barwy palnika musi być dokonana na białym tle (np. na tle czystych kafelków w laboratorium), w pomieszczeniu z białym oświetleniem lub w ciemności;
+czasami, aby odfiltrować żółtą barwę płomienia od jonów sodowych, stosuje się szkło kobaltowe, które absorbuje światło o tej barwie.
+
+Kolory i metale
+
+
+Kationy metali I grupy głównej
+Li+ barwi płomień na karminowy, ciemnoczerwony i wiśniowoczerwony
+Na+ barwi płomień na intensywnie żółty
+K+ barwi płomień na różowy i różowofioletowy
+Rb+ barwi płomień na purpurowy i jasnofioletowy
+Cs+ barwi płomień na niebieski i niebieskofioletowy
+
+Kationy metali II grupy głównej
+Ca2+ barwi płomień na ceglastoczerwony
+Sr2+ barwi płomień na karminowoczerwony
+Ba2+ barwi płomień na jasnozielony i żółtozielony
+Ra2+ barwi płomień na karminowoczerwony
+
+Kationy lantanowców
+Eu3+ barwi płomień na czerwony
+
+Kationy metali XI grupy pobocznej
+Cu2+ (halogenki) barwi płomień na niebieskozielony 
+Cu2+ (inne sole) barwi płomień na zielony
+Cu+ barwi płomień na niebieski
+
+Kationy metali III grupy głównej
+Ga3+ barwi płomień na fioletowy i niebieskofioletowy
+In3+ barwi płomień na indygowy
+Tl+ barwi płomień na zielony
+
+Zobacz też
+
+Fotometria płomieniowa
+
+
+

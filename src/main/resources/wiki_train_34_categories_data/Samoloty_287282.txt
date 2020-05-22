@@ -1,0 +1,89 @@
+Saab J 35 Draken ( pol. latawiec) lub Saab 35''' – szwedzki samolot myśliwski produkowany przez wytwórnię Saab w latach 1955–1974. Myśliwiec Draken powstał jako następca samolotu Saab Tunnan i myśliwskiej wersji Saab Lansen.
+
+J 35 był pierwszym europejskim naddźwiękowym samolotem myśliwskim. Łącznie wyprodukowano 644 egzemplarze wszystkich odmian Drakena.
+
+Historia
+Na początku ery samolotów odrzutowych Szwecja podjęła decyzję o wyposażeniu swoich sił powietrznych (Flygvapnet) w myśliwiec przechwytujący zdolny do działań przeciw bombowcom i myśliwcom na dużych wysokościach, tak jak amerykański F-104 Starfighter. We wrześniu 1949, szwedzkie ministerstwo obrony FMV (Försvarets materielverk) wystosowało zapotrzebowanie na myśliwiec i nad którym prace rozpoczęto jeszcze w tym samym roku. Dodatkowym wymaganiem była zdolność maszyny do operowania z dróg publicznych jako tymczasowych pasów startowych z możliwością tankowania i uzbrajania samolotu przez słabo wykwalifikowany personel składający się z żołnierzy służby zasadniczej, którzy po przeszkoleniu mieli wykonywać te czynności w czasie nie dłuższym niż 10 minut.
+
+Samolot posiadał charakterystyczny zarys skrzydeł w postaci podwójnej delty, gdzie jeden kształt delty był nałożony na drugą szerszą deltę. Węższa, wewnętrzna część skrzydła miała kąt 80° przystosowany do lotów z dużymi prędkościami podczas gdy zewnętrzna, szersza o kącie 60° wykazywała lepsze własności przy niskich prędkościach. Kształt skrzydła w postaci podwójnej delty okazał się dość rewolucyjny, dlatego też do prób ze tym skrzydłem zbudowano pomniejszony do 70% samolot testowy Saab 210 zwany Lill Draken (mały latawiec). Napęd maszyny testowej stanowił jeden silnik turboodrzutowy Armstrong Siddeley Adder o ciągu 3,92&nbsp;kN. Moc tego silnika okazała się zbyt niska, dlatego w okresie letnim testy w locie można było prowadzić tylko w nocy, gdy temperatura powietrza była niższa. Mimo tych niedogodności Lill Draken wykonał około tysiąca lotów zanim ostatecznie trafił do muzeum.
+
+W sierpniu 1953 rząd szwedzki zamówił trzy maszyny prototypowe i trzy kolejne myśliwce serii informacyjnej oparte na założeniach konstrukcyjnych Lill Drakena. Do napędu maszyn wybrano brytyjski silnik turboodrzutowy Rolls-Royce Avon 200 budowany na licencji jako RM 6B/C przez Svenska Flygmotor (później Volvo Flygmotor).
+
+Pierwszy prototyp Drakena został oblatany 15 października 1955 roku przez Bengta Olowa. Jego napęd stanowił silnik Svenska Flygmotor RM 5A bez dopalacza, będący kopią brytyjskiego Avon Mk 21, ten sam w który wyposażono poprzedni samolot SAABa Lansen. Później zamieniono go na mocniejszy, ale również bez dopalacza Avon Mk 43. Sześć takich jednostek napędowych zakupiono bezpośrednio w wytwórni Rolls-Royce. 26 stycznia 1956 wyposażony w nowy silnik Draken przekroczył po raz pierwszy barierę dźwięku. Samolot ten 19 kwietnia 1956 lądował awaryjnie bez podwozia, co wykluczyło maszynę z dalszych testów na okres kilku miesięcy, gdy poddawana była remontowi.
+
+Drugi prototyp napędzany jeszcze mocniejszym silnikiem Avon Mk 46 został oblatany w marcu 1956 roku, ale tak jak pierwsza maszyna testowa lądował bez podwozia. Wypadek miał miejsce tydzień wcześniej niż lądowanie awaryjne maszyny numer jeden. Ze względu na brak maszyn testowych program badawczo-rozwojowy został zawieszony do momentu wyremontowania samolotów.
+
+Trzeci prototyp wzbił się w powietrze w sierpniu 1956, co pozwoliło na wznowienie testów wraz z dwoma pozostałymi wyremontowanymi już maszynami.
+
+Ostatecznie pierwszy prototyp po zakończeniu programu rozwojowego trafił do muzeum. Druga maszyna została zniszczona podczas pożaru w 1965 roku, a trzecia została przeznaczona do dalszych badań wytrzymałościowych.
+
+W 1956 samolot został zaakceptowany przez rząd szwedzki do produkcji seryjnej jako J 35A (Adam)'''. „J” w nazwie od szwedzkiego słowa Jakt oznaczającego myśliwiec. Kolejne dwa prototypy zbudowano zgodnie ze specyfikacją J 35A i oblatano w 1958. Pierwszy z nich oznaczony numerem 5 został wyposażony w silnik Avon Mk 48A, który później wymieniono na produkowany w Szwecji RM 6B, docelową jednostkę napędową seryjnych Drakenów. Następny prototyp o numerze 4 od początku do końca programu testów był napędzany silnikiem RM 6B. Ostatecznie obie maszyny trafiły do muzeum sił szwedzkich powietrznych.
+
+Po zakończeniu programu badawczo-rozwojowego J 35A został zaakceptowany do produkcji seryjnej, a pierwsze egzemplarze trafiły do jednostek w marcu 1960.
+
+Konstrukcja
+Głównymi ograniczeniami samolotu SAAB J 35 Draken, były tak jak w przypadku wielu innych typów na początku ery samolotów odrzutowych, zasięg i niezawodność. Ponadto jako samolot w konfiguracji delta, gdzie zastosowanie klap nie było możliwe, posiadał dość długą drogę startu i lądowania. Pomimo to maszyna była bardzo prosta w obsłudze dzięki łatwemu do demontażu łączeniu kadłuba w środkowej jego sekcji, dzięki czemu dostęp do silnika również był nieskomplikowany. Zewnętrzne sekcje skrzydeł również były łatwo odłączane upraszczając transport i składowanie samolotu.
+
+SAAB J 35 Draken był samolotem zbudowanym w konfiguracji bezogonowej, w którym sterowanie zapewniały zlokalizowane na końcach płatów dwie pary lotek, które realizowały również funkcję steru wysokości. Osobne pary lotek zainstalowano na zewnętrznych i wewnętrznych częściach skrzydeł. Powierzchnie sterowe napędzały dwa redundantne systemy hydrauliczne. Na kadłubie, na wysokości końca płatów zainstalowano dwa małe hamulce aerodynamiczne.
+
+Napęd samolotów pierwszej wersji produkcyjnej J 35A zapewniał silnik Avon RM 6B z dopalaczem konstrukcji szwedzkiej EBK 65. Zapewniał on ciąg 47,1&nbsp;kN, a z dopalaniem 66,7&nbsp;kN.
+
+W myśliwcu zastosowano ciśnieniową i klimatyzowaną kabinę, której owiewka była unoszona do tyłu na zawiasie w jej tylnej części. Wewnątrz znajdował się z zaprojektowany przez wytwórnię SAAB fotel wyrzucany pochylony pod kątem 30°, aby zmniejszyć wpływ przeciążeń na ciało pilota.
+
+SAAB J 35 Draken posiadał trójpunktowe podwozie z pojedynczymi kołami na każdej z goleni. Podwozie dziobowe wyposażone w błotnik chroniący maszynę podczas lądowania na nieutwardzonej nawierzchni. Przednia goleń była wciągana do kadłuba składając się ku tyłowi, natomiast golenie podwozia głównego składały się na boki ku zewnętrznym częściom skrzydeł. Pod statecznikiem pionowym przewidziano miejsce na spadochron hamujący skracający dobieg maszyny. W przypadku awarii systemu zasilania możliwe było wysunięcie turbiny wykorzystującej pęd powietrza do wytworzenia energii.
+
+28 ostatnich samolotów z liczącej 90 egzemplarzy serii J 35A wyposażono w inny typ dopalacza EBK 66, przez co tylna część kadłuba musiała zostać wydłużona. Aby zapobiec uderzeniu kadłuba o pas startowy podczas startu z dużym kątem natarcia zastosowano dwa wciągane do kadłuba małe kółeczka ogonowe.
+
+Wykorzystanie bojowe
+Osiągi
+
+
+W czasie kiedy wprowadzano do służby samolot Draken, charakteryzował się on doskonałymi parametrami. Chociaż nie był zaprojektowany jako myśliwiec do walk powietrznych, jego doskonałe własności manewrowe powodowały, że także przy takich zastosowaniach doskonale się sprawdzał.
+
+J 35 Draken był wielokrotnie modyfikowany i ulepszany, a ostatnia wersją był J 35J z początku lat 90. XX wieku. Później zaprzestano modyfikacji, zastępując go przez samoloty typu Saab Viggen i Saab Gripen. Nadal jednak wiele egzemplarzy pozostaje w służbie poza Szwecją, a także w wersjach cywilnych. Specjalne wersje były eksportowane głównie do Danii i Finlandii. W 1985 roku lotnictwo wojskowe Austrii zakupiło 24 wyremontowane egzemplarze wersji samolotu Saab-Scania Drakar. W USA sześć sztuk Drakarów zakupionych od Danii służy jako samoloty do szkolenia pilotów w National Test Pilot School (NTPS).
+
+Wszystkie Drakeny były samolotami przechwytującymi z wyjątkiem maszyn używanych przez lotnictwo Danii, które były samolotami szturmowymi zdolnymi do przenoszenia pocisków rakietowych AGM-12 Bullpup, systemów zakłócających, oraz powiększonych zbiorników paliwa. Wewnętrzne zbiorniki paliwa również były większe. Duńskie Drakeny były najcięższą wersją samolotów tego typu.
+
+Wersje samolotu Draken
+J 35A (Adam)''' – Pierwsza wersja produkcyjna, nie wszystkie egzemplarze posiadały radar, niektóre zmodyfikowano do przenoszenia sensorów IR. Zbudowano 90 egzemplarzy.
+J 35B (Bertil)''' – Zewnętrznie identyczny jak J 35A. Oblatany 29 listopada 1959 został wprowadzony do uzbrojenia Flygvapnet w 1961. Nowością w wyposażeniu maszyny był nowy system kontroli lotu SAAB S7 umożliwiający atak na cele powietrzne z każdej strony, a nie tak jak w J 35A tylko z tylnej półsfery. Atak spoza tylnej półsfery ograniczały naprowadzane na źródło ciepła pociski Rb 24, dlatego Drakeny J 35B wyposażano w dwie 19-prowadnicowe wyrzutnie pocisków niekierowanych Bofors kalibru 75&nbsp;mm (3 cale) zainstalowane na specjalnym stelażu mocowanym do podkadłubowego uchwytu uzbrojenia. Możliwe było również wykorzystanie maszyny do ataków na cele naziemne przy pomocy podwieszanych niekierowanych pocisków kalibru 135&nbsp;mm. Łącznie zbudowano 73 egzemplarze.
+Sk 35C (Caesar)''' – Dwumiejscowa wersja szkolna oblatana 30 grudnia 1959 roku. Posiadała dwumiejscową kabinę w układzie tandem z tylnym siedzeniem zainstalowanym nieco wyżej niż fotel ucznia. Ponadto w kabinie instruktora zainstalowano peryskop w celu poprawienia widoczności. Pomiędzy kabinami zainstalowano pancerną szybę, której zadaniem była ochrona instruktora w przypadku potencjalnego rozbicia szyby kabiny przedniej np przez zderzenie z ptakiem. Owiewka kabiny otwierała się na bok. Aby zrównoważyć rozmiar zbiorników, które należało pomniejszyć w celu pomieszczenia drugiej kabiny, zrezygnowano z obu działek ADEN. Ze względu na brak miejsca konieczne było również usunięcie radaru, chociaż pozostawiono uchwyty uzbrojenia dla celów treningowych. Sk 35C był ostatnim typem samolotu napędzanego silnikami Avon 200 (RM 6B). Przebudowano 26 egzemplarzy z wersji J 35A.
+J 35D (David)''' – najszybsza wersja Drakena, wyposażona w nowe silniki RM 6C (licencyjna wersja Avon 300'') zdolna osiągnąć prędkość 2 Ma. Ciąg nowego silnika wynosił 56,4&nbsp;kN, a z wykorzystaniem szwedzkiego dopalacza EBK 66 76,8&nbsp;kN. Ze względu na zwiększone zapotrzebowanie nowego silnika na paliwo zamiast jednego węzła podkadłubowego zastosowano dwa, a ponadto dwa podskrzydłowe punkty podwieszeń zyskały możliwość podwieszania zbiorników paliwa. Wyposażenie elektroniczne maszyny stanowił nowy, opracowany w Szwecji autopilot SAAB FH5 i system kontroli lotu SAAB S7A z radarem Ericsson PS-03. W kokpicie zainstalowano nowy, napędzany silnikiem rakietowym, fotel wyrzucany SAAB 73SE-F umożliwiający pilotowi bezpieczną ewakuację przy zerowej wysokości i minimalnej prędkości 100&nbsp;km/h. Później fotel ten wymieniono na nowszy SAAB RS35, który spełniał wymagania klasy „zero-zero” umożliwiając ewakuację także ze stojącego na pasie samolotu. Zbudowano 92 egzemplarze tej wersji.
+S 35E (Erik)''' – Nieuzbrojona wersja rozpoznawcza (Spaning) wyposażona w siedem francuskich kamer typu OMERA. Osłona dziobu maszyny została zamontowana na specjalnych szynach co znacznie ułatwiło dostęp do kamer. W kabinie pilota zainstalowano peryskop umożliwiający obserwację przestrzeni pod samolotem i ułatwiający nakierowanie kamer na cel. Dodano także magnetofon zapisujący komentarze pilota. Maszyny tej wersji nie posiadały radaru ani uzbrojenia. Na uchwytach pod skrzydłami i kadłubem można było instalować zbiorniki z paliwem, oraz wyrzutnik pułapek termicznych i dipoli elektromagnetycznych.
+J 35F (Filip)''' – Pierwsza wersja wyposażona w pociski radarowe naprowadzane radarem. Zbudowano 230 egzemplarzy.
+J 35J – Ulepszona wersja J 35F, główną zewnętrzną różnicę stanowiły dwa zaczepy pod wlotami powietrza służące do podwieszenia pocisków rakietowych AIM Sidewinder.
+SAAB 35H – Przeznaczona na eksport dla szwajcarskiego lotnictwa. Nigdy nie została dostarczona.
+SAAB 35XD – Duńska wersja eksportowa.
+F-35''' – jednomiejscowy myśliwiec,
+TF-35''' – dwumiejscowy samolot szkolny
+RF-35''' – samolot rozpoznawczy.
+SAAB 35XS – Wersja myśliwska dla Fińskich Sił Powietrznych. Produkowany na licencji przez fińską firmę Valmet.
+SAAB 35BS – Używane J 35B sprzedane do Finlandii
+SAAB 35DS – Używane J 35D sprzedane do Finlandii
+SAAB 35CS – Używane Sk 35C sprzedane do Finlandii
+SAAB 35OE – Zmodyfikowane J 35D sprzedane do Austrii
+SAAB J 35J – Ostatnia modernizacja Drakena. Zmodernizowano do tej wersji 65 sztuk wersji J 35F.
+
+Oznaczenia Drakenów
+J 35''' – Wersja myśliwska (od szwedzkiego Jakt)
+S 35''' – Wersja rozpoznawcza (od szwedzkiego Spaning)
+Sk 35''' – Wersja szkolna (od szwedzkiego Skol)
+
+Uzbrojenie
+Uzbrojenie strzeleckie samolotu SAAB J 35 Draken stanowiły dwa brytyjskie działka rewolwerowe ADEN kalibru 30&nbsp;mm zlokalizowane w zewnętrznych częściach skrzydeł po zewnętrznej stronie wlotów powietrza. Na każde działko przewidziano po 90 sztuk amunicji.
+
+W wersji J 35A przenoszenie uzbrojenia podwieszanego umożliwiały trzy punkty mocowania, po jednym pod skrzydłami i jednym pod kadłubem. Węzeł podkadłubowy był najczęściej wykorzystywany do przenoszenia dodatkowego zbiornika paliwa o pojemności 530 litrów, ale możliwe było zamocowanie także uchwytu na dwa pociski rakietowe powietrze-powietrze Rb 24''' będące produkowaną na licencji w Szwecji odmianą pocisków AIM-9B Sidewinder. Uchwyty podskrzydłowe pozwalały na przenoszenie jeszcze dwóch takich pocisków.
+
+Na uchwytach podskrzydłowych możliwe było również zainstalowanie dwóch wyrzutni niekierowanych pocisków Bofors kalibru 135, umożliwiających atak na cele naziemne.
+
+Cztery punkty mocowania uzbrojenia lub dodatkowych zbiorników paliwa. W wersji J dwa dodatkowe punkty mocowania pocisków Sidewinder.
+
+AIM-9J Sidewinder – pocisk rakietowy powietrze-powietrze
+AIM-9B Sidewinder – pocisk rakietowy powietrze-powietrze
+RB 27 Falcon – pocisk rakietowy powietrze-powietrze (HM 55 i HM 58)
+2 × działka ADEN kalibru 30&nbsp;mm po 150 nabojów na działko (w wersjach F i późniejszych stosowano tylko jedno działko)
+Do atakowania celów naziemnych do 500&nbsp;kg bomb lub pocisków rakietowych
+Maksymalny udźwig 2900&nbsp;kg
+
+Linki zewnętrzne
+]]

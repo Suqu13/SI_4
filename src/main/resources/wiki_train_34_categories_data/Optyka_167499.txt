@@ -1,0 +1,37 @@
+
+
+Fotodioda – dioda półprzewodnikowa pracująca jako fotodetektor.
+
+Fotodiody wykonane są jako elementy złącza p-n lub p-i-n, z warstwą samoistną (niedomieszkowaną).
+Fotony padające na złącze są absorbowane (zjawisko fotoelektryczne wewnętrzne) w rezultacie czego elektron zostaje przeniesiony do pasma przewodnictwa i powstaje para elektron-dziura. Elektrony swobodne są przyciągane przez dodatni ładunek przestrzenny na granicy obszaru typu n, dziury zaś wędrują do obszaru typu p. Prąd przewodzenia złącza p-n zwiększa się wraz ze wzrostem strumienia świetlnego. Złącze musi być spolaryzowane zaporowo z zewnętrznego źródła napięcia.
+
+Tryby pracy
+Brak polaryzacji – dioda pracuje jako źródło prądu elektrycznego, przy oświetleniu w złączu powstaje siła elektromotoryczna wywołująca prąd elektryczny (fotoprąd lub zjawisko fotowoltaiczne).
+przy polaryzacji zaporowej – do diody podłączone jest napięcie w kierunku zaporowym, dioda pełni rolę rezystora którego opór zależy od oświetlenia. Przy braku światła płynie tzw. prąd ciemny. Po oświetleniu liczba ładunków mniejszościowych wzrasta, a co za tym idzie wzrasta prąd wsteczny.
+
+Zastosowania
+przy braku polaryzacji – bateria słoneczna
+przy polaryzacji zaporowej – nieliniowy rezystor, w którym opór zależy od strumienia światła
+
+W obu przypadkach można wykorzystać fotodiodę jako detektor.
+
+Typowe konstrukcje
+stopowa (częstotliwość graniczna fgr~10 MHz)
+dyfuzyjna-mesa (fgr ''~ 100 MHz)
+dyfuzyjna-planarna (fgr ''~ 100 MHz)
+pin (fgr ''~ 10 GHz, napięcie zasilające 1 V ~100 V)
+fotodioda lawinowa (fgr ''~ GHz, napięcie zasilające 200 V ~ 400 V)
+ostrzowa.
+
+Bibliografia
+Elektrotechnika i elektronika dla nieelektryków – Praca zbiorowa, Warszawa 1978
+
+Zobacz też
+
+fototranzystor
+fotorezystor
+fotokomórka
+efekt fotoelektryczny
+
+
+

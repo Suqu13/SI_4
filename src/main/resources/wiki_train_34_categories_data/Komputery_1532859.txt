@@ -1,0 +1,22 @@
+Nautilus – superkomputer, klaster stworzony przez firmę IBM, zainstalowany w Interdyscyplinarnym Centrum Modelowania Matematycznego i Komputerowego (ICM), na Uniwersytecie Warszawskim. Jego wydajność według listy TOP500 wynosi 18,5 TFLOPS.
+
+W listopadzie 2008 roku Nautilus znalazł się na pierwszym miejscu listy Green500, najbardziej energooszędnych superkomputerów na świecie.
+
+Charakterystyka
+Nautilus jest prototypem komputera hybrydowego. Działa pod kontrolą systemu GNU/Linux, jest oparty na serwerach Blade QS22 i procesorach IBM PowerXCell 8i. Osiąga rekordową wydajność na jednostkę zużywanej energii elektrycznej – ponad 536 Megaflopów na 1 Wat. W listopadzie 2008 roku Nautilus został umieszczony na 221 miejscu TOP500 – światowej listy najbardziej wydajnych superkomputerów. To czwarty polski superkomputer na tej liście.
+
+Specyfikacja
+112 IBM BladeCenter QS22, z których każdy posiada:
+dwa procesory PowerXCell8i osiągające teoretycznie maksymalną wydajność ponad 200 GFLOPS (podwójna precyzja)
+8GB RAM
+2-portowy adapter DDR Infiniband
+Voltaire Grid Director ISR 2012 Multi-Service Switch:
+120 portów
+w pełni nie blokującą komunikację
+
+Wykorzystanie
+Jednym z pierwszych założonych celów prototypu była praca z adapterem DDR InfiniBand na systemie QS22 Blade, a także dostosowanie procesorów PowerXCell8i do pracy z prędkością 4,0 GHz, która powoduje dalsze zwiększenie teoretycznej szczytowej wydajności klastra do 24 TFlops. Zaplanowane przyszłe działania będą związane z heterogenicznymi systemami z zastosowaniem procesorów PowerXCell8i mającymi przyspieszyć działanie tradycyjnych węzłów x86 (np. BladeCenter LS21 oparte na AMD Opteron).
+
+
+
+Linki zewnętrzne

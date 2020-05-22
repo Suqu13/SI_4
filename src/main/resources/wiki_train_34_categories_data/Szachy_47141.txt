@@ -1,0 +1,89 @@
+System szwajcarski – sposób rozgrywania zawodów sportowych w dyscyplinach, w których rywalizacja polega na bezpośrednich pojedynkach pomiędzy uczestnikami. W systemie szwajcarskim z góry określa się liczbę rund, które należy rozegrać. Na rundę składają się bezpośrednie pojedynki (gry) rozgrywane jednocześnie. Za zwycięstwo w grze uczestnik otrzymuje jeden punkt, za remis pół punktu (w zawodach drużynowych punktacja może być inna). Dobór par przeciwników w kolejnych rundach zależy od wyników uzyskanych w poprzednich. Pary dobiera się w miarę możliwości spośród tych uczestników, którzy dotychczas zdobyli jednakową liczbę punktów. Jeśli liczba uczestników zawodów jest nieparzysta, w każdej rundzie jeden z uczestników z najmniejszym dorobkiem punktowym, który jeszcze nie pauzował, otrzymuje wolny los (tzw. bye) czyli dostaje punkt bez gry.
+
+System szwajcarski jest stosowany przede wszystkim w turniejach szachowych oraz rozgrywkach w innych grach planszowych. Większość zawodów petanque w Polsce rozgrywana jest z jego użyciem. 
+
+
+Kojarzenie par w kolejnych rundach jest dość skomplikowane, ponieważ system musi wykluczyć możliwość dwukrotnego spotkania się tych samych przeciwników. Dodatkową komplikacją w grach planszowych jest konieczność zapewnienia "sprawiedliwego" przydziału kolorów bierek w kolejnych pojedynkach.
+
+Odmianą systemu szwajcarskiego jest system McMahona, stosowany przede wszystkim w turniejach go. W systemie McMahona gracze dostają dodatkowe punkty początkowe zależne od ich rankingu (oprócz czołówki, która dostaje równą liczbę punktów, żeby nie zaburzać walki o pierwsze miejsce).
+
+Wytyczne systemu
+Międzynarodowa Federacja Szachowa (FIDE) opracowała precyzyjny regulamin rozgrywania zawodów systemem szwajcarskim. Przed zawodami zawodnicy są uszeregowani w kolejności punktacji rankingowej odzwierciedlającej aktualną siłę gry każdego zawodnika. Listy rankingowe są publikowane co kwartał. Przed kojarzeniem I rundy listę tę dzieli się na dwie części. W górnej połowie listy znajdują się zawodnicy najwyżej zaszeregowani, w dolnej – pozostali. W pierwszej rundzie zawodnik z nr 1 spotka się z zawodnikiem najwyżej zaszeregowanym w dolnej grupie i następnie kolejni według tej zasady. Kolor bierek dla pierwszej pary jest losowany, następne pary zawodników otrzymają kolory bierek odmienne.
+
+Podstawowe zasady kojarzenia par w systemie szwajcarskim zostały w regulaminie określone w następujący sposób:
+
+dwóch zawodników nie może się spotkać więcej niż jeden raz;
+zawodnik, który otrzymał punkt bez gry nie może otrzymać wolnego losu;
+zawodnik może rozegrać jednym kolorem co najwyżej o dwie partie więcej niż kolorem przeciwnym;
+żaden zawodnik nie może grać trzeci raz z rzędu tym samym kolorem;
+kojarzenie do następnej rundy odbywa się w ramach grup punktowych z tą samą liczbą punktów, a jeśli to dla niektórych zawodników jest niemożliwe różnica punktowa pomiędzy kojarzonymi zawodnikami musi być najmniejsza z możliwych;
+tak wielu zawodnikom, jak to tylko możliwe, należy przydzielić oczekiwany kolor; jest to kolor, którym rozegrali mniej partii niż drugim kolorem, a w przypadku równej liczby partii jest to kolor odmienny od koloru poprzedniej rundy (jeśli dwóch skojarzonych zawodników oczekuje na ten sam kolor – musi być spełniony warunek pkt 3, a oczekiwany kolor bierek otrzyma zawodnik, który ma bardziej nierówny przydział kolorów z poprzednich rund, dodatkowo – jeśli dwóch skojarzonych zawodników ma identyczną historię przydziału koloru z poprzednich rund – oczekiwany kolor otrzyma zawodnik wyżej zaszeregowany na liście);
+zawodnik, który grał w poprzedniej rundzie z zawodnikiem o większej (mniejszej) liczbie punktów nie powinien być ponownie skojarzony z zawodnikiem o większej (mniejszej) liczbie punktów;
+zawodnik, który grał dwie rundy wcześniej z zawodnikiem o większej (mniejszej) liczbie punktów nie powinien być ponownie skojarzony z zawodnikiem o większej (mniejszej) liczbie punktów.
+
+Zasady 1-2 są bezwarunkowe, tzn. kojarzenie musi spełnić każdy z tych warunków. Zasady 3-4 są również bezwarunkowe z wyjątkiem ostatniej rundy, kiedy wolno je złamać, jeśli dzięki temu uda się skojarzyć więcej par, w których zawodnicy będą mieli taką samą liczbę punktów. Zasady 5-8 są uszeregowane według ważności i muszą być stosowane we wszystkich przypadkach, w których nie są sprzeczne z zasadami ważniejszymi. Regulamin FIDE zawiera szczegółowy opis algorytmu kojarzenia par.
+
+Zalety systemu
+Ogromną zaletą systemu szwajcarskiego jest możliwość rozegrania turnieju w jednej grupie z udziałem dużej liczby zawodników. W turniejach szachowych rozgrywanych tym systemem nierzadko bierze udział kilkuset zawodników o różnym poziomie gry. Początkujący mogą w bezpośrednim pojedynku spotkać się z arcymistrzami, w jednym turnieju mają szansę pokonać zawodników uznawanych za silniejszych i szybko awansować w szachowej hierarchii. Ważne jest również, że jedna słabsza gra nie przekreśla szans zawodnika. Takich możliwości nie daje ani system kołowy (ze względu na dużą liczbę koniecznych gier) ani pucharowy, który eliminuje zawodnika po pierwszej porażce.
+
+Wady systemu
+Wadą systemu szwajcarskiego jest spory wpływ czynnika losowego, którego znaczenie ogranicza się poprzez ustalenie początkowej kolejności zawodników według siły gry (zazwyczaj na podstawie rankingu). System szwajcarski jest również znacznie mniej obiektywny od systemu kołowego. Zawodnik, który przegrywając w pierwszych rundach, w końcowych zdobywał punkty na słabszych przeciwnikach może w ostatecznej klasyfikacji wyprzedzić zawodnika, który dobrze grał z silniejszymi, lecz w końcowych rundach zdobył mało punktów. Decydujące znaczenie ostatniej rundy stanowi o specyficznej atrakcyjności systemu szwajcarskiego.
+
+System ten nie sprawdza się też dobrze, w momencie gdy liczba zawodników jest niewiele większa od liczby rund do rozegrania. Wówczas w końcowych rundach spotkać się mogą zawodnicy, których różnica punktów jest spora.
+
+Zaś w turniejach, gdzie liczba zawodników jest parokrotnie wyższa od liczby rund (np. 7 rund i 1500 zawodników) - wielu zawodników może mieć maksymalną liczbę punktów (czyli taki sam progres), wówczas najczęściej decyduje tzw. system Buchholza.
+
+Zobaczmy na przykładzie jak w praktyce wyglądałby turniej w którym byłoby 7 rund i 1500 zawodników. Załóżmy, że w każdej rundzie 20% partii kończy się remisem.
+
+Mamy pierwszą rundę, w której rozgrywanych jest 750 partii - jeżeli 20% z nich zakończy się remisem to pozostałe 600 gier zakończy się zwycięstwem, któregoś z graczy. Przed drugą rundą 600 osób będzie miało więc maksymalną liczbę punktów. Spotkają się oni ze sobą (rozegrają między sobą 300 partii) - z czego według założeń 60 zakończy się remisem - a więc w 240 partiach ktoś wygra. Po drugiej rundzie 240 zawodników będzie miało maksymalną liczbę punktów. Analogicznie:
+Po trzeciej rundzie takich graczy zostanie 96 graczy.
+Po czwartej 38,4
+Po piątej 15,36
+Po szóstej 6
+Po siódmej 2,457
+
+A więc w takim turnieju przy takich założeniach zostanie 2 zawodników z maksymalną liczbą punktów - oczywiście nie grali oni ze sobą - w takim przypadku zadecyduje Buchholtz - na który zawodnicy nie mieli wpływu.
+
+Przykład praktyczny
+Załóżmy, iż ma zostać rozegrany 3-rundowy turniej z udziałem 6 zawodników.
+
+Lista rankingowa przedstawia się następująco:
+Zawodnik A - 2000 (ranking)
+B - 1800
+C - 1600
+D - 1400
+E - 1200
+F - 1000
+
+Pierwsza runda według zasad systemu szwajcarskiego będzie następująca (przy założeniu, że zawodnik A, jako najwyżej rozstawiony, wylosował w I rundzie kolor biały):
+A - D
+E - B
+C - F
+
+Załóżmy, że gracze A, B i C wygrali pierwszą partię. Wówczas kojarzenie (w których będą brane najpierw zdobyte punkty) będzie wyglądać następująco:
+B - A
+D - C
+F - E
+
+Załóżmy, że teraz swoje partie wygrali gracze A, C i E. Tabela turniejowa po drugiej rundzie będzie więc prezentować się następująco:
+
+A - 2 pkt
+C - 2 pkt
+B - 1 pkt
+E - 1 pkt
+D - 0 pkt
+F - 0 pkt
+
+W trzeciej rundzie na pewno zmierzy się ze sobą gracz A i C (nie grali ze sobą i mają po tyle samo punktów), gracze B i E (grali już ze sobą) muszą się spotkać z D i F. Po uwzględnieniu kolorów bierek, kojarzenia będą następujące:
+
+A - C
+F - B
+E - D
+
+Bibliografia
+Kodeks Szachowy cz. B.III oraz B.IV (wydanie 2002)
+korekta merytoryczna: Ulrich Jahr (sędzia szachowy klasy międzynarodowej)
+
+
+
+Linki zewnętrzne

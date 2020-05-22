@@ -1,0 +1,13 @@
+Komputer optyczny (lub komputer fotoniczny) to hipotetyczne urządzenie wykorzystujące fotony zamiast prądu elektrycznego do przeprowadzania obliczeń. Współcześnie dane przetwarza się za pomocą urządzeń elektronicznych, które zużywają energię na pokonywanie oporu elektrycznego przewodników. Do przesyłania danych wykorzystuje się światłowody, które są o wiele efektywniejsze od przewodów elektrycznych. W sieciach komputerowych pakiety muszą być jednak rutowane do odpowiednich odbiorców, co wymaga wielokrotnego przekształcania danych na postać elektryczną i z powrotem na światło. Każda taka operacja powoduje straty energii i spowalnia komunikację. Wprowadzenie komputerów optycznych wyeliminowałoby te przeszkody.
+
+Elementy optycznego komputera
+Podstawowym elementem współczesnych komputerów są tranzystory. Do skonstruowania optycznego komputera niezbędny jest ich optyczny odpowiednik, w którym światło będzie kontrolować optyczne własności ośrodka, działającego jak bramka logiczna. Istnieją metamateriały o nieliniowym współczynniku załamania, które mogłyby umożliwić jego zbudowanie.
+
+Zobacz też
+optyka nieliniowa
+fotonika
+nanofotonika
+
+
+
+Linki zewnętrzne

@@ -1,0 +1,58 @@
+Komputer DNA (biokomputer)''' to komputer, w którym obliczenia zachodzą dzięki reakcjom chemicznym między cząsteczkami DNA.
+
+Zasada działania
+W komputerze DNA informacja jest zakodowana w postaci łańcuchów DNA. Podobnie jak zwykłe komputery, składa się z bramek logicznych, te jednak są oparte na enzymach. Enzymy te powodują reakcje chemiczne między łańcuchami a ich wynik stanowi nową informację. Komputer taki jest probabilistyczny – wynik każdego działania otrzymujemy jedynie z pewnym prawdopodobieństwem.
+
+Rozwój komputerów DNA
+Eksperyment Adlemana
+W 1994 r. Leonard Adleman zaproponował ideę rozwiązywania problemów matematycznych za pomocą cząsteczek DNA. Na łamach magazynu Science przedstawił metodę rozwiązania problemu komiwojażera dla 7 miast i 13 dróg między nimi. Eksperyment miał następujący przebieg:
+Każde miasto było reprezentowane przez losowy łańcuch DNA o długości 20, np:
+
+G-C-A-C-T-G-G-A-C-T-C-A-T-G-C-A-C-T-G-T
+
+Droga między miastami 1 i 2 reprezentowana była przez łańcuch długości 20 składający się z cząsteczek stanowiących dopełnienie (na zasadzie komplementarności: A-T, C-G) zasad łańcuchów reprezentujących te miasta, w połowie od każdego. Ponieważ w DNA adenina (A) łączy się z tyminą (T) a cytozyna (C) z guaniną (G), pierwsza połowa łańcucha łączyła się z połową łańcucha reprezentującego miasto 1, a druga z połową łańcucha reprezentującego miasto 2. Przykładowo, łańcuchy miasto 1''' i miasto 2''' można połączyć łańcuchem reprezentującym drogę w następujący sposób:
+
+
+C-T-A-G-C-A-T-A-G-T-A-T-G-C-G-T-C-G-A-G
+
+G-C-A-C-T-G-G-A-C-T-C-A-T-G-C-A-C-T-G-T
+
+
+T-A-C-G-C-A-G-C-T-C-C-G-T-G-A-C-C-T-G-A
+
+Łańcuch taki działa niczym klocek Lego łączący dwa inne umieszczone "na górze". Kontynuując w ten sposób mogą powstać łańcuchy DNA reprezentujące ścieżki przechodzące kolejno przez kilka miast.
+
+Miliardy łańcuchów umieszczono w próbówce i wymieszano.
+Łańcuchy łączą się ze sobą tworząc wszystkie możliwe ścieżki od miasta 1 do 7.
+Przy zastosowaniu reakcji chemicznych wyeliminowane zostają wszystkie ścieżki poza tymi, które zawierają dokładnie 7 różnych łańcuchów.
+
+Znalezienie wszystkich możliwych ścieżek zajęło kilka sekund, jednak wykluczenie nie spełniających warunków zadania trwało kilka dni.
+
+Eksperyment Adlemana został zobrazowany w formie komiksu.
+
+Bramki logiczne
+W 1997 r. Animesh Ray i Mitsu Ogihara z uniwersytetu w Rochester skonstruowali pierwsze bramki logiczne DNA. Wykrywają one fragmenty materiału genetycznego na wejściu, a następnie łączą je dając w rezultacie nowy łańcuch. Przykładowo bramka AND powstaje przez połączenie dwóch łańcuchów końcami przy pomocy ligazy. Długość łańcucha wynikowego można wyznaczyć stosując metodę elektroforezy żelowej.
+
+W 2002 na Uniwersytecie Columbia opracowano szereg bramek opartych na enzymie DNA, fosfodiesterazie.
+
+Pierwszy komputer
+Informacja o pierwszym komputerze DNA pojawiła się 28 marca 2002 r. w magazynie Nature. Został on skonstruowany pod kierunkiem Ehuda Shapiro w Instytucie Weizmanna. Spełniał wymogi automatu skończonego. Był on wyposażony w prosty moduł wejścia i wyjścia i mógł diagnozować komórkę rakową i podawać jej lek.
+
+Kółko i krzyżyk
+W 2003 r. naukowcy z Uniwersytetu Columbia i Uniwersytetu Nowego Meksyku skonstruowali komputer MAYA, który potrafił grać w kółko i krzyżyk.
+Składał się z 23 bramek DNA rozmieszczonych w próbówkach oznaczających 8 zewnętrznych pól planszy do gry. Przebieg gry wyglądał następująco:
+Ruch człowieka polegał na dodaniu jednego z ośmiu DNA do każdego z pól. Każdy rodzaj DNA miał inną sekwencję i oznaczał wybór innego pola w grze.
+W wyniku reakcji wewnątrz pól, bramki wywoływały fluorescencję odpowiedniego pola, co oznaczało ruch komputera.
+Pierwszy ruch w grze należał do komputera i wykonywał go zawsze w centralnym polu. 
+Drugi ruch człowieka ograniczony był tylko do dwóch pól: górnego i środkowego w lewej kolumnie.
+Istnieje 19 możliwych scenariuszy tej gry. W żadnym komputer nie przegrywał.
+
+W 2006 roku powstała MAYA-II, udoskonalona wersja komputera, która zawierała 128 bramek DNA. Pierwszy ruch znów należał do komputera i był wykonywany w centralnym polu, tym razem jednak człowiek mógł wybrać dowolne z ośmiu pozostałych pól. Pozwalało to na 76 możliwych scenariuszy gry.
+
+Gra zajmuje dużo czasu. Obliczenie jednego ruchu trwa od 2 do 30 minut.
+Zastosowanie
+Komputer DNA może być stosowany do identyfikacji wirusów lub znajdowania mutacji w kodzie genetycznym. Można go używać w roztworach chemicznych i w żywych organizmach, co może umożliwiać diagnozę i leczenie nawet na poziomie pojedynczych komórek.
+
+
+
+

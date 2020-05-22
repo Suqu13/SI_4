@@ -1,0 +1,85 @@
+
+
+Amiga (hiszp. la amiga – przyjaciółka) – popularna marka komputerów produkowanych między innymi przez firmę Commodore. Po bankructwie Commodore marka została przejęta przez firmę Escom, a następnie przez Gateway. W końcu wyłoniła się samodzielna firma Amiga INC, która po bankructwie sprzedała wszelkie prawa firmie KMOS. Z kolei KMOS zmieniło nazwę na Amiga Inc.
+
+System operacyjny
+Systemem operacyjnym Amigi jest AmigaOS z interfejsem Workbench. W momencie wydania AmigaOS był jednym z pierwszych systemów wielozadaniowych na komputery osobiste, znacznie przewyższającym pod tym względem systemy operacyjne produkowane w tamtych latach, na przykład przez Microsoft.
+
+Przez lata system Amigi stale ewoluował. Najbardziej znaczące zmiany nastąpiły przy wydaniu wersji 3.x, która w wersji 3.9 była ostatnią obsługującą procesory linii 68k. Wersja 4 systemu została przepisana całkowicie pod procesory PowerPC i jest obecnie nadal rozwijana przez firmę Hyperion Entertainment. Najnowsza wersja AmigaOS oznaczona jest numerem 4.1 i pojawiło się do niej uaktualnienie Update 1.
+
+Istnieją również bazujące na AmigaOS systemy rozwijane niezależnie. Zalicza się do nich AROS Research Operating System (AROS) oraz MorphOS.
+
+Dla komputerów Amiga powstały również dystrybucje Linuksa oraz NetBSD.
+
+Komputery zawierające chipset OCS/ECS/AGA
+
+Pierwszym modelem Amigi, wprowadzonym do sprzedaży w lipcu 1985 była Amiga 1000 z procesorem MC68000 7,14&nbsp;MHz firmy Motorola i chipsetem OCS.
+
+Dwa lata później pojawiły się dwa modele – Amiga 500 i Amiga 2000, obydwa konstrukcyjnie bardzo podobne do A1000. Różniły się jedynie możliwościami rozbudowy.
+
+Amiga 500 była komputerem domowym, z jednostką centralną zintegrowaną w płaskiej obudowie z klawiaturą i napędem dyskietek. Brak było kontrolera dysku twardego, choć istniały zewnętrzne urządzenia tego typu. Możliwości rozbudowy z przyczyn czysto objętościowych były mniejsze niż w poprzednich modelach (choć i tak duże). Pierwsze serie obu tych komputerów były wyposażone w chipset OCS (tzw. Original chipset). Wersja Amiga 500+ charakteryzowała się nowszym oprogramowaniem ROM i większą ilością pamięci RAM oraz chipsetem ECS (Enhanced chipset).
+
+Amiga 2000 była komputerem profesjonalnym, z dużymi możliwościami późniejszej rozbudowy. Oferowana była w kilku wariantach: Amiga 2500 (z procesorem MC68020 i dyskiem twardym), A2000HD (z dyskiem SCSI), A2000UX (działająca pod kontrolą systemu Unix, dokładniej SVR4).
+
+Rozwinięciem modelu Amiga 2000 była Amiga 3000 (1990) – pierwszy 32-bitowy model Amigi. Wyposażona była w procesor MC68030 (16 lub 25&nbsp;MHz) i chipset ECS. Istniała wersja UX pracująca pod kontrolą SVR4 (patrz: Unix). Chipset ECS oraz firmowo zamontowany flicker-fixer oraz firmowo zamontowany kontroler SCSI, możliwość dokupienia kontrolera DMA. Kickstart 2.0, aktualizowany potem do 2.04, elegancka obudowa desktop. W niektórych starszych modelach A3000 instalowano kości ROM zawierające wewnętrzną wersję alfa AmigaOS 2.0 – tzw. Kickstart 1.4, przy czym fakt pozostawał ukryty ze względu na to iż w tym modelu Kickstart można było remapować (podmieniać) z obrazu zapisanego na dysku twardym lub specjalnie spreparowanej dyskietce (tzw. SuperKickstartDisk). Kickstart do Amigi 3000 można było sprzętowo rozszerzyć do wersji 3.1.
+
+
+W (1991) roku rozpoczęto sprzedaż modelu z wbudowanym napędem CD – o nazwie Amiga CDTV. Z różnych powodów, model ten nie został dobrze przyjęty przez klientów – zawierał Kickstart 1.3 i brak mu było wbudowanej stacji dyskietek. Niemniej jednak jest jednym z niewielu takich rozwiązań w dziedzinie komputerów osobistych. Amiga CDTV z wyglądu bardzo przypominała magnetowid lub odtwarzacz CD.
+
+Następnym krokiem (1992) był komputer Amiga 600 – najmniejszy model Amigi, pozbawiony bloku numerycznego klawiatury. Chociaż minęło 7 lat od premiery modelu A1000, nadal posiadała procesor 68000 (7,14&nbsp;MHz), ale już chipset ECS. Posiadała jednak kontroler dysku twardego, miejsce na dysk 2,5", stację dyskietek, nowy kickstart (w pierwszych seriach zawierający błędy), wbudowany modulator TV a nawet złącze PCMCIA.
+
+
+Kolejnym modelem była Amiga 1200 z roku 1992 – następczyni modelu A500. Posiadała 32-bitowy procesor MC68EC020 (tańsza wersja MC68020 z 24-bitową szyną adresową oraz nie posiadająca pięciu sygnałów w porównaniu do pełnej wersji), taktowany zegarem 14,28&nbsp;MHz, nowoczesne kości grafiki AGA, rozszerzono pamięć. Tak jak A600 posiada kontroler dysku twardego IDE, modulator TV oraz złącze PCMCIA. Do tej pory model 1200 jest najpopularniejszy ze względu na ogromne możliwości rozbudowy (choć pomyślany był jako model przejściowy, właściwie nie do rozbudowy). Powstało bardzo wiele urządzeń, a wśród najważniejszych znajdują się sloty PCI 2.1 i karty z dwoma procesorami (MC68040/MC68060 + PowerPC 603e od 160 do 240&nbsp;MHz), karty graficzne.
+
+Warto także wspomnieć o modelu Amigi zwanym Amiga CD32. Była to pierwsza 32 bitowa konsola do gier posiadająca wbudowany czytnik CD. Jeżeli chodzi o możliwości i charakterystykę sprzętową, to praktycznie nie różniła się ona pod tymi względami od A1200. Można było do niej zresztą podłączyć klawiaturę, stację dyskietek, czy inne akcesoria, przez co stawała się pełnowartościowym komputerem. Przypuszczano, że gdyby Commodore nadążyło z produkcją CD32, firma uniknęłaby bankructwa.
+Natomiast pomysł konsoli z napędem CD podłączanej pod domowy telewizor, zauważyła firma Sony która zaprezentowała 3 grudnia 1994 roku swój produkt pod nazwą PlayStation, która przyniosła firmie ogromny sukces.
+
+
+Amiga 4000 była rozszerzeniem A3000 z kośćmi AGA, posiadała procesor MC68030 lub MC68040. Kontroler SCSI zamieniono na IDE. Nadal nie użyto 16-bitowych układów dźwiękowych, a flicker-fixera usunięto. Kolejnym modelem była A4000T (tower) o podobnej konfiguracji. Posiadała zarówno kontroler IDE, jak i SCSI.
+
+Inne komputery posługujące się nazwą Amiga lub zbliżoną
+AmigaOne – linia komputerów produkowana przez brytyjską firmę Eyetech. Działa z procesorami PowerPC G3 i G4. Płyta nie jest już produkowana. Na bazie tej linii powstał również model Micro A1.
+
+Micro A1 – produkowany przez brytyjską firmę Eyetech. Płyta główna w formacie miniATX ze zintegrowanym układem graficznym (Radeon firmy ATI) i dźwiękowym. Płyta była sprzedawana z procesorem 750FX/800&nbsp;MHz lub 750GX/800&nbsp;MHz i systemem operacyjnym AmigaOS 4.0. Płyta nie jest już produkowana.
+
+
+AmigaOne X1000 – najnowszy model, zaprojektowany w firmie Varisys, a wprowadzony na rynek 25 stycznia 2012 przez firmę A-EON Technology. Nazwą nawiązuje do pierwszego, historycznego modelu Amigi. Wyposażony w procesor PWRficient PA6T-1682M firmy P.A. Semi (architektura PowerISA v2.04+, dwa rdzenie, 2.0 GHz) i procesor wspomagający Xena architektury Xcore XS1 firmy XMOS.
+
+Commodore Amiga Mini – próba wprowadzenia na rynek komputera PC z licencjonowaną nazwą "Amiga" przez Commodore USA - zakończyła się po śmierci właściciela firmy Barrego S. Altmana w 2012 roku
+
+Obecna sytuacja
+Obecnie rozwojem komputerów AmigaOne zajmuje się firma Hyperion Entertainment. Hyperion na mocy porozumienia z firmą Amiga Inc. rozwija system operacyjny AmigaOS. Najnowsza wersja AmigaOS 4.1 działa bezpośrednio na procesorach PowerPC, i jest kontynuacją poprzednich wersji systemu AmigaOS (od 1.x do 3.x) – opierając się na jego oryginalnych kodach źródłowych.
+
+30 września 2009 roku, obie firmy podpisały ugodę, na mocy której firma Hyperion Entertainment otrzymała de facto wyłączne i wieczyste prawa do wykorzystywania i modyfikacji systemu operacyjnego AmigaOS 3.1 w ramach rozwoju kolejnych, tworzonych przez siebie wersji AmigaOS 4 i późniejszych, oraz do samej nazwy Amiga OS.
+
+Emulatory Amigi
+Istnieje emulator Amigi UAE oraz jego inne wersje dla systemów Unix, Linux, PalmOS, Mac OS, Windows, BeOS, AROS, rodziny systemów BSD, Windows Mobile, Android, Symbian oraz dla samego AmigaOS.
+
+UAE uruchomiony pod AmigaOS umożliwia uruchamiania starszego oprogramowanie odwołującego się bezpośrednio do układów specjalizowanych montowanych w Amigach z czasów firmy Commodore. Programy takie nie działają na komputerach z systemem AmigaOS 4.0, ale dzięki UAE została zapewniona kompatybilność.
+
+Przykładowe inne wersje emulatora UAE – dla Windows, nazywa się WinUAE – oferuje ona znacznie większą funkcjonalność od oryginalnego UAE. Z kolei E-UAE to nieoficjalna wersja UAE ze zintegrowanym mechanizmem JIT oraz innymi usprawnieniami przeportowanymi z WinUAE. E-UAE dostępne jest dla systemów: Linux, Mac OS, BeOS, AmigaOS MorphOS, AROS. Natomiast specjalna wersja emulatora dla Windows Mobile nazywa się PocketUAE.
+
+Warto również wspomnieć o innym (obecnie nie rozwijanym) emulatorze Amigi – Fellow. Wersja dla Windows nazywa się WinFellow.
+
+Ciekawym rozwiązaniem jest komercyjny emulator Amithlon uruchamiany automatycznie przez własną minidystrybucję systemu Linux z rozruchowej płyty CD. Dzięki temu rozwiązaniu użytkownik ma wrażenie, że jedynym działającym systemem jest AmigaOS.
+
+Istnieją projekty, realizujące emulację Amigi w technologii FPGA FPGA – Minimig, Natami, C-One.
+
+Ponadto istnieje system operacyjny MorphOS, działający na niektórych platformach PowerPC, który zawiera zintegrowany emulator systemu AmigaOS (obsługuje aplikacje pisane dla systemów 1.x – 3.x). Podobnie jak AmigaOS 4.0, emulator ten nie potrafi uruchamiać starszych aplikacji odwołujących się bezpośrednio do specjalizowanych układów Amigi, dlatego też używa się na tej platformie emulatora UAE.
+
+Zobacz też
+Amiga Disk Format – format pliku z obrazem dyskietki Amigi.
+WinUAE, emulator Amigi dla systemu Windows.
+E-UAE, emulator Amigi bazujący na WinUAE, przeznaczony dla innych niż Windows systemów operacyjnych
+UAE, emulator Amigi, na którym bezpośrednio lub pośrednio bazują WinUAE, E-UAE, PocketUAE, Akiko
+Akiko, emulator Amigi CDTV oraz CD32 dla systemu Windows bazujący na WinUAE.
+PocketUAE, emulator Amigi dla PocketPC z systemem Windows Mobile.
+DroidPUAE, emulator Amigi dla systemu Google Android
+Fred Fish
+Minimig
+Natami
+
+
+
+Linki zewnętrzne
+- historia Amigi w Onet.pl

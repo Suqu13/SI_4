@@ -1,0 +1,42 @@
+ – specjalna wersja konsoli PlayStation stworzona przez Sony Computer Entertainment, wydana w połowie 1997 roku w Japonii z przeznaczeniem dla hobbystów programowania. Konsola w odróżnieniu od PS sprzedawana była w kolorze czarnym.
+
+Konsola nie posiada blokad regionalnych i pozwala na uruchomienie gry z każdego regionu świata.
+
+Specyfikacja techniczna konsoli jest taka sama jak w PS. Zestaw złącz jest taki sam jak w pierwszych modelach PS.
+
+W skład zestawu Net Yaroze wchodzi:
+czarna konsola PlayStation
+2 czarne standardowe kontrolery PS
+przewód zasilający
+przejściówka zasilania 3-pin
+przewód AV
+przejściówka AV → SCART
+dokumentacja
+
+W skład zestawu Software Development Kit wchodzi:
+przewód szeregowy (do połączenia konsoli z komputerem)
+CD-ROM z oprogramowaniem do użycia w komputerze
+CD-ROM dysk rozruchowy  
+czarna karta pamięci z dołączoną naklejką Net Yaroze
+instrukcja "Start Up Guide" 
+instrukcja "Library Reference" 
+instrukcja "User Guide" 
+
+Pełny zestaw składający się z pudełka Net Yaroze oraz pudełka Software Development Kit kosztował 750$ USD i był tylko do nabycia poprzez zamówienie emailowe. 
+
+Do tworzenia gier na konsolę potrzebny jest komputer zgodny z IBM PC, Macintosh lub NEC PC-9801. Oprogramowanie na dołączonych dyskach CD-ROM umożliwia pisanie gier oraz przeniesienie ich do konsoli.
+
+Konsola została wydana w trzech wersjach:
+DTL-H3000 → Japonia
+DTL-H3001 → Ameryka Północna
+DTL-H3002 → Europa i Australia
+
+Model DTL-H3002 uruchamia się w systemie PAL (576i/50Hz), natomiast pozostałe modele uruchamiają się w systemie NTSC (480i/60Hz). Wszystkie modele potrafią pracować zarówno w systemie PAL jak i NTSC zależnie od regionu uruchomionej gry.
+
+Gry pisane na konsolach Net Yaroze dołączane były do Oficjalnego Polskiego PlayStation Magazynu.
+
+
+
+
+
+

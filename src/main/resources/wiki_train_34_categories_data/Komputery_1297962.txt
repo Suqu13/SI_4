@@ -1,0 +1,46 @@
+Galera – superkomputer, klaster, będący częścią Centrum Informatycznego Trójmiejskiej Akademickiej Sieci Komputerowej (CI TASK).
+
+Galera została uruchomiona 3 kwietnia 2008 na Politechnice Gdańskiej. Dokonali tego Paul S. Otellini, prezes Intel Corporation i członek zarządu Google, rektor Politechniki Gdańskiej prof. Janusz Rachoń oraz dyrektor TASK Mścisław Nakonieczny wraz z gościem honorowym Lechem Wałęsą.
+
+Budowa
+Komputer zbudowany został z 1344 czterordzeniowych procesorów Intel Xeon Quad-Core, co dawało teoretyczną moc obliczeniową rzędu 50 TFLOPS. Koszt budowy w kwocie około 7 milionów złotych został w połowie sfinansowany z dotacji Ministerstwa Nauki i Szkolnictwa Wyższego, a w połowie ze środków z funduszu rozwoju CI TASK.
+
+W czerwcu 2008 rozbudowano pamięć operacyjną z 5 do 10 TB. W 2011 roku rozbudowano system o dodatkowe węzły, zwiększając liczbę rdzeni do 11 tysięcy i pamięć operacyjną do 22 TB.
+
+Wydajność
+W momencie uruchomienia Galera osiągała wydajność 38 TFLOPS i była najszybszym superkomputerem w Polsce. W rankingu najwydajniejszych systemów komputerowych TOP500 zajmowała 16. miejsce w Europie i 46. na świecie. W listopadzie 2010 zajmowała 298. miejsce na świecie. W 2011 roku została rozbudowana do 10752 rdzeni i do 22 TB pamięci operacyjnej, co pozwoliło jej uzyskać wydajność 65,5 TFLOPS i awans na 163. miejsce na świecie.
+
+Dane techniczne
+Klaster na procesorach Xeon Quad-Core z siecią InfiniBand
+Procesory: Intel Xeon Quad-Core 2,33 GHz, 12MB L3 Cache, architektura EM64T
+Liczba serwerów (nodów): 672
+Liczba płyt głównych: 1344
+Liczba procesorów: 2688
+Liczba rdzeni obliczeniowych: 10752
+Całkowita pamięć operacyjna: 22 TB
+Pamięć dyskowa: 215 TB
+
+Sieć:
+InfiniBand:
+zespół przełączników firmy Flextronics:
+60 szt. 24-portowych i 6 szt. 120-portowych
+topologia fat tree
+przepustowość łącza 40 Gb/s
+opóźnienie <5 ns
+Gigabit Ethernet
+zespół przełączników Catalyst firmy Cisco: 28 szt.
+
+Oprogramowanie
+system operacyjny Debian GNU/Linux
+pakiet kompilatorów i bibliotek numerycznych dostarczony przez firmę Intel
+autorskie oprogramowanie do zarządzania i monitorowania CI TASK
+biblioteki MPI
+
+Zobacz też
+Zeus
+Galeon
+Nautilus
+
+
+
+Linki zewnętrzne

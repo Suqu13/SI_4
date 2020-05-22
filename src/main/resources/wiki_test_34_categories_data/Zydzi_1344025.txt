@@ -1,0 +1,58 @@
+Kerem Ben Szemen (hebr. כרם בן שמן; pol. Winnica Syna Urodzaju lub Winnica Owocnego Syna; oficjalna pisownia w ang. Kerem Ben Shemen) – moszaw położony w Samorządzie Regionu Hevel Modi'in, w Dystrykcie Centralnym, w Izraelu.
+
+Położenie
+Moszaw jest położony na wschodnim skraju nadmorskiej równiny Szaron, na stokach niewielkiego wzgórza u podnóża wzgórz Samarii i Judei, w odległości około 19 kilometrów od Morza Śródziemnego. Na południe od moszawu przepływa potok Ayalon.
+
+W jego otoczeniu znajdują się moszawy Kfar Daniel, Ben Szemen, Hadid i Beit Nehemia, oraz wioska młodzieżowa Ben Szemen.
+
+Demografia
+Liczba mieszkańców Kerem Ben Szemen:
+
+
+ImageSize  = width:500 height:270
+PlotArea   = left:50 right:40 top:20 bottom:40
+TimeAxis   = orientation:vertical 
+AlignBars  = justify 
+Colors = 
+  id:gray1 value:gray(0.9)
+DateFormat = yyyy
+Period     = from:0 till:143
+ScaleMajor = unit:year increment:25 start:0 gridcolor:gray1
+TextData =
+  pos:(250,20) textcolor:black fontsize:S
+  text:Ludność Kerem Ben Szemen
+PlotData =
+  bar:1961 color:gray1 width:1 
+   from:0 till:43  width:15  text:43 textcolor:red  fontsize:8px
+  bar:1995 color:gray1 width:1 
+   from:0 till:78  width:15  text:78 textcolor:red  fontsize:8px
+  bar:2001 color:gray1 width:1 
+   from:0 till:143  width:15  text:143 textcolor:red  fontsize:8px
+  bar:2009 color:gray1 width:1 
+   from:0 till:77  width:15  text:77 textcolor:red  fontsize:8px
+
+
+
+Historia
+Moszaw został założony w 1923 w wyniku oddzielenia części gruntów rolnych od sąsiedniego moszawu Ben Szemen. Podczas I wojny izraelsko-arabskiej doznał on poważnych zniszczeń.
+
+Kultura
+Mieszkańcy moszawu korzystają z usług ośrodka kultury i biblioteki położonych w sąsiednim moszawie Ben Szemen.
+
+Gospodarka
+Lokalna gospodarka opiera się na rolnictwie i uprawach winorośli oraz sadu owocowego.
+
+Komunikacja
+Z moszawu wyjeżdża się na zachód lokalną drogą, którą dojeżdża się do wsi młodzieżowej Ben Szemen i dalej do skrzyżowania z drogą nr 443. Jadąc tą drogą na wschód dojeżdża się do dużego węzła drogowego  autostradą nr 1 (Tel Awiw-Jerozolima) i autostradą nr 6 (Beit Kama-Barkai), natomiast jadąc na zachód dojeżdża się do moszawów Ben Szemen i Ginnaton, oraz dalej do miasta Lod.
+
+
+
+Linki zewnętrzne
+Google Maps
+Amudanan
+
+
+
+
+
+

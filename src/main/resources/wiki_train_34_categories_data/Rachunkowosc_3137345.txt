@@ -1,0 +1,16 @@
+Rezerwy na świadczenia emerytalne - zobowiązania wynikające z przeszłych zdarzeń oraz obowiązki wykonania świadczeń o wiarygodnie określonej wartości, które spowodują wykorzystanie już posiadanych lub przyszłych aktywów a ich termin wymagalności nie jest pewien.
+
+Podmioty gospodarcze zobligowane są przepisami bilansowymi do dokonania tzw. biernych rozliczeń międzyokresowych kosztów w wysokości prawdopodobnych zobowiązań przypadających na bieżący okres sprawozdawczy, wynikających z obowiązku wykonania, związanych z bieżącą działalnością, przyszłych świadczeń na rzecz pracowników, w tym świadczeń emerytalnych, których kwotę można oszacować w sposób wiarygodny, mimo że data powstania zobowiązania nie jest jeszcze znana. Te zobowiązania powinny być prezentowane jako rezerwy na zobowiązania.
+
+Rezerwy na odprawy emerytalne tworzy się tylko wtedy, gdy z przepisów prawa, układu pracy lub umów o pracę jednoznacznie wynika, że na pracodawcy ciąży obowiązek ich wypłaty i ich wysokość jest istotna, w związku z czym ich nieuwzględnienie w sprawozdaniu finansowym zniekształciłoby obraz sytuacji finansowej i majątkowej oraz wynik finansowy jednostki.
+
+Jest wiele metod liczenia rezerw na odprawy emerytalne. Krajowy Standard Rachunkowości wskazuje, aby przy wycenie świadczeń emerytalnych i podobnych kierować się postanowieniami MSR 19 „Świadczenia pracownicze”.
+Zalecaną metodą szacowania rezerw na te świadczenia jest wycena aktuarialna. Wycena rezerw uwarunkowana jest wieloma czynnikami (np. warunki makroekonomiczne, rotacja pracowników, ryzyko śmierci).
+
+Bibliografia
+Zobacz też
+Księgowość
+Rachunkowość
+
+
+

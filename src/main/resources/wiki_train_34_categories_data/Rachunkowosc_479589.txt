@@ -1,0 +1,262 @@
+Podatek od towarów i usług (ang. – Value Added Tax (VAT) – podatek od wartości dodanej, rzadziej używany skrót: Podatek od Towarów i Usług (PTU)) – podatek pośredni, pobierany na każdym kolejnym etapie obrotu towarami lub usługami (podatek obrotowy), którego konstrukcja zakłada brak kaskadowego nakładania się podatku poprzez zastosowanie mechanizmu odliczenia podatku pobranego w poprzednich etapach obrotu.
+
+W Polsce został wprowadzony przez ustawę z dnia 8 stycznia 1993 r. o podatku od towarów i usług oraz o podatku akcyzowym (). Jednak konieczność harmonizacji polskiego prawa podatkowego z prawem UE zmusiła polskiego ustawodawcę do uregulowania tej kwestii w nowej ustawie o podatku od towarów i usług z dnia 11 marca 2004 roku ().
+
+Twórcą koncepcji tego podatku był niemiecki przedsiębiorca Carl Friedrich von Siemens, który w swoich pracach z 1920 roku wyłożył jego ideę, ale powszechnie za twórcę VAT uważany jest francuski ekonomista Maurice Lauré.
+
+Podstawowe cechy podatku od towarów i usług
+Zakres przedmiotowy i miejsce świadczenia czynności
+Opodatkowaniu podatkiem od towarów i usług podlega:'''
+odpłatna dostawa towarów i odpłatne świadczenie usług na terytorium kraju,
+eksport towarów,
+import towarów,
+wewnątrzwspólnotowe nabycie towarów za wynagrodzeniem na terytorium kraju,
+wewnątrzwspólnotowa dostawa towarów
+
+Odpłatną dostawą towarów na terytorium kraju jest przeniesienie prawa do rozporządzania towarami jak właściciel. Odpłatną dostawą jest również:
+przeniesienie, z nakazu organu władzy publicznej lub podmiotu działającego w imieniu takiego organu, prawa własności towarów,
+wydanie towarów w oparciu o umowę leasingu,
+wydanie towarów między komitentem a komisantem,
+wydanie towarów przez komisanta na rzecz komitenta na podstawie umowy komisu,
+ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego, ustanowienie spółdzielczego własnościowego prawa do lokalu, przekształcenie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego na spółdzielcze własnościowe prawo do lokalu,
+przekazanie przez podatnika towarów należących do jego przedsiębiorstwa na cele inne niż związane z prowadzonym przedsiębiorstwem (np. przypadki przekazania towarów na cele osobiste podatnika czy darowizna)
+
+Odpłatne świadczenie usług na terytorium kraju to każde świadczenie na rzecz osoby fizycznej, osoby prawnej lub jednostki organizacyjnej niemającej osobowości prawnej, które nie stanowi dostawy towarów.
+Będzie to m.in.:
+przeniesienie praw do wartości niematerialnych i prawnych, bez względu na to, czy są one przedmiotem dokumentu ustanawiającego tytuł prawny,
+zobowiązanie do powstrzymania się od dokonania czynności lub do tolerowania czynności lub sytuacji,
+świadczenie usług zgodnie z nakazem organu władzy publicznej lub podmiotu działającego w jego imieniu lub nakazem wynikającym z mocy prawa,
+nieodpłatne świadczenie, niebędące dostawą, na cele osobiste podatnika lub jego pracowników, oraz wszelkie inne nieodpłatne świadczenie usług, pod warunkiem że nie są one związane z prowadzonym przedsiębiorstwem, a podatnikowi przysługiwało prawo do obniżenia podatku należnego o podatek naliczony przy nabyciu towarów i usług związanych z tymi usługami
+
+Wewnątrzwspólnotowe nabycie towarów za wynagrodzeniem jest to nabycie prawa do rozporządzania jak właściciel towarami, które w wyniku dokonanej dostawy są wysyłane lub transportowane na terytorium innego państwa członkowskiego niż państwo wysyłki.
+Będzie to m.in.:
+wywóz towarów z terytorium kraju (kraju w którym ma siedzibę podatnik) na terytorium innego państwa członkowskiego,
+przemieszczanie przez podatnika towarów należących do jego przedsiębiorstwa z terytorium kraju na terytorium innego państwa członkowskiego
+
+Wewnątrzwspólnotową dostawą towarów jest wywóz towarów z terytorium kraju na terytorium państwa członkowskiego inne niż terytorium kraju, poprzez wykonanie takich czynności jak:
+przeniesienie, z nakazu organu władzy publicznej lub podmiotu działającego w imieniu takiego organu, prawa własności towarów,
+wydanie towarów w oparciu o umowę leasingu,
+wydanie towarów między komitentem a komisantem,
+wydanie towarów przez komisanta na rzecz komitenta na podstawie umowy komisu,
+ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego, ustanowienie spółdzielczego własnościowego prawa do lokalu, przekształcenie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego na spółdzielcze własnościowe prawo do lokalu,
+przekazanie przez podatnika towarów należących do jego przedsiębiorstwa na cele inne niż związane z prowadzonym przedsiębiorstwem (np. przypadki przekazania towarów na cele osobiste podatnika czy darowizna)
+
+Odpłatne świadczenie usług przez podatnika działającego w takim charakterze na terytorium państwa członkowskiego stanowi jedną z czynności podlegających opodatkowaniu podatkiem od wartości dodanej. Tym samym rozpoznanie określonej czynności jako odpłatnego świadczenia usług może wiązać się z koniecznością opodatkowania takiej czynności podatkiem od wartości dodanej.
+W świetle art. 24 ust. 1 Dyrektywy VAT „ świadczenie usług” oznacza każda transakcję, która nie stanowi dostawy towarów. Jednocześnie, zgodnie z art. 25 Dyrektywa VAT, świadczenie usług może zawierać między innymi jedną z następujących czynności:
+przeniesienie praw do wartości niematerialnych, bez względu na to, czy są one przedmiotem dokumentu ustanawiającego tytuł prawny, czy nie,
+zobowiązanie do zaniechania działania lub do tolerowania czynności lub sytuacji,
+świadczenie usług na podstawie nakazu wydanego przez organ władzy publicznej lub w jego imieniu albo z mocy prawa.
+
+Nadto, stosowanie do art. 26 Dyrektywy VAT, za odpłatne świadczenie usług uznaje się takie czynności, jak:
+użycie towarów stanowiących cześć majątku przedsiębiorstwa do celów prywatnych podatnika lub jego przedsiębiorstwa lub, bardziej ogólnie, do celów innych niż działalności jego przedsiębiorstwa, w przypadkach kiedy VAT od takich towarów podlegał w całości lub w części odliczeniu,
+nieodpłatne świadczenie usług przez podatnika na prywatny użytek jego lub jego pracowników, lub bardziej ogólnie, do celów innych niż działalność jego przedsiębiorstwa.
+
+W świetle art. 26 ust. 2 Dyrektywy VAT, państwa członkowskie mogą odstąpić od opodatkowania nieodpłatnego świadczenia usług pod tym jednak warunkiem, iż takie odstępstwo nie będzie prowadzić do zakłóceń konkurencji. W tym miejscu warto podkreślić, iż państwo polskie nie skorzystało z wyżej wskazanej możliwości.
+
+Mając na uwadze przywołane wyżej przepisy, należy stwierdzić, iż czynności odpłatnego świadczenia usług obejmują swym zakresem bardzo szeroki krąg transakcji. Polskie przepisy dotyczące świadczenia usług zostały oparte na przywołanych przepisach Dyrektywy VAT. W większości przepisy te stanowią wierne odzwierciedlenie przepisów unijnych.
+
+W tym miejscu warto podkreślić, że polski ustawodawca przy definiowaniu świadczenia usług posłużył się sformułowaniem „każde świadczenie”. Z kolei w przepisach Dyrektywy VAT, do zdefiniowania świadczenia usług wykorzystano określenie „każda transakcja”. Różnica ta jednak nie ma wypływu na rozumienie pojęcia „świadczenia usług”. W konsekwencji należy stwierdzić, iż następnym warunkiem, który musi być spełniony, aby w danej czynności rozpoznać usługę jest wystąpienie „świadczenia”.
+
+Przez import towarów – rozumie się przywóz towarów z terytorium państwa trzeciego na terytorium kraju.
+
+Przez eksport towarów – rozumie się potwierdzony przez urząd celny określony w przepisach celnych wywóz towarów z terytorium kraju poza terytorium Wspólnoty.
+
+Szczególne rodzaje przedmiotu opodatkowania:'''
+rozwiązanie spółki cywilnej i handlowej niemającej osobowości prawnej,
+zaprzestanie przez podatnika będącego osobą fizyczną wykonywania czynności podlegających opodatkowaniu, obowiązanego do zawiadomienia właściwego organu o zaprzestaniu dokonywania działalności gospodarczej.
+
+Ustawa o podatku od towarów i usług wyklucza z kategorii przedmiotu opodatkowania:'''
+czynności, które nie mogą być przedmiotem prawnie skutecznej umowy,
+transakcje zbycia przedsiębiorstwa lub zakładu (oddziału) samodzielnie sporządzającego bilans,
+czynności wykonywane przez osoby fizyczne z tytułu przychodów ze stosunku służbowego, stosunku pracy, pracy nakładczej oraz spółdzielczego stosunku pracy,
+działalność w zakresie gier losowych, zakładów wzajemnych, gier na automatach i gier na automatach o niskich wygranych, podlegająca opodatkowaniu podatkiem od gier na zasadach określonych w ustawie o grach i zakładach wzajemnych.
+
+Przy ustalaniu istnienia obowiązku podatkowego duże znaczenie ma:'''
+Miejsce świadczenia:'''
+przy dostawie towarów to – miejsce, w którym towary znajdują się w momencie rozpoczęcia wysyłki lub transportu do podmiotu, dla którego jest dokonywana dostawa,
+przy towarach, które są przez podatnika dokonującego dostawy lub przez podmiot działający w jego imieniu instalowane lub montowane, z próbnym uruchomieniem lub bez próbnego uruchomienia – miejscem tym jest miejsce, w którym towary są instalowane lub montowane,
+przy dostawie towarów niewysyłanych ani nietransportowanych – miejscem tym jest miejsce, w którym towary znajdują się w momencie dostawy,
+przy świadczeniu usług miejscem świadczenia jest miejsce, gdzie świadczący usługę posiada siedzibę, a w przypadku posiadania stałego miejsca prowadzenia działalności, z którego świadczy usługi – miejsce, gdzie świadczący usługę posiada stałe miejsce prowadzenia działalności
+miejscem świadczenia usług może być miejsce, gdzie usługi są faktycznie świadczone
+Wewnątrzwspólnotowe nabycie towarów uznaje się za dokonane na terytorium państwa członkowskiego, na którym towary znajdują się w momencie zakończenia ich wysyłki lub transportu.
+
+Zakres podmiotowy
+Podatnikami podatku są:'''
+osoby prawne,
+jednostki organizacyjne niemające osobowości prawnej,
+osoby fizyczne wykonujące samodzielnie działalność gospodarczą, bez względu na cel czy też rezultaty takiej działalności
+
+Podatnikami nie są:'''
+organy administracji publicznej,
+urzędy administracji publicznej w zakresie realizowanych zadań, dla realizacji których zostały one powołane (z wyłączeniem czynności wykonywanych na podstawie zawartych umów cywilnoprawnych).
+
+Obowiązek podatkowy
+Kwestie obowiązku podatkowego w ustawie o podatku od towarów i usług z dnia 11.03.2004 r. zostały uregulowane w art. 19.
+Obowiązek podatkowy powstaje z chwilą wydania towaru lub z chwilą wykonania usługi. Ustawodawca polski określił też niektóre szczególne sytuacje, w których został inaczej określony moment powstania obowiązku podatkowego:
+obowiązek podatkowy powstaje z chwilą wydania towarów – jeżeli podatnik wysyła towar nabywcy lub wskazanej przez niego osobie trzeciej,
+obowiązek podatkowy powstaje z chwilą wystawienia faktury – jeżeli dostawa towarów lub wykonanie usługi powinno być potwierdzone fakturą,
+obowiązek podatkowy powstaje z chwilą otrzymania przez podatnika zapłaty za wydany towar,
+obowiązek podatkowy powstaje z chwilą wymagalności opłat – jeżeli import towarów objęty jest procedurą celną,
+obowiązek podatkowy z tytułu importu towarów powstaje z chwilą objęcia towarów tą procedurą – w przypadku objęcia towarów procedurą celną,
+obowiązek podatkowy powstaje z chwilą powstania długu celnego – w imporcie towarów
+
+Przy wewnątrzwspólnotowej dostawie towarów i w wewnątrzwspólnotowym nabyciu towarów oraz u małych podatników obowiązek podatkowy powstaje w inny sposób. Mianowicie:
+w wewnątrzwspólnotowej dostawie towarów obowiązek podatkowy powstaje 15 dnia miesiąca następującego po miesiącu, w którym dokonano dostawy towarów,
+w wewnątrzwspólnotowym nabyciu towarów obowiązek podatkowy powstaje 15 dnia miesiąca następującego po miesiącu, w którym dokonano dostawy towaru będącego przedmiotem wewnątrzwspólnotowego nabycia,
+mały podatnik może wybrać metodę rozliczenia polegającą na tym, że obowiązek podatkowy powstaje z dniem uregulowania całości lub części należności, ale nie później niż 180 dnia od dnia wydania towaru lub wykonania usługi.
+
+Podstawa opodatkowania
+Co do zasady podstawą opodatkowania jest obrót. Przez obrót rozumie się kwotę należną z tytułu sprzedaży, pomniejszona o kwotę należnego podatku, a kwota należna obejmuje całość świadczenia należnego od nabywcy. Obrotem jest także:
+otrzymana dotacja,
+subwencja,
+inna dopłata o podobnym charakterze związana z dostawą lub świadczeniem usług.
+
+Jeżeli przy wykonywaniu czynności podlegających opodatkowaniu nie została określona cena, to podstawą opodatkowania jest wartość towarów lub usług obliczona według cen stosowanych w obrotach z głównym odbiorcą, pomniejszona o kwotę należnego podatku.
+
+Jeżeli przedmiotem opodatkowania jest świadczenie usług, to podstawą opodatkowania jest koszt świadczenia tych usług poniesiony przez podatnika.
+
+Przy imporcie towarów podstawą opodatkowania jest wartość celna powiększona o należne cło.
+
+Przy wewnątrzwspólnotowym nabyciu towarów podstawą opodatkowania jest kwota, jaką nabywca jest zobowiązany zapłacić.
+
+Stawki podatku
+Minimalną podstawową (nieobniżoną) stawką podatku VAT jaką mogą stosować Państwa Członkowskie Unii Europejskiej jest 15%. Granica ta wynika z Dyrektywy Rady Europejskiej 2006/112/EC. Górna granica stawki podstawowej nie jest ograniczona, a jedynie w 2005 roku Państwa Członkowskie podjęły niewiążące zobowiązanie do nie wprowadzania stawek VAT powyżej 25% do końca 2010 roku. W praktyce Państwa Członkowskie stosują różne stawki podatku VAT, od najniższych (15% – Luksemburg) do najwyższych (27% – Węgry).
+
+Podstawową stawką w Polsce (w okresie od 1 stycznia 2011 do 31 grudnia 2016''') jest stawka '''23%'''. Dla niektórych towarów i usług przewidziano stawki obniżone: '''8%''' oraz '''5%''' (stawka 5% obejmuje produkty żywnościowe, książki na wszystkich nośnikach fizycznych oraz czasopisma). Istnieje również stawka w wysokości 7% – jest to naliczana przez nabywcę towarów od rolnika ryczałtowego (art. 115 ust. 2 ustawy o podatku od towarów i usług). Nie jest to w zasadzie stawka, którą są opodatkowane towary lub usługi, ale zryczałtowana kwota zwrotu VAT dla rolnika ryczałtowego, który jest z VAT zwolniony.
+
+Istnieje również stawka '''0%''', która obowiązuje przy:
+wewnątrzwspólnotowej dostawie towarów,
+eksporcie towarów.
+
+Przy świadczeniu usług w handlu i gastronomii podatnik może obliczać kwotę VAT od wartości brutto towaru (art. 85 ustawy z dnia 11 marca 2004 o podatku od towarów i usług) stosuje wówczas stawki:
+18,70% wartości brutto dla towarów i usług objętych stawką 23%
+7,41% wartości brutto dla towarów i usług objętych stawką 8%
+4,76% wartości brutto dla towarów i usług objętych stawką 5%
+
+Ponadto niektóre czynności są zwolnione od podatku. Oznacza to między innymi, że świadczący czynności zwolnione w przeciwieństwie do tych, którzy świadczą usługi opodatkowane stawką 0%, nie mogą dokonać odliczenia podatku naliczonego zapłaconego podczas świadczenia tych usług np. biegły lekarz w celu świadczenia usług wydawania orzeczeń (co jest zwolnione od podatku VAT), dokonał zakupu biurka. Przy zakupie biurka zapłacił 23% podatek. Ten podatek nie może zostać przez niego odliczony, gdyż świadcząc usługę wydania orzeczenia nie opodatkowuje jej – czyli nie jest od niej odprowadzany podatek, który lekarz miałby przekazać do urzędu skarbowego.
+
+Zasady obliczania podatku
+W zakresie, w jakim towary i usługi są wykorzystywane do wykonywania czynności opodatkowanych, podatnikowi przysługuje prawo do obniżenia kwoty podatku należnego o kwotę podatku naliczonego.
+
+Podatkiem naliczonym jest:
+suma kwot podatku określonych w fakturach otrzymanych przez podatnika,
+suma kwot podatku wynikająca z dokumentu celnego (w przypadku importu),
+zryczałtowany zwrot podatku,
+kwota podatku należnego od importu oraz kwota podatku należnego z tytułu wewnątrzwspólnotowego nabycia towarów.
+
+Podatnik ma prawo do obniżenia podatku należnego o podatek naliczony, jeżeli importowane lub nabyte towary i usługi dotyczą dostawy towarów lub świadczenia usług przez podatnika poza terytorium kraju. Ponadto podatnik ma również prawo do obniżenia podatku należnego o podatek naliczony, jeżeli importowane lub nabyte towary i usługi dotyczą określonych czynności wykonywanych na terytorium kraju.
+
+W przypadku gdy kwota podatku naliczonego jest w okresie rozliczeniowym wyższa od kwoty podatku należnego, podatnik ma prawo do obniżenia o tę różnicę podatku należnego za następne okresy.
+
+Podatnikom, którzy dokonują obrotu opodatkowanego w całości lub w części, stawką niższą niż 23%''', przysługuje prawo do zwrotu z urzędu skarbowego różnicy podatku do wysokości nieprzekraczającej równowartości 23% obrotu opodatkowanego stawkami obniżonymi oraz podatku naliczonego wynikającego z nabycia towarów i usług.
+Podatnikom dokonującym sprzedaży opodatkowanej wyłącznie stawką 23%, u których podatek naliczony jest wyższy od podatku należnego, przysługuje zwrot różnicy podatku z urzędu skarbowego w kwocie wyższej od kwoty podatku naliczonego przy nabyciu towarów i usług.
+
+Przykład obliczania podatku VAT
+Podatek VAT czyli podatek od wartości dodanej – jest płacony przez każdego przedsiębiorcę w łańcuchu dostaw od różnicy pomiędzy kosztami zakupu a ceną dalszej sprzedaży. Do ceny zakupu wlicza się także pozostałe koszty działalności gospodarczej, jednak tylko te, które są objęte podatkiem VAT. Na przykład z 23% podatkiem łańcuch dostaw mógłby wyglądać następująco:
+Producent surowca (np. właściciel lasu) wycenia drewno na 100 zł (wartość netto), nalicza od tego 23% podatku VAT (podatek należny) i sprzedaje do tartaku za 123 zł (wartość brutto). Zakładając hipotetycznie, że nie ponosi żadnych kosztów (ścinka, paliwo itd) odprowadzi on 23 zł podatku VAT do urzędu skarbowego.
+Tartak przetwarza drewno na deski, które sprzedaje do sklepu za 150 zł netto + 34,5 zł podatku VAT (23%) czyli 184,5 zł brutto. Kwota podatku VAT 34,5 zł – czyli podatek należny, który powinien odprowadzić – może zostać pomniejszona o udokumentowane fakturami VAT koszty związane z zakupem surowca (tarcicy) i „produkcją” desek, np. zakup pił, energia elektryczna (np. 24,6 zł (20 zł netto + 4,6 zł VAT)). Wartość podatku VAT zawartego na tych fakturach stanowi podatek naliczony, który można odliczyć od należnego i odprowadzić tylko różnicę. W powyższym przykładzie, dla stawki 23%, gdy suma takich faktur wynosi 123 zł (tarcica) i 24,6 zł (koszty produkcji) to zawarty w nich podatek VAT (23 zł i 4,6 zł) podlega odliczeniu. Do urzędu skarbowego tartak odprowadzi różnicę podatku należnego i naliczonego czyli 34,5 – 23,0 – 4,6 = 6,9 zł.
+Sklep sprzedaje końcowym odbiorcom deski za 307,5 zł brutto (czyli 250 zł netto + 23% VAT). Kupujący ma tę cenę na paragonie, ale sklep, podobnie jak tartak, odprowadza do Skarbu Państwa tylko różnicę między podatkiem należnym i naliczonym. Zakładając, że opisane powyżej zakupy sklepu są jego jedynymi wydatkami objętymi podatkiem VAT to zapłaci 57,50 – 34,50 = 23 zł.
+
+W tym systemie „właściciel lasu”, tartak i sklep są „podatnikami VAT” i odliczają podatek naliczony od należnego – końcowy odbiorca – konsument nie ma takiego prawa i w cenie zakupu płaci pełną stawkę VAT.
+
+Łącznie do budżetu, w związku z tą produkcją odprowadzona jest kwota 57,50 zł (bezpośrednio 52,90, a 4,60 z kosztów pośrednich) czyli tyle samo ile wynosi wartość 23% z ceny netto 250 zł. Kwota ta została wpłacona w częściach przez wszystkich uczestników łańcucha dostaw.
+
+Firmom – płatnikom podatku VAT – nie opłaca się „omijanie” podatku. Np. gdyby tartak kupił drewno bez faktury VAT za np. 100 zł („na lewo” – brutto) i sprzedał za 150 zł to zapłaci podatek od 150 zł – czyli 35 zł. System ten powoduje, że proces naliczania i odprowadzania podatku VAT jest szczelniejszy niż funkcjonujący wcześniej podatek obrotowy, w którym podatek naliczał i odprowadzał tylko dostawca towaru dla konsumentów. Główną wadą w tym systemie jest jednak konieczność opłacenia (odprowadzenia) podatku VAT z chwilą wystawienia faktury, co niekoniecznie jest równoznaczne z otrzymaniem należności od kupującego. Mogą mieć więc miejsce różne sytuacje, np. „właściciel lasu” sprzedaje drewno z 30-dniowym terminem płatności, od kwoty faktury VAT odprowadza podatek, choć nie uzyskał zapłaty, ale właściciel tartaku nalicza podatek od zakupów i odlicza go, choć nie poniósł jeszcze żadnych wydatków, w tej sytuacji jeżeli ma do zapłaty podatek od innych sprzedaży, to zakup pomniejsza mu podatek do zapłaty. Może też okazać się, że podatek od zakupów może przekroczyć podatek od sprzedaży, wówczas może wystąpić o zwrot podatku do urzędu skarbowego. W Polsce podatek jest bowiem obliczany (księgowany, ale i odprowadzany) z chwilą wystawienia faktury, a nie otrzymania zapłaty za towar czy usługę.
+
+Porównanie z podatkiem obrotowym
+Dla porównania, w systemie z podatkiem obrotowym wartość odprowadzonego podatku (też 23%) mogłaby być identyczna z tą różnicą, że całą wartość 57,50 zł odprowadziłby ostatni podmiot w łańcuchu dostaw:
+
+Producent surowca sprzedaje go fabryce po cenie netto 100 zł, żądając jednak deklaracji, że odbiorca nie jest konsumentem (gdyby był to zapłaciłby 123 zł).
+Fabryka wytwarza produkt i sprzedaje go do sklepu po cenie netto 150 zł, żądając analogicznej deklaracji.
+Sklep wycenia produkt na 250 zł i dolicza do tej ceny 23% podatku obrotowego, co daje cenę 307,5 zł. Z kwoty brutto otrzymanej od klienta sklep odprowadza podatek obrotowy w wysokości 57,50 zł.
+
+Cechy obu systemów
+Podatek VAT nakłada na wszystkie podmioty w łańcuchu dostaw większą dyscyplinę podatkową oraz większą motywację do unikania zakupów w szarej strefie – podstawą odliczenia podatku jest bowiem faktura. Jeśli tej podstawy nie ma, to dany przedsiębiorca musi odprowadzić niezmniejszoną kwotę podatku VAT.
+
+Podatek obrotowy wymaga od kolejnych podmiotów weryfikacji deklaracji, że kupujący nie jest konsumentem, która uprawnia do nienaliczania podatku. Podatek VAT z kolei wymaga fakturowania każdej transakcji oraz szczególnej dbałości o formę oraz sposób doręczenia faktury do kupującego. W przypadku VAT każdy podmiot w łańcuchu dostaw jest zaangażowany w naliczanie, odliczanie i odprowadzanie podatku oraz ewidencję sprzedaży za pomocą faktur lub kas fiskalnych.
+
+W obu systemach, jeśli stawka podatku jest zróżnicowana dla różnych towarów i usług, mogą istnieć wątpliwości interpretacyjne dotyczące zaszeregowania konkretnych przedmiotów sprzedaży.
+
+Procedury szczególne
+Procedury szczególne w zakresie podatku od towarów i usług dotyczą:
+drobnych przedsiębiorców,
+rolników,
+świadczenia usług turystycznych,
+dostawy towarów używanych, dzieł sztuki, przedmiotów kolekcjonerskich i antyków, złota inwestycyjnego, zwrotu podatku podróżnym,
+świadczenia na terytorium Wspólnoty usług elektronicznych,
+wewnątrzwspólnotowych transakcji trójstronnych.
+
+Drobnych przedsiębiorców (tzw. małych podatników VAT) zwalnia się z podatku wówczas, gdy wartość sprzedaży opodatkowanej nie przekroczyła łącznie w poprzednim roku podatkowym 150 tys. złotych. Do wartości sprzedaży nie wlicza się kwoty podatku.
+
+Rolnikowi ryczałtowemu, który dokonuje dostawy produktów rolnych, przysługuje zryczałtowany zwrot podatku z tytułu nabywania niektórych środków produkcji dla rolnictwa opodatkowanych podatkiem od towarów i usług. Nabywca produktów rolnych od rolnika ryczałtowego nalicza do wartości netto zakupionego towaru podatek w wysokości 7% i wypłaca go rolnikowi. Kwota ta jest zaliczana u nabywcy jako podatek naliczony. Stosowanie tej zasady obwarowane jest kilkoma warunkami.
+
+Przy świadczeniu usług turystycznych podstawę opodatkowania stanowi kwota marży pomniejszona o kwotę podatku należnego. Przez marżę rozumie się różnicę między kwotą należności, którą ma zapłacić nabywca usługi, a ceną nabycia przez podatnika towarów i usług od innych podatników, dla bezpośredniej korzyści nabywcy usługi.
+
+Sposób zapłaty podatku
+Zarejestrowani podatnicy podatku VAT są obowiązani składać w urzędzie skarbowym deklaracje podatkowe za okresy miesięczne w terminie do '''25 dnia miesiąca następującego po miesiącu, w którym powstał obowiązek podatkowy. Mali podatnicy (podatnicy u których wartość sprzedaży – wraz z kwotą podatku, nie przekroczyła w poprzednim roku podatkowym wyrażonej w złotych kwoty odpowiadającej równowartości '''1 200 000 euro – w roku 2011 tą równowartością jest 4&nbsp;736&nbsp;000 zł), którzy wybrali metodę kasową mogą składać w urzędzie skarbowym deklaracje podatkowe za okresy kwartalne w terminie do 25 dnia miesiąca następującego po każdym kolejnym kwartale.
+
+Import VAT
+Importem usług ustawodawca nazywa sytuacje, w której dochodzi do świadczenia usług, z tytułu których podatnikiem jest usługobiorca (art. 2 pkt 9 ustawy o VAT), a więc gdy polski podmiot (osoba fizyczna mająca miejsce zamieszkania w Polsce, osoba prawna lub jednostka organizacyjna niemająca osobowości prawnej) nabywa usługi od podatnika posiadającego siedzibę lub miejsce zamieszkania albo pobytu poza terytorium Polski (art. 17 ust1 pkt 4 ustawy o VAT). Chcąc ustalić, czy w danym przypadku, gdy polski podmiot korzysta z usług firmy zagranicznej, wystąpił import usług należy:
+ustalić gdzie przypada miejsce opodatkowania usług (głównie na podstawie art. 28a-28j ustawy),
+jeżeli miejscem opodatkowania jest terytorium innego kraju niż Polska wówczas z pewnością usługa ta nie wywołuje żadnych skutków na gruncie podatku VAT,
+jeżeli miejscem opodatkowania jest terytorium Polski wówczas należy ustalić kto w tym przypadku jest podatnikiem VAT.
+
+W przypadku nabycia określonych usług przez podatników polskich od zagranicznych kontrahentów, miejscem ich świadczenia jest kraj siedziby nabywcy, tj. w tym wypadku Polska. Polski podatnik jest wówczas zobowiązany do rozliczenia podatku VAT z tytułu tej transakcji na zasadzie importu usług. Rozliczenie to polega na tym, że kontrahent zagraniczny wystawia fakturę bez zagranicznego podatku VAT z adnotacją, że podatek VAT powinien rozliczyć nabywca usługi a polski nabywca wystawia fakturę wewnętrzną i wykazuje w tej samej deklaracji VAT podatek VAT należny i naliczony w tej samej wysokości. Kwotę podatku naliczonego stanowi bowiem także kwota podatku należnego z tytułu importu usług a prawo do odliczenia podatku naliczonego powstaje w rozliczeniu za okres, w którym powstał obowiązek podatkowy w podatku należnym u nabywcy od importu usług.
+
+W pierwszej kolejności należy więc zidentyfikować moment powstania podatku należnego, tj. moment powstania obowiązku podatkowego z tytułu importu usług. Z art. 19 ust. 19 ustawy o VAT wynika, że do identyfikacji momentu powstania obowiązku podatkowego w przypadku importu usług należy zastosować takie same zasady, jak gdyby podatnik sam świadczył daną usługę. Zgodnie z tymi zasadami obowiązek podatkowy powstaje z chwilą wydania towaru lub wykonania usługi. Jeżeli jednak wykonanie usługi powinno być potwierdzone fakturą, to obowiązek podatkowy powstaje z chwilą wystawienia faktury, nie później jednak niż w siódmym dniu, licząc od dnia wydania towaru lub wykonania usługi. Do importu usług zastosowanie mają także inne, „szczególne” momenty powstania obowiązku podatkowego, np.
+jeżeli przed wydaniem towaru lub wykonaniem usługi otrzymano część należności, w szczególności: przedpłatę, zaliczkę, zadatek, ratę, to obowiązek podatkowy powstaje z chwilą jej otrzymania w tej części;
+w przypadku usług transportowych, spedycyjnych i przeładunkowych, budowlanych, obowiązek podatkowy powstaje z chwilą otrzymania całości lub części zapłaty, nie później jednak niż 30. dnia, licząc od dnia wykonania usług;
+w przypadku świadczenia usług udzielenia praw i licencji – z chwilą otrzymania całości lub części zapłaty, nie później jednak niż z upływem terminu płatności określonego w umowie lub fakturze.
+
+W przedmiotowej sprawie najwięcej wątpliwości interpretacyjnych dotyczy sytuacji, w których świadczenie usługi powinno być potwierdzone fakturą VAT i dla których ustawodawca nie przewidział „szczególnego” momentu powstania obowiązku podatkowego. Zgodnie z ogólną zasadą przy świadczeniu usług, obowiązek podatkowy powstaje w momencie wystawienia faktury VAT, o ile jest ona wystawiona w terminie siedmiu dni od wykonania usługi. Jeżeli podatnik nie wystawi faktury w tym terminie, to mimo to obowiązek podatkowy powstanie u niego 7-ego dnia po wykonaniu usługi. Polscy podatnicy są zobowiązani do wystawienia faktury w terminie 7 dni od wykonania usług, ale rzecz jasna w przypadku usługodawcy zagranicznego kwestię tę regulują wewnętrzne przepisy kraju usługodawcy, a nie polska ustawa o VAT. W efekcie tego podatnik zagraniczny może wystawić fakturę np. miesiąc po wykonaniu usługi i dopiero po kolejnym miesiącu może ona dotrzeć do polskiego nabywcy. Dopiero wówczas nabywca wystawi fakturę wewnętrzną.
+
+Do rozliczenia podatku w ramach importu usług obowiązani są nie tylko podatnicy w rozumieniu art. 15 ustawy o VAT, ale także wszystkie osoby fizyczne mające miejsce zamieszkania na terytorium Polski oraz osoby prawne i jednostki organizacyjne niemające osobowości prawnej mające siedzibę na terytorium Polski.
+Wyjątek stanowią usługi niematerialne, w których wypadku do importu usług dochodzi wyłącznie wówczas, gdy nabywca jest podatnikiem, o którym mowa w art. 15 ustawy o VAT. We wszystkich innych przypadkach zakup od zagranicznego podatnika usługi, jakiej miejsce świadczenia znajduje się na terytorium Polski wiąże się, co do zasady, z obowiązkiem rozliczania podatku z tytułu importu usług.
+
+Unikanie opodatkowania VAT
+W ramach Unii Europejskiej funkcjonuje wspólny system podatku od wartości dodanej VAT. Zadaniem prawa wspólnotowego w zakresie podatku VAT jest ujednolicenie krajowych przepisów regulujących opodatkowanie podatkiem VAT, ze szczególnym naciskiem na dążenie do unikania podwójnego opodatkowania czy nieopodatkowania towarów i usług na terenie Unii Europejskiej. Pomimo spójnych regulacji prawnych nieuczciwi przedsiębiorcy oraz zorganizowane grupy przestępcze wykorzystują mechanizmy zwrotu podatku VAT w związku z eksportem czy wewnątrzwspólnotową dostawą towarów, aby wyłudzić nienależne kwoty podatku. Niezbędne stały się nie tylko podatkowe kontrole krajowe, ale i nadzór o wymiarze międzynarodowym, ogólnoeuropejskim. Temu właśnie służyć ma sieć szybkiej wymiany informacji o podatku od towarów i usług EUROFISC, ustanowiony Rozporządzeniem Rady Nr 904/2010 z 7 października 2010 r. w sprawie współpracy administracyjnej oraz zwalczania oszustw w dziedzinie podatku od wartości dodanej (Dz.U. L 268 z 12.10.2010 r. s.1).
+
+Kraje członkowskie udostępnią sobie na żądanie informacje:
+z informacji podsumowujących VAT;
+ze zgłoszeń rejestracyjnych VAT podatników zarejestrowanych w Polsce, krajowych i z siedzibą za granicą;
+z deklaracji VAT;
+więcej danych po roku 2014.
+
+W obejmujących różne rodzaje zagrożeń polach roboczych EUROFISC uczestniczą tzw. oficerowie łącznikowi, delegowani przez poszczególne kraje członkowskie.
+
+Skalę unikania opodatkowania lub wyłudzeń VAT w Polsce szacuje się na ok. 10 mld zł.
+
+Krytyka podatku
+Podatek od towarów i usług służy opodatkowaniu konsumpcji, dlatego też niektórzy uznają, iż uderza on przede wszystkim w ludzi biednych – osoba zarabiająca niewiele większość zarobków wydaje na utrzymanie, czyli w większości towary i usługi obłożone podatkiem VAT. Osoba zarabiająca więcej może np. zakupić mieszkanie (na rynku wtórnym opodatkowane tylko podatkiem od czynności cywilnoprawnych) albo zainwestować na giełdzie (podatek Belki o stawce 19%).
+
+Podatek VAT generuje znaczne koszty zewnętrzne związane ze skomplikowanym sposobem jego naliczania, fakturowania oraz odliczania przez kolejne podmioty. Koszty te, ponoszone przez przedsiębiorców, wpływają na końcową cenę produktów i usług.
+
+Dzięki istnieniu zerowej stawki VAT możliwe jest wyłudzanie nienależnych zwrotów tego podatku dla fikcyjnych „transakcji karuzelowych”. W skali całej Unii Europejskiej wielkość tych wyłudzeń oceniana jest od 50 miliardów euro rocznie do 100 miliardów rocznie.
+
+Równocześnie odliczeniowy charakter podatku VAT skutkuje istnieniem czarnego rynku „kosztów”, polegającego na księgowaniu faktur VAT za niewykonane w rzeczywistości usługi w celu obniżenia należnej stawki VAT.
+
+Podatek od wartości dodanej w Polsce jest dość szeroko krytykowany z powodu relatywnie wysokiej stawki (od 1 stycznia 2011 wynoszącej 23%).
+
+Po wejściu do Unii Europejskiej, Polska straciła w dużej części możliwość stosowania preferencyjnych stawek wobec niektórych towarów i usług, jak np. 3-procentowej stawki podatku VAT na środki produkcji rolnej. Różne kraje UE są na różnych etapach rozwoju i dla Polaków wzrost cen żywności może być bardziej znaczący niż dla obywateli bardziej rozwiniętych krajów UE.
+
+W Polsce liczne problemy po stronie przedsiębiorców powoduje niezwykle skomplikowana konstrukcja prawa opisującego zasady odprowadzania podatku VAT, niejasności dotyczące klasyfikacji poszczególnych towarów i usług, a co za tym idzie stawek podatku, jakie należy do nich zastosować oraz równie niejasne, skomplikowane i często zmieniane zasady jego odliczania (np. samochody „z kratką”). Problemy te występują także w innych krajach – w Niemczech wskazywany jest przykład klasyfikacji kiełbasy na gorąco, która spożywana na stojąco jest objęta stawką 7%, a na siedząco 19%.
+
+Niekorzystny dla przedsiębiorców jest także moment, w którym powstaje zobowiązanie podatkowe, czyli w momencie wystawienia faktury, a nie w momencie wpłynięcia środków od kupującego – przedsiębiorcy muszą odprowadzić pełną wartość podatku VAT nawet jeśli kupujący zwleka z płatnością.
+
+
+
+Zobacz też
+podatki w Unii Europejskiej
+stawka podstawowa VAT
+stawka zerowa VAT
+
+
+
+Linki zewnętrzne
+, „Infos” Nr 6/2011, Biuro Analiz Sejmowych Kancelarii Sejmu
+
+
+
+
+
+

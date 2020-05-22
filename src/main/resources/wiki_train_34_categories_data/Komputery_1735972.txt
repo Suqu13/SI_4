@@ -1,0 +1,36 @@
+
+Blue Brain Project – projekt stworzenia wirtualnego mózgu poprzez symulację komputerową działania każdego neuronu. Został rozpoczęty w maju 2005 roku przez Politechnikę Federalną w Lozannie w Szwajcarii. Obecnie uczestniczy w nim kilka ośrodków w Hiszpanii, Wielkiej Brytanii, USA i Izraelu. Kierownikiem projektu jest Henry Markram.
+
+Cele
+Głównym celem Blue Brain Project jest zrozumienie działania mózgu ssaków za pomocą inżynierii wstecznej. Cele pośrednie, które mają do tego doprowadzić, to:
+Stworzenie Ośrodka Symulacji Mózgu, w którym możliwe będzie tworzenie symulacji mózgów różnych gatunków, w różnych skalach dokładności i z różnymi zaburzeniami.
+Udowodnienie skuteczności i dokładności symulacji poprzez stworzenie i przetestowanie szczegółowego modelu kolumny neuronalnej wewnątrz zakrętu zaśrodkowego młodego szczura.
+Użycie symulacji do odkrycia podstawowych zasad budowy i funkcjonowania mózgu.
+Wykorzystanie tych zasad do stworzenia większych i dokładniejszych modeli mózgu i opracowanie strategii modelowania całego mózgu człowieka.
+
+Historia ==       
+
+We wstępnej fazie projektu, ukończonej w grudniu 2006 roku, stworzono symulację działania pojedynczej kolumny neuronalnej mózgu szczura. Taka kolumna ma objętość około 0,5 mm3 i zawiera około 10 tysięcy neuronów, około 200 różnych typów, połączonych około 30 milionami synaps. W przeprowadzonej symulacji sieć neuronów była poddawana działaniu sygnałów przypominających te, jakie odbierałyby w mózgu szczura. Zaobserwowano tworzenie się nowych połączeń synaptycznych i reagowanie grup neuronów w synchronicznych wyładowaniach.
+
+W kolejnych latach symulacja została zoptymalizowana i powiększono jej skalę. W 2011 roku, za pomocą superkomputera Blue Gene/P o mocy 56 TFLOPS stworzono symulację obwodu zawierającego 100 kolumn neuronalnych. Symulacja zawierała około miliona neuronów i około miliarda połączeń neuronalnych. Odpowiada to skali mózgu pszczoły. W 2014 planowane jest stworzenie symulacji całego mózgu szczura (około 100 razy większej).
+
+Ponieważ ludzki mózg zawiera 15 – 33 miliardów neuronów, z których każdy może mieć do 10 tysięcy połączeń synaptycznych, Henry Markram szacuje ilość informacji, potrzebnych do odtworzenia jego funkcjonalności na 500 petabajtów. Przewiduje, że superkomputery o wystarczającej mocy obliczeniowej, aby przetworzyć taką ilość danych, powstaną około 2020 roku.
+
+Aby umożliwić symulacje tej skali i uzyskać dostęp do wystarczająco potężnych superkomputerów w 2020 roku, powołano Human Brain Project. Projekt ten w styczniu 2013 roku został wybrany do jako Europejski Projekt Flagowy i w latach 2014–2020 ma uzyskać do 1 miliarda Euro dofinansowania. 
+
+Finansowanie
+
+Projekt jest finansowany głównie przez szwajcarski rząd, a częściowo poprzez dotacje i darowizny. Politechnika w Lozannie zakupiła na potrzeby projektu superkomputer Blue Gene po obniżonej cenie, ponieważ IBM był zainteresowany odkrywaniem różnych zastosowań dla tego komputera.
+
+W projekcie uczestniczy również Politechnika Madrycka, udostępniając superkomputer Magerit oraz specjalnie zaprojektowany mikroskop do badania mózgu.
+
+Zobacz też
+konektom
+transfer umysłu
+
+
+
+
+
+Linki zewnętrzne
+- prezentacja na TED, lipiec 2009.

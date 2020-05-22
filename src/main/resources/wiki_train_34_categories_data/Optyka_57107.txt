@@ -1,0 +1,40 @@
+
+Osłona obiektywu (osłona przeciwsłoneczna) – osłona wystająca przed zewnętrzną część obiektywu (np. aparatu fotograficznego, kamery filmowej) otaczająca jego otwór, a przez to zasłaniająca soczewki obiektywu przed niepożądanym bezpośrednim oświetleniem przez silne źródła światła, najczęściej skoncentrowanego, pochodzącego z takich źródeł, jak słońce, lampy, refleksy światła w wodzie itp.
+
+Zasada działania osłony
+Osłona nie chroni przed światłem widzianym przez obiektyw, czyli światłem przechodzącym. Redukuje ona natomiast negatywny wpływ światła oświetlającego pod kątem wnętrze obiektywu. Takie światło jest niepożądane, gdyż wywołuje w obrazie tworzonym przez obiektyw dodatkowe efekty świetlne, w postaci rozmazanych jasnych plam (tzw. flara, blik), koncentrycznych pierścieni i ogólnego zmniejszenia kontrastu obrazu.
+
+Te negatywne efekty wywołane są rozpraszaniem się światła w soczewkach, oraz załamywaniem się promieni świetlnych na powierzchniach soczewek. Częściowym rozwiązaniem tego problemu jest napylanie na soczewki bardzo cienkich warstw metalicznych, tworzących lustra dla tych promieni świetlnych, które padają na ich powierzchnię pod zwiększonym kątem. Jednak takie rozwiązanie nie jest wystarczające. Dla całkowitego wyeliminowania wpływu tych promieni, korzystanie z osłony przeciwsłonecznej jest niezbędne.
+
+Kształt osłony
+
+Długość osłony przeciwsłonecznej jest uzależniona od ogniskowej – a zarazem od pola widzenia – obiektywu. Im dłuższa ogniskowa, tym węższe jest pole widzenia, a więc tym dłuższa może być osłona.
+
+Dodatkowo, dla zwiększenia ich efektywności, niektóre osłony mają specjalny kształt nazywany czasem kwiatkiem bądź tulipanem – są one dłuższe u góry i dołu, krótsze po bokach i mają wycięcia na rogach, gdzie pole widzenia jest najszersze. W ten sposób, osłona może przysłaniać więcej pola widzenia tam, gdzie jest ono węższe i mniej, gdzie jest ono szersze. Jest to szczególnie istotne w przypadku obiektywów szerokokątnych o krótkiej ogniskowej, gdzie osłony w ogóle muszą być krótkie.
+
+Jako że osłony o takim kształcie są zwykle ściśle dopasowane do konkretnego typu obiektywu, ich nieprawidłowe założenie (czyli obrócenie względem prawidłowego ustawienia) spowoduje, że te precyzyjne wycięcia znajdą się w nieprawidłowej pozycji, czego efektem będzie przysłonięcie rogów kadru – winietowanie. Dlatego też osłony typu "tulipan" są montowane do obiektywów na uchwyty bagnetowe z zapadkami ustalającymi ich właściwie położenie.
+Osłona w kształcie tulipana jest stosowana w obiektywach z nierotującą soczewką zewnętrzną przez co może być tak głęboka ( nie występuje winietowanie gdyż obiektyw jest okrągły a obraz z niego prostokątny).
+
+Z powodów nakreślonych powyżej, istotne jest ścisłe dopasowanie osłony do obiektywu. Dlatego też obiektywy są często sprzedawane z własną osłoną, lub też, w przypadku tańszych obiektywów, producenci niezależni oferują do obiektywów odpowiednio urozmaiconą ofertę osłon.
+
+Poszerzona oferta osłon obiektywów jest istotna również z innego powodu. W przypadku osłon montowanych na gwincie filtru obiektywu, osłony te są zwykle tak projektowane, aby były trochę krótsze niż mogłyby być. Robi się to po to, aby uniknąć winietowania także w przypadku rozpowszechnionego stosowania dodatkowych filtrów montowanych z przodu obiektywu, które zwiększają łączną długość zestawu. Standardowe osłony uwzględniają możliwość użycia jednego takiego filtru (najczęściej jest to UV), jednak w przypadku użycia ich większej ilości, lub też użycia innych urządzeń nakładanych na obiektywy (np. ramki na wymienne filtry), konieczne staje się użycie osłony specjalnie dobranej – jeszcze krótszej lub z głębszymi wycięciami.
+
+Korzyści używania osłony
+Równie ważne są pozostałe, niejako dodatkowe korzyści płynące ze stosowania osłony przeciwsłonecznej, takie jak ochrona zewnętrznej powierzchni pierwszej soczewki obiektywu (lub domocowanego przed nią filtra) przed:
+kroplami wody, np. pochodzącej z deszczu, rozbryzgów z kałuży i innych źródeł
+kurzem i innymi pyłkami
+zarysowaniem ostrymi przedmiotami (nie tylko w czasie pracy, ale także podczas doraźnego przechowywania niezabezpieczonego obiektywu w torbie fotograficznej, co często dzieje się podczas pracy reporterskiej, a nawet w przypadku otarcia o mur lub upuszczenia urządzenia na ziemię)
+
+Wynika stąd wniosek, iż jeśli to możliwe, korzystanie z osłony przeciwsłonecznej jest wskazane zawsze, a w szczególności niezależnie od pogody. Stąd dość rozpowszechniona opinia, jakoby używanie osłony przeciwsłonecznej przy zachmurzonym niebie było niepotrzebnym prezentowaniem wyposażenia, jest mylna i wynika z niedoświadczenia osób tak uważających.
+
+Potencjalne wady
+Konieczność zrezygnowania z użycia osłony obiektywu może zachodzić w przypadku użycia osłony w sytuacji, gdy równocześnie korzystamy z wbudowanej w aparat lampy błyskowej. Użycie osłony, może wtedy spowodować szczególny przypadek winietowania. Jako że lampa taka umieszczona jest zwykle blisko osi obiektywu, przedłużenie obiektywu o dodatkowy element jakim jest osłona może spowodować, że przysłonięta zostanie część planu oświetlanego przez lampę, co spowoduje widoczny na zdjęciu wyraźny cień. Ten sam efekt, zresztą, może zostać spowodowany przez użycie w danym aparacie, równocześnie z wbudowaną lampą błyskową, zbyt długiego obiektywu.
+
+Efekt ten przeważanie nie występuje w przypadku lamp dołączanych zewnętrznie, ponieważ znajdują się zwykle wystarczająco daleko od obiektywu, aby nie miał szans przysłonić widzianego przez obiektyw światła lampy.
+
+Zobacz też
+
+obiektyw fotograficzny
+
+
+

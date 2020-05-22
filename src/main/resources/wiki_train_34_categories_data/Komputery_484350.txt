@@ -1,0 +1,42 @@
+
+TI-92''' to zaawansowany kalkulator naukowy wyprodukowany przez firmę Texas Instruments, produkcja pierwszej jego wersji została rozpoczęta w 1995. TI-92 to kalkulator z klawiaturą w układzie QWERTY. Kalkulator ten doczekał się drugiej wersji (TI-92 Plus), oraz następcy w postaci modelu Voyage 200'''.
+
+Kalkulator TI-92 (wersja pierwotna)
+
+Programowalny kalkulator z systemem CAS (ang. computer algebra system) bazującym na programie Derive był jednym z pierwszych kalkulatorów, które potrafiły rysować trójwymiarowe wykresy. Ze względu na spory wyświetlacz i klawiaturę QWERTY kalkulator był duży i nieporęczny. Za względu na to Texas Instruments stworzyło kalkulator TI-89 o zbliżonej funkcjonalności, ale o mniejszych wymiarach (bez klawiatury QWERTY). Sam TI-92 został zastąpiony przez TI-92 Plus, który odziedziczył po nim spore wymiary i dużą klawiaturę. Ostatecznie TI wprowadził na rynek kalkulator Voyage 200 o zmodyfikowanym wyglądzie i wyposażony w pamięć Flash ROM.
+
+TI-92 Plus
+
+TI-92 Plus (lub TI-92+''') został wyprodukowany w 1998, odrobinę później niż TI-89 - prawie identyczny kalkulator pod względem możliwości oprogramowania. Pod względem mechanicznym jest podobny do poprzednika, ale posiada pamięć Flash ROM. Oprócz powiększonej pamięci TI-92 Plus posiada czytelniejszy wyświetlacz, który po raz pierwszy zastosowano w TI-89.
+
+W roku 2002 TI-92 Plus został zastąpiony modelem Voyage 200.
+
+Voyage 200
+
+Voyage 200''' (nazywany także V200''') został wyprodukowany w 2002 roku, jako następca TI-92 Plus, zmieniony został wygląd kalkulatora (nieco mniejszy i mniej kanciasty), a także rozszerzona ilość pamięci flash do 2.7 megabajta (podczas gdy TI-92+ miał jedynie 384 kilobajty).
+
+Jak wszystkie poprzednie kalkulatory tej serii, Voyage 200 jest zaawansowanym kalkulatorem obsługującym rysowanie wykresów wielu funkcji naraz na ekranie, parametry oraz wykresy trójwymiarowe (3D). Kalkulator potrafi również wyznaczać rozwiązania w sposób algebraiczny i numeryczny (bazując na silniku CAS programu Derive).Na V200 można uruchomić większość oprogramowania napisanego dla TI-89 i TI-92. Dla kalkulatora Voyage napisano wiele aplikacji takich jak gry, zarządca informacji osobistej (ang. Personal Information Manager), arkusz kalkulacyjny czy interaktywny układ okresowy pierwiastków chemicznych.
+
+V200 jest łatwo mylony z urządzeniami PDA lub małymi komputerami, ze względu na masywny wygląd i klawiaturę QWERTY. Kalkulator TI-89 Titanium oferuje zbliżoną funkcjonalność, a jest sporo mniejszy.
+
+Cechy serii TI-92
+
+
+
+Zauważ, że oficjalna strona podaje ilość pamięci ROM dostępnej dla użytkownika w kalkulatorze TI-92 Plus jako 702K , a inne źródła podają 388K   .
+
+Linki zewnętrzne
+W języku polskim
+- oficjalny przedstawiciel Texas Instruments w Polsce
+- strona Adriana Pereka
+- artykuł na temat możliwości współpracy kalkulatorów TI z wolnym oprogramowaniem.
+
+W języku angielskim
+- strona producenta
+- Największa, najstarsza (1996) i ciągle rozwijająca się baza oprogramowania i informacji dla kalkulatorów TI
+- Największa i najbardziej aktywna społeczność programistów TI
+- Emulator TI-89/TI-92/Voyage 200 dla Linuksa, Windows i Mac OS X
+
+
+
+

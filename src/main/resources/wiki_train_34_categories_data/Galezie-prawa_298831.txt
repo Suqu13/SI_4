@@ -1,0 +1,44 @@
+Prawo własności intelektualnej (prawo na dobrach niematerialnych) – termin obejmujący elementy różnych działów prawa, regulujące zasady korzystania z tzw. własności intelektualnej.
+
+W różnych jurysdykcjach termin ten rozumiany jest mniej lub bardziej szeroko, w Polsce najczęściej do praw własności intelektualnej zalicza się regulacje prawa autorskiego (w ramach prawa cywilnego) oraz patentów i znaków towarowych (w ramach prawa własności przemysłowej). W niektórych krajach do praw własności intelektualnej zaliczane są także tajemnice handlowe.
+
+Tak rozumiane prawa własności intelektualnej dają uprawnionym osobom możliwość zakazania innym pełnego korzystania z utworów, koncepcji lub znaków będących przedmiotem ochrony.
+
+Mimo faktu, że wiele obowiązujących obecnie ustaw dotyczących własności intelektualnej rozwijało się od stuleci, użycie terminu własność intelektualna zostało zapoczątkowane dopiero w XIX wieku, powszechne na świecie stało się zaś w drugiej połowie XX wieku. Brytyjska ustawa z 1710 r. nosząca nazwę Statutu Anny jest uważana za kolebkę prawa autorskiego.
+
+Źródła prawa
+Regulacje dotyczące poszczególnych praw własności intelektualnej określane są w odrębnych gałęziach prawa, z wykorzystaniem konstrukcji typowych zarówno dla regulacji prawa rzeczowego, jak i prawa zobowiązań. Do własności intelektualnej stosuje się także wprost uregulowania prawa spadkowego.
+
+Podstawowymi aktami prawnymi regulującymi prawo własności intelektualnej w Polsce są:
+ustawa o prawie autorskim i prawach pokrewnych,
+ustawa – Prawo własności przemysłowej,
+ustawa o ochronie baz danych,
+ustawa o zwalczaniu nieuczciwej konkurencji.
+
+Założenia
+Tradycyjnym podstawowym celem, ku któremu dąży większość aktów prawnych dotyczących własności intelektualnej (z wyjątkiem znaków towarowych) jest "promowanie postępu". Według tej filozofii, dzięki wymianie ograniczonych oraz wyłącznych praw do przedstawiania koncepcji i utworów, zarówno społeczeństwo, jak i właściciel patentu lub praw autorskich czerpią zyski, zarazem stanowiąc motywację dla wynalazców i twórców.
+Zakres ochrony
+Zakres ochrony poszczególnych praw własności intelektualnej w Polsce jest różny w zależności od charakteru tych praw:
+
+Dobra objęte prawem autorskim są chronione począwszy od momentu ich powstania, bez konieczności dokonywania ich rejestracji. Na podstawie umów międzynarodowych ochrona ta obowiązuje w prawie wszystkich krajach świata.
+
+W przypadku przedmiotów własności przemysłowej dla większości z nich celu uzyskania pełnej ochrony prawnej wymagane jest zgłoszenie do Urzędu Patentowego RP oraz wydanie przez ten organ decyzji w sprawie udzielenia patentu, praw ochronnych lub praw z rejestracji. Zakres tej ochrony jest ograniczony do terytorium RP, a ewentualne jej rozszerzenie wymaga zgłoszeń w urzędach patentowych krajów, w których prawa mają być objęte taką ochroną.
+
+Krytyka
+Założyciel Free Software Foundation, Richard Stallman argumentuje, że mimo powszechności użycia terminu własność intelektualna, powinien on zostać porzucony, gdyż ustawicznie wypacza i wprowadza w błąd w odniesieniu do tych zagadnień, a jego użycie było i jest propagowane przez jednostki czerpiące z tego zamętu zyski. Twierdzi on, że jest to ''[termin] zbiorowy, który gromadzi różne prawa, [które] rozwinęły się oddzielnie, ewoluowały inaczej, dotyczą odmiennych rodzajów działalności, cechują się innymi zasadami i poruszają inne kwestie polityki publicznej oraz że tworzy on uprzedzenia przez mylenie tych monopoli z posiadaniem ograniczonych dóbr materialnych, porównując je do praw majątkowych. Stallman zaleca, aby do praw autorskich, patentów i znaków towarowych odnosić się indywidualnie oraz ostrzega przed odrywaniem różnych praw od ich oryginalnego kontekstu przez ujednolicanie ich w ramach zbiorowego terminu. W podobnym duchu wypowiadają się Boldrin i Levine; proponują oni termin intelektualny monopol jako odpowiedniejszą i klarowniejszą definicję omawianej koncepcji.
+
+Znaczna część środowisk libertariańskich odrzuca prawo własności intelektualnej w obecnej postaci, gdyż narusza ono wolność innych osób, odmawiając im prawa do dowolnego postępowania ze swoją własnością (np. wybudowania maszyny – własnymi środkami – według patentu lub nagrania chronionego prawem utworu na nośnik danych). Arbitralnie przyjęte okresy ochrony sugerują, że własność intelektualna nie wynika z prawa naturalnego, lecz jest tworem sztucznym. Przedstawiciele wspomnianych ugrupowań argumentują też, że aby wystąpił spór dotyczący własności, dany obiekt musi być rzadki, tzn. istnieć w określonej ilości. Obiekty objęte ochroną własności intelektualnej nie spełniają tego wymogu. Informację bądź plik muzyczny można np. powielić, skopiować nieskończoną liczbę razy, przy czym analogiczne czynność w przypadku dobra materialnego lub usługi nie jest możliwa.
+
+Zobacz też
+Światowa Organizacja Własności Intelektualnej
+
+
+
+Linki zewnętrzne
+Marek Łazewski, Mariusz Gołębiowski: Vademecum Innowacyjnego Przedsiębiorcy, tom III - , Warszawa 2006, ISBN 83-907625-6-0
+Ustawa z dnia 30 czerwca 2000 r. Prawo własności przemysłowej () (tekst jednolity -  z późn. zm.)
+Traktat Światowej Organizacji Własności Intelektualnej o Prawie Autorskim, sporządzony w Genewie dnia 20 grudnia 1996 r.'' () 
+Ustawa z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych () 
+Richard M. Stallman: 
+
+

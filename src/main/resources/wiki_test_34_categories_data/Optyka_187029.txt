@@ -1,0 +1,32 @@
+
+Płytka półfalowa (półfalówka) – przezroczysta płytka wykonana z anizotropowego kryształu (zazwyczaj kwarcu), po przejściu przez którą światło zmienia swoją polaryzację. Działanie płytki wynika z tego, że światło padając prostopadle na taki kryształ rozdziela się na dwa promienie. Mają one ten sam kierunek, ale prostopadłe do siebie polaryzacje. Różnią się także prędkością rozchodzenia w krysztale, co powoduje, że mają do pokonania różne drogi optyczne. Jeśli odpowiednio dobrać długość płytki to po wyjściu z niej fazy obu promieni będą przesunięte względem siebie o π, co odpowiada różnicy dróg optycznych równej połowie długości fali.
+
+Własności idealnej płytki półfalowej
+Przepuszcza całe padające na nią światło zmieniając tylko stan jego polaryzacji.
+Nie polaryzuje światła niespolaryzowanego.
+Światło spolaryzowane liniowo zamienia na światło spolaryzowane liniowo w kierunku, który jest odbiciem polaryzacji światła padającego względem jednej z osi (szybkiej). 
+Zmienia światło spolaryzowane kołowo prawoskrętnie na światło spolaryzowane kołowo lewoskrętnie i odwrotnie.
+
+Zasada działania
+Płytka wykonana jest z materiału, w którym prędkość rozchodzenia się fali (światła) zależy od kierunku polaryzacji światła (dwójłomność). Światło padając na płytkę, w której oś optyczna jest równoległa do powierzchni płytki, nie rozszczepia się (obie składowe poruszają się w tym samym kierunku), jednak składowe fali o różnych polaryzacjach poruszają się z różnymi prędkościami – czoło fali o szybkim kierunku polaryzacji (promień nadzwyczajny dla kryształów optycznie ujemnych, promień zwyczajny dla kryształów optycznie dodatnich) wyprzedza czoło fali o wolnym kierunku polaryzacji (promień nadzwyczajny dla kryształów optycznie dodatnich, promień zwyczajny dla kryształów optycznie ujemnych). Dlatego następuje przesunięcie polaryzacji jednej względem drugiej. Różnica dróg optycznych wynosi
+gdzie 
+d to grubość płytki;
+Δn to dwójłomność (różnica współczynników załamania dla obu polaryzacji);
+ne - współczynnik załamania dla promienia nadzwyczajnego;
+no - współczynnik załamania dla promienia zwyczajnego.
+Jeżeli kąt między płaszczyzną polaryzacji światła a jednym z kierunków głównych kryształu płytki wynosi α, to po przejściu przez półfalówkę, płaszczyzna polaryzacji światła ulegnie skręceniu o kąt 2α.
+Aby otrzymać przesunięcie o pół długości fali (), należy odpowiednio dobrać grubość płytki, tak aby 
+gdzie a mod b oznacza resztę z dzielenia a przez b (zobacz arytmetyka modularna).
+
+Płytka półfalowa różni się od ćwierćfalowej tylko swoją grubością. Ze względu na dyspersję, półfalówka działa tylko dla określonej długości fali (zazwyczaj dla linii żółtej sodu). Dla innych długości fali półfalówka może być ćwierćfalówką lub nie dawać żadnego efektu.
+
+Zastosowanie
+Stosowana jest w przyrządach optycznych, tam gdzie potrzebna jest zmiana stanu polaryzacji światła lub dokonywana jest analiza stanu polaryzacji światła, m.in. w
+polarymetrach; 
+mikroskopii polaryzacyjnej.
+
+Zobacz też
+płytka ćwierćfalowa
+dwójłomność
+
+Bibliografia

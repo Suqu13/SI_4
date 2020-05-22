@@ -1,0 +1,31 @@
+Chlorprotiksen (łac. Chlorprothixenum) – organiczny związek chemiczny, neuroleptyk z grupy pochodnych tioksantenu, wprowadzony do lecznictwa w roku 1959 pod nazwą handlową Truxal przez duńską firmę H. Lundbeck. Wykazuje silne działanie uspokajające, słabe przeciwpsychotyczne, słabe przeciwautystyczne i bardzo słabe przeciwdepresyjne. Związek znalazł zastosowanie w leczeniu urojeń z pobudzeniem psychomotorycznym i obniżeniem nastroju. Również w leczeniu niektórych zespołów depresyjnych, zwłaszcza przebiegających z nasilonymi stanami lękowymi i niepokojem oraz w stanach psychotycznych, w tym psychozach alkoholowych i starczych. Pod względem budowy chemicznej związek podobny do chloropromazyny.
+
+Mechanizm działania
+Chlorprotixen jest silnym antagonistą następujących receptorów:
+
+receptory serotoninowe 5-HT2: działanie przeciwpsychotyczne, przeciwlękowe, zwiększenie masy ciała
+receptory dopaminergiczne D1, D2, D3: działanie przeciwpsychotyczne sedacja, pozapiramidowe efektów ubocznych, wzrost stężenia prolaktyny we krwi, depresja, apatia/anhedonia, zwiększenie masy ciała
+receptor histaminowy H1: sedacja, zwiększenie masy ciała
+receptor cholinergicznymACh: działanie antycholinergiczne, ograniczenie pozapiramidowych efektów niepożądanych
+receptory adrenergiczne α1-adrenergiczny: hipotonia, tachykardia
+
+Działania niepożądane
+Najczęściej występujące działania niepożądane to senność, bóle i zawroty głowy, zmęczenie, niedociśnienie ortostatyczne, zaparcia, zwiększenie masy ciała, niezbyt często występuje dystonia i akatyzja. Obserwowano tachykardię (przy nagłym zwiększeniu dawki), reakcje fototoksyczne oraz zależną od dawki, odwracalną polineuropatię. Bardzo rzadko (u mniej niż 1 pacjenta na 10 000) może pojawć się złośliwy zespół neuroleptyczny, żółtaczka, zespół toczniopodobny, późne dyskinezy. Ryzyko pojawienia się działań niepożądanych jest większe przy stosowaniu leku przez dłuższy czas w wysokich dawkach oraz u dzieci i osób starszych.
+Chlorprotiksen może dać fałszywie dodatni wynik  na obecność hCG (pozytywny wynik płytkowego testu ciążowego) w moczu  oraz na obecność bilirubiny oraz powodować zmiany w odstępie QT (czas potencjału czynnościowego mięśnia komór) w EKG.
+
+Interakcje
+Jednoczesne stosownie chlorprotiksenu oraz alkoholu, leków nasennych, przeciwdrgawkowych, przeciwdepresyjnych, neuroleptyków,leków przeciwbólowych nasila wzajemne hamujące działanie na OUN. Ponadto jednoczesne stosowanie innych neuroleptyków może prowadzić do nasilenia objawów pozapiramidowych. Istnieje konieczność modyfikacji dawki leków przeciwpadaczkowych, gdyż chlorprotiksen obniża próg drgawkowy. Ponieważ lek wykazuje powinowactwo do receptorów wymienionych w sekcji Mechanizm działania, jednoczesne stosowanie antagonistów/agonistów tychże receptorów może prowadzić do interakcji:
+cholinolityki, leki antymuskarynowe, przeciwhistaminowe - nasilenie działania antycholinergicznego chlorprotiksenu
+adrenaliny - wzrost ryzyka wystąpienia hipotonii i tachykardii.
+Leki przeciwparkinsonowskie - nasilenie działania antycholinergicznego, osłabienie działania lewodopy, konieczność modyfikacji dawki bromokryptyny ze względu na możliwość wzrostu stężenia prolaktyny w surowicy.
+
+Preparaty
+Preparaty dostępne w Polsce
+Chlorprothixen Zentiva – tabl. powl. (w postaci chlorowodorku chlorprotiksenu)
+
+
+
+Bibliografia
+A.Chwalibogowska-Podlewska; J.K.Podlewski, Leki Współczesnej Terapii 2009
+Pharmindex 2009
+http://www.psychotropics.dk

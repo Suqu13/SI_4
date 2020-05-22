@@ -1,0 +1,83 @@
+ZAM 41''' – pierwszy polski komputer do przetwarzania danych zaprojektowany w Instytucie Maszyn Matematycznych (IMM) w Warszawie, a produkowane przez Zakład Doświadczalny Instytutu.
+
+Był jedynym produkowanym seryjnie modelem rodziny komputerów do przetwarzania danych opracowanym przez IMM na polecenie rządu z roku 1961. Prace nad pozostałymi: minikomputerem ZAM-11 i największym ZAM-51 nie zostały ukończone. Wykonano jedynie 2 lub 3 maszyny prototypowe ZAM-21.
+
+Komputer często umieszczano w dwóch albo trzech pomieszczeniach rozdzielonych przeszklonymi ściankami. Wydzielano pomieszczenie dla wymagających stałej temperatury i wyższej czystości pamięci taśmowych. W oddzielnym pomieszczeniu umieszczona była bardzo hałaśliwa drukarka wierszowa.
+
+[[Plik:ZAM-41.jpg|thumb|350px|right|
+Z przodu po lewej: [[drukarka wierszowa]]
+pod ścianą: [[jednostka systemowa|jednostka centralna]] z [[pamięć bębnowa|pamięcią bębnową]]
+za szybami: jednostki [[pamięć taśmowa|pamięci taśmowej]] [[PT-2]]
+na środku biurko z modułów od lewej:
+[[czytnik taśmy dziurkowanej]]
+dwa [[perforator taśmy dziurkowanej|perforatory taśmy dziurkowanej]]
+[[dalekopis]] jako [[monitor komputera|monitor]]
+nad biurkiem [[pulpit]]
+]]
+Dane
+rodzina: ZAM
+typ: komputer II generacji zbudowany na selekcjonowanych germanowych tranzystorach stopowych TG1 produkowanych w Tewie (pakiety typu S-400).
+organizacja:
+arytmetyka binarna, zapis liczb znak-moduł
+słowo maszynowe długości 24 bity podzielone na 4 znaki po 6 bitów i 3 znaki po 8 bitów
+liczby:
+krótkie - 24 bity
+długie  - 48 bitów
+zmiennoprzecinkowe - 48 bitów
+rozkazy jednoadresowe z 15 bitowym adresem
+zestaw znaków nie zawierał małych liter
+programowy zmienny przecinek realizowany przez ekstrakody (brak rozkazów zmiennoprzecinkowych realizowanych sprzętowo)
+prędkość:
+ponad 30 000 rozkazów stałoprzecinkowych na sekundę
+cykl odczytu pamięci operacyjnej:  6 lub 10 µs
+czas dostępu: 3,5 lub 6 µs
+pamięć operacyjna:
+ferrytowa na rdzeniach o średnicy 2&nbsp;mm, 24 bitowa + bit parzystości
+od 8 do 256 kilosłów (w modułach po 8 Kilosłów)
+32 k adresowane bezpośrednio, a pozostałe pośrednio lub z zastosowanie B-modyfikacji (rejestru indeksowego)
+wyprodukowano łącznie: 16 szt.
+
+Urządzenia we-wy
+monitor - dalekopis
+czytnik taśmy pięciokanałowej
+perforator taśmy pięciokanałowej
+czytnik kart dziurkowanych
+drukarka wierszowa
+
+Pamięć masowa
+pamięć taśmowa - jednostki pamięci PT-2 z jednostką sterującą
+od 1 do 4 modułów z pamięci bębnowej PB-5 o pojemności 32 ksłów każdy (przy pojemności 64 Ksłów ok. 42 Ksłów przeznaczonych dla programu)
+z jednym komputerem był używany prototyp pamięci bębnowej PB-6 o pojemności 20 mln bitów (ok. 800 Ksłów).
+
+Wieloprogramowość
+2 programy w trybie wsadowym. Rzadko wykorzystywana.
+
+Oprogramowanie
+Systemy operacyjne
+SO 141 - wsadowy
+TRAN -  czasu rzeczywistego
+
+Języki programowania
+PJEG (asembler przeznaczony dla twórców oprogramowa­nia)
+SAS 41 (makroasembler)
+algorytmiczne:
+SAKO
+Algol
+przetwarzania danych:
+EOL – język do przetwarzania informacji tekstowej
+COBOL
+symulacyjne:
+CEMMA – język do symulacji procesów ciągłych
+ZAM-GPSS – język do symulacji procesów dyskretnych
+Astek – język opisu i obróbki statystycznej
+przewidziane w projekcie lecz niezrealizowane
+FORTRAN IV
+
+Zachowane
+
+Brak.
+
+
+
+
+

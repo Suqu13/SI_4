@@ -1,0 +1,32 @@
+
+Soczewki światłowodowe (soczewki GRIN lub SELFOC) wykonuje się ze szkła o zmiennej wartości współczynnika załamania światła n w funkcji odległości od osi soczewki n&nbsp;=&nbsp;f(r). Są to w rzeczywistości krótkie odcinki światłowodów gradientowych. Nazwa GRIN pochodzi się od angielskich słów GRadient INdex, a SELFOC od SELf FOCusing. Gradientowy profil współczynnika załamania powoduje krzywoliniowy bieg promieni, taki jak w światłowodzie gradientowym. Profil współczynnika załamania światła przypomina krzywą dzwonową, której maksimum znajduje się w osi soczewki, a jej ramiona opadają w dół (wykres funkcji obok).
+
+Wykres funkcji można w pierwszym przybliżeniu opisać równaniem:
+gdzie: 
+A&nbsp;=&nbsp;g'2
+g  – stała rozkładu współczynnika załamania,
+r – odległość punktu od osi soczewki,
+N'0  – współczynnik załamania na osi soczewki.
+
+Pełne równanie na profil rozkładu współczynnika załamania:
+
+gdzie:
+
+h'4, h'6 – współczynniki rozwinięcia
+
+Typowe wymiary soczewek:
+długość: 3–30mm
+średnica: 1–2mm
+
+Podstawowe zastosowania
+Transformacja apertury numerycznej NA. Polega na kształtowaniu kąta rozbieżności źródła światła. Efekt transformacji apertury jest stosowany do zwiększenia skuteczności sprzężenia optycznego źródło-światłowód. Ze względu na duża rozbieżność wiązki wychodzącej ze źródła dąży się do wykonania soczewek o dużej aperturze numerycznej. Dla źródeł światła,takich jak lasery, których średnica powierzchni czynnej jest mniejsza od średnicy sprzęganego światłowodu, obniża się aperturę numeryczną wyjściową dopasowując ją do apertury numerycznej światłowodu. W efekcie uzyskuje się poprawę sprawności sprzężenia oraz obniżenie wymagań technicznych dotyczących precyzji ustawienia sprzęganych elementów. Na podobnej zasadzie soczewki te mogą być zastosowane do sprzężenia dwóch światłowodów.
+Ogniskowanie i kolimacja. Bardzo ważną funkcją soczewki światłowodowej jest ogniskowanie i kolimacja (tworzenie wiązki równoległej).
+Odpowiada za tworzenie obrazu w takich urządzeniach jak:
+skaner
+ksero
+drukarka
+Może spełniać rolę sprzęgacza kierunkowego.
+Multipleksowanie obrazu.
+
+
+

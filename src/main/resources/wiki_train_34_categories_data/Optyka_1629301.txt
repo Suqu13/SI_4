@@ -1,0 +1,21 @@
+
+
+
+Montaż paralaktyczny (równikowy) - w astronomii, sposób mocowania teleskopu zapewniający jego obrót wokół dwóch, prostopadłych do siebie osi, z których jedna wskazuje na biegun niebieski. 
+
+Zaletą tego rozwiązania jest możliwość podążania teleskopu za ruchem dobowym nieba przy pomocy jednostajnego obrotu wokół tylko jednej osi. Podłączenie silnika elektrycznego (tzw. mechanizmu zegarowego) pozwoli automatycznie utrzymać obserwowany obiekt w polu widzenia. Montaż paralaktyczny stosowany jest do długoczasowej fotografii nieba. Skalę montażu ustawia się na układ współrzędnych równikowych godzinnych.
+
+Wadą systemu jest dość skomplikowana budowa oraz konieczność zastosowania przeciwwagi, która znacząco zwiększa masę układu. Bardzo duże teleskopy umieszcza się na montażach azymutalnych (horyzontalnych), gdyż ich olbrzymia waga powoduje uginanie się osi montażów paralaktycznych. Silniki kompensujące w montażu horyzontalnym ruch wirowy Ziemi muszą pracować w obu osiach, a ich obroty są sterowane przez komputer. 
+
+Zobacz też
+Montaż azymutalny
+
+Linki zewnętrzne
+(Teleskopy.pl)
+(astroflesz.pl)
+(teleskopy.net)
+(Telescope-Service.com)
+
+
+
+

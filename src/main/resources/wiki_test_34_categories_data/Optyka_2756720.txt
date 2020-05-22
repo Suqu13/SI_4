@@ -1,0 +1,32 @@
+
+
+Refraktometr Abbego – przyrząd optyczny służący do pomiarów współczynnika załamania światła z wykorzystaniem zjawiska całkowitego wewnętrznego odbicia, zaprojektowany przez Ernsta Abbego (1840–1905); umożliwia badania współczynnika załamania cieczy i ciał stałych o gęstości optycznej mniejszej od gęstości optycznej materiału pryzmatów (flint, szkło kwarcowe, kwarc).
+
+Zasada działania
+Współczynnik załamania światła (n) jest wyznaczany na podstawie wartości kąta granicznego (Θgr) na podstawie prawa Snelliusa: 
+gdzie dolne indeksy A i B odnoszą się do sąsiadujących ośrodków o różnej gęstości optycznej.
+Kąt graniczny jest zdefiniowany jako wartość kąta padania światła (Θp), biegnącego z ośrodka o większej wartości n, w sytuacji, gdy kąt załamania (Θz) osiąga wartość 90° (promień „ślizga się” po powierzchni granicznej):
+= 
+W refraktometrze wiązka promieniowania (np. monochromatyczna żółta linia D sodu z lampy sodowej) przechodzi przez dwa pryzmaty (A), między którymi znajduje się badana warstwa o mniejszej gęstości optycznej (B, np. woda lub roztwór wodny). 
+
+Wiązka ulega załamaniu lub odbiciu, zależnie od kąta padania i stosunku współczynników załamania w obu ośrodkach, równego stosunkowi sinusów kątów padania (1) i załamania (2). Konstrukcja przyrządu umożliwia stopniową zmianę kąta padania. 
+
+Precyzyjne wyznaczenie wartości kąta granicznego uzyskuje się dzięki zastosowaniu pryzmatu o szorstkiej powierzchni. Rozproszenie światła na tej powierzchni powoduje, że część wiązki o średnim kącie padania równym kątowi granicznemu (w odniesieniu do powierzchni gładkiej) ulega załamaniu, a część – odbiciu (granica pól wskazuje kąt graniczny). W okularze jest obserwowane pole częściowo oświetlone. Ostra granica między polem ciemnym i jasnym wskazuje wartość kąta granicznego.
+
+
+
+Konstrukcja i obsługa
+Główną częścią refraktometru są połączone zawiasowo dwa pryzmaty – oświetleniowy i pomiarowy, pomiędzy które wprowadza się kroplę badanej cieczy. Pryzmaty znajdują się w obudowie utrzymywanej w stałej, kontrolowanej temperaturze (w popularnej wersji urządzenia stosuje się obieg wody z termostatu). Na pryzmat oświetleniowy, z matową powierzchnią, jest kierowane światło odbite od zwierciadła (np. promieniowanie słoneczne lub z lampy sodowej). 
+ 
+
+Wiązka wychodząca z bloku pryzmatów jest kierowana do kompensatora – zestawu pryzmatów  Amiciego sprzężonych z pokrętłem, którego obrót umożliwia zmniejszenie aberracji chromatycznej (tęczowego rozmycia granicy pól), co jest szczególnie ważne w przypadku stosowania światła białego. Obracając drugie pokrętło stopniowo zmienia się ustawienie pryzmatów i lusterka względem lunetki poszukując położenia, w którym obserwowana w okularze granica między polem jasnym i ciemnym znajduje się na przecięciu nici pajęczych. W tym położeniu odczytuje się ze skali przyrządu – w okularze drugiej lunetki – wartość współczynnika załamania. W przypadku badań stężenia cukru w roztworach wodnych wynik może być bezpośrednio odczytany z dodatkowej skali.
+
+Refraktometrami Abbego są nazywane również różnorodne nowoczesne urządzenia, wzorowane na konstrukcji klasycznej, np. automatyczne refraktometry cyfrowe o wysokiej dokładności i precyzji, z automatyczną kompensacją temperatury, wbudowanym źródłem światła i cyfrowymi wyświetlaczami wyniku pomiaru.
+ 
+
+
+
+
+Linki zewnętrzne
+prod. Carl Zeiss, 1904&nbsp;r.
+prod. Carl Zeiss, 1928&nbsp;r.

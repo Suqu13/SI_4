@@ -1,0 +1,40 @@
+Spektrofluorymetria (spektroskopia fluorescencyjna, fluorymetria) – rodzaj spektroskopii promieniowania elektromagnetycznego, w której analizuje się fluorescencję próbki wywołaną światłem ultrafioletowym lub promieniowaniem rentgenowskim.
+
+Podstawy metody
+
+Jest to metoda wykorzystująca zjawiska luminescencji:
+fluorescencji – polegającej na przejściu ze wzbudzonego stanu S1, na stan podstawowy S0
+fosforescencji – polegającej na przejściu ze stanu trypletowego T1, na stan singletowy S0.
+
+Oba te przejścia są przejściami promienistymi, zatem zachodzą z emisją fotonu. Emitowane fotony mają mniejszą energię niż fotony promieniowania wzbudzającego, więc widmo fluorescencji jest przesunięte w kierunku fal dłuższych w stosunku do widma absorpcji. Widmo fosforescencji jest przesunięte w kierunku fal dłuższych, zarówno względem widma absorpcji, jak i widma fluorescencji.
+
+Bezwzględną wydajnością kwantową (Φ0) nazywa się stosunek liczby kwantów promieniowania wyemitowanego do liczby kwantów zaabsorbowanych promieniowania wzbudzającego:
+nE – liczba kwantów promieniowania wyemitowanego
+nA – liczba kwantów zaabsorbowanych promieniowania wzbudzającego
+
+Energetyczną wydajność fluorescencji (Φw) określa stosunek energii wyemitowanej do zaabsorbowanej:
+Często towarzyszącym zjawiskiem jest wygaszanie luminescencji, a zwłaszcza jego szczególny przypadek – wygaszanie stężeniowe. W rozcieńczonych roztworach intensywność fluorescencji jest proporcjonalna do stężenia luminoforu. Jednak gdy stężenie substancji fluoryzującej przekroczy pewną granicę, intensywność fluorescencji zaczyna maleć. Wynika to najprawdopodobniej z asocjacji cząsteczkowej – cząsteczki zasocjowane w dużym stopniu, pochłaniają energię, lecz nie są zdolne jej wyemitować.
+
+Analiza fluorescencyjna rentgenowska
+Przy wykorzystaniu promieniowania rentgenowskiego przyrządem pomiarowym jest spektrometr gamma z odpowiednio dobranymi filtrami krawędziowymi. Określa się nimi energię prążka Kα wzbudzonego promieniowania charakterystycznego. Analiza intensywności prążka umożliwia też oznaczanie ilościowe. 
+
+Aparatura
+Urządzenia służąca do pomiarów spektrofluorymetrii noszą nazwę spektrofluorymetrów (fluorymetrów). Składają się one z:
+Źródła promieniowania wzbudzającego:
+łukowe lampy ksenonowe
+lasery
+izotopowe źródła promieniowania rentgenowskiego
+Monochromator – służy do wyboru wiązki światła o danej długości fali z widma niemonochromatycznego:
+pierwszy monochromator służy do wybrania określonej długości fali padającego na próbkę
+drugi monochromator służy do wybrania długości fali promieniowania emitowanego przez próbkę
+Drugi monochromator jest umieszczony za próbką, pod kątem 90° w stosunku do światła padającego na próbkę
+Próbka – najczęściej w postaci roztworu w kuwecie kwarcowej
+Detektor – najczęściej stosowanym detektorem jest fotopowielacz lub detektor wielokanałowy
+Komputer – służy do rejestracji i zapisu widm, a także do sterowania procesem pomiarowym
+
+Zastosowanie
+Metodę tę można wykorzystywać do analizy ilościowej i jakościowej. Do opisu ilościowego stosuje się zazwyczaj metodę krzywej wzorcowej, wykorzystując zależność intensywności fluorescencji do stężenia próbki.
+
+Można ją stosować do analizy związków organicznych, m.in. związków biologicznie czynnych (np. witaminy, hormony i alkaloidy), środków farmaceutycznych (np. antybiotyki i barbiturany), środków spożywczych i toksycznych. Możliwa jest też analiza związków nieorganicznych,  głównie kationów (zwłaszcza metali przejściowych), które tworzą związki kompleksowe z ligandami organicznymi zawierającymi chromofory umożliwiającymi fluorescencję. Związki nieorganiczne można oznaczać przy bardzo niskich stężeniach, do 0,5 ng/cm³.
+
+Bibliografia

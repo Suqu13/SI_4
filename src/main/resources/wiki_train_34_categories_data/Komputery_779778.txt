@@ -1,0 +1,39 @@
+Nokia N800 Internet Tablet – następca modelu Nokia 770, pierwszego w historii firmy Nokia urządzenia typu tablet, działającego pod kontrolą systemu operacyjnego Linux. Premiera odbyła się na targach CES 2007 w Las Vegas w dniu (8 stycznia 2007). Urządzenia od razu pojawiły się w sprzedaży. Nie posiada ono modułu GSM, a do połączenia z internetem używa wyłącznie Wi-Fi (IEEE_802.11b/g) lub sparowanego po Bluetooth telefonu komórkowego.
+
+6 lipca 2007 opublikowano nowy firmware dla N800 zawierający klienta Skype, Flash Player 9 oraz poprawiający zarządzanie baterią.
+
+Kamera
+rozdzielczość VGA
+obrotowa
+chowana w obudowie
+
+VoIP
+Google Talk (dostępny wraz z systemem)
+Gizmo (do instalacji)
+Skype (do instalacji dla firmware'u 4.2007)
+
+Wideo rozmowy
+Możliwe za pomocą wbudowanego klienta sieci Jabber (połączenie jedynie pomiędzy dwiema N800) lub Gizmo (pomiędzy dwiema N800 lub N800 - PC)
+
+System
+Nokia N800 działa na systemie operacyjnym Maemo autorstwa Nokii. Jest to system bazujący na Debianie, X11, GTK+/Gnome oraz D-Bus. Częściowo jako otwarte oprogramowanie, a częściowo zamknięte (brak kodów źródłowych).
+
+Internet Tablet OS 2006
+Pierwsza edycja oprogramowania. Wersja ''2.0'', szybko wyparta przez OS 2007. 
+
+Internet Tablet OS 2007
+Druga edycja oprogramowania dla N800. Wersja ''3.x o nazwie kodowej Bora. Nowością jest przeglądarka internetowa oparta na silniku Gecko/Firefox 3 z wtyczką Flash 9.
+
+Internet Tablet OS 2008
+Trzecia i najnowsza edycja oprogramowania dla N800, jak i dla N810. Wersja ''4.x o nazwie kodowej Chinook. Spośród licznych poprawek szczególnie wyróżnia się nowa wersja przeglądarki internetowej opartej na silniku Gecko/Firefox 3 oraz dodane wsparcie dla formatu Windows Media Video. Oprogramowanie to przyspiesza programowo (przetaktowuje) procesor N800 z 330 MHz do 400 MHz
+
+Programowanie
+W internecie dostępne są wszelkie narzędzia potrzebne do tworzenia oprogramowania dla Nokii N800 w językach C/C++ (wymagana jest kompilacja dla architektury ARM).
+Oprócz tego dostępne są pakiety do doinstalowania, umożliwiające pisanie aplikacji w takich językach jak Python, Ruby, BASIC oraz technologii .NET (dzięki Mono).
+
+Zobacz też
+Nokia 770 - poprzednik N800
+Nokia N810 - następca N800
+Maemo - środowisko deweloperskie dla urządzeń mobilnych firmy Nokia.
+
+Linki zewnętrzne

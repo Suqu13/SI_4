@@ -1,0 +1,92 @@
+Protaktyn (Pa, łac. protactinium) – pierwiastek chemiczny z grupy aktynowców o liczbie atomowej 91. Jest ciężkim srebrnoszarym metalem, łatwo reagującym z tlenem, parą wodną i kwasami nieorganicznymi. Tworzy związki chemiczne, w których jest zazwyczaj na V stopniu utlenienia, ale może także przyjmować IV, a także II i III stopień. Średnie stężenie protaktynu w skorupie ziemskiej jest zazwyczaj rzędu kilku ppt, ale może osiągać stężenia do kilku ppm w pewnych złożach rud uraninitowych. Ze względu na rzadkość, wysoką radioaktywność i toksyczność, metal ten obecnie nie posiada zastosowania poza badaniami naukowymi, do których pozyskiwany jest ze zużytego paliwa jądrowego.
+
+Protaktyn po raz pierwszy został zidentyfikowany w 1913 roku przez Kazimierza Fajansa i Oswalda Helmutha Göhringa, którzy nazwali go brevium ze względu na krótki czas połowicznego rozpadu badanego izotopu, protaktynu-234. Bardziej stabilny izotop protaktynu został odkryty w 1918 roku, a jego nazwę zmieniono na protoaktyn, a następnie, w 1949 roku, na „protaktyn”, co oznacza „rodzic aktynu” i odnosi się do faktu, że produktem rozpadu protaktynu jest aktyn.
+
+Najtrwalszym i najbardziej rozpowszechnionym (niemal 100%) naturalnie występującym izotopem protaktynu jest protaktyn-231, będący produktem rozpadu uranu-235, ma okres półtrwania ok. 32&nbsp;530 lat. Znacznie mniejsze, śladowe ilości krótkotrwałego protaktynu-234m występują w produktach szeregu promieniotwórczego uranu-238. Protaktyn-233 jest produktem rozpadu toru-233, będącego częścią łańcucha przemian wykorzystywanych do otrzymania uranu-233 poprzez napromieniowanie neutronami toru-232. Jest niepożądanym produktem pośrednim w opartych na torze reaktorach jądrowych i jest usuwany z aktywnego obszaru reaktora podczas procesu powielania.
+
+Analiza względnych stężeń różnych izotopów uranu, toru i protaktynu w wodzie i minerałach jest używana w datowaniu izotopowym osadów, których wiek sięga do 175 tys. lat oraz w modelowaniu różnych procesów geologicznych.
+
+Występowanie
+Protaktyn występuje w blendzie smolistej (uraninicie) w stężeniu w rudzie około 0,3–3 ppm. Jest jednorodnie rozprzestrzeniony w większości substancji naturalnych, w tym w wodzie, gdzie występuje w mniejszych stężeniach, rzędu 1 ppt, co odpowiada promieniotwórczości 0,1 pCi/g. W glebie piaszczystej występuje około 500-krotnie więcej protaktynu niż w wodzie, nawet jeśli woda ta jest obecna w tej glebie. Znacznie wyższe krotności, rzędu 2000 i powyżej, zostały zmierzone w piaskach gliniastych i glinach, takich jak bentonit. Protaktyn jest jednym z najrzadszych i najdroższych pierwiastków występujących w przyrodzie.
+
+Źródła naturalne
+
+Ponieważ czas połowicznego rozpadu  jest krótki w porównaniu do skali geologicznej, więc jego występowanie jest ściśle związane z występowaniem . Zawartość uranu w skorupie ziemskiej jest na poziomie 2,7 ppm, z czego 0,711% to , stąd naturalne rozpowszechnienie  (obliczone z okresów połowicznego rozpadu  i ) wynosi 0,87, tylko nieznacznie mniej niż . Przyjmując, że masa skorupy ziemskiej (do głębokości 36 km) wynosi 2,5 g, to całkowite zasoby protaktynu wynoszą 2,2 ton.
+
+Wyraźna tendencja protaktynu do hydrolizy jest podstawą metody datowania osadów morskich do ich wieku sięgającego miliona lat. Przy niezakłóconym uformowaniu geologicznym stosunek Pa:U wynosi 3,2, ale współczynnik ten jest zakłócany, kiedy złoże jest wymywane przez wody gruntowe, które przenoszą uran do morza. Przy pH wody morskiej protaktyn i tor hydrolizują i odkładają się na dnie oceanicznym, pozostawiając uran w roztworze jako . Jako że rozpad  i  zachodzi z różnymi prędkościami, to wzajemny współczynnik zawartości tych pierwiastków na różnych głębokościach może być użyty do określenia szybkości sedymentacji.
+
+Do określenia zawartości  w ciałach stałych używana jest nowa metoda, o rząd wielkości dokładniejsza niż metody oparte na zliczaniu rozpadów, która oparta jest na spektroskopii masowej jonizacji termicznej (TIMS) protaktynu w węglanach. Dzięki tej metodzie mogą być datowane węglany o wieku 10–250&nbsp;tys. lat.
+
+ nie został wykryty w naturze, ale ślady , jego substratu, jak i , produktu jego rozpadu, zostały wykryte w ściekach rafinerii uranu. Można wnioskować, że  jest ciągle naturalnie tworzony w reakcji:
+(n,2n) → (β−;6,75 dnia) → (α;2,14 lat) → 
+
+W reaktorach atomowych
+Dwa ważne izotopy protaktynu,  i  powstają z toru w reaktorach jądrowych; oba są niepożądane i są zazwyczaj usuwane, tym samym komplikując schemat i działanie reaktora jądrowego. W szczególności  poprzez reakcje n,2'n tworzy , który szybko (t1/2 = 25,5 godz.) rozpada się do . Izotop ten ma stosunkowo długi okres połowicznego zaniku, równy 32&nbsp;760 lat, i jest główną przyczyną długotrwałej radiotoksyczności zużytego paliwa jądrowego. Protaktyn-233 jest tworzony z  poprzez wychwyt neutronu. Następnie rozpada się do uranu-233 lub wychwytuje następny neutron i przekształca się w bardzo trwały uran-234.  ma względnie długi okres połowicznego zaniku równy 27 dni oraz wysoki przekrój czynny dla wychwytu neutronów (tak zwana „trucizna reaktorowa”). Stąd też, zamiast szybko rozpadać się do użytecznego , znacząca część  przekształca się w słabo rozszczepialne izotopy i pochłania neutrony, zmniejszając tym samym wydajność reaktora. By temu zapobiec,  jest usuwany z aktywnej strefy pracy torowych reaktorów chłodzonych stopionymi solami, by tor ulegał rozpadowi do . Jest to osiągane poprzez użycie kilkumetrowej wysokości kolumn stopionego bizmutu z rozpuszczonym w nim licie. W uproszczonym schemacie można to przedstawić, że lit wybiórczo redukuje sole protaktynu do metalicznego protaktynu, który następnie jest wyodrębniany ze stopionych soli, a bizmut służy tylko jako rozpuszczalnik. Wybierany jest ze względu na niską temperaturę topnienia (271&nbsp;°C), niską prężność pary, dobrą rozpuszczalność litu i aktynowców oraz niemieszalność z roztopionymi chlorkami.
+
+Izotopy protaktynu
+
+Obecnie (sierpień 2012) znanych jest 29 izotopów protaktynu, spośród których tylko trzy mają znaczenie naukowe;,  i . Dwa z nich występują naturalnie –  (~100%) i w śladowych ilościach , który istnieje ponadto w dwóch różnych stanach energetycznych.  jest produktem pracy reaktorów atomowych. Protaktyn jest źródłem cząstek alfa. Niemal cały (99,8%)  najpierw do izomeru 234mPa.
+
+Protaktyn-231
+ jest źródłem promieniowania α, a jego masa atomowa została ustalona na 231,03588 ±0,00002. W szeregu uranowo-aktynowym jest produktem rozpadu , a dalej rozpada się na , od którego zaczerpnął swoją nazwę. Potwierdzone okresy półtrwania wynoszą od 32&nbsp;000±10% do 34&nbsp;300 ±300 lat. Ostatnie badania ustaliły okres półtrwania na ok. 35&nbsp;530 ±250 lat (z 95% pewnością). Dlatego też  jest jedynym izotopem dostępnym w miligramowych ilościach. Przekrój czynny wychwytu neutronów termicznych wynosi 211 ±2 barnów. Okres półtrwania samorzutnego rozszczepienia wynosi 1,1 lat.
+
+ może być wyizolowany z przetworzonych rud uranowych lub wytworzony na drodze dwóch reakcji jądrowych: (n,2n) lub (n,γ). W zasadzie powinno to wyeliminować wszystkie problemy związane z otrzymywaniem . Jednakże napromieniowanie neutronami  daje duże ilości  i innych niepożądanych zanieczyszczeń, a względnie małe ilości .
+
+Protaktyn-233
+ jest jedynym izotopem protaktynu, który otrzymywany jest w gramowych ilościach; pierwszy gram został otrzymany w 1964 roku przez naukowców w National Reactor Testing Station w Idaho. Znaczenie tego izotopu wynika z faktu, że jest etapem pośrednim w produkcji rozszczepialnego . Reakcja została odkryta w 1938 roku przez Lise Meitner:
+(n,γ)(β−,22 min)→(β−, 27 dni) →
+ wyparł izotop  z zastosowań jako znacznik izotopowy ze względu na swój okres półtrwania, stosunkową łatwość otrzymywania oraz łatwe do wykrycia widmo gamma.
+
+Protaktyn-234
+Nuklid  występuje naturalnie w dwóch postaciach izomerycznych: 234mPa, odkryty przez Fajansa i Göhringa w 1913 roku oraz , odkryty przez Hahna w 1921 roku. Oba izotopy są źródłami promieniowania β−, rozpadając się do , ale 234mPa jest metastabilny i w 0,13% rozpadów, w wyniku przejścia izomerycznego, rozpada się do swojego stanu podstawowego, .
+
+Otrzymywanie i oczyszczanie
+Ze względu na niewielkie zapotrzebowanie na protaktyn, nigdy nie było uzyskiwano  z rud rodzimych na dużą skalę. Mierzalne ilości protaktynu zawsze były otrzymywane z pozostałości oczyszczania uranu. Ze względów ekonomicznych nie zawsze jest możliwa optymalizacja wydzielania protaktynu z wszystkich odpadach jądrowych i pozostałościach z innych procesów. Zazwyczaj protaktyn jest frakcjonowany na każdym z etapów wzbogacania i wydobywania uranu z jego rud.
+
+Przed rozwojem energii atomowej, blenda smolista była przetwarzana ze względu na zawartość radu. Rozdrobniona ruda, po wcześniejszym wyprażeniu z , była ługowana wodnymi roztworami  lub  (lub ich mieszaniną), a substancje nierozpuszczalne w kwasach były roztwarzane przy użyciu roztworów NaOH lub . Pozostałość była następnie ługowana kwasem solnym, aby odzyskać rad. Pozostałość zawierała większą lub mniejszą część pierwotnego protaktynu, w zależności od względnych proporcji kwasów używanych w roztwarzaniu; wyższe stężenie  i ogólna całkowita kwasowość sprzyja przechodzeniu protaktynu do roztworu. Metoda ta (Rückrückstände) była użyta przy odkryciu  przez Hahna i Meitner (1918), a później do otrzymania pierwszych miligramowych ilości pierwiastka (Grosse, 1927) oraz do otrzymania 0,5&nbsp;g tego pierwiastka prze Grauego i Kädinga w 1934 roku.
+
+Po II wojnie światowej do oczyszczania uranu używany był proces ekstrakcji eterowej. Kwasowy roztwór powstały po roztwarzaniu rudy był traktowany , aby strącić mniej zasadowe metale, zostawiając przy tym uran w roztworze jako kompleks węglanowy. Katzin oszacował, że strącony osad węglanowy zawiera 0,30–0,35&nbsp;ppm protaktynu, a dalsze przetworzenie tego osadu dało ok. 25&nbsp;mg czystego metalu. Kiedy proces został zmodyfikowany by wyeliminować strącanie osadu węglanowego, protaktyn przechodził przez etap ekstrakcji eterowej do wodnego rafinatu, co pozwoliło na odzyskanie 35&nbsp;mg czystej substancji. Dalsze modyfikacje procesu pozwoliły na strącanie w sposób ciągły osadu, który zawierał niemal cały protaktyn. Osad ten, był okresowo odfiltrowywany, co przyniosło ok. 2&nbsp;g protaktynu.
+
+Wodny rafinat z ekstrakcji eterowej był poddawany działaniu wapna, a odfiltrowany osad był magazynowany do przyszłego odzysku uranu i innych rynkowo cennych metali. Zgromadzony materiał był następnie poddawany kilkuetapowemu procesowi: roztwarzanie za pomocą kwasu siarkowego, następnie ekstrakcja z użyciem HDEHP, a ostatecznie reekstrakcja roztworem węglanu sodu. Roztwory ściekowe i osady były zrzucane do basenów ściekowych, gdzie tracono znaczną część protaktynu i . Proces przeszedł w 1972 roku modyfikację poprzez dodanie odpowiedniej ilości wodorotlenku sodu do roztworu , powodując całkowite strącenie uranu, tym samym minimalizując dalsze straty Pa i . Odfiltrowany osad (koncentrat Cottera) składał się z 2000 ton (suchej masy) mieszaniny tlenków i węglanów i zawierał około 30 ton , 14&nbsp;kg  i 75&nbsp;g protaktynu. Materiał ten został przetworzony w Laboratoriach Mound.
+
+W zakładach Windscale należącej do UKAEA, po usunięciu siarczanowego osadu zawierającego rad, roztwór był buforowany do pH ok. 2, a uran był strącany poprzez dodawanie nadtlenku wodoru. Osad nadtlenkowy niósł z sobą ponad 80% protaktynu, który był następnie ponownie rozpuszczany w kwasie azotowym. Niskie pH sprzyjało tworzeniu zawierającego protaktyn krzemionkowego szlamu, który osadzał się na ściankach instalacji ekstrakcji eterowej. Ten eterowy szlam był gromadzony do dalszego odzyskiwania uranu. Metoda ta była najbogatszym źródłem protaktynu, ostatecznie dając 127 g czystego pierwiastka.
+
+x zmienia się stopniowo wraz z czasem od x=9 do x=5.
+
+Wodorki
+W reakcji wodoru z metalicznym protaktynem w temperaturze 250&nbsp;°C i ciśnieniu 600 torów otrzymano w 1954 roku czarną substancję izostrukturalną z . Związek tan ma strukturę regularną o stałych sieciowych a = (6,648 ±0,005)&nbsp;Å. W 1972 roku otrzymano w temperaturze 100, 200 i 300&nbsp;°C szarą substancję w postaci proszku, izostrukturalną z . Stała sieciowa dla  otrzymanego przy 100 i 200&nbsp;°C wynosi a = (4,150 ±0,002)&nbsp;Å, natomiast dla produktu otrzymanego przy 300&nbsp;°C a = (4,154 ±0,002)&nbsp;Å.
+
+Węgliki
+Węglik protaktynu(IV), PaC, uzyskano poprzez redukcję  z grafitem przy zmniejszonym ciśnieniu w temperaturze powyżej 1200&nbsp;°C. Produkt otrzymany przy 1950&nbsp;°C miał strukturę fcc (typ NaCl) o stałej a = (5,0608 ±0,0002)&nbsp;Å. Przy 2200&nbsp;°C zaobserwowano słabe linie odpowiadające , a tetragonalna struktura otrzymanego związku charakteryzowała się stałymi sieciowymi a = (3,61 ±0,01)&nbsp;Å i c = (6,11 ±0,01)&nbsp;Å.
+
+Halogenki
+Halogenki i tlenohalogenki protaktynu(V) i protaktynu(IV) są otrzymywane z wykorzystywaniem jako substratu wodnego roztworu Pa(V). Do uzyskania halogenków metalu na V i IV stopniu utlenienia wykorzystywany jest PaC. Z halogenków protaktynu(III) znany jest tylko , otrzymany poprzez ogrzewanie  przez kilkanaście dni w temperaturze 360–380&nbsp;°C przy ciśnieniu 10−6 tora.
+
+Wszystkie podwójne halogenki są lotne przy umiarkowanych temperaturach, co było wykorzystywane przy rozdzielaniu  od  i otrzymywaniu czystego  i .
+
+Historia
+
+W 1871 roku Dmitrij Mendelejew przewidział istnienie ośmiu pierwiastków pomiędzy torem a uranem. W tamtym okresie grupa aktynowców była nieznana, stąd też uran był położony poniżej wolframu, a tor poniżej cyrkonu, pozostawiając puste miejsce poniżej tantalu. Układ okresowy pierwiastków był przedstawiany w takiej postaci aż do lat 50. XX wieku. Przez długi czas chemicy poszukiwali eka-tantalu – pierwiastka mającego właściwości zbliżone do tantalu, co uczyniło odkrycie protaktynu niemal niemożliwym.
+
+W 1900 roku William Crookes wydzielił z uranu protaktyn jako silnie promieniotwórczą substancję, jednak nie był w stanie opisać jej jako nowy pierwiastek chemiczny, stąd też nazwał ją uranem-X. Crookes rozpuścił azotan uranylu w eterze, otrzymując tym samym w fazie wodnej głównie jony  i . Jego metoda była używana do otrzymywania  i  ze związków uranu aż do lat 50. XX wieku. Protaktyn po raz pierwszy został zidentyfikowany w 1913 roku, kiedy Kazimierz Fajans i Oswald Göhring natrafili na izotop  podczas swoich badań nad szeregiem promieniotwórczym uranu-238:
+→  →  → 
+Nowy pierwiastek został nazwany brevium (od łacińskiego słowa brevis oznaczającego chwilę, krótki okres), z powodu jego krótkiego okresu połowicznego zaniku. W 1918 roku dwie grupy naukowców, kierowane przez Otto Hahna i Lise Meitner w Niemczech oraz Fredericka Soddy’ego i Johna Cranstona w Wielkiej Brytanii, niezależnie od siebie odkryły inny izotop protaktynu, , charakteryzujący się okresem półtrwania wynoszącym ok. 32&nbsp;tys. lat. Po tym odkryciu nazwa pierwiastka została zmieniona z „brevium” na „protoactinium”, z uwagi na występowanie jego w szeregu uranu-235 przed aktynem. Ze względu na łatwość wymowy, nazwa została zmieniona w 1949 roku przez IUPAC na protactinium. Odkrycie protaktynu zapełniło ostatnią lukę we wczesnej wersji układu okresowego zaproponowanego przez Mendelejewa w 1869 roku oraz przyniosło sławę naukowcom zaangażowanym w jego odkrycie, szczególnie Meitner.
+
+Zastosowanie protaktynu
+Protaktyn jest używany do produkcji scyntylatorów do wykrywania promieniowania rentgenowskiego, składających się z tlenków gadolinu, protaktynu, cezu, metali ziem rzadkich i innych pierwiastków. Scyntylatory te są używane szczególnie w aparaturze do tomografii komputerowej.
+
+Tlenki mieszane Nb, Mg, Ga i Mn, domieszkowane 0,005–0,52%  są używane jako wysokotemperaturowe dielektryki (do 1300&nbsp;°C) w kondensatorach ceramicznych.
+
+Stosunek zawartości / jest elementem wykorzystywanym do określania wieku próbek w datowaniu metodą uranowo-torową.
+
+Toksyczność
+ jest niebezpieczny dla organizmów, podobnie jak inne źródła promieniowania α o podobnym okresie połowicznego zaniku. W organizmie gromadzi się w nerkach i kościach. Maksymalna ilość protaktynu, która nie jest traktowana jako niebezpieczna po absorpcji przez organizm wynosi 0,03 μCi, co odpowiada masie 0,5 μg . Protaktyn znajdujący się w powietrzu jako aerozol jest 250 mln razy bardziej toksyczny niż cyjanowodór. Z tego powodu wszystkie operacje z mierzalnymi ilościami protaktynu powinny być przeprowadzane w specjalnych izolowanych komorach.
+
+
+
+
+
+
+
+
+

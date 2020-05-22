@@ -1,0 +1,29 @@
+Bell X-14''' (inne oznaczenie Bell Type 68''') – eksperymentalny samolot amerykański o własnościach pionowego startu i lądowania VTOL zbudowany w latach 50. XX wieku przez firmę Bell Aircraft Corporation w celu zademonstrowania możliwości pionowego startu, pionowego ladowania, zawisu w powietrzu i przejścia z zawisu do lotu poziomego.
+
+Historia konstrukcji
+Wytwórnia Bell Aircraft skonstruowała X-14'' jako całkowicie metalowy dolnopłat w otwartą kabiną pilota. Napęd stanowiły dwa turboodrzutowe silniki wyposażone w odwracacze ciągu. Silniki maszyny nie poruszały się, a przejście z zawisu do lotu poziomego osiągnięto poprzez zastosowanie ruchomych przesłon, które zmieniały kierunek ciągu silników. X-14'' był w stanie osiągnąć prędkość maksymalną 277&nbsp;km/h na pułapie 6096 metrów. Samolot został zbudowany w oparciu o podzespoły dwóch ówcześnie produkowanych samolotów wytwórni Beech Aircraft Corporation. Skrzydła wraz z lotkami i podwoziem głównym zapożyczono od maszyny Beechcraft Bonanza, a sekcję ogonową od Beechcraft T-34 Mentor.
+
+Historia projektu
+X-14'' został oblatany 14 lutego 1957 roku. Podczas pierwszego lotu zaprezentował możliwość pionowego startu, zawisu i pionowego lądowania, a pierwszego przejścia z zawisu do lotu poziomego dokonano 24 maja 1958 roku. W następnym roku wymieniono silniki maszyny na mocniejsze General Electric J85 i dostarczono ją jako X-14A do centrum badawczego NASA Ames Research Center w Kalifornii. Maszyna ta służyła jako platforma testowa do 1981 roku.
+
+Samolot X-14'' dostarczył wiele cennych informacji na temat technologii VTOL, a użytkowana przez NASA maszyna w wersji X-14A, pozwoliła opracować sposób manewrowania lądownikami księżycowymi. System sterowania X-14A był podobny do zaproponowanego systemu dla modułu księżycowego misji Apollo 11, a Neil Armstrong odbył jeden lot treningowy tą maszyną w ramach treningu lądowania na Księżycu.
+
+W 1971 roku w X-14A po raz kolejny wymieniono silniki na GE J85-GE-19 i przemianowano go na X-14B. Dodatkowo zaimplementowano w maszynie system sterowania fly by wire, aby umożliwić zbadanie charakterystyk lądowania samolotu VTOL.
+
+X-14B był używany w roli platformy testowej do dnia 29 maja 1981 roku, w którym uległ on uszkodzeniu podczas lądowania. W tym samym czasie planowano zbudowanie wersji rozwojowej maszyny oznaczonej jako X-14C i posiadającej zamkniętą kabinę. Drugą planowaną wersją była maszyna treningowa X-14T, ale żaden z projektów nie został zrealizowany.
+
+Podczas całego wieloletniego programu badawczego X-14'' był pilotowany przez 25 pilotów i przez ten czas nie uległ żadnym poważniejszym uszkodzeniom. Był to jedyny z samolotów serii X z otwartą kabiną.
+
+Numery seryjne samolotów X-14
+Chociaż zbudowano tylko jeden płatowiec X-14'' to ze względu na poważne modyfikacje, zmieniano także numery seryjne maszyny.
+X-14''' – USAF 56-4022
+X-14A – NASA 234 (N234NA)
+X-14B – NASA 704 (N704NA)
+
+
+
+
+
+
+
+

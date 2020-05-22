@@ -1,0 +1,3 @@
+Active Height Control w skrócie AHC, jest to system umożliwiający ręczne ustawienie wysokości zawieszenia w pojeździe. Kierowca może sam obniżać lub podwyższać zawieszenie pojazdu. System ten potrafi także automatycznie ustawić wysokość pojazdu w zależności od prędkości. System ten najczęściej jest spotykany w samochodach typu SUV.
+
+Linki zewnętrzne

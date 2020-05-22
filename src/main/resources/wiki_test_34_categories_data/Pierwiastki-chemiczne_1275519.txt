@@ -1,0 +1,82 @@
+Izotopy promieniotwórcze, radioizotopy – odmiany pierwiastków (izotopy), których jądra atomów są niestabilne i samorzutnie ulegają przemianie promieniotwórczej. W wyniku tej przemiany powstają inne jądra atomowe, emitowane są cząstki elementarne, a także uwalniana jest energia w postaci energii kinetycznej produktów przemiany oraz przeważnie (choć nie zawsze) emitowane jest promieniowanie gamma. 
+
+Izotopy promieniotwórcze charakteryzuje czas połowicznego rozpadu, tj. średni czas, po którym połowa jąder danego pierwiastka (izotopu) ulegnie przemianie. Czas połowicznego rozpadu nie zależy od otoczenia chemicznego, w jakim znajduje się izotop.
+
+Radioizotopy wykazują aktywność promieniotwórczą.
+
+Pochodzenie
+Naturalne radionuklidy syntezowane są w gwiazdach, szczególnie podczas wybuchów supernowych. Niektóre z nich (np. uran) mają wystarczająco długi okres półtrwania, aby nie ulegały rozpadowi w ciągu miliardów lat, dlatego występują w przyrodzie, izotopy o krótszym czasie połowicznego rozpadu nie występują w przyrodzie, chyba że są produktami rozpadu jąder o długim czasie połowicznego rozpadu. Niektóre izotopy tworzą się pod wpływem promieniowania kosmicznego - są to tzw. izotopy kosmogeniczne. Np. węgiel-14 tworzy się w reakcji neutronu (powstałego w wyniku reakcji protonów promieniowania kosmicznego z jądrami składników atmosfery) z jądrem azotu 14N. 
+
+Sztuczne radionuklidy są wytwarzane przez człowieka głównie w reaktorach jądrowych oraz akceleratorach.
+
+W reaktorach jądrowych nowe izotopy powstają wskutek oddziaływania neutronów z materiałem aktywowanym (mogą to być materiały celowo wprowadzane do reaktora w celu aktywacji bądź też materiały konstrukcyjne reaktora). Przykładem jest polon-210, otrzymywany na drodze aktywacji neutronowej bizmutu-209 (występującego naturalnie). Tworzący się bizmut-210 rozpada się następnie przez rozpad beta minus do polonu-210.
+
+Cząstki przyspieszane w akceleratorach mogą zderzać się z innymi cząstkami bądź z jądrami tzw. tarczy, produkując izotopy o różnych zastosowaniach, często niewystępujące w przyrodzie (np. fluor-18 mający zastosowanie w medycynie nuklearnej jest otrzymywany przez bombardowanie protonami tarczy zawierającej tlen-18).
+
+Tzw. generatory radionuklidów zawierają izotop (rodzic) o względnie krótkim czasie półtrwania, który rozpadając się tworzy użyteczny radionuklid. Generatory te są używane w medycynie jądrowej, np. do otrzymywania metastabilnego izomeru jądrowego technetu-99m (99mTc) powstającego z molibdenu-99.
+
+Niektóre radionuklidy są obecne w naturze w mikroskopijnych ilościach z powodu rzadkości występowania, a także krótkiego czasu półtrwania.
+
+Zastosowania
+Izotopy promieniotwórcze znalazły wielorakie zastosowanie w wielu dziedzinach nauki i gospodarki.
+
+Przemysł i fizyka
+Stosowane są w wielu dziedzinach badań technicznych. Za ich pomocą można z zewnątrz śledzić przemieszczanie się płynów w układzie. Implementując izotopy w elementy konstrukcyjne, np. silnika można badać stopień zużycia poszczególnych elementów poprzez rejestrowanie zmiany aktywności tego izotopu w oleju silnikowym. W przemyśle zastosowanie znalazły izotopowe czujniki poziomu oraz wagi izotopowe. Badania dyfuzji oraz badania struktury materiałów z użyciem izotopów są wykonywane rutynowo.
+
+W oparciu o właściwości promieniotwórcze powstała defektoskopia zajmująca się wykrywaniem ukrytych wad wyrobów (do tego celu używa się głównie kobaltu 60Co) oraz szczelności urządzeń i grubości spawów (głównie izotop kryptonu 85Kr). 
+Górnictwo wykorzystuje radionuklidy do badania położenia i koncentracji rozległych złóż rud metali i paliw kopalnych.
+Radioizotopy są stosowane w różnego rodzaju czujnikach, detektorach substancji. Ameryk 241Am produkowany w reaktorach jądrowych ma zastosowanie - od będących w powszechnym użyciu przeciwpożarowych czujników dymu po specjalistyczne czujniki chemiczne wykrywające śladowe ilości metali ciężkich w wodzie.
+
+Źródło energii
+Izotopy promieniotwórcze stosowane jako paliwo w reaktorach są źródłem ciepła potrzebnego do wytwarzania pary zasilającej turbiny elektrowni atomowych. 
+
+Oprócz elektrowni atomowych, energia rozpadu radioizotopów wykorzystywana jest również w zasilaczach izotopowych. Mała przenikliwość produkowanego promieniowania alfa i beta powoduje, że na ogół nawet w pobliżu samego zasilacza nie otrzymuje się jego znaczących dawek. Zasilacze izotopowe stosuje się wszędzie tam, gdzie konieczna jest najwyższa niezawodność zasilania, przy jednoczesnych małych wymaganiach, co do mocy, np. w rozrusznikach serca, w automatach działających w reżimie długotrwałej autonomiczności, np. w sondach kosmicznych, automatycznych stacjach meteorologicznych znajdujących się w trudno dostępnym terenie (np. stacje arktyczne).
+
+Datowanie
+Promieniotwórczy izotop węgla 14C stosowany jest przy oznaczaniu wieku próbek geologicznych oraz wykopalisk archeologicznych i paleontologicznych. Metoda ta zwana jest datowaniem radiowęglowym wykorzystuje zachodzącą w czasie zmianę ilości izotopów promieniotwórczych lub produktów przemian izotopowych w badanym materiale. Pod wpływem promieniowania kosmicznego w atmosferze Ziemi powstaje izotop węgla 14C, który może być wbudowywany w ciało organizmów tylko w czasie ich życia. Po śmierci ilość węgla promieniotwórczego może już tylko spadać. Na podstawie ilości zachowanego izotopu określa się wiek znaleziska.
+
+Chemia
+Izotopy promieniotwórcze stosuje się do modyfikacji cech przedmiotów naświetlanych: np. do wywoływania zmian w strukturze polimerów. W przemyśle chemicznym niektóre reakcje są możliwe tylko pod wpływem promieniowania. Do najważniejszych należą produkcja różnych żeli, folii oraz synteza niektórych związków organicznych. Znaczniki promieniotwórcze pozwalają śledzić etapy pośrednie zachodzących reakcji.
+
+Przechowywanie żywności
+Napromieniowanie żywności stosowane jest w celach dezynfekcyjnych, przedłużających jej trwałość. Na podstawie przeprowadzonych badań okazało się, że żywność utrwalana radiacyjnie nie jest toksyczna ani też radioaktywna, jednak podobnie jak inne procesy konserwujące radiacja powoduje pewne zmiany chemiczne w konserwowanej żywności. Pod wpływem promieniowania tworzą się między innymi wolne rodniki i zmniejsza się o 20–60% zawartość witamin A, B1, C i E.
+Radionuklidy zabezpieczają świeże zbiory przed kiełkowaniem, a także umożliwiają kontrolę procesu dojrzewania przechowywanych warzyw i owoców.
+
+Biologia
+W biochemii stosuje się często izotopy jako znaczniki. Wprowadza się je celowo do cząsteczek chemicznych, a następnie tak "oznakowane" cząsteczki wprowadza się do organizmu po czym dzięki detekcji emitowanego przez nie promieniowania gamma śledzi się ich rozmieszczenie oraz obecność w różnych związkach pośrednich. Umożliwia to badanie mechanizmów reakcji chemicznych oraz szlaków metabolicznych w organizmie. Najczęściej stosowanymi do tych celów izotopami są: węgla 14C i 15N. Ta sama metoda pozwala śledzić rolę i obieg mikroelementów w organizmach. 
+W badaniach środowiska naturalnego wykorzystują izotopy promieniotwórcze poprzez dodawanie ich śladowych ilości do emitowanych zanieczyszczeń. Dzięki temu można określić zasięg, rozprzestrzenianie i koncentrację odpadów od danego punktu emisyjnego. Jest możliwe także określanie kierunków przepływu powierzchniowych prądów wodnych, pomiary wód pochodzących z opadów deszczu i śniegu oraz prędkości i szlaki przepływ np. podziemnych rzek i innych ciągów wodnych.
+Izotopy znajdują także zastosowanie w badaniu wpływu pestycydów i nawozów na organizmy żywe. Poddając eksperymentalne zwierzęta napromieniowaniu można znacznie zwiększyć ilość mutacji tym samym przyspieszając powstawanie nowych odmian o bardziej korzystnych cechach uprawnych i hodowlanych.
+
+Medycyna
+Medycyna nuklearna zajmuje się zastosowaniem izotopów promieniotwórczych w rozpoznawaniu i leczeniu chorób (radioterapia) oraz w badaniach naukowych (np. zastosowanie znaczników radioizotopowych w testach ELISA). Zastosowanie diagnostyczne izotopów promieniotwórczych polega na wprowadzeniu substancji promieniotwórczej do tkanek i narządów organizmu, a następnie na rejestrowaniu promieniowania za pomocą detektorów umieszczonych poza badanym obiektem (scyntygrafia, PET, SPECT). Zgromadzenie substancji promieniotwórczej w tkance lub narządzie oraz jej rozmieszczenie pozwalają na wysnucie konkretnych wniosków diagnostycznych.
+
+Obecnie stosuje się około 200 różnych związków znakowanymi izotopami promieniotwórczymi, dobieranych w zależności od tego jaki narząd będzie badany i pod jakim kątem. Wynik badania izotopowego wprawdzie nie może być podstawą do rozpoznania określonej choroby może jednak znacznie proces ten ułatwić dając obraz: stanu nerek lub rozdziału krwi w łożysku naczyniowym.
+
+Szerokie zastosowanie mają izotopy promieniotwórcze w badaniu układu krążenia. Dzięki doskonaleniu metod pomiarowych i wprowadzaniu systemów komputerowych do analizy otrzymanych wyników znaczenie rozszerzyły się wskazania diagnostyczne. Współczesne metody izotopowe pozwalają na badanie ukrwienia mięśnia sercowego oraz ocenę parametrów krążenia.
+
+W badaniu układu kostnego stosuje się związki fosforanowe. Przeprowadzane badania mają na celu wykrycie ognisk nowotworowych w przypadku pierwotnych nowotworów kości oraz przerzutów nowotworowych w celu określenia miejsc ewentualnej resekcji chirurgicznej.
+Jako źródło promieniowania gamma radioizotopy są stosowane w medycynie do niszczenia komórek rakowych. Stosuje się je jako tak zwane bomby naświetleniowe – czyli duże porcje promieniowania skierowane w opanowane przez raka miejsca lub w formie chemioterapii radiacyjnej. Podaje się wtedy pacjentowi promieniotwórcze związki mające naturalne powinowactwo do tkanek rakowych. Bardzo dobre efekty daje molibden-99 produkujący silnie promieniotwórczy technet-99m (99mTc → 99Tc + kwant γ, T½ ok. 6 h).
+
+Izotopowe znaczniki pozwalają śledzić nietypowe, patologiczne szlaki metaboliczne związane ze specyficznymi wadami genetycznymi.
+Izotopy służą też do szybkiej i pewnej sterylizacji aparatury, rękawiczek, strzykawek, igieł, zestawów opatrunkowych eliminując, zwłaszcza w przypadku tych jednorazowego użytku, konieczność użycia wysokich temperatur. Silne promieniowanie gamma, dla większości bakterii i grzybów chorobotwórczych i gnilnych jest nawet bardziej zabójcze niż wysoka temperatura.
+
+Zastosowania według pierwiastka
+Przykłady zastosowań izotopów promieniotwórczych:
+Fosfor '''- 32P jest stosowany w nauce i technice jako wskaźnik promieniotwórczy i źródło promieni β, w medycynie do diagnostyki nowotworów i znakowania czerwonych ciałek krwi.
+Kobalt - 60Co stosowany jest w medycynie do leczenia nowotworów, do sterylizacji żywności, narzędzi chirurgicznych i lekarstw (bomba kobaltowa).
+Pluton - 239Pu stosowany jest w głowicach bomb jądrowych, bywa też używany jako materiał rozszczepialny w energetyce jądrowej. Pluton-238 bywa stosowany w generatorach radioizotopowych (składnik termoogniw)
+Polon - stosuje się w chemii radiacyjnej jako źródło cząstek, zmieszany z berylem jako źródło neutronów.
+Rad - wykorzystuje się go do celów leczniczych i do celów naukowych.
+Uran - 235U znajduje zastosowanie w reaktorach jądrowych jako materiał rozszczepialny
+
+Zagrożenia
+W przypadku dostania się radionuklidów do środowiska w wyniku wypadku, bądź zamierzonego działania, mogą wystąpić szkodliwe efekty w wyniku wystąpienia skażenia promieniotwórczego, które wpływa destrukcyjnie na wszystkie formy życia. Radionuklidy mogą także powodować uszkodzenia sprzętu elektrycznego i elektronicznego poprzez emitowane promieniowanie. 
+
+Zobacz też
+scyntygrafia
+Pozytonowa tomografia emisyjna (PET)
+SPECT
+radioterapia
+znakowanie izotopowe
+
+

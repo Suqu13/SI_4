@@ -1,0 +1,28 @@
+
+Ultrabook – odmiana notebooka i jednocześnie nowa klasa tych urządzeń zdefiniowana przez firmę Intel. 
+Te założenia to:
+niewielka waga – max. 1,6 kg netto, 2 kg brutto
+niewielka grubość – max. 21 mm, 23 mm grubości – pod warunkiem, że będą konwertowalne i umożliwią przekręcenie ekranu w tryb tabletu lub całkowite jego zdjęcie
+długa żywotność akumulatora i czas pracy min. 5 godzin, 9 godzin dla 3 fazy (2013 rok)
+cena maks. 2000 USD,
+opcjonalnie ekran dotykowy
+atrakcyjny design.
+Założenia te mają być spełnione z jednoczesnym utrzymaniem akceptowalnej wydajności ultrabooków w porównaniu do większych urządzeń i z zachowaniem pewnych cech zbieżnych z tabletami – np. szybkie (2-6 sekund) wychodzenie z trybu uśpienia/hibernacji i bardzo szybkie dochodzenie do stanu pełnej gotowości do pracy. 
+
+Określenie „Ultrabook” stanowi zastrzeżony przez Intela znak towarowy.
+
+Fazy wprowadzania na rynek
+Wprowadzenie Ultrabooków na rynek ma się odbyć w 3 fazach, które mają się pokrywać z wejściem kolejnych generacji niskonapięciowych procesorów Intela przeznaczonych do ultramobilnych zastosowań, m.in.: 
+faza 1 (4 kwartał 2011): architektura Sandy Bridge, 
+faza 2 (2012): architektura Ivy Bridge,
+faza 3 (2013): architektura Haswell.
+
+Zobacz też
+
+MacBook Air
+
+
+
+
+
+

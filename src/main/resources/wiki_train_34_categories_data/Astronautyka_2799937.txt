@@ -1,0 +1,49 @@
+Alpha Particle X-ray Spectrometer (ang. APXS) – spektrometr (S) promieniowania rentgenowskiego (X-ray) emitowanego przez badaną powierzchnię próbek stałych pod wpływem promieniowania alfa (Alpha Particle); urządzenie do zdalnej analizy chemicznego składu powierzchni. APXS były instalowane na mechanicznych wysięgnikach łazików marsjańskich (misje Mars Pathfinder, Spirit, Opportunity, Curiosity).
+
+Procesy fizyczne
+Identyfikacja pierwiastków chemicznych w badanych próbkach polega na bombardowaniu ich powierzchni strumieniem cząstek alfa (jąder helu). Na tej powierzchni zachodzą procesy fizyczne: 
+wytrącenia elektronów z ich wewnętrznych powłok elektronowych i emisja promieniowania rentgenowskiego (X) w czasie ich spontanicznego powrotu na orbitale o najniższej energii,
+elastyczne rozpraszanie cząstek alfa przez jądra atomów powierzchni próbki,
+zderzenia prowadzące do reakcji jądrowych, zachodzących z uwalnianiem neutronów i protonów (zob. np. emisja neutronu).
+
+W APXS źródłem promieniowania alfa jest zwykle kiur, Cm-244 (czas połowicznego rozpadu: 18,1 lat) – promieniotwórczy izotop pierwiastka odkrytego w roku 1944 przez G.T. Seaborga, A. Ghiorso i R. A. Jamesa, który został nazwany na cześć Marii i Piotra Curie (łac. Curium). Podczas rozpadu alfa powstaje – poza strumieniem cząstek alfa – promieniowanie rentgenowskie, co komplikuje interpretację rejestrowanych widm – informacje o charakterystycznym promieniowaniu X próbki uzyskuje się uwzględniając emisję ze źródła α.
+
+Ze względu na złożony charakter przemian fizycznych określenie składu chemicznego badanego materiału – marsjańskich skał lub „gleby” wymaga równoczesnego stosowania różnych rodzajów detektorów. W czasie misji Mars Pathfindera (1997) na łaziku Sojourner znajdował się APXS z detektorami promieniowania korpuskularnego. Stwierdzono wówczas, że w przypadku lekkich pierwiastków na powierzchni próbki (w tym węgla i tlenu) najbardziej przydatne jest badanie promieniowania alfa (energia i liczba, związane z – odpowiednio – rodzajem pierwiastka i jego stężeniem). W odniesieniu do pierwiastków o liczbach atomowych z zakresu Z = 9–14 za charakterystyczne uznano wartości energii uwalnianych protonów (p), a dla pierwiastków najcięższych (najmniej rozpowszechnionych) – widmo emitowanego promieniowania rentgenowskiego. W kolejnych wersjach APXS wyeliminowano konieczność rejestracji p – zwiększono liczbę detektorów alfa i udoskonalono konstrukcję spektrometru X. 
+
+
+
+Alpha-Proton X-ray Spectrometer
+Pierwsze wersje urządzenia, wyposażone w detektor cząstek alfa, protonów i promieniowania rentgenowskiego, były już w latach 60.&nbsp;XX&nbsp;w. instalowane w amerykańskich łazikach Surveyor V, VI i VII (1967–1968); APXS znajdowało się też w radzieckiej sondzie Phobos (1988). Jego zastosowanie przewidywał również program nieudanej misji Mars-96. 
+W czasie misji Pathfindera (1996–1997) na łaziku Surveyor znajdował się APXS o masie 600&nbsp;g i zapotrzebowaniu mocy 300&nbsp;mW, przygotowany do badań stężenia pierwiastków występujących w ilościach ok.&nbsp;1&nbsp;% (w tym C, N i O). Wiązka promieniowania alfa, pochodząca z Cm-244 (50&nbsp;mCi), była kierowana na badaną powierzchnię o średnicy 50&nbsp;mm. Do rejestrowania widma rentgenowskiego oraz sygnałów odbieranych przez detektory promieniowania korpuskularnego (cząstki alfa i protony) służył moduł elektroniczny o wymiarach 80×70×60&nbsp;mm.
+
+MER i MSL APXS
+Zastosowany w czasie misji Pathfindera APXS (Sojourner) był udoskonalany w czasie kolejnych misji. W latach 2003–2004 stosowano urządzenia znane jako MER APXS, gdzie skrót MER pochodzi od nazwy podwójnej misji NASA – Mars Exploration Rover, która objęła misje MER-A (ang. Spirit, pol. „Duch”, start: 10 czerwca 2003) i MER-B (ang. Opportunity, pol. „Sposobność”, start: 8 lipca 2003).
+
+W głowicy MER APXS, montowanej na wysięgnikach łazików Opportunity i Spirit, umieszczono sześć emitorów z Cm-244, które pokryto warstwą glinu o grubości 3&nbsp;µm (zmniejszenie energii emitowanych cząstek α z 5,8 do 5,2&nbsp;MeV). W kolimatorze jest wytwarzana wiązka równoległa o średnicy 38&nbsp;mm. Wokół źródeł emisji rozmieszczono sześć detektorów rozproszonych cząstek alfa. Krzemowy detektor promieniowania rentgenowskiego umieszczono w centrum. Czas rejestracji jednego widma wynosi co najmniej 10 godzin.
+
+Symbol MSL APXS przypisano kolejnej generacji spektrometrów, zmodyfikowanych w ramach przygotowań do misji Mars Science Laboratory (Curiosity, start: 26 listopada 2011). Zmiany w stosunku do MER APXS objęły m.in. podwojenie ilości Cm-244 w źródle (700&nbsp;μg, 600&nbsp;mCi) i zastosowanie modułu Peltiera do chłodzenia detektora X-ray, co umożliwiło pracę w czasie marsjańskiego dnia. Na ramieniu łazika umieszczono bazaltowy wzorzec, umożliwiający kalibrację spektrometru; przewidziano możliwość wykorzystania ok. 20-sekundowych widm rentgenowskich do sterowania ruchem wysięgnika w czasie zbliżania głowicy do próbki. Głowica z czujnikami może kontaktować się z badaną powierzchnią lub unosić się nad nią w określonej odległości, zwykle mniejszej niż 2&nbsp;cm. 
+
+MSL APXS ma kilkakrotnie większą czułość niż MER APXS – około trzykrotnie w przypadku pierwiastków o małych liczbach atomowych (Z) i około sześciokrotnie większą w przypadku pierwiastków o większych Z. Analizy małych stężeń, np. na poziomie 100&nbsp;ppm dla Ni i ok.&nbsp;20&nbsp;ppm dla Br, trwają ok. 3 godziny. Analiza składników występujących w ilościach ok.&nbsp;0,5&nbsp;% (np. Na, Mg, Al, Si, Ca, Fe, S) jest wykonywana w ciągu 10 minut (lub mniej).
+
+W czasie analizy można zarejestrować do 13 badanych widm (zbiorów kolejnych sygnałów czujników); zgromadzone zbiory danych są – zgodnie z wewnętrznym oprogramowaniem – dzielone na równe przedziały czasowe, po czym jest kontrolowana powtarzalność oznaczeń emisji; sporządzany raport końcowy jest zbiorem danych o znanej precyzji.
+
+
+
+
+Wyniki badań (przykład misji Pathfinder)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+Kopernik (Cn) – pierwiastek chemiczny z grupy metali przejściowych w układzie okresowym.
+
+Nazwa
+Nazwa pierwiastka została oficjalnie zatwierdzona przez IUPAC 19 lutego 2010 roku i pochodzi od nazwiska astronoma Mikołaja Kopernika. Wcześniej stosowano tymczasową nazwę ununbium (symbol Uub), zgodnie z nomenklaturą IUPAC, a nieoficjalnie także "eka-rtęć" (eka-Hg), jako że pierwiastek ten w układzie okresowym znajduje się bezpośrednio pod rtęcią. Polska nazwa pierwiastka, ustalona przez Polskie Towarzystwo Chemiczne, brzmi „kopernik”.
+
+Historia badań
+Kopernik został po raz pierwszy uzyskany w laboratorium GSI w Darmstadt w Niemczech poprzez bombardowanie jonami cynku-70 ołowianej tarczy (tzw. "zimna" synteza, której nie należy mylić z zimną fuzją). Dokonał tego zespół naukowców, którym kierowali S. Hoffman, V. Ninov i F.P. Hessburger, w dniu 9 lutego 1996 roku. Reakcja jądrowa, w której został otrzymany izotop 277Cn, ma postać:
++  →  →  + n
+
+W roku 2002 zespół Hoffmana poinformował o ponownym otrzymaniu koperniku. W każdym z tych eksperymentów zaobserwowano jeden atom pierwiastka o czasie życia rzędu 1 s. Jednoznacznie zidentyfikowano go na podstawie łańcucha skorelowanych ze sobą rozpadów jądrowych (w tym przypadku sześciu rozpadów α) prowadzących do znanych wcześniej jąder. Interpretacja Hoffmana została potwierdzona dzięki syntezie koperniku z tych samych substratów przez japońską grupę naukowców K. Mority i współpracowników (2005, 2007). IUPAC oficjalnie uznała odkrycie niemieckich naukowców 10 czerwca 2009.
+
+W późniejszych eksperymentach izotop 283Cn o czasie życia rzędu kilku do kilkuset sekund otrzymany został przez zespoły z Dubnej i GSI w wyniku bombardowania jonami 48Ca tarcz uranowych, plutonowych i kiurowych (tzw. "gorąca fuzja"). W eksperymencie w Dubnej korzystano z krzemowych detektorów promieniowania α opracowanych w Instytucie Technologii Elektronowej w Warszawie przez zespół badawczy kierowany przez Macieja Węgrzeckiego.
+
+Otrzymanie koperniku w wyniku bombardowania tarczy wolframowej protonami o energiach rzędu wielu GeV, ogłoszone przez A. Marinova w roku 2003, zostało uznane za niepotwierdzone i wynikające prawdopodobnie z błędów aparaturowych. Rezultatów tych nie udało się powtórzyć w innych laboratoriach.
+
+Zobacz też
+unbibium
+
+Przypisy
+
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+Chromotropizm - zjawisko odwracalnej zmiany barwy związków chemicznych pod wpływem zmiany warunków fizycznych lub chemicznych, takich jak temperatura (termochromizm), ciśnienie (piezochromizm), światło (fotochromizm), pole magnetyczne (magnetochromizm), rozpuszczalnik (solwatochromizm), stężenie lub przeciwjon. Poszczególne zjawiska często nakładają się na siebie, czyli dana substancja może równocześnie wykazywać np. solwato- i termochromizm. Zjawisko chromotropizmu występuje szczególnie często dla związków koordynacyjnych.
+
+Przykłady
+solwatochromizm: zróżnicowanie barwy roztworów jodu i niektórych soli kompleksowych metali (m.in. kompleksów Ni(II) i Cu(II)) w różnych rozpuszczalnikach. Przykładowo, kompleks [Cu(dike)(diam)]+ przybiera następujące barwy:
+różowy - chlorek etylenu
+czerwono-różowy - nitrometan
+fioletowy - acetonitryl
+niebiesko-zielony - THF
+ciemnozielony - DMF
+jasnozielony - HMPTA
+
+termochromizm: 
+roztwory soli [Ni(acac)(tmen)]+ w acetonie i wyższych alkoholach zmieniają stopniowo barwę z zielonej na czerwoną podczas ogrzewania od 10 do 70&nbsp;°C
+krystaliczny jodek rtęci(II) (HgI2) zmienia barwę z krwistoczerwonej (forma stabilna w temperaturze pokojowej) na jasnożółtą przy podgrzewaniu powyżej 126&nbsp;°C
+
+piezochromizm: metanolowy roztwór chlorku kobaltu(II) (CoCl2) zmienia barwę z niebieskiej na różową podczas zwiększania ciśnienia od 1 000 atm do 4 000 atm (ponadto CoCl2 wykazuje solwatochromizm: jego roztwory w acetonie i DMSO są ciemnoniebieskie, różowe w wodzie, a niebiesko-fioletowe w metanolu)
+
+fotochromizm: przykładem związków wykazujących fotochromizm są kompleksy Co(III) z NO2-:
+[Co(NH3)5(NO2)] + światło → [Co(NH3)5(ONO)] (czerwony)
+[Co(NH3)5(ONO)] + temperatura → [Co(NH3)5(NO2)] (pomarańczowy)
+
+
+
+Bibliografia
+W. Linert, Y. Fukuda, A. Camard. „Chromotropism of coordination compounds and its applications in solution”, Coord.Chem.Rev.'', '''218''', 113-152, 2001. 
+
+
+

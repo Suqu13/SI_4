@@ -1,0 +1,91 @@
+Pozew – pismo procesowe wszczynające proces cywilny, zawierające powództwo (skonkretyzowane żądanie określonego zachowania wysunięte przez składającego – powoda przeciwko określonej osobie – pozwanemu) oraz uzasadnienie przytaczające okoliczności faktyczne na poparcie powództwa. Pozew nie musi zawierać podstawy prawnej przyszłego rozstrzygnięcia.
+
+Zagadnienia ogólne == 
+
+Jak wynika z powyższej definicji, pozwem nie jest pismo, które nie zawiera żądania rozpoznania przez sąd sprawy o charakterze cywilnoprawnym. Pismu takiemu nie zostanie w ogóle nadany bieg w sądzie cywilnym, może ono zostać co najwyżej przesłane właściwemu organowi, o ile taki istnieje. 
+
+Pozew zawsze ma formę pisemną. Jedynie w sprawach z zakresu prawa pracy nie podlegających rozpoznaniu w postępowaniu uproszczonym pracownik działający bez adwokata (radcy prawnego) może zgłosić powództwo ustnie do protokołu w sądzie właściwym do rozpoznania sprawy (art. 466 Kodeksu postępowania cywilnego). Wyjątek ten jednak w praktyce nie jest stosowany. 
+
+W ściśle określonych przypadkach funkcję pozwu pełnią inne pisma: 
+odwołanie od decyzji organu rentowego w postępowaniu odrębnym w sprawach z zakresu ubezpieczeń społecznych (art. 477[9] § 1 kpc), 
+wniosek o ustalenie wysokości opłaty rocznej z tytułu wieczystego użytkowania w sprawach o ustalenie wysokości tej opłaty (art. 80 ust. 2 ustawy 12 sierpnia 1997 o gospodarce nieruchomościami), 
+wniosek pracownika o polubowne załatwienie sprawy przez zakładową komisję pojednawczą w sprawach z zakresu prawa pracy (art. 254 Kodeksu pracy). 
+
+Poprzez wniesienie pozwu następuje wytoczenie powództwa. Skutkiem prawidłowego wniesienia pozwu jest wszczęcie procesu. Wniesienie pozwu jest przy tym wymogiem bezwzględnym – proces bez pozwu toczyć się nie może. Pozew jest z reguły pismem kluczowym dla sprawy – właściwe sformułowanie pozwu może zadecydować o wygraniu bądź przegraniu sprawy, a zawsze nadaje jej tok, czyli decyduje o tym, czy postępowanie zakończy się szybko, czy będzie trwać dłużej. Dlatego, nawet jeśli powód nie korzysta z zastępstwa adwokata lub radcy prawnego, celowe jest napisanie pozwu przez fachowego pełnomocnika. Usługi w tym zakresie oferują również biura pisania podań oraz rozmaite poradnie prawne. 
+
+Z pewnymi wyjątkami, polska procedura cywilna dopuszcza możliwość dochodzenia jednym pozwem kilku roszczeń (kumulacja roszczeń) lub dochodzenia tylko części roszczenia (rozdrabnianie roszczeń). Po jednej stronie może także występować kilka osób (współuczestnictwo procesowe). Dopuszczalna jest wreszcie (z pewnymi ograniczeniami) zmiana przedmiotowa i podmiotowa powództwa w toku procesu.
+
+Warunki formalne pozwu
+
+Kodeks postępowania cywilnego nakłada na pozew pewne wymagania co do formy i treści. Przede wszystkim pozew musi spełniać warunki formalne wymagane od wszystkich pism procesowych: 
+
+Art. 126. § 1. Każde pismo procesowe powinno zawierać: 
+1) oznaczenie sądu, do którego jest skierowane, imię i nazwisko lub nazwę stron, ich przedstawicieli ustawowych i pełnomocników; 
+2) oznaczenie rodzaju pisma; 
+3) osnowę wniosku lub oświadczenia oraz dowody na poparcie przytoczonych okoliczności; 
+4) podpis strony albo jej przedstawiciela ustawowego lub pełnomocnika; 
+5) wymienienie załączników. 
+§ 2. Gdy pismo procesowe jest pierwszym pismem w sprawie, powinno ponadto zawierać oznaczenie miejsca zamieszkania lub siedziby stron, ich przedstawicieli ustawowych i pełnomocników oraz przedmiotu sporu, pisma zaś dalsze – sygnaturę akt. 
+§ 3. Do pisma należy dołączyć pełnomocnictwo, jeżeli pismo wnosi pełnomocnik, który przedtem nie złożył pełnomocnictwa. 
+§ 4. Za stronę, która nie może się podpisać, podpisuje pismo osoba przez nią upoważniona, z wymienieniem przyczyny, dla której strona sama się nie podpisała.''
+
+Ponadto, w myśl art. 128 kpc, do pozwu należy dołączyć jego odpisy i odpisy załączników dla doręczenia ich uczestniczącym w sprawie osobom. 
+
+Poza tym pozwowi stawia się pewne szczególne wymogi, wynikające z jego funkcji jako pisma wszczynającego proces cywilny. Dotyczą one koniecznej treści pozwu: 
+
+Art. 187. § 1. Pozew powinien czynić zadość warunkom pisma procesowego, a nadto zawierać: 
+1) dokładnie określone żądanie, a w sprawach o prawa majątkowe także oznaczenie wartości przedmiotu sporu, chyba że przedmiotem sprawy jest oznaczona kwota pieniężna; 
+2) przytoczenie okoliczności faktycznych uzasadniających żądanie, a w miarę potrzeby uzasadniających również właściwość sądu.''
+
+"Dokładne określenie żądania" znaczy w szczególności, że: 
+domagając się zasądzenia kwoty pieniężnej trzeba tę kwotę jednoznacznie określić (żadne "około" ani "w przybliżeniu" nie wchodzą w rachubę); dotyczy to także świadczeń dochodzonych obok tej kwoty (odsetek, pożytków itp.) 
+domagając się świadczenia czegoś innego, niż pieniądze, trzeba dokładnie i jednoznacznie opisać przedmiot żądania (nieruchomość lub lokal – poprzez wskazanie położenia, powierzchni, numeru księgi wieczystej, rzecz ruchomą określoną co do tożsamości – poprzez wskazanie indywidualnych cech identyfikacyjnych, rzecz określoną co do gatunku – poprzez wskazanie ilości , jakości, istotnych właściwości), 
+trzeba dokładnie określić osobę, która ma dane świadczenie spełnić: w przypadku osób fizycznych poprzez podanie imienia, nazwiska i adresu miejsca zamieszkania, a w razie potrzeby – również dalszych cech identyfikacyjnych (np. imię ojca), zaś w przypadku osób prawnych – poprzez podanie dosłownego brzmienia firmy, wskazanie formy organizacyjnej (np. spółka akcyjna, fundacja), ewentualnie oddziału, z którego działalnością wiąże się przedmiot procesu, dokładnego adresu siedziby). 
+
+Wskazanie w pozwie wartości przedmiotu sporu jest potrzebne do ustalenia wysokości tzw. wpisu (opłaty sądowej) od pozwu, właściwości rzeczowej sądu i rodzaju postępowania, w którym sprawa będzie rozpoznana. Zasady ustalania wartości przedmiotu sporu są zawarte w art. 19-26 kpc. 
+
+Okoliczności faktyczne uzasadniające żądanie to fakty, które w świetle właściwych przepisów prawa stanowią przesłanki powstania i istnienia roszczenia objętego powództwem (causa petendi). Należy je dokładnie opisać, wskazując skutki prawne, które powód z nich wywodzi. Wskazania te mogą zostać uzupełnione również w dalszym postępowaniu – aż do zamknięcia rozprawy. Natomiast nie jest konieczne wskazywanie przepisów prawa, na których powód opiera swoje roszczenie (zasada iura novit curia). 
+
+Przytoczenie okoliczności uzasadniających właściwość sądu jest potrzebne, gdy podstawy tej właściwości nie wynikają z innych faktów wskazanych w pozwie. Ich niewskazanie może spowodować przekazanie sprawy z sądu wybranego przez powoda do sądu właściwego według zasad ogólnych. 
+
+Wskazanie dowodów wraz z wnioskiem o ich dopuszczenie (art. 187 § 2 kpc) nie należy do koniecznej treści pozwu, więc ich brak nie może być podstawą do zwrotu pozwu. Należy jednak mieć na uwadze, że niewskazanie dowodów może dla strony spowodować bardzo negatywne skutki, do przegrania procesu włącznie. Dlatego wskazanie dowodów już w pozwie jest wskazane. 
+
+Powyższe wymagania formalne dotyczą każdego pozwu. Obok nich mogą występować szczególne wymagania dla pozwów składanych przez szczególne podmioty bądź w szczególnych postępowaniach. Najczęstszym z takich wymagań jest wniesienie pozwu na tzw. urzędowym formularzu (art. 505[2] i art. 187[1] kpc).
+
+Zwrot pozwu
+
+Każdy wniesiony pozew jest w pierwszej kolejności oceniany pod kątem spełnienia powyższych wymagań formalnych. Jeżeli im nie odpowiada, przewodniczący właściwego wydziału w sądzie, do którego wniesiono pozew, wezwie stronę do usunięcia braków formalnych w terminie tygodnia od doręczenia wezwania. Termin ten jest ustawowy (art. 130 § 1 kpc), nie podlega przedłużeniu ani skróceniu, może zostać co najwyżej przywrócony. Jeżeli braki formalne pozwu zostaną w wyznaczonym terminie usunięte, pozwowi zostanie nadany dalszy bieg. Jeżeli braki nie zostaną usunięte w terminie, przewodniczący wydziału wyda zarządzenie o zwrocie pozwu. Zarządzenie to można zaskarżyć zażaleniem. Prawomocny zwrot pozwu ma ten skutek, że pozew nie wywoła żadnych skutków prawnych (np. nie dojdzie do przerwania biegu przedawnienia).
+
+Dopóki pozew znajduje się w sądzie (tzn. nie został jeszcze odesłany stronie), a jego braki formalne zostały usunięte, można złożyć wniosek o nadanie sprawie biegu na nowo. Wówczas pozew uważa się za wniesiony w dacie złożenia tego wniosku.
+
+Skutki wniesienia pozwu
+
+Wniesienie pozwu należy wyraźnie odróżnić od jego doręczenia. Są to odrębne zdarzenia – pierwsze polega na złożeniu pozwu w sądzie, drugie – na doręczeniu przez sąd odpisu pozwu pozwanemu (który staje się pozwanym właśnie w tym momencie). 
+
+Wniesienie pozwu wywołuje skutki materialnoprawne i procesowe. Skutki procesowe to: 
+ustalenie właściwości sądu (perpetuatio fori) – jeżeli sąd był właściwy do rozpoznania sprawy w chwili wniesienia pozwu, to zmiana podstaw właściwości w toku postępowania nie wpływa na tę właściwość, 
+ustalenie jurysdykcji krajowej (perpetuatio iurisdictionis) – to samo w odniesieniu do jursydykcji krajowej, 
+wszczęcie wstępnej fazy procesu – z reguły, jeżeli pozew odpowiada warunkom formalnym, zostanie mu nadany dalszy bieg, zależny od rodzaju powództwa. Najczęściej rozpocznie się rozpoznawanie sprawy, w ramach którego odpis pozwu zostanie doręczony pozwanemu (pozwanie) i zostanie wyznaczona rozprawa. Jednakże od tego toku postępowania mogą zaistnieć wyjątki. Jeżeli brak którejś z przesłanek procesowych, pozew zostanie odrzucony. Jeżeli pozew został wniesiony do niewłaściwego sądu, sprawa zostanie przez ten sąd przekazana sądowi właściwemu. W myśl zasady kontradyktoryjności pozew może też zostać przez powoda cofnięty, czego skutkiem będzie umorzenie postępowania. 
+Skutki materialnoprawne to: 
+przerwa biegu przedawnienia (art. 123 i następne Kodeks cywilny|Kodeksu cywilnego), przerwa biegu zasiedzenia (art. 175 kc), przerwanie biegu terminów zawitych, wyznaczonych przez prawo materialne dla sądowego dochodzenia roszczeń, 
+dopuszczalność naliczania odsetek od zaległych odsetek (tzw. anatocyzm; art. 482 kc), 
+możliwość przejścia na następców prawnych powoda niektórych jego uprawnień o charakterze osobistym, które w innych okolicznościach wygasają wraz ze śmiercią uprawnionego (art. 445 § 3 kc). 
+
+Odpis pozwu (i pozostałych pism procesowych) sąd doręcza drugiej stronie procesowej z urzędu (zasada oficjalności doręczeń). W momencie doręczenia odpisu pozwu (pozwania) osobie wskazanej w pozwie jako pozwany następuje jej wejście do procesu jako pozwanego. W tym momencie osoba ta dowiaduje się o wysuniętym przeciwko niej żądaniu. Zdarzenie to rodzi skutki procesowe wskazane w art. 192 kpc: 
+1) nie można w toku sprawy wszcząć pomiędzy tymi samymi stronami nowego postępowania o to samo roszczenie (litispendencja, czyli zawisłość sprawy); 
+2) pozwany może wytoczyć przeciw powodowi powództwo wzajemne; 
+3) zbycie w toku sprawy rzeczy lub prawa, objętych sporem, nie ma wpływu na dalszy bieg sprawy; nabywca może jednak wejść na miejsce zbywającego za zezwoleniem strony przeciwnej. 
+Najdonioślejszym zaś skutkiem jest umożliwienie pozwanemu podjęcia obrony procesowej.
+
+Wniosek o wszczęcie postępowania nieprocesowego
+
+W postępowaniu nieprocesowym odpowiednikiem pozwu jest wniosek o wszczęcie postępowania nieprocesowego, z tym, że nie zawsze jest on konieczny do wszczęcia postępowania – w niektórych przypadkach może ono zostać wszczęte z urzędu (art. 506 kpc). 
+
+Wniosek powinien odpowiadać wymogom formalnym pozwu, z tą różnicą, że zamiast pozwanego należy wymienić zainteresowanych w sprawie (z momentem doręczenia odpisu wniosku staną się oni uczestnikami postępowania) (art. 511 § 1 kpc). Wniosek podlega badaniu formalnemu przez przewodniczącego wydziału w takim samym trybie i z takimi samymi skutkami, jak pozew w procesie. Wyjątkowo w sprawie, w której postępowanie może zostać wszczęte z urzędu, formalna wadliwość wniosku nie może być podstawą jego zwrotu. W takim przypadku wniosek o wszczęcie postępowania nieprocesowego traktuje się jako impuls do podjęcia przez sąd postępowania z urzędu. 
+
+Cofnięcie wniosku jest dopuszczalne, ale muszą się na nie zgodzić (w sposób domniemany – art. 512 § 1 kpc) wszyscy uczestnicy postępowania – inaczej pozostanie bezskuteczne. Bezskuteczne – w tym sensie, że sąd nie jest nim związany – jest także cofnięcie wniosku w sprawie, która mogła zostać wszczęta z urzędu (art. 512 § 2 kpc).
+
+Zobacz też
+Pozew zbiorowy
+
+

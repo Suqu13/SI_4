@@ -1,0 +1,73 @@
+
+
+Transit, również NAVSAT, NNSS (ang.  Navy Navigation Satellite System) – pierwszy działający system nawigacji satelitarnej. Używany początkowo przez Marynarkę Wojenną USA do określania pozycji przez okręty podwodne z pociskami balistycznymi typu Polaris, później również przez okręty nawodne, a w 1967 udostępniono go użytkownikom cywilnym. Wykorzystywano go m.in. w żegludze oraz do celów hydrograficznych i geodezyjnych.
+
+System został opracowany przez Applied Physics Laboratory, część Johns Hopkins University na zamówienie Marynarki Wojennej USA. Pierwszych pomyślnych testów dokonano w 1960, w 1964 Transit wszedł do eksploatacji. Satelity umieszczano na niskich orbitach okołobiegunowych na wysokości około 1100 km nad powierzchnią Ziemi. Okres obiegu satelity wokół Ziemi wynosił ok. 106 minut. Do zapewnienia globalnego zasięgu systemu potrzebna była konstelacja pięciu satelitów. W okresie normalnej działalności systemu na orbicie było utrzymywanych 10 satelitów (5 zapasowych).
+
+Ze względu na swoje wady system Transit został zastąpiony przez GPS i zakończył działalność w roku 1996, choć jego satelity wykorzystywano nadal do innych celów.
+
+Działanie
+Konstelacja satelitów Transit w sposób ciągły nadawała sygnał zawierający dokładny aktualny czas oraz parametry swojej orbity. Dane te były regularnie wysyłane do satelitów przez stacje naziemne Marynarki Wojennej. Informacje w sygnale pozwalały wyznaczyć dokładną pozycję satelity w dowolnej chwili.
+
+Gdy satelita zbliżał się do odbiornika systemu, odbierana częstotliwość stawała się większa od nadawanej w wyniku zjawiska Dopplera. Odwrotnie działo się, gdy satelita oddalał się od odbiornika. Zmiana różnicy tych częstotliwości i jej tempo informuje o odległości satelity od odbiornika i o jego położeniu względem satelity (lewo, prawo). Obliczenie tych poprawek wymagało skomplikowanych obliczeń, praktycznie niemożliwych do przeprowadzenia manualnie.
+
+Podczas przejścia satelity, odbiornik odbierał sygnał z danymi z satelity oraz wyznaczał przesunięcie dopplerowskie. Komplet informacji przekazywał komputerowi AN/UYK-1. Komputer otrzymywał również aktualną pozycję statku z bezwładnościowego systemu nawigacji. Wyliczanie nowej pozycji statku zajmowało mu około 15 minut.
+
+Ze względu na ułożenie orbit satelitów każdy odbiornik systemu miał kontakt przeważnie tylko z jednym satelitą Transit naraz. Poprawka położenia mogła być wyznaczona dopiero po tym, jak satelita znalazł się nad horyzontem podczas wykonywania kolejnego okrążenia Ziemi i odbiornik wszedł w kontakt z tym satelitą. Na średnich szerokościach geograficznych oznaczało to jedno lub dwugodzinne oczekiwanie na pojawienie się następnego satelity i wyznaczenie kolejnej pozycji, w okolicach równika - kilkugodzinne. Transit nie był zatem w stanie wyznaczać dynamicznie, w czasie rzeczywistym, pozycji odbiorników. Aby uzyskać pozycję w przerwach pomiędzy kolejnymi przejściami satelitów, stosowano urządzenia nawigacji bezwładnościowej lub nawigację zliczeniową. Późniejsze zaawansowane odbiorniki Transit same zliczały pozycję w czasie rzeczywistym na podstawie danych z logu i żyrokompasu, ale nie było to dokładne ze względu na wpływ prądów morskich i wiatru.
+
+Po późniejszych udoskonaleniach, system zapewniał dokładność określenia pozycji ok. 200 metrów (przy pojedynczym przejściu satelity) i synchronizację czasu ok. 50 μs. Satelity Transit przekazywały również kodowane wiadomości, ale była to ich funkcja drugorzędna.
+
+Komputer AN/UYK-1
+Komputer AN/UYK-1 stanowił część pierwszej wersji odbiornika systemu Transit. Musiano skonstruować go od podstaw, gdyż żaden z ówczesnych komputerów nie był przystosowany do umieszczenia go na pokładzie okrętu podwodnego. Głównym projektantem był Lowell Amdahl, brat Gene'a Amdahla, twórcy teorii przetwarzania współbieżnego. AN/UYK-1 został zbudowany dla okrętów podwodnych klasy Lafayette przez firmę Ramo-Wooldridge (która wkrótce potem połączyła się z Thompson Products tworząc przedsiębiorstwo TRW). Komputer miał około 1,5 m wysokości, jego narożniki były zaokrąglone, żeby łatwiej było go przetransportować przez luk okrętu podwodnego. Posiadał pamięć o pojemności 8192 słów 15 bitowych (plus bit parzystości) zbudowaną w oparciu o koraliki ferrytowe składane ręcznie. Jeden cykl maszynowy zajmował ok. 1 mikrosekundy.
+
+AN/UYK-1 nie posiadał sprzętowych rozkazów odejmowania, mnożenia i dzielenia. Posiadał za to operacje dodawania, przesunięć bitowych i innych operacji logicznych. Inne operacje stało- i zmiennoprzecinkowe musiały być zaprogramowane na podstawie dostępnych rozkazów sprzętowych.
+
+Charakterystyczną cechą w zestawie instrukcji komputera AN/UYK-1 było posiadanie przez niego dwóch operatorów, które mogły zmieniać rejestry arytmetyczne w sposób niezależny, np. jeden z nich mógł uzupełniać jeden z rejestrów a w tym samym czasie ładować zawartość drugiego. Prawdopodobnie był to też pierwszy komputer posiadający adresowanie pośrednie w jednym cyklu.
+
+Satelity Transit
+Poniżej lista statków kosmicznych wysłanych pod nazwą Transit lub należących do programu Transit. Podana data jest datą startu. Nie wszystkie z nich miały tworzyć konstelację systemu NAVSAT (np. satelity z serii Transit 5E prowadziły badania magnetosfery, promieniowania itp.). Satelity serii Transit były znane również pod nazwami Oscar i Nova.
+Transit 1A - 17 września 1959 - start nieudany
+Transit 1B - 13 kwietnia 1960
+Transit 2A - 22 czerwca 1960
+Transit 3A - 30 listopada - start nieudany - wystrzelony rakietą Thor Able Star wraz z satelitą Solrad 2, o godz. 19:50, z Cape Canaveral. Lot nieudany z powodu awarii 1. członu rakiety nośnej. 
+Transit 3B - 22 lutego 1961 - start częściowo nieudany
+Transit 4A - 29 czerwca 1961
+Transit 4B - 15 listopada 1961
+Transit 5A - 19 grudnia 1962
+Transit 5A-2 - 5 kwietnia 1963 - start nieudany
+Transit 5A3 - 16 czerwca 1963
+Transit 5BN-1 i Transit 5E-1 - 28 września 1963
+Transit 5BN-2 i Transit 5E-3 - 5 grudnia 1963 
+Transit 5BN-3 i Transit 5E-4 - 21 kwietnia 1964 - start nieudany
+Transit 5C-1 - 4 czerwca 1964
+Transit O-1 - 6 października 1964
+Transit O-2 i Transit 5E-5 - 13 grudnia 1964
+Transit O-3 - 11 marca 1965
+Transit 5B-6 - 24 czerwca 1965
+Transit 5B-7 - 13 sierpnia 1965
+Transit 10 - 22 grudnia 1965
+Transit 11 - 28 stycznia 1966
+Transit 12 - 26 marca 1966
+Transit 13 - 19 maja 1966
+Transit 14 - 18 sierpnia 1966
+Transit 15 - 14 kwietnia 1967
+Transit 16 - 18 maja 1967
+Transit 17 - 25 września 1967
+Transit 18 - 2 marca 1968
+Transit-O 19 - 27 sierpnia 1970
+Triad 1 - 2 września 1972
+Transit-O 20 - 30 października 1973
+Triad 2 - 12 października 1975
+TIP 3 - 1 września 1976
+Transit-O 11 - 28 października 1977
+Nova 1 - 15 maja 1981
+HILAT - 27 czerwca 1983
+Nova 3 - 12 października 1984
+Transit-O 24 i Transit-O 30 - 3 sierpnia 1985
+Polar Bear - 14 listopada 1986
+Transit-O 27 i Transit-O 29 - 16 września 1987
+Transit-O 23 i Transit-O 32 - 26 kwietnia 1988
+Nova 2 - 16 czerwca 1988
+Transit-O 25 i Transit-O 31 - 25 sierpnia 1988
+
+Bibliografia

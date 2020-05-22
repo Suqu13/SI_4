@@ -1,0 +1,21 @@
+Globus Toolkit – zbiór narzędzi (framework) ułatwiających tworzenie usług pracujących w środowisku gridowym. 
+
+Globus Toolkit jest otwartym oprogramowaniem przygotowanym w C i Javie, rozwijanym przez Globus Alliance oraz szereg innych developerów. Przeznaczony jest na systemy typu Unix, część oparta na Javie może być także uruchamiana na innych platformach obsługujących Java SDK.
+
+Zespół
+
+Globus Toolkit powstaje od lat 90'tych w zespole Iana Fostera (Argonne National Laboratory) oraz Carla Kessleman (Information Sciences Institute, University of Southern California). W zespole Fostera pracowało również kilka osób o polskich korzeniach: Jarek Gawor, Kate Keahey oraz Paweł Płaszczak. Niektórzy autorzy literatury książkowej która powstała o Globusie,  to wspomniani Foster, Kesselman, Płaszczak oraz Jarek Nabrzyski .
+
+Wspierane standardy:
+Open Grid Services Architecture (OGSA)
+Open Grid Services Infrastructure (OGSI) -- originally intended to form the basic “plumbing” layer for OGSA, but has been superseded by WSRF and WS-Management.
+Web Services Resource Framework (WSRF)
+Job Submission Description Language (JSDL)
+Distributed Resource Management Application API (DRMAA)
+WS-Management
+WS-BaseNotification
+SOAP
+WSDL
+Grid Security Infrastructure (GSI)
+
+Linki zewnętrzne

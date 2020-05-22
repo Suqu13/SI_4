@@ -1,0 +1,16 @@
+Operation Wolf jest jedną z pierwszych gier Rail shooter, wykorzystujących perspektywę z pierwszej osoby, przeznaczoną na różnego rodzaju konsole do gier, również na system operacyjny DOS. Wydana została w 1988 roku przez Taito Corporation. 
+Gracz wciela się w komandosa. Ekran cały czas przesuwa się automatycznie w bok, a kolejni przeciwnicy próbują atakować postać gracza. Jego zadaniem jest ich likwidacja, walczy też z różnymi pojazdami. Do dyspozycji ma karabin i granaty.
+Gra ma 6 poziomów, więc można ją szybko ukończyć.
+
+
+
+
+
+
+
+
+
+
+
+
+

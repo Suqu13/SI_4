@@ -1,0 +1,32 @@
+
+Monokular termalno-noktowizyjny MTN-1''' to urządzenie obserwacyjne, wykorzystujące połączenie techniki noktowizyjnej i termowizyjnej. Monokular ma dwa tory optyczne: noktowizyjny z czujnikiem Intensified CMOS i termowizyjny z matrycą mikrobolometryczną. Widok z obu torów może być łączony w trybie Fusion który pokazuje na ekranie wykryte punkty o temperaturze wyższej niż otoczenie, tzw. "hot spots" na tle znanym z klasycznych noktowizorów. Można dzięki temu wykryć ukrywające się osoby, rozgrzane przedmioty i pojazdy mając jednocześnie cały czas w polu widzenia noktowizyjny obraz obserwowanej scenerii.
+
+Historia rozwoju
+Monokular termalno-noktowizyjny MTN-1 jest efektem współpracy Przemysłowego Centrum Optyki S.A. i francuskiej firmy Photonis. Od 2009 roku pracowano nad urządzeniem, w którym łączenie obrazów odbywałaby się na drodze elektronicznej. Monokular MTN-1 był pierwszym tego typu rozwiązaniem na świecie.
+
+Budowa
+Monokular MTN-1 ma dwa oddzielne tory optyczne (dwa obiektywy) o kącie widzenia 31&nbsp;° w poziomie i 25&nbsp;° w pionie: noktowizyjny z czujnikiem Intensified CMOS i termowizyjny z niechłodzoną matrycą mikrobolometryczną. Funkcję Fusion realizuje moduł opracowanym przez szwajcarską firmę DEP Imaging elektroniczny moduł Griffin. Urządzenie może pracować w trybie noktowizji (kanał ten jest wyłączany gdy światło wpadające do urządzenia osiągnie natężenia 5 luxów), termalnym bądź połączonym (fusion). Ostry obraz w kanale noktowizyjnym można uzyskać już od odległości 0,25m (do nieskończoności). Dzięki cyfrowemu połączenia technologii termowizyjnej i noktowizyjnej konstruktorom udało się zachować niewielkie rozmiary i masę urządzenia, zaledwie 490g (w rozwiązaniu doręcznym).
+Wyświetlaczem jest matryca OLED o rozdzielczości 1280 x 1024. Okular ma zdolność skupiającą regulowaną od - 6 do +2 dioptrii, może więc być stosowany przez osoby z wadą wzroku.
+Zasilanie stanowią trzy ogniwa CR123 umieszczone (w rozwiązaniu doręcznym) poniżej toru termalnego. W konfiguracji na hełm dwa pojemniki na trzy ogniwa umieszczone są z tyłu głowy co poprawia wyważenie hełmu z monokularem. Masa wynosi wtedy 700g. Pobór mocy wynosi 1,5 W a jeden komplet baterii pracuje przez ponad 4 godziny przy włączonej funkcji Fusion (czyli z aktywnymi oboma torami wizyjnymi). Zakres temperatur pracy  od -32&nbsp;°C do +55&nbsp;°C.
+
+Zastosowanie
+Urządzenie przeznaczone jest do użytku przez indywidualnego żołnierza lub funkcjonariusza jako urządzenie obserwacyjne ręczne, zamontowane na hełmie lub uprzęży nagłownej (mocowany jest wtedy na flip-upie używanym do monokularów MU-3). Może być również stosowany jako element systemu celowniczego do broni indywidualnej w połączeniu z celownikiem holograficznym lub kolimatorowym.
+
+Ciekawostki
+Monokular MTN-1 został wyróżniony Nagrodą Defender w 2010 roku
+
+Zobacz także
+Celownik noktowizyjny
+
+Celownik termowizyjny
+
+Uniwersalny celownik termalny UCT-1
+
+
+
+
+
+
+
+
+

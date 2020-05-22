@@ -1,0 +1,41 @@
+
+Apple IIGS to model 16-bitowego komputera produkowanego w drugiej połowie lat osiemdziesiątych przez firmę Apple. Model ten był zgodny z rodziną komputerów Apple II.
+
+Dane techniczne
+procesor: W65C816
+przestrzeń adresowa: 16 MB (256 stron po 64 kB)
+tryb pracy procesora zgodny z procesorem 65C02A stosowanym we wcześniejszych modelach, m.in. Apple IIc
+RAM: 256 kB (z możliwością rozbudowy do 8MB)
+ROM: 128 kB (z możliwością rozbudowy do 1 MB): zawierał procedury systemowe, przerwań, obsługi urządzeń, transmisji danych sieci AppleTalk, interpreter Applesoft Basic
+stacje dyskietek dołączane zewnętrznie:
+2x3,5” 800 kB
+2x5,25” 140 kB (zapewniające możliwość przenoszenia oprogramowania z wcześniejszych modeli serii Apple II)
+złącze RS 232
+tryby grafiki
+zgodne z Apple IIc
+znakowe
+24x40 znaków
+24x80 znaków
+graficzne
+48 wierszy po 40 punktów 16 kolorów
+40 wierszy po 40 punktów + okno tekstowe na dole ekranu 4 wiersze po 40 znaków
+280x192 punktów 6 kolorów
+160x192 + okno tekstowe na dole ekranu 4 wiersze po 40 znaków
+562x192 punktów
+dodatkowe tryby graficzne
+200x320 punktów 16 kolorów z palety 4096 kolorów
+200x690 punktów 9 kolorów
+200x640 w 16 kolorach z pewnymi ograniczeniami
+układ dźwiękowy DOC firmy Ensoniq
+klawiatura QWERTY z wydzieloną klawiaturą numeryczną
+
+Oprogramowanie
+system operacyjny: ProDOS 16, Apple GS/OS
+w trybie pracy zgodnym z wcześniejszymi modelami serii Apple II możliwość wykorzystania dostępnego oprogramowania.
+
+
+
+
+
+
+

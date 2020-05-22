@@ -1,0 +1,5 @@
+Equinox ProTracker STe – program muzyczny typu tracker dla komputerów Atari STE. Stworzył go Checksum z grupy Equinox w roku 1992.
+
+Equinox ProTracker STe jest klonem programu ProTracker dla komputerów Amiga. Zachowuje zgodność z pierwowzorem, pozwala na edycję i odgrywanie modułów 4-ścieżkowych. Czyta i zapisauje utwory muzyczne w standardowym formacie protrackera, .MOD.
+
+Linki zewnętrzne

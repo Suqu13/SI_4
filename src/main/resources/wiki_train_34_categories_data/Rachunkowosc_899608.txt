@@ -1,0 +1,13 @@
+Nakłady - wydatkowane w procesie produkcji kapitały (stanowiące koszty własne produkcji) przeznaczone na zakup niezbędnych środków i przedmiotów pracy (infrastruktura, surowce, materiały, narzędzia, energia, robocizna). 
+
+Rodzaje nakładów:
+
+Nakłady bieżące - zużywane są w przyjętej jednostce czasu (np. 1 cykl produkcji, 1 rok).
+Nakłady inwestycyjne - zużywają się i przynoszą efekty produkcyjne po upływie dłuższego czasu.
+
+Termin ten jest wymiennie stosowany z terminem "nakład".
+
+Zobacz też
+CAPEX i OPEX
+
+

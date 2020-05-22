@@ -1,0 +1,148 @@
+Metody badawcze wiązania wodorowego – szereg metod badawczych wykorzystywanych do badania wiązań wodorowych. Wymagają one stosowania szczególnych technik analitycznych, gdyż wiązanie wodorowe jest często "niewidoczne" w tradycyjnych technikach badania wiązań chemicznych takich jak np. rentgenografia strukturalna.
+
+Istnieje wiele metod badawczych pozwalających wykrywać i wnikliwie analizować wiązania wodorowe. Jednak każda z nich ma pewne ograniczenia wynikające z niedoskonałości aparatury bądź związane z trudnościami w interpretacji uzyskanych wyników. Stąd też, najlepszym sposobem analizy wiązań wodorowych jest jednoczesne stosowanie kilku metod, wzajemnie uzupełniających się.
+
+Metody badawcze wiązań wodorowych można podzielić na: spektroskopowe, krystalograficzne, termochemiczne i teoretyczne.
+
+Metody spektroskopowe:
+Spektroskopia IR
+Spektroskopia ramanowska
+NMR (jądrowy rezonans magnetyczny)
+Spektroskopia jądrowego rezonansu kwadrupolowego
+Spektroskopia nieelastycznego rozpraszania neutronów
+Spektroskopia UV-VIS
+
+Metody krystalograficzne:
+Rentgenografia strukturalna
+Neutronografia
+
+Metody termochemiczne i fizykochemiczne:
+Kalorymetria
+Pomiar momentów dipolowych
+Badania kinetyczne reakcji chemicznych, w których dochodzi do zrywania i powstawania wiązań wodorowych.
+
+Metody teoretyczne:
+Metody ab initio
+Metody półempiryczne
+
+Metody spektroskopowe
+Spektroskopia absorpcyjna w podczerwieni
+Spektroskopia w podczerwieni jest podstawową metodą służącą do studiowania dynamicznych aspektów wiązania wodorowego. Spektroskopia ta wykorzystuje absorpcję lub emisję promieniowania ze środkowego zakresu podczerwieni (200-4000 cm-1). Jest metodą analizy strukturalnej, pomaga w identyfikacji cząsteczek i grup funkcyjnych w cząsteczkach, pozwala na jakościową jak i ilościową analizę. Umożliwia dostosowanie techniki pomiarowej do stanu skupienia próbki. Jak również stwarza możliwość pomiarów próbek w różnych temperaturach, z użyciem światła spolaryzowanego bądź też niespolaryzowanego. Obecnie, wszystkie komercyjne spektrometry służące do pomiarów widm z zakresu środkowej podczerwieni, są oparte na pomiarze interferometrycznym i są instrumentami wykorzystującymi transformację Fouriera (FTIR).
+
+Wpływ wiązania wodorowego na widma podczerwone cząsteczek
+Powstanie wiązania wodorowego powoduje zmianę energii niektórych wiązań, a także zmianę rozkładu elektronów oraz ich oddziaływania z falą świetlną. Pojawienie się wiązania wodorowego X-H•••Y ma wpływ na widmo w podczerwieni głównie ze względu na zmiany w następujących drganiach normalnych: rozciągające wiązania X-H, zginające wiązania X-H w płaszczyźnie, zginające poza płaszczyzną wiązania X-H, rozciągające mostek wodorowy, zginające mostek wodorowy.
+
+Utworzenie wiązania wodorowego powoduje następujące zmiany w widmie w podczerwieni:
+Wskutek powstania wiązania wodorowego pojawiają się w widmie oscylacyjnym nowe częstości w zakresie 30-500 cm-1, odpowiadające drganiom międzycząsteczkowym, jak również charakterystyczne zmiany w widmie, zwłaszcza w zakresie oscylacji grupy X-H w podczerwieni.
+Parametry spektralne pasm związanych z drganiami grupy X-H w kompleksie X-H•••Y różnią się od odpowiednich parametrów swobodnej grupy X-H.
+W przypadku drgania walencyjnego X-H: położenie pasma przesuwa się w kierunku niższych częstości, szerokość połówkowa pasma wzrasta, natężenie (integralny współczynnik absorpcji) wzrasta.
+W przypadku drgania deformacyjnego X-H: położenie pasma przesuwa się w kierunku wyższych częstości, natężenie pasma praktycznie nie ulega zmianie.
+
+Spektroskopia Ramana
+Obok spektroskopii w podczerwieni spektroskopia ramanowska jest ważną metodą badania widm oscylacyjnych cząsteczek.
+
+Spektroskopia w podczerwieni i spektroskopia ramanowska uzupełniają się wzajemnie, zwłaszcza w badaniach drgań wieloatomowych cząsteczek ze środkiem inwersji.
+W takich cząsteczkach drgania normalne, aktywne w podczerwieni są nieaktywne w widmach ramanowskich, a drgania wzbronione w podczerwieni są dozwolone w widmach ramanowskich.
+
+Wiązanie X-H w mostku wodorowym jest silnie spolaryzowane stąd zmiana polaryzowalności podczas drgania jest stosunkowo mała, a to z kolei prowadzi do niskiej intensywności pasma drgań rozciągających w mostku wodorowym w widmie ramanowskim. Zmiany częstości pasm pod wpływem utworzenia wiązania wodorowego są natomiast praktycznie identyczne w widmie w podczerwieni i Ramana.
+
+Widma Ramana można stosować do identyfikacji pasm pochodzących od drgań C-H, które charakteryzują się dużą intensywnością w porównaniu z intensywnością pasm drgań mostka wodorowego.
+
+Spektroskopia Jądrowego Rezonansu Magnetycznego (NMR)
+Metody rezonansów magnetycznych operują falami radiowymi. Opierają się one na wykorzystaniu spinów i momentów magnetycznych jąder atomów i elektronów jako sond do badania struktury elektronowej, dynamiki i reaktywności cząsteczek. Badania takie są przeprowadzane głównie w fazach skondensowanych to znaczy z próbkami stałymi i ciekłymi, choć możliwe są też pomiary w fazie gazowej.
+
+W jądrowym rezonansie magnetycznym spin jądrowy jest sondą, która służy do rozpoznawania struktury i dynamiki chmur elektronowych otaczających jądro atomowe, a także jego sprzężenia z innymi sąsiadującymi jądrami. Spektroskopia 1H NMR jest jedną z najczulszych metod detekcji wiązania wodorowego. Sygnał protonu grupy X-H zaangażowanego w wiązanie wodorowe X-H•••Y jest znacznie przesunięty w kierunku mniejszej indukcji pola w porównaniu z sygnałem X-H w molekule niezwiązanej wiązaniem wodorowym. Świadczy to o zmniejszeniu ekranowania protonu w wiązaniu wodorowym.
+
+Spektroskopia NMR mierzy stopień, w którym proton jest otoczony przez środowisko elektronów co określamy protonowym przesunięciem chemicznym. To przesunięcie dostarcza dowodu istnienia wiązania wodorowego w roztworze oraz jego wielkości, co jest ilościowo proporcjonalne do siły wiązania wodorowego. 1H NMR jest techniką bardzo czułą na zmiany otoczenia elektronowego, co czyni tę metodę bardzo użyteczną przy detekcji wiązań wodorowych dla słabych donorów takich jak S-H i C-H oraz słabych akceptorów takich jak wiązania wielokrotne czy pierścień aromatyczny.
+
+W ostatnich latach pojawiły się w literaturze interesujące techniki i zastosowania spektroskopii NMR w dziedzinie wiązania wodorowego. Nowe techniki takie jak Pulsacyjna Spektroskopia NMR (Pulsed NMR Spectroscopy) znalazła zastosowanie w dziedzinie badania dynamiki i struktury wiązań wodorowych.
+
+Obecnie dużym zainteresowaniem cieszy się spektroskopia NMR ciała stałego, co oczywiście od razu znalazło zastosowanie w badaniach wiązania wodorowego. Jest to z pewnością związane z możliwością korelacji tych wyników z wynikami analizy krystalograficznej. Z powodu ograniczenia ruchów molekuł w stanie stałym, nie zanikają magnetyczne dipolowe oddziaływania pomiędzy jądrami (tak jak to się dzieje w cieczach), co komplikuje widmo i czyni spektroskopię NMR mniej dokładną. Rozwiązaniem tego problemu było zastosowanie tak zwanego Magic Angle Spinning. Pomiary NMR w ciele stałym umożliwiają pomiar anizotropii ekranowania. Obecność wiązania wodorowego powoduje znaczny wzrost anizotropii ekranowania protonu zaangażowanego w wiązanie.
+
+Oprócz 1H NMR, w badaniach wiązania wodorowego stosuje się także 14N i 15N NMR, 19F NMR, 33S NMR, a także (od niedawna) 17O NMR, w przypadku gdy donorem bądź akceptorem protonu jest odpowiednio azot, fluor, siarka lub tlen.
+
+Spektroskopia Jądrowego Rezonansu Kwadrupolowego (NQR)
+Jądrowy rezonans kwadrupolowy NQR (Nuclear Quadrupole Resonance) jest metodą spektroskopową spokrewnioną ze spektroskopią jądrowego rezonansu magnetycznego (NMR), w której także wykorzystuje się częstotliwość radiową, ale częstotliwość rezonansowa zależy nie od pola magnetycznego (pomiary NQR przeprowadza się bez zewnętrznego pola magnetycznego), ale od gradientu pola elektrycznego tworzonego przez rozmieszczone elektrony krążące wokół kwadrupolowego (posiadającego kwadrupolowy moment elektryczny) jądra atomowego. Właściwość tę mają jądra o spinie większym niż 1/2 (na przykład 14N, 35Cl, 63Cu, czy 2H).
+
+Metoda ta pozwala odzwierciedlać lokalny układ elektronów wokół jądra atomowego, czyli jego otoczenie chemiczne. Cecha ta sprawia, iż NQR jest czułą metodą badań wiązań wodorowych. NQR można stosować dla próbek stałych, mono i polikrystalicznych.
+
+Spektroskopia nieelastycznego rozpraszania neutronów
+Spektroskopia nieelastycznego rozpraszania neutronów INS (Inelastic Neutron Scattering Spectroscopy) jest jedną z lepszych metod pozwalającą badać wiązania wodorowe w ciałach stałych. INS daje nam informacje o drganiach w przedziale energii od 30-1500 cm-1. Intensywności drgań w widmie INS są uzależnione od amplitud wychyleń atomów (w tym atomów wodoru) podczas drgania. W związku z tym INS jest czułą i użyteczną metodą w badaniach dynamiki wiązań wodorowych. Widma INS można symulować stosując obliczenia ab initio.
+
+Nieelastyczne rozpraszanie neutronów jest procesem, w którym neutrony zderzają się z jądrami atomów i uzyskują lub tracą na rzecz próbki energię kinetyczną. W niskiej temperaturze neutrony tracą energię, a w próbce obserwuje się wzrost energii.
+
+Metodę tę zalicza się do metod spektroskopii oscylacyjnej pod pewnymi względami jest podobna do spektroskopii w podczerwieni i spektroskopii ramanowskiej.
+INS jest również dobrą metodą pozwalającą badać efekty izotopowe. Atom wodoru rozprasza w innym stopniu niż atom deuteru, stąd można obserwować efekty spektralne wymiany protonu na deuter w układach wiązań wodorowych.
+
+W ostatnich latach INS cieszy się dużą popularnością w badaniu dynamiki wiązań wodorowych.
+
+Spektroskopia UV-VIS
+Spektroskopia absorpcyjna w nadfiolecie i w części widzialnej widma UV-Vis, znalazła zastosowanie w badaniach wiązania wodorowego. Spektroskopia ta wykorzystuje absorpcję promieniowania elektromagnetycznego w zakresie nadfioletu i światła widzialnego (100-800 nm).
+
+Obecność wiązania wodorowego powoduje batochromowe przesunięcie pasm absorpcyjnych.
+Jest metodą umożliwiającą badanie zaburzeń wywołanych obecnością wiązania wodorowego w całym sprzężonym układzie auksochromowym cząsteczki.
+Jednoczesne pomiary elektronowych widm absorpcji i emisji umożliwiają badanie wiązania wodorowego również w stanach wzbudzonych. Obecność dimerów wiązań wodorowych kwasów karboksylowych widoczna jest w widmie absorpcyjnym w nadfiolecie przez przesunięcie batochromowe i przesunięcie hipsochromowe.
+
+Pomimo istnienia wielu nowych metod badawczych w dziedzinie wiązania wodorowego Spektroskopia UV jest nadal jedną z metod służącą badaniom nad skomplikowanymi układami wiązań wodorowych, mimo że widma UV-VIS są trudne w interpretacji.
+
+Metody krystalograficzne
+Struktura krystaliczna pojedynczych kryształów pełni ważną rolę w badaniach nad wiązaniem wodorowym, ponieważ dostarcza bezpośrednich informacji związanych z stereochemiczną budową związków. Określenie położenia atomów wodoru jest niezbędne do zrozumienia natury wiązania wodorowego.
+Łącznie ze spektroskopią w podczerwieni, analiza struktury krystalicznej dostarcza danych, które pozwalają badać różnice pomiędzy silnymi, umiarkowanymi, słabymi wiązaniami wodorowymi. Analiza ta dostarcza również informacji w badaniach dwu-, trój- i czterocentrowych wiązań wodorowych.
+
+W badaniach wiązania wodorowego, trudna jest bezpośrednia lokalizacja atomów wodoru w mostku wodorowym za pomocą rentgenografii strukturalnej, jako że niewielka jest gęstość elektronowa na tych atomach, a zatem słabe oddziaływanie z promieniowaniem rentgenowskim. Przyjmuje się zatem, że dowodem istnienia wiązania wodorowego jest odległość między atomami X i Y mniejsza od sumy promieni van der Waalsa. Na bardziej dokładne wyznaczenie położenia jąder atomowych, łącznie z protonami, pozwala neutronografia, wymagająca jednak użycia większych kryształów niż rentgenografia strukturalna.
+
+W ostatnich latach zostały opracowanie programy komputerowe i nowoczesne metody pozwalające wyznaczyć pozycje wszystkich atomów w komórce elementarnej. Zawierają one korekty na ruchy termiczne atomów związanych wodorowo tzw. riding motion jak również drugi efekt tzw. anharmonic streching motion.
+
+Stosuje się nowoczesne techniki prowadzenia pomiarów w temperaturze ciekłego azotu, dzięki którym ustalanie położenia atomów wodoru jest wciąż udoskonalane.
+
+Konsekwencją rozwoju metod rentgenografii strukturalnej i rosnącej liczby zmierzonych struktur krystalicznych są bazy krystalograficzne, wśród których
+istotne znaczenie w dziedzinie badania wiązania wodorowego mają: Cambridge Structural Database (CSD), The Protein Data Bank (PDB), The Nucleic Acids Data Bank (NDB), Inorganic Crystal Structure Database (ICSD).
+
+Metody teoretyczne
+Do metod teoretycznych badania wiązań wodorowych zaliczyć należy:
+
+metody ab initio
+metody półempiryczne
+metody empiryczne
+
+Teoretycy od dawna starali się stworzyć metody obliczeniowe, które pozwoliłyby poznać naturę i wyjaśnić podstawowe właściwości wiązań wodorowych.
+
+W latach 60. XX wieku Charles Coulson przedstawił elektrostatyczny model wiązania wodorowego, który oparty był na pracy Johna Lennarda-Jonesa i Johna A. Pople'a.
+
+Coulson podzielił kulombowskie oddziaływania energii wiązania wodorowego na cztery czynniki: elektrostatyczny, kowalencyjny, odpychania, oddziaływań dyspersyjnych.
+
+Prawie 20 lat później Kitaura i Morokuma rozwinęli metodę opartą na teorii ab initio SCF, w której zakładali, że na oddziaływanie dwóch molekuł składa się:
+oddziaływanie elektrostatyczne (ES),
+oddziaływanie polaryzacyjne (PL),
+odpychania walencyjnego (EX),
+przeniesienia ładunku (CT),
+mieszane (MIX).
+
+Zastosowanie tej metody do układów wiązań wodorowych zasugerowało, że wiązania wodorowe pomiędzy neutralnymi donorami i akceptorami było silnie elektrostatyczne w naturze, z małym ale znaczącym wpływem przeniesienia ładunku.
+
+Analiza naturalnej energii rozkładu (NEDA) wskazuje, że zarówno (ES) jak i (CT) dają znaczący i względnie duży wkład do energii oddziaływania wiązania wodorowego, przynajmniej w przypadku dimeru wody. Stwierdzono istnienie oddziaływania orbitali molekularnych w systemie wiązań wodorowych, związane z oddziaływaniem dwóch elektronów na dwóch orbitalach oddziałujących pomiędzy orbitalem antywiążącym π* odpowiadającym donorowemu wiązaniu H-A, na najwyżej zajętym orbitalem molekularnym HOMO akceptora. Trzeba jednak podkreślić, że ilościowy udział poszczególnych wkładów w energii wiązania wodorowego zależy znacznie od obranej metody podziału.
+
+Bibliografia
+G.A Jeffrey An Introduction to Hydrogen Bonding, 1997, New York, Oxford, Oxford University Press
+L. Sobczyk Wiązanie wodorowe, 1969, PWN Warszawa
+G.C. Pimentel, A.L. Mc Clellan The Hydrogen Bond, 1960, San Francisco London
+S. Scheiner Hydrogen Bonding – A Theoretical Perspective, 1997, New York,Oxford,Oxford University Press
+P. Schuster, G. Zundel, C. Sandorfy The Hydrogen Bond tom I, II, III, 1976, North-Holland; Amsterdam
+H. Haken, H.C. Wolf Fizyka molekularna z elementami chemii kwantowej, 1998, Wydawnictwo Naukowe PWN, Warszawa
+Z. Kęcki Podstawy spektroskopii molekularnej, 1998, Wydawnictwo Naukowe PWN,Warszawa,
+G.A Jeffrey An Introduction to Hydrogen Bonding, 1997, New York, Oxford, Oxford University Press,
+D. Hadzi Hydrogen Bonding, 1957, Pergamon Press; Symposium Publications Division, London-New York-Paris-Los Angeles
+P. Schuster, W. Mikenda Hydrogen Bond Research, Monatshefte für Chemie Chemical Monthly, 130/8, (1999) Springer Wien New York
+R. Laenen, K. Simeonidis, R. Ludwig, J. Chem. Phys. 111 13 (1999) 5897-5904,
+K.L Sauer, B.H. Suits, A.N Garroway, J.B. Miller, Chem. Phys. Lett. 342 (2001) 362-368
+B.S. Hudson, J. Phys. Chem. A 105 16 (2001) 3949-3960,
+A.J. Horsewill, A. Aibout, J. Phys. Condens. Matter. 1 (1989) 9609-9622,
+A. Sauter, C. Thalacker, B. Heise, F. Wűrthner, PNAS 99 8 (2002) 4993-4996
+
+Linki zewnętrzne
+http://www.americanscientist.org
+http://hudsonlab.syr.edu
+http://www.tgc.com
+
+
+

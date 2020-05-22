@@ -1,0 +1,39 @@
+
+
+Kot Schrödingera – w mechanice kwantowej słynny eksperyment myślowy (doświadczenie myślowe) z hipotetycznym kotem.
+
+W 1935 roku Erwin Schrödinger opublikował w trzech częściach artykuł przeglądowy Obecna sytuacja w mechanice kwantowej, w którym przedstawił swoje rozumowanie (eksperyment myślowy). Tak narodził się równocześnie żywy i martwy kot Schrödingera.
+
+Eksperyment z kotem Schrödingera jest jednym z wielu pomysłów tworzenia "przekładni" ze świata obiektów nano (w skali atomowej) do świata makroskopowego.
+
+Opis eksperymentu
+Schrödinger wymyślił urządzenie oddziałujące na kota, zamkniętego w pojemniku z trucizną (np. z trującym gazem). Do szczelnego pojemnika wkładamy: żywego kota, źródło promieniotwórcze w postaci jednego atomu, który może wyemitować cząstkę promieniowania jonizującego oraz detektor promieniowania (np. licznik Geigera-Müllera), który w chwili wykrycia cząstki uwalnia trujący gaz. Po zamknięciu pojemnika po pewnym czasie istnieje 50% prawdopodobieństwo, że kot jest martwy i takie samo prawdopodobieństwo, że jest nadal żywy. Tak sugerowałby tzw. zdrowy rozsądek. Jeśli nastąpi radioaktywny rozpad i licznik go zarejestruje, zostanie uruchomiony mechanizm, który uwolni truciznę, wtedy kot zginie. Jeśli rozpad nie będzie miał miejsca, zwierzę nadal będzie cieszyło się życiem.
+
+Z opisu kwantowo-mechanicznego wynika jednak coś innego – przed otwarciem pojemnika kot jest jednocześnie i martwy, i żywy. Jako obiekt kwantowy, znajduje się on równocześnie w każdym z możliwych stanów (tzw. superpozycji). Dopiero otwarcie pojemnika i sprawdzenie jego zawartości redukuje układ do jednego stanu – następuje załamanie funkcji falowej kota, i dopiero w momencie poczynienia obserwacji kot przyjmuje jeden, konkretny stan. W tym przypadku są tylko dwa możliwe stany - kot jest martwy albo żywy.
+
+Zgodnie z regułami tzw. interpretacji kopenhaskiej, do momentu przeprowadzenia pomiaru, tzn. stwierdzenia, co dzieje się z kotem, jego stan jest fundamentalnie nieokreślony – kot jest jednocześnie żywy i martwy. Fizycy mówią o superponowanym stanie żywego i martwego kota. Dopiero pomiar rozstrzygnie jego losy. Występowanie superpozycji stanów jest zjawiskiem powszechnym w świecie mikroskopowych obiektów.
+
+Eksperyment kłóci się ze zdrowym rozsądkiem, co wynika z faktu, że jest niemożliwy do przeprowadzenia w świecie makroskopowym. Przedmioty dostępne nam do obserwacji w naszej skali składają się z obiektów podlegających prawom mechaniki kwantowej. Jednak, ze względu na bardzo dużą liczbę tych obiektów, ich poszczególne stany uśredniają się, nie pozwalając obserwować efektów kwantowych.
+
+Kot Schrödingera w kulturze masowej
+
+Koncepcja kota Schrödingera będąca zderzeniem klasycznych intuicji z regułami fizyki kwantowej niesie ze sobą intrygujące (choć pozorne) paradoksy. Dlatego koncepcja ta okazała się atrakcyjnym motywem często wykorzystywanym w literaturze, filmach i grach komputerowych. 12 sierpnia 2013 kot Schrödingera pojawił się w Google doodle z okazji 126. rocznicy urodzin naukowca.
+
+Kot Schrödingera w filozofii
+To, że kot ten może być równocześnie martwy i żywy (a nie jest to superpozycja czasu, kiedy był żywy i czasu, kiedy był martwy) jest założeniem filozoficznym diagonalności wprowadzonym do fizyki kwantowej w zasadzie komplementarności.
+
+Literatura
+John Gribbin, W poszukiwaniu kota Schrödingera: realizm w fizyce kwantowej, Zysk i S-ka Wydawnictwo, Poznań 1997, ISBN 83-7150-312-1.
+
+M. Kalinski,  Aharonov-Bohm oscillations in a hydrogen atom in a radiation field through electron self-interference, Phys. Rev. A 57, 2239-2242 (1996).
+
+Tadeusz Pabjan, Zasada komplementarności a filozofia, Postępy Fizyki tom 62 zeszyt 1 z 2011 roku.
+
+Zobacz też
+
+dziesięć najpiękniejszych eksperymentów z fizyki
+przyjaciel Wignera
+
+
+
+Linki zewnętrzne

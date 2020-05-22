@@ -1,0 +1,14 @@
+Sprawozdawczość finansowa pełni funkcje sprawozdawcze, jej celem jest przygotowanie informacji o stanie działalności gospodarczej jednostki gospodarczej za pomocą sprawozdań finansowych w postaci danych, do odbiorców zewnętrznych. Wszystkie dane ekonomiczne pochodzą z ksiąg rachunkowych jasno obrazując sytuacje majątkową, finansową i dochodową jednostki. Stosuje się jednolitą zasadę według wartości nabycia tzw. kosztu historycznego. Informacje te winny być przedstawione rzetelnie, prawidłowo i istotnie.
+
+Sprawozdanie finansowe powinno zawierać:'''
+wprowadzenie z informacją o kontynuacji działalności w nie mniejszym istotnie zakresie bez postawienia w stan likwidacji lub upadłości, wycenie – zasadach stosowanych w tym zakresie;
+bilans;
+rachunek zysków i strat;
+informacje zawierające dane uzupełniające bilans i rachunek zysku i strat
+rachunek przepływu środków pieniężnych z działalności operacyjnej, inwestycyjnej, finansowej;
+zestawienie zmian w funduszu własnym – wyjaśniającym przyczyny i wysokość zmian tego kapitału powierzonego i wypracowanego;
+w przypadku spółek akcyjnych i spółek z ograniczoną odpowiedzialnością, spółdzielnie i przedsiębiorstwa państwowe muszą przedstawić sprawozdanie na temat działalności w roku obrotowym przedstawiając zamierzenia i zagrożenia dla ich działalności.
+
+Zasady sprawozdawczości finansowej są regulowane przez ustawę o rachunkowości oraz krajowe i międzynarodowe standardy.
+
+

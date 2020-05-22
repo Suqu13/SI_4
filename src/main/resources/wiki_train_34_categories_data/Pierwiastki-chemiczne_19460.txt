@@ -1,0 +1,36 @@
+Pluton (Pu, łac. plutonium) – pierwiastek chemiczny z grupy aktynowców w układzie okresowym. Nazwa pochodzi od planety karłowatej Pluton.
+
+Pluton to transuranowiec, radioaktywny metal, po raz pierwszy wytworzony i zbadany przez zespół kierowany przez amerykańskiego chemika Glenna T. Seaborga w 1941 roku. Uczeni wykorzystali uran, który bombardowali jądrami deuteru (izotop wodoru). Ze względu na tajność Projektu Manhattan pracę na temat pierwiastka opublikowano dopiero w 1946 roku. Najważniejszym jego izotopem jest 239Pu, stosowany do produkcji broni i w energetyce jądrowej. Orientacyjna cena 1 grama dwutlenku plutonu wynosi 5800 dolarów. Czysty pluton potrafi osiągnąć cenę dwukrotnie wyższą.
+
+
+
+
+
+Właściwości chemiczne
+Pluton jest stosunkowo reaktywny chemicznie. Wystawiony na działanie powietrza pokrywa się powoli warstwą żółtych tlenków. Występuje w sześciu odmianach krystalicznych i tworzy związki, w których występuje na czterech stopniach utlenienia. Jest bardzo radioaktywny, na tyle że proces rozpadu promieniotwórczego z emisją cząstek alfa powoduje wydzielenie dużych ilości ciepła: 0,567 W/g (w przypadku 238Pu). Izotop ten jest często wykorzystywany w radioizotopowych generatorach termoelektrycznych do zasilania energią elektryczną urządzeń kosmicznych.
+
+Właściwości fizyczne
+Ze względu na silną radioaktywność pluton jest zabójczy dla człowieka nawet w minimalnych ilościach (kumuluje się w tkance kostnej). Ze względu na mniejszą masę krytyczną niż w przypadku uranu bomby plutonowe mogą być mniejsze. Kilogram plutonu-239 może wyzwolić taką energię jak wybuch 20&nbsp;000 ton trotylu. Ogrzewany w temperaturze 320–480&nbsp;°C zmniejsza swoją objętość, wykazując anomalną rozszerzalność cieplną.
+
+Występowanie
+Otrzymywany jest sztucznie, aczkolwiek stwierdzono występowanie jego śladowych ilości w rudach uranu. Występuje tam w postaci izotopu 239Pu, powstającego jako produkt naturalnych reakcji jądrowych, oraz cięższego 244Pu. Ten izotop ma okres połowicznego rozpadu ponad 80 milionów lat i jest najcięższym z pierwotnych nuklidów występujących na Ziemi.
+
+Izotopy i otrzymywanie
+Opisano własności 20 izotopów plutonu o liczbie masowej od 228 do 247. Wszystkie izotopy są nietrwałe, najdłużej żyjącym izotopem jest pluton-244, z czasem połowicznego rozpadu 80,8 miliona lat, kolejnymi są: pluton-242 – 373,3 roku, plutonu-239 – 24,11 roku. Wszystkie pozostałe mają czas połowicznego rozpadu mniejszy niż 7 lat, a 16 ma czas połowicznego rozpadu większy od 20 minut. Izotopy plutonu mają osiem izomerów jądrowych, wszystkie mają czas połowicznego zaniku mniejszy niż jedną sekundę.
+
+Zastosowanie komercyjne mają dwa izotopy plutonu Pu-238 i Pu-239.
+
+Izotop 238 przy czasie rozpadu około 88 lat i cieple rozpadu 260 W/kg jest dobrym źródłem energii dla radioizotopowych generatorach termoelektrycznych, które mają działać przez kilkadziesiąt lat. Izotop ten uzyskuje się głównie przez bombardowanie uranu 238 jądrami deuteru
+
+Pluton-239 ulega rozszczepieniu neutronami termicznymi i jest używany w reaktorach jądrowych oraz w bombach jądrowych, w bombie Fat Man zrzuconej na Nagasaki materiałem rozszczepialnym był pluton-239. Izotop ten powstaje przez bombardowanie uranu 238 neutronami. Reakcja ta zachodzi w reaktorach jądrowych, powstały pluton ulega w nich rozszczepieniu, odgrywając ważną rolę w funkcjonowaniu reaktora 
+
+W reaktorach komercyjnych ilość energii powstającej z wytworzonego w reaktorze plutonu jest większa niż wytworzona z rozpadu paliwa pierwotnego U-235. Konstruuje się też reaktory powielające, w których w wypalonym paliwie jest więcej plutonu niż plutonu i uranu 235 w paliwie przed załadunkiem.
+ 
+Syntetyczny pluton w środowisku
+W wyniku atmosferycznych i podwodnych prób jądrowych, prowadzonych intensywnie w latach 60. XX wieku, a mniej intensywnie do lat 80., do środowiska zostały wprowadzone znaczne ilości plutonu, o aktywności rzędu 1016 Bq. Wprowadzone do stratosfery drobne cząstki zawierające pluton opadały systematycznie na powierzchnię Ziemi tworząc tzw. globalny opad promieniotwórczy. W chwili obecnej cały rozproszony w atmosferze pluton znajduje się na powierzchni Ziemi, w powierzchniowej warstwie gleby (co jest wynikiem silnego wiązania przez substancje organiczne), gdzie podlega procesom migracji i resuspensji (unoszeniu do przypowierzchniowej warstwy atmosfery). Niewielkie w porównaniu z opadem globalnym ilości plutonu wprowadziła do środowiska katastrofa w Czarnobylu. W odróżnieniu od opadu globalnego, opad czarnobylski miał charakter bardzo niejednorodny, tzn. na pewnych obszarach (np. Polska północno-wschodnia) występowały niewielkie powierzchniowo tereny o szczególnie dużej zawartości plutonu. Było to związane z opadaniem cząstek zawierających pluton w wyniku wystąpienia np. miejscowych opadów atmosferycznych.
+
+
+
+
+
+

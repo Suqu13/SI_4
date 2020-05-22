@@ -1,0 +1,37 @@
+Rachunek bankowy - zapis stanu należności między dwoma podmiotami, z których jeden jest bankiem. Zamiennie używa się nazwy konto.
+
+Umowa rachunku bankowego
+Umowa rachunku bankowego ma charakter cywilnoprawny, zasady dotyczące jej zawierania regulują kodeks cywilny i prawo bankowe.
+
+W umowie rachunku bank zobowiązuje się do przechowywania środków pieniężnych posiadacza i do dokonywania na jego zlecenie rozliczeń pieniężnych. Załącznikiem do takiej umowy jest karta wzorów podpisów zawierająca nazwiska osób upoważnionych do dysponowania rachunkiem  oraz wzory ich podpisów. W określonych sytuacjach księgowania na rachunku mogą być dokonywane także z inicjatywy banku (np. pobieranie opłat). Bez dyspozycji klienta dokonywane są też zajęcia z tytułów wykonawczych.
+
+Bank zobowiązany jest do realizacji dyspozycji płatniczych zleconych przez posiadacza rachunku bez zbędnej zwłoki. Bank odpowiada za szkody spowodowane niewykonaniem lub nienależytym wykonaniem takiej dyspozycji. O przebiegu księgowań klient informowany jest za pomocą wyciągu z rachunku bankowego.
+
+Bank zobowiązany jest do zachowania tajemnicy bankowej.
+
+Rodzaje rachunków bankowych
+Prawo bankowe określa rodzaje rachunków. Są to:
+rachunek bieżący - służy do przeprowadzania rozliczeń, tj. otrzymywania należności i regulowania zobowiązań; podmioty gospodarcze mają obowiązek posiadania takiego rachunku; dla osób fizycznych, z wyłączeniem operacji związanych z prowadzeniem działalności gospodarczej, prowadzone są rachunki oszczędnościowo-rozliczeniowe 
+rachunek pomocniczy - służy do przeprowadzania rozliczeń w innym banku niż bank prowadzący rachunek bieżący lub do dokonywania operacji w ściśle określonym celu,
+rachunek lokaty terminowej - służy do przechowywania nadwyżek finansowych przez okres wynikający z umowy z bankiem, zachęca do tego wyższe oprocentowanie w stosunku do rachunków bieżących,
+rachunek oszczędnościowy - prowadzony zazwyczaj na rzecz osób fizycznych, dowodem zawarcia umowy takiego rachunku jest książeczka oszczędnościowa lub inny dokument imienny, nie wolno używać go do realizowania rozliczeń związanych z działalnością gospodarczą.
+rachunek walutowy - umożliwia prowadzenie w polskim banku rachunku w walucie obcej. Na rachunku walutowym przedsiębiorstwa mogą gromadzić waluty wymienialne przekazane z zagranicy bądź pochodzące z tytułów, z których zgodnie z obowiązującymi przepisami prawa dewizowego możliwy jest transfer walut wymienialnych, a także z tytułów określonych w indywidualnych zezwoleniach dewizowych.
+
+Można też wyróżnić inne rodzaje rachunków:
+rachunek wspólny - przeznaczony dla więcej niż jednej osoby fizycznej (np. małżonków), które korzystają z niego łącznie lub oddzielnie,
+rachunek maklerski - prowadzony przez biuro maklerskie, służący zakupowi i sprzedaży papierów wartościowych, w sensie prawnym nie spełnia kryteriów rachunku bankowego, gdyż umożliwia także deponowanie papierów wartościowych, które nie są gotówką,
+rachunek kredytowy - służy do obsługi zaciąganych kredytów, w sensie prawnym nie jest rachunkiem bankowym, ponieważ przy zaciągnięciu kredytu pojawia się na nim saldo ujemne, które zmniejsza się przy każdorazowo spłaconej racie kredytowej,
+rachunek NOSTRO - rachunek banku krajowego w banku zagranicznym,
+rachunek LORO - rachunek banku zagranicznego w banku krajowym; dwa ostatnie służą do rozliczeń między bankami.
+
+Numeracja rachunków bankowych == 
+Każdy rachunek posiada swój indywidualny numer. Od 2001 r. polskie banki zastąpiły dotychczasową numerację rachunków numerami w standardzie IBAN, zgodnymi z zaleceniami Unii Europejskiej.
+
+Zobacz też
+Oprocentowanie rachunku
+Bankowość elektroniczna
+
+
+
+
+

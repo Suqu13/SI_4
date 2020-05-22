@@ -1,0 +1,9 @@
+
+
+HP-22S to kalkulator naukowy firmy Hewlett-Packard pracujący w notacji algebraicznej. 
+
+Jest algebraicznym odpowiednikiem HP-32S, jednak nie posiada możliwości programowania. Oprócz typowych funkcji matematycznych kalkulator umożliwia obliczenia statystyczne, posiada funkcje kombinatoryczne, przeliczanie jednostek oraz tryb szesnastkowy, ósemkowy i dwójkowy. Pamięć ogranicza się do 26 literowych rejestrów. Kalkulator posiada bibliotekę gotowych równań do solvera, włączając w to równanie wartości pieniądza w czasie (TVM).
+
+Linki zewnętrzne
+
+w bazie  

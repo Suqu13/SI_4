@@ -1,0 +1,62 @@
+
+Komputer kwantowy – układ fizyczny, do opisu którego wymagana jest mechanika kwantowa, zaprojektowany tak, aby wynik ewolucji tego układu reprezentował rozwiązanie określonego problemu obliczeniowego.
+
+Zasada działania
+
+Dane w komputerach kwantowych są reprezentowane przez aktualny stan kwantowy układu stanowiącego komputer. Jego ewolucja odpowiada procesowi obliczeniowemu. Odpowiednie zaplanowanie ewolucji układu kwantowego, czyli stworzenie odpowiedniego algorytmu kwantowego pozwala teoretycznie na osiągnięcie wyników w znacznie efektywniejszy sposób, niż za pomocą tradycyjnych komputerów.
+
+Podstawowymi elementami budowy kwantowego komputera są kwantowe bramki logiczne. Kwantowy bit, tzw. kubit, zgodnie z prawami mikroświata nie będzie miał ustalonej wartości 1 lub 0, tak jak bit w standardowym komputerze. W trakcie obliczeń będzie się znajdował w jakimś stanie pośrednim. Rządzi tym prawo prawdopodobieństwa, podobnie jak położeniem elektronu w atomie. Kubit jest kwantową superpozycją zera i jedynki. Pojedynczy wynik obliczeń komputera kwantowego będzie niepewny. Istotne staje się wykonanie całej serii obliczeń i dopiero ich średnia wartość z dużą dokładnością określi prawidłowy wynik – tym dokładniejszy, im więcej komputer dokona obliczeń. Kubit niesie w sobie naraz o wiele więcej informacji niż zero-jedynkowy bit. Dlatego jest w stanie wykonać równolegle wiele obliczeń.
+
+Rejestry kwantowe
+Rejestr kwantowy to np. zespół atomów, z których każdy realizuje jeden z kubitów. Każdy ciąg zer i jedynek, o długości równej rozmiarom rejestru, daje się zapisać w kubitach tego układu (tak samo jak w komórkach pamięci rejestru konwencjonalnego, ale w rejestrze takim w danej chwili może być zapisany jeden tylko ciąg zero-jedynkowy). Rejestr kwantowy, jako złożony z kubitów, może być w stanie będącym dowolną superpozycją wielu ciągów zero-jedynkowych. Jeśli w takim rejestrze kwantowym zapisana by została jakaś duża baza danych, wykonanie pewnej operacji na kubitach tego rejestru byłoby równoznaczne z wykonaniem tej operacji na wszystkich danych naraz.
+
+Jeśli rejestr kwantowy zawiera superpozycję bardzo wielu uzyskanych równolegle wyników, to aby wyłuskać z niego potrzebne nam dane, potrzebujemy algorytmów kwantowych. Algorytmy wykonywane przez komputer kwantowy są algorytmami probabilistycznymi. Oznacza to, że uruchamiając ten sam program na komputerze kwantowym dwukrotnie, można by było otrzymać zupełnie różne wyniki ze względu na losowość procesu kwantowego pomiaru.
+
+Historia
+Podstawy teoretyczne
+Na możliwość budowy komputerów wykorzystujących prawa fizyki kwantowej zwrócił uwagę na początku lat 80. Paul Benioff z Argonne National Laboratory w Stanach Zjednoczonych. Kompletną teorię działania komputera kwantowego stworzył w połowie lat 80. David Deutsch z brytyjskiego Uniwersytetu Oksfordzkiego. Dołączył doń następnie polski informatyk i fizyk Artur Ekert, też związany na stałe z Oksfordem. Pomysł wzbudził szersze zainteresowanie w 1994 roku, gdy Peter Shor z AT&T Bell Labs w Murray Hill wymyślił algorytm, który przy użyciu komputera kwantowego mógłby szybko rozkładać bardzo duże liczby na iloczyny liczb pierwszych.
+
+Realizacje fizyczne
+
+
+Kubitami są cząstki elementarne, np. fotony lub elektrony. Pierwsze realizacje kontrolowanych obliczeń kwantowych zaprezentowano w 1995 roku. Jednocześnie w kilku ośrodkach udało się skonstruować kwantowe bramki, które przetwarzałyby kubity. Grupa prof. H. Jeffa Kimble'a z Kalifornijskiego Instytutu Technologii w Pasadenie posłużyła się atomem cezu złapanym w optyczną pułapkę pomiędzy lustrami (rolę kubitów grały fotony o różnej polaryzacji). Z kolei grupa Chrisa Monroe z Narodowego Instytutu Standardów i Technologii w Boulder w Kolorado wykorzystała atom berylu oświetlany światłem lasera. Jeszcze inną bramkę kwantową, wykorzystując atom rydbergowski, stworzył zespół Serge'a Haroche'a z francuskiego Ecole Normale Superieure.
+
+W 2001 roku grupa informatyków z IBM i Uniwersytetu Stanford zademonstrowała działanie algorytmu Shora na 7-kubitowym komputerze kwantowym opartym o jądrowy rezonans magnetyczny. Dokonano wtedy rozkładu liczby 15 =  3 × 5. Faktoryzacji liczby 21 dokonała w 2011 roku inna grupa badaczy.
+
+13 lutego 2007 firma D-Wave Systems zaprezentowała 128-kubitowy układ, nazywany pierwszym na świecie komputerem z rejestrem kwantowym. Nie ma jednak pewności, czy można go tak nazwać: zaprezentowano bowiem jedynie jego działanie, pomijając budowę. W maju 2011 firma Lockheed Martin zakupiła wyprodukowany przez D-Wave Systems komputer za 10 milionów dolarów, podpisując jednocześnie kilkuletni kontrakt na jego obsługę i opracowanie odpowiednich algorytmów. W 2012 roku na komputerze zaprezentowano znajdowanie najniższej energii zwiniętego białka. W 2009 roku D-Wave Systems dla Google stworzyło komputer kwantowy wyszukujący grafiki.
+
+W 2011 roku udało się stworzyć układ złożony z 10 miliardów kubitów, a 2 lata później powiodło się utrzymanie 10 miliardów kubitów w stanie splątanym przez 39 minut.
+
+W styczniu 2012 roku badacze z D-Wave Systems 84-kubitowym komputerem kwantowym obliczono kilka liczb Ramseya. Było to największe dotychczas przeprowadzone obliczenie kwantowe. 3 miesiące później przy pomocy 2 kubitów udowodniono, że algorytm Grovera jest poprawny w 95% przypadków. W kwietniu D-Wave Systems poinformowało o Vesuvius – 512-kubitowym czipie, który może dokonywać więcej niż 10^38 obliczeń na raz, co zajęłoby przeciętnemu PC miliony lat. W sierpniu przy pomocy 5 nadprzewodzących rezonatorów i 4 kubitów fazowych (nadprzewodzące urządzenie bazujące na tunelowaniu Josephsona) pokazano, że algorytm Shora jest poprawny w 50% przypadków, co zgadza się z teorią. Komputery kwantowe są już produkowane przez firmę D-Wave Systems. Maszyny te wykorzystywane przez NASA i Google, to 512-kubitowe jednostki. Z czasem będą rozbudowane do 2048 kubitów. Naukowcy, którzy będą chcieli z nich skorzystać, będą mieli taką możliwość.
+
+Na początku 2014 roku John Smolin i Graeme Smith przedstawili pracę, w której argumentują, że maszyna posiadana przez D-Wave Systems nie jest komputerem kwantowym. W marcu 2014 roku w „Nature Physics” przedstawiono wyniki eksperymentów dowodzących, że D-Wave One jest komputerem kwantowym. Test z czerwca 2014 nie wykazał różnicy pomiędzy klasycznym komputerem a maszyną D-Wave Systems, lecz firma odpowiedziała, że różnica jest zauważalna dopiero dla bardziej zaawansowanych problemów niż te rozwiązywane w teście.
+
+Również National Security Agency pracuje nad zbudowaniem komputera kwantowego.
+
+Zalety obliczeń kwantowych
+Komputer kwantowy, mimo że wykorzystywałby inne właściwości fizyczne niż klasyczne komputery, nie umożliwiałby rozwiązywania nowej klasy problemów. Każdy problem rozwiązywalny przez komputer kwantowy może zostać rozwiązany przez komputer klasyczny. Jednak dzięki specyficznym własnościom komputerów kwantowych pewne problemy można byłoby rozwiązać znacznie szybciej, co w praktyce znacznie poszerzyłoby zakres problemów do jakich mogą być użyte komputery. Klasycznym przykładem jest tutaj algorytm faktoryzacji Shora, służący do rozbijania liczb na czynniki pierwsze. Wykonanie podobnego algorytmu dla kilkudziesięciocyfrowych liczb na współczesnych komputerach przekroczyłoby średnią długość życia człowieka, a dla liczb jeszcze większych – czas istnienia wszechświata. Na komputerach kwantowych możliwe byłoby wykonanie tych operacji w bardziej realnym okresie.
+
+W najczęściej spotykanym modelu obliczeń kwantowych stan układu kwantowego reprezentowany jest za pomocą wektora w skończeniewymiarowej przestrzeni Hilberta (kubit). Natomiast przeprowadzane operacje są opisywane za pomocą macierzy unitarnych.
+
+Ograniczenia obliczeń kwantowych
+Idea kwantowego komputera też ma swoje słabe strony. Najpoważniejsza z nich nazywa się dekoherencją. Polega ona na tym, że stany kwantowe będące superpozycjami stanów stacjonarnych są nadzwyczaj nietrwałe. Pod wpływem oddziaływania czynników zewnętrznych układ „wypada” ze stanu superpozycji i „przeskakuje” do jednego ze stanów stacjonarnych. Dokonuje się to w ciągu drobnego ułamka sekundy. Nawet najmniejszy kontakt z otoczeniem może wpłynąć na wynik pomiaru. Jednym z testowanych sposobów na rozwiązanie tego problemu jest przetrzymywanie atomów w pułapkach magnetycznych i sterowanie nimi za pomocą impulsów światła laserowego.
+
+W 2012 roku udało się stłumić dekoherencję na ok. 2 sekundy w temperaturze pokojowej. Rok później czas ten wyniósł 39 minut.
+
+Zobacz też
+Algorytm kwantowy
+Bramka kwantowa
+Informatyka kwantowa
+Spintronika
+
+
+
+Linki zewnętrzne
+
+
+
+
+
+
+
+

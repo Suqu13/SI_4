@@ -1,0 +1,780 @@
+Lista zbiorowisk roślinnych Polski – zestawienie jednostek syntaksonomicznych roślinności Polski. 
+Lista zbiorowisk
+Zbiorowiska skrajnych siedlisk
+Klasa: Lemnetea minoris – zbiorowiska rzęs tworzących skupienia na powierzchni wód stojących lub bardzo wolno płynących:
+rząd (O.): Lemnetalia minoris
+związek (All.): Lemnion gibbae 
+zespół (Ass.): Lemnetum gibbae – zespół rzęsy garbatej
+zespół (Ass.): Spirodeletum polyrhizae – zespół spirodeli wielokorzeniowej
+związek (All.): Riccio fluitantis-Lemnion trisulcae
+zespół (Ass.): Lemnetum trisulcae – zespół rzęsy trójrowkowej
+zespół (Ass.): Ricciocarpetum natantis – zespół wgłębika pływającego
+zespół (Ass.): Riccietum fluitantis – zespół wgłębki pływającej
+związek (All.): Lemno minoris-Salvinion natantis 
+zespół (Ass.): Lemno minoris-Salvinietum natantis – zespół rzęsy drobnej i salwinii pływającej
+
+Klasa: Zosteretea marinae – łąki podmorskie w strefie głębokości 2-4 m
+rząd (O.): Zosteretalia marinae
+związek (All.): Zosterion
+zespół (Ass.): Zostero-Furcellarietum – zespół zostery i widlika
+
+Klasa: Thero-Salicornietea – zbiorowiska błotnistych siedlisk silnie zasolonych
+rząd (O.): Thero-Salicornietalia
+związek (All.): Salicornion strictae
+zespół (Ass.): Salicornietum dolichostachyae – zespół soliroda zielnego
+związek (All.): Salicornion ramosissimae
+zespół (Ass.): Puccinellio maritimae-Salicornietum brachystachyae – zespół mannicy nadmorskiej i soliroda zielnego
+zespół (Ass.): Puccinellio distantis-Salicornietum brachystachyae – zespół mannicy odstającej i soliroda zielnego
+
+Klasa: Ammophiletea – pionierskie zbiorowiska wydm nadmorskich
+rząd (O.): Ammophiletalia
+związek (All.): Agropyro-Honkenyion peploidis
+zespół (Ass.): Honkcenyo-Agropyretum juncei – zespół honkenii piaskowej i perzu sitowego
+związek (All.): Ammphilion borealis
+zespół (Ass.): Elymo-Ammophiletum arenariae – zespół wydmuchrzycy i piaskownicy zwyczajnej
+
+Klasa: Asplenietea rupestria – zbiorowiska szczelin skalnych w skalistych partiach gór, także antropogeniczne na murach i ruinach: 
+rząd (O.): Potentilletalia caulescentis
+związek (All.): Potentillion cauliescentis
+zespół (Ass.): Drabo-Artemisietum – zespół głodka i bylicy
+zespół (Ass.): Asplenietum trichomano-rutae-murariae – zespół zanokcicy skalnej i murowej
+związek (All.): Cystopteridion
+zespół (Ass.): Asplenio viridis-Cystopteridetum – zespół zanokcicy zielonej i paprotnicy
+rząd (O.): Androsacetalia vandellii
+związek (All.): Androsacion vandellii
+zespół (Ass.): Asplenietum septentrionali-adianti-nigri – zespół zanokcicy północnej i ciemnej
+zespół (Ass.): Asplenietum cuneifolii – zespół zanokcicy klinowatej
+zbiorowisko: Asplenium trichomanes-Asplenium septentrionale
+
+Klasa: Thlaspietea rotundifolii – pionierskie zbiorowiska na ruchomych lub słabo utrwalonych piargach w skalistych partiach gór oraz na kamieńcach w górskich odcinkach dolin rzecznych
+rząd (O.): Thlaspietalia rotundifolii
+związek (All.): Papaverion tatrici
+zespół (Ass.): Silenetum prostratae
+zespół (Ass.): Oxyrio digynae-Papaveretum tatrici
+zespół (Ass.): Cerastio latifolii-Papaveretum tatrici
+zespół (Ass.): Gymnocarpietum robertiani – zespół cienistki roberta
+rząd (O.): Androsacetalia alpinae
+związek (All.): Androsacion alpinae
+zespół (Ass.): Oxyrio digynae-Saxifragetum carpaticae – zespół szczawioru alpejskiego i skalnicy karpackiej
+zespół (Ass.): Cryptogrammetum crispae –zespół zmienki górskiej
+rząd (O.): Epilobietalia fleischeri
+związek (All.): Epilobion fleischeri
+zbiorowisko: Calamagrostis pseudophragites
+zbiorowisko: Myricaria germanica
+związek (All.): Arabidion alpinae
+zespół (Ass.): Poa nemoralis-Arabidetum alpinae – zespół wiechliny gajowej i gęsiówki alpejskiej
+zespół (Ass.): Drepanoclado uncinati-Salicetum kitaibellianae – zespół sierpcowca haczykowatego i wierzby wykrojonej
+
+Zbiorowiska terofitów wilgotnych siedlisk
+Klasa: Cakiletea maritimi
+rząd (O): Atriplicetalia litoralis
+związek (All.): Atriplicion litoralis – halofilne i nitrofilne zbiorowiska terofitów zasiedlających kidzinę na plaży
+zespół (Ass.): Atriplicetum litoralis
+
+Klasa: Bidentetea tripartiti – umiarkowanie nitrofilne zbiorowiska terofitów letnich na wysychających latem brzegach śródlądowych zbiorników wodnych
+rząd (O.): Bidentetalia tripartiti
+związek (All.): Bidention tripartiti
+zespół (Ass.): Polygono-Bidentetum – zespół rdestów i uczepów
+zespół (Ass.): Catabroso-Polygonetum hydropiperis – zespół brodobrzanki wodnej i rdestu ostrogorzkiego
+zespół (Ass.): Leersio-Bidentetum – zespół zamokrzycy ryżowej
+zespół (Ass.): Rumicetum maritimi – zespół szczawiu nadmorskiego
+związek (All.): Chenopodion fluviatilie
+zespół (Ass.): Polygono brittingeri-Chenopodietum rubri – zespół rdestu Brittingera i komosy czerwonawej
+zespół (Ass.): Xanthio riparii-Chenopodietum – zespół rzepienia włoskiego i komos
+zespół (Ass.): Chenopodietum glauco-rubri – zespół komosy sinej i czerwonawej
+
+Klasa: Isoeto-Nanojuncetea – zbiorowiska terofitów na wilgotnych i mokrych podłożach mineralnych dostępnych dla roślinności tylko przez krótki czas w ciągu roku
+rząd (O.): Cyperetalia fusci
+związek (All.): Elatini-Eleocharition ovatae
+zespół (Ass.): Eleocharetum ovatae
+zespół (Ass.): Cyperetum flavescentis
+zbiorowisko: Cyperus fuscus-Limosella aqyatica
+związek (All.): Radiolion linoidis
+zespół (Ass.): Centunculo-Anthoceratum punctati
+zespół (Ass.): Spergulario-Illecebretum verticillati
+zespół (Ass.): Ranunculo-Myosuretum minimi
+zbiorowisko: Centaurium pulchellum-Pottia truncata
+zespół (Ass.): Stellario-Isolepidetum seacei
+zespół (Ass.): Ranunculo gracilis-Radioletum
+
+Antropogeniczne zbiorowiska pól uprawnych i jednorocznych roślin terenów ruderalnych
+Klasa: Stellarietea mediae – zbiorowiska z dominacją roślin jednorocznych na siedliskach ruderalnych i segetalnych
+rząd (O.): Centauretalia cyanii
+związek (All.): Arnoseridoenion minime
+zespół (Ass.): Arnoserido-Scleranthetum
+zbiorowisko: Scheranthum annuus
+związek (All.): Aphanenion arvensis
+zespół (Ass.): Vicietum tetraspermae
+zespół (Ass.): Aphano-Matricarietum
+zespół (Ass.): Consolido-Brometum
+zespół (Ass.): Papaveretum argemonoes
+związek (All.): Caucaliodion lappulae
+zespół (Ass.): Caucalido-Scandicetum
+zespół (Ass.): Lathyro-Melandrietum noctiflori
+zespół (Ass.): Geranio-Silenetum gallicae
+zespół (Ass.): Kickxietm spuriae
+zespół (Ass.): Sileno inflatae-Linarietum minoris
+związek (All.): Lolio-Linion
+zespół (Ass.): Spergulo-Lolietum remoti
+rząd (O.): Polygono-Chenopodietalia
+związek (All.): Panico-Setarion
+zespół (Ass.): Echinochloo-Setarietum
+zbiorowisko: Lycopsis arvensis
+zespół (Ass.): Digitarietum ischaemi
+związek (All.): Polygono-Chenopodion
+zespół (Ass.): Lamio-Veronicetum politae
+zespół (Ass.): Veronico-Fumarietum officinalis
+zespół (Ass.): Spergulo-Chrysanthemetum segeti
+zespół (Ass.): Oxalido-Chenopodietum polyspermi
+zespół (Ass.): Galinsogo-Setarietum
+rząd (O.): Eragrostietalia
+związek (All.): Eragrostion
+zespół (Ass.): Panico sanguinalis-Eragrostietum
+rząd (O.): Sisymbrietalia
+związek (All.): Sisymbrion officinalis
+zespół (Ass.): Corispermo-Plantaginetum indicae
+zespół (Ass.): Corispermo-Brometum tectorum
+zespół (Ass.): Cheopodio rubri-Atricaplicetum patulae
+zespół (Ass.): Sisymbrietum sophiae
+zespół (Ass.): Sisymbrietum loeselii
+zespół (Ass.): Hordeetum murini
+zespół (Ass.): Urtico-Malvetum neglectae
+zespół (Ass.): Salsoletum ruhtenicae
+zespół (Ass.): Chenopodietum stricti
+zespół (Ass.): Erigeronto-Lactucetum
+zespół (Ass.): Atriplicetum nitentis
+zespół (Ass.): Atriplicetum tataricae
+zespół (Ass.): Xanthietum strumarii
+zespół (Ass.): Senecioni-Tussilaginetum
+zespół (Ass.): Erigeronto-Bryetum
+
+Nitrofilne zbiorowiska zrębów, terenów ruderalnych i zadeptanych
+Klasa: Epilobietea angustifolii – nitrofilne zbiorowiska porębowe składające się głównie z terofitów, bylin i krzewów
+rząd (O.): Atropetalia
+związek (All.): Epilobion angustifolii
+zespół (Ass.): Senecioni sylvatici-Epilobietum angustifolii
+zespół (Ass.): Digitali purpureae-Epilobietum
+zespół (Ass.): Verbasco-Epilobietum
+zespół (Ass.): Calamagrostietum epigeji
+związek (All.): Atropion belladonnae
+zespół (Ass.): Atropetalum belladonnae
+zespół (Ass.): Arctietum nemorosi
+związek (All.): Sambuco-Salicion
+zespół (Ass.): Senecionetum fuchsii
+zespół (Ass.): Rubetum idaei
+zespół (Ass.): Sambucetum nigrae
+zespół (Ass.): Sambucetum racemosae
+zespół (Ass.): Epilobio-Salicetum capreae
+
+Klasa: Artemisietea vulgaris – nitrofilne zbiorowiska okazałych bylin i pnączy na siedliskach ruderalnych i nad brzegami zbiorników wodnych
+Podklasa (SubCl.): Artemisienea vulgaris
+rząd (O.): Onopordetalia acanthii
+związek (All.): Onopordion acanthii
+podzwiązek (SubAll.): Onopordenion acanthii
+zespół (Ass.): Onopordetum acanthii
+zespół (Ass.): Potentillo-Artemisietum absinthii
+podzwiązek (SubAll.): Dauco-Melilotenion
+zespół (Ass.): Artemisio-Tanacetetum vulgaris
+zespół (Ass.): Berteroetum incanae
+zespół (Ass.): Dauco-Picridetum hieracioidis
+zespół (Ass.): Echio-Melilotetum
+zespół (Ass.): Erysimo-Melilotetum
+zespół (Ass.): Salvio verticillatae-Artemisietum
+zespół (Ass.): Carduetum acanthoidis
+rząd (O.): Artemisietalia vulgaris
+związek (All.): Arction lappae
+zespół (Ass.): Leonuro-Ballotetum nigrae
+zespół (Ass.): Chenopodietum boni-henrici
+zespół (Ass.): Arctio-Artemisietum vulgaris
+zespół (Ass.): Lamio albi-Conietum maculati
+zespół (Ass.): Ivetum xanthifoliae
+
+Podklasa: Galio-Urticenea – naturalne i półnaturalne nitrofilne zbiorowiska okrajkowe na żyznych siedliskach świeżych, wilgotnych lub mokrych, w różnym stopniu zacienionych
+rząd (O.): Glechometialia hederaceae
+związek (All.): Aegopodion podagrariae
+zespół (Ass.): Chaerophylletum bulbosi
+zespół (Ass.): Phalarido-Petasitetum hybridi
+zespół (Ass.): Chaerophylletum aromatici
+zespół (Ass.): Anthriscetum sylvestris
+zespół (Ass.): Urtico-Aegopodietum podagrariae
+zespół (Ass.): Sambucetum ebuli
+związek (All.): Alliarion
+zespół (Ass.): Alliario-Chaerophylletum temuli
+zespół (Ass.): Torilidetum japonicae
+zespół (Ass.): Epilobio-Geranietum robertiani
+związek (All.): Rumicion alpini
+zespół (Ass.): Rumiecetum alpini – zespół szczawiu alpejskiego
+rząd (O.): Convolvuletalia sepium
+związek (All.): Senecion fluviatilis 
+zespół (Ass.): Calystego-Angelicetum archangelicae litoralis – zespół kielisznika zaroślowego i dzięgla litwora nadbrzeżnego
+zespół (Ass.): Cuscuto-Calystegietum sepium – zespół kanianki i kielisznika zaroślowego
+zespół (Ass.): Senecionetum fluviatilis – zespół starca jajowatego
+zespół (Ass.): Asperulo-Calystegietum sepium – zespół przytulii lepczycy i kielisznika zaroślowego
+zespół (Ass.): Rudbeckio-Solidaginetium – zespół rudbekii nagiej i nawłoci
+związek (All.): Convolvulion sepium
+zespół (Ass.): Urtico-Calystegieto sepium – zespół pokrzywy zwyczajnej i kielisznika zaroślowego
+zespół (Ass.): Calystegio-Eupatorietum – zespół kielisznika zaroślowego i sadźca konopiastego
+zespół (Ass.): Calystegio-Epilobietum hirsuti – zespół kielisznika zaroślowego i wierzbownicy kosmatej
+
+Klasa: Agropyretea intermedio-repentis – półruderalne zbiorowiska pionierskie głównie z udziałem roślin kłączowych i rozłogowych
+rząd (O.): Agropyretalia intermedio-Repentis
+związek (All.): Convolvulo-Agropyrion repentis
+zespół (Ass.): Convolvulus arvensis-Agropyretum repentis – zespół powoju polnego i perzu
+zespół (Ass.): Diplotaxi tenuifoliae-Agropyretum repentis – zespół dwurzędu wąskolistnego i perzu
+zespół (Ass.): Cardario drabae-Agropyretum repentis – zespół pieprzycznika przydrożnego i perzu
+zespół (Ass.): Falcario vulgaris-Agropyretum repentis – zespół sierpnicy pospolitej i perzu
+zespół (Ass.): Poo-Anthemetum tinctoriae – zespół wiechliny ścieśnionej i rumianu żółtego
+zespół (Ass.): Poo-Tussilaginetum farfarae – zespół wiechliny ścieśnionej i podbiału pospolitego
+
+Zbiorowiska roślin wodnych, zazwyczaj zakorzenionych
+Klasa: Ruppietea maritimae 
+Rząd (O.): Ruppietalia maritimae
+związek (All.): Ruppion maritimae
+zespół (Ass.): Charetum balticae
+zespół (Ass.): Tolypelletum nidificae
+
+Klasa: Charetea – podwodne łąki ramienicowe
+Rząd (O.): Charetalia
+związek (All.): Nitellion flexilis
+zespół (Ass.): Nitelletum flexilis
+zespół (Ass.): Nitelletum gracilis
+zespół (Ass.): Nitelletum mucronatae
+zespół (Ass.): Nitelletum opacae
+zespół (Ass.): Nitelletum synocarpae
+zespół (Ass.): Charetum coronatae
+związek (All.): Charion fragilis
+zespół (Ass.): Charetum fragilis
+zespół (Ass.): Charetum hispidae
+zespół (Ass.): Charetum polyacanthae
+zespół (Ass.): Charetum tenuispinae
+zespół (Ass.): Charetum asperae
+zespół (Ass.): Charetum aculeolatae
+zespół (Ass.): Charetum contrariae
+zespół (Ass.): Charetum jubatae
+zespół (Ass.): Charetum rudis
+zespół (Ass.): Charetum striogosae
+zespół (Ass.): Charetum tomentosae
+zespół (Ass.): Nitellopsidetum obtusae
+zespół (Ass.): Charetum vulgaris
+
+Klasa: Potametea – zbiorowiska makrofitów w mezotroficznych i eutroficznych zbiornikach wód śródlądowych
+Rząd (O.): Potametalia
+związek (All.): Potamion
+zespół (Ass.): Potametum graminei – zespół rdestnicy trawiastej
+zespół (Ass.): Potametum nitentis – zespół rdestnicy lśniącej
+zespół (Ass.): Potametum pectinati – zespół rdestnicy grzebieniastej
+zespół (Ass.): Potametum filiformis – zespół rdestnicy nitkowatej
+zespół (Ass.): Parvopotamo-Zannichellietum – zespół morski zamętnicy błotnej
+zespół (Ass.): Najadetum intermiediae – zespół jezierzy 
+zespół (Ass.): Potamo-Najadetum marinae – zespół jezierzy i zamętnicy błotnej
+zespół (Ass.): Zannichellietum palustris – zespół śródlądowy zamętnicy błotnej
+zespół (Ass.): Potametum acutifolii – zespół rdestnicy ostrolistnej
+zespół (Ass.): Ranunculetum circinati – zespół włosienicznika krążkolistnego
+zespół (Ass.): Elodeetum canadensis – zespół moczarki kanadyjskiej
+zespół (Ass.): Ceratophylletum demersi – zespół rogatka sztywnego
+zespół (Ass.): Myriophylletum spicati – zespół wywłócznika kłosowego
+zespół (Ass.): Potametum compressi – zespół rdestnicy ścieśnionej
+zespół (Ass.): Potametum lucentis – zespół rdestnicy połyskującej
+zespół (Ass.): Potametum perfoliati – zespół rdestnicy przeszytej
+zespół (Ass.): Potametum friesi – zespół rdestnicy szczeciolistnej
+zespół (Ass.): Hippuridetum submersae – zespół przęstki pospolitej
+związek (All.): Nymphaeion 
+zespół (Ass.): Hydrocharitetum morsus-ranae – zespół żabiścieku pływającego
+zespół (Ass.): Potametum natantis – zespół rdestnicy pływającej
+zespół (Ass.): Myriophylletum verticillati – zespół wywłócznika okółkowego
+zespół (Ass.): Nupharo-Nymphaeetum albae – zespół „lilii wodnych”
+zespół (Ass.): Nupharetum pumilii – zespół grążela drobnego
+zespół (Ass.): Nymphaeetum candidae – zespół grzybieni północnych
+zespół (Ass.): Nymphoidetum peltatae – zespół grzybieńczyka wodnego
+zespół (Ass.): Trapetum natantis – zespół kotewki orzecha wodnego
+zespół (Ass.): Polygonetum natantis – zespół rdestu ziemnowodnego
+zespół (Ass.): Potametum obtusifolii – zespół rdestnicy stępionej
+zespół (Ass.): Hydrilletum verticillatae – zespół przesiąkry okółkowej
+związek (All.): Hottonion 
+zespół (Ass.): Hottonietum palustris – zespół okrężnicy bagiennej
+związek (All.): Ranunculion fluitantis
+zespół (Ass.): Ranunculetum fluitantis – zespół włosienicznika rzecznego
+zespół (Ass.): Ranunculo-Callitrichetum hamulatae – zespół rzęśli hakowatej
+zespół (Ass.): Ranunculo-Sietum erecto-sumersi – zespół potocznika wąskolistnego
+
+Klasa: Utricularietea intermedio-minoris – zbiorowiska roślin wodnych w w zbiornikach dystroficznych i oligotroficznych
+Rząd (O.): Utricularietalia intermedio-minoris
+związek (All.): Sphagno-Utricularion
+zespół (Ass.): Sparganium minimi – zespół jeżogłówki najmniejszej
+zespół (Ass.): Scorpidio-Utricularietum minoris – zespół skorpionowca brunatnawego i pływacza drobnego
+zespół (Ass.): Sphagno-Utricularietum ochroleucae – zespół torfowców i pływacza krótkoostrygowego
+zespół (Ass.): Warnstofietum exannulatae
+zbiorowisko z dominacją Sphagnum denticulatum, S. cuspidatum] lub Warnstorfia fluitans
+
+Klasa: Littorelletea uniflorae – zbiorowiska drobnych bylin wodnych lub ziemnowodnych w miękkowodnych, oligotroficznych lub mezotroficznych wodach śródlądowych
+Rząd (O.): Littorelletalia uniflorae
+związek (All.): Isoetion lacustris
+zespół (Ass.): Isoetetum lacustris
+zespół (Ass.): Isoetetum echinosporae
+związek (All.): Lobelion
+zespół (Ass.): Lobelietum dortmannae
+zespół (Ass.): Myriophyllo-Littorelletum
+zespół (Ass.): Ranunculo-Juncetum bulbosi
+związek (All.): Hydrocotyle-Baldelion
+zespół (Ass.): Pilularietum globuliferae
+zespół (Ass.): Eleocharitetum multicaulis
+związek (All.): Eleocharition acicularis
+zespół (Ass.): Elecharitetum acicularis
+zespół (Ass.): Luronietum natantis
+
+Zbiorowiska źródlisk i wyleżysk
+Klasa: Montio-Cardaminetea – zbiorowiska źródlisk i wyleżysk
+rząd (O.): Montio-Caraminetalia
+związek (All.): Cardamino-Montion
+grupa zespołów (GrAss.): Montenion – zespoły górskie Cardamino-Montion
+zespół (Ass.): Bryo-Philonotidetum seriatae
+zespół (Ass.): Montio-Philinotidetum fontanae
+zespół (Ass.): Cardamino opizii-Philonotidetum caespitosae
+grupa zespołów (GrAss.): Cardaminenion – zespoły niżowe Cardamino-Montion
+zespół (Ass.): Chrysosplenietum oppositifolii
+zbiorowisko: Cardamine amara-Chrysosplenium alternifolium
+związek (All.): Cratoneurion commutati
+zespół (Ass.): Cratoneuretum falcati
+zespół (Ass.): Cratoneuro-Saxiragetum aizoidis
+zespół (Ass.): Cochlearietum polonicae
+ 
+
+Klasa: Salicetea herbaceae – wysokogórskie zbiorowiska wyleżysk śnieżnych tj. miejsc o silnie skróconym okresie wegetacji z racji długiego zalegania pokrywy śnieżnej
+rząd (O.): Salicetalia herbaceae
+związek (All.): Salicion herbaceae
+zespół (Ass.): Polytrichetum sexangulari
+zespół (Ass.): Salicetum herbaceae
+zespół (Ass.): Luzuletum alpino-pilosae
+zespół (Ass.): Poo-Cerastietum cerastoidis
+rząd (O.): Arabidetalia coeruleae
+związek (All.): Arabidion coeruleae
+zespół (Ass.): Saxifragetum wahlenbergii
+zespół (Ass.): Salicetum retuso-reticulatae
+
+Zbiorowiska szuwarów i słonych łąk
+Klasa: Phragmitetea – szuwary
+rząd (O.): Phragmitetalia
+związek (All.): Phragmition – szuwary właściwe
+zespół (Ass.): Hippuridetum vulgaris – zespół formy lądowej przęstki pospolitej
+zespół (Ass.): Scirpetum lacustris – zespół oczeretu jeziornego (szuwar oczeretowy, oczerety)
+zespół (Ass.): Typhetum angustifoliae – zespół pałki wąskolistnej (szuwar wąskopałkowy)
+zespół (Ass.): Sagittario-Sparganietum emersi – zespół strzałki wodnej i jeżogłówki pojedynczej
+zespół (Ass.): Sparganietum erecti – zespół jeżogłówki gałęzistej
+zespół (Ass.): Eleocharitetum palustris – zespół ponikła błotnego
+zespół (Ass.): Equisetetum fluviatilis – zespół skrzypu bagiennego
+zespół (Ass.): Phragmitetum australis – zespół trzciny pospolitej (szuwar trzcinowy, trzcinowisko)
+zespół (Ass.): Typhetum latifoliae – zespół pałki szerokolistnej (szuwar szerokopałkowy)
+zespół (Ass.): Acoretum calami – zespół tataraku zwyczajnego (szuwar tatarakowy)
+zespół (Ass.): Oenantho-Rorippetum – zespół kropidła wodnego i rzepichy ziemnowodnej
+zespół (Ass.): Glycerietum maximae – zespół manny mielec (szuwar mannowy)
+zespół (Ass.): Scirpetum maritimi – zespół oczeretu Tabernemontana i sitowca nadmorskiego
+związek (All.): Magnocaricion – szuwary wielkoturzycowe
+zespół (Ass.): Cladietum marisci – zespół kłoci wiechowatej
+zespół (Ass.): Thelypteridi-Phragmitetum – zespół nerecznicy błotnej (pło paprociowe)
+zespół (Ass.): Cicuto-Caricetum pseudocyperi – zespół szaleju jadowitego i turzycy nibyciborowatej (pło szalejowe)
+zespół (Ass.): Iridetum pseudacori – zespół kosaćca żółtego (szuwar kosaćcowy)
+zespół (Ass.): Caricetum ripariae – zespół turzycy brzegowej
+zespół (Ass.): Caricetum acutiformis – zespół turzycy błotnej
+zespół (Ass.): Caricetum paniculatae – zespół turzycy prosowej
+zespół (Ass.): Caricetum rostratae – zespół turzycy dzióbkowatej
+zespół (Ass.): Caricetum elatae – zespół turzycy sztywnej
+zespół (Ass.): Caricetum appropinquatae – zespół turzycy tunikowej
+zespół (Ass.): Caricetum distichae – zespół turzycy dwustronnej
+zespół (Ass.): Caricetum gracilis – zespół turzycy zaostrzonej
+zespół (Ass.): Caricetum vesicariae – zespół turzycy pęcherzykowatej
+zespół (Ass.): Caricetum vulpinae – zespół turzycy lisiej
+zespół (Ass.): Phalaridetum arundinaceae – zespół mozgi trzcinowatej (szuwar mozgowy)
+zespół (Ass.): Caricetum buxbaumii – zespół turzycy Buxbauma
+związek (All.): Sparganio-Glycerion fluitantis – szuwary trawiaste brzegów wód płynących
+zespół (Ass.): Sparganio-Glycerietum fluitantis – zespół manny jadalnej
+zespół (Ass.): Glycerietum plicatae – zespół manny fałdowanej
+zespół (Ass.): Leersietum oryzoidis – zespół zamokrzycy ryżowej
+zespół (Ass.): Nasturtietum oficinalis 
+
+klasa: Asteretea tripolium – halofilne łąki lub szuwary, w supralitoralu zbiorników wód słonych i słonawych
+rząd (O.): Glauco-Puccinellietalia
+związek (All.): Puccinelion maritimae
+zespół (Ass.): Puccinellietum maritimae
+zespół (Ass.): Puccinello-Spergularietum salinae
+związek (All.): Armerion maritimae
+zespół (Ass.): Juncetum gerardi
+zespół (Ass.): Plantagini-Bupleuretum tenuissimi
+zespół (Ass.): Triglochino-Glaucetum maritimae
+
+Trawiaste zbiorowiska łąk i muraw o podłożu mineralnym
+klasa: Viletea calaminariae – murawy galmanowe, niskie murawy na glebach o wysokiej zawartości metali ciężkich
+rząd (O.): Violetalia calaminariae
+związek (All.): Armerion halleri
+zespół (Ass.): Armerietum halleri
+
+klasa: Koelerio glaucae-Corynephoretea canescentis- murawy na piaszczystych lub żwirowatych, suchych i raczej ubogich siedliskach niewapiennych
+rząd (O.): Corynephoretalia canescentis
+związek (All.): Corynephorion canescentis
+zespół (Ass.): Spergulo vernalis-Corynephoretum – murawy szczotlichowe
+zespół (Ass.): Corniculario-Cladonietum mitis
+zespół (Ass.): Polytricho piliferi-Stereocauletum condensati
+zespół (Ass.): Agrostietum coarctatae (vinealis)''
+związek (All.): Koelerion albescentis
+zespół (Ass.): Helichryso-Jasionetum litoralis
+zespół (Ass.): Trifolio-Anthyllidetum maritimae
+związek (All.): Vicio lathyroidis-Poetntillon argenteae
+zespół (Ass.): Filagini-Vulpietum
+zespół (Ass.): Airetum praecocis
+zespół (Ass.): Airo caryophylleae-Festucetum ovinae
+zespół (Ass.): Sclerantho-Herniarietum glabrae
+zespół (Ass.): Sileno conicae-Cerastietum semidecandri
+zespół (Ass.): Diantho-Armerietum elongate
+zespół (Ass.): Festuco rubrae-Equisetetum ramosissimi
+związek (All.): Koelerion glaucae
+zespół (Ass.): Corynephoro-Silenetum tataricae
+zespół (Ass.): Sileno otitis-Festucetum
+zespół (Ass.): Festuco psammophilae-Koelerietum glaucae
+zespół (Ass.): Koelerio-Astragaletum arenarii
+zespół (Ass.): Festuco-Elymetum arenarii
+zespół (Ass.): Cerastio-Androsacetum septentrionalis
+zespół (Ass.): Kochietum arenariae
+zespół (Ass.): Diantho arenarii-Festucetum polesicae
+zespół (Ass.): Thymo-Potentilletum puberulae
+
+klasa: Molinio-Arrhenatheretea- półnaturalne i antropogeniczne darniowe zbiorowiska łąkowe i pastwiskowe na mezotroficznych i eutroficznych, niezabagnionych glebach mineralnych i organiczno-mineralnych lub na zmineralizowanych i podsuszonych murszach z torfu niskiego
+rząd (O.): Plantaginetalia majoris
+związek (All.): Polygonion avicularis
+zespół (Ass.): Lolio-Polygonetum arenastri
+zespół (Ass.): Festuco pratensis-Plantaginetum
+zespół (Ass.): Bryo-Saginetum procumbentis
+zespół (Ass.): Bryo-Saginetum saginoidis
+zespół (Ass.): Prunello-Plantaginetum
+zespół (Ass.): Juncetum tenuis
+zespół (Ass.): Poetum annuae
+zespół (Ass.): Eragrostio-Polygonetum avicularis
+zespół (Ass.): Polygonetum calcati
+zespół (Ass.): Rumici-Spergularietum rubrae
+zespół (Ass.): Herniarietum glabrae
+zespół (Ass.): Polygono-Coronopetum squamati, synonimy: Coronopo-Polygonetum avicularis, Poo-Coronopetum squamati
+rząd (O.): Trifolio fragiferae-Agrosteitalia stoloniferae
+związek (All.): Agropyro-Rumicion crispi – murawy zalewowe
+zespół (Ass.): Ranunculo-Alopecuretum geniculati
+zespół (Ass.): Rorippo-Agrostietum
+zespół (Ass.): Potentillo-Festucetum arundinaceae
+zespół (Ass.): Blysmo-Juncetum compressi
+zespół (Ass.): Mentho longifoliae-Juncetum inflexi
+zbiorowisko: Agrostis stolonifera-Potentilla anserina
+zbiorowisko: Ranunculus repens
+rząd (O.): Molinietalia caerulae
+związek (All.): Filipendulion ulmariae, synonimy: Filipendulo-Petasition
+zespół (Ass.): Filipendulo-Geranietum
+zespół (Ass.): Valeriano-Filipenduletum
+zespół (Ass.): Lysimachio vulgaris-Filipenduletum
+zespół (Ass.): Lythro-Filipenduletum ulmariae
+zespół (Ass.): Filipendulo ulmariae-Menthetum longifoliae
+zespół (Ass.): Veronico longifoliae-Euphorbietum palustris
+związek (All.): Molinion caeruleae – łąki trzęślicowe
+zespół (Ass.): Molinietum caeruleae, synonimy: Molinietum medioeuropaeum, Selino carvifoliae-Molinietum 
+zespół (Ass.): Junco-Molinietum
+związek (All.): Calthion palustris - łąki kaczeńcowe 
+grupa zespołów (GrAss.): eutroficzne łąki wilgotne Calthion palustris
+zespół (Ass.): Angelico-Cirsietum oleracei, synonimy: Cirsio-Polygonetum vistorta 
+zespół (Ass.): Cirsietum rivularis
+zespół (Ass.): Polygono bistortae-Trollietum europaei
+grupa zespołów (GrAss.): mezotroficzne łąki wilgotne Calthion palustris
+zespół (Ass.): Sanguisorbo-Silaetum, synonimy: Bromo-Senecionetum aquatici, Senecioni-Brometum racemosi 
+zespół (Ass.): Poo-Lathyretum palustris
+grupa zespołów (GrAss.): mokre łąki, częściowo zabagnione Calthion palustris
+zespół (Ass.): Scirpetum silvatici
+zespół (Ass.): Caricetum cespitosae
+zespół (Ass.): Juncetum acutiflori
+zespół (Ass.): Juncetum subnodulosi
+zbiorowisko: Deschampsia caespitosa, synonimy: Deschampsietum caespitosae
+grupa zespołów (GrAss.): zbiorowiska łąkowo-pastwiskowe Calhtion palustris
+zespół (Ass.): Epilobio-Juncetum effusi
+zespół (Ass.): Junco-Cynosuretum
+zespół (Ass.): Cnidion dubii
+zespół (Ass.): Violo-Cnidietum dubii
+związek (All.): Alopecurion pratensis
+zespół (Ass.): Alopecuretum pratensis
+rząd (O.): Arrhenatheretalia elatioris
+związek (All.): Arrhenatherion elatioris
+zespół (Ass.): Arrhenatheretum elatioris – łąka rajgrasowa, znana też jako łąka owsicowa
+zbiorowisko: Poa pratensis-Festuca rubra
+zespół (Ass.): Gladiolo-Agrostietum capillaris
+zespół (Ass.): Anthyllidi-Trifolietum montani – sucha łąka pienińska
+związek (All.): Polygono-Trisetion
+zespół (Ass.): Meo-Festucetum, synonimy: Geranio-Trisetetum flavescenstis
+zespół (Ass.): Phyteumo (orbicularis)-Trifolietum pratensis
+związek (All.): Cynosurion
+zespół (Ass.): Lolio-Cynosuretum
+zespół (Ass.): Festuco-Cynosuretum
+
+klasa: Seslerietea variae – wysokogórskie murawy nawapiene
+rząd (O.): Seslerietalia variae
+związek (All.): Seslerion tatrae
+zespół (Ass.): Carici sempervirentis-Festucetum tatrae
+zespół (Ass.): Festuca versicoloris-Seslerietum tatrae
+zespół (Ass.): Caricetum firmae (carpaticum)''
+zespół (Ass.): Festuco versicoloris-Agrostietum alpinae
+zespół (Ass.): Dendranthemo-Seslerium variae
+zespół (Ass.): Saxifrago-Festucetum versicoloris
+
+klasa: Juncetea trifidi, synonimy: Caricetea curvulae – wysokogórskie naturalne murawy acydofilne – klimaksowe zbiorowiska w alpejskich i subniwalnych piętrach bezwapiennych gór Europy
+rząd (O.): Caricetalia curvulae
+związek (All.): Juncion trifidi
+zespół (Ass.): Oreochloo distichae-Juncetum trifidi
+zespół (Ass.): Oreochloetum distichae (subnivale)''
+zespół (Ass.): Junco trifidi-Festucetum airoidis
+zespół (Ass.): Carici (rigidae)-Festucetum airoidis
+
+klasa: Festuco-Brometea – murawy kserotermiczne, ciepłolubne murawy o charakterze stepowym
+rząd (O.): Festucetalia valesiacae – zborowiska ciepłolubnych muraw Europy południowo-wschodniej i południowej
+związek (All.): Seslerio-Festucion duriusculae
+zespół (Ass.): Festucetum pallentis
+związek (All.): Festuco-Stipion
+zespół (Ass.): Sisymbrio-Stipetum capillatae
+zespół (Ass.): Potentillo-Stipetum capillatae
+zespół (Ass.): Koelerio-Festucetum rupicolae
+związek (All.): Cirsio-Brachypodion pinnati
+zespół (Ass.): Inuletum ensifoliae
+zespół (Ass.): Thalictro-Salvietum pratensis
+zespół (Ass.): Adonido-Brachypodietum pinnati
+zespół (Ass.): Seslerio-Scorzoneretum purpureae
+zbiorowisko: Carex glauca-Tetragonolobus maritimus ssp. siliguosus
+zespół (Ass.): Origano-Brachypodietum
+
+Zbiorowiska torfowisk mszysto-turzycowych i mszarów
+Klasa: Scheuchzerio-Caricetea nigrae – niskoturzycowe, bogate w mszaki zbiorowiska łąk bagiennych, emersyjnych darniowych torfowisk przejściowych i niskich oraz dolinkowej fazy torfowisk wysokich
+rząd (O.): Scheuchzerietalia palustris – rojsty
+związek (All.): Rhynchosporion albae
+zespół (Ass.): Caricetum limosae
+zespół (Ass.): Rhynchosporetum albae
+związek (All.): Caricion lasiocarpae
+zespół (Ass.): Caricetum lasiocarpae
+zespół (Ass.): Caricetum diandrae
+zespół (Ass.): Caricetum chordorrhizae
+zespół (Ass.): Caricetum helenastes
+zespół (Ass.): Calamagrostietum neglectae
+zbiorowisko: Sphagnum recurvum-Eriophorum angustifolium
+rząd (O.): Caricetalia nigrae
+związek (All.): Caricion nigrae – kwaśne młaki niskoturzycowe
+zespół (Ass.): Carici canescentis-Agrostietum caninae
+zespół (Ass.): Caricetum nigrae (subalpinum)''
+zespół (Ass.): Bartsio-Caricetum nigrae
+rząd (O.): Caricetalia davallianae
+związek (All.): Caricion davallianae – eutroficzne młaki niskoturzycowe
+zespół (Ass.): Valeriano-Caricetum flavae
+zespół (Ass.): Caricetum davallianae
+zespół (Ass.): Orchido-Schoenetum nigricantis
+zbiorowisko: Schoenus ferrugineus
+
+Klasa: Oxycocco-Sphagnetea – krzewinkowo-torfowcowe zbiorowiska mokrych wrzosowisk i torfowisk wysokich na kwaśnych oligotroficznych i dystroficznych siedliskach zasilanych głównie lub wyłącznie przez wody opadowe
+rząd (O.): Sphagno-Ericetalia
+związek (All.): Ericion tetralicis
+zespół (Ass.): Ericetum tetralicis
+rząd (O.): Sphagnetalia magellanici – mszary
+związek (All.): Sphagnion magellanici
+grupa zespołów (GrAss.): torfowiska wysokie nieleśne
+zespół (Ass.): Erico-Sphagnetum medii
+zespół (Ass.): Sphagnetum magellanici
+zbiorowisko: Eriophorum vaginatum-Sphagnum fallax
+zespół (Ass.): Eriophoro-Trichophoretum caespitosi
+grupa zespołów (GrAss.): torfowiska wysokie leśne
+zespół (Ass.): Pino mugo-Sphagnetum
+zespół (Ass.): Ledo-Sphagnetum magellanici
+związek (All.): Oxycocco-Empetrion hermaphroditi
+zespół (Ass.): Empetro-Trichophoretum austriaci
+
+Zbiorowiska wrzosowisk i ubogich muraw
+Klasa: Nardo-Callunetea
+rząd (O.): Nardetalia – murawy bliźniczkowe, psiary
+związek (All.): Nardion
+zespół (Ass.): Hieracio (vulgati)-Nardetum
+zespół (Ass.): Hieracio (alpini)-Nardetum
+zespół (Ass.): Carici (rigidae)-Nardetum
+związek (All.): Violion caninae
+zespół (Ass.): Polygalo-Nardetum
+zespół (Ass.): Nardo-Juncetum squarrosi
+zespół (Ass.): Calluno-Nardetum strictae
+rząd (O.): Calluno-Ulicetalia – wrzosowiska
+związek (All.): Calluno-Genistion
+zespół (Ass.): Calluno-Genistetum
+związek (All.): Pohlio-Callunion
+zespół (Ass.): zespół (Ass.) Pohlio-Callunetum
+zbiorowisko: ''(Zb.) Hypnum jutlandicum
+zespół (Ass.): Sieglingio-Agrostitetum
+związek (All.): Calluno-Arctostaphylion
+zespół (Ass.): Arctostaphylo-Callunetum
+zespół (Ass.): Scabioso canescentis-Genistetum
+związek (All.): Empetrion nigri
+zespół (Ass.): Carici arenariae-Empetretum nigri
+zespół (Ass.): Vaccinio uliginosi-Empetretum nigri
+zbiorowisko: Zbiorowisko Empetrum nigrum-Vaccinium vitis-idaea – wrzosowisko brusznicowo-bażynowe
+
+Ciepłolubne zborowiska okrajkowe
+Klasa: Trifolio-Geranietea sanguinei – światłolubne i ciepłolubne zbiorowiska bylin w systemach ekotonowych.
+rząd (O.): Origanetalia
+związek (All.): Geranion sanguinei
+zespół (Ass.): Geranio-Peucadanetum cervariae
+zespół (Ass.): Geranio-Anemonetum sylvestris
+zespół (Ass.): Campanulo-Vicietum tenuifoliae
+zespół (Ass.): Geranio-Trifolietum alpestris
+związek (All.): Trifolion medii
+Grupa zbiorowisk roślin neutrofilnych: 
+zespół (Ass.): Trifolio-Agrimonietum
+zespół (Ass.): Agrimonio-Vicietum cassubicae
+zespół (Ass.): Trifolio-Melampyretum nemorosi
+zespół (Ass.): Vicietum sylvatico-dumetorum
+Grupa zbiorowisk roślin acydofilnych:
+zbiorowisko Melampyrum pratense-Hieracium
+
+Zbiorowiska trawośli i ziołorośli wysokogórskich
+Klasa: Betulo-Adenostyletea – wysokogórskie ziołorośla i traworośla
+rząd (O.) Calamagrostietalia villosae
+związek (All.): Adenostylion alliariae – wysokogórskie zbiorowiska ziołorośli i zarośli liściastych związane ze stałym przepływem wody
+zespół (Ass.): Adenostyletum alliariae
+zespół (Ass.): Athyrietum distentifolii – ziołorośle paprociowe
+zespół (Ass.): Aconitetum firmi
+zespół (Ass.): Pado-Sorbetum
+zespół (Ass.): Petasitetum albi
+zespół (Ass.): Petasitetum kablikiani – łopuszyny
+zespół (Ass.): Salicetum lapponicum
+zespół (Ass.): Arunco-Doronicetum austriaci
+zespół (Ass.): Pulmonario-Alnetum viridis
+związek (All.): Calamagrostion – naturalne traworośla wysokogórskie
+zespół (Ass.): Calamagrostietum villosae (tatricum)''
+zespół (Ass.): Crepido-Calamagrostietum villosae
+zespół (Ass.): Bupleuro-Calamagrostietum arundinaceae
+zespół (Ass.): Festucetum carpaticae
+zespół (Ass.): Poo-Veratretum lobeliani
+zespół (Ass.): Poo-Deschampsietum
+ 
+Zbiorowiska leśne i krzewiaste
+klasa: Rhamno-Prunetea – ciepłolubne zbiorowiska okrajkowe – zarośla krzewiaste związane funkcjonalnie z lasem tworzące okrajki, zakrzewienia śródpolne, różne fazy sukcesyjne pomiędzy łąkami i lasami
+rząd (O.): Prunetalia spinosae
+związek (All.): Pruno-Rubion fruticosi
+zespół (Ass.): Rubo fruticosi-Prunetum spinosae – czyżnie
+zespół (Ass.): Frangulo-Rubetum plicati
+zespół (Ass.): Calluno-Serothamnetum
+związek (All.): Berberidion
+zespół (Ass.): Pruno-Ligustretum
+zespół (Ass.): Rhamno-Cornetum sanguinei
+związek (All.): Salicion arenariae
+związek (All.): Prunion fruticosae
+
+klasa (Cl.): Quercetea robori-petraeae – acydofilne, oligotroficzne i mezotroficzne lasy liściaste z przewagą dębów, na ubogich, często piaszczystych glebach
+rząd (O.): Quercetalia roboris
+związek (All.): Quercion robori-petraeae – dąbrowy acydofilne
+grupa zespołów (GrAss.): dąbrowy niżowe na glebach wilgotnych i mokrych
+zespół (Ass.): Betulo pendulae-Quercetum roboris – pomorski las dębowo-brzozowy
+zespół (Ass.): Molinio caeruleae-Quercetum roboris – środkowoeuropejska mokra dąbrowa trzęślicowa
+grupa zespołów (GrAss.): dąbrowy niżowe na glebach świeżych
+zespół (Ass.): Fago-Quercetum petraeae – subatlantycka mezotroficzna kwaśna dąbrowa typu pomorskiego
+zespół (Ass.): Calamagrostio arundinaceae-Quercetum petraeae – środkowoeuropejski acydofilny las dębowy
+grupa zespołów (GrAss.): dąbrowy podgórskie na glebach oglejonych
+zespół (Ass.): Molinio arundinaceae-Quercetum roboris – podgórska wilgotna dąbrowa acydofilna
+grupa zespołów (GrAss.): dąbrowy podgórskie na glebach świeżych
+zespół (Ass.): Luzulo luzuloidis-Quercetum petraeae – podgórska dąbrowa acydofilna
+
+klasa: Alnetea glutinosae – lasy z panującą olszą czarną (Alnus glutinosa) lub zarośla szerokolistnych wierzb z udziałem olszy; głównie na niżu w zagłębieniach o utrudnionym odpływie, na mokrych glebach torfowych i torfowo-mineralnych
+rząd (O.): Alnetalia glutinosae
+związek (All.): Alnion glutinosae
+grupa zespołów (GrAss.): zbiorowiska zaroślowe Alnion glutinosae – zarośla krzewiastych wierzb, głównie uszata (Salix aurita) i szara (S. cinerea)
+zespół (Ass.): Myrico-Salicetum auritae – łozowisko z przewagą wierzby uszatej (Salix aurita) i udziałem woskownicy europejskiej (Myrica gale)
+zespół (Ass.): Salicetum pentandro-cinereae – łozowisko z przewagą wierzby szarej (Salix cinerea) i wierzby pięciopręcikowej (Salix pentandra)
+zespół (Ass.): Betulo-Salicetum repentis – niskie zarośla wierzby rokity (Salix rosmarinifolia) i brzozy niskiej (Betula humilis)
+grupa zespołów (GrAss.): zbiorowiska leśne Alnion glutinosae – olsy
+zespół (Ass.): Sphagno squarrosi-Alnetum – ols torfowcowy
+zespół (Ass.): Ribeso nigri-Alnetum – ols porzeczkowy
+zbiorowisko: Thelypteridi-Betuletum pubescentis – subborealna brzezina bagienna
+zbiorowisko: Quercus robur-Carex elongata – dębniak turzycowy
+
+klasa: Vaccinio-Piceetea – acydofilne, oligotroficzne i mezotroficzne zbiorowiska z przewagą drzew szpilkowych, krzewinek i mezofilnych mszaków
+rząd (O.): Cladonio-Vaccinietalia
+związek (All.): Loiseleurio-Vaccinion
+zespół (Ass.): Empetro-Vaccinietum – wysokogórskie borówczyska bażynowe
+związek (All.): Dicrano-Pinion
+podzwiązek (SubAll.): Dicrano-Pinenion
+grupa zespołów (GrAss.): bory sosnowe na glebach mineralnych
+zespół (Ass.): Empetro nigri-Pinetum – nadmorski bór bażynowy
+zespół (Ass.): Cladonio-Pinetum – śródlądowy bór suchy
+zespół (Ass.): Peucedano-Pinetum – subkontynentalny bór świeży
+zespół (Ass.): Leucobryo-Pinetum – suboceaniczny bór świeży
+zespół (Ass.): Molinio caeruleae-Pinetum – śródlądowy bór wilgotny
+grupa zespołów (GrAss.): bory mieszane
+zespół (Ass.): Querco roboris-Pinetum – kontynentalny bór mieszany
+zespół (Ass.): Serratulo-Pinetum – subborealny bór mieszany
+podzwiązek (SubAll.): Piceo-Vaccinienion uliginosi
+zespół (Ass.): Vaccinio uliginosi-Betuletum pubescentis – brzezina bagienna
+zespół (Ass.): Vaccinio uliginosi-Pinetum sylvestris – sosnowy bór bagienny
+zbiorowisko: odmiana nadmorska Vaccinio uliginosi-Pinetum sylvestris
+zespół (Ass.): Calamagrostio villosae-Pinetum – bagienny bór trzcinnikowy
+rząd (O.): Vaccinio-Piceetalia
+związek (All.): Piceion abietis
+podzwiązek (SubAll.): Vaccinio-Abietenion
+zespół (Ass.): Abieti-Picetum (montanum)'' – dolnoreglowy bór jodłowo-świerkowy
+zespół (Ass.): Galio-Piceetum
+zespół (Ass.): Polysticho-Piceetum – nawapienna świerczyna górnoreglowa
+zespół (Ass.): Abietetum polonicum – wyżynny jodłowy bór mieszany
+podzwiązek (SubAll.): Vaccinio-Piceenion – świerczyny właściwe
+grupa zespołów (GrAss.): zespoły wysokogórskie Vaccinio-Piceenion
+zespół (Ass.): Calamagrostio villosae-Piceetum – górnoreglowa świerczyna obszaru hercyńsko-sudeckiego
+zespół (Ass.): Plagiothecio-Piceetum (tatricum)'' – acydofilna zachodniokarpacka świerczyna górnoreglowa
+zespół (Ass.): Bazzanio-Piceetum – dolnoreglowy świerkowy bór na torfie
+grupa zespołów (GrAss.): borealne zespoły niżowe Vaccinio-Piceenion
+zespół (Ass.): Sphagno girgensohnii-Piceetum – borealna świerczyna na torfie
+zespół (Ass.): Querco-Piceetum – jegiel
+podzwiązek (SubAll.): Rhododendro-Vaccinienion
+zespół (Ass.): Pinetum mugo (carpaticum)'' – karpackie zarośla kosówki
+zespół (Ass.): Pinetum mugo (sudeticum)'' – sudeckie zarośla kosówki
+
+klasa: Querco-Fagetea – środkowoeuropejskie lasy liściaste
+rząd (O.): Quercetalia pubescenti-petraeae – dąbrowy ciepłolubne
+związek (All.): Potentillo albae-Quercion petraeae
+zespół (Ass.): Potentillo albae-Quercetum – świetlista dąbrowa subkontynentalna
+rząd (O.): Fagetalia sylvaticeae 
+związek (All.): Alno-Ulmion (Alno-Padion) – łęgi
+grupa zespołów (GrAss.): łęgi olszowe niżowe (Alnenion glutinoso-incanae)
+zespół (Ass.): Fraxino-Alnetum – łęg jesionowo-olszowy
+zespół (Ass.): Stellario nemorum-Alnetum glutinosae – łęg olszowy gwiazdnicowy
+grupa zespołów (GrAss.): łęgi podgórskie i górskie (Alnenion glutinoso-incanae)
+zespół (Ass.): Carici remotae-Fraxinetum – podgórski łęg jesionowy
+zespół (Ass.): Alnetum incanae – nadrzeczna olszyna górska
+zespół (Ass.): Caltho laetae-Alnetum – bagienna olszyna górska
+zespół (Ass.): Astrantio-Fraxinetum
+podzwiązek (SubAll.): Ulmenion minoris
+zespół (Ass.): Ficario-Ulmetum minoris – łęg wiązowo-jesionowy
+zespół (Ass.): Violo odoratae-Ulmetum minoris – łęg wiązowy z fiołkiem wonnym
+związek (All.): Carpinion betuli – grądy
+zespół (Ass.): Stellario holosteae-Carpinetum betuli – grąd subatlantycki (nizinny las dębowo-grabowy)
+zespół (Ass.): Galio sylvatici-Carpinetum – grąd środkowoeuropejski
+zespół (Ass.): Tilio-Carpinetum – grąd subkontynentalny
+związek (All.): Fagion sylvaticae – buczyny
+podzwiązek (SubAll.): Luzulo-Fagenion – kwaśne buczyny
+zespół (Ass.): Luzulo pilosae-Fagetum – kwaśna buczyna niżowa
+zespół (Ass.): Luzulo luzuloidis-Fagetum – kwaśna buczyna górska
+podzwiązek (SubAll.): Galio rotundifolii-Abietenion – las jodłowy
+zbiorowisko: Abies alba-Oxalis acetosella – żyzne buczyny zachodniokarpackie
+podzwiązek (SubAll.): Dentario_glandulosae-Fagenion – żyzne buczyny górskie
+zespół (Ass.): Dentario glandulosae-Fagetum – żyzna buczyna karpacka
+zespół (Ass.): Dentario enneaphylli-Fagetum – żyzna buczyna sudecka
+podzwiązek (SubAll.): Galio odorati-Fagenion – żyzne buczyny niżowe
+zespół (Ass.): Galio odorati-Fagetum – żyzna buczyna niżowa typu pomorskiego
+zbiorowisko: Fagus sylvatica-Mercurialis perennis – buczyna źródliskowa
+podzwiązek (SubAll.): Cephalanthero-Fagenion – ciepłolubne buczyny storczykowe (buczyny nawapienne)
+zespół (Ass.): Carici albae-Fagetum – ciepłolubna buczyna nawapienna pienińska
+zespół (Ass.): Cephalanthero rubrae-Fagetum – nadmorska ciepłolubna buczyna storczykowa
+zbiorowisko: Fagus sylvatica-Cruciata glabra – ciepłolubna buczyna małopolska
+zbiorowisko: Fagus sylvatica-Hypericum maculatum (Taxo-Fagetum)- ciepłolubne buczyny storczykowe regionu sudeckiego
+zbiorowisko: Fagus sylvatica-Cypripedium calceolus – kaszubska wilgotna buczyna nawapienna
+związek (All.): Tilio platyphyllis-Acerion pseudoplatani – górsko-podgórskie zboczowe lasy lipowo-jaworowe
+podzwiązek (SubAll.): Lunario-Acerenion pseudoplatani
+zespół (Ass.): Phyllitido-Aceretum – jaworzyna z języcznikiem zwyczajnym
+zespół (Ass.): Lunario-Aceretum – jaworzyna z miesiącznicą trwałą
+podzwiązek (SubAll.): wysokogórskie jaworzyny ziołoroślowe
+zespół (Ass.): Sorbo aucupariae-Aceretum pseudoplatani – jaworzyna karpacka
+zespół (Ass.): Aceri-Fagetum – górskie lasy ziołoroślowe
+zbiorowisko: Acer pseudoplatanus-Aruncus sylvestris
+podzwiązek (SubAll.): Tilienion platyphylli – zboczowe lasy lipowo-klonowe
+zespół (Ass.): Aceri platanoidis-Tilietum platyphylli – zboczowe lasy klonowo-lipowe
+
+Bibliografia
+
+
+Linki zewnętrzne

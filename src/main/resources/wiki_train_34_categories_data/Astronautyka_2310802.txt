@@ -1,0 +1,47 @@
+Na wynik pomiaru GPS wpływ ma wiele czynników, które należy uwzględnić przy opracowaniu pomiarów, szczególnie gdy zależy nam jednocześnie na wysokiej precyzji i dokładności. Oto lista najważniejszych czynników mogących spowodować błędy pomiaru i przełożyć się na dokładność wyznaczanych współrzędnych.
+
+Czynniki
+Satelity
+Parametry orbity - dokładność wyznaczenia położenia
+środek fazowy anteny na satelicie
+pole grawitacyjne Ziemi
+opór atmosfery
+przyciąganie grawitacyjne ciał niebieskich (m.in. Słońca i Księżyca)
+oddziaływanie sił elektromagnetycznych
+ciśnienie światła słonecznego
+efekty relatywistyczne
+OTW - ruch zegara w polu grawitacyjnym (zegar przyśpiesza o około 45.9 ns/doba)
+STW - ruch zegara (zegar zwalnia około -7.2ns/doba)
+
+Odbiorniki
+niestabilność wzorców częstotliwości
+poprawki zegarów odbiorników
+cycle slip - nieciągłość fazy, czyli zmiana skokowa rejestrowanej fazy
+nieoznaczoność fazy
+środki fazowe anten odbiorników
+szum odbiornika
+rodzaj obserwacji - statyczne, kinematyczne, PPP
+odzyskiwanie fali nośnej L2 - dla pomiarów precyzyjnych
+
+Zakłócenia propagacyjne
+refrakcja troposfery i opóźnienie troposferyczne
+refrakcja jonosfery
+szumy atmosferyczne i kosmiczne
+odbicia i interferencja fal wtórnych
+
+Zjawiska geofizyczne
+nutacja
+ruch biegunów
+pływy skorupy ziemskiej
+pływy oceaniczne
+ruchy płyt tektonicznych
+oceaniczny efekt obciążeniowy
+
+Pozostałe
+nieciągłości fazy
+różnica czasu pomiędzy UT1 i UTC
+parametry transformacji między układami współrzędnych
+anti-spoofing (zapobieganie intencjonalnym próbom zakłócenia pracy systemu poprzez zmianę kodu P na Y)
+selective availability - zakłócanie sygnału cywilnego (czas i parametry satelity) pseudolosowym błędem - obecnie wyłączone
+
+Źródła

@@ -1,0 +1,26 @@
+HTC Desire (nazwa kodowa: Bravo) – smartfon produkcji HTC, zaprezentowany 16 lutego 2010. HTC Desire działa pod kontrolą systemu operacyjnego Android w wersji 2.3.
+
+Opis
+Telefon posiada procesor Snapdragon ARMv7 taktowany zegarem 1 GHz, 576 MB pamięci RAM oraz 512 MB pamięci ROM (z czego 150 MB jest dostępnych dla użytkownika). Rozbudowa pamięci możliwa jest poprzez karty microSDHC o pojemności do 32 GB. HTC Desire był jednym z pierwszych dostępnych na szeroką skalę telefonów wyposażonym w duży, kolorowy wyświetlacz wykonany w technologii AMOLED.
+
+Począwszy od połowy 2010 roku w telefonach HTC Desire montowane są również panele Super LCD.
+
+Desire a Nexus One
+HTC Desire wykazuje duże podobieństwo do bliźniaczego modelu Nexus One produkowanego przez HTC dla Google. Zauważone różnice to między innymi:
+optyczny trackpad zamiast trackballa
+fizyczne przyciski zamiast reagujących na dotyk
+radio FM (zablokowane w Nexus One)
+brak drugiego mikrofonu dla redukcji zakłóceń
+Micro USB zamiast złącza typu dock
+576 MB pamięci RAM zamiast 512 MB w Nexus One
+interfejs HTC Sense
+
+Zobacz też
+HTC J Butterfly/HTC Droid
+
+
+
+
+
+
+

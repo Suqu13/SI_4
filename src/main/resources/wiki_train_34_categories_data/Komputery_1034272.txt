@@ -1,0 +1,11 @@
+
+
+BBC Micro – seria komputerów domowych produkowanych od roku 1981 przez firmę Acorn Computers na potrzeby projektu BBC Computer Literacy Project. Dzięki temu mikrokomputerowi Wielka Brytania stała się jednym z najbardziej zinformatyzowanych krajów w świecie. 
+
+Pierwszy typ Model A BBC Micro posiadał procesor MOS6502 taktowany zegarem 2 MHz i 16 KB RAM. Mógł pracować w ośmiu trybach graficznych: od 640×256 (od modelu B) w dwu kolorach, do 40×25 w ośmiu barwach.
+
+Chociaż wyprodukowano 12 modeli mikrokomputera, to określenie BBC Micro używa się zazwyczaj w stosunku do pierwszych 4 modeli: Model A, B, B+64 i B+128.
+
+
+
+

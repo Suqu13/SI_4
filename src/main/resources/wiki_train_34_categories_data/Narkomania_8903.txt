@@ -1,0 +1,50 @@
+Fluoksetyna – organiczny związek chemiczny stosowany jako lek przeciwdepresyjny, głównie w leczeniu zaburzeń depresyjnych oraz obsesyjno-kompulsyjnych. Ponadto znalazła zastosowanie w leczeniu bulimii, przedmiesiączkowych zaburzeń dysforycznych, zespołu lęku napadowego i depresji w przebiegu zaburzenia afektywnego dwubiegunowego (w połączeniu z olanzapiną). Należy do grupy selektywnych inhibitorów wychwytu zwrotnego serotoniny (SSRI).
+
+Fluoksetyna stosowana jest w lecznictwie najczęściej w postaci chlorowodorku. Wprowadzona do lecznictwa w 1986 roku (Belgia). Jednak bardziej znana na świecie dopiero od 1988 roku. Jest oryginalnym lekiem amerykańskiej firmy farmaceutycznej Eli Lilly, która wprowadziła go na rynek pod nazwą handlową Prozac.
+
+Mechanizm działania
+Mechanizm działania farmakologicznego fluoksetyny (i innych leków z grupy SSRI) polega na hamowaniu zwrotnego wychwytu serotoniny przez blokowanie transportera serotoniny (SERT).
+
+Dowiedziono, że fluoksetyna jest także antagonistą receptorów 5-HT2C. Antagonizm wobec tych receptorów prowadzi do odhamowania uwalniania noradrenaliny i dopaminy i nasilenia przekaźnictwa noradrenergicznego i dopaminergicznego. Fluoksetyna w mniejszym stopniu i jedynie w dużych dawkach słabo blokuje wychwyt zwrotny noradrenaliny.
+
+Fluoksetyna jest agonistą receptora σ-1, ale znaczenie kliniczne tej właściwości jest niejasne.
+
+Wartości stałej dysocjacji Ki dla fluoksetyny i norfluoksetyny:
+
+
+
+Metabolizm
+Fluoksetyna jest metabolizowana głównie w wątrobie  do aktywnej norfluoksetyny oraz wielu innych, niezidentyfikowanych metabolitów. Norfluoksetyna powstaje w procesie demetylacji, czyli usunięcia grupy metylowej -CH3 z cząsteczki fluoksetyny. Proces ten zachodzi z udziałem izoenzymu cytochromu P450 CYP2D6. Z badań przeprowadzonych na zwierzętach wynika, że S-norfluoksetyna jest silnym inhibitorem wychwytu zwrotnego serotoniny, a jej aktywność jest zasadniczo porównywalna do R i  S-fluoksetyny. R-norfluoksetyna natomiast ma o wiele słabsze właściwości inhibujące. Eliminacja odbywa się głównie przez nerki w postaci nieaktywnych metabolitów.
+
+Interakcje
+Fluoksetyny nie wolno zażywać równocześnie z inhibitorami MAO, niektórymi pochodnymi fenotiazyny, sibutraminą i niektórymi innymi lekami. Jednoczesne stosowanie fluoksetyny i  preparatów zawierających wyciągi z dziurawca zwyczajnego może spowodować nasilenie działania serotoninergiczne, w tym potencjalnie śmiertelny zespół serotoninowy.
+
+Działania niepożądane
+U niektórych pacjentów mogą wystąpić działania niepożądane, takie jak: agresywne zachowania, ogólne osłabienie, gorączka, suchość w ustach, zaburzenia ze strony układu pokarmowego, podenerwowanie, bezsenność (z tego powodu nie powinna być stosowana wieczorem), bóle głowy, niepokój, nadmierne pocenie się, drżenie rąk, zmniejszenie łaknienia i spadek masy ciała, alergie, wysypka, obniżenie libido, zaburzenia widzenia (niewyraźne widzenie jak przy dużej wadzie wzroku). U pacjentów predysponowanych istnieje ryzyko wystąpienia zaburzeń mania/hipomania oraz nasilenie epizodów rapid cycling. Stwierdzono także przypadki wystąpienia orgazmu oraz nawet do kilku ziewnięć na minutę, nie połączonych z sennością. Ze strony układu nerwowego mogą wystąpić zawroty głowy, uczucie ogólnego zmęczenia, przemijające zaburzenia ruchowe (skurcze mięśni, niepanowanie nad skurczami i rozkurczami mięśni dużych partii ciała, niezborność ruchów, drżenie, drgawki kloniczne mięśni, niepanowanie nad ruchem gałek ocznych), napady drgawkowe, niepokój psychoruchowy, omamy, dezorientacja, lęk i nerwowość, napady paniki. Działania niepożądane na ogół słabną lub mijają w miarę kontynuacji podawania fluoksetyny. Może także zaburzać zdolność do prowadzenia pojazdów oraz obsługi urządzeń mechanicznych.
+
+Możliwe jest również wystąpienie PSSD.
+
+Popularność
+Ze względu na rozgłos w mediach mówiący o właściwościach wyjątkowo poprawiających nastrój fluoksetyna została przez niektórych okrzyknięta „pigułką szczęścia”.
+
+Dodatkowe badania
+Metaanaliza 35 badań klinicznych czterech leków antydepresyjnych (fluoksetyna, paroksetyna, nefazodon, wenlafaksyna) została opublikowana w lutym 2008. Te antydepresanty należące do trzech różnych grup farmakologicznych zostały poddane analizie łącznie i nie uwzględniono ich osobnego działania. Wykazano, że skuteczność antydepresantów względem placebo wzrasta wraz ze stopniem ciężkości depresji i ich skuteczność spełnia warunki istotności statystycznej, ale nie kryteria istotności klinicznej według National Institute for Health and Clinical Excellence (wynik jest istotny statystycznie, ale nieistotny klinicznie, gdy obserwowana różnica jest niewielka względem wpływu na zdrowie pacjenta).
+Niektóre artykuły w prasie („Mit prozaku”, „Prozak nie pomaga większości pacjentów chorującym na depresję”) przedstawiały wyniki badań o skuteczności fluoksetyny jako odkrycie jej nieskutecznego działania. W następnym artykule autorzy metaanalizy stwierdzili, że „niestety w pierwszych doniesieniach w mediach często przedstawiano wyniki jako dowód, że «leki przeciwdepresyjne nie działają», co było niewłaściwą interpretacją naszych bardziej złożonych ustaleń”.
+
+Preparaty
+
+Preparaty fluoksetyny dostępne w Polsce:
+Seronil – kapsułki/tabletki w postaci chlorowodorku, 10/20/30&nbsp;mg / ORION Pharma
+Andepin – kapsułki, 20&nbsp;mg / SYNTEZA
+Bioxetin – tabletki, 20&nbsp;mg / Sanofi Aventis
+Deprexetin – kapsułki, 20&nbsp;mg / ICN Polfa Rzeszów
+Fluoksetyna – kapsułki twarde, 10/20&nbsp;mg w postaci chlorowodorku / ANPHARM
+Fluoxetin – kapsułki, 20&nbsp;mg w postaci chlorowodorku / ZF POLPHARMA
+Salipax – 20&nbsp;mg w postaci chlorowodorku / MEPHA LDA
+Fluxemed – kapsułki twarde 20&nbsp;mg w postaci chlorowodorku / PRO.MED.CS
+Apo-Flox – tabletki / APOTEX
+Prozac – tabletki, 20&nbsp;mg / ELI LILLY
+
+
+
+Bibliografia

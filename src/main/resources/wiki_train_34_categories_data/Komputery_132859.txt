@@ -1,0 +1,34 @@
+
+Acorn Archimedes - pierwszy na świecie mikrokomputer RISC, oferowany wyłącznie na rynkach Brytyjskiej Wspólnoty Narodów i w Europie Zachodniej.
+
+Pierwsze modele, Archimedes A305 i A310, wprowadzone zostały w 1987 r., zawierały procesor ARM-2 taktowany 8&nbsp;MHz. Architektura komputera opierała się na trzech specjalizowanych układach scalonych: VIDC (układ graficzno-dźwiękowy), MEMC (kontroler pamięci RAM) i IOC (układ wejścia-wyjścia). VIDC oferował m.in. tryby graficzne: 1024 na 1024 pikseli dwukolorowy, 640 na 256 pikseli z 256 kolorami czy 640 na 512 pikseli z 16 kolorami na ekranie, a także 8 kanałów 8-bitowego dźwięku. MEMC adresował maksymalnie 4 MB RAM, standardowo model A305 miał jej 512 KB, A310 - 1 MB. Pierwotnie, jako systemu operacyjnego używano systemu o nazwie Arthur, następnie RISC OS. W grudniu 1987 r. model A310 z kolorowym monitorem kosztował 1089 £.
+
+Modele
+
+Niektóre modele były oferowane w różnych konfiguracjach- różne ilości pamięci, twarde dyski itp, także w specjalizowanych zestawach sprzętowo-programowych, np. Archimedes Music Workstation, z systemem UNIX jako seria Acorn R, wreszcie pod marką BBC Computer
+
+A305/A310''' (1987) - modele podstawowe
+A440''' (1987) - wersja z fabrycznie montowanym twardym dyskiem 20 MB i 4 MB RAM
+seria A4xx/1''' (1989) - modele z poprawionym kontrolerem pamięci i systemem RISC OS 2
+A410/1- 1 MB RAM
+A420/1- 2 MB RAM, dysk twardy 20 MB
+A440/1- 4 MB RAM, dysk twardy 50 MB
+A3000''' (1989) - pierwszy model na rynek domowy, w jednej obudowie z klawiaturą (jak Amiga 500)
+A540''' (1990) - procesor ARM3/25&nbsp;MHz, 4 MB RAM, dysk 100 MB SCSI
+A5000''' (1991) - pierwsze większe unowocześnienie architektury (standardowe wyjście monitorowe VGA zamiast własnego, nietypowego, złącze RS-232 zamiast RS423, dwukierunkowy port równoległy, stacja dysków podwójnej gęstości, kontroler IDE), RISC OS 3, wiele różnych wersji
+A4''' (1992) - jedyny laptop Acorn, ARM3/24&nbsp;MHz, ekran 640 x 480, 16 odcieni szarości, różne konfiguracje
+A30x0/A4000''' (1992) - modele domowe i edukacyjne, następcy A3000, o cechach architektury A5000, zbudowane na bazie chipu ARM250/12&nbsp;MHz (procesor ARM2 i układy specjalizowane komputera w jednej obudowie)
+A3010''' - model na rynek domowy, zintegrowany z klawiaturą, dwa gniazda joysticków, modulator TV, brak kontrolera dysku twardego
+A3020''' - model na rynek edukacyjny, pozbawiony modulatora i gniazd joysticków, posiada kontroler IDE i miejsce na kartę sieciową
+A4000''' - model na rynek SOHO ("small office, home office"), jak A3020, lecz obudowa oddzielna od klawiatury.
+
+Odbiór rynkowy
+
+Komputery były produkowane do 1994 r., kiedy zastąpiła je seria Risc PC. Były pod koniec lat 80. najpopularniejszymi komputerami szkolnymi w Wielkiej Brytanii, ale poza tym nigdy nie zdobyły szerszego uznania.
+
+Obecnie w Polsce komputery te prezentowane są przez Muzem Historii Komputerów i Informatyki w Katowicach 
+
+Bibliografia
+http://acorn.chriswhy.co.uk/Computers.html - strona o komputerach Acorn
+
+

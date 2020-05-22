@@ -1,0 +1,64 @@
+Koszty rodzajowe w rachunkowości – koszty w układzie rodzajowym, tzw. koszty proste bieżącej działalności, które faktycznie zostały poniesione, przedstawione w podziale na rodzaje. Koszty rodzajowe odpowiadają na pytanie ile i jakiego rodzaju koszty zostały poniesione.
+
+Przykładowa prezentacja kosztów rodzajowych:
+
+Zużycie materiałów i energii:
+zużycie materiałów podstawowych i pomocniczych
+zużycie opakowań 
+zużycie materiałów biurowych
+zużycie energii elektrycznej i cieplnej 
+zużycie ciepłej i zimnej wody
+zużycie gazów
+zużycie pary wodnej
+Usługi obce:
+transportowe
+budowlane
+remontowe
+składowania
+łączności (telekomunikacyjne, pocztowe itp.)
+poligraficzne
+informatyczne
+bankowe
+wykonanie ekspertyz i badań
+tłumaczenie tekstu
+pozostałe usługi np. (pranie odzieży, utrzymanie czystości
+Podatki i opłaty:
+podatek od nieruchomości
+podatek od środków transportu
+podatek akcyzowy
+opłaty skarbowe
+opłaty sądowe i notarialne
+opłaty za wieczyste użytkowanie gruntów 
+roczne opłaty licencyjne uprawniające do wykonywania działalności
+Wynagrodzenia:
+wartości wynagrodzenia brutto wypłacanego w formie pieniężnej
+wartości świadczeń w naturze bądź ich ekwiwalent
+Ubezpieczenia społeczne i inne świadczenia z tytułu wynagrodzeń:
+składki z tytułu ubezpieczeń społecznych opłaconych ze środków pracodawcy 
+składki na fundusz pracy
+składki na zakładowy fundusz świadczeń socjalnych 
+odzież ochronna i robocza
+świadczenia rzeczowe związane z bezpieczeństwem i higieną pracy
+szkolenie pracowników
+dopłaty do okresowych biletów za dojazdy pracowników do pracy
+Amortyzacja:
+planowe zużycie środków trwałych 
+planowe zużycie wartości niematerialnych i prawnych
+Pozostałe koszty:
+ubezpieczenia majątkowe
+koszty krajowych i zagranicznych podróży służbowych
+koszty reprezentacji i reklamy
+koszty wynajęcia kwater lub ryczałtu za noclegi w przypadku czasowego zatrudnienia pracowników poza miejscem stałego zatrudnienia.
+wypłaty ryczałtów za używanie przez pracowników własnych samochodów dla celów służbowych.
+
+Podział ten pochodzi od ze struktury tych kosztów, które są podawane w sprawozdaniu. Jako że często informacje o kosztach działalności podstawowej muszą być bardzo szczegółowe, jednostki dodają do tej systematyki kategorie uszczegóławiające, dzięki czemu przekrój omawianego układu staje się bardziej rozbudowany. Przekrój układu rodzajowego nie obejmuje jednak takich kosztów, jak koszty zużycia energii, półfabrykatów, poszczególnych materiałów, czy też usług wytworzonych przez jednostkę gospodarczą we własnym zakresie.Takie koszty są bowiem kosztami złożonymi, obejmującymi kilka rodzajów kosztów.
+
+Układ kosztów rodzajowych ma za zadanie wypełniać w firmie różne zadania, na przykład:
+
+dawanie możliwości ustalenia wysokości nakładów pracy żywej oraz uprzedmiotowionej, co jest potrzebne do obliczenia na przykład dochodu narodowego
+klasyfikacja ponoszonych kosztów według ich elementarnych składników
+dawanie możliwości sporządzania sprawozdań z zakresu kosztów według ich rodzaju
+ułatwiania badania struktury kosztów firmy
+kontrolowanie zużycia poszczególnych czynników produkcji związanego z wytwarzaniem danych dóbr i usług
+
+

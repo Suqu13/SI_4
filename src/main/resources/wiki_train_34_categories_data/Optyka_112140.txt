@@ -1,0 +1,42 @@
+Prawo Lamberta-Beera (prawo Beera-Lamberta-Bouguera również prawo Beera-Lamberta-Bouguera-Waltera) – opisuje pochłanianie promieniowania elektromagnetycznego przy przechodzeniu przez częściowo absorbujący i rozpraszający ośrodek. 
+
+Historia
+Prawo Lamberta-Beera jest wynikiem połączenia dwóch prostszych praw optyki, prawa Bouguera i prawa Beera. Historycznie jako pierwszy łączne prawo podał Pierre Bouguer w 1729 r. Było ono jednak podane w postaci opisowej i nie zostało dostrzeżone przez innych uczonych. Johann Heinrich Lambert podał w 1760 r. prostą zależność między absorbancją i grubością ciała pochłaniającego światło, natomiast August Beer podał w roku 1852 prostą zależność między absorbancją i stężeniem, a następnie połączył swoje prawo z prawem Bouguera do obecnie znanej postaci prawa Lamberta-Beera. O ile jednak prawo Bouguera jest spełnione ściśle, o tyle prawo Lamberta-Beera ma charakter przybliżony, ponieważ współczynnik proporcjonalności może zmieniać się wraz ze zmianą stężenia roztworu. Odchylenia wynikać mogą również z naruszenia równowagi termodynamicznej substancji lub zmiany stosunku liczby elektronów w stanie podstawowym do ogólnej liczby elektronów.
+
+Postać prawa i definicja
+W ogólnym przypadku prawo to głosi, że absorbancja jest wprost proporcjonalna do stężenia c i grubości warstwy l roztworu, przez który przechodzi promieniowanie:
+
+gdzie:
+'''' – absorbancja
+'''' – stała proporcjonalności (współczynnik pochłaniania promieniowania, często nazywany współczynnikiem absorpcji)
+'''' – stężenie substancji  w roztworze
+'''' – grubość warstwy absorbującej (droga jaką pokonuje promieniowanie przechodząc przez roztwór)
+
+
+W przypadku gdy stężenie substancji c wyrażone jest:
+jako stężenie molowe w mol/dm3, wówczas stałą proporcjonalności k wyrazimy symbolem ε, który jest określany molowym współczynnikiem absorpcji. ε przyjmie wówczas wymiar dm3·mol-1·cm-1, a prawo Lamberta-Beera będzie miało postać:
+
+stężeniem masowym w g·dm-3, to stałą proporcjonalności k opiszemy symbolem α i który zdefiniujemy jako współczynnik absorpcji właściwej (często spotykanymi nazwami są również współczynnik masowy absorpcji właściwej oraz masowy współczynnik absorpcji) mający wymiar dm3·g-1·cm-1. Prawo Lamberta-Beera opiszemy wówczas zależnością:
+
+Odstępstwa od prawa Lamberta-Beera
+Prawo Lamberta-Beera jest spełnione dla wiązki promieniowania 
+monochromatycznego,
+skolimowanego. 
+Ze względu na to nie jest poprawnym mówić o odstępstwach od prawa, gdyż prawo jest określone dla pewnych warunków. Jednakże gdy warunki te nie są spełnione obserwujemy nieliniowe zależności pomiędzy absorbancją a stężeniem. Zależności te mogą mieć charakter zarówno chemiczny jak i fizyczny. Charakter chemiczny obserwowany jest, gdy cząsteczki substancji lub rozpuszczalnika bezpośrednio ze sobą oddziałują w wyniku na przykład solwatacji lub dysocjacji. Najważniejszym fizycznym czynnikiem wpływającym na nieliniowość zjawiska jest polichromatyczność (wielobarwność) przechodzącego promieniowania. W praktyce niemożliwe jest osiągnięcie wiązki monochromatycznej przez rozszczepienie pryzmatem ze względu na limit dyfrakcyjny szczeliny monochromatora.
+
+
+
+
+Bibliografia
+Cygański Andrzej, Metody Spektroskopowe w Chemii Analitycznej, Warszawa 2002, s. 207-210, WNT, ISBN 83-204-2728-2
+Kocjan Ryszard,  Chemia Analityczna, Podręcznik dla Studentów, Tom 2 Analiza Instrumentalna, Warszawa 2000, s. 88-91, Wydanie 2.
+Minczewski Jerzy, Marczenko Zygmunt, Chemia Analityczna 3, Analiza Instrumentalna, Warszawa 1976, s. 30-32, PWN
+Zielinski Wojciech, Metody spektroskopowe i ich zastosowanie do identyfikacji związków organicznych Tom 1'', Warszawa 2000, s. 19-20, WNT, 
+
+Zobacz też
+prawo Bouguera
+prawo Beera
+
+
+
+

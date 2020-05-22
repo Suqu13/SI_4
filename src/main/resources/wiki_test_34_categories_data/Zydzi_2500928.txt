@@ -1,0 +1,50 @@
+Chulda (arab. خُلدة) – nieistniejąca już arabska wieś, która była położona w Dystrykcie Ramli w Mandacie Palestyny. Wieś została wyludniona i zniszczona podczas wojny domowej w Mandacie Palestyny, po ataku sił żydowskiej organizacji paramilitarnej Hagana 6 kwietnia 1948 roku.
+
+Położenie
+Wioska Chulda leżała w Szefeli. Według danych z 1945 roku do wsi należały ziemie o powierzchni 946,1 ha. We wsi mieszkało wówczas 280 osób.
+
+
+
+
+
+
+
+Historia
+W czasach krzyżowców wioska nazywała się Huldre. W 1596 roku Chulda była małą wioską, liczącą 66 mieszkańców, którzy utrzymywali się z upraw pszenicy, jęczmienia, oraz hodowli kóz i uli. W wyniku I wojny światowej, w 1918 roku cała Palestyna przeszła pod panowanie Brytyjczyków, którzy utworzyli Mandat Palestyny. W okresie panowania Brytyjczyków Chulda była średniej wielkości wioską. We wsi był jeden meczet. Część mieszkańców była zatrudniona przez Żydowski Fundusz Narodowy przy budowie systemu irygacyjnego dla potrzeb pobliskiego kibucu Chulda.
+
+
+
+ImageSize  = width:500 height:270
+PlotArea   = left:50 right:40 top:20 bottom:40
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+Colors =
+  id:gray1 value:gray(0.9)
+DateFormat = yyyy
+Period     = from:0 till:325
+ScaleMajor = unit:year increment:100 start:0 gridcolor:gray1
+TextData =
+  pos:(250,20) textcolor:black fontsize:S
+  text:Ludność Chuldy
+PlotData =
+  bar:1922 color:gray1 width:1
+   from:0 till:53 width:15 text:53 textcolor:red fontsize:8px
+  bar:1931 color:gray1 width:1
+   from:0 till:178 width:15 text:178 textcolor:red fontsize:8px
+  bar:1945 color:gray1 width:1
+   from:0 till:280 width:15 text:280 textcolor:red fontsize:8px
+  bar:1947 color:gray1 width:1
+   from:0 till:325 width:15 text:325 textcolor:red fontsize:8px
+
+
+
+Przyjęta 29 listopada 1947 roku Rezolucja Zgromadzenia Ogólnego ONZ nr 181 zakładała podział Palestyny na dwa państwa: żydowskie i arabskie. Plan podziału przyznawał obszar wioski Chulda państwu arabskiemu. Żydzi zaakceptowali plan podziału, jednak Arabowie doprowadzili dzień później do wybuchu wojny domowej w Mandacie Palestyny. Już w grudniu 1947 roku wioskę zajęły arabskie milicje, które atakowały żydowską komunikację w okolicy. W dniu 31 marca 1948 roku w jej sąsiedztwie rozbity został żydowski konwój Chulda jadący do Jerozolimy. Z tego powodu siły żydowskiej organizacji paramilitarnej Hagana przeprowadziły operację Nachszon, podczas której 6 kwietnia 1948 roku siły Palmach zajęły wioskę. Wysiedlono wówczas wszystkich jej mieszkańców. Brytyjczycy nakazali Żydom opuszczenie wsi, gdyż stanowili oni zagrożenie dla brytyjskich linii zaopatrzeniowych. Siły żydowskie opuszczając wioskę 20 kwietnia, wyburzyły wszystkie budynki.
+
+Miejsce obecnie
+Na terenach wioski Chulda w 1948 roku powstał żydowski kibuc Miszmar Dawid. Palestyński historyk Walid Chalidi, tak opisał pozostałości wioski Chulda: „Zachowały się jedynie dwa domy. Pomiędzy nimi stoją ściany dwóch zniszczonych domów. Z murów wystają żelazne belki, na których opierał się dach”.
+
+
+
+
+
+

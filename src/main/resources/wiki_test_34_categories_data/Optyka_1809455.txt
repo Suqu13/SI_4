@@ -1,0 +1,11 @@
+Halorodopsyna – jest integralnym białkiem błonowym występującym u halobakterii należących do domeny arecheowców. Ma zdolność przenoszenia przez błonę komórkową pod wpływem światła jonów chlorkowych lub protonów. Przy oświetlaniu światłem zielonym halorodobsyna przenosi przez błonę jony chlorkowe, a przy dodatkowym oświetleniu światłem niebieskim zamienia się w pompę protonową.
+
+Jej budowa zbliżona jest do bakteriorodopsyny. Sekwencja aminokwasów w tyh białkach pokrywa się w 30%. Także struktura oraz mechanizm działania zbliżony jest do bakteriorodopsyny pełniącej jedynie funkcję pompy protonowej. Zmiana we właściwościach, polegająca na nabyciu zdolności do przenoszenia jonów chlorkowych, powstała prawdopodobnie w wyniku zamiany w bakteriorodopsynie asparaginianu w pozycji 85 na treoninę.
+
+Działanie halorodopsyny prowadzi do wytworzenia różnicy pH w poprzek błony. Energia gradientu elektrochemicznego wykorzystywane jest następnie do syntezy ATP.
+
+Bibliografia
+
+
+
+

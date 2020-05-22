@@ -1,0 +1,10 @@
+
+PDP-10''' – rodzina komputerów klasy mainframe produkowanych przez DEC. Nazwa oznacza "Programmed Data Processor model 10". Była to pierwsza maszyna, na której dzielenie czasu stało się powszechną praktyką. Maszyna ta odegrała istotną rolę w historii społeczności hakerskiej między innymi ze względu na użycie jej w projektach laboratorium sztucznej inteligencji MIT i Uniwersytetu Stanforda, jak również Computer Center Corporation i Carnegie Mellon University.
+
+Co do architektury, PDP-10 był bezpośrednim rozwinięciem wcześniejszego komputera PDP-6: dalej stosował 36-bitowe słowa, miał jednak rozbudowany (w porównaniu z pierwowzorem) zestaw instrukcji. Niektóre aspekty jego modelu programowego są unikatowe, w szczególności instrukcje bajtowe operujące na polach bitowych długości od jednego bitu do 36 włącznie (w oparciu o najbardziej ogólną definicję bajtu, mówiącą, że bajt to każdy ciąg ustalonej liczby bitów).
+
+
+
+
+
+

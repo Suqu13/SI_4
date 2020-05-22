@@ -1,0 +1,4 @@
+'''50 centów - moneta używana przez kraje strefy euro. Rewersy każdej monety o tym nominale są wspólne dla wszystkich krajów emitujących. Natomiast awersy są odmienne dla każdego państwa.
+
+
+

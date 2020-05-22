@@ -1,0 +1,36 @@
+Berylowce (metale ziem alkalicznych, wapniowce) - pierwiastki chemiczne występujące w 2  (dawn. IIA lub II głównej) grupie układu okresowego pierwiastków. Są to beryl (Be), magnez (Mg), wapń (Ca), stront (Sr), bar (Ba) i rad (Ra). Wszystkie są dwuwartościowe.
+
+
+
+Położenie w układzie okresowym
+Berylowce wraz z litowcami tworzą blok s. Zapisana w sposób ogólny konfiguracja elektronowa berylowców to [GS] ns2, gdzie GS to poprzedzający gaz szlachetny.
+
+Występowanie w przyrodzie
+Najbardziej rozpowszechnionym w skorupie ziemskiej berylowcem jest wapń (4,15%). W postaci węglanu CaCO3 występuje w postaci takich popularnych minerałów jak wapień, kreda czy marmur. Uwodniony siarczan wapnia CaSO4·2H2O znany jest jako gips. Hydroksyapatyt, będący solą wapnia, jest kluczowym składnikiem tkanki kostnej. 
+
+Magnez również występuje pospolicie w skorupie ziemskiej (2,33%). Tworzy liczne minerały, m.in. oliwin, serpentyn, talk, dolomit, kizeryt, kainit. Magnez jest składnikiem chlorofilu, tworząc w&nbsp;kompleksie z&nbsp;porfiryną układ światłoczuły.
+
+Stront i bar występują rzadziej (ok. 4%), a&nbsp;beryl jeszcze rzadziej (2,8%). Rad występuje jedynie w śladowych ilościach (około 9&nbsp;ppm) w&nbsp;rudach uranu.
+
+Zwyczajowa nazwa tej grupy pierwiastków – metale ziem alkalicznych – pochodzi od ich tlenków wykazujących odczyn zasadowy (tlenki metali dawniej nazywane były ziemiami). Berylowce nie występują w&nbsp;przyrodzie w&nbsp;stanie wolnym. 
+
+Właściwości fizyczne
+Wszystkie berylowce są metalami. Pierwiastki należące do tej grupy są miękkie, lekkie i&nbsp;łatwo topliwe. Miękkość i&nbsp;topliwość rośnie z kolejnymi okresami w&nbsp;grupie. 
+
+Właściwości chemiczne
+Metale te, oprócz berylu, cechują silne własności metaliczne i zasadowe. Tlenki i&nbsp;wodorotlenki berylowców także mają charakter zasadowy, który zwiększa się w&nbsp;kolejnych okresach. Wyjątkiem jest beryl, którego związki są generalnie amfoteryczne. Berylowce są nieco mniej reaktywne od poprzedzających je w&nbsp;układzie okresowym metali alkalicznych. Występują na +II stopniu utlenienia i&nbsp;tworzą jony typu M2+. Wapń, stront, bar i&nbsp;rad reagują z&nbsp;tlenem oraz z&nbsp;wodą w&nbsp;temperaturze pokojowej. Magnez w&nbsp;tych warunkach pokrywa się cienką, matową warstewką tlenku lub wodorotlenku. Do rozpoczęcia reakcji z&nbsp;wodą wymaga podgrzania. Beryl na powietrzu pokrywa się ochronną warstewką tlenku. Ogólny zapis reakcji berylowca z wodą:
+M + 2H2O → M(OH)2 + H2↑, gdzie M to metal ziem alkalicznych.
+
+Wszystkie berylowce reagują łatwo z kwasami, dając odpowiednią sól i&nbsp;gazowy wodór. Tej reakcji nie ulega beryl z&nbsp;kwasem azotowym (pokrywa się tlenkiem, BeO), oraz magnez z&nbsp;kwasem fluorowodorowym (pokrywa się trudno rozpuszczalnym fluorkiem, MgF2). Jedynie beryl reaguje ze stężonymi zasadami (powstają jony kompleksowe [Be(OH)4]2−).
+
+Otrzymywanie
+Metale te otrzymuje się przez elektrolizę ich stopionych soli. Magnez można również otrzymać poprzez redukcję jego tlenku w&nbsp;temp. ok. 2600 °C w ochronnej atmosferze wodoru lub gazu ziemnego, np. w&nbsp;reakcji z&nbsp;węglem: 
+MgO + C → Mg + CO 
+
+Zobacz też
+metale ziem rzadkich
+
+Przypisy
+
+
+Bibliografia

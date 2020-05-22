@@ -1,0 +1,26 @@
+Nokia Lumia 930''' - smartfon z serii Lumia produkowany przez fińską firmę Nokia, zaprezentowany w kwietniu 2014 roku podczas konferencji Micrsoft Build w San Francisco jako następca modelu Lumia 925. Działa pod kontrolą systemu operacyjnego Windows Phone 8.1.
+
+Specyfikacja
+Aparat === 
+W Lumii 930 zastosowano optykę ZEISSA z matrycą 1/2,5 cala o rozmiarze 20 megapikseli, przesłonie f/2.4 wspomaganą przez autofocus, podwójną diodę LED, technologię PureView oraz optyczną stabilizację obrazu. Aparat jest sterowany dwustopniowym spustem migawki, dysponuje również 2 krotnym bezstratnym zbliżeniem cyfrowym. Rozdzielczość wykonanych zdjęć to 4992 na 3744 pikseli. Filmy nagrywane tym telefonem mają jakość 1080p (Full HD).
+Wygląd
+Telefon wykonano z poliwęglanu, aluminium, a także hartowanego szkła (Gorilla Glass 3) pod którym znajduje się ekran. Głośnik słuchawkowy, czujnik zbliżeniowy, czujnik oświetlenia zewnętrznego, kamerę umieszczono nad wyświetlaczem. Pod nim znajdują się trzy pojemnościowe przyciski charakterystyczne dla systemu Windows Phone, czyli wstecz, start i szukaj. Lewa krawędź obudowy pozbawiona jest jakichkolwiek elementów funkcyjnych. Na prawym boku znajduje się klawisz służący do regulacji głośności, przycisk blokady ekranu (włącznik) oraz dwustopniowy spust migawki, a na dole obudowy umieszczono port micro USB. Gniazdo mini jack i slot na kartę nano SIM ulokowano na górnej krawędzi. Z tyłu telefonu zainstalowano aparat cyfrowy, podwójną diodę LED, dwa mikrofony, głośnik. 
+
+Podzespoły
+Urządzenie napędza czterordzeniowy Quallcomm Snapdragon 800 taktowany zegarem o częstotliwości 2,2 GHz. Procesor jest wspomagany 2 GB pamięci operacyjnej (RAM). Pamięć dostępna dla użytkownika to około 32 GB oraz bezpłatne 7GB pamięci w chmurze. Ekran zastosowany w tym telefonie ma przekątną 5 cali. Został wykonany w technologii OLED z wykorzystaniem autorskich funkcji SuperSensitive i ClearBlack. Jego rozdzielczość to 1920 na 1080 pikseli. Smartfon wyposażono w moduły Bluetooth, NFC i WiFi. Obsługuje również łączność LTE. Zastosowana bateria litowo-jonowa ma pojemność 2420 mAh. Możliwe jest jej bezprzewodowe ładowanie przez użycie odpowiedniej ładowarki (Qi). 
+
+Oprogramowanie
+Nokia Lumia 930 pracuje pod kontrolą systemu Microsoft Windows Phone 8.1 z dodatkiem Lumia Cyan. Preinstalowane są programy takie jak: Kalkulator, Zegar, Kalendarz, Budzik, Przypomnienia, Spis telefonów, Zadania, Pokój rodzinny, Kącik dziecięcy, OneNote, Sieci społecznościowe w książce telefonicznej, Portfel, Adidas miCoach. Dodatkowo smartfon wyposażono w podstawowe oprogramowanie biurowe - Excel, Word, PowerPoint i Lync oraz nawigację HERE Maps oraz inne aplikacje wykorzystujące połączenie GPS i rozszerzoną rzeczywistość np. Nokia Miasto w Obiektywie. Dodatek "Lumia Cyan" umożliwia korzystanie z kliku autorskich rozwiązań Nokii - Camera, Storyteller czy Beamer. Ze względu na brak pamięci wyświetlacza nie jest możliwe i nie będzie możliwe korzystanie z Glance (podglądu na wyłączonym ekranie). Użytkownik może dodatkowo pobierać aplikacje i gry ze sklepu Windows Phone Store.
+
+Zobacz też
+Microsoft
+Nokia Lumia 925
+Nokia Lumia 1020
+
+
+
+
+
+
+
+

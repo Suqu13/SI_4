@@ -1,0 +1,23 @@
+M73''' – amerykański, czołgowy karabin maszynowy
+
+Do końca lat 50 XX wieku podstawowym czołgowym karabinem maszynowym US Army był M37, czyli odpowiednio przystosowany Browning M1919. W 1959 roku w efekcie długiego programu badawczego (zawieszonego w latach 1953-1956) wprowadzono do uzbrojenia nowy czołgowy karabin maszynowy oznaczony jako Machine Gun, 7.62-mm, M73''.
+
+Nowy karabin maszynowy strzelał standardowym nabojem 7,62 mm NATO, był zasilany przy pomocy standardowej taśmy M13. M73 strzelał z zamka otwartego, miał szybkowymienną lufę i wydawał się pod każdym względem lepszy od M37. Jednak już po krótkim okresie eksploatacji karabinów zamontowanych w czołgach M48 pojawiły się raporty o częstych zacięciach.
+
+Początkowo były one ignorowane, ale po wojnie Jom Kippur w czasie której M73 czołgów M60 okazały się praktycznie bezużyteczne rozpoczęto program modernizacji M73. W efekcie zmodernizowano wyrzutnik, jak się okazało główne źródło zacięć. Zmodernizowany karabin maszynowy standaryzowano jako M73A1.
+
+Pomimo modernizacji niezawodność tej broni była nadal niska. W efekcie po próbie opracowania czołgowego karabinu maszynowego na bazie ukm-u M60 (w czołgowe karabiny maszynowe M60E2 uzbrojono część pojazdów US Marine Corps) ostatecznie w 1977 zdecydowano o przyjęciu na uzbrojenie karabinu maszynowego M240, czyli wersji belgijskiego FN MAG. Zastąpił on M73, jak również równie nieudany czołgowy karabin maszynowy M85.
+
+Karabin maszynowy M73 był instalowany w czołgach M48A3, M60 i M551, oraz maszynach inżynieryjno-drogowych M728.
+
+Wersje
+M73 – pierwsza wersja seryjna
+M73A1 – wersja zmodernizowana. Przed standaryzacją byłą oznaczona jako M73E1, a po 1977 roku oznaczenie zmieniono na M219.
+M73C – ciężki karabin maszynowy. M73 wyposażony w chwyt pistoletowy, osadzony na trójnogu XM132 (trójnóg M2 ckm-u Browning M1919 z adapterem umożliwiającym montaż M73).
+
+Opis
+M73 był bronią samoczynną. Zasada działania oparta na krótkim odrzucie lufy. Mechanizm spustowy umożliwiał tylko ogień ciągły. Zasilanie taśmowe (taśma rozsypna M13). Możliwe zasilanie prawo- lub lewostronne (w większości przypadków lewostronne). Broń strzela wyłącznie ogniem ciągłym z zamka otwartego. M73 posiadał lufę szybkowymienną zakończoną odrzutnikiem.
+
+
+
+

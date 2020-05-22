@@ -1,0 +1,48 @@
+
+
+Bizmut (Bi, łac. bisemutum, bismuthum lub bismutum) – pierwiastek chemiczny, metal bloku p układu okresowego. Nazwa pochodzi od niemieckiego słowa Wismut.
+
+Właściwości
+Czysty bizmut jest kruchym metalem o srebrnym połysku z różowymi refleksami.
+Jako jedna z nielicznych substancji wykazuje inwersję rozszerzalności termicznej – przy obniżaniu temperatury zmniejsza się jego gęstość, gęstość bizmutu w stanie stałym jest mniejsza niż w stanie ciekłym (podobne właściwości wykazuje woda w temperaturze 2S3), bizmutytu ((BiO)2CO3) i
+ochry bizmutowej, które stanowią zwykle zanieczyszczenie rud ołowiu i miedzi.
+Rzadko występuje w postaci rodzimej (elementarnej).
+
+Związki
+W związkach bizmut jest zazwyczaj trójwartościowy (stopień utlenienia III) i wykazuje właściwości zasadowe. Tworzy tlenek bizmutu(III) Bi2O3, wodorotlenek bizmutu(III) Bi(OH)3 oraz szereg soli zasadowych zawierających ugrupowanie bizmutylowe O=Bi+ (np. chlorek bizmutylu, O=Bi-Cl). Jako jedyny pierwiastek 15 grupy tworzy trwałe sole z kwasami tlenowymi, np. siarczan bizmutu(III), Bi2(SO4)3. Ponadto znane są sole bizmutu i kwasów beztlenowych (halogenki BiX3, siarczek bizmutu(III) Bi2S3). Wszystkie sole bizmutu łatwo ulegają hydrolizie do soli bizmutylowych.
+
+Bizmutowodór (bizmutyna), BiH3, jest nietrwałym, trującym gazem (temp. wrz. ok. 20&nbsp;°C) o właściwościach redukujących. Bizmut(III) tworzy też bezpośrednie połączenia z metalami, bizmutki typu M3Bi, np. bizmutek sodu Na3Bi i bizmutek magnezu Mg3Bi2.
+
+Znanych jest wiele związków kompleksowych bizmutu, np. zawierających anion [BiCl4]-, [BiCl5]2-, [BiCl5]3-, [Bi2Cl7]-, [Bi(SO4)2]- i in. Z ligandami kleszczowymi tworzy chelaty, np. [Bi(O2C6H4)2]-. Halogenki bizmutu są kwasami Lewisa i z donorami elektronów tworzą kompleksy typu Et2O→BiCl3.
+
+Na stopniu utlenienia V bizmut wykazuje właściwości kwasowe i tworzy nietrwałe sole – bizmutany typu MBiO3 o silnych właściwościach utleniających (np. bizmutan potasowy, KBiO3).
+
+Związki bizmutoorganiczne
+Podobnie jak pozostałe pierwiastki grupy 15, bizmut(III) tworzy połączenia z resztami organicznymi typu R3Bi oraz R3BiZ2 (R – reszta organiczna, Z – anion nieorganiczny), np. (CH3)3Bi, Ph3Bi, Ph3BiF2 lub Ph3Bi(OH)2.
+
+Izotopy
+Bizmut ma 35 izotopów z przedziału mas 184–218. Żaden z nich nie jest trwały. W 2003 roku we francuskim Institut d'Astrophysique Spatiale w Orsay wyznaczono dokładnie półokres rozpadu najtrwalszego izotopu bizmutu (209Bi), który wynosi ok. 1,9 lat (tj. ponad miliard razy więcej niż szacowany wiek Wszechświata), wcześniej szacowanego na 1018 lat. Ta śladowa radioaktywność ma jednak znaczenie naukowe, gdyż potwierdziła wcześniejsze obliczenia teoretyczne wskazujące na niestabilność wszystkich izotopów bizmutu. W naturalnym bizmucie występują też śladowe ilości radioizotopów, np. 210Bi (ok. 50 ppm składu izotopowego).
+
+Bizmut-210
+Emituje promieniowanie beta o energii 1,162 MeV, przekształcając się w 210Po. Często występuje w równowadze promieniotwórczej ze swoim prekursorem, 210Pb. Jest wysoce radiotoksyczny. Narząd krytyczny stanowią nerki, a dopuszczalne skażenie zostało ustalone na 1,5 kBq.
+
+Zastosowanie
+Bizmut jest znany od XV wieku. Głównymi producentami są Chiny, Meksyk i Peru. W XXI w. jego cena wzrosła od ok. 6 $/kg w 2000 r. do ok. 30 $/kg w 2007 r.
+
+Dodatek do stopów niskotopliwych (np. stop Wooda), w Niemczech także do produkcji stopów, z których odlewano czcionki drukarskie.
+Niektóre jego kompleksy karbonylkowe znalazły zastosowanie jako katalizatory metatezy węglowodorów.
+Ochra bizmutowa (Bi2O3) o barwie różowo-brązowej jest czasami stosowana jako barwnik w przemyśle kosmetycznym.
+Wykorzystuje się go do produkcji tworzyw sztucznych, farb.
+Stosuje się (np. w postaci zawiesiny) jako środek kontrastowy przy wykonywaniu zdjęć rentgenowskich (np. chlorek bizmutylu).
+Związki bizmutu wykazują właściwości antybakteryjne i są lub były stosowane jako leki (np. chlorek bizmutylu, zasadowy azotan bizmutawy, zasadowy węglan bizmutawy, zasadowy salicylan bizmutawy, koloidalny cytrynian bizmutawy), jodek bizmutawo-chininowy  lub środki antyseptyczne (np. dermatol, kseroform).
+Katalizator w procesie polimeryzacji.
+Włókno w bezpiecznikach elektrycznych.
+
+Znaczenie
+Znaczenie biologiczne – brak lub nieznane. Występuje naturalnie w kościach i krwi (ok. 0,2 ppm), ale nie odgrywa tam żadnej roli. Jego sole i tlenki są nietoksyczne, mimo że jest metalem ciężkim. Sole bizmutu stosowane są w leczeniu wrzodów żołądka spowodowanych zakażeniem Helicobacter pylori.
+
+
+
+
+
+Bibliografia

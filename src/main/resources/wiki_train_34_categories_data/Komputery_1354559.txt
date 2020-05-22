@@ -1,0 +1,45 @@
+
+Komputer nurkowy - elektroniczne urządzenie wspomagające nurkowanie, mierzące podstawowe parametry jak np. czas nurkowania, głębokość oraz wyposażone w specjalne algorytmy obliczające stopień saturacji organizmu nurka. Komputer nurkowy w zależności od modelu jest mocowany na przedramieniu (w formie zegarka) bądź na wężu wysokiego ciśnienia jako zamiennik konsoli.
+
+Funkcjonalność
+W zależności od modelu komputery nurkowe mogą być wyposażone w wiele różnych mierników. Do podstawowych należą:
+
+
+Czas nurkowania
+Aktualna głębokość
+Maksymalna głębokość nurkowania
+Pozostały czas bezdekompresyjny
+Głębokość i czas wymaganych przystanków dekompresyjnych
+Tempo wynurzania się
+Temperatura wody
+Czas "no fly" - minimalny czas jaki musi upłynąć od zakończenia nurkowania do lotu samolotem
+Przerwa powierzchniowa
+
+Dodatkowe, często spotykane wskaźniki/informacje:
+
+"Deep stop" - głębokie przystanki dekompresyjne
+Nasycenie O2 (%CNS)
+Przystanki bezpieczeństwa
+Ilość pozostałego czynnika oddechowego (dotyczy komputerów montowanych na wężu wysokiego ciśnienia lub wyposażonych w bezprzewodowy nadajnik pomiaru ciśnienia)
+Skład czynnika oddechowego
+
+Komputer nurkowy przechowuje informacje o sytuacjach zagrażających bezpieczeństwu nurka, np. pominiętych przystankach dekompresyjnych lub przekroczonej dopuszczalnej prędkości wynurzania.
+
+Tryby pracy
+Komputery nurkowe najczęściej pracują w trzech trybach.
+
+Tryb planowania - określanie profilu nurkowania. W tym trybie sprawdzany jest przede wszystkim czas bezdekompresyjny.
+Tryb nurkowania - w tym trybie komputer mierzy parametry nurkowania: czas, głębokość, pozostały czas bezdekompresyjny itp. Często w trybie nurkowania zawiera się dodatkowe parametry pracy komputera związane np. ze stosowanym czynnikiem oddechowym. W ten sposób komputer może pracować jako:
+z algorytmem do nurkowań powietrznych
+z algorytmem do nurkowań nitroksowych (lub z innymi mieszaninami)
+w funkcji "czasu dennego", gdzie wyłączone są algorytmy obliczające nasycenie tkanki azotem. W tej funkcji komputer jest najczęściej używany do trudnych nurkowań technicznych ze zmianami czynnika oddechowego pod wodą. Służy on wtedy jako zintegrowany zegarek z głębokościomierzem, podczas gdy skomplikowane obliczenia dotyczące saturacji są wykonywane na powierzchni w fazie planowania nurkowania.
+Tryb historii nurkowania - komputer pokazuje profile wykonanych nurkowań. Pokazywane są informację takie jak czas i głębokość (często również temperatura wody), alarmy. Informacje są zapisywane przez komputer w określonych interwałach czasowych (np. co 20 s). Wiele komputerów nurkowych jest wyposażonych w interfejsy umożliwiające kopiowanie danych do komputera typu PC i zachowanie ich w postaci elektronicznego log booka
+
+Stosowane algorytmy dekompresji
+Najczęściej stosowanymi algorytmami dekompresji są:
+Model RGBM
+Model Buhlmanna
+VPM
+
+
+

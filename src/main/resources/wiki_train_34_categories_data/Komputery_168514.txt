@@ -1,0 +1,14 @@
+
+Komputer Alto firmy Xerox, stworzony w Xerox PARC w 1973, jest uważany za pierwszy komputer osobisty z systemem graficznym. Wykorzystano w nim wiele innowacyjnych rozwiązań:
+
+graficzny interfejs użytkownika,
+pulpit widoczny na ekranie monitora,
+trójprzyciskowa mysz komputerowa,
+WYSIWYG czyli to, co użytkownik widział na ekranie było tym, co otrzymywał na wydruku,
+obsługa drukarek laserowych,
+obsługa sieci Ethernet.
+
+Jako ciekawostkę można podać fakt, że istniała dla tego systemu gra MazeWar. Była to gra typu first person shooter umożliwiająca wieloosobową sieciową rozgrywkę. 
+Xerox nigdy nie wprowadził Alto do sprzedaży, stworzył go jedynie w celach badawczych. W późniejszym czasie powstał system Xerox Star bazujący na technologiach opracowanych przy tworzeniu Alto. 
+
+Linki zewnętrzne

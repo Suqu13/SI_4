@@ -1,0 +1,13 @@
+Strela (ros Стрела, Strela tłumaczy się jako strzała) był pierwszym komputerem klasy mainframe produkowanym seryjnie w Związku Radzieckim od 1953.
+
+Głównym projektantem był Yuri Bazilewsky (Ю.Я. Базилевский), jego pomocnikiem był Boris Rameyew (główny konstruktor komputera Ural).
+
+Strela była produkowana w Moskiewskiej Fabryce (Московский завод счетно-аналитических машин) w okresie 1953-1957. Zostało wyprodukowanych 7 kopii. Maszyny zostały zainstalowane m.in. w Rosyjskiej Akademii Nauk, na Moskiewskim Uniwersytecie oraz w centrach komputerowych niektórych ministerstw (związanych z obronnością i ekonomiką). 
+
+Pierwsza generacja tego komputera posiadała 6200 lamp elektronowych oraz 60,000 półprzewodnikowych diod.
+
+Prędkość Streli wynosiła 2000 operacji na sekundę. Posiadała jednostkę zmiennoprzecinkową, która bazowała na 43-bit słowie. W Streli zastosowano pamięć, tylko do odczytu bazującą na diodach półprzewodnikowych dla programów, dane wprowadzano i wyprowadzano za pomocą kart perforowanych oraz przy pomocy taśmy magnetycznej, dodatkowo można było podłączyć drukarkę.
+
+Ostatnia wersja Streli używała pamięci bębnowej obracającej się z prędkością 6000 obrotów na minutę.
+
+Zobacz też

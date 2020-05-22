@@ -1,0 +1,16 @@
+Hafn (Hf, łac. hafnium) – pierwiastek chemiczny, metal przejściowy. Nazwa pochodzi od łacińskiej nazwy Kopenhagi "Hafnia", gdzie został odkryty.
+
+Odkrywcami hafnu są György von Hevesy z Węgier i Dirk Coster z Holandii. Został odkryty w roku 1923.
+
+Hafn występuje w przyrodzie zawsze wspólnie z bardzo podobnym do niego pod względem chemicznym cyrkonem. W związku z tym niemal niemożliwe jest wyizolowanie próbki jednego pierwiastka bez domieszki drugiego. Zawierający 2% cyrkonu hafn uważany jest za bardzo czysty, podobna tolerancja obowiązuje dla cyrkonu. Hafn występuje w skorupie ziemskiej w ilości 5,3 ppm (wagowo). Jego najważniejszym minerałem jest alwit (Hf,Th,Zr)SiO4∙xH2O. Węglik hafnu HfC ma bardzo wysoką temperaturę topnienia, powyżej 3890&nbsp;°C, a stop węgliku hafnu i węgliku tantalu (Ta4HfC5) ma jedną z najwyższych znanych temperatur topnienia: 4215&nbsp;°C.
+
+Zastosowanie
+Hafn był wykorzystywany w rodzinie procesorów Intela Penryn, jako izolacja tranzystorów pozwalająca zachować poprawność obliczeń. Stosowanie hafnu zapobiega "wyciekaniu" elektronów, w odróżnieniu do standardowych warstw bramki z dwutlenku krzemu.
+
+
+
+
+
+
+
+

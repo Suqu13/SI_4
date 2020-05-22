@@ -1,0 +1,19 @@
+Droga hamowania  – odległość przebyta przez pojazd w czasie od uruchomienia hamulca pojazdu do całkowitego zatrzymania się na równej, poziomej drodze o dobrej nawierzchni. Aby wartości były porównywalne, często podaje się drogę hamowania z prędkości 100 km/h do całkowitego zatrzymania. 
+
+W przepisach dotyczących ruchu drogowego ( Rozporządzenie Ministra Infrastruktury z dnia 31 grudnia 2002 r. w sprawie warunków technicznych pojazdów oraz zakresu ich niezbędnego wyposażenia) hamulce zasadnicze pojazdu uznaje się za sprawne, Skuteczność hamowania określa się wskaźnikiem, który jest stosunkiem siły hamowania do siły wynikającej z dopuszczalnej masy całkowitej pojazdu lub stosunkiem opóźnienia hamowania (uzyskanego na drodze poziomej o nawierzchni twardej, suchej i czystej) do przyśpieszenia ziemskiego.'' – np. dla autobusu 45%.
+
+Zależność drogi hamowania od prędkości można określić przyrównując energię kinetyczną samochodu w chwili poprzedzającej hamowanie z pracą hamowania, którą określa się jako iloczyn siły hamowania i drogi hamowania. Praca W wykonana przez siłę tarcia równa jest zmianie energii kinetycznej Ek od wartości początkowej do zera
+gdzie
+F – siła hamująca,
+s – droga hamowania.
+Przyjmując, że siła hamowania spełnia warunki siły tarcia można zapisać
+gdzie
+μ – efektywny współczynnik tarcia,
+N – siła nacisku,
+a – przyspieszenie (opóźnienie) związane z hamowaniem.
+Ze wzorów tych można wyznaczyć drogę hamowania
+Z wzoru tego wynika, że droga hamowania jest proporcjonalna do kwadratu prędkości oraz zależy od   opóźnienia samochodu podczas hamowania. Opóźnienie zależy głównie od warunków hamowania i jest mniejsze od współczynnika tarcia opon o jezdnię, statycznego przy obracających się kołach lub kinetycznego przy zablokowanych kołach. Z wzoru wynika, że droga hamowania nie zależy od masy pojazdu, ale współczynnik tarcia trochę zależy od siły nacisku. Poza tym, nieprawidłowy rozkład masy w pojeździe prowadzi do nierównomiernego rozkładu nacisku kół na jezdnię, a nieprawidłowe wyregulowanie lub niesprawność hamulców prowadzi do nieodpowiedniego rozłożenia sił hamujących obrót kół, co w sumie prowadzi do przedwczesnego zablokowania i wchodzenia w poślizg któregoś z kół, obniżenia sumarycznej siły hamującej i wydłużenia drogi hamowania.   
+
+
+
+

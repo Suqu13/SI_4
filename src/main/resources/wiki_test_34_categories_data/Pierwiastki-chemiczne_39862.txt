@@ -1,0 +1,32 @@
+Stal nierdzewna, nierdzewka, INOX (fr. inoxydable – "nieutleniający się") – grupa stali o specjalnych właściwościach fizykochemicznych, odpornych na korozję ze strony np.: czynników atmosferycznych (korozja gazowa), rozcieńczonych kwasów, roztworów alkalicznych (korozja w cieczach).
+
+Nierdzewność uzyskuje się poprzez wprowadzenie do stali odpowiednich dodatków stopowych. W przypadku stali chromowej nierdzewnej jest to chrom, a amerykańska norma AISI określa jego minimalną zawartość na 11%.
+
+Historia
+W drugiej połowie XIX wieku odkryto we Francji, że mieszanka żelaza i chromu chroni stal przed działaniem kwaśnych substancji. Stal nierdzewna została opatentowana w 1912 r. przez niemieckich inżynierów Kruppa. Patent dotyczył stali austenitycznej. Nazwy stal nierdzewna jako pierwszy użył angielski inżynier Harry Brearley. Pracował dla przemysłu zbrojeniowego w laboratoriach Brown Firth w Sheffield. W 1913 roku użył nazwy stal nierdzewna wobec swojego wynalazku mieszanki żelaza, węgla oraz chromu. Brearley poddał swój wynalazek działaniom octu oraz soku z cytryny i odkrył, że jego stal nie rdzewieje. Anglikowi udało się przekonać do nowego wynalazku producenta noży R. F. Mosleya. Początkowo stal nierdzewna używana była tylko do wyrobu sztućców. W 1924 r. w Wielkiej Brytanii została opatentowana stal według normy AISI 304 zawierająca 18% chromu i 8% niklu.
+
+Powody używania
+Główne powody używania stali nierdzewnej:
+odporność na korozje
+możliwość stosowania w agresywnym środowisku
+odporność na wysokie temperatury (ma to związek z wysoką zawartością Cr)
+lśniący połysk
+
+Użycie
+Stali nierdzewnych używa się na zbiorniki na wyroby z ropy naftowej, zbiorniki i cysterny mleczarskie, niecki basenów pływackich, kolumny rektyfikacyjne, instalacje w przemyśle koksowniczym, łopatki turbin parowych, armaturę przemysłową i domową, narzędzia chirurgiczne, sztućce, naczynia i garnki, instalacje w przemyśle spożywczym, takielunek i okucia żeglarskie, wytrzymałe konstrukcje stalowe, dekoracyjne elewacje, części silnikowe w samolotach i rakietach, windy, chłodnie, klimatyzatory, piece żaroodporne, balustrady ozdobne, itp. Normy HACCP wymagają, by w kontakcie z żywnością używać stali nierdzewnej.
+
+Normy
+Stal nierdzewną w Polsce oznacza się według 5 najważniejszych norm:
+Polska Norma PN
+Europejska Norma EN 10088
+Amerykańska Norma AISI
+Rosyjska Norma GOST
+Niemiecka Norma DIN.
+
+Rodzaje
+Wyróżnia się 4 główne rodzaje stali nierdzewnych: stal austenityczna, stal ferrytyczna, stal martenzytyczna, stal ferrytyczno-austenityczna duplex. Każdy rodzaj składa się z kilku gatunków stali. Jednak ok. 70% produkcji stali nierdzewnej stanowi stal austenityczna, głównie stal o oznaczeniu 1.4301 według normy EN 10088 (18% chromu, 10% niklu), tzw. stal '''''18-10''''' lub '''''18/10''''' – tego typu oznaczenia można znaleźć na wielu wyrobach ze stali nierdzewnej, np. na sztućcach, garnkach.
+
+Gatunki
+Według Normy EN 10088 Stal austenityczna dzieli się na gatunki: 1.4301, 1.4305, 1.4306, 1.4307, 1.4310, 1.4401, 1.4435, 1.4436, 1.4438, 1.4439, 1.4529, 1.4539, 1.4541, 1.4547, 1.4550, 1.4571. Stal ferrytyczna dzieli się na gatunki: 1.4000, 1.4003, 1.4016, 1.4510. Stal martenzytyczna dzieli się na gatunki: 1.4006, 1.4021, 1.4028, 1.4031, 1.4034, 1.4057, 1.4122. Stal ferrytyczno-austenityczna dzieli się na gatunki: 1.4362, 1.4410, 1.4460, 1.4462.
+
+

@@ -1,0 +1,24 @@
+Oko (ros. Око) – seria radzieckich, a potem rosyjskich, wojskowych satelitów wczesnego ostrzegania przed pociskami balistycznymi. Pierwszy radziecki system wczesnego ostrzegania pracujący w podczerwieni. Wystrzelono 101 statków tego typu, z czego trzy starty zakończyły się niepowodzeniem.
+
+Historia
+Prace nad systemem rozpoczęły się w 1967. Głównym wykonawcą miały zostać zakłady TsNII Kometa. Za rakietę nośną odpowiadać miało OKB Ławoczkin. Według założeń, system miał dawać ostrzeżenia 15 do 30 minut wcześniej niż system radarowy. System miał mieć osobne, dedykowane, centrum przetwarzania danych, nie połączone ze wspólnym systemem GUKOS.
+
+W latach 1972-1976 wystrzelono cztery testowe warianty satelitów. Trzy z nich pracowały normalnie, co pozwoliło na wstępne uruchomienie systemu w 1977. W 1980 roku rozpoczęto prace nad rozbudową systemu tak, aby umożliwiał całodobowy dozór wszystkich możliwych miejsc wystrzeliwania wrogich rakiet balistycznych.
+
+Warianty
+Istniały trzy warianty satelitów Oko:
+US-K – pierwszy wariant, wszedł do służby w 1972 (Kosmos 520), zakończył ją w 2010 (Kosmos 2469). Jako rakietę wykorzystywał konstrukcję Mołnia 8K78M/2BL, a starty odbywały się z Plesiecka.
+US-KS – wywodzi się z US-K, funkcjonował od 1975 (Kosmos 775) do 1997 (Kosmos 2345). Jako rakietę wykorzystywał Proton K / Blok DM-2, a wszystkie starty odbywały się z Bajkonuru.
+US-KMO – ostatni wariant, wykorzystywał tę samą rakietę co US-KS. Do służby wszedł w 1991 (Kosmos 2133), zaś ostatni satelita tej serii wzniósł się w 2012 (Kosmos 2479). Starty również odbyły się z Bajkonuru.
+
+Satelity Oko typu US-K były wysyłane na silnie wydłużone orbity (podobnie jak łącznościowe satelity serii Mołnia), satelity US-KS i US-KMO wysyłano na kołowe orbity geostacjonarne.
+
+Satelity US-K miały masę od 1200 do 1950 kg (bez paliwa). Pozostałe wersje ważyły 2000-2500 kg.
+
+System Oko miał dwa centra kontroli: Piwan 1 we wschodniej Syberii i Serpuchow 15 niedaleko Kuriłowa k. Moskwy.
+
+System ten miał poważny problem w 1983, gdy to jeden z satelitów „wykrył” wystrzał pocisków Minuteman wymierzonych w ZSRR. Kierujący centrum Serpuchow 15 ppłk Stanisław Pietrow uznał, iż jest to błąd systemu satelitarnego, który zinterpretował odbłyski nad USA jako start pocisków.
+
+
+
+Bibliografia

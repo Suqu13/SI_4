@@ -1,0 +1,44 @@
+ZX-81''' – komputer domowy, opracowany i produkowany przez angielską firmę Sinclair Research Ltd. od marca 1981, wprowadzony na rynek przy znacznym udziale mediów. Był następcą komputera ZX-80, który odniósł znaczny sukces rynkowy i został sprzedany w ilości 50&nbsp;000 sztuk.
+
+Opis urządzenia
+Komputer zbudowano w oparciu o 4 układy scalone: procesor Z80, układ logiczny Sinclair Computer Logic wykonany w technice ULA, 8192-bajtowy ROM, 1024-bajtową pamięć RAM. Układ logiki generował sygnały selekcji pamięci RAM i ROM. Większość elektroniki zaprojektował Jim Westwood, odpowiedzialny również za konstrukcję ZX-80. Możliwe było przyłączenie zewnętrznych pakietów RAM (16 kB w cenie 29,95 GBP), maksymalnie do 64 kB z czego dostępne było 56 kB. Oferowane na rynku rozwiązania innych producentów pozwalały zwiększyć pamięć komputera nawet do 1 megabajta, z wykorzystaniem techniki stronicowania pamięci. Złącze rozszerzeń komputera było krawędziowe. ROM zawierał język programowania Sinclair BASIC, który w odróżnieniu od poprzednika potrafił prowadzić działania na liczbach zmiennoprzecinkowych (pewne błędy w module matematycznym wyeliminowano dopiero na jesieni 1981).
+
+Układ logiki ULA, opisany w instrukcji ZX81 jako "dogsbody" systemu, realizuje szereg kluczowych funkcji, które komputery konkurujących firm realizowały wieloma układami scalonymi. Obejmują one:
+Synchronizacja wyświetlania na ekranie.
+Generowanie przebiegu zegara o częstotliwości 6,5 MHz, dzieleniu jej i przekazywanie 3,25 MHz na wejście zegarowe procesora.
+Wyprowadzanie sygnału audio do magnetofonu w trybie SAVE.
+Przetwarzanie przychodzącego z magnetofonu sygnału audio kasety w trybie LOAD;
+Wykrywanie naciśnięcia klawiszy.
+Generowanie sygnałów sterujących (CS) dla ROM i RAM.
+Kontrolowanie ogólnego taktowania systemu.
+
+Komputer ten miał membranową, dotykową klawiaturę o małych rozmiarach, wyjście telewizorowe (z sygnałem czarno-białym). Ekran pracował w trybie tekstowym, wyświetlając 24 wiersze po 32 kolumny, z czego 22 górne wiersze przeznaczone były do wyświetlania wyników działania programu, a 2 dolne linie do wpisywania kodu programu i danych. Każdy znak (z wyjątkiem 2 linii na dole) był podzielony na 4 piksele (2x2), co dawało rozdzielczość 64&nbsp;×&nbsp;48&nbsp;px (programowo można było definiować własne znaki i uzyskać w ten sposób rozdzielczość do 256x192). Jako pamięć masowa stosowane były zwykłe magnetofony kasetowe; dane do magnetofonu wysyłane były przez wyjście audio. Na rynku dostępnych było dla niego kilkadziesiąt gier oraz kilkanaście programów edukacyjnych i użytkowych.
+
+Komputer sprzedawano w USA w cenie 199 USD, zaś w Niemczech – 498 DEM. Na rynku brytyjskim, gdzie urządzenie opracowano, cenę sprzedaży ustalono na 69,95 GBP za kompletny komputer lub 49 funtów za zestaw do samodzielnego montażu, zaś względnie niska cena była pochodną zastosowania układu ULA produkcji firmy Ferranti, co obniżyło koszty produkcji poprzez zredukowanie liczby elementów komputera. W dwa lata sprzedano ponad milion sztuk ZX-81, z czego 300&nbsp;000 użytkownicy zamówili z katalogu wysyłkowego firmy Sinclair Research. W samej Wielkiej Brytanii pierwszy rok sprzedaży ZX-81 zakończył się liczbą 400 tysięcy sprzedanych egzemplarzy.
+
+Komputer produkowany był przez zakłady Timex Sinclair w szkockiej miejscowości Dundee i sprzedawany na rynku amerykańskim pod marką Timex Sinclair 1000.
+
+Obudowa była wykonana z tworzywa sztucznego ABS.
+
+Jego następcą był ZX Spectrum.
+
+Peryferia
+Do komputera od okresu świątecznego 1981 można było dokupić drukarkę ZX Printer, której początkową cenę 49,95 GBP zwiększono do 59,95 GBP z uwagi na zwiększone koszty produkcji (w tym czasie typowa drukarka 9-igłowa kosztowała od 200 do 300 GBP). Drukarka ZX była drukarką iskrową, drukowała na specjalnym papierze o czarnym podłożu powleczonym cienką folią aluminiową (12 GBP za pięć niewielkich rolek). Po uziemionym papierze ślizgał się dotykający ją w jednym punkcie drut, powodując przepalenie aluminium i prześwit czarnego papieru. Drukarka oferowała 32 znaki w linii o długości około 4". Drukarkę wycofano ze sprzedaży po wejściu na rynek mikrokomputera ZX Spectrum.
+
+
+Plik:ZX-81 side view.jpg|ZX-81 z zewnętrzną pamięcią 16 kB
+Plik:ZX81 Leiterkarte.jpg|Elektronika ZX-81
+Plik:ZX-81 memo slot.jpg|Złącze rozszerzeń
+Plik:Sinclair ZX81 Setup PhotoManipped.jpg|ZX-81 z monitorem
+Plik:ZX81 kit.jpg|ZX-81 w zestawie do samodzielnego montażu
+
+
+Bibliografia
+
+
+Zobacz też
+Cobra 1
+
+
+
+Linki zewnętrzne

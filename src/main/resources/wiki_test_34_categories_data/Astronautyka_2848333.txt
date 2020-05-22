@@ -1,0 +1,21 @@
+TIROS 10''' (ang. Television Infrared Observational Satellite; Satelita obserwacji telewizyjnych i podczerwonych) – okołobiegunowy amerykański satelita meteorologiczny i technologiczny. Drugi z serii TIROS umieszczony na orbicie zbliżonej do polarnej. Wysłany w celu usprawnienia procesu pozyskiwania satelitarnych zdjęć pokrywy chmur na potrzeby programu TOS, tj. TIROS Operational System, był satelitą „przejściowym”.
+
+Dostarczał zdjęć telewizyjnych całej dziennej półkuli Ziemi. System telewizyjny działał normalnie do 30 września 1965, a potem sporadycznie do 31 lipca 1966 roku, gdy satelita został wyłączony.
+
+TIROS 10 pozostaje na orbicie, której trwałość szacuje się na 80 lat.
+
+Budowa i działanie
+
+Statek został opracowany przez Goddard Space Flight Center, część NASA, oraz firmy: Radio Corporation of America (RCA), Astro Electronic Division (dzisiejszy Lockheed Martin). Szkielet satelity wykonano z aluminium i stali nierdzewnej. Kadłub miał kształt graniastosłupa o podstawie osiemnastokątnej. Pokrycie statku stanowiło około 9000 krzemowych ogniw słonecznych, każde o wymiarach 1×2 cm. Gromadziły energię w 21 akumulatorach NiCd.
+
+Na obwodzie spodu statku zamontowano pięć stałopędnych silniczków nadających satelicie ruch obrotowy o prędkości od 8 do 12 obrotów na minutę. Oś obrotu statku mogła być kontrolowana z dokładnością 1, 2 stopni. Służył do tego magnetyczny system kontroli położenia (Quarter-Orbit Magnetic Attitude Control, QOMAC). Jego układem wykonawczym było 250 przewodów owijających statek po obwodzie. Konieczny dla kontroli pozycji moment obrotowy wytwarzała interakcja ziemskiego pola magnetycznego z polem magnetycznym (prądem) zaindukowanym w statku. Nowym elementem był podczerwony czujnik horyzontu.
+
+Do łączności z Ziemią używano pojedynczej anteny monopolowej. Umieszczona była na szczycie statku. Dwie anteny dipolowe (4 pręty wystające  ze spodu statku) służyły do nadawania telemetrii (częstotliwość 235 MHz; moc 2 W). Kamery wyzwalały się automatycznie po wejściu Ziemi w pole widzenia. Zdjęcia były przesyłane bezpośrednio na Ziemię lub nagrywane na rejestratorze, mieszczącym do 32 obrazów. Nadawanie sekwencji 32 obrazów trwało 100 sekund. Odbywało się przez 3 W nadajnik FM, na częstotliwości 237 MHz. 
+
+Ładunek
+System telewizyjny
+System telewizyjny TIROS-a 10 miał za zadanie sprawdzić możliwości uzyskania telewizyjnych zdjęć satelitarnych pokrywy chmur. Statek wyposażono w dwie bliźniacze niezależne szerokokątne kamery telewizyjne typu Vidicon (500 linii, obiektyw 1,27 cm) o polu widzenia 104°. Każda ze swoim rejestratorem taśmowym i nadajnikiem. Zespoły te mogły pracować jednocześnie lub na zmianę. Obiektywy kamer umocowane były u spodu statku, równolegle do osi obrotu. Magnetyczny system kontroli położenia pozwalał na wykonywanie zdjęć pod różnym kątem nachylenia do nadiru. Kamery były uruchamiane tylko w momencie widoczności Ziemi, z możliwością decyzji o przesyłaniu zdjęć na żywo lub zgrywaniu ich na rejestratory, celem późniejszego przesłania na Ziemię. Rejestratory mogły przechować do 32 zdjęć. Przesłanie ich wszystkich dwuwatowym nadajnikiem FM (częstotliwość 235 MHz) zajmowało 100 sekund. Jedno zdjęcie pokrywało obszar około 1200 x 1200 kilometrów, przy rozdzielczości w nadirze 2,5-3,0 km. Podobnie jak kamery TIROS-a 9, tak i TIROS 10 mógł wykonać zdjęcie całej dziennej półkuli. System przesłał do 31 lipca 1966 roku ponad 50&nbsp;000 użytecznych meteorologicznie zdjęć (około 400 dziennie).
+
+Bibliografia
+Linki zewnętrzne
+- obszerna galeria zdjęć związanych z programem TIROS

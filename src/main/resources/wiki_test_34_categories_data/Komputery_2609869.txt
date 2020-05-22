@@ -1,0 +1,109 @@
+RPL ''(Reverse Polish Notation Lisp)'' – to język programowania stworzony przez firmę Hewlett-Packard stosowany do programowania kalkulatorów HP-28, HP-39, HP-48, HP-49 i HP-50. Jest językiem strukturalnym operującym na stosie (RPN), pozwala jednak na przetwarzanie typowych wyrażeń algebraicznych. W odróżnieniu od wcześniejszych modeli kalkulatorów (4 poziomy stosu), stos w RPL jest ograniczony wyłącznie pamięcią kalkulatora.
+
+RPL wspiera standardowe instrukcje warunkowe, o następującej składni:
+
+
+ IF condition THEN if-true [ELSE if-false] END
+
+
+Poniższy przykład sprawdza, czy najniższa liczba na stosie jest równa 1. Jeśli tak, wyświetla napis "rowne jeden"
+
+
+ « IF 1 == THEN "rowne jeden" END »
+
+
+Instrukcje warunkowe występują również w wariantach IFT and IFTE. Zdejmują one ze stosu dwa lub trzy elementy. Najwyższy jest traktowany jako warunek, natomiast pozostałe są wprowadzane (lub nie) w zależności od spełnienia tego warunki z powrotem na stos. Jeśli na stosie jest liczba 1, poniższy kod zamienia ją na "jeden".
+
+
+ « 1 == "jeden" IFT »
+
+
+Analogiczny przykład z IFTE pozwala na zamianę na "nie jeden" w przeciwnym przypadku:
+
+
+ « 1 == "jeden" "nie jeden" IFTE »
+
+
+Bardziej skomplikowane warunki są implementowane za pomocą CASE-THEN-END:
+
+
+ CASE
+  condition_1 THEN if-condition_1 END
+   ...
+  condition_n THEN if-condition_n END
+  if-none
+ END
+
+
+Poniższy przykład zamienia literę "A" na "Alpha", "B" na "Beta" itd. lub wyświetla "nieznana litera".
+
+
+ «
+   CASE
+      DUP "A" == THEN "Alpha" END
+      DUP "B" == THEN "Beta" END
+      DUP "G" == THEN "Gamma" END
+      "nieznana litera"
+   END
+   SWAP DROP
+ »
+
+
+Powyższy kod jest równoznaczny implementacji IF-THEN-ELSE:
+
+
+ «
+    IF DUP "A"
+    THEN
+       "Alpha"
+    ELSE
+       IF DUP "B" == THEN
+          "Beta"
+       ELSE
+          IF DUP "G" == THEN
+             "Gamma"
+          ELSE
+             "nieznana litera"
+          END
+       END
+    END
+    SWAP DROP
+ »
+
+
+Nieco bardziej skomplikowane są pętle typu FOR, następujący przykład sumuje liczby od 1 do 10:
+
+
+ «
+    0       @ Zero na stosie
+    1 10    @ Pętla od 1 do 10
+    FOR I   @ "I" jest zmienną pętli
+       I +  @ odłożenie I na stos i dodanie do znajdującej się tam wartości
+    NEXT
+ »
+
+
+Sekwencja START-NEXT jest analogiczna, jednak nie udostępnia żadnej zmiennej:
+
+
+ index_from index_to START loop_statement NEXT
+
+
+W przypadku pętli z krokiem innym niż 1 stosuje się konstrukcję FOR-NEXT lub START-NEXT. Poniższy przykład jest pętlą od 10 do 2 z krokiem -2:
+
+
+ « 10 2 START -2 STEP »
+
+
+Dostępne są również konstrukcje WHILE-REPEAT i DO-UNTIL:
+
+
+ WHILE condition REPEAT loop_statement END
+ DO loop_statement UNTIL condition END
+
+
+Linki zewnętrzne
+– Niezależna implementacja
+
+
+

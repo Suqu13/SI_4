@@ -1,0 +1,38 @@
+Wspólny Słownik Zamówień, CPV (ang. Common Procurement Vocabulary) – to jednolity system klasyfikacji zamówień publicznych. Ma on na celu standaryzację pozycji stosowanych przez instytucje i podmioty zamawiające przy opisywaniu przedmiotów zamówień publicznych. Słownik ma na celu jednoznaczne określenie przedmiotu zamówienia.
+
+Klasyfikacja kodów CPV została wprowadzona do stosowania w zamówieniach publicznych realizowanych w krajach Unii Europejskiej na podstawie rozporządzenia (WE) nr 2195/2002 Parlamentu Europejskiego i Rady w sprawie Wspólnego Słownika Zamówień (CPV), a została zastąpiona nową od września 2008 r. na mocy rozporządzenia Komisji WE nr 213/2008 z dnia 28 listopada 2007 r.
+
+Struktura systemu klasyfikacji
+
+CPV składa się ze słownika głównego oraz słownika uzupełniającego. Słownik główny opiera się na strukturze drzewa obejmującej kody powiązane ze sformułowaniami, które stanowią opis dostaw, robót budowlanych lub usług stanowiących przedmiot zamówienia. Kod numeryczny składa się z 8 cyfr, podzielonych w następujący sposób:
+
+dwie pierwsze cyfry określają działy (XX000000-Y),
+trzy pierwsze cyfry określają grupy (XXX00000-Y),
+cztery pierwsze cyfry określają klasy (XXXX0000-Y),
+pięć pierwszych cyfr określa kategorie (XXXXX000-Y).
+
+Każda z ostatnich trzech cyfr zapewnia większy stopień precyzji w ramach każdej kategorii. 
+
+Dziewiąta cyfra służy do zweryfikowania poprzednich cyfr.
+
+Słownik uzupełniający może być stosowany w celu rozszerzenia opisu przedmiotu zamówienia. Pozycje składają się z kodu alfanumerycznego wraz z odpowiadającym mu sformułowaniem, umożliwiającym dalsze sprecyzowanie charakteru lub przeznaczenia zamawianych towarów. Kod alfanumeryczny składa się z:
+
+pierwszego poziomu zawierającego literę odpowiadającą sekcji,
+drugiego poziomu zawierającego literę odpowiadającą grupie,
+trzeciego poziomu zawierającego dwie cyfry odpowiadające poddziałom.
+
+Trzecia cyfra służy do zweryfikowania poprzednich cyfr.
+
+Zobacz też
+
+Zamówienia publiczne
+
+Linki zewnętrzne
+
+
+darmowe wyszukiwarki kodów CPV: , 
+
+
+
+
+

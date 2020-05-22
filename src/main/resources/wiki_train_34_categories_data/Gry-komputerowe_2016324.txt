@@ -1,0 +1,8 @@
+Commanche 3''' - gra komputerowa firmy Novalogic typu symulatora lotu. Commache 3 to popularna gra jako symulator śmigłowca bojowego. Commanche 3 pozwala na grę jednoosobową jak i multiplayer. Pilotowanie w Commanche 3 rozpoczyna się od treningu. W grze obowiązują 4 kampanie, z której każda z nich ma 8 misji.
+
+Ciekawą opcją w grze jest Commanche Overview. Pozwala ona poznać dokładnie śmigłowiec gracza poprzez trójwymiarowy model samolotu.
+
+Bibliografia
+Easy PC wyd. Vogel Publishing Wrocław 2000 rozdział Rozrywka str 26.
+
+

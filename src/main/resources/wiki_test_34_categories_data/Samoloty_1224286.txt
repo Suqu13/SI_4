@@ -1,0 +1,15 @@
+EM-10 Bielik (wcześniej Iskra II) – polski, odrzutowy samolot szkoleniowy konstrukcji kompozytowej, zaprojektowany przez Edwarda Margańskiego. Oblot samolotu miał miejsce 4 czerwca 2003 roku, jednak samolot nie wszedł do produkcji seryjnej.
+
+Budowa
+Kadłub
+Struktura kadłuba z przyczyn zarówno projektowych, jak i produkcyjnych – podzielona na trzy części:
+część przednia – kompozytowa, zawierająca dwumiejscową hermetyzowaną kabinę pilotów w układzie tandem, przednie podwozie, przedział wyposażenia elektronicznego oraz przedni zbiornik paliwa
+część środkowa (kompozytowa) mieszcząca w sobie główny zbiornik paliwa, podwozie główne oraz systemy hydrauliczne, paliwowe i elektroniczne
+część tylna – z przedziałem silnikowym, jako struktura ze stopów lekkich wzmacnianych elementami tytanowymi.
+
+Układ sterowania
+W podstawowej wersji system sterowania poprzecznego i wzdłużnego mechaniczny – ze wspomaganiem hydraulicznym. W perspektywie planowany jest pośredni system sterowania z zastosowaniem komputera, który będzie symulował charakterystyki pilotażowe różnych samolotów. System zasilania w samolocie jest hydrauliczny, przeznaczony do zasilania podwozia, klap skrzydłowych oraz hamulców aerodynamicznego i hamulca podwozia, jak również wzmacniacza w układzie sterowania.
+
+W podstawowej wersji wojskowej, jak i cywilnej samolot będzie wyposażony w standardowe wyposażenie radionawigacyjne. W wersji rozwiniętej – samolot wyposażony w system symulacyjny.
+
+Linki zewnętrzne

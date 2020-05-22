@@ -1,0 +1,34 @@
+Celownik termowizyjny – urządzenie umożliwiające celowanie z broni palnej w warunkach utrudnionej widoczności, wykorzystujące różnicę temperatur między celem a jego otoczeniem. Umożliwia wykrycie celu w całkowitej ciemności oraz przy obniżonej przejrzystości powietrza w obecności dymu lub mgły. Rejestruje emisję długofalowego promieniowania podczerwonego podobnie jak termowizor, jednak jest konstrukcyjnie przystosowany do odróżniania potencjalnych celów od otoczenia, a nie analizy rozkładu temperatur.
+
+Opis działania
+Ciała emitują promieniowanie cieplne, natężenie tego promieniowania rośnie z temperaturą, więc cieplejsze ciała (np. człowiek, pracujący silnik pojazdu) emitują go więcej niż budynki czy otaczająca roślinność.
+
+Detektor mikrobolometryczny urządzenia rejestruje promieniowanie docierające do niego poprzez obiektyw, a układ mikroprocesorowy przetwarza te dane i przekazuje do wyświetlacza widocznego w okularze urządzenia. Wstawienie przed termowizor celownika kolimatorowego dodającego do obrazu plamkę świetlną, tworzy układ umożliwiający celowanie z broni palnej. Współczesne celowniki termowizyjne mają wbudowany układ tworzący znak celowniczy na obrazie termalnym.
+
+Połączenie z noktowizorem
+Urządzenie termowizyjne dostarcza innych informacji niż noktowizor pasywny, gdyż pracuje w innym zakresie podczerwieni i wykorzystuje głównie emisję promieniowania a nie jego odbicie z oświetlenia szczątkowego. Dlatego skonstruowano urządzenia celownicze łączące cechy noktowizora i termowizora, w których na obraz otoczenia z noktowizora nałożone są widoczne w innym kolorze sylwetki potencjalnych celów. Pierwszym producentem takich urządzeń były Stany Zjednoczone, a obecnie rozwinięto ich produkcję w Polsce.
+
+Polskie celowniki termowizyjne
+W Polsce produkcją optyki dla wojska (w tym termowizyjnej) zajmuje się Przemysłowe Centrum Optyki S.A. z siedzibą w Warszawie. Konstrukcje powstają we współpracy z uczelniami wojskowymi.
+
+Celowniki strzeleckie:
+CTS-1, pierwszy polski celownik termowizyjny umożliwiający, poprzez dobór obiektywu, celowanie z dowolnej broni z karabinami 12,7 mm włącznie
+CTS-2, celownik termowizyjny o zmniejszonych rozmiarach, przeznaczony do wykorzystania z bronią podstawową (karabinkiem)
+MTN-1, monokular termalno-noktowizyjny, który po zamontowaniu na hełmie umożliwia obserwację, a na broni mierzenie do celów wielkości człowieka w odległościach do 500 m
+CTS-3, konstrukcja obecnie rozwijana.
+
+Poza w/w w Polsce są produkowane urządzenia wykorzystujące termowizję do kierowania ogniem czołgów (DRAWA-TGA) oraz do osłaniania pojazdów wojskowych przed wrogimi systemami celowniczymi wykorzystującymi promieniowanie w tym zakresie.
+
+Innym polskim producentem celowników termowizyjnych jest warszawska firma ETRONIKA Sp. z o.o. produkująca celowniki termowizyjne do broni strzeleckiej:
+ACRAB
+TAD-7 (Thermal Aiming Device)
+VIKI / VIKI HD
+Uniwersalny celownik termalny UCT-1
+
+Literatura
+Opis celownika CTS-1 http://www.witu.mil.pl/www/biuletyn/zeszyty/20090109p/65.pdf
+
+
+
+
+

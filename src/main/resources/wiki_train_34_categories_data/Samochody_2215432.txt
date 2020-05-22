@@ -1,0 +1,25 @@
+GAZ-MM - lekki samochód ciężarowy produkowany przez firmę GAZ w latach 1938-1950. Dostępny jako 2-drzwiowy pick-up. Do napędu użyto silnika R4 o pojemności 3,3 litra. Moc przenoszona była na oś tylną poprzez 4-biegową skrzynię biegów. Samochód wyposażony był w mechaniczne hamulce na obu osiach.
+
+Samochód był wierną kopią amerykańskiego Forda AA. Od GAZa-AA różnił się zastosowanym silnikiem - był on mocniejszy.
+
+Dane techniczne
+Silnik
+R4 3,3 l (3285 cm³), 2 zawory na cylinder, SV
+Układ zasilania: gaźnik
+Średnica cylindra × skok tłoka: 98,43 mm × 107,95 mm
+Stopień sprężania: 4,6:1
+Moc maksymalna: 50 KM przy 2800 obr/min
+Maksymalny moment obrotowy: 17,0 kGm
+
+Osiągi
+Prędkość maksymalna: 70 km/h (załadowany)
+Średnie zużycie paliwa: 21 l / 100 km
+
+Inne
+Promień skrętu: 7,5 m
+Koła: 6,5 x 20 cali
+Ładowność: 1500 kg
+
+
+
+Bibliografia

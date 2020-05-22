@@ -1,0 +1,55 @@
+Dicrano-Pinion – syntakson w randze związku należący do klasy borów szpilkowych Vaccinio-Piceetea (zobacz też las iglasty). W zasadzie pokrywa się z tradycyjnym pojęciem borów sosnowych (choć zaliczane do niego są występujące na podobnych siedliskach lasy mieszane, a nawet liściaste).
+
+Charakterystyka
+Widny, wysokopienny las z dominacją sosen, zwykle z domieszką brzóz. Warstwa krzewów jest luźna i złożona z podrostów brzóz i jałowca. Runo jest ubogie i w zależności od warunków siedliskowych tworzą je głównie borówki i wrzos. W miejscach suchych warstwę tę tworzą mchy i porosty, niekiedy dość obficie występują trawy i orlica pospolita.
+
+Gleba: Bory sosnowe występują na glebach ubogich i skrajnie ubogich (oligotroficznych i mezotroficznych), kwaśnych, wytworzonych z piasków luźnych lub słabo gliniastych, ale także torfowiskowych. Poziom zalegania wody gruntowej jest zróżnicowany - od siedlisk suchych po bagienne, bardzo mała mineralizacja wód.
+
+Światło: Dopływ energii promienistej do dna lasu jest w borach sosnowych duży od 40 do 90% w borach chrobotkowych. Specyficzną cechą oświetlenia borów sosnowych jest jego względna jednorodność przestrzenna, wynikająca z wielokrotnego rozproszenia światła na igłach w koronach sosen. Ta duża świetlistość wpływa kojąco, gruntując w człowieku poczucie bezpieczeństwa. Sosny są światłolubne, więc często na otwartych terenach tworzy się nalot sosnowy. Ich naturalne odnowienia są jednak możliwe tylko przy zachowanych warunkach świetlnych. W warunkach naturalnych nierzadko zacienienie wzrasta na tyle, że odnawiać się mogą tylko bardziej cienioznośne gatunki, np. świerk, co ma wpływ na kilkusetletnie cykle drzewostanu. 
+
+Powietrze: Wilgotność powietrza jest różna. Nierzadko jest mała bądź bardzo mała. Duże przewietrzanie spowodowane znaczną ruchliwością powietrza, wymiana mas powietrza między warstwą koron a dnem jest znaczna. W borach sosnowych jest niska czasami średnia produkcja tlenu to znaczy, że w drzewostanach dojrzałych wytwarzane jest w ciągu roku 5 ton tlenu na obszarze 1 ha. W młodnikach produkcja ta jest wyższa i wynosi 10-12 ton. Powietrze szczególnie w porannych godzinach zawiera ozon (średnio 0,015 mg/m³). Fitoaerozole w borach sosnowych zawierają głównie monoterpeny z niewielką domieszką seskwiterpenów, terpenoidów i innych substancji chemicznych. Zawartość aeroplanktonu jest nieduża dzięki bakteriobójczym i grzybobójczym własnościom monoterpenów i ozonu.
+
+Własności terapeutyczne: Bory sosnowe są typem środowiska oddziałującym leczniczo na choroby układu oddechowego. Substancje lotne, poza silnym działaniem dezynfekcyjnym, obniżają ciśnienie krwi i wpływają tonizująco na układ nerwowy. 
+
+Występowanie: Borealno-kontynentalny obszar niżowy Europy (jej północno-wschodnia część) w tym niemal cały obszar Polski, z wyjątkiem gór. Drzewostan sosnowy bywa nasadzany także w miejscach, niebędących naturalnym siedliskiem borów sosnowych.
+
+Charakterystyczna kombinacja gatunków:
+ChCl.''': widłoząb miotlasty (Dicranum scoparium), rokietnik pospolity (Pleurozium schreberi), gajnik lśniący (Hylocomium splendens), pszeniec zwyczajny (Melampyrum pratense), piórosz pierzasty (Ptilium crista-castrensis), gruszyczka mniejsza (Pyrola minor), gruszyczka okrągłolistna (Pyrola rotundifolia), pawężnica brodawkowata (Peltigera aphthosa), siódmaczek leśny (Trientalis europaea), borówka czarna (Vaccinium myrtillus), borówka bagienna (Vaccinium uliginosum), borówka brusznica (Vaccinium vitis-idaea)
+
+ChO.''': sosna zwyczajna (Pinus sylvestris), chrobotek reniferowy (Cladonia rangiferina), chrobotek leśny (Cladonia arbuscula), widłoząb ciemny (Dicranum fuscescens), widłoząb kędzierzawy (Dicranum polysetum)
+
+ChAll.''': pomocnik baldaszkowy (Chimaphila umbellata), widlicz spłaszczony (Diphasiastrum complanatum), korzeniówka pospolita (Monotropa hypopitys), gruszyczka zielonawa (Pyrola chlorantha), jemioła pospolita rozpierzchła (Viscum album ssp. austriacum)
+
+Dzielony jest na dwa podzwiązki:
+Dicrano-Pinenion Seibert in Oberd. (ed.) 1992 em. - bory sosnowe na glebach mineralnych i bory mieszane
+DSAll.''': kosmatka owłosiona (Luzula pilosa), Pszeniec zwyczajny (Melampyrum pratense), jarząb pospolity (Sorbus aucuparia)
+
+Piceo-Vaccinienion uliginosi Seibert in Oberd. (ed.) 1992 em. - bagienne bory sosnowe i brzeziny
+DSAll.''': borówka bagienna (Vaccinium uliginosum), kruszyna pospolita (Frangula alnus) (obficie), pszeniec zwyczajny (Melampyrum pratense ssp. paludosum), trzęślica modra (Molinia caerulea) (obficie), wierzba uszata (Salix aurita), torfowiec błotny (Sphagnum palustre) oraz gatunki z klasy Oxycocco-Sphagnetea
+
+Zespoły leśne należące do związku borów sosnowych Dicrano-Pinion:
+
+grupa borów sosnowych na glebach mineralnych
+
+kontynentalny bór sosnowy świeży - Peucedano-Pinetum
+subatlantycki bór sosnowy świeży - Leucobryo-Pinetum
+śródlądowy bór sosnowy suchy - Cladonio-Pinetum
+bór sosnowy wilgotny - Molinio caeruleae-Pinetum
+nadmorski bór sosnowy - Empetro nigri-Pinetum
+
+grupa borów mieszanych
+
+kontynentalny bór mieszany - Querco roboris-Pinetum
+subborealny bór mieszany - Serratulo-Pinetum
+
+grupa borów bagiennych
+
+bór sosnowy bagienny - Vaccinio uliginosi-Pinetum
+brzezina bagienna - Vaccinio uliginosi-Betuletum pubescentis
+bagienny bór trzcinnikowy - Calamgrostio villosae-Pinetum
+
+Dyskusyjne jest wyróżnianie w Polsce kolejnych zespołów z tego związku będących formami przejściowymi między typowymi borami a torfowiskami:
+Vaccinio uliginosum-Pinetum rotundatae
+Ledo-Pinetum sylvestris
+
+

@@ -1,0 +1,23 @@
+
+Apple III czy bardziej oficjalnie Apple ///''' to następca komputera Apple II.  Prace projektowe nad nowym modelem pod kierownictwem dr Wendella Sandera rozpoczęły się pod koniec 1979, a nowy komputer został wprowadzony na rynek w maju 1980. Cena tego komputera wynosiła od 4340.00$ do 7800.00$ w zależności od konfiguracji.
+ 
+Apple III został zaprojektowany jako komputer biznesowy, miał bardzo zaawansowany system operacyjny zwany SOS (Sophisticated Operating System – dosłownie "wyrafinowany system operacyjny") i nową wersję BASICa ("Apple /// Business BASIC").
+
+Potrafił wyświetlać 80 kolumn tekstu, duże i małe litery, miał wbudowaną klawiaturę numeryczną, zegar czasu rzeczywistego, hierarchiczny system plików, mógł też emulować komputer Apple 
+II+. Istniała też odmiana tego komputera Apple III Plus.
+
+Dane techniczne
+
+Stacja dyskietek 5 1/4 in z możliwością dołączenia trzech dodatkowych typu "Disk ///"; 
+twardy dysk Apple ProFile o pojemności 5 MB;  
+System operacyjny SOS
+Procesor 6502 taktowany zegarem 2 MHz oparty na architekturze 8-bitowej;
+256 kB pamięci RAM z możliwością rozbudowy do 512 kB; 
+Monochromatyczny (czarno-biały) monitor zintegrowany z jednostką centralną;
+
+Nowy komputer firmy Apple spotkał się z bardzo chłodnym przyjęciem i okazał się komercyjnym fiaskiem z wielu powodów, między innymi bardzo wysokiej ceny ($3500), bardzo ograniczonej liczby dostępnych programów oraz z powodu częstego przegrzewania się komputera, ponieważ nie miał wbudowanego wentylatora.
+
+
+
+
+

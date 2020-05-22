@@ -1,0 +1,86 @@
+Chlor, Cl (łac. chlorum, od  „chloros” - „zielonożółty”) − pierwiastek chemiczny z grupy fluorowców, niemetal o liczbie atomowej 17.
+
+Izotopy stabilne to 35Cl i 37Cl. Chlor jest żółtozielonym gazem około dwa i pół razy cięższym od powietrza, o nieprzyjemnym, duszącym zapachu, silnie trującym. Jest silnym utleniaczem, wybielaczem i środkiem dezynfekującym. Składnik wielu powszechnie spotykanych soli oraz innych związków.
+
+Właściwości
+
+
+Wolny chlor występuje w postaci dwuatomowych cząsteczek Cl2. W związkach występuje na stopniach utlenienia od −I do VII.
+
+Chlor jest bardzo aktywny chemicznie, chociaż mniej niż fluor. W obecności rozproszonego światła słonecznego łączy się z wodorem tworząc chlorowodór. W pełnym świetle słonecznym ta reakcja przebiega wybuchowo.
+Cl2 + H2 → 2HCl
+Chlor łączy się bezpośrednio z większością pierwiastków na skutek czego powstają chlorki.
+
+W 1 litrze wody o temperaturze 25&nbsp;°C rozpuszcza się 2,3 l chloru tworząc tzw. wodę chlorową. Z wodą reaguje powoli, tworząc chlorowodór i kwas podchlorawy (HOCl):
+Cl2 + H2O → HCl + HOCl
+
+Chlorki należą do I grupy analitycznej anionów
+
+Otrzymywanie
+W laboratorium chlor można otrzymać przez utlenianie kwasu solnego silnym utleniaczem, np. ditlenkiem manganu MnO2 lub nadmanganianem potasu:
+MnO2 + 4HCl → MnCl2 + Cl2↑ + 2H2O
+2KMnO4 + 16HCl → 2KCl + 2MnCl2 + 5Cl2↑ + 8H2O
+
+Na skalę przemysłową otrzymuje się go w wyniku elektrolizy wodnego roztworu chlorku sodu. Przy okazji otrzymuje się wodorotlenek sodu i wodór.
+
+2 NaCl + 2 H2O → Cl2↑ + H2↑ + 2 NaOH
+
+Zamiast wodnego roztworu stosuje się również stopiony chlorek sodu:
+2NaCl → Cl2↑ + 2Na
+
+Zastosowanie
+Chlor używany jest w instalacjach do uzdatniania wody, na ostatnim etapie procesu, gdzie w reakcji gazowego chloru z wodą tworzy się, posiadający silne właściwości dezynfekujące, kwas podchlorawy oraz HCl. Produktem ubocznym powstającym podczas procesu chlorowania wody jest toksyczny dla ludzi chloroform, powstający w reakcji chloru ze związkami organicznymi występującymi w źle oczyszczonej wodzie. Do ogólnie pojętej dezynfekcji stosuje się wiele różnych związków chloru (przede wszystkim chloroaminy), szerokie zastosowanie znalazł także jako wybielacz (papieru, tkanin).
+
+Chlor był stosowany jako gaz bojowy podczas I wojny światowej, ale został wyparty przez bardziej skuteczne środki.
+
+Chlor jest szeroko stosowany do wyrobu wielu produktów używanych na co dzień – antyseptyków, barwników, pożywienia, środków owadobójczych, farb, produktów naftowych, tworzyw sztucznych, lekarstw, wyrobów włókienniczych, rozpuszczalników, itd.
+
+W chemii organicznej używa się gazowego chloru jako utleniacza; czasami zamiast formy gazowej wykorzystuje się wodę chlorową. Chlor jest jednym z możliwych podstawników, zastępującego w związkach organicznych atom wodoru (np. chlorek winylu i produkowany z niego PCW, w produkcji gumy syntetycznej).
+
+Inne zastosowania to produkcja chloranów, chloroformu, tetrachlorku węgla i ekstrakcja bromu.
+
+Historia
+
+W formie czystej chlor został otrzymany w 1774 przez Carla Wilhelma Scheele, który mylnie sądził, że jest to jakiś związek chemiczny, zawierający tlen. Otrzymał go w reakcji tlenku manganu(IV) MnO2 z kwasem solnym. Nazwę temu pierwiastkowi w 1810 roku nadał Humphry Davy, który stwierdził, że substancja otrzymana przez Sheelego jest pierwiastkiem. Polski chemik Jędrzej Śniadecki jako jeden z pierwszych postulował uznanie chloru za pierwiastek, tuż po jego odkryciu. Jako pierwszy polską nazwę – chlor – zaproponował Filip Walter. Proponowano też nazwy słoń, soleń i soliród.
+
+W temperaturze  (wagowo), tylko w postaci jonu chlorkowego Cl−, który jest głównym anionem występującym w oceanach. Jony chlorkowe stanowią ok. 1,9% masy wszystkich oceanów. Jeszcze większa koncentracja chlorków występuje w wodach słonych jezior (w Morzu Martwym ok. 21%) i podziemnych złożach solanki.
+
+Większość chlorków jest rozpuszczalna w wodzie, dlatego w większych ilościach w stanie stałym można je znaleźć tylko w suchym klimacie lub podziemnych złożach soli. Główne minerały zawierające chlor to halit (sól kamienna, NaCl), sylwin (chlorek potasu) i karnalit (uwodniony podwójny chlorek potasu i magnezu).
+
+Związki
+
+Wśród nieorganicznych związków chloru znajdują się kwas solny i 4 kwasy tlenowe oraz ich sole: chlorki i sole tlenowych kwasów chloru:
+kwas solny (chlorowodorowy), HCl; sole chlorki (stopień utlenienia −I)
+kwas podchlorawy, HClO; sole podchloryny (st. utl. I)
+kwas chlorawy, HClO2; sole chloryny (st. utl. III)
+kwas chlorowy, HClO3; sole chlorany (st. utl. V)
+kwas nadchlorowy, HClO4; sole nadchlorany (st. utl. VII)
+Z tlenem chlor tworzy 6 tlenków: Cl2O, Cl2O3, ClO2, Cl2O4 (ClOClO3), Cl2O6, Cl2O7.
+
+Do organicznych związków chloru należą m.in. chloraminy, niektóre dioksyny, chlorowane węglowodory (np. czterochlorek węgla i chloroform).
+
+Znaczenie biologiczne
+Jest powszechny w przyrodzie i występuje w większości organizmów żywych. Chlor ma duże znaczenie biologiczne, należy do makroelementów. Jony chloru należą do głównych anionów w płynach organizmu, a kwas solny jest używany do trawienia przez wiele zwierząt (wydzielany w żołądku). W organizmie człowieka o wadze 70&nbsp;kg znajduje się około 95&nbsp;g chloru.
+
+Toksyczność
+Gazowy chlor działa drażniąco na układ oddechowy i błony śluzowe, może prowadzić do obrzęku płuc, a w dużych stężeniach do śmierci. W powietrzu jest wyczuwalny przy stężeniu 3,5&nbsp;ppm, ale stężenie niebezpieczne to 1000&nbsp;ppm. Z powodu tych właściwości był stosowany jako broń chemiczna w czasie I wojny światowej. Wartość średnia ważona dopuszczalna w długim przedziale czasu (8 godzin na dzień) nie powinna przekroczyć 1,5&nbsp;ppm; NDS wynosi 0,7 mg/m3.
+
+Ciągłe wystawienie na działanie niskich stężeń chloru osłabia płuca i zwiększa podatność na inne choroby płuc.
+
+Trujące gazy (trichlorek azotu) mogą się wydzielać przy kontakcie wybielaczy zawierających chlor z moczem, a także z amoniakiem lub innymi produktami czyszczącymi.
+
+Zobacz też
+AOX
+
+
+
+
+
+
+
+
+
+
+
+
+

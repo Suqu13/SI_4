@@ -1,0 +1,65 @@
+Toczeń rumieniowaty układowy (łac. lupus erythematosus systemicus, ang. systemic lupus erythematosus, SLE) lub toczeń rumieniowaty trzewny – choroba autoimmunologiczna, należąca do grupy toczni rumieniowatych, rozwijająca się na tle złożonych i niejasnych zaburzeń układu odpornościowego, doprowadzająca do procesu zapalnego wielu tkanek i narządów.
+
+Zachorowalność szacuje się na 40–50 przypadków na 100&nbsp;000; kobiety chorują 10-krotnie częściej. Szczyt zachorowań występuje w wieku 16–55 lat.
+Choroba charakteryzuje się bardzo zróżnicowanym nasileniem i przebiegiem naturalnym. Przez dłuższy czas mogą dominować objawy z jednego narządu (co może być niewystarczające do pewnego rozpoznania SLE), mogą pojawiać się częściowe remisje i zaostrzenia. W miarę trwania choroby mogą pojawiać się objawy z kolejnych narządów, jednak objawy uprzednio występujące nie ulegają wycofaniu.
+
+Podgrupy kliniczne
+Toczeń rumieniowaty układowy polekowy
+Toczeń rumieniowaty noworodków (NLE)
+Toczeń z zespołem Sjögrena
+Toczeń z zespołem antyfosfolipidowym
+
+Rozpoznanie – kryteria
+[[Plik:Discoid lupus erythematosus.JPG|Zmiany skórne w [[Toczeń rumieniowaty krążkowy|toczniu rumieniowatym krążkowym]]
+(DLE)|thumb]]
+Kryteria klasyfikacyjne Amerykańskiego Towarzystwa Reumatologicznego:
+Zmiany skórne typu rumienia (często w kształcie motyla na twarzy), nigdy nie przekraczają bruzd nosowo-wargowych.
+Zmiany skórne rumieniowo-bliznowaciejące - rumień krążkowy (typu DLE).
+Nadwrażliwość na światło.
+Nadżerki w jamie ustnej.
+Zapalenie lub ból stawów – dotyczące co najmniej dwóch stawów, bez zmian w obrazie RTG.
+Zapalenie błon surowiczych – opłucnej (pleuritis) lub osierdzia (pericarditis), stwierdzone w wywiadzie lub w chwili badania.
+Zmiany w nerkach – utrzymująca się proteinuria (białkomocz) powyżej 0,5 g/dobę lub obecność wałeczków nerkowych w moczu.
+Zaburzenia neuropsychiatryczne – szeroki wachlarz, najczęściej napady drgawek lub psychoza (po wykluczeniu przyczyn polekowych, metabolicznych, mocznicy).
+Zaburzenia hematologiczne – niedokrwistość hemolityczna z retikulocytozą lub limfopenia (poniżej 1500 w 1&nbsp;mm³) lub leukopenia (poniżej 4000 w 1&nbsp;mm³) lub trombocytopenia (poniżej 100 000 w 1&nbsp;mm³)
+Zaburzenia immunologiczne – obecność komórek LE lub przeciwciał przeciw dsDNA (natywne DNA), lub przeciwciał anty-Sm, lub fałszywie dodatnie serologiczne odczyny kiłowe przy ujemnym teście na immobilizację krętków.
+Przeciwciała przeciwjądrowe (ANA) – w mianie nie niższym niż 80 (zwykle ANA>160), badane metodą immunofluorescencji lub inna odpowiednia jeśli nie stosowano leków powodujących lekowe zespoły LE.
+
+Za pewnym rozpoznaniem tocznia przemawia spełnienie co najmniej czterech spośród 11 kryteriów, przy czym kryteria mogą być spełnione w chwili badania lub w   wywiadzie. Spełnienie dwóch lub trzech kryteriów pozwala na rozpoznanie choroby toczniopodobnej. U ok. 5% chorych nie wykrywa się obecności przeciwciał przeciwjądrowych. Rozpoznaje się wtedy toczeń seronegatywny. Nie można rozpoznać SLE, jeżeli chory nie spełnia żadnego z kryteriów immunologicznych choroby, tzn. kryteriów 10 lub 11.
+
+Kryteria pomocnicze poza kryteriami ACR (wcześniej ARA):
+objaw Raynauda
+przerzedzenie włosów (allopecia)
+obniżenie stężenia dopełniacza
+obecność kompleksów immunologicznych w skórze pozornie nie zmienionej
+hipergammaglobulinemia
+charakterystyczne zmiany histologiczne z odkładaniem się kompleksów immunologicznych w nerkach (biopsja)
+
+Postępowanie diagnostyczne
+Aby potwierdzić zmiany narządów w SLE należy wykonać:
+Skóra, błony śluzowe, narząd wzroku: LBT, badanie okulistyczne, badanie laryngologiczne
+Układ ruchu: RTG stawów.
+Układ oddechowy: RTG klatki piersiowej, dodatkowo: HRCT klatki piersiowej, scyntygrafię płuc, testy czynnościowe płuc, badanie płynu opłucnowego (ogólne lub bakteriologiczne)
+Układ sercowo-naczyniowy: EKG, echokardiogram, dodatkowo: przepływy naczyniowe.
+Układ wydalniczy: ogólne badanie moczu i posiew moczu, proteinuria dobowa, kreatynina z klirensem i mocznik, USG jamy brzusznej, dodatkowo: biopsja nerki.
+Układ nerwowy: badanie neurologiczne, badanie psychiatryczne, badanie psychologiczne, EEG, tomografia komputerowa głowy, MRI głowy/kręgosłupa, EMG
+
+Leczenie
+Stosuje się leczenie objawowe, najczęściej farmakologiczne, oparte na lekach immunosupresyjnych i przeciwmalarycznych. Zwiększenie spożycia omega-3 wielonienasyconych kwasów tłuszczowych może mieć korzystny wpływ na objawy choroby.
+
+Toczeń polekowy
+
+Znanych jest 38 leków, które wywołują objawy toczniopodobne, lecz największa liczba przypadków występuje po:
+hydralazynie
+prokainamidzie
+izoniazydzie
+metyldopa
+
+Do leków o umiarkowanie niskim ryzyku wystąpienia objawów toczniopodobnych należą:
+chinidyna
+penicylamina
+infliksimab
+karbamazepina
+Kryteria do postawienia diagnozy tocznia polekowego (DIL) nie zostały dokładnie opracowane. Do objawów DIL należą: gorączka, podniesione ciśnienie tętnicze krwi, zmiany skórne oraz zapalenie stawów. Ogólnie, objawy cofają się po odstawieniu leków.
+
+Linki zewnętrzne

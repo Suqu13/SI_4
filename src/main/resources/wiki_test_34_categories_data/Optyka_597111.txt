@@ -1,0 +1,31 @@
+
+Mikroskop fluorescencyjny – mikroskop świetlny używany w badaniach substancji organicznych i nieorganicznych, którego działanie oparte jest na zjawisku fluorescencji i fosforescencji, zamiast, lub razem ze zjawiskami odbicia i absorpcji światła (co jest wykorzystane w klasycznym mikroskopie optycznym).
+
+W roku 2014 za rozwój technik mikroskopii fluorescencyjnej, pozwalających na uzyskanie rozdzielczości rzędu 0,2 μm, została przyznana Nagroda Nobla w dziedzinie chemii.
+
+Fluoroscencja próbki może być pochodzenia naturalnego (np. fluoroscencja chlorofilu) lub być wynikiem dołączenia (kowalencyjnie lub poprzez jakikolwiek inny typ oddziaływań fizyko-chemicznych między substancjami) do elementów obserwowanej próbki fluoroforów, czyli substancji chemicznych, które fluoryzują po wzbudzeniu światłem o określonej długości. Drugi sposób jest najczęściej wykorzystywanym w biologii, a w szczególności w biologii molekularnej, gdyż pozwala, poprzez znajomość oddziaływań, na wyznakowanie interesujących elementów komórki (np. białek, czy organelli), fluoroforami o zadanych właściwościach (np. barwie emisji).
+
+Większość używanych mikroskopów fluorescencyjnych to mikroskopy epi-fluorescencyjne. Oznacza to, że wzbudzenie próbki falą świetlną, jak i obserwacja fali wzbudzonej zachodzą z tej samej strony próbki (obiektyw pełni rolę kondensora; w przeciwieństwie do mikroskopów trans, gdzie fala światła wzbudzającego przechodzi przez próbkę i detekcja światła wzbudzonego odbywa się po jej drugiej stronie). 
+
+
+
+Mikroskopy fluorescencyjne stały się ważnym narzędziem w biologii, stając się podstawą do rozwoju bardziej zaawansowanych technik mikroskopii fluorescencyjnej, takich jak:
+
+mikroskopia konfokalna
+mikroskopia dwufotonowa
+mikroskopia fluorescencyjna kontrastu interferencyjnego (FLIC)
+mikroskopia fluorescencyjna całkowitego wewnętrznego odbicia (TIRFM)
+
+Przykłady obrazów
+
+Plik:Yeast membrane proteins.jpg|Błona komórkowa drożdży zwizualizowana w mikroskopii fluorescencyjnej.
+Plik:FISH 13 21.jpg|Interfazowe jądro komórkowe limfocytu poddane badaniu FISH.
+
+
+
+
+Bibliografia
+Bradbury, S. and Evennett, P., Fluorescence microscopy., Contrast Techniques in Light Microscopy., BIOS Scientific Publishers, Ltd., Oxford, United Kingdom (1996).
+Rost, F. and Oldfield, R., Fluorescence microscopy., Photography with a Microscope, Cambridge University Press, Cambridge, United Kingdom (2000).
+
+

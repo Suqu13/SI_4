@@ -1,0 +1,48 @@
+ASG-EUPOS (Aktywna Sieć Geodezyjna EUPOS) – ogólnopolska sieć stacji referencyjnych, uruchomiona w 2008 roku i zarządzana przez Główny Urząd Geodezji i Kartografii, na których wykonywane są ciągłe obserwacje satelitów systemów GNSS, której punkty odniesienia stanowią podstawową poziomą osnowę geodezyjną i szczegółową wysokościową osnowę geodezyjną. 
+
+Integralną częścią systemu ASG-EUPOS jest sprzęt i oprogramowanie umożliwiające obliczanie i udostępnianie poprawek DGNSS i RTK (w tym poprawek sieciowych), zapis i udostępnianie obserwacji satelitarnych ze stacji referencyjnych oraz wykonywanie automatycznych obliczeń z pomiarów statycznych poprzez serwisy systemu.
+
+Założenia systemu
+Sieć składa się z 98 stacji permanentnych, zlokalizowanych w instytucjach naukowych oraz w Ośrodkach Dokumentacji Geodezyjno-Kartograficznych na obszarze Polski, ze średnią wzajemną odległością 70 km oraz 21 stacji przygranicznych. 
+
+System oraz serwisy systemu ASG-EUPOS służą do generowania i wysyłania do odbiorców poprawek do sygnału GNSS (czyli GPS i GLONASS), dzięki czemu można znacznie zwiększyć dokładność lokalizacji (w postaci przyjętego układu współrzędnych X, Y, H) mierzonego punktu na powierzchni Ziemi za pomocą urządzeń GPS.
+
+System ASG-EUPOS jest w pełni funkcjonalny od czerwca 2008. Wcześniej podobny system, ASG-PL, istniał jedynie dla Województwa Śląskiego (od 2004) i umożliwiał porównywalne dokładności dla całego obszaru województwa. ASG-EUPOS był wzorowany na śląskich rozwiązaniach w zakresie poprawy jakości pozycjonowania w systemie GPS.
+
+
+
+Wykorzystanie w geodezji
+W geodezji, system ASG-EUPOS (przy wykonywaniu pomiarów geodezyjnych) jest wykorzystywany: 
+do zakładania szczegółowych poziomych osnów geodezyjnych II i III klasy, 
+do zakładania osnów pomiarowych: poziomych i wysokościowych, 
+w pomiarach sytuacyjno-wysokościowych, 
+w pomiarach realizacyjnych, 
+w pomiarach związanych z katastrem nieruchomości, 
+w pomiarach związanych z pozyskiwaniem danych do krajowego systemu informacji o terenie,
+do innych prac geodezyjnych, jeżeli dokładności gwarantowane w wykorzystywanych serwisach systemu są wystarczające dla konkretnych asortymentów robót.
+
+Wykorzystanie globalne
+Dzięki zastosowaniu nowoczesnych technologii oraz doświadczeń pozycjonowania system ASG-EUPOS daje możliwości wykorzystania swoich usług w wielu branżach, w których wysokiej jakości dane mają duże znaczenie. Przewiduje się, że zastosowanie systemu ASG-EUPOS przydatne będzie w następujących branżach: 
+Bezpieczeństwo
+Budownictwo przemysłowe
+Geodezja
+Geodynamika 
+Komunikacja drogowa
+Nawigacja morska, śródlądowa i powietrzna 
+Hydrografia i hydrologia 
+Energetyka
+Obronność
+Ochrona środowiska 
+Zarządzanie kryzysowe 
+Ochrona zdrowia 
+Rolnictwo i leśnictwo 
+Sport i turystyka 
+Systemy Informacji Przestrzennej 
+Telekomunikacja
+
+Zobacz też
+Zalecenia techniczne geodezyjnych pomiarów satelitarnych GNSS
+
+
+
+Linki zewnętrzne

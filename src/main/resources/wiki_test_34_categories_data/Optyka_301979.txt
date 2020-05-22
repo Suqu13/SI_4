@@ -1,0 +1,14 @@
+
+Pułapka jonowa - rodzaj analizatora jonów, element konstrukcyjny niektórych spektrometrów mas. Pułapki jonowe charakteryzują się zwykle niewielką rozdzielczością (rzędu 1000 daltonów) oraz bardzo dużą czułością.
+
+Pomiaru masy dokonuje się przez uwięzienie w pułapce jonów o szerokim zakresie m/z i wyrzucanie z pułapki kolejnych grup jonów o określonym m/z. Wyrzucane jony trafiają do detektora. W pułapce jonowej istnieje możliwość zachowania jonów o określonym m/z z jednoczesnym usunięciem wszystkich innych jonów. Wybrany jon może zostać poddany fragmentacji np. przez zderzenia z cząsteczkami gazu. 
+
+Analizator ten działa na zasadzie podobnej do kwadrupola, tyle że pozwala na przetrzymywanie jonów. Pułapka jonowa zbudowana jest z dwóch metalowych pokryw w kształcie stożków oraz jednej elektrody w kształcie pierścienia, umieszczonej pomiędzy pokrywami. Pokrywy pułapki jonowej pełnią rolę dolnego i górnego pręta kwadrupola. 
+
+Do pokryw przykłada się zmienne napięcie elektryczne  o wysokiej częstotliwości powodujące oscylacyjne ruchy jonów lub napięcie stałe. Elektroda pierścieniowa jest także podłączona do prądu zmiennego o wysokiej częstotliwości. Kiedy jony znajdą się w komorze analizatora, niektóre z nich będą miały stabilne trajektorie - będą uwięzione w pułapce. Manipulując parametrami prądu przyłączonego do elektrod można uwięzić w pułapce jony o określonym stosunku masy do ładunku (m/z) lub można uwięzić jony o szerokim zakresie m/z. 
+
+M/z fragmentów może być zmierzone przez pułapkę jonową. W ten sposób pułapka jonowa może zastąpić tandemowy spektrometr mas. Jony z pułapki mas zainstalowanej w tandemowym spektrometrze mas mogą być także przetransportowane do innych analizatorów. 
+
+Wnętrze pułapki jonowej wypełnione jest gazem obojętnym - helem pod ciśnieniem rzędu 10-1 Pa. Zderzenia z atomami helu spowalniają ruch jonów, co utrudnia ucieczkę jonów z pułapki. Jeżeli jony w pułapce zostaną wzbudzone (przyspieszone), zderzenia z atomami helu spowodują fragmentację jonów.
+
+

@@ -1,0 +1,62 @@
+Klometiazol (łac. clomethiazolum) – krótko działający lek nasenny i uspokajający.
+
+
+Mechanizm działania
+Klometiazol jest pochodną witaminy B1, działającą uspokajająco, nasennie i spazmolitycznie. Klometiazol charakteryzuje się innym mechanizmem działania niż barbiturany czy benzodiazepiny. Stwierdzono, że lek wzmacnia działanie neuroprzekaźników hamujących, przede wszystkim GABA i glicyny, nie wpływa jednak na acetylocholinę i adenozynę. Nasilenie działania GABA wiąże się z oddziaływaniem klometiazolu na receptory GABAA, związane z jego kanałami chlorkowymi. Lek wywiera również bezpośredni wpływ na kanały chlorkowe. Klometiazol nie wpływa na przekaźnictwo związane z aminokwasami pobudzającymi.
+
+Farmakokinetyka
+Klometiazol z przewodu pokarmowego wchłania się szybko. Maksymalne stężenie w osoczu krwi występuje po ok. 90 minutach. Lek, zanim trafi do krążenia ogólnego, jest intensywnie metabolizowany w wątrobie. Biodostępność leku w przypadku podawania doustnego jest na ogół niewielka, a wpływ na nią ma zarówno stosowana dawka, jak i czynniki osobnicze. Dostępność biologiczna wyraźnie zwiększa się w przypadku osób chorych z marskością wątroby i jej niewydolnością. Schorzenia te mają również wpływ na okres półtrwania leku, który w takich przypadkach wynosi ok. 9 h (przy 4 h u zdrowych ochotników). Wydłużenie okresu półtrwania obserwuje się również u osób starszych. Ma to związek ze zwiększoną objętością dystrybucji.Lek wydalany jest z moczem, głównie w postaci metabolitów. Jedynie mniej niż 1% podanej dawki wydalane jest w postaci niezmienionej.
+
+Wskazania
+Klometiazol stosowany jest w leczeniu:
+delirium tremens i ostrych stanów abstynencji poalkoholowej,
+stanów niepokoju, pobudzenia, splątania oraz zaburzeń snu u osób starszych.
+
+Przeciwwskazania
+nadwrażliwość na klometiazol lub jakikolwiek inny składnik preparatu
+ciężka niewydolność oddechowa
+ciąża i karmienie piersią (przeciwwskazania względne)
+
+Ostrzeżenia specjalne
+Lek należy stosować bardzo ostrożnie u chorych cierpiących na przewlekłą niewydolność oddechową.
+Pacjenci cierpiący na umiarkowane i ciężkie schorzenia wątroby powinni być pod ścisłą obserwacją lekarza. Lek może bowiem maskować początkowe objawy śpiączki wątrobowej.
+Lek należy ostrożnie podawać chorym z zaburzeniami pracy nerek.
+Lek może powodować uzależnienie psychiczne i/lub fizyczne. Klometiazolu nie należy przepisywać chorym, którzy mogą zacząć samodzielnie zwiększać dawki, bez uprzedniej konsultacji z lekarzem, oraz chorym, u których stwierdzono skłonność do uzależnień.
+Podczas leczenia klometiazolem nie można spożywać alkoholu, istnieje bowiem ryzyko śmiertelnego zahamowania układu oddechowego.
+Należy pamiętać, że klometiazol służy do krótkookresowego leczenia bezsenności. Należy poinformować chorego o konieczności przerywania leczenia co pewien czas w celu uniknięcia objawów odstawiennych.
+Odnotowano tylko jeden przypadek ciężkiej bradykardii u chorego leczonego propranololem i klometiazolem. Należy jednak zachować dużą ostrożność przy jednoczesnym podawaniu tych dwóch leków.
+Lek wpływa na sprawność psychoruchową. Należy więc unikać obsługiwania maszyn i kierowania pojazdami podczas leczenia klometiazolem.
+
+Interakcje
+Klometiazolu nie należy stosować razem z pochodnymi benzodiazepiny. Odnotowano jeden przypadek zgonu z powodu zapaści krążeniowo-oddechowej u pacjenta leczonego tymi dwoma substancjami.Cymetydyna może hamować metabolizm klometiazolu, a tym samym przyczyniać się do wzrostu jego stężenia we krwi.Klometiazol, jako inhbitor izoenzymu CYP2E1, zwiększa stężenie leków metabolizowanych przy udziale CYP2E1.Karbamazepina zmniejsza biodostępność klometiazolu, należy więc rozważyć zwiększenie jego dawki.
+
+Działania niepożądane
+Występują u 13% chorych i nie mają nasilonego charakteru. W większości przypadków ustępują w trakcie leczenia. Najczęściej pojawiają się podrażnienie błon śluzowych górnych dróg oddechowych z z nadmiernym wydzielaniem śluzu oraz spojówek z łzawieniem. Wystąpić mogą również:
+zaburzenia przewodu pokarmowego (bóle brzucha, nudności, biegunka),
+bóle głowy,
+skórne reakcje alergiczne,
+zwiększenie aktywności aminotransferaz,
+zwiększenie wydzielania śluzu w górnej części układu oddechowego.
+Bardzo rzadko wystąpić może wstrząs anafilaktyczny lub niedociśnienie.
+U osób starszych lek może wykazywać działanie silniejsze od zamierzonego lub paradoksalnie powodować pobudzenie.
+
+Klometiazol charakteryzuje się znacznym ptencjałem uzależniającym. Nagłe odstawienie może wiązać się z ryzykiem wystąpienia objawów abstynencyjnych (także drgawek). Może upośledzać zdolność do prowadzenia pojazdów i obsługi urządzeń mechanicznych.
+
+Przedawkowanie
+Istnieją doniesienia o kilku zgonach spowodowanych przedawkowaniem leku. Szacuje się, że dawka 10 g  połączona z alkoholem, który powoduje zwiększenie toksyczności klometiazolu, może spowodować śmierć. Charakterystycznymi objawami przedawkowania są: zwiększenie wydzielanie śliny, zwężenie źrenic, omamy, majaczenie, nadmierne pobudzenie. Razem ze wzrostem hamującego działania na układ nerwowy dochodzi do utraty przytomności, a następnie do śpiączki. Pozostałymi objawami przedawkowania mogą być:
+niewydolność oddechowa, zatrzymanie oddechu,
+obrzęk płuc,
+nadmierny spadek ciśnienia krwi wskutek rozszerzenia naczyń krwionośnych,
+hipowolemia,
+niewydolność serca,
+skąpomocz lub bezmocz,
+hipotermia.
+Leczenie należy zacząć od płukania żołądka i podania węgla aktywowanego. Następnie należy dokładnie monitorować stan chorego i w razie potrzeby wdrożyć leczenie objawowe. Nie ma specyficznego antidotum na zatrucia klometiazolem.
+
+Preparaty
+Heminevrin – kapsułki 300&nbsp;mg (w postaci etanodisulfonianiu)
+
+
+
+Bibliografia
+''''.

@@ -1,0 +1,75 @@
+
+
+Skaningowy mikroskop tunelowy (STM od ang. Scanning Tunneling Microscope) – rodzaj SPM, mikroskopu ze skanującą sondą (ang. Scanning Probe Microscope) – umożliwia uzyskanie obrazu powierzchni materiałów przewodzących ze zdolnością rozdzielczą rzędu pojedynczego atomu. Uzyskanie obrazu powierzchni jest możliwe dzięki wykorzystaniu zjawiska tunelowego, od którego przyrząd ten wziął swoją nazwę. W rzeczywistości STM nie rejestruje fizycznej topografii próbki, ale dokonuje pomiaru obsadzonych i nieobsadzonych stanów elektronowych blisko powierzchni Fermiego. Ten sam skrót używany jest do określenia gałęzi mikroskopii – STM (ang. Scanning Tunneling Microscopy).
+
+Historia wynalezienia
+Mikroskop STM został po raz pierwszy skonstruowany przez Gerda Binniga oraz Heinricha Rohrera. Obaj naukowcy pod koniec 1978 roku rozpoczęli badania procesów wzrostu, struktury i własności elektrycznych bardzo cienkich warstw tlenków. Aby móc kontynuować badania w tej dziedzinie potrzebne było urządzenie dające możliwość obserwacji powierzchni w skali ułamków nanometra. Ponieważ do tej pory nie było przyrządów, które by to umożliwiały, Binnig i Rohrer, w 1982 roku skonstruowali swój własny przyrząd – skaningowy mikroskop tunelowy. Obaj naukowcy dokonali swojego wynalazku w Szwajcarii, podczas prac w laboratoriach firmy IBM, mieszczących się w Zurychu, za co w roku 1986 otrzymali Nagrodę Nobla w dziedzinie fizyki. W tym samym roku G. Binning, C.F Quate i Ch. Gerber skonstruowali mikroskop sił atomowych (AFM od ang. Atomic Force Microscope).
+
+Możliwości STM w zakresie obrazowania zapoczątkowały burzliwy rozwój nowej dziedziny zwanej mikroskopią sond skanujących (inna nazwa to skaningowa mikroskopia bliskich oddziaływań). Skonstruowano różne odmiany mikroskopów STM i AFM spośród których najbardziej znane to: mikroskop sił tarcia (FFM od ang. Friction Force Microscope), mikroskop optyczny bliskiego pola (SNOM lub NSOM od ang. Scanning Near-field Optical Microscope), mikroskop sił magnetycznych (MFM od ang. Magnetic Force Microscope) i mikroskop sił elektrostatycznych (EFM od ang. Electrostatic Force Microscope).
+
+Zasada działania
+Nad powierzchnią próbki, która może być wykonana tylko z materiału przewodzącego prąd elektryczny lub być pokryta atomami metalu (tzw. napylanie), umieszczona jest sonda (igła), którą można poruszać w sposób kontrolowany.
+Ramię trzymające igłę mocowane jest do aparatury poprzez skaner piezoelektryczny, który pod wpływem napięcia elektrycznego, w wyniku zjawiska piezoelektrycznego zmienia w niewielkim stopniu swe wymiary, a tym samym zmienia położenie igły przesuwając ją nad próbką. W innych rozwiązaniach układ piezoelektryczny porusza próbką, a sama sonda pozostaje nieruchoma. Przemiatanie (skanowanie) kolejnych linii i punktów obrazu próbki odbywa się według z góry zadanego programu.
+
+Konstrukcje mikroskopu i metody działania:
+W prostszych rozwiązaniach zwanych metodą stałej wysokości (ang. constant height method, CHM) igła porusza się na stałej wysokości nad próbką a aparatura rejestruje wyłącznie zmiany prądu tunelowego. Rozwiązanie to można stosować tylko w przypadku próbek o równej powierzchni. W tym rozwiązaniu jeżeli próbka zawiera wypukłości może dojść do kolizji igły z materiałem, a w wklęsłościach próbki obraz jest słaby a nawet całkowicie zanika.
+
+W rozwiniętych konstrukcjach zwanych metodą stałego prądu lub metodą stałej odległości (ang. constant current method, CCM, constant gap width mode, CGM) igła może oddalać się i przybliżać do próbki. Ustalanie odległości igła-próbka jest przeprowadzane przez odpowiednio szybki układ ujemnego sprzężenia zwrotnego w układzie odległość – prąd tunelowy – napięcie sterujące wysokością. Prąd tunelowy, po odfiltrowaniu dużych częstotliwości, jest sygnałem wejściowym układu zapewniającego przepływ stałego prądu tunelowego. W układach tych do obrazowania powierzchni próbki wykorzystuje się wielkość prądu tunelowego oraz napięcie sterujące wysokością igły.
+
+Najbardziej rozwiniętą metodą jest spektroskopia mikroskopu skaningowego (ang. scanning tunneling spectroscopy, STS) w mikroskopie tym, dla danego położenia igły, wyznacza się zależność natężenia prądu od przyłożonego napięcia. Metoda ta umożliwia określenie gęstości stanów elektronów w badanej substancji. Działanie tej metody opiera się na teoretycznej prawidłowości mówiącej, że pochodna natężenia prądu tunelowego po napięciu jest proporcjonalna do gęstości stanów elektronów.
+
+Sonda (drut wolframowy lub Pt/Ir o średnicy 0,2–0,5&nbsp;mm) zawiera na końcu kryształ ustawiony wierzchołkiem w stronę ostrza – dzięki temu zakończeniem sondy jest dokładnie jeden atom. Odległość sondy od powierzchni próbki jest rzędu kilku angstremów (do 1&nbsp;nm). Przyłożone napięcie pomiędzy sondą a próbką (od ułamków do kilku woltów). Tak małe napięcie nie jest wystarczające do tego, by elektron pokonał przyciąganie jonów metalu i oderwał się od ostrza igły, ale dzięki temu, że próbka jest w niewielkiej odległości od ostrza igły, elektron przeskakuje przez zabroniony obszar (barierę potencjału) do badanej próbki w wyniku emisji polowej, istnienie której tłumaczy się kwantowym zjawiskiem tunelowym, dlatego też nazywany jest prądem tunelowym. Zgodnie z uproszczeniem Kubby'ego, dla bariery potencjału o szerokości d znacznie mniejszej niż droga zaniku funkcji falowej, prawdopodobieństwo przetunelowania elektronu zależy wykładniczo od szerokości tej bariery. Współczynnik transmisji przybliżony jest jako: . Zależność ta jest powodem, dla którego rzeczywiste ostrze (przedstawione na rysunku 2) może być stosowane. Przykładowo, dla dodatkowego wierzchołka sondy położonego wyżej powierzchni o 0,1 nm niż główne ostrze, wartość gęstości prądu tunelowania spada praktycznie o rząd wielkości, przez co nie jest rejestrowany.
+
+
+
+Rysunek 1:''' Zasada działania mikroskopu STM.''
+
+
+Elektrony tunelują z ostrza przez powietrze (lub próżnię) do próbki lub odwrotnie w zależności od kierunku przyłożonego napięcia. Wartość prądu tunelowego zależy silnie (wykładniczo) od szerokości bariery potencjału, w tym przypadku jest to odległość ostrza od najbliższych atomów (a nawet powłok atomowych) próbki. Typowe wartości prądu są rzędu 0,1–10 nA a analiza tak małych prądów wymaga dokładnej i niskoszumnej aparatury.
+
+Komputer analizuje i zapamiętuje mapę prądów tunelowych dla każdego punktu próbki i na tej podstawie tworzony jest później obraz próbki.
+
+W przypadku badania substancji zbudowanych z różnych atomów (nie pierwiastków) wartość prądu zależy od siły wiązania elektronu przez atom (praca wyjścia). Pomiar tego prądu pozwala obrazować strukturę atomową powierzchni próbki. Wartość prądu tunelowego dostarcza informacji o wartości potencjału jaki czuje elektron opuszczający powierzchnię próbki.
+
+Wykonanie sondy do mikroskopu STM wbrew pozorom jest stosunkowo łatwe, znacznie trudniejsze jest wykonanie ostrza do mikroskopu AFM. Najprostszą metodą otrzymania sondy do mikroskopu STM jest ucięcie drutu nożyczkami bądź przecinakiem pod kątem 45° – nożyce i drut wcześniej muszą być oczyszczone. Najczęściej sondy STM otrzymuje się poprzez elektrochemiczne trawienie (np. w 30% roztworze KOH), trawienie odsłania strukturę kryształu, a po selekcji można wybrać odpowiednie ostrze .
+
+
+
+Rysunek 2:''' Skanowanie powierzchni próbki atomowo płaskiej przez sondę STM.''
+
+
+Jednym z największych problemów urządzeń STM i AFM jest czułość na drgania zewnętrzne. Drgania te mają amplitudę rzędu μm, czyli są co najmniej 1000 razy większe niż odległość sondy od powierzchni próbki. Aby nie dochodziło do niekontrolowanych zderzeń sondy z powierzchnią próbki potrzebne są dodatkowe systemy tłumiące drgania. Początkowo był to duży problem dla konstruktorów tych urządzeń, lecz istniejące obecnie systemy antywibracyjne pozwalają działać tym urządzeniom nawet na wyższych piętrach budynków. Źródłami drgań są: ruch samochodowy, kroki czy nawet hałas. Twórcy pierwszego skaningowego mikroskopu tunelowego do wytłumienia drgań wykorzystali zjawisko unoszenia się nadprzewodnika w polu magnetycznym – umieścili swój mikroskop na nadprzewodzącej czaszy ołowianej wypychanej na zewnątrz z niejednorodnego pola magnetycznego.
+
+Zdolność rozdzielcza mikroskopu pozwala dostrzec poszczególne atomy. Wadą mikroskopu STM jest ograniczenie możliwości obserwacji tylko do próbek wykonanych z przewodników. Aby badać materiały nieprzewodzące należy posłużyć się mikroskopem sił atomowych.
+
+Artefakty
+Istnieje szereg czynników zakłócających, bądź zniekształcających odczyt STM. Poniżej wymienione niektóre z nich: 
+Nieliniowość charakterystyki skanera:
+nieliniowość samoistna 
+histereza
+pełzanie
+starzenie 
+sprzężenie ruchów
+Splot z kształtem sondy
+Błędy wynikające z właściwości próbki:
+zmiana przewodności (np. utlenienie części próbki)
+dryf termiczny
+Błędy wynikające z działania sprzężenia zwrotnego
+Błędy przetwarzania obrazu
+
+Zastosowanie
+Poza obrazowaniem struktury atomowej i profilu powierzchni skanowanej próbki, skaningowy mikroskop tunelowy znajduje inne zastosowania. Eksperymenty z mikroskopem STM doprowadziły do ważnego odkrycia. Jeżeli do igły przyłoży się większe napięcie niż przy skanowaniu, to może ona oderwać pojedynczy atom z powierzchni próbki i przełożyć go w inne miejsce. W ten sposób możliwa jest obróbka materiału na poziomie atomowym. Mikroskop STM stał się pierwszym prawdziwym narzędziem nanotechnologii.
+
+Uzyskując zależność prądu tunelowego od napięcia polaryzacji ostrze-próbka można wiele powiedzieć o lokalnych własnościach elektronowych powierzchni próbki, przykładowo można wyznaczyć lokalną gęstość stanów, która pomaga zrozumieć wiele zjawisk powierzchniowych, takich jak adhezja, kohezja, tarcie i wiele zjawisk biologicznych. Skonstruowanie skaningowego mikroskopu tunelowego dało początek nowej metodzie badawczej nazwanej skaningową spektroskopią tunelową.
+
+Zobacz też
+
+
+mikroskop sił atomowych (AFM)
+
+
+Bibliografia
+Scanning Tunneling Microscopy and Its Application, Chunli Bai, Springer Series in Surface Sciences, 2000, ISBN 3-540-65715-0
+STM and SFM in Biology, Othmar Marti, Academic Press, 1993, ISBN 0-12-474500-8
+
+Linki zewnętrzne

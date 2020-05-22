@@ -1,0 +1,36 @@
+Mazovia 1016''' to 16-bitowy komputer osobisty, zgodny z IBM PC/XT, produkowany w drugiej połowie lat osiemdziesiątych przez sp. z o.o. "Mikrokomputery".
+
+[[Plik:Mazovia 1016 PC.jpg|thumb|310px|
+[[Jednostka systemowa|Jednostka centralna]], [[monitor komputera|monitor]] MM 12 PC-2, 
+[[Klawiatura komputerowa|klawiatura]] KL-10 i [[stacja dyskietek]] 5,25".]]
+
+Dane techniczne
+procesor: INTEL 8086 lub odpowiednik K1810WM86 (prod. ZSRR)
+RAM: 256 kB (z możliwością rozbudowy do 640 kB)
+ROM: 48kB zawierający BIOS i interpreter języka BASIC
+stacja dyskietek: 2x5,25" 360 kB
+dysk twardy - opcjonalnie: Winchester 10-30 MB
+klawiatura: 84 klawisze układ QWERTY ale z możliwością pracy z polskimi znakami (tryb klawiatury kPLz) w  standardzie MAZOVIA
+drukarka: D-100/PC, D-100E/PC
+monitor:
+monochromatyczny: MM12P, lub
+kolorowy: MGK14,
+generator znaków:
+polskich
+rosyjskich (cyrylica).
+
+Oprogramowanie
+systemy operacyjne (spolszczone):
+PC DOS
+CP/M 86
+XENIX
+oprogramowanie użytkowe
+bazy danych
+arkusze kalkulacyjne
+edytory tekstów
+
+Rozwój systemu
+Planowano wprowadzenie nowego modelu Mazovia 2016 AT zgodnego z IBM PC/AT, oraz wersję z 32 bitowym procesorem - mikrokomputer Mazovia 2032'''.
+
+
+Bibliografia

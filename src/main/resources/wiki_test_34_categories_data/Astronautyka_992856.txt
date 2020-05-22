@@ -1,0 +1,22 @@
+International GNSS Service (dawniej ang. International GPS Service for Geodynamics: Międzynarodowa Służba GPS do badań geodynamicznych) – międzynarodowa służba cywilna czuwająca m.in. nad dokładnością globalnych systemów nawigacji satelitarnej (umożliwiających wyznaczenie pozycji na podstawie sygnałów odbieranych od satelitów). Służba została zainicjowana w 1990 roku.
+
+W Polsce stacje IGS znajdują się w miejscowościach: Borowa Góra, Józefosław, Lamkówko, Borówiec i Wrocław. Wymaga się, aby stacje były wyposażone w odbiorniki GPS z kodem precyzyjnym P i aby były w stanie przesyłać wyniki swoich dobowych obserwacji do regionalnych ośrodków opracowania danych w przeciągu 24 godzin i w przeciągu 72 godzin do ośrodków danych o sieci IGS.
+
+Najważniejsze cele naukowe
+produkcja efemeryd precyzyjnych,
+dostarczanie międzynarodowej społeczności naukowej wysoko dokładnych orbit satelitów systemów nawigacji satelitarnej na podstawie ciągłych obserwacji przez światową sieć stacji permanentnie obserwujących satelity nawigacyjne,
+wyznaczanie parametrów ruchu obrotowego Ziemi (monitorowanie przesunięć i stabilności ruchu obrotowego oraz stabilności poziomu morza),
+rozszerzenie na całą Ziemię światowego układu odniesienia ITRF wyznaczanego przez Międzynarodową Służbę Ruchu Obrotowego Ziemi (IERS),
+monitorowanie deformacji skorupy ziemskiej o charakterze globalnym,
+badanie jonosfery,
+meteorologia.
+
+Produkty
+współrzędne
+parametry ruchu obrotowego Ziemi
+współrzędne i parametry przesunięć stacji monitorujących
+informacje o jonosferze i troposferze
+
+
+
+Linki zewnętrzne

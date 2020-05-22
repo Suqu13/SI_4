@@ -1,0 +1,19 @@
+
+
+
+Aberracja chromatyczna, chromatyzm – cecha soczewki lub układu optycznego, wynikająca z różnych odległości ogniskowania (ze względu na różną wartość współczynnika załamania) dla poszczególnych barw widmowych światła (różnych długości fali światła). W rezultacie występuje rozszczepienie światła, które widoczne jest na granicach kontrastowych obszarów pod postacią kolorowej obwódki (zobacz zdjęcie obok).
+
+Aberracja chromatyczna występuje również w soczewce ludzkiego oka, powodując barwne obwódki (pomarańczowe i niebieskie) wokół ciemnych przedmiotów na jasnym tle. W przypadku układów optycznych (teleskopy, obiektywy fotograficzne etc.) jest to wada pogarszająca jakość odwzorowania.
+
+Korekcja
+Po raz pierwszy została skorygowana w dużym stopniu w układzie soczewek o nazwie achromat wynalezionym przez Anglika Johna Dollonda (1706-1761) w Anglii. 
+
+Czarno-biała fotografia
+Zjawisko to jest znane również w fotografii czarno-białej. Nie występują tam co prawda kolory, ale aberracja chromatyczna wywołuje nieostrość obrazu. Korekcję można osiągnąć poprzez zastosowanie apochromatu lub też przez użycie odpowiedniego filtru kolorowego o wąskim pasmie przepustowości lub przez odpowiednie konwertowanie pojedynczych kanałów koloru do kanału czarno-białego. Niektóre z tych metod wymagają jednak zwiększenia czasu ekspozycji.
+
+Zobacz też
+
+aberracja sferyczna
+
+
+

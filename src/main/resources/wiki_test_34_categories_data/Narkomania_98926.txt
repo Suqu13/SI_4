@@ -1,0 +1,89 @@
+Selektywne inhibitory zwrotnego wychwytu serotoniny, SSRI (ang. SSRIs, w l. poj. Selective Serotonin Reuptake Inhibitor, ATC: N 06 AB) – niejednorodna pod względem chemicznym grupa psychoanaleptycznych leków antydepresyjnych. Powodują zwiększenie stężenia neuroprzekaźnika serotoniny (5-hydroksytryptaminy) w przestrzeni międzysynaptycznej poprzez hamowanie jego wychwytu zwrotnego.
+
+Wskazania do stosowania
+SSRI są używane do leczenia m.in.:
+depresji,
+fobii społecznej,
+zespołu Aspergera
+lęku uogólnionego,
+nerwicy natręctw,
+zespołu PTSD,
+przedwczesnego wytrysku.
+
+Przykłady SSRI
+Do tej grupy leków jest zaliczany szereg medykamentów, m.in.:
+
+citalopram,
+dapoksetyna – Priligy, w obrocie w państwach Europy, także w Polsce, pierwszy krótkodziałający SSRI wskazany w doraźnym leczeniu przedwczesnego wytrysku. W USA lek jest w trakcie badań przez FDA.
+escitalopram (prawoskrętny enancjomer citalopramu),
+fluoksetyna (najsłynniejszy z SSRI, pierwsza nazwa handlowa: Prozac),
+fluwoksamina,
+indalpina – obecnie nie stosowana w lecznictwie,
+paroksetyna,
+sertralina (przy dawkach rzędu 150&nbsp;mg – 200&nbsp;mg jest także inhibitorem wychwytu zwrotnego dopaminy),
+wilazodon – obecnie nie stosowany w lecznictwie,
+zimelidyna – obecnie nie stosowana w lecznictwie.
+
+Mechanizm działania
+Informacje w mózgu są przesyłane pomiędzy neuronami poprzez synapsy, połączenia pomiędzy komórkami nerwowymi. Neuron wysyłający informację uwalnia neuroprzekaźnik (w przypadku niektórych neuronów serotoninę) do szczeliny synaptycznej. Neuroprzekaźnik znajdujący się w szczelinie synaptycznej jest rozpoznany przez receptory na powierzchni komórki odbierającej impuls, która na podstawie tego pobudzenia może wysłać dalej impuls nerwowy (potencjał czynnościowy). Około 10 procent neuroprzekaźnika zostaje stracone w tym procesie, pozostałe 90 procent jest wychwytywane do ponownego użycia przez komórkę wysyłającą sygnał za pomocą "transportera monoamin" (proces ten nazywany jest "wychwytem zwrotnym").
+
+Depresja jest łączona z brakiem stymulacji komórek, do pobudzenia których wykorzystywana jako neuroprzekaźnik jest − między innymi − serotonina. Aby zwiększyć stymulację tych komórek, leki SSRI hamują wychwyt zwrotny serotoniny. W wyniku tego serotonina pozostaje dłużej wewnątrz szczeliny synaptycznej, może więc dłużej pobudzać komórkę odbiorczą, co z kolei powoduje, że komórka odbiorcza może częściej wysyłać impulsy.
+
+W przypadku przedwczesnego wytrysku działająca serotoninergicznie dapoksetyna hamuje neuronalny wychwyt zwrotny serotoniny i w rezultacie nasila działanie neuroprzekaźnika na receptory pre- i postsynaptyczne. Dzięki temu wydłuża się czas wewnątrzpochwowego opóźnienia wytrysku (IELT), gdyż ejakulacja (wytrysk) jest regulowana przez współczulny układ nerwowy człowieka i ośrodki ruchowe, podczas czego bierze udział szereg neuroprzekaźników, w tym serotonina (5-hydroksytryptamina[5-HT]), dopamina, oksytocyna i inne. Dostępne badania kliniczne sugerują, że kluczową rolę w wytrysku odgrywa serotonina i określone podtypy receptora 5-HT. 
+
+Wszystkie leki z grupy SSRI wywierają swe podstawowe działanie na układ serotonergiczny, zarówno mózgu, jak i narządów obwodowych, a spowodowany przez nie wzrost stężenia serotoniny w odpowiednich miejscach w mózgu jest odpowiedzialny za ich działanie terapeutyczne. Wśród leków grupy SSRI transporter serotoniny najsilniej hamuje paroksetyna, następnie citalopram (2,5 raza słabiej w tej samej dawce), fluwoksamina i sertralina (ok. 6 razy słabiej) oraz fluoksetyna (ponad 20 razy słabiej). Natomiast największą selektywność hamowania transportera serotoniny w odniesieniu do transportera noradrenaliny wykazuje citalopram, następnie sertralina (5 razy słabiej), fluwoksamina i paroksetyna (ok. 8 razy słabiej) oraz fluoksetyna (ok. 70 razy słabiej).
+W pierwszym okresie stosowania leki z grupy SSRI powodują blokowanie transportera serotoninowego w zakończeniach aksonalnych i okolicach somato-dendrytycznych neuronów serotoninergicznych. W wyniku tego następuje zmniejszenie wrażliwości receptorów serotoninergicznych 5HT1A zlokalizowanych w okolicach somato-dendrytycznych i stymulacja uwalniania serotoniny z zakończeń aksonów. Powoduje to w konsekwencji pobudzenie serotoninowych receptorów postsynaptycznych, m.in. typu 5HT2A, 5HT2C, 5HT3 i 5HT4. Działanie to jest wspólne dla wszystkich leków z grupy SSRI i związane z podobnymi objawami ubocznymi. SSRI wykazują powinowactwo
+do receptorów serotoninowych, muskarynowych i receptorów sigma w ośrodkowym układzie nerwowym.
+
+Odmienności profilu farmakologicznego tych leków znalazły również
+odzwierciedlenie w klinice. Na przykład fluoksetyna, która poza blokowaniem transportera serotoniny wykazuje również powinowactwo do receptorów serotoninowych 5-HT2C, charakteryzuje się wyraźnym działaniem anorektycznym oraz silniejszym wpływem prolękowym w początkowej fazie terapii w porównaniu z pozostałymi związkami z tej grupy. Sertralina natomiast, z uwagi na tonizujący wpływ na układ współczulny przejawiający się m.in. osłabieniem aktywności neuronów noradrenergicznych, wskazana jest w leczeniu depresji u osób starszych i pacjentów z chorobami serca. Badania farmakologiczne wykazują, że niektóre leki z grupy SSRI wpływają na tzw. receptory sigma, odgrywające rolę w modulacji wielu rodzajów neuroprzekaźnictwa w ośrodkowym układzie nerwowym, jak również w mechanizmach zaburzeń psychotycznych i agresywnych oraz funkcji poznawczych. Największe działanie w tym zakresie przejawia fluwoksamina, w mniejszym stopniu sertralina. Może to odgrywać rolę w terapeutycznym działaniu wymienionych leków w depresji z objawami urojeniowymi.
+
+Trwałość efektu leczniczego
+Efekt kliniczny SSRI może różnić się w znacznym stopniu między pacjentami.
+
+W większości przypadków lek daje pełną(lub częściową) oczekiwaną odpowiedź kliniczną, która utrzymuje się długo po odstawieniu leku.
+Niekiedy lek w początkowym okresie leczenia daje kliniczną poprawę stanu psychicznego, jednak po określonym czasie (od miesiąca do kilku lat, w zależności od tego, jak długo dany pacjent przyjmuje lek) podawania go efekt leczniczy zmniejsza się czy nawet zanika.
+Zdarza się także, że lek nie daje żadnej odpowiedzi klinicznej niezależnie od długości okresu podawania oraz dawki.
+
+Działania niepożądane
+Ze względu na wpływ serotoninergiczny, SSRI mogą powodować działania niepożądane, jak:
+anhedonia
+apatia
+nadmierne pobudzenie,
+obniżenie apetytu,
+nadmierne pocenie się,
+negatywny wpływ na funkcje seksualne, zwłaszcza obniżenie wrażliwości na bodźce seksualne i obniżenie popędu,
+zaburzenia hormonalne spowodowane zaburzeniem prawidłowej relacji poziomów serotoniny i dopaminy (zawyżony poziom serotoniny w stosunku do zaniżonego poziomu dopaminy; nie dotyczy sertraliny – ze względu na jej lekki wpływ dopaminergiczny) i ich szeroko pojmowane następstwa,
+nietypowe i wyraziste sny (zwłaszcza przy stosowaniu wyższych dawek SSRI),
+rzadko: senność (głównie na paroksetynie).
+możliwa zmiana masy ciała (chudnięcie/tycie w zależności od indywidualnej reakcji pacjenta)
+możliwe zwiększenie ryzyka epizodów niedokrwiennych na skutek pogrubienia błony wewnętrznej naczyń krwionośnych niezależnie od stwierdzonego podwyższonego ryzyka chorób układu krążenia u osób cierpiących na depresję.
+
+Możliwe są także lekkie nudności, bóle głowy lub brzucha – podobnie jak w przypadku większości leków. Najczęściej występują na początku leczenia i mijają wkrótce.
+
+Donoszono też o nieznacznych zmianach zachowania, hipomanii i lekkim osłabieniu afektu, zwłaszcza po przewlekłym podawaniu SSRI.
+
+Część pacjentów leczonych selektywnymi inhibitorami zwrotnego wychwytu serotoniny donosiła o charakterystycznym działaniu tych specyfików w zależności od czasu trwania kuracji, przy czym niezaprzeczalnie dotyczy to jedynie części chorych, zatem nie może to być podstawą do czynienia uogólnień.Można je zróżnicować na:
+stymulujące bez wpływu na nastrój (na początku leczenia – niesie to ze sobą ryzyko myśli i zachowań samobójczych, głównie u pacjentów depresyjnych),
+poprawiające nastrój z lekką stymulacją (po 2–8 tygodniach od momentu rozpoczęcia leczenia),
+sedacyjne, jak określa to część spośród leczonych (po 6–12 miesiącach od rozpoczęcia kuracji). Zdarza się to sporadycznie. Możliwe że ma to związek z wpływem leków SSRI nie tylko na receptory serotoninergiczne, ale również na receptory noradrenergiczne. Obecnie nie są dostępne wiarygodne informacje na ten temat.
+
+Leki z grupy SSRI w rzadkich przypadkach mogą również indukować PSSD.
+
+Interakcje
+Nie wolno łączyć leków SSRI z inhibitorami MAO i klomipraminą. Łączenie razem z tryptofanem, sumatryptanem lub dekstrometorfanem jest ryzykowne, grozi zespołem serotoninowym. Podawanie razem z tramadolem może spowodować m.in. drgawki.
+
+Niektóre SSRI wpływają na metabolizm wątrobowy (np. paroksetyna jest silnym inhibitorem cytochromu P450), co należy uwzględnić w przypadku podawaniu leków metabolizowanych w wątrobie.
+
+Odstawienie
+Donoszono o objawach odstawiennych (zawroty głowy, bóle głowy, zaburzenia snu, ogólne pogorszenie samopoczucia) w przypadku nagłego lub zbyt szybkiego odstawienia leków z grupy SSRI po dłuższym (ponad pół roku) okresie przewlekłego przyjmowania ich. Najczęściej dotyczyło to specyfików o krótszym okresie półtrwania. Nie oznacza to jednak, jakoby miały one działanie uzależniające.
+
+Zobacz też
+psychoanaleptyki
+SNRI
+Post SSRI sexual dysfunction
+Dapoksetyna 
+
+
+
+Bibliografia

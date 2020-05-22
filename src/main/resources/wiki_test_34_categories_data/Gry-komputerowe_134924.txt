@@ -1,0 +1,146 @@
+
+S.T.A.L.K.E.R.: Cień Czarnobyla (oryginalny tytuł ukr. S.T.A.L.K.E.R.: Тінь Чорнобиля, S.T.A.L.K.E.R.: Tin’ Czornobyla; ang. S.T.A.L.K.E.R.: Shadow of Chernobyl) – gra ukraińskiego studia GSC Game World, ogłoszona w 2001 roku jako S.T.A.L.K.E.R.: Oblivion Lost. Gra miała jako pierwsza wykorzystywać DirectX 9, ale regularne przesunięcia premiery spowodowały, że gracze przestali wierzyć w ukazanie się jej na rynku. W styczniu 2007 THQ (dystrybutor gier GSC), ogłosiło premierę gry na marzec/kwiecień 2007 (w co dalej wiele pism branżowych i graczy nie wierzyło), jednak gra ukazała się w zapowiadanym terminie.
+
+S.T.A.L.K.E.R.: Cień Czarnobyla jest grą typu first-person shooter zawierającą jednakże wiele elementów typowych dla gier fabularnych takich jak handel i wymiana informacji z bohaterami niezależnymi, wykonywanie misji pobocznych czy dobór ekwipunku. Gra ma nieliniową fabułę – misje mogą być wykonywane w kolejności wybranej przez gracza. Zarówno tytuł, jak i świat gry nawiązuje do Pikniku na skraju drogi autorstwa braci Strugackich oraz również opartego na tej powieści filmu Stalker Andrieja Tarkowskiego.
+
+W 2008 roku został wydany prequel pod tytułem ''''.
+
+3 września 2008 roku GSC Game World ogłosiło, że gra osiągnęła sprzedaż 2 milionów kopii.
+
+1 marca 2009 roku GSC Game World udostępniło jedną z wczesnych wersji gry (xrCore build 1935 z 18 października 2004). Jest to wersja, która m.in. zawiera lokalizacje usunięte z wersji finalnej takie jak Martwe Miasto, Bagna czy Generatory. Jednak ze względu na dużą liczbę błędów, firma GSC nie zapewnia dla niej wsparcia technicznego.
+
+1 kwietnia 2009 GSC Game World ogłosiło, że prowadzone są prace nad kolejną grą: '''', będącym sequelem gry S.T.A.L.K.E.R.: Cień Czarnobyla. Ze względu na datę publikacji wielu graczy oraz pism komputerowych sądziło, że jest to dość oryginalny primaaprilisowy żart, jednak GSC Game World oficjalnie potwierdziło tę informację.
+
+W listopadzie 2010 GSC Game World poinformowało o współudziale w pracach nad serialem telewizyjnym S.T.A.L.K.E.R.'', który miałby rozgrywać się w realiach przedstawionych w grze komputerowej, opowiadając jednak osobną historię. Prace zostały anulowane.
+
+Rozgrywka
+Podczas przemieszczania się po terenie Zony gracz spotyka dużą ilość postaci niezależnych.
+
+Na każdej planszy istnieje dużo skrytek, w których gracz może je odnaleźć. Skrytki te (którymi są np. sejfy, skrzynie, pnie drzew, rury czy studzienki) mogą być wykorzystane przez gracza do przechowywania przedmiotów takich jak dodatkowe kombinezony, broń lub też zapasy amunicji i żywności. Gracz może przenosić przedmioty w plecaku mieszczącym zwykle 60 kilogramów ekwipunku. Obciążenie do 50 kilogramów umożliwia swobodne przemieszczanie się gracza bez przemęczenia, obciążenie pomiędzy 50 a 60 kg skutkuje szybszym zmęczeniem i koniecznością częstszej regeneracji sił, natomiast przekroczenie limitu uniemożliwia poruszanie się. Niektóre ubiory w grze (np. Egzoszkielet) umożliwiają zwiększenie obciążenia.
+
+Gracz może w danej chwili skorzystać z kilku rodzajów uzbrojenia: nóż, broń krótka (pistolet), broń długa (karabinek, strzelba lub np. granatnik) oraz granat ręczny (analogicznie jak np. w grze Counter-Strike). Jednak w przeciwieństwie do wielu innych gier FPS, w których gracz miał nie tylko ograniczoną ilość dostępnego uzbrojenia, ale i limit amunicji do każdej broni (jak np. w grze Half-Life), w grze S.T.A.L.K.E.R.'' gracz może zabrać ze sobą kilka rodzajów broni (np. karabinek do walki na średni dystans i broń snajperską do eliminowania przeciwników na dalekim dystansie) oraz dowolną ilość amunicji do każdej z nich. To samo dotyczy pozostałych przedmiotów jak żywność czy medykamenty. Nie może tylko przekroczyć limitu dopuszczalnego obciążenia. Podczas gry gracz może w dowolnej chwili zamienić broń na inną w zależności od sytuacji, w której się znajduje. W ten sposób gracz może dowolnie dobierać swoje wyposażenie w zależności od rodzaju misji którą ma do wykonania. Także w przeciwieństwie do wielu gier FPS, w grze S.T.A.L.K.E.R.'' broń oraz ubiory ulegają zużyciu. Zużyta broń częściej się zacina i jest mniej celna, zużyte ubiory i kombinezony tracą swoje właściwości ochronne. Tak więc gracz musi pamiętać, aby w odpowiednim czasie kupić nową broń lub kombinezon lub też zabrać broń zabitego przeciwnika, jeśli jest mniej zużyta od broni gracza. Może też uzupełnić w ten sposób amunicję lub zapas żywności.
+
+Gra wieloosobowa
+W grze są trzy tryby gry wieloosobowej:
+Deathmatch – w tym trybie rywalizuje między sobą od 2 do 32 graczy. Zasada jest prosta – każdy jest wrogiem każdego. Rozgrywka toczy się na limit fragów lub ograniczenie czasowe.
+Team Deathmatch – w tym trybie gra od 2 do 32 graczy podzielonych na dwa zespoły – Najemników i Wolność. Każda grupa ma dostęp do innego uzbrojenia.
+Artifact Hunt – w tym trybie gracze również dzielą się na Najemników i Wolność. Celem gry jest odnalezienie ukrytego na planszy artefaktu i przyniesienie go do bazy zespołu gracza.
+
+Fabuła
+Przed wydarzeniami w Stalkerze
+Rok 2006. Dwadzieścia lat po katastrofie w Czarnobylu ma tam miejsce kolejny wybuch – istnieją pogłoski, że przeprowadzano tam tajemnicze eksperymenty. Promieniowanie jonizujące sieje spustoszenie: ludzie i zwierzęta ulegają mutacjom, występują liczne anomalie i przerażające zjawiska. Wojsko zabezpiecza obszar w promieniu 30 kilometrów tworząc zamkniętą i doskonale strzeżoną strefę. Dwa lata później z niewiadomych przyczyn następuje kolejny wybuch. Po kilku latach do Zony docierają stalkerzy – śmiałkowie poszukujący artefaktów, dziwnych przedmiotów i skarbów, które chętnie kupują przeróżne organizacje.
+
+Intro
+Gra zaczyna się od filmu wprowadzającego, na którym widać jadącą w burzową noc ciężarówkę, której ładunkiem na przyczepie są ciała zabitych w Zonie. Burza nasila się z każdą chwilą. Nagle następuje ogromne wyładowanie, które uderza w ciężarówkę. Następnego dnia łowca nagród znajduje zniszczoną ciężarówkę na poboczu drogi. Tam, pośród nieżywych znajduje naszego bohatera, który wydaje się być martwy i zabiera go ze sobą do handlarza zwanego Sidorowiczem. Handlarz jest zainteresowany, już chce podać cenę za „żyjące zwłoki”, gdy nagle główny bohater budzi się i zabiera PDA, trzymany przez handlarza. Na PDA jest zapisana jedna rzecz – Kill the Strelok.'' (ang. Zabić Striełoka). Handlarz jest zszokowany, gdyż bohater jest naznaczony przez tajemnicze znamię. Do tej pory nikt nie dostał takiego, jednocześnie pozostając przy życiu.
+
+Rozgrywka
+Główny bohater gry, którym kieruje gracz, zwie się Naznaczony (ros. Меченый). Po wypadku cierpi na amnezję, ale pamięta swój życiowy cel – odnaleźć Striełoka i zabić go. Kim jest Striełok, czemu Naznaczony chce go zabić, czemu bohater został za życia naznaczony znamieniem martwych i jaką tajemnicę skrywa Zona – zostanie to ujawnione w trakcie gry.
+
+Dzieje Striełoka i jego drużyny
+Powstaje grupa Striełoka, która obiera sobie jedno zadanie – dotarcie do centrum Zony. Składa się ona z czterech osób:
+Striełok (głównodowodzący) – jeden z najlepszych stalkerów w Zonie,
+Duch (kamuflaż),
+Kieł (spec od elektroniki),
+Doktor (zaopatrzeniowiec).
+Striełok, Kieł i Duch docierają do centrum Zony, nie tracąc przy tym psychiki i życia. Nie zagłębili się jednak do Sarkofagu. Wynoszą stamtąd rzadkie i cenne artefakty. Na jednym z filmików widać, jak Striełok chwali się przed Doktorem rzadkim artefaktem (prawdopodobnie Złotą Rybką). Obmyśla kolejną wyprawę do centrum.
+W drugiej wyprawie cała trójka dociera do wnętrza Sarkofagu, gdzie natykają się na zamknięte kluczem cyfrowym drzwi. Udaje się im również dotrzeć do samego Monolitu, lecz Striełok nie zdążył wypowiedzieć życzenia (mdleje prawdopodobnie z powodu ran lub zbyt dużego napromieniowania). Na szczęście Duch i Kieł ratują go i wynoszą stamtąd.
+Striełok leży nieprzytomny u Doktora, kurując się z choroby popromiennej. Ma już kolejne postanowienie – udać się do Monolitu samotnie.
+Kieł wprowadza ostatnie poprawki do dekodera skonstruowanego w celu otworzenia drzwi w Sarkofagu. Wraz z Duchem udają się do hotelu w Prypeci, by go ukryć. Przed wyprawą mówią o umiejscowieniu skrytki Doktorowi, by ten przekazał te wiedzę Striełokowi.
+Kieł i Duch wracają z Prypeci. W trakcie powrotu w pobliżu wioski natykają się na trzech bandytów. Zabijają dwóch, ale trzeci z nich (prawdopodobnie najemnik) zabija Kła z karabinu Wintar (WSS Wintoriez). Duch pochowuje Kła pod pomnikiem Lenina w Prypeci po czym samotnie wraca do podziemi Agropromu, aby zostawić w schowku wiadomość dla Striełoka. Następnie zatrudnia się u naukowców w Jantarze.
+Striełok dociera samotnie do Monolitu. Zostaje jednak schwytany przez żołnierzy ochrony projektu Świadomość-Z. Zostaje poddany praniu mózgu i włączony do tajnego projektu. Jako Naznaczony powraca w trupiarce (samochodzie do przewozu agentów Świadomości-Z). Ta zostaje zniszczona przez piorun. Naznaczony zdołał przeżyć, zostaje uratowany przez stalkera o imieniu Lis i zaniesiony do Handlarza.
+W międzyczasie Duch zostaje zabity przez Kontrolera, tuż przy wyjściu z Laboratorium X16.
+Cierpiący po wypadku na amnezję Striełok szuka wiadomości o sobie. Po jakimś czasie odkrywa, że Duch i Kieł nie żyją.
+Dzięki pomocy Przewodnika, spotyka się z ostatnim członkiem drużyny – Doktorem. Ten przypomina mu jego tożsamość – zdradza mu, że to on jest Striełokiem.
+Striełok po raz ostatni wyrusza do centrum Zony. Po drodze wyłącza Mózgozwęglacz w Czerwonym Lesie. Dociera do Prypeci i odnajduje dekoder Kła. Udaje mu się trzeci już raz dotrzeć do Sarkofagu. Tam okazuje się iż:
+zginął po wypowiedzeniu życzenia przy Monolicie,
+przyłączył się ponownie do projektu Świadomość-Z,
+nie chciał uczestniczyć w projekcie Świadomość-Z.
+
+''(ostatnie trzy punkty zależą od wybranego zakończenia gry – może być tylko jeden z nich)''
+
+Zakończenia gry
+Gracz może ukończyć grę na siedem sposobów:'''
+
+Zakończenia z Monolitem (tzw. złe zakończenia):
+Jeśli gracz zabije przywódców Wolności i Powinności, Striełok wypowiada życzenie Chcę rządzić światem. Wtedy Monolit wchłonie jego świadomość, która stanie się jego częścią.
+Jeśli gracz zdobędzie minimum 50 tys. rubli, Striełok wypowiada życzenie Chcę być bogaty. Wtedy Striełok zobaczy spadający deszcz złotych monet, który jest iluzją stworzoną przez Monolit. W rzeczywistości jest to walący się dach, który grzebie Striełoka pod zwałami gruzu.
+Jeśli gracz ma straszną reputację, Striełok wypowiada życzenie Ludzkość jest zepsuta i musi zostać poddana kontroli. Striełok ma wizję końca świata, po czym budzi się w ciemnym miejscu, gdzie nie ma nic oprócz niego.
+Jeśli gracz ma świetną reputację, Striełok wypowiada życzenie Chcę żeby Zona zniknęła. Striełok ma wizję Czarnobyla przed katastrofą po czym okazuje się, że został oślepiony.
+Jeśli gracz nie spełnił żadnego z powyższych warunków, Striełok wypowiada życzenie Chcę być nieśmiertelny. Wtedy Monolit zamienia go w metalową statuę.
+
+Zakończenia z projektem Świadomość-Z (tzw. dobre zakończenia):
+Striełok przyłącza się do projektu Świadomość-Z. Zostaje umieszczony w kapsule i zasypia.
+Striełok nie chce przyłączyć się do projektu Świadomość-Z. Zostaje teleportowany na obrzeża elektrowni po czym po walce z oddziałami Monolitu dociera do głównego pomieszczenia, w którym niszczy kapsuły, niwecząc cały projekt i powodując zniknięcie Zony.
+
+Świat
+Światem gry jest tzw. Zona – miejsce ekstremalnie niebezpieczne, inspirowana prawdziwą strefą. Tereny, które w 1986 roku zostały skażone przez katastrofę w Czarnobylu są odgrodzone szczelnym kordonem wojska, ale mimo to przedostają się tam poszukiwacze skarbów i przygód. W chwili obecnej na terenie strefy żyją dzikie zwierzęta, a raczej ich mutacje, oraz ludzie (stalkerzy, bandyci, wojsko).
+
+Świat gry jest rozległy, oferuje kilkanaście plansz, pomiędzy którymi można się, generalnie, przemieszczać swobodnie, jakkolwiek nie wszystkie lokacje są dostępne od samego początku gry, a samo przechodzenie odbywa się w oznaczonych punktach. Niektóre obszary wzorowane są na autentycznych lokacjach (takich jak miasto-widmo Prypeć, Czerwony Las czy sama elektrownia w Czarnobylu). W stosunku do rzeczywistych miejsc w grze są one odpowiednio pomniejszone i przemieszczone, nadal zawierając charakterystyczne elementy pierwowzorów.
+
+Lokalizacje
+
+Kordon – Przedsionek Zony. Jak na warunki Zony jest tu niewiele anomalii i praktycznie nie ma obszarów o wysokim promieniowaniu. Charakterystyczne miejsca jakie można zwiedzić to: obozowisko stalkerów (obok którego ma siedzibę handlarz Sidorowicz), silnie broniony wojskowy posterunek graniczny, opuszczona fabryka, będąca terenem spornym pomiędzy samotnikami a bandytami, zniszczony most kolejowy, przy którym jest kolejny posterunek, a także gospodarstwo na północ od mostu, po lewej stronie drogi prowadzącej w kierunku przejścia do kolejnych obszarów Zony.
+Wysypisko – Położone na północ od Kordonu złomowisko maszyn i skażonego promieniotwórczo złomu z elektrowni w Czarnobylu. Teren najczęściej nawiedzany przez bandytów, którzy mają niedaleko swoje obozy. Można tu zobaczyć: cmentarzysko sprzętu z akcji ratunkowej w elektrowni (śmigłowce, autobusy, ciężarówki) oraz hangar naprawczy. Na północy znajduje się posterunek kontrolny frakcji Powinność, a na wschodzie nasycony radioaktywnie obszar stanowiący przejście do Doliny Mroku.
+Dolina Mroku – Położony na wschód od Wysypiska obszar, nad którym rzadko świeci słońce. W części północnej jest niedokończony zakład, w której mają swoją siedzibę bandyci pod dowództwem Dzika. W niewielkiej odległości na południe od niego jest kompleks budynków kryjący wejście do laboratorium X18. Na południe jest stara chlewnia, w której rozbili obóz stalkerzy o podejrzanej reputacji. Warto dodać, że w dolinie mroku w pobliżu bazy Dzika znajduje się silnie napromieniowana maszyna (prawdopodobnie żniwiarka), a w niej znajdują się przedmioty nie umieszczone w finalnej wersji gry takie jak: Gitara, radio-komunikator i detektor anomalii (który jednak nie przypomina żadnego z późniejszych części gry, chociaż najbliżej mu do detektora Echo).
+Instytut Badawczy Agroprom – Położony na zachód od Wysypiska. Składa się z dwóch kompleksów budynków połączonych podziemnym systemem tuneli. W północno-wschodnim kompleksie można spotkać stalkerów (atakowanych ciągle przez wojskowych, bandytów i hordy potworów). Południowo-zachodni kompleks jest strzeżony przez posterunki wojskowe. Na rozległych polach wokół obu kompleksów można znaleźć sporo artefaktów.
+Bar – Wschodnia część kompleksu przemysłowego Rostok. Obszar ten jest swoistą oazą w dzikim świecie Zony. Nie ma tu mutantów ani anomalii. Teren jest pod całkowitą kontrolą frakcji Powinność, która pilnuje tu porządku i nie toleruje strzelania ani innych wyskoków. Można tutaj odwiedzić bar „100 Radów”, którego właścicielem jest Barman, pełniący również rolę handlarza oraz Arenę, miejsce pojedynków, gdzie biorąc udział w pojedynkach na śmierć i życie, można całkiem nieźle zarobić. Na tym również terenie, znajduje się kwatera główna frakcji Powinność.
+Dzicz – Zachodnia część Rostoku. Rozległy teren mieszczący bocznice kolejowe, rampy przeładunkowe i magazyny. Dominującą frakcją w tym rejonie są najemnicy, w późniejszym czasie można spotkać tutaj także bandytów, samotników oraz oddziały Powinności. W dużych ilościach występują tu także mutanty.
+Jantar – Przed katastrofą w Czarnobylu było tu piękne jezioro. Dziś nawet w słoneczny dzień miejsce to jest wyjątkowo odrażające. Jezioro zamieniło się w będące siedliskiem snorków bagniste moczary. Obok nich znajduje się polowe laboratorium naukowców, którymi kieruje profesor Sacharow. Na północ znajduje się zrujnowany kompleks budynków, kryjący wejście do podziemnego laboratorium X16. Ponurego obrazu miejsca dopełniają wałęsające się chmary uzombifikowanych stalkerów.
+Magazyny Wojskowe – Obszar na północ od Baru. Choć na południu jest niewielka placówka Powinności to teren ten jest pod kontrolą frakcji Wolność. Mieszczą się tutaj przede wszystkim magazyny wojskowe będące kwaterą główną Wolności oraz opuszczoną wioskę, nad którą Wolność próbuje zapanować z umiarkowanym skutkiem, jako że teren jest nawiedzony przez pijawki. W zachodniej części znajduje się placówka najemników, zaś na północy, silnie obsadzone przez oddział Wolności wejście do Czerwonego Lasu, zwane Barierą. W centralnej części tego obszaru znajduje się również niewielki obóz stalkerów.
+Czerwony Las – Tajemniczy obszar pełen anomalii, skał i wyschniętych drzew pod panowaniem frakcji Monolit, pilnującej drogi prowadzącej na północ w kierunku Prypeci i Elektrowni w Czarnobylu. To tutaj znajduje się tajemniczy Mózgozwęglacz – urządzenie, które sprawia, że praktycznie nikt stąd nie wraca żywy i o zdrowych zmysłach.
+Prypeć – Wymarłe miasto, które kiedyś tętniło życiem. Teren ten jest wzorowany na autentycznych lokalizacjach. Można tutaj znaleźć np. słynny diabelski młyn, czy Centrum Kultury. Tutaj mieści się kwatera główna frakcji Monolit, sprawującej kontrolę nad miastem. Tu również znajduje się skrytka hotelowa, w której są dokumenty i dekoder otwierający drzwi w Sarkofagu. Po lewej stronie hotelu znajduje sie pomnik Lenina, a zaraz za nim grób Kła, członka grupy Striełoka, w którym można znaleźć ulepszony Egzoszkielet.
+Elektrownia Atomowa Czarnobyl – lokalizacja ta została odwzorowana ze szczególną starannością. Można tu zobaczyć i zwiedzić sarkofag, kryjący szczątki zniszczonego reaktora, stację przeładunkową i inne miejsca. Nad całym obszarem króluje charakterystyczny komin elektrowni.
+
+Lokalizacje podziemne
+Podziemia Agropromu – System tuneli łączący oba kompleksy budynków Instytutu Agroprom. Miejsce to jest siedliskiem pijawek oraz bandytów, a także jest patrolowane przez żołnierzy. To tutaj znajduje się kryjówka grupy Striełoka. Tutaj też bohater po raz pierwszy zmierzy się z Kontrolerem.
+Laboratorium X18''' – Podziemny kompleks badawczy w Dolinie Mroku. Mroczny i tajemniczy, kryjący niejeden sekret z przeszłości. To tutaj budowano części do Mózgozwęglacza. W chwili obecnej, miejsce to opanowały mutanty takie jak Poltergeist, Snork oraz Nibyolbrzym.
+Laboratorium X16''' – Podziemny kompleks doświadczalny w Jantarze. Mieści emiter psioniczny, który zamienia ludzi w zombi. Tutaj też zaginął stalker zwany Duchem.
+Laboratorium X19''' – Podziemny bunkier w Czerwonym Lesie, w którym znajduje się mechanizm wyłączający Mózgozwęglacz. Można tu spotkac pijawki i oddziały Monolitu.
+Sarkofag – Obszar wewnątrz sarkofagu zbudowanego wokół zniszczonego reaktora, kryjący labirynt tuneli oraz tajemniczy Monolit zwany Spełniaczem Życzeń, o którym wszyscy mówią, ale nikt go nie widział i nikt nie wie czy tak naprawdę istnieje.
+Sterownia Monolitu – Ukryte w Sarkofagu za pancernymi drzwiami i bronione przez najlepszych żołnierzy Monolitu urządzenie kontrolujące znajdujący się w Sarkofagu Spełniacz Życzeń.
+
+Frakcje
+
+W grze występuje łącznie 11 frakcji:
+Powinność (ros./ukr. Долг) – frakcja, która umożliwia graczowi przyłączenie się w swoje szeregi. Jest to organizacja paramilitarna skupiająca w swoich szeregach zarówno byłych wojskowych (gen. Woronin, płk Pietrienko), jak i stalkerów weteranów. Frakcja ta znana jest z dyscypliny oraz doskonałego wyszkolenia swoich członków. Posługują się kodeksem honorowym, który zabrania im sprzedawania artefaktów komukolwiek spoza Zony. Powinność wszystkie artefakty oddaje naukowcom. Najważniejszym celem dla nich jest odizolowanie Zony od świata zewnętrznego przez co pozostają w ciągłym konflikcie z frakcją Wolność. Według niepotwierdzonych pogłosek Powinność ma cichy układ z armią, od której regularnie otrzymuje dostawy broni, amunicji oraz niezbędnego wyposażenia. Swoją główną kwaterę mają w Barze. W stosunku do gracza nastawieni neutralnie (wrogo, jeżeli gracz należy do grupy Wolność).
+Wolność (ros. Свобода, ukr. Воля) – frakcja, która (jak Powinność) umożliwia graczowi wstąpienie w swoje szeregi. Jest to grupa anarchistów uważających, że dostęp do Zony powinien mieć cały świat, a nie tylko wojsko i naukowcy. Jakkolwiek doskonale wyposażeni (posiadają broń snajperską i granatniki) to wewnętrzna organizacja oraz wyszkolenie są dużo gorsze niż w Powinności. Są w ciągłym konflikcie z frakcjami Powinność, Monolit oraz wojskiem. Swoją główną kwaterę mają w Magazynach Wojskowych. Do gracza są nastawieni neutralnie (wrogo, jeżeli gracz należy do grupy Powinność).
+Bandyci – kryminaliści, którzy przybyli do Zony, by uciec przed prawem, handlować artefaktami lub bronią. Trudno ich określić mianem stalkerów, ponieważ nie poszukują artefaktów samodzielnie, lecz aby je zdobyć nie wahają się okradać i zabijać innych stalkerów. Z reguły występują w kilkuosobowych grupach, słabo uzbrojeni i opancerzeni. Jednak nawet pośród nich można spotkać prawdziwych mistrzów – weteranów kryminalnego rzemiosła. W stosunku do gracza są wrogo nastawieni (neutralnie, jeżeli gracz należy do grupy Wolność).
+Najemnicy – najbardziej tajemnicza frakcja w grze, w której istnienie powątpiewa większość osób w Zonie. Nie wiadomo, gdzie mają główną siedzibę. Działają na zlecenie (np. zabójstwa lub strzeżenie danej lokalizacji lub miejsca). Za wykonanie zadania biorą artefakty lub pieniądze. Są dobrze uzbrojeni i doskonale wyszkoleni. Bez trudu mogą poradzić sobie z dużo liczniejszym przeciwnikiem. Do gracza są nastawieni wrogo (neutralnie, jeżeli gracz należy do grupy Wolność).
+Wojsko – zawodowi żołnierze. Strzegą granic Zony przed stalkerami i mutantami, patrolują również drogi nieopodal granicy. Niektóre oddziały są wysyłane w głąb Zony jako misje ratunkowe czy w celu wzmocnienia placówek. Z reguły stacjonują i poruszają się w zwartych grupach po kilku lub kilkunastu ludzi. Dobrze uzbrojeni i wyszkoleni (zwłaszcza wyborowe oddziały SPECNAZ-u). Nie należy ich atakować o ile nie stanowią bezpośredniego zagrożenia. W stosunku do gracza, jak i wszystkich innych frakcji w grze nastawieni wrogo.
+Wojskowi stalkerzy – specjalnie wyszkoleni stalkerzy na usługach armii. Ich zadaniem jest zbieranie informacji o Zonie, oraz wykonywanie map. Bardzo dobrze uzbrojeni i opancerzeni. Działają w pojedynkę lub małych grupach do 5 osób. Wojskowi stalkerzy nie pozwalają innym zbliżać się do siebie. Widząc innych stalkerów strzelają bez ostrzeżenia. Do gracza nastawieni wrogo.
+Monolit – frakcja posiadająca wszelkie cechy sekty religijnej. Jej członkowie wierzą w istnienie ewoluującego kryształu pochodzenia pozaziemskiego – Monolitu, który znajduje się w ruinach zniszczonego reaktora. Jest to najpotężniejsza frakcja w całej grze. Przez większość uważani za obłąkanych. Zastanawiający jest fakt, że członkowie Monolitu mogą przebywać w polu emisji psionicznych i są odporni na ich działanie. Swoją główną siedzibę mają w Prypeci. Do gracza, jak i do wszystkich innych frakcji w grze nastawieni wrogo.
+Naukowcy – naukowcy oraz pracujący dla nich stalkerzy (tzw. ekostalkerzy), badający naturę Zony, jej zachowanie, anomalie oraz zwierzęta. Swoją bazę mają w bunkrze w Jantarze. Można u nich sprzedawać artefakty, pomijając przy tym pośredników. Są słabo uzbrojeni i opancerzeni. Wobec gracza są przyjaźnie nastawieni.
+Samotnicy – stalkerzy, nie należący do żadnej grupy. Przeszukują Zonę sami, gdyż uważają, że w grupie marnuje się cenny czas, oraz, że są mniejsze dochody ze znalezionych artefaktów. Niektórzy zaś po prostu lubią samotność. Są uzbrojeni i opancerzeni w różnym stopniu. W stosunku do gracza mają neutralne nastawienie.
+Handlarze – ludzie którzy przybyli do Zony aby zarobić. Handlują wszystkim czym się da: bronią, wyposażeniem, informacjami. Można u nich dostać różne zlecenia, za które można otrzymać pieniądze, wyposażenie lub artefakty. Są pośrednikami między ludźmi przebywającymi w Zonie a światem zewnętrznym. W stosunku do gracza mają neutralne nastawienie.
+Zombi – właściwie nie frakcja, ale typ przeciwnika. To stalkerzy, którzy oszaleli pod wpływem działania emisji psionicznej, przeobrażając się w żyjące zwłoki. Poruszają się wolno, mamrocząc do siebie niezrozumiałe słowa, jednak w dalszym ciągu mogą korzystać ze swojego uzbrojenia. W dużej grupie bardzo niebezpieczni, zwłaszcza że są bardzo odporni na ostrzał. Nie ma możliwości by im pomóc, gdyż proces, któremu zostali poddani jest nieodwracalny. Nie mają taktyki walki – jeżeli zobaczą przeciwnika, strzelają na oślep.
+
+Anomalie
+
+Na obszarze Zony występują różnego rodzaju anomalie niespotykane nigdzie indziej.
+Trampolina – Anomalia grawitacyjna. Występuje z reguły na otwartej przestrzeni. Jest to niestabilne pole grawitacyjne o wyglądzie pulsującego „bąbla” o średnicy 2-3 metrów tuż nad ziemią. Z reguły zadaje niewielkie obrażenia, ale może też uśmiercić. Można ją wykryć detektorem anomalii. Anomalia ta formuje artefakty Meduza, Kamienny kwiat i Gwiazda wieczorna.
+Karuzela – Anomalia grawitacyjna. Występuje zarówno na otwartej przestrzeni, jak i w dużych pomieszczeniach. Ma średnicę około 5 metrów. Może występować tuż nad ziemią, jak i kilka metrów nad nią. Można ją rozpoznać po charakterystycznym jasnym punkcie w centralnej części oraz po charakterystycznym pulsującym dźwięku. Stosunkowo groźna ponieważ potrafi wessać człowieka lub dużego mutanta nawet z odległości kilku metrów. Ofiara nie ma najmniejszych szans na ratunek ponieważ jest zgniatana, a następnie rozrywana w eksplozji grawitacyjnej. Anomalię można wykryć za pomocą detektora. Anomalia ta formuje artefakty Kamienna krew, Kotlet i Dusza.
+Wir – Anomalia grawitacyjna. Występuje na otwartej przestrzeni. Ma średnicę około 10 metrów. Jest to najgroźniejsza anomalia występująca w Zonie ponieważ jest praktycznie niewidzialna. Za dnia jej obecność zdradzają wirujące w powietrzu liście w formie leja lub leżące w pobliżu szczątki. W nocy można ją wykryć detektorem lub poprzez rzucenie w jej kierunku przedmiotu (np. śruby). Jej działanie jest podobne do anomalii typu Karuzela, lecz działa z większą siłą i na większym obszarze. Na szczęście występuje stosunkowo rzadko. Anomalia ta formuje artefakty Skrętak, Grawi i Złota Rybka.
+Spalacz – Anomalia termiczna. Występuje z reguły w pomieszczeniach i korytarzach. Ma średnicę około 3 metrów. Za dnia można ją rozpoznać po falującym słupie powietrza o wysokości kilku metrów. W momencie kontaktu z innym obiektem (człowiek, mutant lub przedmiot) anomalia emituje słup ognia a jej temperatura gwałtownie wzrasta. Stosunkowo groźna ponieważ nie można jej wykryć detektorem anomalii. W laboratorium X18 można zobaczyć jej odmianę, która potrafi poruszać się po pomieszczeniu. Anomalia ta formuje artefakty Kropelki, Kula ognista i Kryształ.
+Elektro – Anomalia elektryczna. Tworzą ją setki miniaturowych wyładowań. Ma kilka odmian. Najczęściej spotykana odmiana ma około 5 metrów i występuje tuż nad ziemią na otwartych przestrzeniach. Inna, rzadziej występująca odmiana występuje w korytarzach lub w tunelach i potrafi przemieszczać się z dużą prędkością (odmianę taką można zobaczyć np. w tunelu pod nasypem w Kordonie lub w piwnicach Agropromu). Najrzadziej występująca odmiana ma formę kuli o średnicy kilku metrów tuż nad ziemią (można ją zobaczyć np. w Prypeci). W kontakcie z obcym ciałem anomalia emituje tysiące elektrostatycznych wyładowań, które praktycznie momentalnie zabijają tego kto znalazł się w polu rażenia. Na szczęście można ją wykryć za pomocą detektora. Anomalia ta formuje artefakty Świecidełko, Błysk i Blask księżyca.
+Galareta – Anomalia nieznanego pochodzenia. Ma średnicę 2-3 metrów i charakterystyczny wygląd bulgoczącej żółtozielonej galarety. Występuje z reguły w zamkniętych pomieszczeniach lub pod ziemią. Duże jej skupiska można zobaczyć w piwnicach Agropromu i w laboratorium X18. Obrażenia jakie zadaje są porównywalne do oparzeń wywołanych silnym kwasem. Detektor anomalii nie reaguje na jej obecność, jednak anomalia ta jest doskonale widoczna nawet w ciemnościach (świeci). Anomalia ta formuje artefakty Śluz, Ślimak i Mika.
+Spalony Puch – W zasadzie nie jest to anomalia, lecz zmutowana roślinność. Występuje w postaci zwisających z góry setek delikatnych gałązek o charakterystycznej brązowo-zielonej barwie. Można ją zobaczyć np. na słupach elektrycznych w wiosce pijawek i w Magazynach Wojskowych. Roślina ta reaguje na szybko poruszające się w jej pobliżu lub pod nią obiekty poprzez wystrzelenie w jego kierunku setek malutkich dotkliwie raniących igieł. Nie reaguje na wolno poruszające się obiekty. Gdy gracz dysponuje dobrym kombinezonem, anomalia ta jest całkowicie nieszkodliwa. Anomalia ta formuje artefakty (będące prawdopodobnie jej nasionami) Kolec, Kryształowy kolec i Jeżowiec.
+Radioaktywność – Obszary te są sygnalizowane początkowo poprzez licznik Geigera, później poprzez stopniowo rozjaśniający się obraz. Dłuższe przebywanie w jej obszarze nawet mając kombinezon z dobrą ochroną przeciwpromienną jest niemożliwe.
+
+Silnik gry
+
+
+Polska wersja
+Za wydanie oraz polską wersję gry odpowiedzialny jest CD Projekt. W grze zostały przetłumaczone wszystkie napisy, zaś dialogi zostały zrobione w sposób niekonwencjonalny dla gier. Mianowicie dalej jest oryginalne rosyjskie tło dźwiękowe, które na bieżąco jest tłumaczone przez lektora. Czytaniem ścieżek dialogowych zajął się znany z telewizji lektor – Mirosław Utta.
+
+
+
+Linki zewnętrzne
+
+
+
+
+
+
+
+
+

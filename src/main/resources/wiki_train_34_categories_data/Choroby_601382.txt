@@ -1,0 +1,55 @@
+
+Guz (z łac. tumor – 1. „obrzmienie”, 2. „guz”, 3. „wzgórek, wzniesienie”) – ogólnie każde nietypowe uwypuklenie, opór przy palpacji, odgraniczone ognisko w badaniu obrazowym, itp. o nieznanym (tzn. niezdiagnozowanym) pochodzeniu. 
+
+W dokumentacji lekarskiej i w medycynie klinicznej słowo „guz” jest używane na ogół w czterech przypadkach: 
+jako roboczy termin diagnostyczny (prowizorium diagnostyczne) dla każdej struktury guzowatej w organizmie (do czasu szczegółowego wyjaśnienia jej etiologii – nie zawsze o podłożu patologicznym, może nią być nawet stan prawidłowy, np. powiększona macica w ciąży),
+jako nazwa grupy nowotworów i zmian nowotworopodobnych o określonej lokalizacji lub właściwościach kliniczno-biologicznych,
+jako część nazwy szczegółowej niektórych nowotworów o niewyjaśnionej histogenezie lub złośliwości, oraz
+jako określenie jednego z wykwitów pierwotnych skóry w semiotyce dermatologicznej.
+Ponadto wyrazu „guz” (łac. tuber) i „guzowatość” (łac. tuberositas) używa się:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. &nbsp;jako części nazw takich prawidłowych struktur anatomicznych, które uwypuklają się wyraźnie nad powierzchnię narządu.
+
+(1) W znaczeniu pierwszym guzami w szczególności mogą być: 
+powiększone i przemieszczone narządy (m.in.śledziona, stercz, macica (także ciężarna), węzły chłonne, wole tarczycy), w tym przepukliny,
+rozdęte narządy jamiste (wypełniony nadmiernie pęcherz moczowy, guz kałowy – łac. coproma lub scybala czyli twarde masy kałowe w jelitach wyczuwalne przez powłoki brzuszne), tętniaki,
+torbiele,
+otorbione wysięki w jamach ciała, najczęściej pochodzenia zapalnego, np. ropnie,
+zmiany zapalne (przy zapaleniach wytwórczych, zwłaszcza węzłów chłonnych),
+niektóre zaburzenia rozwojowe (np. guzy środpiersia: wole zamostkowe, przetrwała grasica lub guzy odpryskowe: hamartoma i choristioma, wielotorbielowatość nerek),
+zmiany pourazowe i wylewy krwi (np. przysłowiowe „nabicie sobie guza”, czyli powstanie krwiaka podskórnego,
+stany skurczowe narządów np. odźwiernika (łac. pylorospasmus) lub jelita grubego,
+nowotwory łagodne i złośliwe.
+
+(2) W znaczeniu drugim używane są np. takie określenia grupowe jak: wewnątrzczaszkowe „guzy nadnamiotowe” i „guzy podnamiotowe” (dla określenia różnic klinicznych w objawach i postępowaniu klinicznych w guzach mózgu zlokalizowanych nad i pod namiotem móżdżku), „guz kąta mostkowo-móżdżkowego” (łac. tumor anguli pontocerebrallis, najczęściej nerwiak osłonkowy), „guzy hormonalnie czynne” (tj. wytwarzające w nadmiarze hormony), guzy kościotwórcze (dla nowotworów wytwarzających osteoid), itp. 
+
+(3) W obecnych klasyfikacjach nowotworów wyraz ''„tumor”'' jako część nazwy szczegółowej nowotworu jest coraz rzadziej stosowany i raczej jest utrzymywany ze względów historycznych, np. guz mieszany ślinianki czyli gruczolak wielopostaciowy (łac. tumor mixtus albo adenoma polymorphum), guz liściasty sutka czyli włókniakogruczolak obfitokomórkowy sutka (łac. tumor phyllodes albo fibroadenoma cellulare vel proliferans mammae), guz kościogubny (łac. tumor gigantocellularis, osteoclastoma), guz Krukenberga (przerzut raka przewodu pokarmowego do jajnika), guz Wilmsa czyli nerczak płodowy albo niedojrzały (łac. ang. nephroblastoma), nowotwory podścieliskowe przewodu pokarmowego (łac. tumores stromales gastrointestinales, ang.: gastrointestinal stromal tumors – GIST), itp.
+
+(4) W znaczeniu czwartym mianem guza (łac. nodus, tumor) określa się zmiany skórne uwypuklające się znacznie nad powierzchnię skóry, sięgające do głębokości skóry właściwej, o średnicy powyżej 2&nbsp;cm. Są to zwykle nowotwory (np. włókniak skóry, włókniak miękki skóry, nerwiakowłókniak itp.), zmiany zapalne (rumień guzowaty) lub torbiele (kaszak, torbiel naskórkowa). 
+
+(5) Nazwy anatomiczne z użyciem rzeczownika „guz”, najczęściej dotyczą struktur kostnych, np. „guz ciemieniowy” (łac. tuber parietale), „guz czołowy” (łac. tuber frontale), ale także struktur nerwowych, np.: „guz popielaty” (łac. tuber cinereum), „guz robaka” (łac. tuber vermis) i innych narządów, np. „guz sieciowy wątroby” (łac. tuber omentale hepatis)
+
+Termin „guz” występował w najdawniejszych dziełach medycznych i stopniowo zakres stosowania tego słowa ulegał zawężeniu. W najdawniejszych czasach „obrzmienie” uznawano za jeden z kardynalnych objawów zapalenia a termin ''„tumor”'' często był synonimem dla łac. słowa inflammatio (zapalenie). Bardziej szczegółowe rozróżnienie rodzajów guzów przedstawił rzymski lekarz Galen (131–201) w swojej rozprawie De tumoribus praeter naturam wyróżniając ponad dziesięć typów różnych guzów, zarówno nowotworowych, jak i zapalnych, które nazwał rozmaitymi terminami greckimi. Uściślenia terminu ''"tumor"'' oraz rozróżnienia pomiędzy guzami nowotworowymi i innymi (ropniami, guzami zapalnymi i innymi) dokonał w 1809 r. ang. chirurg John Abernethy (1780–1848).
+
+Obecnie w piśmiennictwie patomorfologicznym używane są m.in. następujące pojęcia:
+guzy rzekome albo nie nowotworowe (łac. pseudotumores, ang. pseudotumors) – wszelkiego rodzaju zmiany mogące nasuwać w badaniu klinicznym oraz w diagnostyce obrazowej podejrzenie nowotworów, a nie będące nowotworami (zwykle są to zmiany zapalne i torbiele)
+guzy nowotworowe (łac. tumores neoplasmatices, ang. neoplasmatic tumors): łagodne (nie powodujące przerzutów) , złośliwe (powodujące przerzuty), półzłośliwe (powodujące wznowy miejscowe), o złośliwosci granicznej (ang. of borderline maliganacy), złośliwe klinicznie
+guzy nabłonkowe (łac. tumores epitheliales, ang. epithelial tumors) – nowotwory pochodzenia nabłonkowego (łagodne: brodawczaki i gruczolaki oraz złośliwe: raki)
+guzy nienabłonkowe (łac. tumores non epitheliales, ang. non-epithelial tumors) – guzy pochodzenia mezenchymalnego (m.in. guzy kości, chrząstek, chłoniaki, guzy mięśniowe, guzy tkanek łącznych, naczyniowe: łagodne i złośliwe czyli mięsaki)
+guzy tkanek miękkich (ang. soft tissue tumors) nowotwory mezenchymalne z wyłączeniem guzów kości
+guzy lite (ang. solid tumors) złośliwe nowotwory o litej strukturze histologicznej i ogniskowym rozroście, do których należą guzy zarodkowe, mięsaki, raki, chłoniaki, guzy kości i nerwowopochodne (termin używany w onkologii dziecięcej dla odróżnienia od białaczek)
+guzy zarodkowe (ang. fetal tumors, embryonic tumors, blastomas): nowotwory mające w swojej strukturze histologicznej tkanki niedojrzałe (płodowe) lub wywodzące się z tkanek płodowych.
+
+Wymienione grupy guzów często nakładają się znaczeniowo na siebie. Ich wyodrębnienie i grupowanie pojęciowe wynika z odrębności biologicznych, specyfiki leczenia, sposobów diagnostyki, różnic histogenetycznych oraz z wielu innych powodów.
+
+Zobacz też
+
+guzy jajników
+guzek
+
+
+
+
+
+
+
+

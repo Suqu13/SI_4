@@ -1,0 +1,17 @@
+Fluorofor - analogicznie do chromoforu, jest częścią cząsteczki, odpowiedzialną za jej fluorescencję. Najczęściej jest to grupa funkcyjna, zdolna do absorpcji energii o określonej długości fali, a później do wyemitowania innej długości fali (ściśle określonej). Ilość energii, jak i długość fali emitowanej zależy od właściwości fluorofora, ale też od środowiska chemicznego w jakim on działa (na przykład pH czy siły jonowej). Zależności te są podstawą w zastosowaniu fluoroforów w biochemii, na przykład immunofluorescencji.
+
+Fluorofory mogą mieć możliwość przyłączenia ich do wybranej, innej cząsteczki, na przykład białka w celu jego późniejszej wizualizacji. Istnieją też białka naturalnie wyposażone we fluorofory, na przykład Green Fluorescent Protein czy Red Fluorescent Protein.
+
+Obecnie istnieje cała gama różnych fluoroforów o różnych właściwościach, co umożliwia dobranie ich do wybranego celu. 
+
+Wielkość fluoroforu może wahać się od:
+2-10 nm średnicy, 100–100 000 atomów dla kropek kwantowych, czy 
+20 atomowej lucyferyny do
+Białko zielonej fluorescencji (GFP) o wielkości 26&nbsp;kDa.
+
+Można także dobrać fluorofor pod względem długości fali pochłanianej i emitowanej. Różne fluorofory pochłaniają i emitują w całym przedziale światła widzialnego, a także UV.
+
+Zobacz też
+luminofor
+
+Linki zewnętrzne

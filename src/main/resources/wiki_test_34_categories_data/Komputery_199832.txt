@@ -1,0 +1,25 @@
+Elwro 500''' i jego wersje Elwro 513''' i Elwro 523''' to 8-bitowy mikrokomputer przeznaczony do prac biurowych produkowany w Zakładach Elektronicznych Elwro od 1983 roku. Jego rozwinięciem był komputer Elwro 600.
+
+Dane Elwro 500
+jednostka centralna:
+procesor: 8080 o 8-bitowej architekturze
+pamięć stała (ROM): 12 KB
+pamięć operacyjna (RAM): 48 KB
+4 równoległe, 8 bitowe kanały we/wy
+1 kanał szeregowy (opcja)
+8 poziomów przerwań
+pamięć masowa: 2 napędy dysków elastycznych 8" pojemności ok. 256 kB (dysk jednostronny, pojedyncza gęstość)
+monitor: monochromatyczny model Neptun 156 16 wierszy po 64 znaki
+drukarka: Robotron 1152 (rozetkowa firmy Robotron – NRD)
+waga z biurkiem: ok. 200&nbsp;kg
+system operacyjny: EMOS zgodny z CP/M 2.2.
+
+Linki zewnętrzne
+.
+
+Bibliografia
+Praca zbiorowa pod redakcją Tadeusza Wierzbickiego, MIKROKOMPUTERY Poradnik użytkownika, Państwowe Wydawnictwo Ekonomiczne, Warszawa 1986, ISBN 83-208-0585-6
+
+
+
+

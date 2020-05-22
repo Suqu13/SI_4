@@ -1,0 +1,26 @@
+HTC TyTN II (znany również jako HTC Kaiser/P4550) – smartfon firmy HTC, następca HTC TyTN. Ma wbudowany moduł telefonii komórkowej, obsługujący technologię 3.5G/HSDPA. Palmtop korzysta z systemu Windows Mobile 6.0 oraz 6.1 Professional.
+
+Produkcja HTC TyTN II została wstrzymana 3 września 2009.
+
+Ogólna specyfikacja
+Wysuwana 41-klawiszowa klawiatura QWERTY
+Dotykowy ekran TFT o przekątnej 2,8"
+Obsługa technologii GPRS/EDGE/UMTS/HSDPA
+
+Wersje
+Dostępne były 4 wersje smartfona:
+KAIS100 – bez aparatu
+KAIS110 – kamera 3 Mpx z tyłu telefonu z funkcją autofocus
+KAIS120 – kamera 3 Mpx z tyłu telefonu z funkcją autofocus i przednia kamera VGA do wideokonferencji
+KAIS130 – wersjaze zmienionym przednim panelem, wyprodukowana specjalnie dla sieci Era(T-Mobile),czyli tylko przróbka KAIS120
+
+Nowości
+Na telefon komórkowy HTC TyTN II został zrobiony skin Windows Phone 7
+Czarodzieje techniczni z xda-developers.com stworzyli system android CyanogenMod 7 i 10 oraz JellyBean i Froyo.
+
+
+
+
+
+
+

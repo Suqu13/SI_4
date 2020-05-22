@@ -1,0 +1,30 @@
+EE-T1 Osório – skonstruowany w latach 80. XX wieku brazylijski czołg podstawowy. Nieprodukowany seryjnie.
+
+Historia
+Na początku lat 80. armia brazylijska dysponowała czołgami M41 Walker Bulldog i Bernardini X1A . Wiek eksploatowanych czołgów (X1A jest zmodernizowana wersja czołgu M5 Stuart z okresu II wojny światowej, M41 pochodził z lat 50.) sprawił ze pomimo że sąsiedzi Brazylii nie dysponują nowoczesnymi siłami pancernymi rozpoczęto prace nad nowym czołgiem. W zakładach Bernardini S/A powstała głęboka modernizacja czołgu M41 oznaczona jako MB-3 Tamoyo, natomiast koncern Engesa postanowił skonstruować nowy czołg od podstaw. Podobnie jak w przypadku innych produktów Engesy czołg miał być budowany z szerokim wykorzystaniem podzespołów importowanych i produkowanych na licencji. Z uwagi na warunki geograficzne Brazylii, zły stan dróg i niewielką nośność mostów zdecydowano się na zaprojektowanie czołgu o małej masie (41-44 tony, zależnie od wersji).
+
+W październiku 1984 roku był gotowy prototyp P1. Był to wóz w wersji dla armii brazylijskiej, wyposażony w armatę czołgową L7A3 kalibru 105 mm. W kwietniu 1985 roku zakończono budowę prototypu P2 uzbrojonego w armat GIAT G.1 kalibru 120 mm. Wozy tej wersji miały być produkowane na eksport i były wyposażone w bardziej zaawansowane i w związku z tym droższe wyposażenie elektroniczne. Dodatkowo planowano opracowanie wersji uzbrojonej w armatę 2A46 kalibru 125 mm przeznaczonej dla krajów wcześniej eksploatujących czołgi skonstruowane w ZSRR. Zgodnie z założeniami podczas konstruowania czołgu szeroko wykorzystywano rozwiązania zagraniczne. Wieża została zaprojektowana przez brytyjskich specjalistów z firmy Vickers Defence Systems i jest odmianą wieży zaprojektowanej dla czołgu Vickers Mk 4 Valiant, silnik i gąsienice są niemieckie, uzbrojenie, zależnie od wersji, brytyjskie lub francuskie.
+
+Pod koniec lat 80. czołg Osorio były testowane zarówno w Brazylii, jak i u potencjalnych nabywców zagranicznych takich jak Arabia Saudyjska. Pomimo wysiłków nie udało się zdobyć żadnego zamówienia zagranicznego. Także armia brazylijska zrezygnowała ostatecznie z wprowadzenia do uzbrojenia czołgu EE-T1. Z uwagi na brak zamówień na czołgi EE-T1 plany wykorzystania jego podwozia do budowy działa samobieżnego z haubica 155 mm, przeciwlotniczego działa samobieżnego kalibru 30 lub 35 mm, wozu zabezpieczenia technicznego, czy czołgu mostowego zostały zarzucone.
+
+Opis
+EE-T1 Osório jest czołgiem podstawowym III generacji. Załogę czołgu tworzy dowódca, działonowy, ładowniczy i mechanik-kierowca. Kierowca zajmuje miejsce w kadłubie, reszta załogi w wieży.
+
+Kadłub Osório wykonany poprzez spawanie walcowanych, dwuwarstwowych płyt ze stali pancernej, z dodatkowymi wkładkami kompozytowymi. W przedniej części kadłuba znajdują się przedziały kierowania, środkowej przedział bojowy z  wieżą, a w tylnej przedział napędowy.
+
+W przedziale kierowania stanowiska ma mechanik-kierowca. Zajmuje on miejsce w pojeździe przez właz w stropie kadłuba. Obok kierowcy znajduje się magazyn amunicji mieszczący 33 naboje kalibru 105 mm, lub 26 naboi 120 mm.
+
+Wieża pancerna podobnie jak kadłub jest spawana, z elementami kompozytowymi. Po jej prawej stronie znajduje się stanowisko działonowego (z przodu) i dowódcy, po lewej ładowniczego. Opancerzenie wieży jest słabsze niż innych współczesnych czołgów. W tylnej części wieży znajduje się nisza mieszcząca podręczny zapas 12 naboi. Magazyn amunicji jest oddzielony od przedziału załogowego płyta pancerną, a w jego stropie znajdują się klapy zrywane w czasie wybuchu amunicji dzięki czemu załoga ma wysokie prawdopodobieństwo przeżycia w wypadku eksplozji amunicji.
+
+Dowódca wozu w wersji P1 dysponuje przyrządem obserwacyjnym SCS-5 belgijskiej firmy OIP Optics. Ma on powiększenie 8x (tryb dzienny) i 6 x (tryb nocny). Przyrząd obserwacyjny jest nieruchomo zamocowany w stropie wieży , obserwacją poza jego polem widzenia zapewnia 5 peryskopów. Wóz P2 posiadał obrotowy, stabilizowany przyrząd dowódcy VS-58019E francuskiej firmy SFIM (optyka). W nocy obserwację umożliwia termowizor firmy Philips Consumer Electronic.
+
+Działonowy wozu P1 dysponuje Przyrządem obserwacyjnym SCS-5 o powiększeniu 8 (tor dzienny) lub 6x (tor nocny).Pomiar odległości do celu umożliwia dalmierz laserowy. Celowanie ułatwia prosty system kierowania ogniem. Wóz P2 jest wyposażony w bardziej rozbudowany system kierowania ogniem Centaur włoskiej firmy Marconi Command and Control Systems i celownikiem VS-58010.
+
+W wieży znajduje się zasadnicze uzbrojenie wozu: 105 mm armata czołgowa L7A3 (wóz P1) lub 120 mm armata GIAT (wóz P2). Lufa armaty L7A3 wyposażona jest w  przedmuchiwacz usuwający gazy prochowe po wystrzale, armata GIAT jest po strzale oczyszczana strumieniem sprężonego powietrza. Obok działa zamocowany był czołgowy karabin maszynowy kalibru 7,62 mm. Drugi karabin maszynowy kalibru 7,62 lub 12,7 mm był zamontowany na stropie wieży, na podstawie przeciwlotniczej. Uzbrojenie jest stabilizowane i naprowadzane przy pomocy napędów elektrycznych.
+
+Napęd EE-T1 stanowi 12-cylindrowy, czterosuwowy, wysokoprężny, chłodzony cieczą silnik MWM TBD 234''. Jest on zbudowany w układzie V. Moc silnika wynosi 809&nbsp;kW przy 2350 obr/min. Napęd od silnika do kół napędowych jest przenoszony przez hydromechaniczny układ napędowy ZF LSG 3000''. Zapewnia on jazdę do przodu (4 biegi) i tyłu (2 biegi). Układ sterowania mechaniczny.
+ 
+EE-T1 posiada zawieszenie niezależne na siłownikach hydropneumatycznych. Każde z 12 kół jezdnych jest połączone za pomocą wahacza z siłownikiem. Napęd z silnika jest przekazywany na znajdujące się w tylnej części pojazdu koła napędowe. Z przodu pojazdu znajdują się koła napinające, identyczne pod względem konstrukcji z jezdnymi. Koła jezdne są kołami podwójnymi, z zewnętrznymi bandażami gumowymi.
+Wóz wyposażony jest w dwa systemy przeciwpożarowe, jeden chroni przedział silnikowy, drugi bojowy. Czołg wyposażony jest także w układ ochrony przed bronią masowego rażenia, ostrzegający o opromieniowaniu laserem i system nawigacyjny.
+
+Bibliografia

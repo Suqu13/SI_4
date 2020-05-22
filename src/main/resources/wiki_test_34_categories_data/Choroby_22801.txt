@@ -1,0 +1,139 @@
+
+Niesteroidowe leki przeciwzapalne (NLPZ, NSLPZ; , NSAIDs) – to szeroka, niejednorodna grupa leków przeciwzapalnych, przeciwbólowych i przeciwgorączkowych. Ich działanie polega na hamowaniu cyklooksygenazy prostaglandynowej (COX), co w 1971 r. wyjaśnił John Vane (Nobel 1982 r.). W 1992 r. D. Simmonds wykazał, że istnieją co najmniej dwie izoformy cyklooksygenazy – obecna stale w organizmie COX-1 i wyzwalana w toku procesu zapalnego COX-2. Hamowanie tej drugiej jest istotne z klinicznego punktu widzenia, a blokowanie pierwszej może prowadzić do wystąpienia objawów ubocznych za strony układu pokarmowego w leczeniu za pomocą NLPZ. Nazywane są niesteroidowymi ze względu na strukturę, odmienną od innych leków mających właściwości przeciwzapalne – kortykosteroidów.
+
+Klasyfikacja == 
+Obecnie NLPZ dzieli się na 3 grupy, zależnie od wpływu na obie cyklooksygenazy: 
+NLPZ I generacji, czyli klasyczne, wśród których wyróżnia się dwie podgrupy:
+hamujące preferencyjnie COX-1, np. kwas acetylosalicylowy, indometacyna,	ketoprofen 
+hamujące jednakowo (ekwipotencjalnie) oba izoenzymy (diklofenak, ibuprofen, naproksen, nabumeton)
+NLPZ II generacji hamujące przede wszystkim COX-2 (w mniejszym stopniu także COX-1), np. meloksykam lub nimesulid
+NLPZ III generacji, tj. wybiórczo hamujące COX-2, głównie koksyby, np. celekoksyb. 
+
+Najbardziej znanym lekiem z tej grupy jest aspiryna, czyli kwas acetylosalicylowy. Poszczególne leki zaliczane do grupy NLPZ-ów różnią się przede wszystkim siłą działania i toksycznością.
+
+Zastosowanie
+Stosowane objawowo w zwalczaniu gorączki, bólów o różnym pochodzeniu i małym lub średnim nasileniu. NLPZ należą do grupy prostych analgetyków stosowanych samodzielnie lub w skojarzeniu ze słabymi lub silnymi opioidami. Bywają stosowane w połączeniach z innymi środkami farmaceutycznymi w celu wzmocnienia lub zmienienia profilu ich działania. Hamowanie stanów zapalnych.
+
+Poszczególne leki należące do tej szerokiej grupy różnią się profilem działania. Jedne mają silniej zaznaczone działanie przeciwbólowe, a słabo działają przeciwzapalnie (zjawisko również zależne od dawki), inne działają silnie zarówno przeciwzapalnie jak i przeciwbólowo.
+
+Klasyczne NLPZ (aspiryna, indometacyna, diklofenak, ibuprofen, naproksen) stosuje się w leczeniu szeregu chorób reumatycznych, jak reumatoidalne zapalenie stawów, choroba zwyrodnieniowa stawów, młodzieńcze idiopatyczne zapalenie stawów i inne oraz w atakach dny moczanowej. Skuteczność tych leków oceniana jest na 50-70%. NLPZ do użytku zewnętrznego (np. ketoprofen, diklofenak, naproksen) mogą być stosowane w bólach mięśni i stawów, przy urazach, zwichnięciach i kontuzjach (stłuczeniach). Zaletą postaci farmaceutycznych do stosowania zewnętrznego jest wysoka koncentracja leku w miejscu aplikacji i spadek ryzyka wystąpienia objawów niepożądanych w stosunku do doustnych NLPZ. Leki z grupy NLPZ znajdują zastosowanie w leczeniu bólów nowotworowych oraz nerwobólów, bólów migrenowych i bolesnych miesiączek. 
+
+Działania niepożądane
+
+Efekt farmakodynamiczny NLPZ wyraża się poprzez działanie na izoenzymy cyklooksygenazy (COX), które uczestniczą w syntezie prostanoidów. Hamowanie obwodowe tych enzymów zmniejsza syntezę prozapalnych prostaglandyn (PG) i tromboksanów (Tx). Hamowanie PG i Tx poza zmniejszeniem bólu, natężenia stanu zapalenia i gorączki może powodować działania niepożądane wynikające z fizjologicznej funkcji ochronnej, jaką wywierają PG na śluzówkę przewodu pokarmowego, a Tx na agregację płytek krwi w nerkach. 
+
+Leki z grupy NLPZ mają podobną gamę działań niepożądanych, choć ich natężenie jest różne w zależności od preparatu. Zahamowanie wytwarzania prostaglandyn PGE2 i PGI2, znosi ich działanie ochronne dla błony śluzowej przewodu pokarmowego, zmniejsza się wytwarzanie śluzu i uwalnianie wodorowęglanów, co ułatwia działanie czynników szkodliwych na błonę śluzową przewodu pokarmowego. Powoduje to podrażnienia i zwiększa ryzyko powstania wrzodów żołądka. Konsekwencjami przewlekłego stosowania NLPZ mogą być też krwawienia z dwunastnicy, potencjalne upośledzenie funkcji nerek, słuchu czy ukrwienia mięśnia sercowego. 
+
+Pierwszymi symptomami niepożądanych są łagodne nudności, uczucie ciężaru, dyskomfortu w nadbrzuszu. Poważniejszymi objawami są krwawienie z przewodu pokarmowego i następstwa w postaci niedokrwistości mikrocytarnej. W skrajniejszej postaci owrzodzenia i perforacje wrzodów żołądka. Na takie działania niepożądane narażeni są bardziej chorzy z chorobą wrzodową w wywiadzie, z reumatoidalnym zapaleniem stawów i w podeszłym wieku.
+Ryzyko wystąpienia groźnych dla życia powikłań w ciągu 6 miesięcy stosowania tradycyjnych NLPZ wynosi do 9% u osób starszych. 
+
+Inne skutki zmniejszenia poziomu prostaglandyn
+Nasilanie prawdopodobieństwa krwotoków z uwagi na działanie antyagregacyjne (patrz: krzepliwość krwi).
+Wywoływanie skurczu oskrzeli (tzw. astma aspirynowa). Mechanizm nie jest udowodniony, zakłada się jednak, że NLPZ hamują cyklooksygenazę, nie hamując lipooksygenazy. Prowadzi to do zwiększonego wytwarzania leukotrienów odpowiedzialnych za skurcz oskrzeli i mięśniówki gładkiej naczyń krwionośnych.
+Możliwość zamknięcia przewodu tętniczego u płodu – przeciwwskazane jest podawanie NLPZ w okresie ciąży.
+Wystąpienie polekowej niedokrwistości hemolitycznej – możliwe po zaaplikowaniu kwasu acetylosalicylowego czy ibuprofenu. 
+
+NLPZ mogą wywoływać reakcje uczuleniowe, objawiające się głównie zmianami skórnymi. Mogą też zmieniać reakcję organizmu na alergeny, samemu nie wywołując objawów alergii. Przypadki zmiany reakcji immunologicznej odnotowano u pszczelarzy, normalnie mało wrażliwych na jad pszczeli – po zastosowaniu przez nich leków z tej grupy i następnie użądleniu przez pszczołę obserwowano u tych osób bardzo silną, uogólnioną reakcję uczuleniową. Taka zwiększona wrażliwość utrzymywała się przez ok. tydzień od zażycia leku.
+
+Niektóre leki z tej grupy mogą być hepatotoksyczne. Niektóre wycofane z użycia preparaty mogły powodować uszkodzenie szpiku.
+
+Interakcje
+Łączenie leków I generacji (hamujących głównie COX-1) łącznie z pochodnymi kumaryny zwiększa ryzyko powikłań krwotocznych pooperacyjnych.
+NLPZ silnie wiążą się z albuminami, mogą wypierać inne leki z tych połączeń. 
+Należy zachować szczególną ostrożność podczas równoległego podawania doustnych leków przeciwzakrzepowych, pochodnych sulfonylomocznika, sulfonamidów i hydantoiny.
+NLPZ zwiększają stężenie litu i metotrexatu, mogą osłabiać działanie hipotensyjne propranololu, alfa-adrenolityków i innych leków hipotensyjnych oraz leków moczopędnych. 
+
+Pozostałe interakcje lekowe
+doustne leki przeciwcukrzycowe
+leki przeciwdrgawkowe
+leki hipotensyjne
+glikokortykosterydy
+aminoglikozydy
+leki moczopędne
+węglan litu
+digoksyna
+alkohol (zwiększa możliwość krwawienia z przewodu pokarmowego)
+
+Zasady terapii lekami z grupy niesterydowych leków przeciwzapalnych
+Stosowanie tylko jednego leku z tej grupy (wyjątek – stosowanie małych dawek (75 mg) kwasu acetylosalicylowego (aspiryna) w prewencji udaru mózgu i choroby niedokrwiennej serca).
+Stopniowe zwiększanie dawek do osiągnięcia dawki maksymalnej, a nie łączenie z innymi lekami.
+Przed ewentualną decyzją o zmianie preparatu – odpowiednio długie jego stosowanie.
+Wybieranie leku o najlepszej skuteczności przy możliwie najmniejszych działaniach niepożądanych.
+Monitorowanie działań niepożądanych oraz unikanie interakcji lekowych.
+
+Leki należące do grupy
+kwasy karboksylowe
+kwas salicylowy i salicylany
+kwas acetylosalicylowy (aspiryna)
+salicylan sodu
+salicylan choliny
+amid kwasu salicylowego
+kwas 5-aminosalicylowy (mesalazyna)
+olsalazyna
+diflunisal
+benorylat
+kwasy arylooctowe
+pochodne kwasu fenyloctowego
+diklofenak
+alklofenak
+fenklofenak
+karbocykliczne i heterocykliczne pochodne kwasu octowego
+indometacyna
+sulindak
+tolmetyna
+kwasy arylopropionowe
+ibuprofen
+naproksen
+ketoprofen
+piprofen
+fenbufen
+indoprofen
+flurbiprofen
+roksaprozyna
+pochodne kwasu fenamowego
+kwas menfenamowy
+kwas nilfuminowy
+kwas meklofenamowy
+kwas flufenamowy
+pochodne kwasu pirazonowego
+etodolak
+ketorolak
+
+związki niebędące kwasami karboksylowymi
+pirazolony
+propyfenazon
+metamizol
+fenylbutazon
+klofenazon
+azoprenazon
+oksykamy – pochodne oksykamu (kwasu enolowego)
+piroksykam
+sudoksykam
+izoksykam
+tenolsykam
+lornoksykam
+meloksykam
+koksyby
+celekoksyb
+rofekoksyb
+etorykoksyb
+waldekoksyb
+inne
+nabumeton
+nimesulid
+tenidap
+diacereina
+
+Bibliografia
+W. Kostowski, Z. S. Herman Farmakologia. Podstawy farmakoterapii.'' Wydawnictwo Lekarskie PZWL 2003 ISBN 83-200-3350-0.
+S. Haroutiunian, D.A. Drennan, A.G. Lipman, Topical NSAID therapy for musculoskeletal pain. Pain Med 2010, nr 11, s. 535–549. 
+J. Świerkot, A. Matuszewska, Bezpieczeństwo stosowania niesteroidowych leków przeciwzapalnych. Lekarz Rodzinny 2012, nr 17(6), s. 536-547. 
+
+Linki zewnętrzne == 
+
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+Qtek 9600''' – następca palmtopa Qtek 9100.
+
+Dane techniczne
+Procesor: Samsung S3C2442A 400 MHz 
+Pamięć 
+RAM: 64 MB 
+ROM: 128 MB
+karty pamięci: microSD
+Standardy telekomunikacyjne: GSM, GPRS, EDGE, UMTS
+Częstotliwości: 900 MHz, 1800 MHz, 1900 MHz 
+System operacyjny : Windows Mobile 5.0 Phone Edition 
+Komunikacja bezprzewodowa: 
+IrDA, 
+Bluetooth, 
+WLAN 
+Akumulator: Li-Ion, 1350 mAh 
+Waga: 176 g 
+Wysokość: 112,5 mm 
+Szerokość: 58 mm 
+Głębokość: 22 mm
+
+
+
+

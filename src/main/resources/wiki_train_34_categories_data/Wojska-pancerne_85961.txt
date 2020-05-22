@@ -1,0 +1,32 @@
+KW-2''' – radziecki czołg ciężki okresu II wojny światowej.
+
+Historia
+
+Czołg KW-2 powstał jako wersja pochodna nowego typu czołgu ciężkiego KW-1, opracowanego w 1939 w Leningradzkich Zakładach Kirowskich (LKZ). Oznaczenie KW otrzymał na cześć ludowego komisarza obrony Klimenta Woroszyłowa. Prototypowy czołg KW-1 testowany był bojowo w wojnie radziecko-fińskiej (wojnie zimowej), w walkach na Przesmyku Karelskim w grudniu 1939. Okazało się jednak, że stanowiąca uzbrojenie czołgu armata [76,2 mm armata czołgowa L-10/L-11|L-11]] kalibru 76,2 mm była niewystarczająca do niszczenia drewnianych i żelazobetonowych schronów i umocnień fińskich. Zakłady LKZ otrzymały polecenie opracowania w szybkim tempie wersji czołgu KW z armatą większego kalibru. Zdecydowano się na bezprecedensowe posunięcie w postaci zamontowania w czołgu w obrotowej wieży zmodyfikowanej haubicy M-10 kaliber 152 mm, rozwiniętej z haubicy wz. 1938.
+
+Nowy wariant czołgu odróżniał się od standardowego KW wysoką wieżą o dużych rozmiarach, mieszczącą nowe uzbrojenie. Opracowano go w szybkim tempie już w końcu stycznia. Czołg ten z racji potężnego uzbrojenia nazwany były nieoficjalnie "drednot". Próby czołgu i uzbrojenia wypadły pomyślnie i zdecydowano o budowie kilku sztuk serii informacyjnej czołgów "KW z dużą wieżą", jak wówczas był jeszcze oznaczany. 
+
+Dwa lub trzy czołgi serii informacyjnej zostały wysłane od razu w marcu, bez przeprowadzenia prób państwowych, na front kończącej się wojny z Finlandią. Ich uzbrojenie pokazało tam swoją wartość w walce z umocnieniami, a pancerz czołgu udowodnił praktyczną nieprzebijalność przez większość dział. Po zakończeniu wojny, 28 maja 1940 Rada Komisarzy Ludowych podjęła uchwałę o produkcji czołgów KW-1 i KW-2. Dopiero wówczas przeprowadzono próby państwowe czołgów. Mimo wad mechanicznych, czołg został skierowany do produkcji seryjnej. 
+
+Czołgi KW-2 zasadniczej serii produkcyjnej odróżniały się od prototypów i czołgów pierwszej serii konstrukcją wieży: w pierwszej serii miała ona skośną przednią ścianę, w zasadniczej serii wszystkie ściany wieży były prostopadłe. Razem wyprodukowano 334 egzemplarze.
+
+Wersje
+KW-2 "Model 1939" - KW-1 z nową wieżą, pancerz 30 - 75 mm i posiadający armatę czołgową 152 mm M-10. Nazywany przez Niemców KW-2A. 
+KW-2 "Model 1940" - różnił się tylko wieżą. Niemcy nazywali go KW-2B.
+
+Służba
+
+Seryjne KW-2 zaczęły wchodzić na uzbrojenie Armii Czerwonej pod koniec 1940. Z powodu niewielkiej liczby, używane były najczęściej w dowództwach korpusów zmechanizowanych. Czołgi te spełniały rolę czołgów wsparcia, analogiczną do nieużywanych jeszcze wówczas ciężkich dział samobieżnych (w odróżnieniu od dział samobieżnych, były całkowicie opancerzone i miały obrotową wieżę).
+
+Czołgi te trapione były przez bolączki większości modeli KW, czyli niską prędkość i małą trwałość oraz awaryjność podzespołów przeniesienia napędu i zawieszenia. Zwłaszcza słabym elementem była niedopracowana skrzynia biegów. Usterki te były jeszcze bardziej dotkliwe, niż w KW-1 z uwagi na większą masę czołgu. Poza tym prędkość obrotu wieży i naprowadzania uzbrojenia była niewielka. 
+Atutem czołgu było jednak potężne działo, strzelające pociskami o masie 40-52 kg, przeciwpancernymi, przeciwbetonowymi i odłamkowo-burzącymi. Trafienie pociskiem 152 mm niszczyło każdy niemiecki czołg tego okresu. Ponadto, pancerz KW-2, podobnie jak KW-1, sprawiał niemieckim działom duże trudności. Czołg był praktycznie niewrażliwy na ostrzał z dział kalibrów 37 mm i 50 mm oraz krótkolufowych 75 mm, do czasu wprowadzenia przez Niemców nowszej amunicji. Jedynym działem, które mogło w miarę skutecznie zwalczać czołgi KW była armata przeciwlotnicza 8,8 cm Flak 18. Tym niemniej wielka liczba czołgów KW-2 została stracona  przez Rosjan w ciągu początkowych kilku miesięcy wojny niemiecko-radzieckiej. Było to w dużej mierze skutkiem nieumiejętnego wykorzystania broni pancernej w walce, a także usterek czołgów, połączonych z trudnością lub niemożnością ewakuacji uszkodzonych wozów. Pomimo tego nawet pojedyncze czołgi tego typu potrafiły być dużym problemem dla przeważającego liczebnie przeciwnika. W 1942 już tylko niewielka liczba KW-2 służyła na froncie, po czym typ ten zniknął z linii.
+
+Opis
+Czołg konstrukcji klasycznej: z przodu kadłuba przedział kierowania, w środku przedział bojowy, z tyłu przedział silnikowy i za nim transmisyjny. Nad przedziałem bojowym obrotowa wieża. Kadłub spawany z pancernych płyt walcowanych i giętych, wieża spawana z płyt walcowanych. 
+
+Załoga: 6 ludzi (kierowca i strzelec-radiotelegrafista w przedziale kierowania, dowódca, celowniczy i dwóch amunicyjnych w wieży).
+
+Silnik wysokoprężny W-2K, widlasty, 12 cylindrowy, o mocy nominalnej 550 KM, maksymalnej 600 KM, chłodzony cieczą. Skrzynia biegów: 5 biegów do przodu i 1 do tyłu, bez synchronizacji. Sprzęgła boczne, planetarne przekładnie boczne, zębate koła napędowe z tyłu kadłuba. Zawieszenie czołgu: sześć podwójnych kół jezdnych po każdej stronie, zwieszonych na wahaczach wleczonych, amortyzowanych wałkami skrętnymi. Koła jezdne z wewnętrzną amortyzacją. Koła napinające z przodu kadłuba. Po każdej stronie 3 koła podtrzymujące gąsienice. Metalowe gąsienice szerokości 700 mm. 
+
+Uzbrojenie: haubico-armata 152 mm haubica wz. 1938 (M-10). Kąt ostrzału w płaszczyźnie poziomej 360°, w płaszczyźnie pionowej 15° do +12°. Prędkość początkowa pocisku 436-530 m/s (zależnie od rodzaju).  Dodatkowe uzbrojenie: 3 karabiny maszynowe DT kaliber 7,62mm: jeden sprzężony z armatą, jeden ruchomy w przedniej płycie kadłuba po lewej stronie, obsługiwany przez strzelca i jeden ruchomy w tylnej ścianie wieży. Zapas amunicji: 36 nabojów do działa i 3087 nabojów do km. Był po czołgu IS-4 najcięższym radzieckim czołgiem.
+Linki zewnętrzne

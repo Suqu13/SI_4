@@ -1,0 +1,27 @@
+lighttpd (pisane też jako Light-TPD lub Lighty) – opensource'owy serwer WWW stworzony do szybkiej pracy napisany przez Jana Kschenke jako kod proof-of-concept problemu c10k – jak przyjąć 10000 połączeń na jednym serwerze.
+
+Obsługiwane aplikacje
+lighttpd obsługuje interfejsy FastCGI, SCGI i CGI, umożliwiając dostęp do aplikacji napisanych praktycznie w dowolnym języku programowania. Może być użyty z PHP, Pythonem, Perlem, Rubym i Lua. Jest popularnym serwerem dla Catalyst i Ruby on Rails. lighttpd nie wspiera ISAPI.
+
+Możliwości
+Wsparcie dla FastCGI, SCGI i proxy
+Obsługa chroot
+Przyjazne linki (mod_rewrite)
+Obsługa SSL i TLS przez OpenSSL
+Statystyki RRDtool
+Wsparcie dla modułów
+Minimalna obsługa WebDAV
+Lekkość (mniej niż 1 MB)
+Server Side Includes
+
+Użycie
+lighttpd jest używane przez wiele dużych serwisów takich jak Meebo, YouTube, projekty Fundacji Wikimedii i SourceForge. Trzy z najpopularniejszych serwisów torrentowych uruchomionych na tym serwerze to The Pirate Bay, Mininova i isoHunt.
+
+
+
+Zobacz też
+Apache
+nginx
+Serwer WWW
+
+Linki zewnętrzne

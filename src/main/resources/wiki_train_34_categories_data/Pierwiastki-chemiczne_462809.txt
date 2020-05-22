@@ -1,0 +1,24 @@
+
+
+Blacha elektrotechniczna – specjalny rodzaj blachy o właściwościach materiału magnetycznie miękkiego. 
+
+Blachy takie produkuje się w różnych grubościach od 0,7 mm (blachy  izotropowe) do 0,23 mm (blachy anizotropowe). Skład stopowy blachy elektrotechnicznej oraz technologia produkcji są zoptymalizowane tak, aby osiągnąć jak najlepsze parametry magnetyczne, jednak głównym składnikiem (powyżej 93%) jest żelazo. W przeciwieństwie do stali konstrukcyjnej, węgiel jest dodatkiem niepożądanym i jego zawartość jest redukowana do możliwie najniższych wartości. Jednym z głównych dodatków stopowych jest krzem. Dodatek krzemu zwiększa rezystywność blachy elektrotechnicznej, a także ułatwia wytwarzanie zorientowanej struktury polikrystalicznej, która znacznie poprawia anizotropowe własności magnetyczne blachy. Wpływ dodatku krzemu na własności magnetyczne stali został odkryty przez brytyjskiego metalurga Roberta Hadfielda w roku 1900. Początkowo wytwarzano blachy wyłącznie na gorąco, a po roku 1935 opanowano walcowanie blachy elektrotechnicznej na zimno, co znacznie poprawiło jej właściwości w kierunku walcowania (efekt anizotropii). Właściwości te najlepiej można wykorzystać stosując rdzenie zwijane jak np. w transformatorach toroidalnych. 
+
+W tańszych izotropowych blachach elektrotechnicznych zawartość krzemu  jest zazwyczaj niewielka (mniej niż 1 %) natomiast w blachach anizotropowych najczęściej jest to około 3 %. Zwiększanie zawartości krzemu powoduje nieznaczny spadek wartości indukcji nasycenia blachy elektrotechnicznej, ale głównym problemem jest znaczy wzrost twardości i kruchości, co powoduje trudności w obróbce mechanicznej. Zawartość krzemu 6,5 % jest pożądana z uwagi na niemal zerową magnetostrykcję takiej blachy. (Magnetostrykcja jest głównym powodem, dla którego wszelkie transformatory energetyczne emitują charakterystyczne buczenie).
+
+Ważnym parametrem blach elektrotechnicznych (oprócz maksymalnej indukcji), decydującym o sprawności urządzeń, są straty energii przy przemagnesowywaniu. Straty energii są powodowane przez prądy wirowe (stąd wykonywanie magnetowodów z cienkich izolowanych blach o  dużej rezystywności), histerezę i opóźnienie magnetyczne. W roku 2011 stratność produkowanych w Polsce blach elektrotechnicznych o grubości 0,23 - 0,35 mm wynosi 1,08-1,55 W/kg przy 50 Hz i indukcji 1,7 T.. Od początków stosowania (koniec XIX w.) stratność blach elektrotechnicznych zmalała ponad pięciokrotnie, a maksymalna indukcja wzrosła prawie dwukrotnie.
+
+Nowymi materiałami magnetycznie miękkimi, które najprawdopodobniej zastąpią blachy elektrotechniczne, są szkła metaliczne o strukturze amorficznej. Otrzymywane są ze stopów na bazie żelaza lub kobaltu, w postaci cienkich taśm o grubości rzędu kilkudziesięciu mikrometrów. Charakteryzują się bardzo małą stratnością i mogą pracować przy częstotliwości do kilkuset kHz. 
+
+Zobacz też
+stal transformatorowa
+Elektrotechniczna blacha izotropowa
+Elektrotechniczna blacha anizotropowa
+
+
+
+Linki zewnętrzne
+Największy producent blachy elektrotechnicznej w Polsce: http://www.stalprodukt.com.pl
+
+
+

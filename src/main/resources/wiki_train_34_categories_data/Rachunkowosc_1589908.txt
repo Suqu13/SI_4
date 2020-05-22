@@ -1,0 +1,25 @@
+Podatek odroczony – część składowa podatku dochodowego wpływająca na wynik finansowy za dany okres sprawozdawczy.
+
+Podatek dochodowy obejmuje:
+część bieżącą (podatek fiskalny)
+część odroczoną (podatek odroczony).
+
+Wykazywana w rachunku zysków i strat część odroczona stanowi różnicę pomiędzy stanem rezerw i aktywów z tytułu podatku odroczonego na koniec i początek okresu sprawozdawczego (Ustawa o rachunkowości, art. 37 ust 8)
+
+Podatek odroczony  zgodnie z  ( który jest zgodny z MSR 12) powstaje w wyniku pojawienia się różnic przejściowych pomiędzy wartością bilansową danego składnika aktywów lub pasywów a jego wartością podatkową. 
+
+Różnice przejściowe mogą być: 
+
+a) Dodatnimi różnicami przejściowymi. Są to te różnice przejściowe, które spowodują powstanie kwot zwiększających podstawę opodatkowania w przyszłych okresach, gdy wartość bilansowa składnika aktywów zostanie zrealizowana lub składnika pasywów rozliczona. Dodatnie różnice przejściowe powstają, gdy wartość bilansowa składnika aktywów jest wyższa niż jego wartość podatkowa albo wartość bilansowa składnika zobowiązań jest niższa niż jego wartość podatkowa. Dodatnie różnice przejściowe mogą również powstawać w związku z pozycjami nieujętymi w księgach jako aktywa lub zobowiązania. 
+
+b) Ujemnymi różnicami przejściowymi. Są to te różnice przejściowe, które powodują powstanie kwot pomniejszających podstawę opodatkowania w przyszłych okresach, gdy wartość bilansowa składnika aktywów zostanie zrealizowana lub składnika pasywów rozliczona. Ujemne różnice przejściowe powstają, gdy wartość bilansowa składnika aktywów jest niższa niż jego wartość podatkowa albo wartość bilansowa składnika zobowiązań jest wyższa niż jego wartość podatkowa. Ujemne różnice przejściowe mogą również powstawać w związku z pozycjami nieujętymi w księgach jako aktywa lub zobowiązania. 
+
+Rezerwa z tytułu odroczonego podatku dochodowego – kwota zobowiązania z tytułu podatku dochodowego, które według przewidywań powstanie w przyszłości, w związku z występowaniem dodatnich różnic przejściowych. 
+
+Aktywa z tytułu odroczonego podatku dochodowego – kwota, jaka według przewidywań zmniejszy w przyszłości zobowiązanie z tytułu podatku dochodowego lub będzie podlegać zwrotowi, w związku z występowaniem ujemnych różnic przejściowych lub w związku ze stratą podatkową, możliwą do odliczenia od dochodu w przyszłości.
+
+Zobacz też
+Rachunek zysków i strat
+CIT
+
+

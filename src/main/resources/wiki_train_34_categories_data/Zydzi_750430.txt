@@ -1,0 +1,83 @@
+Szlomi (hebr. שלומי; ang. Shelomi, lub także Shlomi) – samorząd lokalny położony w Dystrykcie Północnym, w Izraelu.
+
+Położenie
+Miejscowość Szlomi jest położona na wysokości 92 metrów n.p.m. na zachodnich zboczach wzgórz Zachodniej Galilei. Leży u podnóża grzbietu górskiego Reches ha-Sulam (361 m n.p.m.), którym przebiega granica z Libanem. Wzdłuż północnej granicy miejscowości przepływa strumień Hanita, a na południe strumień Betzet. Okoliczne wzgórza są w większości zalesione. Teren opada w kierunku zachodnim na równinę przybrzeżną Izraela. W otoczeniu Szlomi znajdują się kibuce Kfar Rosz ha-Nikra, Hanita, Adamit i Macuva, oraz moszawy Ja'ara i Betzet. Na północ od miejscowości, przy granicy znajduje się izraelska baza wojskowa Dvoranit Sigint, oraz posterunek obserwacyjny UNIFIL. Po stronie libańskiej jest położone miasto An-Nakura i wioska Alma asz-Szab.
+
+Podział administracyjny
+Szlomi jest położone w Poddystrykcie Akki, w Dystrykcie Północnym.
+
+Demografia
+Zgodnie z danymi Izraelskiego Centrum Danych Statystycznych w 2011 roku w Szlomi żyło ponad 6 tys. mieszkańców, z czego 92,8% Żydzi i 7,2% inne narodowości. Wskaźnik wzrostu populacji w 2011 roku wynosił 1,7%. Zgodnie z danymi Izraelskiego Centrum Danych Statystycznych średnie wynagrodzenie pracowników w Szlomi w 2009 roku wynosiło 5840 ILS (średnia krajowa 7070 ILS).
+
+
+
+
+
+ImageSize  = width:600 height:280
+PlotArea   = left:70 right:40 top:20 bottom:20
+TimeAxis   = orientation:vertical 
+AlignBars  = justify 
+Colors = 
+  id:gray1 value:gray(0.9)
+DateFormat = yyyy
+Period     = from:0 till:6053
+ScaleMajor = unit:year increment:1000 start:0 gridcolor:gray1
+PlotData =
+  bar:1955 color:gray1 width:1 
+   from:0 till:200  width:15  text:200 textcolor:red fontsize:8px
+  bar:1961 color:gray1 width:1 
+   from:0 till:1700  width:15  text:1700 textcolor:red fontsize:8px
+  bar:1972 color:gray1 width:1 
+   from:0 till:1900  width:15  text:1900 textcolor:red fontsize:8px
+  bar:1983 color:gray1 width:1 
+   from:0 till:2300  width:15  text:2300 textcolor:red fontsize:8px
+  bar:1995 color:gray1 width:1 
+   from:0 till:3300  width:15  text:3300 textcolor:red fontsize:8px
+  bar:2002 color:gray1 width:1 
+   from:0 till:5200  width:15  text:5200 textcolor:red fontsize:8px
+  bar:2011 color:gray1 width:1 
+   from:0 till:6053 width:15  text:6053 textcolor:red fontsize:8px
+
+Źródło danych: .''
+
+
+Historia
+Badania archeologiczne wykazały, że miejsce to było zamieszkane już w epoce brązu. Od I do V wieku wioska była zamieszkana przez społeczność żydowską. Talmud nazywa ją Betzet. We wsi znaleziono 18 stanowisk archeologicznych z tego okresu. Odkryto miejsca pochówku chrześcijan oraz dzbany z IV wieku. Od początku okresu panowania Arabów wioska była zamieszkana przez społeczność arabską i nazywała się al-Bassa. W 1189 roku wioskę wykorzystali krzyżowcy jako obóz wojenny podczas III wyprawy krzyżowej. Krzyżowcy nazywali wioskę Le Bace lub LeBassa. W 1517 roku wioska wraz z całą Palestyną przeszła pod panowanie osmańskie. Dokumenty podatkowe z 1596 roku mówią, że w al-Bassa mieszkało 76 rodzin muzułmańskich i 28 kawalerów. Płacili oni podatki z upraw pszenicy, jęczmienia, bawełny, oliwek, owoców, oraz hodowli kóz i uli. W 1882 roku we wsi otworzono publiczną szkołę podstawową dla chłopców, a następnie prywatną szkołę średnią i publiczną szkołę podstawową dla dziewcząt. W wyniku I wojny światowej nastąpiły duże zmiany terytorialne na Bliskim Wschodzie. Francusko-brytyjska umowa graniczna z 1920 roku nieprecyzyjnie określiła przebieg granicy między Brytyjskim Mandatem Palestyny i Francuskim Mandatem Syrii (w skład którego wchodził także dzisiejszy Liban). Okazało się, że granica przebiegała na północ od wioski al-Bassa. Sama wioska znajdowała się w Mandacie Palestyny, jednak znaczna część jej pól uprawnych znalazła się w Mandacie Syrii. W rezultacie mieszkańcy al-Bassa zostali odcięci od swoich pól uprawnych. Władze francuskie rozwiązały ten problem, przyznając w 1921 roku mieszkańcom al-Bassa obywatelstwo Mandatu Syrii. Równolegle pracowała mieszana komisja francusko-brytyjska, która do lutego 1922 roku ustaliła szczegółowy przebieg granicy. W 1923 roku oficjalnie potwierdzono, że al-Bassa znajduje się w Brytyjskim Mandacie Palestyny (zmieniono również przebieg granicy przy wiosce). W 1926 roku zmieniono obywatelstwo mieszkańców wioski na palestyńskie. Przeprowadzony we wrześniu 1922 roku wykazał, że w al-Bassa mieszkało 867 chrześcijan, 150 muzułmanów i 1 Żyd. W kolejnych latach tutejsza populacja uległa dużym zmianom. W 1945 roku w wiosce żyło 1590 chrześcijan i 1360 muzułmanów. Podczas arabskiego powstania w Palestynie (1936-1939) w bezpośrednim sąsiedztwie wioski powstał posterunek żydowskiej policji, który następnie przekształcono w brytyjski Fort Tegart. W dniu 6 września 1938 roku w pobliżu wioski wpadł na minę brytyjski samochód pancerny, w wyniku czego zginęło czterech brytyjskich żołnierzy. W odwecie Brytyjczycy spalili dolną część wioski. Kilka dni później brytyjscy żołnierze zmusili około 50 wieśniaków do wejścia do autobusu, który następnie skierowano na minę podłożoną na drodze. W wybuchu zginęło około 20 Arabów. Mieszkańcy wioski zostali zmuszeni do wykopania dołu i pogrzebania wszystkich zabitych. Przyjęta 29 listopada 1947 roku Rezolucja Zgromadzenia Ogólnego ONZ nr 181 przyznała te tereny państwu arabskiemu. Podczas wojny domowej w Mandacie Palestyny na początku 1948 roku w okolicy tej stacjonowały siły Arabskiej Armii Wyzwoleńczej. W ostatnich dniach przed proklamacją niepodległości Izraela żydowska organizacja paramilitarna Hagana przeprowadziła Operację "Ben-Ami", w trakcie której 14 maja 1948 roku Izraelczycy zajęli wioskę al-Bassa. Była ona słabo broniona przez nieliczną lokalną arabską milicję. Po zajęciu wioski, Izraelczycy zgromadzili mieszkańców w miejscowym kościele, gdzie zastrzelili kilkoro młodzieńców. Zeznania świadków różnią się od siebie, i mówią o pięciu osobach zastrzelonych wewnątrz kościoła lub siedmiu osobach na zewnątrz. Następnie, 27 maja mieszkańców wioski przymusowo wysiedlono, a ich domy w większości zniszczono. Prawie wszyscy wieśniacy z al-Bassa uciekli do Libanu. Po I wojnie izraelsko-arabskiej w 1949 roku w pobliżu opuszczonej wioski powstał prowizoryczny obóz dla żydowskich imigrantów (ma'abarot). W 1950 roku obóz przekształcono w stałą osadę o nazwie Szlomi. Jej pierwszymi mieszkańcami byli imigranci z Indii, Jemenu i Jugosławii. Po 1956 roku dotarła tutaj nowa fala imigrantów żydowskich, pochodzących tym razem z Afryki Północnej (głównie z Tunezji i Maroka. Szlomi było szybko rozwijającą się osadą, która w 1960 roku awansowała do statusu samorządu lokalnego. W latach 90. XX wieku osiedliło się tutaj wielu imigrantów z krajów byłego ZSRR. Ze względu na bliskość granicy z Libanem miejscowość jest narażona na ataki terrorystyczne. Podczas II wojny libańskiej w 2006 roku na miejscowość spadły liczne rakiety wystrzeliwane przez organizację terrorystyczną Hezbollah z południowego Libanu. Ataki te powtórzyły się w styczniu 2008 roku.
+
+Nazwa
+Nazwa miejscowości nawiązuje do biblijnej postaci Szelomiego, ojca księcia Achiuda z pokolenia Asera.
+
+Symbole
+Oficjalny herb miejscowości został opublikowany we wrześniu 1961 roku. Ma on kształt tarczy, pośrodku której widnieje rozłożyste drzewo. Przedstawia ono okoliczne lasy. U podstawy drzewa wyrasta kwiat, symbolizujący odradzające się życie. Powyżej umieszczono nazwę miejscowości pisaną w języku hebrajskim.
+
+Polityka
+
+Siedziba władz samorządowych znajduje się w centrum miejscowości. Przewodniczącym rady jest Gabi Naaman.
+
+Architektura
+Zabudowa Szlomi składa się w większości z niewysokiej zabudowy. Tutejsze domy są najczęściej jednorodzinne lub kilkurodzinne. Zabudowa jest nowoczesna i charakteryzuje się ekologicznym wkomponowaniem w naturalne otoczenie przyrody. Miejscowość posiada następujące osiedla mieszkaniowe: Nof Harim, Givat HaArazim, Morad HaHar, Bene Beitecha, Neve Rabin, Pisgat Szlomi oraz Morad HaNahal. W miejscowości są liczne ogrody - Ogród Przygód, Ogród Karmiel, Ogród Netanji, Ogród KKL i Ogród Goldy. W pobliżu Ogrodu Przygód znajduje się stanowisko archeologiczne z pozostałościami mozaiki podłogowej z okresu bizantyjskiego. Na północ od strefy przemysłowej są położone pozostałości arabskiej wioski al-Bassa, z grobami w jaskiniach i ruinami kościoła bizantyjskiego.
+
+Kultura
+W miejscowości jest ośrodek kultury i biblioteka publiczna. Tutejsze centrum kultury obsługuje okoliczne wioski, zapewniając mieszkańcom dostęp do wydarzeń kulturalnych i imprez sportowych.
+
+Edukacja i nauka
+W miejscowości znajdują się 3 szkoły (HaRav Maimon Hakoen, Erez i Ben Cwi). W 2010 roku uczyło się w nich ogółem ponad 800 uczniów, w tym 680 w szkołach podstawowych. Średnia liczba uczniów w klasie wynosiła 24. Poza tym jest tutaj centrum szkolenia zawodowego Erez College, centrum kształcenia nauczycieli oraz szkoła specjalna.
+
+Sport i rekreacja
+W zachodniej części miejscowości znajduje się boisko do piłki nożnej. W tutejszym centrum sportów jest basen pływacki, sala sportowa oraz korty tenisowe. Mniejsze boiska oraz sale sportowe są zlokalizowane przy szkołach.
+
+Turystyka
+W ostatnich latach coraz większe znaczenie w Szlomi zdobywa obsługa ruchu turystycznego. Okoliczne wzgórza są w większości porośnięte lasami, w których poprowadzono szlaki turystyczne. Po stronie wschodniej znajduje się Rezerwat Przyrody Strumienia Betzet. W pobliżu jest także Park Narodowy Rosz HaNikra. Ze względu na bliskość granicy z Libanem należy podporządkować się zaleceniom sił bezpieczeństwa, które najlepiej znają aktualną sytuację na granicy. W miejscowości istnieje możliwość przenocowania i zjedzenia posiłków.
+
+Gospodarka
+Lokalna gospodarka opiera się na dwóch strefach przemysłowych i obsłudze ruchu turystycznego. Obszar przemysłowy zajmuje powierzchnię około 500 hektarów. Z ważniejszych zakładów znajduje się tutaj Widia-Hanita produkujący różnorodne wiertła i narzędzia skrawające.
+
+Transport
+Przez centrum miejscowości przebiega droga nr 899, którą jadąc na zachód dojeżdża się do moszawu Betzet i dalej do drogi nr 4, lub jadąc na południowy wschód dojeżdża się do drogi nr 70 i dalej do moszawu Ja'ara. Drogą nr 70 jadąc na południe dojeżdża się do kibucu Macuva. Natomiast drogą nr 4 można dojechać na północ do kibucu Kfar Rosz HaNikra, lub na południe do moszawu Liman. Droga nr 8990 prowadzi na północny wschód do kibucu Hanita.
+
+Uwagi
+
+
+
+
+Linki zewnętrzne

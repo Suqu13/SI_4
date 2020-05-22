@@ -1,0 +1,6 @@
+
+Rozmaite elementy awioniki pojazdu kosmicznego dostarczone przez setki przedsiębiorstw przechodziły, rzecz oczywista, próby fabryczne. Znacznie trudniejsze było połączenie wszystkich systemów awioniki w jedną całość. Zadanie to powierzono specjalnemu laboratorium Shuttle Avionics Integration Laboratory (SAIL) w Centrum Kosmicznym im. Johnsona (ang. Johnson Space Center) w Houston. Sprawdzono tutaj funkcjonalną integralność i zgodność połączonych zespołów awioniki wraz z ich oprogramowaniem dla wszystkich faz misji, a także współpracę awioniki z naziemnymi układami elektronicznymi przedstartowej kontroli pojazdu.
+
+W laboratorium SAIL wykorzystywano dwa stanowiska prób. Na pierwszym z nich (ang. Shuttle Test Station) badane urządzenia były instalowane w obudowach identycznych z przewidzianymi do zastosowania w wahadłowcu, nie wyłączając specjalnego okablowania. Drugie stanowisko (ang. Guidance Navigation and Control Test Stand) służyło do sprawdzania układów kierowania, nawigacji i sterowania na zwykłych laboratoryjnych stojakach.
+
+Bibliografia

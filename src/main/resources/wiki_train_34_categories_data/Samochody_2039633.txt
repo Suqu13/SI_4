@@ -1,0 +1,30 @@
+Reliant Sabre – sportowy samochód osobowy produkowany przez brytyjską firmę Reliant w latach 1961–1963. Dostępny jako 2-drzwiowe coupé. Do napędu używano silników R4 i R6. Moc przenoszona była na oś tylną poprzez 4-biegową manualną skrzynię biegów. Samochód został zastąpiony przez model Scimitar.
+
+Dane techniczne (R4 1.7)
+Silnik
+R4 1,7 l (1703 cm³), 2 zawory na cylinder, OHV
+Układ zasilania: dwa gaźniki
+Średnica cylindra × skok tłoka: 82,60 mm × 79,50 mm 
+Stopień sprężania: 8,8:1
+Moc maksymalna: 91 KM (67 kW) przy 5000 obr/min
+Maksymalny moment obrotowy: 124 N•m przy 2300 obr/min
+
+Osiągi
+Przyspieszenie 0-100 km/h: b/d
+Prędkość maksymalna: b/d
+
+Dane techniczne (R6 2.6)
+Silnik
+R6 2,6 l (2553 cm³), 2 zawory na cylinder, OHV
+Układ zasilania: dwa gaźniki
+Średnica cylindra × skok tłoka: 82,55 mm × 79,50 mm 
+Stopień sprężania: 8,3:1
+Moc maksymalna: 111 KM (81 kW) przy 4800 obr/min
+Maksymalny moment obrotowy: 186 N•m przy 2400 obr/min
+
+Osiągi
+Przyspieszenie 0-100 km/h: 12,2 s
+Czas przejazdu pierwszych 400 m: 18,3 s
+Prędkość maksymalna: 179 km/h
+
+Bibliografia

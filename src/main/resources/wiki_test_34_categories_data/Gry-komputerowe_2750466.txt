@@ -1,0 +1,59 @@
+Worms 2: Armageddon (w wersji na komputery osobiste wydana pod nazwą Worms Reloaded) – komputerowa strategiczna gra turowa, wyprodukowana i wydana przez brytyjskie studio Team17. Jej premiera odbyła się 1 lipca 2009 roku w wersji na konsolę Xbox 360, w 2010 roku zostały wydane jej edycje na konsolę PlayStation 3, platformy Microsoft Windows i Macintosh oraz system operacyjny iOS, a w 2013 roku na platformę Android. Jest to część serii gier komputerowych Worms, oparta na Worms Armageddon z 1999 roku i wydana w dystrybucji cyfrowej.
+
+W Worms 2: Armageddon gracz kieruje grupą liczącą do czterech dżdżownic, której zadaniem jest wyeliminowanie drużyny przeciwnika. Cel ten można osiągnąć przy użyciu różnych rodzajów broni i narzędzi, które wykazują odmienną przydatność w różnych warunkach pola bitwy. W stosunku do poprzednich części serii gra została wzbogacona o nowe tryby rozgrywki. Cechuje ją humor i kreskówkowa oprawa graficzna, dostosowana do osiągów siódmej generacji platform konsolowych. Worms 2: Armageddon została pozytywnie odebrana przez krytyków, którzy chwalili rozgrywkę oraz odświeżoną oprawę graficzną.
+
+Rozgrywka
+Worms 2: Armageddon jest strategiczną grą turową, w której gracze na przemian kierują swoimi drużynami, złożonymi z najwyżej czterech dżdżownic, na dwuwymiarowej planszy. Każda tura polega na pokierowaniu przez gracza jedną z dżdżownic należącą do jego drużyny tak, aby zadać jak największe obrażenia robakom z pozostałych drużyn w celu ich wyeliminowania; możliwe są: ruch w lewo lub prawo, skoki oraz użycie jednego rodzaju broni.
+
+Posiadane rodzaje broni mają różne właściwości, np. na lot pocisku z bazooki wpływa kierunek i siła wiatru, granat wybucha z wybranym przez gracza opóźnieniem, a strzelba umożliwia oddanie w ciągu danej tury dwóch niezależnych strzałów. Gra zawiera również wymyślone rodzaje broni, podkreślające jej specyficzny humor, przykładowo superowcę parodiującą Supermana, bombę bananową o wysokiej sile rażenia i święty granat ręczny znany z filmu Monty Python i Święty Graal. Do dyspozycji gracza oddano szereg różnorodnych narzędzi zwiększających mobilność członka drużyny, na przykład linę czy plecak odrzutowy. Użycie części broni powoduje zniszczenia terenu, na którym znajdują się dżdżownice.
+
+Rozgrywkę komplikują dodatkowe zasady. Każda tura trwa określoną liczbę sekund, co motywuje gracza do szybkiego działania; można również ograniczyć czas całej rozgrywki. Ponadto na planszy znajdują się miny aktywowane po wykryciu w pobliżu jakiegokolwiek robaka (z losowym czasem detonacji) oraz beczki z łatwopalnym materiałem. Na planszach otwartych wypadnięcie dżdżownicy z planszy lub jej wpadnięcie do wody jest równoznaczne z natychmiastowym jej wyeliminowaniem. Ponadto w trakcie rundy może nastąpić zrzut skrzynek zawierających dodatkowe punkty zdrowia dla robaków (apteczki), broń lub narzędzia.
+
+W stosunku do poprzednich części serii dodano nowe rodzaje broni, np. Zakłamanego Bizona, szarżującego na cele i wybuchającego w ich pobliżu czy też błyskawicę umożliwiającą wyleczenie rannych robaków oraz wskrzeszenie wyeliminowanych. Niektóre typy broni zostały zapożyczone z części serii na przenośne platformy, np. bunkrołamacz drążący planszę, który wybucha w pobliżu znalezionego robaka.
+
+Tryby gry
+W Worms 2: Armageddon dostępne są dwa podstawowe tryby rozgrywki. W trybie gry jednoosobowej gracz może walczyć z komputerową drużyną w kampanii, która składa się z 30 podstawowych i 5 dodatkowych misji. Za wykonanie misji gracz otrzymuje monety, które może wydać na kupno nowych rodzajów broni, czapek dla robaków, plansz czy dodatkowych zadań. Możliwa jest również rywalizacja z coraz liczniejszymi i bardziej doświadczonymi drużynami komputerowymi (tryb Strefa walk) oraz rozegranie gry niestandardowej. Nowością w stosunku do poprzednich części serii jest tryb Jatka, w której gracz musi jak najdłużej stawić opór losowo pojawiającym się oddziałom przeciwnika, przy czym każdy kolejny robak wroga ma więcej punktów zdrowia; tryb ten pojawił się początkowo w komputerowej wersji gry.
+
+W trybie gry wieloosobowej udział wziąć może jednocześnie do czterech graczy, przy czym każdy z nich ma możliwość dostosowania wyglądu swojej drużyny, nazw wchodzących w jej skład robaków oraz ich język, którego używają komentując akcje gracza (lub ich brak). Gracze mogą toczyć pojedynki przy jednym komputerze (tzw. hot seat) oraz w sieci lokalnej lub poprzez Internet. Dostępne są następujące tryby:
+Deathmatch (tryb klasyczny), w którym drużyny walczą do momentu, gdy tylko jedna z nich pozostanie na planszy;
+Forty, w którym każda z drużyn zajmuje fortecę;
+Wyścig (debiutujący w serii), w którym głównym celem zamiast zabijania innych robaków jest dotarcie do punktu ewakuacji.
+
+Produkcja i wydanie
+Po sukcesie wydanej na Xbox Live Arcade gry Worms z 2007 roku jej twórcy ze studia Team17 zdecydowali się na produkcję jej kontynuacji. 24 czerwca 2009 roku zapowiedziana została Worms 2: Armageddon, również przeznaczona do wydania na konsolowej platformie Microsoftu. Twórcy potwierdzili prace nad stworzeniem odnowionych silników graficznego i fizycznego, jak również nad implementacją dodatkowych trybów rozgrywki i plansz. 4 marca 2009 roku Team17 opublikowało na portalu Facebook pierwsze zrzuty ekranu z gry, a 30 czerwca 2009 roku światło dzienne ujrzał jej oficjalny zwiastun.
+
+Po premierze gry, która odbyła się 1 lipca 2009 roku, jej możliwości były rozszerzane. 7 lipca 2010 roku na Xbox Live opublikowany został dodatek DLC pod nazwą Battle Pack, który zawierał nowe rodzaje broni, pakiet misji oraz dotychczas niedostępny tryb Jatka.
+
+26 sierpnia 2010 roku na platformie Steam premierę miała specjalna wersja Worms 2: Armageddon, przeznaczona na komputery osobiste Worms: Reloaded. Od konsolowego oryginału różniła się ona obecnością pakietu 60 misji, trybu Jatka oraz edytora krajobrazu, umożliwiającego stworzenie i zapisanie własnych plansz, na których ma toczyć się rozgrywka. Wydanie Worms: Reloaded poprzedziło opublikowanie dwóch oficjalnych zwiastunów 30 lipca i 12 sierpnia 2010 roku. Trzeci zwiastun, prezentujący możliwości modyfikacji zasad rozgrywki, ukazał się 16 sierpnia 2010 roku, a czwarty, pokazujący rozgrywkę jednoosobową, miał premierę 24 sierpnia 2010 roku. 8 września 2010 roku została wydana wersja Worms 2: Armageddon na konsolę PlayStation 3, natomiast 27 października 2010 roku na system operacyjny iOS.
+
+30 czerwca 2011 roku komputerowa wersja gry została wzbogacona o kolejne dodatki DLC. Forts Pack oferował 20 dodatkowych misji w trybie gry jednoosobowej oraz 10 nowych twierdz do rozgrywki wieloosobowej. Puzzle Pack zawierał zestaw kolejnych misji, natomiast Retro Pack dodawał 15 scenariuszy znanych z najstarszych gier z serii, które dostosowano do nowej oprawy graficznej. Pakiety te zostały w sierpniu 2011 roku przeniesione także na konsolową wersję gry; ponadto 23 sierpnia na PlayStation Network ukazał się Time Attack Pack, a 14 września 2011 roku na Xbox Live Arcade premierę miał Mayhem Pack, powiązany z premierą gry Worms: Ultimate Mayhem.
+
+Odbiór gry
+
+
+Wersja konsolowa
+Gra w wersji konsolowej spotkała się z pozytywnym odbiorem. Redaktor portalu IGN, Daemon Hatfield uznał Worms 2: Armageddon za jedną z najbardziej ekscytujących i zabawnych strategicznych gier turowych. Zdaniem Guya Cockera ze strony GameSpot gra łączy w sobie najlepsze elementy poprzednich części serii. Według Dale'a Nardozziego ze strony TeamXbox Worms 2: Armageddon jest dobrą odpowiedzią na sukces gry Worms z 2007 roku.
+
+Recenzenci chwalili bardziej dopracowany niż w poprzedniej części tryb gry jednoosobowej. Cocker ocenił zawarte w nim misje jako „dobrze zaprojektowane i zabawne”, jak również pomocne w ćwiczeniu obsługi określonych rodzajów broni. Za wadę tego trybu uznał natomiast nagły, gwałtowny wzrost poziomu trudności po pierwszych 20 misjach. Według Hatfielda tryb gry jednoosobowej jest „bardziej krzepki” niż w Worms z 2007 roku. Nardozzi uznał tryb za zróżnicowaną i pełnoprawną część gry, w przeciwieństwie do poprzedniej, obliczonej tylko na grę wieloosobową części.
+
+Również rozgrywka wieloosobowa przypadła krytykom do gustu. Cocker uznał ofertę trybów gry za „znakomitą” ze względu na oficjalną obsługę zarówno meczów rankingowych, jak i pozarankingowych. Nardozzi chwalił możliwość dostosowania każdego typu meczu do potrzeb rozgrywki, a Hatfield stwierdził, że nie napotkał błędów technicznych w rozgrywce wieloosobowej.
+
+Oprawa audiowizualna także uzyskała pozytywne oceny. Hatfield ocenił oprawę wizualną jako „efektowną”, a Cocker docenił takie efekty wizualne i animacje, jak ogień oraz dym wydobywający się z dotkniętego pożarem terenu. Również Nardozzi ocenił oprawę graficzną jako nadającą grze poczucia estetyki. Recenzenci chwalili głosy dżdżownic, wskazując na ich zróżnicowanie i swoisty humor, aczkolwiek Nardozzi przyznał, że część z nich jest irytująca.
+
+Wersja na komputery osobiste
+Worms Reloaded na komputery osobiste również została pozytywnie przyjęta przez krytyków, choć podchodzili oni do niej bardziej sceptycznie niż w przypadku wersji konsolowej. Recenzenci przyznawali, że zmiany w porównaniu z oryginalnym Worms 2: Armageddon są marginalne. Na jaw wyszła też część problemów niezauważonych w konsolowej wersji. Krystian Smoszna ze strony Gry-Online negatywnie ocenił ograniczenie liczby robaków na planszy do 16 (w Worms Armageddon z 1999 roku można było ich rozmieścić 48), natomiast redaktor GameSpotu, Justin Calvert skrytykował zachowanie sztucznej inteligencji, zauważając, że komputerowe dżdżownice posuwają się do ruchów samobójczych, co nie przeszkadza im w bardzo dokładnym rzucaniu granatami w robaki gracza. Richard Cobbett z brytyjskiego „PC Gamera” ocenił tryby gry jednoosobowej jako nudne, krytykując także początkową niestabilność rozgrywki przez Internet. Uznał także za zbyt wielki interfejs użytkownika. Niemniej rekomendowano również wersję komputerową: Calvert chwalił nowoczesną oprawę graficzną oraz znakomitą rozgrywkę, a Cobbett opisał Worms Reloaded jako „prostą, piękną grę”, która przypadnie do gustu miłośnikom serii oraz nowym graczom.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

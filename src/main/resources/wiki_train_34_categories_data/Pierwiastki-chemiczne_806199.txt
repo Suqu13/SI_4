@@ -1,0 +1,13 @@
+
+
+Fuleryty - ciała stałe utworzone z fulerenów i ich pochodnych. Czasem pod tym terminem rozumie się pojedynczy fuleren C60 (przez analogię do grafitu) - odmianę alotropową węgla.
+
+Typy fulerytów
+
+Polimeryzowane nanorurki węglowe (P-SWNT) są klasą fulerytów o twardości porównywalnej z diamentem. W przeciwieństwie do diamentu nie mają jednak struktury krystalicznej, która umożliwia uzyskanie gładkich płaszczyzn cięcia. Dzięki temu są również mniej kruche, ponieważ wszelkie siły rozkładają się w nich równomiernie po całej objętości. Stanowią materiał lżejszy i wytrzymalszy od stali, jednak ich zastosowanie na masową skalę jest obecnie niemożliwe ze względu na bardzo wysokie koszty ich uzyskiwania.
+
+Polimeryzacja niektórych typów fulerenów pozwala uzyskać tzw. ultratwarde fuleryty, przewyższające twardością diament. Obecnie najtwardszym ze znanych materiałów tego typu jest ADNR. Pokazano, że ultratwarde fuleryty mogą zarysować diament. Zmierzona przy ich pomocy twardość diamentu typu IIa wynosi 167±6 GPa (twardość materiału można zmierzyć wyłącznie przy pomocy twardszego materiału).
+
+
+
+Linki zewnętrzne

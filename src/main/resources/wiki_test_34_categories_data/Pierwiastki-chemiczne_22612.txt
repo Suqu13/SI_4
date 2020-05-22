@@ -1,0 +1,51 @@
+Arsen (As, łac. arsenicum) – pierwiastek chemiczny z grupy azotowców o właściwościach metaloidu.
+
+Występuje w skorupie ziemskiej w ilości 2,5 ppm (zajmując 20. miejsce pod względem rozpowszechnienia wśród pierwiastków). Tworzy ponad 200 minerałów, z których najbardziej rozpowszechnione są: arsenopiryt, lelingit, orpiment, realgar. Często towarzyszący także złożom siarczkowym innych metali, np. pirytom, chalkopirytom, galenie, blendzie cynkowej. W naturze arsen występuje również w stosunkowo dużej liczbie związków arsenoorganicznych. Są to np. kwas kakodylowy i inne kwasy arsenoorganiczne, organiczne pochodne arsyny, arsenowe analogi biocząsteczek, np. arsenobetaina lub arsenocholina.
+
+Do naturalnych źródeł arsenu w przyrodzie zalicza się erupcje wulkanów (około 17 000 ton rocznie) i (w mniejszym stopniu) ługowanie arsenu ze skał osadowych i magmowych. Jako źródła antropogeniczne wymienia się: uboczną emisję w wyniku procesów wydobycia i hutnictwa rud metali nieżelaznych (około 61 000 ton rocznie), spalanie paliw kopalnianych (głównie węgla brunatnego i kamiennego).
+
+Łączna produkcja arsenu na świecie wynosi około 35 000 ton (w przeliczeniu na As2O3), z czego jedynie 3% stanowi czysty metal. Największymi jego producentami są Chiny (około 50% światowej produkcji) i Chile (25%). Metaliczny arsen produkuje się głównie na 2 sposoby: poprzez rozkład arsenopirytu lub lelingitu w temperaturze 650–700&nbsp;°C; redukcja arszeniku węglem lub tlenkiem węgla.
+
+Arsen ma dwie odmiany alotropowe:
+α – jest kruchym metalem, który matowieje w kontakcie z powietrzem i silnie reaguje z wodą.
+β – jest żółtym, bezpostaciowym proszkiem, dużo mniej reaktywnym od odmiany α.
+
+Zastosowanie
+Jego związki były znane od starożytności. W formie czystej wyodrębnił go jako pierwszy (prawdopodobnie) alchemik Albert Wielki w 1250, choć do tego odkrycia pretendują też starsi alchemicy arabscy i chińscy lekarze ludowi.
+W czasach starożytnych mieszaniny zawierające aurypigment i realgar stosowano do leczenia chorób płuc i skóry. W późniejszych wiekach znaczenie arsenu w medycynie zaczęło znacznie rosnąć. W XVIII i XIX w. arsen stał się wręcz podstawą ówczesnej farmakologii. Preparaty arsenowe, stosowane w przeróżnej postaci od past, roztworów, tabletek począwszy, na zastrzykach dożylnych i podskórnych skończywszy, używano do zwalczania większości chorób: reumatyzmu, astmy, malarii, gruźlicy, cukrzycy, śpiączki afrykańskiej, nadciśnienia, wrzodów żołądka, zgagi, egzemy, łuszczycy, a nawet białaczki. Na przełomie XIX i XX w. zaczęto stosować związki arsenoorganiczne, które okazały się być znacznie mniej toksyczne dla ludzi i zwierząt niż związki nieorganiczne. W drugiej połowie ubiegłego wieku wycofano jednak z obiegu, mimo ich dużej skuteczności, niemal wszystkie leki arsenowe (głównie za sprawą właściwości rakotwórczych). Obecnie poza melarsoprolem, acetarsolem, salwarsolem i trójtlenkiem arsenu nie stosuje się w lecznictwie związków arsenu. W ostatnich latach zaczyna wzrastać zainteresowanie arszenikiem, jako środkiem w terapii przeciwnowotworowej.
+
+Poza medycyną arsen znalazł zastosowanie w produkcji półprzewodników (jako arsenek galu), polepszania jakości niektórych stopów (m.in.0,5-2% dodatek do ołowiu poprawia sferyczność amunicji ołowianej, a 0,1-3% dodatek do stopów łożyskowych zawierających ołów zwiększa ich wytrzymałość), w produkcji bojowych środków trujących (luizyty), przy impregnacji drewna i jako dodatek do szkła (dając mu zielonkawą poświatę).
+
+Przez wiele lat związki arsenu stosowane były również w garbarstwie oraz jako pigmenty i środki ochrony roślin (głównie arseniany(V)), jednak ich znaczenie w ostatnich latach zmalało znacznie na rzecz mniej toksycznych odczynników.
+
+Arsen-76
+Nietrwały syntetyczny izotop aresenu o największym zastosowaniu, np. w metodzie atomów znaczonych. Narząd krytyczny stanowi przewód pokarmowy, a dopuszczalne skażenie to 740 kBq.   
+
+Znaczenie biologiczne arsenu
+
+
+Mimo iż arsen jest jednym z mikroelementów, to jego nadmiar powoduje niezwykle silne zatrucia. Wszystkie związki arsenu, mniej lub bardziej, posiadają właściwości protoplazmatyczne (niszczą ściany komórkowe bakterii) i rakotwórcze. Arsen zakłóca również procesy enzymatyczne w komórkach, hamując enzymy zależne od NAD. Toksyczność związków arsenu zależy jednak od formy w jakiej są przyjmowane. Ogólnie przyjmuje się, że szkodliwość związków arsenu maleje w szeregu:
+
+AsH3→nieorg. As3+→org. As3+→nieorg. As5+→org. As5+→związki arsoniowe→arsen metaliczny
+
+lecz są znane zarówno mało toksyczne związki nieorg. As3+, jak i związki org. As5+ o toksyczności znacznie przewyższającej słynny arszenik (LD50=35mg/kg). Ostre zatrucia arsenem i jego związkami pojawiają się od 0,5-30 godzin od intoksykacji i charakteryzują się zaburzeniami ze strony układu nerwowego, ostrym podrażnieniem żołądkowo-jelitowym i obniżeniem ciśnienia krwi. Pojawia się również krwiomocz i żółtaczka
+
+Objawy zatrucia przewlekłego występują zwykle po kilku latach. Mogą nimi być liczne nowotwory skóry, płuc, nerek, wątroby, a niekiedy i pęcherza moczowego. Sam długotrwały kontakt skóry z pyłem arsenowym może wywołać kilkanaście odmian nowotworu skóry. Bardzo często jednak przewlekłe zatrucia doprowadzają jedynie do zwykłych zmian skórnych – rogowacenie, przebarwienia, zapalenia skórne, a w przypadku zatrucia drogą pokarmową – podrażnienie i stany zapalne układu pokarmowego. Jako ciekawostkę można dodać fakt, iż dłuższe przyjmowanie małych dawek związków arsenu wywołuje wzrost odporności na zatrucia ostre tymi substancjami. Pewien minimalny odsetek ludzi posiada również wrodzoną odporność na pochodne arsenu.
+
+Znane są mikroorganizmy zdolne do wzrostu przy wysokim stężeniu arsenu, np. bakterie GFAJ-1.
+
+
+
+
+
+Bibliografia
+Wiadomości chemiczne nr 3–4 (59), "Arsen w technice i środowisku"; E. Kociołek-Balawejder, D. Ociński: ; Wrocław 2005
+
+
+
+
+
+
+
+
+

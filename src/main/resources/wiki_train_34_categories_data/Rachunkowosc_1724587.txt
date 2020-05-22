@@ -1,0 +1,27 @@
+Konto bilansowe służy do ewidencji zmian w stanie składników aktywów i pasywów ujętych w bilansie.
+
+W związku z tym zadaniem tych kont jest:
+przejęcie stanów początkowych z bilansu otwarcia (bilansu początkowego),
+ujęcie zmian tych stanów spowodowanych zaistniałymi operacjami gospodar­czymi,
+wykazanie stanów końcowych poszczególnych składników aktywów i pasywów celem prezentacji ich w bilansie zamknięcia (bilansie końcowym).
+
+Aktywa i pasywa ujęte są w bilansie na zasadzie przeciwstawności, co pociąga za sobą konsekwencję przeciwstawnego funkcjonowania kont aktywów i pasywów.
+
+Zasady funkcjonowania kont aktywów:
+Po stronie debetowej zapisywany jest stan początkowy danego składnika pochodzący z bilansu otwarcia oraz wszystkie jego zwiększenia w ciągu roku obrotowego.
+Po stronie kredytowej zapisywane są wszystkie zmniejszenia danego skład­nika bilansu zaistniałe w ciągu roku obrotowego.
+Obrót debetowy kont aktywów jest większy lub równy obrotowi kredytowemu.
+Saldo końcowe kont aktywów jest debetowe (zapisywane dla równowagi po stronie kredytowej) lub nie występuje.
+
+Zasady funkcjonowania kont pasywów:
+Po stronie kredytowej zapisujemy stan początkowy (Sp) oraz wszelkie zwięk­szenia składnika bilansu w ciągu roku obrotowego.
+Obrót kredytowy kont pasywów jest większy lub równy obrotowi debetowemu.
+Saldo końcowe kont pasywów jest kredytowe (zapisywane dla równowagi po stronie debet) lub nie występuje.
+Strona debetowa rejestruje zmniejszenie w ciągu roku danego składnika bilansu.
+
+Zobacz też:'''
+bilans
+aktywa
+pasywa
+
+

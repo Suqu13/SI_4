@@ -1,0 +1,8 @@
+Mac Pro – stacjonarna stacja robocza firmy Apple, wprowadzona na rynek 7 sierpnia 2006 roku. Komputer zbudowany na procesorach firmy Intel Xeon 5100, zastąpił linię komputerów Power Mac z procesorami PowerPC. Wraz z tą zmianą firma zakończyła migrację wszystkich swoich produktów na procesory Intel, rozpoczętą w styczniu 2006 roku. W 2013 roku firma przedstawiła drugą generację komputerów z linii Mac Pro. Został wyposażony w 12-rdzeniowe procesory Intel Xeon, dwa procesory graficzne klasy typowej dla stacji roboczych, sześć portów Thunderbolt 2, pamięć masową flash z magistralą PCIe i pamięć RAM ECC.
+
+Komputer jest przeznaczony głównie dla użytkowników profesjonalnych, którzy potrzebują dużej mocy obliczeniowej do wykonywania swojej pracy.
+
+Przypisy
+
+
+Linki zewnętrzne

@@ -1,0 +1,18 @@
+C-1 Ariete – współczesny, włoski czołg podstawowy.
+
+Historia
+Na początku lat 80. XX wieku na zlecenie sił zbrojnych rozpoczęto we Włoszech prace nad nowym czołgiem podstawowym, następcą eksploatowanych czołgów Leopard 1. Projekt powstał w konsorcjum tworzonym przez koncerny Iveco-Fiat (odpowiedzialny za projekt układu napędowego i silnika) oraz OTO Melara (pozostałe układy czołgu i końcowa integracja konstrukcji). Pierwszy prototyp czołgu był gotowy w 1986 roku, w 1988 roku powstała prototypowa seria pięciu wozów przeznaczonych do testów.
+
+Produkcja seryjna rozpoczęła się w 1995 roku i trwała do 2002 roku. W tym czasie wyprodukowano zamówione 200 egzemplarzy czołgu.
+
+Uzbrojenie
+Ariete może prowadzić ogień do celów stacjonarnych i ruchomych, zarówno w dzień, jak i w nocy, także gdy sam czołg jest w ruchu. Uzbrojenie czołgu stanowi gładkolufowe działo kalibru 120 mm firmy OTO Melara o lufie długości 44 kalibrów wyposażonej w osłonę termiczną i eżektor usuwający gazy prochowe i oporopowrotnik. Lufa jest hydraulicznie stabilizowana w dwóch płaszczyznach i może strzelać każdym typem amunicji - także APFSDS i HEAT. Jednostka ognia wynosi 42 sztuki amunicji, z czego 15 w wieży, a 27 w kadłubie. Dodatkowym uzbrojeniem czołgu jest współosiowy z działem karabin maszynowy kalibru 7,62 mm oraz drugi takiego samego kalibru zamontowany na dachu wieży.
+
+Wyposażenie
+Systemem kontroli ognia czołgu jest TURMS FCS opracowany i produkowany przez Galileo Avionica z Florencji. W jego skład wchodzi panoramiczny dzienno-nocny peryskop dowódcy (pole obserwacji poziomej - 360°, pionowej - od -10° do +60°), stabilizowany celownik działonowego z układem obserwacji w podczerwieni, dalmierz laserowy MTL8 i komputer COSMO opracowujący dane meteorologiczne (zwłaszcza o prędkości wiatru), dane o ruchu czołgu, zużyciu lufy (maksymalna jej żywotność to 800 strzałów), typie amunicji i celu dla uzyskania optymalnej skuteczności ognia. Prowadzić ogień może zarówno dowódca, jak i działonowy. Dowódca, którego stanowisko znajduje się po prawej stronie wieży, obok wspomnianego peryskopu dysponuje monitorem termowizyjnym połączonym z termowizorem działonowego. Kierowca (jego stanowisko jest po prawej stronie kadłuba) używa trzech peryskopów, w tym jednego noktowizyjnego.
+Czołg wyposażony jest w okrężny system ostrzegania przed opromieniowaniem laserem RALM oraz systemy ochrony przed skutkami użycia broni ABC. Na obu ścianach bocznch wieży zainstalowano uruchamiane elektrycznie wyrzutnie granatów dymnych.
+
+Napęd i układ jezdny
+Silnikiem Ariete jest 12-cylindrowa jednostka napędowa Fiata MTCA o mocy maksymalnej 937 kW pozwalający na rozwinięcie prędkości 65 km/h na drodze. Układ jezdny składa się z siedmiu pokrytych gumą kół jezdnych z zawieszeniem na wałkach skrętnych, 4 rolek prowadzących, koła napinającego z przodu i napędowego z tyłu na każdej burcie, hamowane za pomocą hamulca hydrodynamicznego i hamulców tarczowych. Kąt rampowy wynosi 60%, maksymalna możliwa do pokonania szerokość rowu - 3 m, a wysokość ściany pionowej - 120 centymetrów.
+
+Bibliografia

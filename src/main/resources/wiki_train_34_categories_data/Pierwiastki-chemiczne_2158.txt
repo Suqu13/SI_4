@@ -1,0 +1,46 @@
+Hel (He, łac. helium) – pierwiastek chemiczny o liczbie atomowej 2, z grupy helowców (gazów szlachetnych) w układzie okresowym. Jest po wodorze drugim najbardziej rozpowszechnionym pierwiastkiem chemicznym we wszechświecie, jednak na Ziemi występuje wyłącznie w śladowych ilościach (4% w górnych warstwach atmosfery).
+
+Hel na Ziemi występuje głównie w atmosferze (5,2% obj. w powietrzu), pochodzi głównie z rozpadu jąder promieniotwórczych w naturalnych szeregach promieniotwórczych. W litosferze hel występuje również w niektórych złożach gazu ziemnego. W gazach występujących w Stanach Zjednoczonych dochodzi do 1%, w gazach występujących w Europie ilość ta jest bardzo mała (z wyjątkiem Polski – do 3%). Praktycznie cały hel, który mógł pierwotnie istnieć na Ziemi, nie mogąc związać się z żadnym innym pierwiastkiem, jako bardzo lekki opuścił atmosferę Ziemi.
+
+Występuje w postaci dwóch izotopów trwałych – 3He i 4He. Znanych jest także kilka syntetycznych izotopów nietrwałych (T½ 6He i 8He.
+
+Hel jest najmniej aktywnym pierwiastkiem chemicznym, z bardzo wysoką energią jonizacji. Nie udało się z nim uzyskać żadnego trwałego związku chemicznego, znane są jedynie krótko żyjące cząsteczki HeNe i jony He+ oraz He2+. 
+
+Nie ma żadnego znaczenia biologicznego.
+
+Odkrycie helu
+Hel odkryto najpierw na Słońcu, później na Ziemi. Podczas całkowitego zaćmienia Słońca, które miało miejsce 18 sierpnia 1868 roku i było widoczne w Indiach, astronom Pierre Janssen, badając widmo korony słonecznej, zaobserwował pomarańczowy prążek odpowiadający długości fali 5876 Å, którego nie można było przypisać do żadnego spośród znanych wówczas pierwiastków. Ten sam prążek w widmie Słońca zaobserwował 20 października 1868 r. angielski astronom Norman Lockyer. Lockyer i angielski chemik Edward Frankland nadali nowemu pierwiastkowi – emitującemu falę o długości 5876 Å – nazwę helium od greckiego boga słońca – Heliosa. Przez wiele lat hel był uważany za pierwiastek, który występuje na Słońcu, ale nie występuje na Ziemi. W roku 1895 William Ramsay otrzymał hel po potraktowaniu kleweitu (rudy uranowej) kwasem mineralnym. Ramsay przesłał próbkę gazu do Williama Crookesa i Normana Lockyera, którzy zidentyfikowali hel.
+
+Hel stały
+Hel jako jedyny pierwiastek pozostaje ciekły nawet w temperaturze zera bezwzględnego (pod ciśnieniem atmosferycznym) i zestala się dopiero w podwyższonym ciśnieniu. Ma najniższą temperaturę krzepnięcia spośród wszystkich pierwiastków: . W temperaturze poniżej 0,2–0,4 K hel stały przechodzi przemianę fazową do formy o właściwościach nadciekłych ("hel nadstały").
+
+Zastosowania helu
+Hel w postaci ciekłej jest używany do chłodzenia tam, gdzie potrzebne są ekstremalnie niskie temperatury, ze względu na jego bardzo niską temperaturę wrzenia. Stosuje się go m.in. do chłodzenia nadprzewodników.
+Jako najlżejszy gaz bezpieczny (niepalny) był stosowany do wypełniania statków powietrznych lżejszych od powietrza, czyli aerostatów (balony, sterowce). Obecnie ze względu na wysokie koszty jego pozyskania, zamiast helu stosuje się w aerostatach najczęściej ogrzane powietrze.
+Ze względu na niską rozpuszczalność w osoczu krwi, używany jest jako składnik mieszanki do oddychania w głębokim nurkowaniu.
+Hel jest używany jako gaz napędowy w balonach do kontrapulsacji wewnątrzaortalnej (cewnik zakończony balonem wprowadazany do aorty najczęściej przez tętnicę udową, napełnianie i opróżnianie balonu gazem zgodnie z rytmem serca wspomaga niewydolne krążenie)
+Hel w mieszaninie z tlenem może być używany do wentylacji mechanicznej pacjentów z ciężką obturacją oskrzeli. Hel ma znacznie mniejszą gęstość niż azot. Zastąpienie azotu helem obniża indeks Reynoldsa i zmienia charakter przepływu gazów w drogach oddechowych z turbulentnego na laminarny co istotnie obniża opory przepływu. Metoda ma charakter eksperymentalny i nie została wdrożona do powszechnej praktyki klinicznej.
+Hel dostarczony do płuc powoduje zmianę wysokości głosu – dzieje się tak, ponieważ częstość drgań w komorze rezonansowej, jaką jest ośrodek mowy, ściśle zależy od gęstości ośrodka, w którym te drgania zachodzą (prędkość dźwięku w helu jest ok. 3 razy większa niż w powietrzu).
+Hipotetycznie izotop 3He może zostać wykorzystany w kontrolowanej reakcji termojądrowej z deuterem do uzyskiwania energii bez powstawania niepożądanych odpadów promieniotwórczych. Na Ziemi 3He występuje jedynie śladowo, natomiast znaczne ilości tego izotopu występować mogą w gruncie księżycowym, w związku z czym rozważane są projekty jego wydobycia i transportu z Księżyca na Ziemię.
+
+Otrzymywanie helu
+Głównie z gazu ziemnego bogatego w ten pierwiastek (złoża w Stanach Zjednoczonych).
+Przeróbka skroplonego powietrza metodą destylacji frakcjonowanej.
+
+Polskie Górnictwo Naftowe i Gazownictwo posiada jedyną na terytorium Unii Europejskiej instalację do pozyskiwania helu. Stanowi ona część odazotowni gazu ziemnego w Odolanowie oraz w odazotowni w okolicach Ostrowa Wielkopolskiego. W 2012 roku zakończyła się jej dwuletnia modernizacja. Dzięki temu wzrośnie wydajność instalacji o ok. 30%, i ergonomiczność. Wartość prac wynosiła 27,7 milionów złotych. Dzięki instalacji PGNiG Polska jest jednym z sześciu krajów na świecie produkujących hel. Wśród głównych odbiorców są: Austria, Francja, Niemcy, Szwajcaria, Turcja, Wielka Brytania, kraje bałkańskie.
+
+Zobacz też
+Ciekły hel
+
+
+
+
+
+
+
+
+
+
+
+
+

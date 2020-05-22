@@ -1,0 +1,84 @@
+Generacja drugiej harmonicznej (ang. SHG - Second Harmonic Generation) – efekt w optyce nieliniowej, polegający na otrzymaniu z fali o częstości  fali o częstości .
+
+Historia
+Zjawisko generowania drugiej harmonicznej zostało po raz pierwszy zademonstrowane w 1961 roku na Uniwesytecie Michigan w Ann Arbor przez P. A. Frankena, A. E. Hilla, C. W. Petersa i G. Weinreicha. Zastosowali oni laser rubinowy, generujący światło o dużej intensywności oraz monochromatyczności. Promieniowanie z lasera zostało skierowane na kryształ kwarcu, w wyniku czego obok promieniowania o długości 694 nm, które przechodziło przez kryształ, pojawiło się również promieniowanie o długości fali 347 nm.
+
+Opis zjawiska
+Padająca na ośrodek fala elektromagnetyczna powoduje jego polaryzację, co można zapisać w postaci poniższego wzoru:
+
+gdzie poszczególne składowe wektora P można przedstawić wzorem:
+
+gdzie:
+
+P - polaryzacja
+
+ - przenikalność elektryczna próżni,
+
+ - kolejne rozwinięcia podatności elektrycznej,
+
+ - natężenie pola elektrycznego,
+
+ - składowe tensora podatności elektrycznej,
+
+ - i-ta składowa natężenia pola elektrycznego.
+
+Przy zastosowaniu zwykłych źródeł światłą wpływ podatności 2 i 3 rzędu jest znikomy, ponieważ każda kolejna podatność jest o kilka rzędów wielkości mniejsza od poprzedniej. Aby zobaczyć efekty nieliniowe musimy użyć spójnego światła o dużym natężeniu. Można je uzyskać dzięki laserom. 
+
+Zobaczmy, co się dzieje, gdy na próbkę pada fala elektromagnetyczna (pomijamy tutaj podatności rzędu większego od 2 i zakładamy równoległość natężenia pola elektrycznego do wersora 1):
+
+gdzie skorzystaliśmy z zależności: 
+
+Jak widać otrzymaliśmy część drgającą z częstością fali wzbudzającej, część drgającą z częstością fali o podwojonej częstości fali wzbudzającej oraz czynnik stały. Jak wiadomo polaryzacja jest miarą sumy momentów dipolowych w ośrodku przypadającej na jednostkę objętości. Drgania polaryzacji wynikają z drgania momentów dipolowych wyindukowanych w ośrodku. Drgania te powodują powstanie fali elektromagnetycznej o częstości odpowiadającej częstości drgań dipoli. W ten sposób oprócz fali o częstości fali wzbudzającej otrzymujemy również falę o częstości podwojonej. Człon stały polaryzacji w ośrodku jest często używany do pomiaru natężenia generowanej drugiej harmonicznej. 
+
+Należy zauważyć również, że druga harmoniczna posiada podwojony wektor falowy w stosunku do fali wzbudzającej, natomiast jego kierunek jest niezmieniony. Mamy więc spełnioną zasadę zachowania pędu dla 3 fotonów (2 fotony fali wzbudzającej i tworzony z nich foton drugiej harmonicznej):
+
+
+
+Należy zauważyć, że warunek ten implikuje:
+
+
+
+gdzie:
+
+n - współczynnik załamania światła
+
+c - prędkość światła w próżni
+
+Jednak w zwykłym ośrodku współczynnik załamania jest różny dla różnych długości fali ze względu na jego dyspersję. Z pomocą przychodzą nam tutaj kryształy dwójłomne. Kryształy dwójłomne dzielimy na jednoosiowe i dwuosiowe. W krysztale jednoosiowym światło rozdziela się na 2 promienie – zwyczajny (radius ordinarius) oraz nadzwyczajny (radius extraordinarius), jego elipsoida współczynników załamania posiada tylko jeden przekrój w postaci koła i prostopadłą do niego oś optyczną. Natomiast w krysztale dwuosiowym mamy 2 promienie nadzwyczajne, natomiast brak jest promienia zwyczajnego. Elipsoida współczynników załamania dla takiego kryształu ma 2 przekroje w postaci koła. Każdemu przekrojowi kołowemu odpowiada jedna, prostopadła do niego oś optyczna.
+
+Promień zwyczajny oraz nadzwyczajny posiadają prostopadłe względem siebie polaryzacje światła.
+Współczynnik załamania dla promienia zwyczajnego nie ulega zmianie podczas obrotu wektora falowego, natomiast dla promienia zwyczajnego tak. Oznacza to, że może istnieć taki kąt, dla którego nastąpi zrównanie się współczynników załamania dla fali podstawowej i drugiej harmonicznej, jeśli wziąć pod uwagę odpowiednie promienie. Dodatkowo rozróżniamy kryształy jednoosiowe dodatnie oraz ujemne, w których współczynnik załamania dla promienia nadzwyczajnego jest odpowiednio nie mniejszy i nie większy od współczynnika załamania promienia zwyczajnego.
+
+Dla kryształów dwuosiowych wszystkie fale wychodzące biegną w promieniach nadzwyczajnych. Dla kryształów jednoosiowych natomiast mamy podział na 2 rodzaje dopasowania fazowego.
+Dopasowanie fazowe I rodzaju polega na uzyskaniu drugiej harmonicznej z 2 fotonów o równoległej polaryzacji.
+Dopasowanie fazowe II rodzaju polega na uzyskaniu drugiej harmonicznej z 2 fotonów o prostopadłej polaryzacji. 
+
+Możliwe sytuacje dla kryształu jednoosiowego:
+
+
+
+o - ordinarius
+
+e - extraordinarius
+
+Natężenie generacji drugiej harmonicznej wyraża się wzorem:
+
+
+
+gdzie:
+
+I - natężenie
+
+L - długość drogi w krysztale
+
+Generacja drugiej harmonicznej zachodzi efektywnie tylko na odcinku nie większym niż długość spójności:
+
+
+
+gdzie:
+
+ - długość fali podstawowej
+
+Po przebyciu takiej drogi w krysztale zaczyna zachodzić interferencja destruktywna i amplituda drugiej harmonicznej maleje.
+
+

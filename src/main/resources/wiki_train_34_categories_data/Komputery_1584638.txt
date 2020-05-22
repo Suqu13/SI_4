@@ -1,0 +1,42 @@
+Tuxedo – oprogramowanie pośredniczące będące monitorem transakcji, które nadaje się do tworzenia szkieletu systemów transakcyjnych (np. bankowych). Podstawową funkcjonalnością systemu jest zapewnienie poprawności wykonywania operacji transakcyjnych w środowisku rozproszonym.
+
+Opis
+System Tuxedo firmy BEA jest rozproszonym środowiskiem przetwarzania transakcji, którego historia sięga roku 1983. System wywodzi się z architektury OLTP (Online Transaction Processing) najczęściej stosowanej w bankowych systemach ATM (Automatic Teller Machine). BEA Tuxedo był projektem prowadzonym przez firmę AT&T, a następnie Novell. W tej chwili BEA Systems jest częścią Oracle Corporation, zaś sam system jest wciąż rozwijany i przystosowywany do nowoczesnych wymagań rynkowych.
+
+Funkcjonalność
+System Tuxedo posiada API do pisania rozproszonych aplikacji klientów w językach C/C++, COBOL, a także w technologiach .NET i Java.
+Funkcjonalność DTP (Distributed Transaction Processing) – system gwarantuje poprawność wykonywania wszelkich operacji transakcyjnych.
+System przeznaczony jest do rozproszonych rozwiązań.
+Administracja systemu możliwa jest przez aplikację webową lub narzędzia administrujące.
+Możliwość uwierzytelniania użytkowników systemu oraz zarządzania nimi – przyporządkowywanie ich do grup oraz zarządzanie prawami dostępu w systemie.
+Możliwość szyfrowania kanałów dostępu do systemu (SSL).
+Transparentny dostęp do rozproszonych serwisów, które mogą znajdować się na oddzielnych platformach/serwerach.
+Technologia Typed Buffers służąca do transparentnego przesyłu danych pomiędzy różnymi platformami.
+
+Zalety
+Duża funkcjonalność i możliwości integracji systemu z innymi technologiami dostępnymi na rynku: J2EE, .NET, programistyczne API (C/C++ lub COBOL).
+System wspiera dużą ilość platform na których może zostać uruchomiony (aktualnie ponad 50 systemów operacyjnych).
+Niewielka awaryjność – system składa się z szeregu procesów uruchomionych na różnych platformach, uszkodzenie lub błąd pojedynczych maszyn roboczych lub procesów nie skutkuje ogólną awarią systemu.
+Tuxedo jest zaprojektowane aby efektywnie przeprowadzać tysiące transakcji na sekundę w środowiskach rozproszonych, gwarantując przy tym poprawność ich wykonania. System jest w pełni skalowalny; zapewnia równoważenie obciążeń oraz monitorowanie zasobów.
+Tuxedo jest stosunkowo bezpiecznym systemem – zawiera mechanizmy uwierzytelniania użytkowników i szyfrowania połączeń (integrowalne z LDAP czy Active Directory). Do tej pory największą luką w systemie była luka wykryta w 2003 roku dotycząca panelu administracyjnego CGI.
+System jest rozwiązaniem sprawdzonym, wykorzystywanym przez wiele firm i instytucji.
+
+Wady
+Architektura systemu opiera się na starych rozwiązaniach projektowych bazujących na środowiskach statycznych – rozproszonych stacjach roboczych o niezmiennej w czasie infrastrukturze. Model ten nie przystaje do modelu komponentów rozproszonych.
+Współpraca z innymi technologiami (takimi jak Java) jest możliwa jedynie na poziomie klienta systemu.
+Jest to rozwiązanie kosztowne i wymagające wysokich kwalifikacji – nie jest polecane dla niewielkich systemów.
+
+Przykłady zastosowań
+ZUS - w oparciu o Tuxedo zbudowana jest cała warstwa biznesowa (middle tier) Komputerowego Systemu Informatycznego (KSI-ZUS).
+BRE Bank – używana w banku platforma integracyjna dla systemów finansowych iBRE, wykorzystuje system transakcyjny BEA Tuxedo.
+Narodowy Bank Polski – Tuxedo jest wykorzystywane w systemie SWAT (Szybka Warstwa Transportowa – platforma komunikacyjna dla krytycznych systemów NBP).
+Narodowy Bank Polski – w oparciu o Tuxedo zbudowana jest platforma integracyjna PIN (rozwiązanie klasy Message-driven SOA) - integruje systemy banku oraz systemy klientów NBP.
+Bank Zachodni WBK – Tuxedo jest wykorzystywane w systemie zarządzania kredytami.
+
+Zobacz też
+architektura trójwarstwowa
+Oracle WebLogic
+
+
+
+Linki zewnętrzne

@@ -1,0 +1,16 @@
+TerraSAR-X – sztuczny satelita do obserwacji radarowych Ziemi w paśmie X; pierwszy niemiecki satelita wybudowany w partnerstwie publiczno-prywatnym: państwowej Niemieckiej Agencji Kosmicznej DLR i firmy EADS Astrium. Całość projektu kosztuje około 130 mln euro. DLR wyłożyło 102 mln, a EADS Astrium około 28 mln. Czas trwania misji przewidywano na co najmniej 5 lat.
+
+Umowę o wspólnej budowie satelity podpisano w marcu 2002. Większość funduszy pochodzących od EADS została spożytkowana na marketing i przygotowanie systemu sprzedaży efektów pracy satelity, głównie na powołanie zależnej spółki Infoterra GmbH. Spółka będzie sprzedawała informacje otrzymywane za pomocą satelity. DLR będzie koordynowała naukowe wykorzystanie owych danych.
+
+TerraSAR-X wykorzystuje do obserwacji radar z syntetyczną aperturą z aktywną anteną (o wymiarach 4,8×0,8×0,15 m), pracujący na częstotliwości 9,65 GHz (pasmo X, dł. fali 3,1 cm). Rozdzielczość otrzymywanych obrazów wynosi około 1 m, przy polu widzenia 5×10 km. Dane przechowywane są w pamięci stałej o pojemności 256 Gb. Stamtąd są one wysyłane na Ziemię z prędkością do 300 Mbps, kanałem łączności w pasmie X. Radar może pracować w czterech trybach:
+punktowym (spotlight): obszar widzenia 10×10 km z rozdz. 1-2 metrów
+pasmowym (stripmap): szerokość pasa 30 km, rozdz. 3-6 m
+szerokim (scanSAR): szerokość pasa 100 km, rozdz. 16 m
+interferometrycznym
+
+Statek krąży po orbicie polarnej, heliosynchronicznej. Częstość przechodzenia nad tym samym terenem wynosi około 11 dni. Statek zużywa do 800 W (średnio 605 W) energii elektrycznej. Oprogramowanie statku zapewniła ESA. Pozycję statku w przestrzeni kontroluje system 8 silniczków odrzutowych na hydrazynę, o ciągu 1 N.
+
+Satelita zbiera różne dane geologiczne (wysokość terenu, ruchy skorupy ziemskiej), geograficzne (mapy, gleby, hydrologia), meteorologiczne i środowiskowe (monitorowanie lasów, obszarów rolnych, planowanie przestrzeni, ochrona środowiska i zarządzanie kryzysowe).
+
+Bibliografia
+Linki zewnętrzne

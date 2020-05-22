@@ -1,0 +1,29 @@
+SACLOS (skrót od Semi-Automatic Command to Line of Sight – półautomatyczne kierowanie po linii obserwacji) – metoda naprowadzania pocisków kierowanych drugiej generacji. Po wystrzeleniu pocisku, operator ma za zadanie utrzymanie celownika na celu, podczas gdy system elektroniczny sam naprowadza pocisk na cel. Metoda jest podobna do metody MCLOS – również wymaga aby cel i pocisk były widoczne, z tą różnicą, że operator nie steruje samodzielnie pociskiem lecz sterowaniem zajmuje się system kierowania, który na obserwowany przez operatora cel naprowadza pocisk. Zadaniem systemu kierowania jest utrzymanie celu i pocisku w jednej linii względem operatora (celowniczego).
+
+Naprowadzanie radiowe i przewodowe
+W przypadku naprowadzania radiowego i przewodowego, system kierowania znajdujący się na wyrzutni, wypracowuje poprawki które przekazywane są do pocisku drogą radiową lub przewodową (w zależności od rodzaju naprowadzania stosowanego przez pocisk). Wadą naprowadzania radiowego jest możliwość zakłócenia sygnału radiowego, zaś wadą naprowadzania przewodowego jest zasięg limitowany długością przewodu, ponadto istnieje możliwość uszkodzenia połączenia przewodowego w trakcie lotu pocisku.
+
+Naprowadzanie laserowe
+W przypadku naprowadzania laserowego, operator oświetla cel wiązką lasera. Pocisk naprowadza się na promień laserowy odbity od celu lub naprowadza się na wiązkę lasera podążając jej śladem.
+
+Naprowadzanie radarowe
+W przypadku naprowadzania radarowego, operator oświetla cel wiązką radarową. Pocisk naprowadza się na sygnał radarowy odbity od celu lub naprowadza się na wiązkę radarową podążając jej śladem. Naprowadzanie radarowe wykorzystywane było głównie w przypadku rakietowych pocisków przeciwlotniczych. Naprowadzanie w wiązce radarowej było jednak mało precyzyjne i posiadało krótki zasięg (ze względu na charakterystykę wiązki radarowej), zaś bezpośrednie naprowadzanie na odbity sygnał radarowy miało niską efektywność energetyczną (pocisk podążał do celu po mało efektywnej trajektorii) co utrudniało zwalczanie celów poruszających się z dużą prędkością.
+
+Pociski kierowane metodą SACLOS
+Naprowadzane radiowo lub przewodowo:
+BGM-71 TOW
+9K113 Konkurs
+MILAN
+Naprowadzane laserowo:
+Starburst
+Starstreak
+9M133 Kornet
+Ingwe
+Naprowadzane radarowo:
+RS-1U
+9K33 Osa
+
+Zobacz też
+MCLOS
+
+Linki zewnętrzne

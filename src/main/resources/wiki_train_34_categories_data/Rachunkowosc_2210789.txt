@@ -1,0 +1,17 @@
+Kalkulacja podziałowa ze współczynnikami.''' - metoda stosowana wtedy, gdy jednostka gospodarcza wytwarza w sposób masowy kilka prostych produktów najczęściej w oparciu o te same surowce. Wytwarzane wyroby często różnią się rozmiarem, formą, złożonością zdobienia itp.
+
+W kalkulacji podziałowej ze współczynnikiem szczególnie istotne jest wyrażenie produkcji różnych wyrobów jednym miernikiem (w jednostkach umownych). W tym celu stosuje się współczynniki. Podstawą ich określenia może być ciężar wyrobów, ich powierzchnia lub pracochłonność. W przypadku bardzo prostych pod względem technologicznym wyrobów możliwe jest zastosowanie w przeliczeniu na jednostki umowne jednego współczynnika, natomiast w przypadku produktów złożonych wymagane jest opracowanie i zastosowanie odrębnych współczynników dla poszczególnych pozycji kalkulacyjnych.
+
+Etapy procedury kalkulacji w metodzie podziałowej ze współczynnikami:
+
+Obliczenie rozmiaru produkcji,
+Wyrobów, których produkcję rozpoczęto w ubiegłym roku
+Wyrobów, których produkcję rozpoczęto i zakończono w bieżącym roku
+Wyrobów, których produkcję rozpoczęto w bieżącym roku, ale jeszcze nie zakończono
+Określenie stopnia przetworzenia remanentów.
+Ustalenie współczynników.
+Ustalenie sumy liczby jednostek współczynnikowych dla każdej pozycji kalkulacyjnej.
+Obliczenie kosztu wytworzenia jednostki współczynnikowej.
+Obliczenie jednostkowego kosztu wytworzenia wyrobu gotowego i produktu nie zakończonego.
+
+

@@ -1,0 +1,40 @@
+
+Rozpraszanie Rayleigha – zjawisko rozpraszania światła na cząsteczkach o rozmiarach mniejszych od długości fali rozpraszanego światła. Występuje przy rozchodzeniu się światła w przejrzystych ciałach stałych i cieczach, ale najbardziej efektownie objawia się w gazach. Rozpraszanie Rayleigha na cząsteczkach atmosfery jest przyczyną błękitnego koloru nieba. Nazwa zjawiska pochodzi od nazwiska Lorda Rayleigha.
+
+Rozpraszanie pojedynczej cząstki
+Długo sądzono, że za błękitną barwę nieba odpowiedzialne są zanieczyszczenia obecne w powietrzu. Dopiero Rayleigh wykazał, że jest ona związana z rozpraszaniem przez cząsteczki azotu i tlenu. Rayleigh przyjął, zgodnie z założeniami fizyki klasycznej, że rozpraszanie następuje w wyniku pobudzenia do drgań w rozpraszającym ciele cząstki obdarzonej ładunkiem elektrycznym. Drgająca cząstka (zazwyczaj elektron) zachowuje się tak jak dipol (antena dipolowa) wypromieniowując energię pobudzenia jako falę elektromagnetyczną o tej samej częstotliwości jaka ją pobudziła, zależnie od kierunku względem dipola, najwięcej w kierunku prostopadłym do dipola, a wcale w kierunku wzdłuż dipola. Dla dipola znacznie krótszego od długości fali jego promieniowanie jest proporcjonalne do czwartej potęgi jego długości.
+
+Intensywność I światła docierającego do obserwatora w wyniku rozproszenia przez jedną małą kulistą cząstkę, dla niespolaryzowanego światła o długości fali λ i intensywności światła padajacego I0''''' określa:
+gdzie:
+R – odległość do cząstki,
+θ – kąt rozproszenia,
+n – współczynnik załamania światła materiału cząstki,
+d – średnica cząstki.
+
+Ze wzoru tego wynika, że:
+rozproszenie światła zależy silnie od długości fali świetlnej (w 4. potędze),
+światło jest rozpraszane we wszystkich kierunkach,
+występująca zależność od kąta rozproszenia jest niewielka,
+światło rozproszone w przód ma takie samo natężenie jak światło rozproszone wstecz.
+
+Polaryzacja światła rozproszonego
+W powyższym wzorze fragment  wynika z różnego rozproszenia światła o różnych polaryzacjach. Składnik pierwszy (1) określa rozproszenie światła o polaryzacji prostopadłej do płaszczyzny wyznaczonej przez punkty źródło światła – rozpraszająca cząstka – obserwator, określa on że rozpraszanie tej składowej nie zależy od kąta rozproszenia. Składnik () określa rozproszenie światła o polaryzacji równoległej do płaszczyzny padania – rozproszenia, składnik ten zależy od kąta rozproszenia i jest równy zero dla kąta prostego. Oznacza, to że światło rozproszone pod kątem prostym jest spolaryzowane liniowo. Zjawisko to odpowiada za częściową polaryzację błękitu nieba.
+
+Rozpraszanie od wielu cząstek
+Intensywność rozpraszania od wielu cząstek we wszystkich kierunkach zależy od rozmiaru cząsteczek, długości fali światła. W szczególności, w przypadku rozpraszania Rayleigha, współczynnik rozpraszania i natężenie rozpraszanego światła są odwrotnie proporcjonalne do czwartej potęgi długości fali światła (zależność znana jako prawo Rayleigha).
+
+Współczynnik rozpraszania Rayleigha ks wyraża się wzorem:
+gdzie:
+m – liczba cząstek rozpraszających
+d – średnica cząstek
+n – współczynnik załamania
+λ – długość fali
+
+Silna zależność intensywności rozpraszania  od długości fali (~λ-4) oznacza, że światło niebieskie jest rozpraszane silniej niż czerwone. Przy przejściu promienia przez atmosferę będzie to oznaczać, że fotony niebieskie są rozpraszane silniej niż fotony o większej długości fali. W rezultacie rozproszone światło niebieskie dociera do nas ze wszystkich stron nieba, podczas gdy inne długości fal rozchodzą się prosto od słońca, rozpraszane w znacznie mniejszym stopniu.
+
+Rozpraszanie światła na cząsteczkach o rozmiarach porównywalnych lub większych od długości fali świetlnej opisuje rozwiązanie  Mie.
+
+
+
+
+

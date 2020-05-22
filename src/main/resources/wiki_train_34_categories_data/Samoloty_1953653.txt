@@ -1,0 +1,31 @@
+Lockheed Martin RQ-170 Sentinel – amerykański bezzałogowy aparat latający (dron) o obniżonej skutecznej powierzchni odbicia radiolokacyjnego. Zaprojektowany w zakładach Skunk Works należących do Lockheed Martin dla United States Air Force.
+
+Historia
+Od 2007 roku w mediach pojawiały się doniesienia o nowym, niezidentyfikowanym amerykańskim samolocie bezzałogowym, wykonanym w technologii obniżającej skuteczną powierzchnię odbicia radiolokacyjnego. Informacje na jego temat są nadal nieliczne i w głównej mierze opierają się na domysłach. Maszyna powstała prawdopodobnie jako wynik wcześniejszych doświadczeń Lockheeda z aparatami Lockheed Martin P-175 Polecat oraz RQ-3 DarkStar. Według niektórych źródeł powstanie RQ-170 związane jest z incydentem, jaki miał miejsce 1 kwietnia 2001 roku, kiedy to amerykański samolot rozpoznania elektronicznego EP-3A ARIES II zderzył się w powietrzu z chińskim myśliwcem Shenyang J-8 u wybrzeży wyspy Hajnan na Morzu Południowochińskim. W wyniku kolizji samolot został zmuszony do lądowania na terytorium Chin. Ówczesny sekretarz obrony Donald Rumsfeld zwołał tajną naradę, podczas której zastanawiano się, jak w przyszłości uniknąć systuacji, w której samoloty zwiadowcze wraz z załogą, tajnymi dokumentami i wyposażeniem dostają się w obce ręce. Rozwiązaniem zaistniałego problemu było rozpoczęcie nowego programu budowy bezzałogowych, trudno wykrywalnych samolotów rozpoznawczych. Z dużym prawdopodobieństwem efektem nowego projektu jest RQ-170 Sentinel. Dzięki swoim osiągom jest on w stanie prowadzić misje rozpoznawcze u granic takich państw jak Chiny i Iran. 
+
+W grudniu 2009 roku światowe media obiegły zdjęcia niezidentyfikowanego, bezzałogowego samolotu kołującego na lotnisku w Kandaharze w Afganistanie. Prasa nowej maszynie nadała przydomek "Bestia z Kandaharu". 7 grudnia 2009 roku US Air Force ogłosił, że jest to całkowicie nowy UAV oznaczony jako RQ-170 Sentinel, który na terenie Afganistanu od 2007 roku wykonuje misje zwiadu taktycznego, skierowane przeciwko talibom. Prawdopodobnie jednak Afganistan jest jedynie poligonem doświadczalnym dla RQ-170. Bezcelowe wydaje się użycie maszyny o tak wyrafinowanej konstrukcji przeciwko partyzantom, pozbawionym systemów obrony przeciwlotniczej, gdzie sprawdzają się doskonale zdecydowanie prostsze w budowie i tańsze maszyny typu IAI Hermes, Elbit Hermes 450 czy wypożyczony od izraelskiego producenta Aeronautics Aerostar na służbie Polskiego Kontyngentu Wojskowego w Afganistanie. Prawdopodobnym jest, iż RQ-170 wykonuje misje zwiadowcze skierowane przeciwko innym celom, niż afgańscy talibowie. a fakt przechwycenia przez Iran aparatu około 200 km od afgańskiej granicy uwiarygadnia ten pogląd. Jak do tej pory nie ujawniono oficjalnych danych technicznych Sentinela.
+
+Służba
+RQ-170 jest na wyposażeniu 30 Dywizjonu Rozpoznawczego (''30th Reconnaissance Squadron) z bazy Tonopah w Nevadzie wchodzącego w skład 432 skrzydła (''432d Air Expeditionary Wing). Od 2007 roku Sentinel używany jest operacyjnie w Afganistanie. Według niepotwierdzonych doniesień w 2009 roku, aparat działający z bazy w Osan w Korei Poludniowej miał wykonywać misje zwiadowcze nad terytotium północnego sąsiada.
+
+Według niepotwierdzonych informacji, RQ-170 wspierał działania żołnierzy United States Navy SEALs podczas operacji Włócznia Neptuna. Jej rezultatem było zabicie Osamy bin Ladena w jego kryjówce w pakistańskim Abbottabadzie.
+
+Przechwycenie aparatu przez Iran
+Na początku grudnia 2011 irańskie media podały do wiadomości, że irańskie służby specjalne przejęły kontrolę nad jedną z maszyn RQ-170, latającą nad wschodnią granicą tego państwa. 8 grudnia 2011 władze Iranu opublikowały zdjęcia dokumentujące ten samolot w niemal nienaruszonym stanie. Według rządu USA samolot należał do CIA, a nie do ISAF. Maszyna została przechwycona 4 grudnia 2011 roku około 200 km od granicy z Afganistanem w rejonie miasta Kashmar w prowincji Chorasan-e Rezawi. Nie jest jasne, w jaki sposób Irańczykom udało się przechwycić aparat. Jego zewnętrzny stan wskazuje na to, że nie było to klasyczne przechwycenie i zestrzelenie maszyny. Oficjalne źródła irańskie podają, że jednostce Korpusu Strażników Rewolucji udało się zakłócić łączność aparatu ze stacją kontroli i zmusić go do lądowania. Biorąc pod uwagę fakt, że maszyna jest w stanie samodzielnie i w pełni autonomicznie wykonywać swoje misje, możliwe jest również, że doszło do zakłócenia pracy któregoś z systemów pokładowych Sentinela, który spowodował natychmiastowe wykonanie manewru lądowania. Możliwe jest również, że doszło do zwyczajnej awarii bezzałogowca, który nie był zdolny do dalszego kontynuowania akcji i wylądował na terytorium Iranu. Na pokazanych przez irańską telewizje zdjęciach, spód aparatu i jego podwozie są zasłonięte. Możliwe, że podczas lądowania doszło do uszkodzenia tej części maszyny. Według nieoficjalnych źródeł celem misji Sentinela było rozpoznanie irańskich instalacji nuklearnych. 12 grudnia Stany Zjednoczone oficjalnie zwróciły się do rządu Iranu z prośbą o zwrot aparatu, jednak Iran odmówił.
+
+Konstrukcja
+W celu obniżenia skutecznej powierzchni odbicia radiolokacyjnego RQ-170 został zaprojektowany w układzie latającego skrzydła. Wlot powietrza do silnika znajduje się nad krawędzią natarcia płata. Tunel dolotowy do silnika opływa kadłub od góry, zaginając się w celu osłonięcia łopatek pierwszego stopnia sprężarki silnika. Prawdopodobnie napędzany jest pojedynczym silnikiem turboodrzutowym General Electric TF34 lub jego wariantem. Podwozie chowane, trójpodporowe z przednim podparciem. W konstrukcji aparatu wykorzystano materiały kompozytowe.
+
+
+
+Bibliografia
+Iranian TV shows downed US drone, BBC News, 8 December 2011 http://www.bbc.co.uk/news/world-middle-east-16098250
+Frank Gardner, Why Iran's capture of US drone will shake CIA, BBC News, 8 December 2011 http://www.bbc.co.uk/news/world-us-canada-16095823
+Tomasz Hypki, Iran przechwycił RQ-170'', "Raport", nr 12 (2011), s. 40-41, .
+
+
+
+
+
+
+

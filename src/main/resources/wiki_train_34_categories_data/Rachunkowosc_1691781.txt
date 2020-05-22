@@ -1,0 +1,14 @@
+Robocizna, to praca włożona w wykonanie określonej czynności lub przedmiotu.
+
+Pojęcie robocizny, jej miara i wartościowanie, ma istotne znaczenie w kosztorysowaniu i harmonogramowaniu zadań inwestycyjnych w wielu dziedzinach, przede wszystkim w budownictwie, górnictwie, budowie okrętów, i innych.
+
+Tworząc kosztorys w metodzie kalkulacji szczegółowej, wyznacza się wartość kosztorysową robót, której jednym ze składników jest koszt robocizny. Koszt ten wyznacza się jako sumę iloczynów jednostkowych nakładów rzeczowych robocizny poszczególnych czynności wchodzących w skład całego procesu i stawki robocizny (ceny jednostkowej robocizny). Nakłady ponoszone na robociznę (ich koszt), są również uwzględniane przy wyznaczaniu wartości: kosztów pośrednich i zysku; wartości te wchodzą w skład wartości kosztorysowej całego szacowanego zadania.
+
+Jednostkowe nakłady rzeczowe robocizny są wielkością wyrażoną w roboczogodzinach [r-g]. Przykładowo jeżeli nakład robocizny na wymurowanie 1 m2 ściany wynosi 1 r-g, to oznacza, ze 1 robotnik wymuruje w ciągu 1 godziny 1 m2 ściany. Aby w ciągu 2 godzin wymurować 10 m2 ściany potrzeba 5 robotników. W ten sposób można przeliczać i kształtować w zależności od potrzeb terminy wykonania robót i wielkość niezbędnego zatrudnienia do realizacji danej robocizny w określonym okresie. Wielkość nakładów jednostkowych można oszacować samodzielnie, przeważnie jednak kosztorysant korzysta z gotowych katalogów dostępnych w postaci publikacji, bądź współcześnie dostarczanych razem z odpowiednimi aplikacjami komputerowymi przeznaczonymi do kosztorysowania bądź harmonogramowania, są to takie katalogi jak np. KNR, KSNR, KNNR, KNP itd..
+
+Również stawka robocizny może być wyznaczona samodzielnie bądź przyjęta z odpowiednich publikacji podających dla poszczególnych branż stawki uśrednione dla określonego czasu, np. publikacje BISTYP oraz SEKOCENBUD. Stawka ta jest wyrażana w jednostce pieniężnej za roboczogodzinę, np. zł/r-g.
+
+W przywilejach lokacyjnych, pan-właściciel gospodarstwa zastrzegał sobie ''"robociznę"'' do uprawy ziemi. Obszar pańskich gruntów ornych zazwyczaj nie przekraczał paru łanów i robocizna była najczęściej nieznaczna (wynosiła zwykle 2-4 dni w roku).
+
+
+

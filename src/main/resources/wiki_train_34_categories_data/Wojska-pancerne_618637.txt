@@ -1,0 +1,5 @@
+'''37 mm armata czołgowa wz. 37 Bofors – armata czołgowa kalibru 37 mm z okresu międzywojnnego, będąca wariantem armaty przeciwpancernej Boforsa.
+
+Armata czołgowa wz. 37 została bezpłatnie opracowana w firmie Bofors, z przeznaczeniem dla czołgu 7TP. Armata ta miała w pełni wymienną lufę z armatą przeciwpancerną wz. 36. W przypadku czołgu 7TP działo osadzono w jarzmie, które zapewniało kąt podniesienia lufy w granicach od -10° do +20°. Ponadto armatę montowano w prototypach czołgów 9TP i 10TP.
+
+Bibliografia

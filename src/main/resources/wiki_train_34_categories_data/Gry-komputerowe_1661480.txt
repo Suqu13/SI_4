@@ -1,0 +1,12 @@
+Counter-Strike Online – remake gry , skierowany na azjatycki rynek gier. Opracowany przez Nexon Corporation pod nadzorem posiadacza licencji – Valve Software.
+
+Rozgrywka
+Counter-Strike Online zawiera pięć trybów gry: normalny, deathmatch, team deathmatch, zombie mode oraz zombie mode 2.
+Normalny – rozgrywka bez zmian.
+Deathmatch – gracze odradzają się po 3 sekundach po zabiciu w losowym miejscu na mapie.
+Team deathmatch – gracze odradzają się po 3 sekundach po zabiciu na swoim respawnie.
+Zombie mode oraz zombie mode 2 – tryby zombie zmodyfikowane specjalnie dla tej edycji gry.
+
+
+
+Linki zewnętrzne

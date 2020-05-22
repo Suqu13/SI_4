@@ -1,0 +1,26 @@
+
+
+TI-83''', TI-83 Plus, TI-83 Plus Silver Edition – programowalne kalkulatory graficzne firmy Texas Instruments. TI-83 ukazał się w roku 1996 i jest maszyną opartą na kalkulatorze TI-82. TI-83 został wyposażony w monochromatyczny wyświetlacz ciekłokrystaliczny o rozdzielczości 96x64 punkty, 256 kB pamięci ROM i 32kB pamięci RAM (27kB dostępne dla użytkownika). Centralnym układem TI-83 jest procesor Z80 pracujący z częstotliwością 6 MHz (15 MHz w przypadku Silver Edition). Kalkulator jest zasilany 4 bateriami typu AAA.
+
+Funkcje
+TI-83 umożliwia:
+kreślenie wykresów:
+w układach współrzędnych prostokątnych i biegunowych
+parametrycznych
+nierówności
+ciągów
+całek
+statystycznych
+przeprowadzanie analizy funkcji
+operowanie na listach i tabelach
+rozwiązywanie równań i nierówności
+rozwiązywanie zadań z zakresu kombinatoryki
+przeprowadzanie testów logicznych
+całkowanie i różniczkowanie
+
+TI-83 jest programowalny. Można wykonywać na nim programy napisane w BASICu i assemblerze.
+
+Bibliografia
+TI-83 Graphing Calculator Guidebook, 1996, Texas Instruments Inc.
+
+Linki zewnętrzne

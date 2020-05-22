@@ -1,0 +1,29 @@
+TopRally.net – internetowa gra typu on-line, w której gracz wciela się w menedżera zespołu rajdowego. Gra działa od lutego 2004. Jest to produkt polski. Dostępna jest w wielu wersjach językowych.
+
+System gry
+TopRally to pierwszy i jedyny na świecie menadżer rajdowy. Gra rozgrywana jest w czasie rzeczywistym – online. Powstała w Polsce i jest dostępna w 14 wersjach językowych. Zarejestrowanych jest kilka tysięcy graczy z całego świata. Sezon w TR trwa 11 tygodni (tydzień trwa od soboty do piątku), pierwszy tydzień to tzw. kolejka zerowa, czyli przerwa między sezonowa – jest to tydzień, podczas którego nie odbywają się żadne rajdy ligowe (odbywają się za to Rajdy Mistrzów). Rozgrywki odbywają się w 18 krajach. W Polsce jest pięć poziomów lig (I liga, trzy II ligi, dziewięć III lig, 27 IV lig i 81 V lig). O jeden poziom ligi spadają zespoły, które pod koniec sezonu zajmują 15 najniższych miejsc, a o poziom wyżej awansuje 5 najlepszych zespołów. Jeżeli zespół zakończy sezon na podium, to na początku kolejki zerowej otrzyma stosowny puchar, który od tego momentu będzie widoczny w biurze zespołu.
+
+Zespół
+Zespół składa się z zawodników i samochodów. Załogę składającą się z dwóch zawodników (kierowcy i pilota) i samochodu można zgłosić do rajdu lub na Test OS (gdzie można testować samochód i ustawienia). Każdy zawodnik i każdy samochód ma swój unikatowy, niepowtarzalny identyfikator w postaci ciągu kilku cyfr.
+
+Handel
+Pomiędzy zespołami możliwy jest handel zawodnikami i samochodami. Handel w TopRally ma postać aukcji. Sprzedaż nie jest jednak jedynym sposobem na pozbycie się części zespołu. Zawodnika (samochód) można również zwolnić (zezłomować). Wtedy przestaje on istnieć w świecie TopRally.
+
+Komunikacja między graczami
+Gra ma swoje forum globalne, dodatkowo każdy kraj ma swoje forum krajowe, a każda liga-ligowe. Swoje fora mają również grupy rajdowe, do którego dostęp mają jedynie członkowie danej grupy. Każdy gracz może także napisać wiadomość do innego gracza, której nie zobaczy nikt poza adresatem (tzw. priv).
+
+TR Manager
+TR Manager to program pozwalający na przeglądanie informacji, których zebranie bez jego pomocy jest niemożliwe lub trudne i czasochłonne. Program można wykupić oddzielnie, jest również częścią pakietu MaxiTR.
+
+Płatne rozszerzenie (MaxiTR)
+W TopRally każdy gracz posiada możliwość wykupienia płatnej usługi MaxiTR. Rozszerza to wachlarz dostępnych opcji o m.in. możliwość przystąpienia do jednej z grup rajdowych, posiadanie loga zespołu, pisanie informacji prasowych czy też śledzenie załóg podczas rajdu na wirtualnej mapce.
+
+Grupy rajdowe i LGR
+Po wykupieniu MaxiTR można dołączyć do jednej z istniejących grup rajdowych lub założyć własną.
+
+LGR (Liga Grup Rajdowych)''' to rozgrywki pomiędzy grupami. Odbywają się one na podobnej zasadzie co rywalizacja w lidze, jednak punkty zdobyte przez nominowanych są mnożone przez współczynniki odpowiadające ich poziomom ligowym i dodawane do puli punktów grupy. Grupa, która pod koniec sezonu ma najwięcej punktów, wygrywa.
+
+Linki zewnętrzne
+– TopRally: Rally Team’s Manager
+
+

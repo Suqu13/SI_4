@@ -1,0 +1,54 @@
+Makroglobulinemia Waldenströma (łac. Waldenström macroglobulinaemia, ang. Waldenström macroglobulinemia) – pierwotna makroglobulinemia, charakteryzująca się układowym rozrostem komórek limfoplazmocytowych wytwarzających immunoglobulinę o dużej masie cząsteczkowej w szpiku kostnym, węzłach chłonnych i w śledzionie. Klasyfikowana jako chłoniak nieziarniczy określana jest jako chłoniak limfoplazmocytowy z dojrzałych komórek B. Produkowane białko wykrywane jest we krwi jako białko monoklonalne klasy IgM. Chorobę jako pierwszy opisał szwedzki internista Jan Gösta Waldenström.
+
+Epidemiologia
+Makroglobulinemia Waldenströma jest rzadką chorobą, o zapadalności rocznej szacowanej na 2:1&nbsp;000&nbsp;000 u kobiet i 3:1&nbsp;000&nbsp;000 u mężczyzn. Mediana wieku w momencie rozpoznania przypada na 60-65 lat.
+
+Etiologia
+Etiologia makroglobulinemii Waldenströma nie jest znana. Rodzinne występowanie choroby u bliźniąt sugeruje udział czynników genetycznych w patogenezie choroby. Choroba częściej dotyka chorych z wirusowym zapaleniem wątroby C i po ekspozycji na promieniowanie jonizujące. Blisko 50% pacjentów z WM ma delecję długiego ramienia chromosomu 6. Czynnikiem predysponującym jest poprzedzająca MGUS.
+
+Objawy i przebieg
+Na obraz kliniczny choroby składają się:
+osłabienie, męczliwość, nawracające krwawienia z nosa
+objawy zespołu nadmiernej lepkości
+gorączka, poty nocne, utrata masy ciała
+bóle kostne (rzadko)
+objawy neurologiczne: obwodowa, symetryczna neuropatia czuciowo-ruchowa (parestezje, osłabienie siły mięśniowej, bardziej wyrażone w kończynach dolnych, zaburzenia widzenia, objaw Raynauda, bóle i zawroty głowy)
+nawracające zakażenia
+limfadenopatia
+hepatomegalia lub splenomegalia
+zmiany na dnie oka
+skaza krwotoczna.
+
+Typy
+typ limfoplazmocytowy
+typ limfoplazmocytoidalny
+typ polimorficzny
+
+Rozpoznanie
+Rozpoznanie stawiane jest na podstawie:
+obecności białka monoklonalnego IgM w surowicy
+stwierdzenia nacieczenia szpiku małymi limfocytami różnicującymi się w kierunku plazmocytów
+immunofenotypem komórek: IgM+, CD5±, CD10-, CD19+, CD20+, CD23-, bez CD138.
+
+Różnicowanie
+szpiczak plazmocytowy
+przewlekła białaczka limfatyczna
+łagodna gammapatia monoklonalna IgM
+
+Leczenie
+Wskazaniem do leczenia cytostatycznego jest wystąpienie objawów klinicznych choroby: objawów ogólnych, niedokrwistości, objawowej organomegalii, polineuropatii, zespołu nadlepkości.
+Leki alkilujące, analogi nukleozydów i rituksymab są lekami pierwszego rzutu w leczeniu makroglobulinemii Waldenströma. Skuteczne są również kladrybina i fludarabina. Łączenie leków alkilujących, analogów nukleozydów i rituksymabu powinno być oparte na wynikach aktualnych badań klinicznych. Rituksymab u części pacjentów może powodować działania niepożądane, takie jak wzrost stężenia IgM i lepkości surowicy. W nawrotach choroby zaleca się stosowanie alternatywnych leków pierwszego rzutu lub ponowne zastosowanie tego samego leku.
+Autologiczny przeszczep komórek macierzystych szpiku kostnego również może odgrywać znaczącą rolę w leczeniu nawrotów.
+W nawrotach u pacjentów nietolerujących leczenia mielotoksycznego do rozważenia (pozostawia się możliwości lecznicze – talidomid lub talidomid z deksametazonem.
+U pacjentów nie idących na leczenie lub z nawrotami można rozważyć autologiczny przeszczep komórek pnia. Przeszczep allogeniczny powinno się przeprowadzać jedynie w warunkach badania klinicznego.
+Plazmafereza powinna być leczeniem tymczasowym, do momentu włączenia leczenie ostatecznego.
+Kortykosteroidy mogą być skuteczne w objawowej mieszanej krioglobulinemii.
+Splenektomia stosowana jest rzadko, ale zalecana jest w leczeniu bolesnej splenomegalii i hipersplenizmu.
+
+
+
+Bibliografia
+Zobacz też
+zespół Binga-Neela
+
+Linki zewnętrzne

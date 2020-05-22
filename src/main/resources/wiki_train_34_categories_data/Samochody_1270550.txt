@@ -1,0 +1,12 @@
+BA-30''' (ros. БА-30'') – radziecki lekki samochód pancerny wyprodukowany w krótkiej serii w 1937 roku. Nie przyjęty do uzbrojenia i w związku z tym nie produkowany seryjnie.
+
+Historia
+W 1936 roku na uzbrojenie RKKA trafił samochód pancerny BA-20. Był to lekki, czterokołowy pojazd mający zastąpić starsze pojazdy typu FAI. BA-20 podobnie jak FAI był pojazdem przeznaczonym głównie do poruszania się po drogach utwardzonych. W terenie z powodu znacznych nacisków jednostkowych i przeciążenia tylnej osi BA-20 często grzęzł.
+
+W 1937 roku w NATI powstał prototyp BA-30 który miał mieć znacznie lepsze osiągi w terenie niż BA-20. Osiągnięto to poprzez zastosowanie podwozia półgąsienicowego.  został skonstruowany z użyciem wielu podzespołów przejętych z innych sowieckich pojazdów produkowanych pod koniec lat 30. podwozie pojazdu było zbliżone do zastosowanego w FAI. Tylny most zastąpiono gąsienicowym układem jezdnym o konstrukcji podobnej jak w ciężarówce półgąsienicowej GAZ-60. Miał on dwa duże i cztery małe koła jezdne, oraz pojedynczą rolkę biegu wstecznego gąsienicy. Kadłub pancerny miał konstrukcję zbliżoną do kadłuba BA-20. W przedniej części samochodu pancernego umieszczono czterocylindrowy silnik gaźnikowy GAZ-M1 o mocy 50 KM (37 kW). Silnik był osłonięty stalowym pancerzem o grubości 6mm. Za silnikiem znajdował się przedział załogi. W jego przedniej części swoje miejsca miał kierowca i dowódca. Trzecim członkiem załogi był strzelec obsługujący czkm DT umieszczony w obrotowej wieży identycznej z zastosowaną w BA-20. Pojazd był wyposażony w radiostację 70-TK-1.
+
+Wyprodukowano krótką serię BA-30. Były one testowane, ale ostatecznie do uzbrojenia nie trafiły. Stało się tak ponieważ pojazd został uznany przez wojskowych za zbyt ciężki. Pojazd posiadał uzbrojenie identyczne jak BA-20, ale jego masa była o dwie tony większa, tylko o kilkaset kilogramów mniejsza od masy silniej uzbrojonych trójosiowych średnich samochodów pancernych BA-6.
+
+Pomimo decyzji o zakończeniu rozwoju BA-30 kilka pojazdów z serii prototypowej wysłano na testy w warunkach bojowych które miały odbyć się podczas wojny zimowej. Informacji o przebiegu tych prób brak.
+
+Bibliografia

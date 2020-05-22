@@ -1,0 +1,66 @@
+Fotometria (astronomia)''' – pomiar jasności ciał niebieskich. 
+
+Historia
+Pierwsze próby określania jasności gwiazd sięgają czasów starożytnych. W II wieku p.n.e. grecki astronom Hipparch podzielił widoczne nieuzbrojonym okiem gwiazdy na sześć wielkości gwiazdowych, zaliczając najjaśniejsze gwiazdy do pierwszej z nich, a najsłabsze – jakie był w stanie dostrzec – do szóstej. Wielkość gwiazdowa została w sposób ścisły zdefiniowana w połowie XIX wieku przez Normana Pogsona, który ustalił, że różnicy jasności równej sześciu wielkościom gwiazdowym odpowiada stosunek natężeń oświetlenia równy 1:100. Na podstawie tej definicji można wyprowadzić zależność pomiędzy stosunkiem natężeń oświetlenia a różnicą jasności wyrażoną w wielkościach gwiazdowych dla dwóch dowolnych obiektów. Nosi ona nazwę wzoru Pogsona i ma postać
+
+,
+
+gdzie m'2 i m'1 oznaczają jasności wyrażone w wielkościach gwiazdowych, a I'1 i I'2 są natężeniami oświetleń od pierwszego i drugiego ciała.
+
+Różnicy jasności o jedną wielkość gwiazdową (magnitudo) odpowiada stosunek natężeń oświetlenia ok. 1:2,512.
+
+Skala jasności wyrażonych w wielkościach gwiazdowych (nazywana też skalą magnitudową) bardzo dobrze odpowiada subiektywnej percepcji jasności dla ludzkiego oka, opisywanej przez prawo Webera-Fechnera. Prawo to mówi, że reakcja zmysłów człowieka jest proporcjonalna do logarytmu wartości wywołującego ją bodźca.
+
+Metody pomiaru jasności
+Metody historyczne (fotometria wizualna)
+
+Metoda Argelandera – po raz pierwszy opisana w połowie XIX wieku przez niemieckiego astronoma Friedricha Argelandera, następnie udoskonalona przez rosyjskiego astronoma Siergieja Błażkę i holenderskiego astronoma Alberta Nijlanda (dokonana przez nich modyfikacja nosi nazwę metody Nijlanda-Błażki). 
+
+Metoda ta polega na wizualnej ocenie różnic jasności pomiędzy badaną gwiazdą a kilkoma gwiazdami porównania (o znanych jasnościach). Obserwator stara się opisać te różnice stosując subiektywną skalę „stopniową”, w której jeden stopień odpowiada najmniejszej różnicy jasności, jaką jest w stanie dostrzec. Obiektywna wielkość tego stopnia (wyrażona w wielkościach gwiazdowych) jest zależna od doświadczenia i czułości wzroku obserwatora. Doświadczeni obserwatorzy są w stanie osiągnąć dokładność pomiaru poniżej 0,1 magnitudo.
+
+Metoda Argelandera jest obecnie (sporadycznie) stosowana jedynie przez miłośników astronomii, dając możliwość dokonywania zgrubnych pomiarów fotometrycznych bez użycia drogiego, profesjonalnego sprzętu.
+
+Fotometr klinowy – do pomiaru jasności stosuje się sztuczną gwiazdę porównania (w postaci niewielkiego otworka oświetlonego światłem żarówki). Jasność tej sztucznej gwiazdy może być płynnie zmieniana przy wykorzystaniu tzw. klina fotometrycznego. Jest to klin wykonany z ciemnego szkła, sklejony z całkowicie przezroczystym klinem o identycznym kształcie. Poprzez przesuwanie klina zmienia się grubość przyciemnionej warstwy szkła, przez którą przechodzi światło, co zmienia stopień jego osłabienia. Pomiar polega na takim dobraniu położenia klina, żeby jasność sztucznej gwiazdy pokrywała się z jasnością mierzonego obiektu.
+
+Fotometr polaryzacyjny – jego zasada działania jest bardzo podobna do fotometru klinowego, z tą różnicą, że jasność sztucznej gwiazdy jest osłabiana przez umieszczenie na drodze światła dwóch skrzyżowanych polaryzatorów. Obracając jeden polaryzator względem drugiego można znaleźć takie położenie, w którym jasność sztucznej gwiazdy i gwiazdy badanej jest identyczna.
+
+W fotometrach wizualnych zamiast sztucznej gwiazdy wykorzystywano też czasem obraz drugiej gwiazdy o znanej jasności, której blask był w sposób mierzalny osłabiany tak, żeby zrównał się z blaskiem badanego obiektu.
+
+Fotometria fotograficzna
+W fotometrii fotograficznej wykorzystuje się fakt, że zaczernienie obrazu gwiazdy powstającego na negatywowej kliszy fotograficznej jest (w pewnym zakresie) proporcjonalne do ilości światła, która padła na kliszę. Do pomiaru zaczernienia wykorzystuje się densytometry optyczne, wyposażone w element światłoczuły w postaci komórki fotoelektrycznej lub fotorezystora. Pomiaru dokonuje się podświetlając kliszę od spodu jednolitym strumieniem światła i mierząc natężenie tego światła po przejściu przez wybrany obszar kliszy.
+
+Ponieważ maksimum czułości klisz fotograficznych przypada z reguły w innym zakresie widmowym niż maksimum czułości ludzkiego oka, dlatego jasności tego samego obiektu wyznaczone metodami wizualnymi i fotograficznymi mogą się różnić. Dotyczy to zwłaszcza klisz używanych w początkowym okresie stosowania fotometrii fotograficznej (na przełomie XIX i XX wieku), których maksimum czułości przypadało na zakres ultrafioletowy i niebieski, a które w czerwonej części widma były praktycznie „ślepe”. Jasności wyznaczone w oparciu o takie klisze nazywano „jasnościami fotograficznymi”. Z chwilą wynalezienia światłoczułej emulsji panchromatycznej możliwe stało się (przy doborze odpowiednich filtrów odcinających krótkofalową część widma) uzyskanie charakterystyki czułości klisz zbliżonej do ludzkiego oka. Jasności wyznaczone w ten sposób nazwane zostały „jasnościami fotowizualnymi”.
+
+Fotometria fotograficzna została obecnie niemal całkowicie wyparta przez fotometrię fotoelektryczną i fotometrię CCD.
+
+Fotometria fotoelektryczna
+
+
+Pierwsze próby zastosowania elektronicznych elementów światłoczułych do fotometrii astronomicznej sięgają pierwszej dekady XX wieku. Początkowo używano w tym celu komórek fotoelektrycznych, mierząc płynący przez nie prąd przy pomocy galwanometru. Ze względu na niewielką czułość komórkę fotoelektryczną zastąpiono w latach 30. XX wieku znacznie bardziej czułym fotopowielaczem.
+
+Pierwsze fotometry fotoelektryczne konstruowane były jako urządzenia jednokanałowe, wymagające w trakcie pomiaru przestawiania teleskopu z gwiazdy mierzonej na gwiazdę porównania oraz tło. Zostały one zastąpione fotometrami wielokanałowymi, umożliwiającymi równoczesny pomiar jasności z kilku pól na sferze niebieskiej bez konieczności zmiany położenia narzędzia.
+
+Przy użyciu fotometrów fotoelektrycznych zdefiniowano używany do dziś system fotometryczny Johnsona-Morgana (UBV).
+
+Fotometria CCD
+Jest to najpowszechniej obecnie stosowana metoda pomiaru jasności wykorzystująca jako element światłoczuły matrycę CCD. Umożliwia równoczesny pomiar jasności wielu obiektów znajdujących się w polu widzenia kamery. Informacja fotometryczna jest zapisywana w postaci cyfrowej (jako wartości liczbowe odpowiadające ilości światła zarejestrowanego przez kolejne piksele matrycy).
+ 
+Precyzyjny pomiar jasności wymaga uwzględnienia różnic czułości pojedynczych pikseli matrycy, położenia „zera” odczytu dla każdego piksela, jak również tzw. prądu ciemnego (szumu spowodowanego termicznym ruchem elektronów). Dokonuje się tego poprzez wykonanie szeregu obrazów kalibracyjnych (FLAT – ekspozycje jednolicie oświetlonego tła, BIAS – odczyt matrycy przy zerowym czasie integracji, DARK – odczyt matrycy przy określonym czasie integracji i zamkniętej migawce). Wpływ prądu ciemnego można w bardzo dużym stopniu zmniejszyć chłodząc matrycę do bardzo niskiej temperatury, dlatego większość profesjonalnych kamer CCD stosowanych w astronomii wyposażona jest w urządzenia umożliwiające obniżenie ich temperatury do −100&nbsp;°C, a nawet niższej (stosuje się w tym celu kilkustopniowe ogniwa Peltiera lub – rzadziej – ciekły azot).
+
+Pomiaru instrumentalnej jasności gwiazdy na zdjęciu CCD można dokonywać albo sumując zliczenia wszystkich pikseli w obrębie ustalonego (jak najmniejszego) obszaru zawierającego gwiazdę i odejmując od otrzymanej wartości sumę zliczeń dla identycznego obszaru obejmującego tło (fotometria aperturowa), albo dopasowując dwuwymiarową funkcję Gaussa do wartości zliczeń z pikseli zawierających obraz gwiazdy (fotometria profilowa).
+
+Przejścia z instrumentalnej skali jasności do skali standardowej dokonuje się porównując wyznaczoną w wyżej opisany sposób jasność badanej gwiazdy z jasnościami wybranych gwiazd porównania.
+
+Standardy fotometryczne
+Standardy fotometryczne są w astronomii zdefiniowane przez zestaw filtrów o ściśle określonych pasmach przepuszczalności. Najpowszechniej stosowanym systemem fotometrycznym jest system Johnsona-Morgana, nazywany też systemem UBV. W systemie tym początkowo stosowano trzy filtry: U (ultrafiolet), B (zakres niebieski) i V (zakres żółtozielony, od angielskiego visual, odpowiadający maksimum czułości ludzkiego oka). Później zestaw ten poszerzono o filtr R (czerwony), I (podczerwony) i kolejne.
+
+Różnica jasności gwiazdy zmierzonych w dwóch różnych filtrach (np. U-B lub B-V) nosi nazwę wskaźnika barwy. Wskaźnik barwy pozwala m.in. oszacować temperaturę gwiazdy bez konieczności uzyskania jej widma.
+
+Jasność odpowiadająca pełnemu zakresowi długości fal promieniowania elektromagnetycznego (a w praktyce przedziałowi, na który przypada znacząca część emisji danego ciała) nosi nazwę jasności bolometrycznej.
+
+Zobacz też
+bolometr
+aktywny radiometr wnękowy
+
+Bibliografia
+

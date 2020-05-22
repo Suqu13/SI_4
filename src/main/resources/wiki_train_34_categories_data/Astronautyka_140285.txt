@@ -1,0 +1,137 @@
+Voyager 2''' (pl. Podróżnik 2'') – bezzałogowa sonda kosmiczna wysłana w 1977 roku w przestrzeń kosmiczną z Przylądka Canaveral przez amerykańską agencję kosmiczną NASA. Rozpoczęcie lotu zbiegło się w czasie z bardzo korzystnym położeniem planet, które umożliwiło odwiedzenie wszystkich gazowych olbrzymów: Jowisza, Saturna, Urana i Neptuna przez jeden próbnik. Z początku zadaniem misji było dokładne zbadanie Jowisza oraz Saturna, jednak sonda sprawowała się na tyle dobrze, że przeprogramowano ją, aby przeprowadziła badania również pozostałych planet zewnętrznych. Voyager 2 przesłał obrazy wszystkich czterech planet, ich księżyców i pierścieni. Do dnia dzisiejszego jest jedyną sondą, która dotarła do Urana i Neptuna.
+
+Od września 2007 r. sonda znajduje się w obszarze płaszcza Układu Słonecznego. Jej zadaniem jest badanie krańcowych obszarów heliosfery oraz pomiar właściwości fizycznych przestrzeni międzygwiezdnej. Przewiduje się, że zasilanie w energię elektryczną wystarczy do utrzymania funkcjonowania sondy i łączności z Ziemią do około 2025 roku.
+
+Cele naukowe programu Voyager
+
+
+Głównym zadaniem misji obydwu sond Voyager była eksploracja układów Jowisza i Saturna. Po zakończonych sukcesem przelotach obok tych planet NASA wydała zgodę na przedłużenie misji sondy Voyager 2 do, kolejno, Urana i Neptuna. Głównym celem misji przedłużonej (Misja Międzygwiezdna) jest rozszerzenie eksploracji Układu Słonecznego poza planety zewnętrzne, do krańcowych obszarów heliosfery i, po przekroczeniu heliopauzy, dotarcie do lokalnego ośrodka międzygwiazdowego.
+
+Lista celów naukowych podczas misji głównej i przedłużonej znajduje się w artykule poświęconym sondzie Voyager 1.
+
+Konstrukcja sond Voyager
+
+Sonda Voyager 2 ma konstrukcję identyczną jak sonda Voyager 1.
+
+Na pokładzie każdej z sond Voyager zostało zainstalowanych 10 instrumentów naukowych. Instrumenty te, oraz system telekomunikacyjny sond, posłużyły do przeprowadzenia 11 eksperymentów, których opis znajduje się w artykule o sondzie Voyager 1.
+
+Z powodu stopniowego zmniejszania się ilości wytwarzanej energii elektrycznej, po zakończeniu fazy badania planet, kolejno wyłączane są niektóre instrumenty naukowe sondy. W pierwszej kolejności została w listopadzie 1998 roku wyłączona platforma skanująca wraz ze wszystkimi znajdującymi się na niej instrumentami. Odbiornik radiowy PRA został wyłączony 21 lutego 2008 roku.
+
+Większość spośród nadal działających instrumentów funkcjonuje prawidłowo. Szerokopasmowy odbiornik fal plazmowych wchodzący w skład instrumentu Plasma Wave Subsystem (PWS) przestał funkcjonować w sierpniu 2003 roku. W analizatorze spektralnym instrumentu PWS kanał 17,8&nbsp;Hz działa przerywanie, a 8 górnych kanałów (1&nbsp;kHz do 56&nbsp;kHz) działa ze zmniejszoną czułością. Magnetometr ma problemy z zakłóceniami generowanymi przez sondę i pozostałe instrumenty, co utrudnia analizę zbieranych danych. Zewnętrzny magnetometr został uszkodzony w 2006 roku.
+
+Do 2020 roku planowane jest utrzymanie na pokładzie Voyagera 2 pracy następujących instrumentów.
+Low-Energy Charged Particle Subsystem:
+Cosmic Ray Subsystem,
+Magnetometer,
+Plasma Wave Subsystem,
+Plasma Subsystem.
+
+Przebieg misji
+
+
+Start sondy Voyager 2 nastąpił 20 sierpnia 1977 roku. Najpotężniejsza ówczesna amerykańska rakieta nośna Titan 3E z dodatkowym stopniem na stały materiał pędny wyniosła sondę na prowadzącą ku Jowiszowi orbitę o peryhelium wynoszącym 1,0 au i aphelium 6,28 au. Wkrótce po starcie wystąpiły problemy podczas aktywacji urządzeń sondy. Brak było potwierdzenia, że wysięgnik naukowy został wyprostowany i zablokowany w prawidłowej pozycji. Późniejsze testy potwierdziły prawidłową pozycję wysięgnika, błędnie natomiast działał czujnik jego położenia. Wystąpiły też problemy z komputerowym systemem sterowania sondy, co zmusiło inżynierów do jego przeprogramowania.
+
+15 grudnia 1977 r. Voyager 2 został prześcignięty przez wystrzeloną szesnaście dni później, ale wprowadzoną na szybszą trajektorię, sondę Voyager 1. W tym momencie wzajemna odległość między sondami wynosiła 17 mln km.
+
+6 kwietnia 1978 r. doszło do awarii głównego odbiornika radiowego sondy. Komputer pokładowy przełączył odbiornik na zapasowy, który jednak okazał się uszkodzony - niesprawny był kondensator obwodu strojenia. Awaria ta groziła utratą całej misji i inżynierom z JPL zajęło kilka miesięcy opracowanie procedur umożliwiających sprawne przesyłanie rozkazów na sondę.
+
+Jowisz
+
+
+24 kwietnia 1979 r. Voyager 2 zaczął wykonywać pierwsze fotografie Jowisza, tworzące film ukazujący cyrkulację atmosferyczną planety. 2 lipca sonda osiągnęła granice jowiszowej magnetosfery.
+
+8 lipca 1979 r. sonda zbliżyła się do księżyca Kallisto na odległość 214 930&nbsp;km. 9 lipca, zbliżając się do Jowisza, sonda przeleciała kolejno obok Ganimedesa (minimalna odległość 62 130&nbsp;km), Europy (205 720&nbsp;km) i Amaltei (558 370&nbsp;km). Największe zbliżenie do Jowisza miało miejsce 9 lipca o 22:29:01 UTC, w odległości 721 670&nbsp;km od centrum planety, około 650 000&nbsp;km od szczytów chmur. Tego samego dnia, oddalając się od planety, sonda w dużej odległości (1 129 900&nbsp;km) minęła Io.
+
+3 sierpnia Voyager 2 opuścił obszar magnetosfery Jowisza, a 5 sierpnia 1979 r. zakończona została faza obserwacji planety. Dokonany podczas przelotu obok Jowisza manewr asysty grawitacyjnej oraz wykonany zaledwie w 2 godziny po największym zbliżeniu do planety manewr korekcji trajektorii, zmieniły orbitę sondy na prowadzącą do Saturna orbitę hiperboliczną.
+
+Trajektoria Voyagera 2 została tak dobrana, żeby umożliwić bliski przelot obok Europy, która nie była obserwowana z bliska przez sondę Voyager 1. Odkrycia dokonane przez Voyagera 1 spowodowały też, że wprowadzono zmiany w programie przelotu Voyagera 2: przeprowadzono serie obserwacji nowo odkrytych pierścieni planety, aktywności wulkanicznej na Io oraz zórz i wyładowań atmosferycznych na nocnej stronie Jowisza. Na podstawie wyglądu powierzchni Europy wysunięto przypuszczenie, że pod jej stosunkowo cienką skorupą może znajdować się ocean ciekłej wody. Na przekazanych przez sondę zdjęciach odkryto także niewielki księżyc Adrastea.
+
+
+Plik:Jupiter - Region from the Great Red Spot to the South Pole.jpg|Wielka Czerwona Plama i południowa półkula Jowisza
+Plik:Rings of Jupiter - Voyager 2.jpg|Pierścienie Jowisza
+Plik:Ganymed.jpg|Ganimedes widziany przez Voyagera 2
+Plik:Europa moon Voyager 2 closest approach.jpg|Powierzchnia Europy
+
+
+
+Saturn
+
+
+Faza obserwacji Saturna przez Voyagera 2 rozpoczęła się 5 czerwca 1981 r., kiedy sonda znajdowała się w odległości około 77 mln km od planety. 19 sierpnia wykonany został manewr korekcji trajektorii, który spowodował, że punkt największego zbliżenia do Saturna został przesunięty o 900&nbsp;km bliżej w kierunku planety. Trajektoria ta została wybrana tak, żeby zapewnić wykonanie manewru asysty grawitacyjnej, który miał skierować sondę w kierunku Urana.
+
+Pierwszym księżycem planety, do którego zbliżył się Voyager 2 był Japet. 23 sierpnia sonda minęła ten księżyc w odległości 908 483&nbsp;km. 24 sierpnia Voyager osiągnął granice magnetosfery planety. 25 sierpnia sonda przeleciała obok Hyperiona (minimalna odległość 472 737&nbsp;km) i Tytana (666 096&nbsp;km). 26 sierpnia, zbliżając się do Saturna, Voyager 2 przeleciał kolejno obok Dione (502 289&nbsp;km) i Mimasa (309 758&nbsp;km).
+
+26 sierpnia 1981 r. o 03:24:05 UTC Voyager 2 zbliżył się do Saturna na najmniejszą odległość, wynoszącą 161 126&nbsp;km od centrum planety, około 101 000&nbsp;km od szczytów chmur. Tego samego dnia, oddalając się od planety, sonda przeleciała kolejno obok Enceladusa (minimalna odległość 87 020&nbsp;km), Tethys (93 018&nbsp;km) i Rei (645 320&nbsp;km).
+
+110 minut po zbliżeniu na najmniejszą odległość od planety, platforma skanująca sondy uległa zacięciu. Komputer pokładowy zareagował na to wstrzymując wykonywanie dalszych obserwacji. Inżynierom udało się dopiero po trzech dniach uruchomić zaciętą platformę. Awaria ta spowodowała utratę części planowanych obserwacji dotyczących głównie pierścieni oraz Tethys i Enceladusa. 5 września Voyager 2 minął w odległości 2 mln km Febe, najbardziej odległego, spośród ówcześnie znanych, księżyca Saturna. 25 września 1981 r. zakończona została faza obserwacji planety.
+
+Podczas przelotu przez układ Saturna sonda kontynuowała obserwacje wykonane rok wcześniej przez Voyagera 1. Szczególną uwagę poświęcono na badanie struktury pierścieni planety, w tym obserwacje struktur, nazywanych szprychami, znajdujących się nad powierzchnią pierścienia B. Fotopolarymetr sondy posłużył do obserwacji przebiegu okultacji gwiazdy delta Scorpii przez pierścienie planety, co umożliwiło określenie ich struktury z rozdzielczością 100 metrów. Przeprowadzono uzupełniające, w stosunku do Voyagera 1, obserwacje księżyców planety oraz struktury jej atmosfery. W 1990 roku na zdjęciach wykonanych przez Voyagera 2 odkryto księżyc Pan, znajdujący się wewnątrz przerwy Enckego.
+
+
+Plik:Saturn With Rhea and Dione (true color).jpg|Saturn widziany z odległości 33,9 mln km
+Plik:Iapetus by Voyager 2.jpg|Japet widziany przez Voyagera 2
+Plik:Voyager ring spokes.jpg|Pierścienie Saturna. Na tle pierścienia B widoczne są szprychy
+Plik:Enceladus from Voyager.jpg|Powierzchnia Enceladusa
+
+
+
+Uran
+
+
+Prowadzenie obserwacji przez sondę na odległościach, na których znajduje się Uran i Neptun, było utrudnione przez konieczność wykonywania zdjęć przy niskich natężeniach oświetlenia. Jednocześnie coraz niższa moc docierających do Ziemi sygnałów radiowych z sondy ograniczała prędkość przekazywania danych. W trakcie lotu w kierunku Urana inżynierowie przeprogramowali komputery Voyagera 2. Wprowadzono nowe, bardziej wydajne algorytmy kompresji obrazów i kodowania danych. Podczas przelotu obok planety zastosowano technikę kompensacji ruchu kamer przy użyciu silniczków sondy. Łączność z sondą utrzymywały stacje Sieci Dalekiej Łączności Kosmicznej (ang. Deep Space Network) zlokalizowane w Kalifornii, Australii i Hiszpanii i wyposażone w anteny z czaszami średnicy 64 m. Moc docierającego sygnału wynosiła 10−16 W. Wzmacniane w stacjach DSN sygnały retransmitowano, wykorzystując łącza satelitarne, do kalifornijskiego Jet Propulsion Laboratory, gdzie oczekiwał na dane o Uranie 200-osobowy zespół naukowców.
+ 
+Pierwsze nawigacyjne zdjęcia planety zostały wykonane w czerwcu 1985 r. Faza obserwacji Urana rozpoczęła się 4 listopada 1985 r., kiedy sonda znajdowała się od niego w odległości 103,5 mln km. Tego dnia uruchomiono sygnałem z Ziemi aparaturę badawczą i potwierdzono jej sprawność. Sonda dotarła do Urana po krzywoliniowym załamywanym torze, pokonując dystans 4,8 mld km. W chwili przelotu Voyagera 2 odległość Ziemia-Uran wynosiła w linii prostej około 2,96 mld km, co sprawiło, że sygnał radiowy wędrował w jedną stronę 2 h 45 min. Voyager 2 nadleciał od strony bieguna południowego planety, niemal prostopadle do płaszczyzny, w której otacza Urana system pierścieni i obiegają go jego naturalne satelity. Największe zbliżenie do planety miało miejsce 24 stycznia 1986 r. o 17:58:51 UTC, w odległości 107 100&nbsp;km od centrum Urana, około 81 558&nbsp;km od szczytów chmur. Nastąpiło to z wyprzedzeniem 68 sekund w stosunku do planu wyprawy rozpoczętej 8,5 roku wcześniej. Voyager osiągnął wówczas prędkość 67 820&nbsp;km/h. Około dziesięć godzin wcześniej sonda osiągnęła granice magnetosfery planety. Zaćmienie radiowe wynikające ze skrycia się sondy za planetą trwało ok. 1 h 22 min. Większość obserwacji z bliska księżyców i pierścieni została wykonana w ciągu 6 godzin (w okresie od 4. godzin przed do 2. godzin po największym zbliżeniu). Voyager 2 wykonał i przesłał na Ziemię około 6000 zdjęć powierzchni Urana. Sonda zbliżyła się kolejno do pięciu znanych wcześniej księżyców na następujące odległości (w nawiasach odległości przewidywane): do Tytanii na 365 300&nbsp;km (372 tys. km), Oberona na 471 500&nbsp;km (472 tys. km), Ariela na 130 400&nbsp;km (127 tys. km), Mirandy na 28 tys. km (29 tys. km) i Umbriela na 325 100&nbsp;km (325 tys. km).
+
+29 stycznia sonda ostatecznie opuściła magnetosferę planety. 14 lutego wykonano, trwający ponad 2,5 h, manewr korekcji trajektorii, który wraz z dokonaną podczas przelotu obok Urana asystą grawitacyjną, skierował Voyagera 2 na prowadzącą do Neptuna orbitę hiperboliczną. 25 lutego 1986 r. zakończona została faza obserwacji Urana.
+
+Voyager 2 odkrył obecność pola magnetycznego i pasy radiacyjne planety, zbadał strukturę jej magnetosfery, odkrył zorze polarne. Zbadano strukturę i dynamikę atmosfery, zawartość w niej helu i wielu związków chemicznych. Wyznaczono okres obrotu planety wokół osi. Wokół bieguna południowego, którym Uran zwracał się ku Słońcu i Ziemi, odkryto koncentryczne układy chmur. Były one zabarwione pomarańczowo - w odróżnieniu od zielonkawo-niebieskiego odcienia pozostałych obszarów planety. Potwierdziły się oceny, że podstawowymi składnikami atmosfery planety są wodór, hel, metan i amoniak. Sonda po raz pierwszy ukazała szczegóły morfologii powierzchni i budowy geologicznej największych księżyców planety. Najbardziej niezwykłym księżycem okazała się Miranda, której powierzchnia przedstawia ogromne zróżnicowanie pod względem budowy geologicznej. Voyager odkrył dwa nowe pierścienie planety oraz liczne, widoczne tylko w świetle rozproszonym do przodu, pasma pyłowe w płaszczyźnie pierścieni. Podczas przelotu odkryto dziesięć niewielkich księżyców planety. Są to: Kordelia, Ofelia, Bianka, Kresyda, Desdemona, Julia, Porcja, Rozalinda, Belinda i Puk. W 1999 r. na zdjęciach wykonanych przez Voyagera 2 odkryto jeszcze kolejny księżyc, który został nazwany Perdyta.
+
+
+Plik:FDS_26852.19_Rings_of_Uranus.png|Pierścienie Urana sfotografowane w świetle rozproszonym do przodu
+Plik:Ariel HiRes.jpg|Ariel widziany przez Voyagera 2
+Plik:Miranda2.JPG|Fragment powierzchni Mirandy
+Plik:Uranus Final Image.jpg|Sierp Urana sfotografowany po minięciu planety przez sondę
+
+
+
+Neptun
+
+
+Pierwsze nawigacyjne zdjęcia Neptuna zostały wykonane w maju 1988 r. Faza obserwacji planety przez Voyagera 2 rozpoczęła się 5 czerwca 1989 r., kiedy sonda znajdowała się od niej w odległości około 117 mln km. Dla zapewnienia sprawnego odbioru danych z sondy powiększono anteny i zmodernizowano odbiorniki należące do Deep Space Network, ponownie połączono je w sieć oraz dołączono do nich zestaw anten radiointerferometru Very Large Array oraz radioteleskop w Parkes. Dodatkowo do odbioru sygnałów radiowych z Voyagera wykorzystano też japoński radioteleskop w Usuda.
+
+Około trzynaście godzin przed przelotem obok Neptuna Voyager 2 osiągnął granice magnetosfery planety. Następnie, zbliżając się do planety, sonda wykonała obserwacje Nereidy (zbliżenie na odległość 4,65 mln km), Proteusza (97 860&nbsp;km) i Larissy (60 180&nbsp;km). Największe zbliżenie do Neptuna miało miejsce 25 sierpnia 1989 r. o 03:56:39 UTC, w odległości 29 240&nbsp;km od centrum planety, około 4500&nbsp;km od szczytów chmur. Voyager 2 przeleciał nad okolicami północnego bieguna planety, co umożliwiło wykonanie manewru asysty grawitacyjnej, który skierował sondę na spotkanie z Trytonem. Największe zbliżenie do Trytona nastąpiło 25 sierpnia o 09:10 UTC, w odległości 39 790&nbsp;km od centrum księżyca.
+
+28 sierpnia sonda ostatecznie opuściła magnetosferę planety. 2 października 1989 r. zakończona została faza obserwacji Neptuna.
+
+Voyager 2 odkrył obecność pola magnetycznego planety, zbadał strukturę jej magnetosfery, odkrył zorze polarne. Zbadano strukturę i dynamikę atmosfery, zawartość w niej helu i wielu związków chemicznych. Wyznaczono okres obrotu planety wokół osi. Sonda po raz pierwszy ukazała szczegóły morfologii powierzchni i budowy geologicznej największych księżyców planety. Na powierzchni Trytona odkryto czynne gejzery wyrzucające pióropusze gazów i pyłów. Okazało się, że Tryton posiada też bardzo rozrzedzoną atmosferę. Wykonane przez Voyagera 2 obserwacje potwierdziły istnienie systemu pierścieni Neptuna. Podczas przelotu odkryto sześć księżyców planety. Są to: Najada, Talassa, Despoina, Galatea, Larissa i Proteusz.
+
+Przelot przez układ Neptuna umożliwił wykonanie pierwszych dokładnych pomiarów masy planety, która okazała się być o 0,5% mniejsza od poprzednich szacunków. Różnica ta, odpowiadająca w przybliżeniu masie Marsa, spowodowała odrzucenie teorii istnienia planety X, której obecność miała odpowiadać za nieregularności w obserwowanych pozycjach orbitalnych Urana i Neptuna.
+
+
+Plik:Neptune clouds.jpg|Jasne chmury w atmosferze Neptuna
+Plik:Proteus (Voyager 2).jpg|Odkryty przez Voyagera 2 księżyc Proteusz
+Plik:The limb of Triton.jpg|Fragment powierzchni Trytona
+Plik:Rings_of_Neptune_PIA01997.jpg|Pierścienie Neptuna
+
+
+
+Voyager Interstellar Mission
+
+Przelot nad północnym biegunem Neptuna zmienił tor lotu Voyagera 2 na, prowadzącą poza Układ Słoneczny, orbitę hiperboliczną o nachyleniu 48° na południe od płaszczyzny ekliptyki i mimośrodzie 6,28. Od tego czasu sonda wykonuje pomiary wiatru słonecznego, pól magnetycznych i promieni kosmicznych. Po minięciu Neptuna, NASA oficjalnie przemianowała 1 stycznia 1990 r. misje obydwu sond Voyager na Voyager Interstellar Mission (Misja Międzygwiezdna Voyagera). Jej głównym zadaniem jest zbadanie krańcowych obszarów heliosfery, w tym dotarcie do heliopauzy.
+
+W dniach od 30 sierpnia do 1 września 2007 roku, w odległości 83,7 au od Słońca, Voyager 2 kilkakrotnie przekroczył granicę szoku końcowego heliosfery i znalazł się w obszarze płaszcza Układu Słonecznego. Nastąpiło to o 10,3 au bliżej Słońca niż w przypadku sondy Voyager 1, co świadczy o niesymetrycznej strukturze heliosfery.
+
+Ponieważ na pokładzie sondy funkcjonuje detektor plazmy (Plasma Subsystem), Voyager 2 przekazuje dokładniejsze informacje o warunkach fizycznych panujących w krańcowych obszarach heliosfery niż Voyager 1, na którym instrument ten uległ awarii. Przewiduje się, że wytwarzana przez generatory MHW-RTG energia wystarczy do utrzymania pracy ostatnich instrumentów naukowych na pokładzie sondy do około 2025 r.
+
+Na dzień 1 stycznia 2014 roku Voyager 2 znajdował się w odległości ponad 15 509 500 000&nbsp;km (103,675 au) od Słońca, w punkcie o współrzędnych równikowych: deklinacja (J2000) - 56° 5', rektascensja (J2000) 19h 53m i współrzędnych ekliptycznych: szerokość ekliptyczna - 33,7°, długość ekliptyczna 289,4°. Sonda oddala się od Słońca z prędkością 15,413&nbsp;km/s (czyli 55 486&nbsp;km/h = 3,251 au rocznie) w kierunku gwiazdozbioru Lunety.
+
+Około roku 40&nbsp;176 Voyager 2 minie gwiazdę Ross 248 w gwiazdozbiorze Andromedy w najmniejszej odległości wynoszącej 1,65 roku świetlnego, a za około 294&nbsp;000 lat minie, w odległości około 4,32 lat świetlnych, najjaśniejszą gwiazdę ziemskiego nieba - Syriusza w gwiazdozbiorze Wielkiego Psa.
+
+Zobacz też
+Voyager 1
+Voyager Golden Record
+
+
+
+
+Linki zewnętrzne

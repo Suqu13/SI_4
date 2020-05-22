@@ -1,0 +1,140 @@
+TOP500''' - strona internetowa przedstawiająca listę 500 superkomputerów uzyskujących najlepsze wyniki w teście LINPACK. Lista jest aktualizowana dwa razy w ciągu roku i prezentowana na dwóch konferencjach naukowych: w czerwcu na International Supercomputing Conference i w listopadzie na ACM/IEEE Supercomputing Conference.
+
+Na stronie umieszczane sa również historyczne listy od 1993 roku, wraz ze statystykami pokazującymi min. położenie geograficzne prezentowanych superkomputerów, ich producentów, używane technologie, architekturę i przeznaczenie. Na podstawie danych historycznych pokazany jest też ogólny trend, pokazujący podwajanie się wyników superkomputerów średnio co 14 miesięcy, zgodnie z prawem Moore'a. Aktualny rekordzista, Tianhe-2, uzyskał wynik ponad 560 tysięcy razy większy niż rekordzista z 1993 roku, CM-5.
+
+[[Plik:Supercomputers-history.svg|thumb|500px|Wykładniczy wzrost [[moc obliczeniowa|mocy obliczeniowej]] superkomputerów w latach 1993-2014 na podstawie strony top500.org. Na osi pionowej podana jest moc obliczeniowa w GFLOPS.
+
+
+]]
+
+Historia
+Pierwsza piątka z 43. rankingu 06/2014
+Tianhe-2, Chińska Republika Ludowa
+Titan, USA
+Sequoia, USA
+K computer, Japonia
+Mira, USA
+
+(zobacz też: )
+
+Pierwsza piątka z 42. rankingu 11/2013
+Tianhe-2, Chińska Republika Ludowa
+Titan, USA
+Sequoia, USA
+K computer, Japonia
+Mira, USA
+
+(zobacz też: )
+
+Pierwsza piątka z 41. rankingu 6/2013
+Tianhe-2, Chińska Republika Ludowa
+Titan, USA
+Sequoia, USA
+K computer, Japonia
+Mira, USA
+
+(zobacz też: )
+
+Pierwsza piątka z 40. rankingu 11/2012
+Titan, USA
+Sequoia, USA
+K computer, Japonia
+Mira, USA
+JUQUEEN, Niemcy
+
+(zobacz też: )
+
+Pierwsza piątka z 39. rankingu 6/2012
+Sequoia, USA
+K computer, Japonia
+Mira, USA
+SuperMUC, Niemcy
+Tianhe-1A, Chiny
+
+(zobacz też: )
+
+Pierwsza piątka z 38. rankingu 11/2011
+K computer, Japonia
+Tianhe-1A, Chiny
+Jaguar, USA
+Nebulae, Chiny
+TSUBAME 2.0, Japonia
+
+(zobacz też: )
+
+Pierwsza piątka z 37. rankingu 06/2011
+K computer, Japonia
+Tianhe-1A, Chiny
+Jaguar, USA
+Nebulae, Chiny
+TSUBAME 2.0, Japonia
+
+(zobacz też: )
+Pierwsza piątka z 36. rankingu 11/2010
+Tianhe-1A, Chiny
+Jaguar, USA
+Nebulae, Chiny
+TSUBAME 2.0, Japonia
+Hopper, USA
+
+(zobacz też: )
+
+Pierwsza piątka z 35. rankingu 06/2010
+Jaguar, USA
+Nebulae, Chiny
+Roadrunner, USA
+Kraken XT5, USA
+JUGENE, Niemcy
+
+(zobacz też: )
+
+Pierwsza piątka z 34. rankingu 11/2009
+Jaguar, USA
+Roadrunner, USA
+Kraken XT5, USA
+JUGENE, Niemcy
+Tianhe-I (Chiny)
+
+(zobacz też: )
+
+Pierwsza dziesiątka z 33. rankingu
+Legenda
+Pozycja - pozycja osiągnięta w rankingu TOP500,
+Rdzenie - liczba rdzeni, typy rdzeni
+Rok - rok produkcji lub ostatniej większej zmiany,
+Rmax - maksymalna wydajność osiągnięta w teście LINPACK (w TFLOPS-ach),
+Rpeak - teoretyczna wydajność szczytowa (w TFLOPS-ach).
+Moc - moc całego systemu mierzona w kilowatach (od 2008 roku)
+
+(opublikowana w czerwcu 2009; zobacz też: )
+
+
+Pierwsza dziesiątka z 32. rankingu
+(opublikowana w listopadzie 2008; zobacz też: )
+
+
+Pierwsza dziesiątka z 31. rankingu
+(opublikowana w czerwcu 2008; zobacz też: )
+
+
+Pierwsza dziesiątka z 30. rankingu
+(opublikowana w listopadzie 2007; zobacz też: )
+
+
+Pierwsza dziesiątka z 29. rankingu
+(opublikowana w lipcu 2007; zobacz też: )
+
+
+Zobacz też
+Krajowy Klaster Linuksowy CLUSTERIX
+Green500
+
+
+
+Linki zewnętrzne
+- artykuł na stronach miesięcznika Wiedza i Życie.
+
+
+
+
+

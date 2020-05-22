@@ -1,0 +1,72 @@
+T-54''' — radziecki czołg podstawowy I generacji powojennej, używany i produkowany m.in. w Polsce.
+
+Historia
+Pod koniec lat 40. XX wieku w części państw zachodnich (m.in. USA, Wielka Brytania i RFN) rozpoczęto prace nad nowymi rodzajami czołgu średniego. Nie były to jednak czołgi średnie w dotychczasowym tego słowa znaczeniu, lecz nowa generacja czołgów - pierwsze konstrukcje określane jako czołgi podstawowe I generacji.
+
+W ZSRR równolegle do produkcji i ciągłych modernizacji bardzo udanego, lecz coraz bardziej przestarzałego, czołgu T-34/85 trwały prace nad jego następcą, który miał zachować wszystkie zalety poprzednika, posiadając jednocześnie silniejsze uzbrojenie i opancerzenie oraz szereg innych poprawek. Postanowiono w nowej konstrukcji zastosować armatę 100 mm z działa pancernego SU-100. Wcześniejsze próby zamontowania tego działa na czołgu T-34 nie powiodły się z powodu zbyt dużych rozmiarów armaty. Zakładanych oczekiwań nie spełnił również czołg T-44.
+
+W 1945 r. w Biurze Konstrukcyjnym Zakładów nr 183 pod kierunkiem A. A. Morozowa podjęto prace nad nowym czołgiem oznaczonym jako "Obiekt 137". W 1946 r. zbudowano prototyp, który po przejściu badań technicznych i poligonowych przyjęto na uzbrojenie Armii Radzieckiej jako czołg T-54. Pierwsza odmiana pojazdu, nazwana T-54 model 1946''', produkowana była w latach 1946-1949. Posiadała ona wieżę podobną wyglądem do wieży z czołgu T-44.
+
+Druga wersja, oznaczona jako T-54 model 1949''', miała nową półsferyczną wieżę z niewielkim wycięciem w tylnej części. Produkowano ją w latach 1949-1951.
+
+Trzecia wersja opracowana w 1950 r. nazwana jako T-54 model 1951''' posiadała nową półsferyczną wieżę charakterystyczną dla tego typu czołgu. Wóz ten produkowano w latach 1953-1955.
+
+W 1955 r. dokonano modernizacji T-54 do wersji T-54A. Wóz ten posiadał stabilizator uzbrojenia w płaszczyźnie pionowej, przedmuchiwacz lufy oraz urządzenia noktowizyjne dla mechanika-kierowcy. Pojazd ten produkowano w latach 1955-1957.
+
+W 1956 r. powstała kolejna wersja nazwana T-54B, która posiadała stabilizację uzbrojenia w dwóch płaszczyznach oraz noktowizyjne przyrządy celownicze.
+
+Na bazie T-54 powstało szereg innych pojazdów w tym: wóz zabezpieczenia technicznego BST-2, most towarzyszący MTU-12, samobieżne działo pancerne SU-122-54 i samobieżny zestaw przeciwlotniczy ZSU-57-2. Czołgi były produkowane w ZSRR oraz na licencji w Polsce i Czechosłowacji. T-54 były używane przez armie 38 państw. Wiele pojazdów nadal jest jeszcze w użyciu. W chwili wprowadzenia do uzbrojenia czołg T-54 należał do najlepszych czołgów na świecie. Jego zwarta konstrukcja, niska opływowa sylwetka, silne uzbrojenie i szereg nowoczesnych rozwiązań wzbudzały duże uznanie specjalistów zachodnich.
+
+Bezpośrednim rozwinięciem czołgu T-54 był czołg T-55.
+
+Produkcja w Polsce
+15 lipca 1955 r. Polska zakupiła licencję czołgu T-54A. Producentem czołgu zostały Zakłady Mechaniczne "Bumar-Łabędy" w Gliwicach, które wcześniej produkowały czołgi T-34/85. Produkcję seryjną uruchomiono w 1958. Nowe wozy produkowano do 1964 tj. do momentu wprowadzenia do produkcji czołgów T-55. Początkowo produkowano czołg w wersji T-54A. Potem uruchomiono produkcję czołgu dowódczego T-54AD, a następnie zmodernizowanej w Polsce wersji nazwanej T-54AM, z powiększonym zapasem paliwa.
+
+W trakcie eksploatacji czołgu w jednostkach pancernych Wojska Polskiego czołg T-54A został objęty modernizacją do wersji T-54AM1 i T-54AM2. Po uruchomieniu produkcji czołgów T-55A, wszystkie polskie czołgi T-54 zmodernizowano do standardu T-55A, zmieniając ich oznaczenie na T-55U. Modernizacji tych dokonywano podczas remontów w wojskowych zakładach mechanicznych.
+
+Wersje produkowane w Polsce
+T-54A - produkowany w latach 1958-1964 
+T-54AD - czołg dowódczy
+T-55AM - zmodyfikowany układ paliwowy
+T-54AM1''' - został przystosowany do pokonywania przeszkód wodnych po dnie, miał zwiększoną ilość amunicji artyleryjskiej oraz zmodernizowany układ napędowy i paliwowy.
+T-54AM2''' - oznaczony później jako T-55U, posiadał stabilizację uzbrojenia w dwóch płaszczyznach, zwiększoną ilość amunicji, nowy silnik W-55, hydrauliczne wspomaganie systemu kierowania i urządzenie dymotwórcze TAD.
+
+Opis konstrukcji T-54A
+Czołg T-54 miał klasyczny układ konstrukcyjny. Kadłub wykonano z walcowanych płyt pancernych o maksymalnej grubości 99 mm. Wieża w kształcie półsferycznym składała się z elementów odlewanych o grubości do 203 mm i stropu z blach pancernych. Pojazd podzielony był na trzy przedziały: kierowania, bojowy i napędowy.
+
+W przedziale kierowania znajdowało się stanowisko mechanika-kierowcy (po lewej stronie) oraz zbiornik paliwa i część amunicji do armaty (po prawej stronie). Środkową część wozu, przykrytą obrotową wieżą, stanowił przedział bojowy. Znajdowały się tu stanowiska dowódcy czołgu i działonowego (z lewej strony) oraz ładowniczego (z prawej). W wieży zamontowane było uzbrojenie, przyrządy obserwacyjne i celownicze oraz środki łączności zewnętrznej i wewnętrznej.
+
+W przedziale napędowym, zajmującym tylną część czołgu, umieszczono silnik  wysokoprężny i układ przeniesienia mocy złożony z: przekładni pośredniej, wielotarczowego sprzęgła głównego, skrzyni biegów o 5 przełożeniach do jazdy w przód i jednym w tył, dwóch mechanizmów skrętu i dwóch przekładni bocznych. Układ bieżny składał się z dziesięciu podwójnych kół nośnych zawieszonych niezależnie na wahaczach i wałkach skrętnych, dwóch kół napinających z przodu i dwóch kół napędzających z tyłu. Gąsienice metalowe złożone z 90 ogniw każda.
+
+Zasadnicze uzbrojenie obejmowało: 100 mm armatę D10-TG sprzężoną z 7,62 mm karabinem maszynowym stabilizowane w płaszczyźnie pionowej, umieszczone w wieży, kursowego karabinu maszynowego w kadłubie i przeciwlotniczego 12,7 mm wielkokalibrowego karabinu maszynowego zamocowanego na stropie wieży (przy włazie ładowniczego). Czołg posiadał celownik przegubowy TSz-2A-22 o powiększeniu 3,5x i 7x. Dowódca czołgu posiadał przyrząd obserwacyjny TPK-1 i cztery peryskopy. Działonowy i ładowniczy mieli do dyspozycji po jednym peryskopie, a mechanik-kierowca dwa peryskopy oraz noktowizor TWN-1 do jazdy w nocy. Środki łączności stanowiła radiostacja typu R-113 o zasięgu do 20 km i czołgowy telefon wewnętrzny typu R-120. Czołg posiadał półautomatyczny system przeciwpożarowy, dwie świece dymne BDSz oraz wyposażenie do pokonywania przeszkód wodnych po dnie.
+
+Plany i modele
+Trumpeter 00340 T-54A Skala 1/35
+Trumpeter 00338 T-54B Skala 1/35
+Skif 232 T-54 Egipt Army Skala 1/35
+Trumpeter 07281 T-54B Skala 1/72
+Easy Model  35020 T-54A Skala 1/72 gotowy model kolekcjonerski
+
+Bibliografia
+Czołg średni T-54A. Opis i obsługiwanie, Wyd. MON, Warszawa 1971;
+Jerzy Kajetanowicz, Prace nad rozwojem sprzętu pancernego w Polsce-przegląd lat 1955-1990'', Poligon 2010, nr 5 
+Jerzy Kajetanowicz, Wozy bojowe i pojazdy wsparcia produkowane w Polsce w okresie powojennym, Wyd. WSO im. T. Kościuszki, Wrocław 1998
+Janusz Magnuski Wozy bojowe LWP 1943-1983'' Wyd. MON Warszawa 1985, ISBN 83-11-06990-5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

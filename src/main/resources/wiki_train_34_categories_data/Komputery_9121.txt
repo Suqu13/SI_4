@@ -1,0 +1,7 @@
+NEC PC-9801''' – nie w pełni kompatybilna z przemysłowym standardem PC odmiana komputera osobistego stworzona w 1982 w Japonii przez NEC Corporation na bazie rozwiązań IBM.
+
+Pierwszy model był architekturą 16-bitową z procesorem Intel 8086 taktowanym zegarem 5 MHz oraz 128 KB pamięci RAM. Dostarczany z kartami grafiki zdolnymi wyświetlać 8 kolorów w rozdzielczości 640x400 - co wyraźnie wyróżniało się osiągami w stosunku do ówczesnych PC.
+
+Początkowo pomyślany jako rozwiązanie dla zastosowań przemysłowych i biurowych. Z czasem, wraz z wzrostem mocy i docenieniem efektów graficznych i dźwiękowych przez użytkowników domowych (zwłaszcza graczy) stał się popularny także w niekomercyjnych zastosowaniach.
+
+

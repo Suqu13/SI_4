@@ -1,0 +1,63 @@
+Micpe Hila (hebr. מצפה הילה; ang. Mitzpe Hila, lub także Hilla) – wieś komunalna położona w Samorządzie Regionu Ma'ale Josef, w Dystrykcie Północnym, w Izraelu.
+
+Położenie
+Wieś Micpe Hila jest położona na wysokości 495 metrów n.p.m. w północnej części Górnej Galilei. Leży na zachodnich zboczach wzgórza Har Ziv (569 m n.p.m.). Na północ od niego przebiega głębokie wadi strumienia Keziw, nad którym wznoszą się ruiny zamku Montfort. Po stronie zachodniej wioski przebiega wadi strumienia Bartut, a na południowym zachodzie są źródła strumieni Sza'al i Nachat. Wszystkie strumienie spływają w kierunku zachodnim do wzgórz Zachodniej Galilei, i dalej na równinę przybrzeżną Izraela. Okoliczne wzgórza są zalesione. W otoczeniu wioski Micpe Hila znajdują się miejscowości Mi'ilja i Fassuta, kibuce Ga'aton i Eilon, moszawy Ein Ja'akov, Manot, Avdon, Ja'ara, Goren, Szomera i Even Menachem, oraz wioski komunalne Neve Ziv, Gornot HaGalil i Abbirim.
+
+Podział administracyjny
+Micpe Hila jest położona w Samorządzie Regionu Ma'ale Josef, w Poddystrykcie Akka, w Dystrykcie Północnym Izraela.
+
+Demografia
+Stałymi mieszkańcami wioski są wyłącznie Żydzi. Tutejsza populacja jest świecka:
+
+
+
+ImageSize  = width:500 height:220
+PlotArea   = left:70 right:40 top:20 bottom:20
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+Colors =
+  id:gray1 value:gray(0.9)
+DateFormat = yyyy
+Period     = from:0 till:533
+ScaleMajor = unit:year increment:100 start:0 gridcolor:gray1
+PlotData =
+  bar:1983 color:gray1 width:1
+   from:0 till:61 width:15 text:61 textcolor:red fontsize:8px
+  bar:1995 color:gray1 width:1
+   from:0 till:289 width:15 text:289 textcolor:red fontsize:8px
+  bar:2001 color:gray1 width:1
+   from:0 till:376 width:15 text:376 textcolor:red fontsize:8px
+  bar:2011 color:gray1 width:1
+   from:0 till:533 width:15 text:533 textcolor:red fontsize:8px
+
+Źródło danych: .''
+
+
+Historia
+
+Wioska została założona 19 maja 1980 roku w ramach rządowego projektu ha-Micpim be-Galil (hebr. המצפים בגליל; pol. Morze Perspektyw Galilei), który zakładał tworzenie nowych osiedli w Galilei, aby w ten sposób poprawić pozycję demograficzną społeczności żydowskiej na północy kraju. Zamieszkali w niej mieszkańcy okolicznych osad rolniczych. W latach 90. XX wieku na wioskę kilkakrotnie spadały rakiety wystrzeliwane przez organizację terrorystyczną Hezbollah z terytorium południowego Libanu. Sytuacja powtórzyła się także podczas II wojny libańskiej w 2006 roku.
+
+Edukacja
+Wioska utrzymuje przedszkole. Starsze dzieci są dowożone do szkoły podstawowej w moszawie Me'ona, lub szkoły średniej przy kibucu Kabri.
+
+Kultura i sport
+W wiosce znajduje się ośrodek kultury z biblioteką. Z obiektów sportowych boisko do koszykówki.
+
+Infrastruktura
+W wiosce jest sklep wielobranżowy, synagoga oraz warsztat mechaniczny.
+
+Turystyka
+Dużą atrakcją turystyczną jest położony w sąsiedztwie rezerwat przyrody strumienia Keziw, a zwłaszcza Park Narodowy Montfort. W wiosce jest możliwość wynajęcia noclegów.
+
+Gospodarka
+Większość mieszkańców dojeżdża do pracy w pobliskich strefach przemysłowych. Tylko nieliczni utrzymują się z usług i obsługi ruchu turystycznego.
+
+Transport
+Z wioski wyjeżdża się na południe na lokalną drogę, którą jadąc na zachód dojeżdża się do moszawu Manot, lub na południowy wschód do miejscowości Mi'ilja, gdzie przebiega droga ekspresowa nr 89.
+
+Osoby związane z moszawem
+Gilad Szalit - izraelski żołnierz porwany w 2006 roku przez palestyńskich terrorystów w Strefie Gazy. Został uwolniony w 2011 roku. Wychował się i mieszka w Micpe Hila.
+
+
+
+Linki zewnętrzne

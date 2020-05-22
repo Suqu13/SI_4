@@ -1,0 +1,17 @@
+Węgiel-14''' (symbol: '''14C) – promieniotwórczy izotop węgla, odkryty 27 lutego 1940 roku przez Martina Kamena i Sama Rubena. Jądro atomowe 14C zawiera 6 protonów i 8 neutronów.
+
+Powstaje w górnych warstwach troposfery i w stratosferze w wyniku pochłonięcia neutronu przez jądro atomu azotu 14N. Neutrony te powstają w wyniku oddziaływania promieniowania kosmicznego (składającego się głównie z protonów) z jądrami atomowymi pierwiastków obecnych w atmosferze. Reakcja powstawania nuklidu węgla-14:
+n +  →  + 
+
+Powstały węgiel pierwiastkowy jest utleniany do dwutlenku węgla, który wchodzi poprzez fotosyntezę do organicznego obiegu węgla w przyrodzie. Jego radioaktywność sprawia, że jego udział w tkankach w momencie ich powstawania jest największy, a z czasem maleje. Węgiel-14 ulega rozpadowi  rozpadowi beta minus tworząc niepromieniotwórczy azot 14N, antyneutrino oraz elektron. Maksymalna energia elektronów (cząstek beta) emitowanych w tym rozpadzie wynosi 156,5 keV. rozpad przebiega zgodnie z równaniem:
+
+→  + e− + νe
+
+Czas połowicznego rozpadu wynosi 5730 ±40 lat.
+
+Zawartość izotopu 14C w pozostałościach zawierających węgiel jest używana do szacowania wieku przedmiotów metodą datowania radiowęglowego. Jego naturalny udział względem pozostałych izotopów węgla to ok. 1 ppt (0,0000000001%).
+
+
+
+
+

@@ -1,0 +1,22 @@
+City Life – gra komputerowa wydana przez Monte Cristo. Wyłączną dystrybucją w Polsce zajmuje się firma Lem Interactive.
+
+Rozgrywka
+Gracz wciela się w wirtualnego burmistrza i zarządza miastem górskim, nadmorskim czy leżącym na skalistym pojezierzu. Po przejściu kilku scenariuszy uzyskuje dostęp do innych regionów, na przykład do "terenu skażonego" czy "regionu kanionów". Gra jest trójwymiarowa, można oglądać swoje miasto oczami przeciętnego przechodnia. Do gry dołączony jest edytor pozwalający tworzyć własne mapy.
+
+Wymagania sprzętowe
+Minimalne:'''
+Microsoft Windows 2000/XP
+procesor 1,5 GHz
+256 MB RAM
+DirectX 9.0
+Karta graficzna 64 MB
+Karta dźwiękowa
+2 GB wolnego miejsca na dysku
+
+Zalecane:'''
+procesor 2,5 GHz
+512 MB RAM
+Karta graficzna 256 MB
+2,5 GB wolnego miejsca na dysku
+
+Linki zewnętrzne

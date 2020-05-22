@@ -1,0 +1,47 @@
+
+
+Armata czołgowa – rodzaj armaty przystosowany do montowania w wieży czołgu lub innego pojazdu pancernego, służący do zwalczania pojazdów nieopancerzonych, pancernych, a także siły żywej, budynków i umocnień.
+
+Historia
+Pierwsze czołgi były używane podczas I wojny światowej do pokonywania okopów, zasieków z drutu kolczastego oraz lejów po pociskach artyleryjskich dużych kalibrów jako wsparcie dla piechoty, szczególnie w przypadkach napotkania stanowiska karabinu maszynowego. Najczęściej były to zwykłe działa artylerii polowej, pozbawione podwozia i zamocowane w wieży lub bezpośrednio w kadłubie czołgu, strzelały najczęściej amunicją odłamkową o niskiej prędkości wylotowej pocisku. Lufy tych armat były przeważnie krótkie, zbyt długie mogłyby przeszkadzać w manewrowaniu pojazdem (w przypadku zamontowania armat w kadłubie), duże prędkości wylotowe były zbędne (walka toczyła się na krótkich dystansach). Ponadto pancerze pierwszych czołgów były cienkie, miały w zamyśle chronić przed odłamkami pocisków artyleryjskich i amunicją karabinową, wysoka prędkość wylotowa pocisku nie była potrzebna.
+
+Charakterystyka
+Armaty takie charakteryzują się dużą długością lufy (powyżej 40 kalibrów), a przez to wysoką prędkością wylotową pocisków, obecnie głównie o gładkim przewodzie (uwarunkowane jest to głównie mniejszym zużywaniem się lufy oraz lepszymi właściwościami przy strzelaniu amunicją przeciwpancerną wykorzystującą energię kinetyczną do przebicia pancerza), automatycznym lub półautomatycznym zamkiem oraz względnie niskim odrzutem. Współcześnie przystosowane są najczęściej do strzelania nabojami z pociskiem podkalibrowym, kumulacyjnym, rzadziej burzącym, natomiast w okresie drugiej wojny światowej zwykle były to pełnokalibrowe przeciwpancerne, odłamkowe oraz dymne. Niektóre armaty czołgowe, np. rosyjska 2A46M (D-81TM), montowana na czołgach T-72B, są dodatkowo przystosowane do wystrzeliwania przeciwpancernych pocisków kierowanych (w tym wypadku jest to rakieta systemu 9K119 Refleks).
+
+Budowa
+ 
+Typowa armata w czołgu lub pojeździe pancernym składa się z:
+lufy,
+hamulca wylotowego (współcześnie rzadziej spotykany),
+łoża,
+mechanizmu podniesieniowego (celowanie w poziomie odbywa się poprzez obrót wieży),
+kołyski,
+zamka,
+oporopowrotnika.
+
+Kalibry armat najbardziej znanych czołgów
+ZSRR (Rosja)
+T-34/76 - 76,2 mm;
+T-34/85- 85 mm;
+IS-2- 122 mm;
+T-54, T-55 - 100 mm; 
+T-62 - 115 mm (armata gładkolufowa);
+PT-76 - 76,2 mm;
+T-64 T-72,T-80,T-90 (i ich odmiany) - 125 mm (armata gładkolufowa).
+
+Niemcy
+PzKpfw V (Pantera) - 75 mm;
+PzKpfw VI (Tygrys)- 88 mm;
+Leopard 1 - 105 mm;
+Leopard 2 - 120 mm (armata gładkolufowa).
+
+Stany Zjednoczone
+M4 Sherman - 75 mm (wczesne wersje), 76 mm (późne wersje);
+M48 - 90 mm;
+M60 - 105 mm;
+M1A2 Abrams - 120 mm (armata gładkolufowa).
+
+Zobacz też
+Czołgowy karabin maszynowy
+
+

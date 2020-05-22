@@ -1,0 +1,5 @@
+System/32''' - minikomputer firmy IBM wprowadzony na rynek w 1975 r., zawierający pojedynczy terminal dla operatora. System/32 został potem zastąpiony przez System/34, który mógł uruchamiać aplikacje System/32 w specjalnym trybie.
+
+
+
+

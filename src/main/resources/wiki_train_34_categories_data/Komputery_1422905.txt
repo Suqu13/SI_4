@@ -1,0 +1,97 @@
+
+AmigaOne – linia komputerów produkowana przez firmę Eyetech na licencji Amiga Inc. w latach 2000 - 2005  oraz przez firmę A-EON Technology od roku 2009 do dziś.
+
+Pierwotne plany firmy Eyetech zakładały skonstruowanie dwóch kart rozszerzeń o nazwach: AmigaOne 1200 PPC i AmigaOne 4000 PPC, oraz nowej płyty głównej AmigaOne. Ostatecznie jednak zrezygnowano ze wspierania klasycznej linii Amig, decydując się na produkcję nowej linii komputerów. W ten sposób powstały następujące modele: AmigaOne-SE G3, AmigaOne-XE G4, Micro A1, MicroA1-C, oraz MicroA1-I, która nie doczekała się realizacji. Firma A-EON produkuje obecnie model o nazwie x1000 i planuje go zastąpić projektowaną rodziną modeli X5000.
+
+AmigaOne-SE G3
+Jest to pierwszy model z serii AmigaOne, którego producentem jest firma Eyetech. Na płycie głównej, zgodnej ze standardem ATX, znalazł się procesor PowerPC G3 600 Mhz. Można do niej dołączyć karty graficzne, muzyczne i telewizyjne, zarówno w standardzie PCI, jak i AGP. Obsługiwane systemy operacyjne to: AmigaOS 4, Linux PPC i MacOS (poprzez MacOnLinux lub PegXMac).
+
+Specyfikacja:
+Procesor PowerPC G3 600 MHz
+Maksymalnie 2 GB pamięci RAM (DIMM 133 MHz)
+2 złącza IDE (do 4 urządzeń)
+Mostek północny Articia S, mostek południowy VIA 82C686B
+2 sloty AGP, 4 gniazda PCI (3 x 33 MHz, jedno 66 MHz)
+Port Fast Ethernet (na układzie 3Com 920C)
+4 porty USB 1.1
+2 złącza PS/2
+2 porty szeregowe (kompatybilne z UART 16650)
+1 port równoległy EPP/ECP
+Port IrDA
+
+AmigaOne-XE G4
+Płyta, zgodna ze standardem ATX, może być montowana w zwykłych obudowach przeznaczonych dla komputerów klasy PC. Podobnie jak w przypadku AmigaOne SE istnieje możliwość podłączenia zwykłych kart graficznych, muzycznych, etc., posiadających interfejs AGP lub PCI. Obsługiwane systemy operacyjne to: AmigaOS 4, Linux PPC, MacOS (poprzez MacOnLinux lub PegXMac).
+
+Specyfikacja:
+Procesor PowerPC G3 lub G4 800 MHz (w zależności od dystrybutora niektóre modele są taktowane zegarem 933 MHz lub 1 GHz.
+Do 2 GB RAM (DIMM 133 MH
+2 złącza IDE (do 4 urządzeń)
+Mostek północny Articia S, mostek południowy VIA 82C686B
+2 gniazda AGP, 4 gniazda PCI (trzy z nich – 33 MHz, pozostały 66 MHz)
+Port Fast Ethernet na układzie 3Com 920C
+4 porty USB 1.1
+2 złącza PS/2
+2 porty szeregowe (kompatybilne z UART 16650)
+1 port równoległy EPP/ECP
+1 port IrDA
+
+Micro A1
+Zgodnie z nazwą rozmiary tej płyty głównej są niewielkie: 170 mm x 170 mm. Istnieje możliwość montażu w każdej obudowie przeznaczonej dla komputerów klasy PC. Obecnie istnieje tylko jeden model tej płyty o nazwie MicroA1-C, ponieważ wersja MicroA1-I nie została przeznaczona na sprzedaż. Płyta MicroA1-C posiada jeden port PCI, który może zostać rozszerzony do trzech slotów za pomocą specjalnej przelotki. Ponadto posiada wmontowaną już na stałe kartę graficzną, układ dźwiękowy, port USB i kanał IDE.
+
+Specyfikacja płyty Micro A1 w wersji standardowej (MicroA1-C):
+Standard płyty: Mini-ITX (170 x 170 mm)
+Procesor MicroA1-C
+Gniazdo SO-DIMM PC133, obsługujące moduły do 2 GB pamięci
+Port równoległy EPP/ECP, 2 porty szeregowe, port joysticka i MIDI, złącze PS/2
+4 porty USB 1.1
+Fast Ethernet (10/100 Mbit/s) na układzie 3Com 920C
+Układ muzyczny Cmedia CMI8738 z dźwiękiem 6-kanałowym
+2 kanały IDE Ultra-DMA-100 (kontroler VIA82C686B), jedno złącze 40-pinowe dla dysków 3,5", jedno złącze 44-pinowe dla dysków 2,5"
+1 slot PCI z możliwością rozszerzenia do 3 gniazd
+Układ graficzny ATI Radeon 7000 AGP zamontowany na stałe z 32 MB pamięci graficznej
+Mostek północny Articia S, mostek południowy VIA 82C686B
+
+AmigaOne X1000
+
+
+Specyfikacja wg producenta:
+
+Standard technologiczny ATX 
+Dwurdzeniowy procesor PWRficient PA6T-1682M 2.0 GHz 
+Koprocesor: "Xena" 500 MHz XCore XS1
+ATI Radeon R700 
+Dźwięk: 7.1  HD
+4 sloty DDR2 SDRAM 
+10× USB 2.0
+1× Gigabit Ethernet
+2× PCIe ×16 
+2× PCIe ×1 
+2× PCI 
+1× Xorro (Złącze magistrali Xeny)
+1× Compact Flash
+2× RS-232
+4× SATA 2 
+1× PATA 
+1× JTAG 
+
+seria AmigaOne X5000 (różne modele)
+Procesory: Freescale P3041 / P5020 / P5040 1.5Ghz do 2.4Ghz
+Koprocesor Xena
+Grafika: nie określono, prawdopodobnie Radeon HD 5000+ [
+6x USB 2.0
+1x Gigabit Ethernet
+2x PCIe x16 (1x16 or 2x8)
+2x PCIe x1
+1x Xorro 
+2x PCI 
+2x RS-232
+2x SATA 2 
+1x ISerial
+1x MircoSD
+
+
+
+Zobacz też
+Pegasos
+
+Linki zewnętrzne

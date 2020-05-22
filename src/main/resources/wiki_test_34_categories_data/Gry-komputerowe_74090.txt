@@ -1,0 +1,9 @@
+FooBillard – darmowa gra komputerowa symulująca bilard, wydana na licencji GPL, działająca w systemie GNU/Linux, MacOS X, MorphOS i Windows. Realistyczne (zgodne z zasadami fizyki) zachowanie bil, dopracowana sztuczna inteligencja komputera i oprawa graficzna pozwalają na określanie jej mianem symulatora.
+
+Gracz ma do wyboru kilka odmian bilarda (ósemka, dziewiątka, snooker oraz karambol). Można grać z komputerem (kilka poziomów umiejętności), żywym przeciwnikiem (gra dwuosobowa) oraz przez sieć komputerową. Występuje również opcja treningu. 
+
+Silnik gry jest oparty na bibliotece OpenGL.
+
+
+
+Linki zewnętrzne

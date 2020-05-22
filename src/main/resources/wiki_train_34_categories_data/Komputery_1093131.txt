@@ -1,0 +1,40 @@
+EMIX to komputery zgodne z IBM PC oferowane w drugiej połowie lat osiemdziesiątych przez przedsiębiorstwo zagraniczne EMIX.
+
+Modele
+Oferowano następujące modele:
+EMIX 86 XT Turbo
+EMIX 86 XT Super Turbo
+EMIX 286 AT
+EMIX 220 ( terminal)
+
+EMIX 86 XT Turbo
+Dane techniczne:
+pamięć RAM : 640 kB
+zegar : 4,77 MHz, turbo 8 MHz
+FDD : 2x 5,25” 360 kB
+HDD : 20 MB
+złącza : RS 232C, joysticka
+monitor : mono, grafika 720x348
+klawiatura : 101 klawiszy
+
+Dodatkowe elementy wyposażenia
+EMIX oferowało dodatkowe elementy wyposażenia dla systemów komputerowych:
+kolorowa karta graficzna i monitor
+karta I/O PLUS 2
+interfejsy pomiarowe IEC 625, HPIB, IEEE 488
+karta drukarki i czytnika taśmy papierowej
+karta transmisji BSC, 1200/300
+karta sterowania pamięcią taśmową PT-305
+
+Ta ostania karta oferowana była wraz ze specjalnym oprogramowaniem. Całość umożliwiała wymianę i konwersję danych z dużymi systemami komputerowymi takimi jak MERA 9150, ODRA 1305. W ofercie była także budowa sieci lokalnej EmNet.
+
+Terminal EMIX 220
+Terminal ten był odpowiednikiem terminala VT 200 i współpracował m.in. z takimi systemami jak:
+klasy IBM PC XT/ AT
+SM-3, SM-4, SM-5
+PDP-11
+MERA 400
+
+
+
+

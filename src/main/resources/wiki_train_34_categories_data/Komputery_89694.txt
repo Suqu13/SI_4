@@ -1,0 +1,9 @@
+
+
+Elwro 441 Bolek – prosty kalkulator produkowany przez Wrocławskie Zakłady Elektroniczne Mera-Elwro. 
+
+Funkcje: cztery podstawowe działania matematyczne, pamięć, obliczanie procentów, odwrotności i pierwiastka kwadratowego. Zasilanie – bateria 9&nbsp;V 6F22, 6LR61 lub sieciowe przy pomocy zewnętrznego zasilacza. Wyświetlacz LED – 8 cyfr znaczących.
+
+Wadą kalkulatora była słaba widzialność wyświetlanych cyfr, krótki czas działania baterii i niepewna w działaniu klawiatura. W podobnej obudowie produkowany był kalkulator naukowy Elwro 481 Lolek.
+
+

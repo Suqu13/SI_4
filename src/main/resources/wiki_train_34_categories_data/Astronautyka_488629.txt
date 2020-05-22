@@ -1,0 +1,10 @@
+OK-TVA (0.15, OK-7M) – radziecki orbiter testowy programu Buran wykorzystywany do testów nagrzewania i testów statycznych. Nieznany jest rok produkcji.
+
+Orbiter był testowany na wysokie i niskie temperatury. Odbywało się to w komorze ciśnieniowej TPVK-1 (największa tego typu komora na świecie o średnicy 13,5 metrów i długości 30 metrów). Zakres temperatur jakie komora mogła wytworzyć wynosił od –150 °C do 1500 °C. OK-TVA był również poddawany testom obciążenia dzioba, skrzydeł, statecznika pionowego i lotek. Następnie obiekt został umieszczony w komorze akustycznej TsAGI RK-1500. Był tam testowany falami dźwiękowymi o poziomie 166 dB i częstotliwościach 50–2000 Hz. Ostatnimi testami jakie przeszedł orbiter były testy elektrodynamiczne i elektrohydrauliczne.
+
+Po zakończeniu wszystkich testów OK-TVA na początku lat 90. został umieszczony w moskiewskim Parku Gorkiego jako symulator lotów kosmicznych. W 2014 roku został przeniesiony do Ogólnorosyjskiego Centrum Wystawowego.
+
+Przypisy
+
+
+Linki zewnętrzne

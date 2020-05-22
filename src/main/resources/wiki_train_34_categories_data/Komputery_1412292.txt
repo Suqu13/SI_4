@@ -1,0 +1,8 @@
+Puma (platforma AMD)''' - platforma Puma składa się z Procersora AMD Turion X2 ZM, chipsetu AMD 7-Series Chipsets ze zintegrowanym rdzeniem graficznym 780G, karty graficznej ATI Radeon HD 3xxx, oraz moduł obsługujący sieci Wi-Fi.
+
+Platforma jest ogólnodostępna w sprzedaży.
+
+Bibliografia
+PC WORLD KOMPUTER Nr 8/2008
+
+

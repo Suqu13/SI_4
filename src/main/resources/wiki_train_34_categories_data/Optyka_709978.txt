@@ -1,0 +1,10 @@
+Pył diamentowy (słupki lodowe) – małe kryształki lodu, zazwyczaj unoszone w powietrzu, występujące w niskich temperaturach i przy mroźnej pogodzie. Jest on dobrze widoczny w promieniach słonecznych. W Polsce występuje bardzo rzadko, najczęściej spotykany jest w klimacie okołobiegunowym i polarnym.
+
+Kryształy lodu w pyle diamentowym mają często strukturę odbiegającą od typowej podstawy w formie sześciokątu i tworzą rzadkie zjawiska optyczne, np. łuk Kerna. Pył diamentowy obserwuje się przy powierzchni Ziemi,w górnych warstwach troposfery oraz w polarnych chmurach stratosferycznych.
+
+W kodzie METAR pył diamentowy zapisywany jest jako IC. Pył diamentowy może mieć postać kryształów płatkowych o podstawie sześciokątnej, prawie trójkątnej, lub prawie czworokątnej. Nazwa słupki lodowe, używana do określenia pyłu diamentowego, określa że kryształy stoją w powietrzu - bo są małe i wolno spadają. Natomiast ich geometryczny kształt może przypominać bardziej płatek niż słupek.
+
+
+
+
+

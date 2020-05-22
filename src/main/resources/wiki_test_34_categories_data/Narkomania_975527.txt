@@ -1,0 +1,55 @@
+Zopiklon (zopiclone, ATC N05 CF01) – organiczny związek chemiczny, lek nasenny, pochodna cyklopirolonu.
+
+Mechanizm działania
+Zopiklon wykazuje działanie nasenne, uspokajające, anksjolityczne, przeciwdrgawkowe i miorelaksacyjne. Wiąże się w miejscu odpowiednim dla benzodiazepin, znajdującym się w obrębie kompleksu receptorowego GABA-A kwasu γ-aminomasłowego.  Efekty działania zopiklonu wiążą się ze swoistym działaniem agonistycznym na receptor GABA-ergiczny, prowadzącym do otwarcia kanału chlorkowego. Działanie uspokajające i nasenne leku jest zbliżone siłą do wykazywanego przez pochodne benzodiazepiny, natomiast właściwości przeciwlękowe, hamujące agresję i miorelaksacyjne są słabsze; siła działania przeciwdrgawkowego jest podobna, ale trwa ono krócej.
+
+Zopiklon przyspiesza zasypianie, zmniejsza liczbę przebudzeń w nocy, przedłuża czas snu, poprawia jakość snu oraz samopoczucie po przebudzeniu. Po podaniu leku w zalecanych dawkach, występuje charakterystyczny obraz EEG, inny niż po podaniu pochodnych benzodiazepiny. U chorych na bezsenność zopiklon skraca fazę 1 snu wolnofalowego i wydłuża fazę 2. Czas trwania fazy 3 i 4 snu wolnofalowego oraz snu paradoksalnego jest zachowany lub przedłużony.
+
+Farmakokinetyka
+Po podaniu doustnym zopiklon szybko się wchłania z przewodu pokarmowego. Tmax leku wynosi 1,5–2 godziny. Pokarm nie wpływa na wchłanianie leku. Działanie nasenne pojawia się po około 30 minutach. Zopiklon w około 45% wiąże się z białkami osocza (w 25% u osób w starszym wieku). Dostępność biologiczna leku wynosi około 80%. Zopiklon charakteryzuje się dużym powinowactwem do lipidów osocza. Metabolizm leku zachodzi w wątrobie: głównymi metabolitami zopiklonu są N-tlenek wykazujący aktywność farmakologiczną i N-demetylozopiklon. T1/2 zopiklonu wynosi około 5 godzin (u chorych w podeszłym wieku około 7 godzin), w marskości wątroby 11 godzin. T1/2 N-tlenku wynosi 4,5 godziny, a T1/2 N-demetylozopiklonu 7,4 godziny. In vivo zopiklon nie indukuje enzymów mikrosomalnych. Eliminacja leku odbywa się głównie w wyniku biotransformacji. Zopiklon wydalany jest w 80% z moczem głównie w postaci metabolitów, w około 16% z kałem, w 4–5% wydalany jest w postaci niezmienionej. Wielokrotne podawanie leku nie prowadzi do kumulacji zopiklonu ani jego metabolitów. Klirens osoczowy zopiklonu u chorych z marskością wątroby zmniejsza się o około 40%, co jest związane ze zwolnieniem procesów demetylacji.
+
+Wskazania
+Krótkotrwałe (do 4 tygodni) leczenie bezsenności przejściowej, krótkotrwałej albo przewlekłej u dorosłych, trudności w zasypianiu, spłycony sen.
+
+Przeciwwskazania
+Przeciwwskazaniami do stosowania leku są:
+nadwrażliwość na którykolwiek składnik preparatu
+niewydolność oddechowa
+ciężka postać zespołu bezdechu sennego
+ciężka niewydolność wątroby
+miastenia.
+
+Zopiklonu nie należy stosować u dzieci i młodzieży do 18. roku życia.
+
+Działania niepożądane
+Zopiklon może powodować uzależnienie, odstawienie leku, zwłaszcza po długotrwałym stosowaniu, może powodować bezsenność z "odbicia" lub zespół abstynencyjny. Długotrwałe stosowanie leku prowadzi do rozwoju tolerancji. Opisywano zaburzenia psychiczne i reakcje paradoksalne po przyjęciu zopiklonu, takie jak drażliwość, agresywność, splątanie, depresja, zaburzenia świadomości, omamy i koszmary senne. Pacjent powinien mieć zapewniony nieprzerwany sen po przyjęciu zopiklonu; zmniejsza to ryzyko wystąpienia niepamięci następczej.
+Najczęstszym objawem ubocznym leku jest gorzki smak w ustach. U przyjmujących lek występują niekiedy zawroty i bóle głowy, senność, uczucie zmęczenia, ataksja, podwójne widzenie, objawy dyspeptyczne, nudności, suchość błony śluzowej jamy ustnej, skórne reakcje alergiczne (świąd, osutka), rzadziej obrzęk naczynioruchowy czy reakcja anafilaktyczna. Bardzo rzadko występuje zwiększenie aktywności aminotransferaz i (lub) fosfatazy zasadowej.
+
+Przedawkowanie
+Przedawkowanie zopiklonu powoduje różnego stopnia zahamowanie ośrodkowego układu nerwowego, od senności do śpiączki. Leczenie jest objawowe i podtrzymujące, polega na płukaniu żołądka oraz monitorowaniu układu krążenia i oddechu. Jako antidotum można zastosować flumazenil (Anexate), podobnie jak w przypadku zatrucia pochodnymi benzodiazepiny. Hemodializa nie wykazuje skuteczności w usuwaniu zopiklonu z osocza.
+
+Interakcje
+Zopiklon nasila działanie leków wpływających depresyjnie na ośrodkowy układ nerwowy: neuroleptyków, leków nasennych, anksjolityków, leków przeciwdepresyjnych, opioidów, barbituranów, leków przeciwpadaczkowych, leków znieczulenia ogólnego, leków przeciwhistaminowych działających uspokajająco, a także alkoholu. Działanie zopiklonu mogą nasilać leki hamujące izoenzymy cytochromu P450, takie jak erytromycyna (inhibitor izoenzymu CYP3A4 cytochromu P450 hamuje metabolizm leku i może nasilać jego działanie nasenne). Ryfampicyna znacznie zmniejsza stężenie zopiklonu we krwi. Atropina zmniejsza stężenie zopiklonu we krwi, metoklopramid je zwiększa. Podczas równoległego podawania z karbamazepiną następuje zwiększenie stężenia zopiklonu i zmniejszenie stężenia karbamazepiny we krwi; stwierdzano addytywne działanie na czynność psychomotoryczną.
+
+Stosowanie w ciąży i laktacji
+Kategoria B. Nie zaleca się stosowania w ciąży. Jeśli dojdzie do przyjmowania leku w ciąży, u noworodka mogą wystąpić objawy odstawienia. Podawanie leku w III trymestrze lub w okresie porodu wiąże się z ryzykiem wystąpienia zespołu wiotkiego dziecka (ang. floppy infant syndrome), objawiającego się hipotonią, hipotermią, zaburzeniami oddychania i odruchu ssania u noworodka. Zopiklon przenika do pokarmu kobiecego, w związku z czym nie zaleca się stosowania leku w okresie karmienia piersią.
+
+Dawkowanie
+Leczenie powinno trwać jak najkrócej, nie dłużej niż miesiąc, włącznie z okresem stopniowego zmniejszania dawki leku. Lek podaje się doustnie w dawce 7,5&nbsp;mg przed kolacją. U osób w podeszłym wieku, z niewydolnością wątroby i(lub) nerek początkowa dawka jest o połowę mniejsza. Leczenie w bezsenności przejściowej trwa  2 do 5 dni, w bezsenności krótkotrwałej 2 do 3 tygodni.
+
+Uwagi
+W okresie stosowania zopiklonu i w następnym dniu po przyjęciu leku nie należy prowadzić pojazdów ani obsługiwać urządzeń mechanicznych w ruchu. W okresie stosowania leku nie wolno spożywać alkoholu.
+
+Preparaty
+Senzop®''
+Zopiratio®''
+Imovane®''
+Zimovane®'' (Wielka Brytania, Irlandia)
+Релаксон®'', Сомнол®'' (Rosja)
+Optidorm®'', Ximovan®'', Zodurat®'', Zop®'', Zopi-Puren®'', Zopicalm®'', Zopiclodura®'' (Niemcy)
+w Stanach Zjednoczonych w sprzedaży jest aktywny stereoizomer (preparat zopiklonu jest mieszaniną racemiczną), eszopiklon (Lunesta®'').
+
+
+
+Bibliografia
+Chemia leków : dla studentów farmacji i farmaceutów, (red.) Alfred Zejca, Maria Gorczyca, Wydawnictwo Lekarskie PZWL 2002, ISBN 83-200-2709-8.

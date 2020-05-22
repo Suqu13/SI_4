@@ -1,0 +1,43 @@
+Monety bulionowe (monety lokacyjne, inwestycyjne) – monety z metali szlachetnych (głównie ze złota, srebra, platyny) bite na cele inwestycyjne, czyli lokatę kapitału – zobacz: bulionizm. Monety te niekiedy nie mają zadeklarowanej wartości nominalnej, a zamiast nominału podana jest zawartość kruszcu, np. 1 uncja (t oz). Nakład zwykle nie jest ograniczony i zależy od popytu.
+
+Wartość monet bulionowych
+Obecną wartość danej monety bulionowej możemy obliczyć ze wzoru :
+
+, 
+gdzie W oznacza wartość monety, 
+m - masę w gramach, 
+p - próbę kruszcu, 
+c - cenę uncji danego kruszcu, 
+k - kurs dolara
+
+Przykładowo 1 suweren ma wartość : 
+
+
+Lista monet bulionowych
+Złote monety bulionowe
+Komisja Europejska publikuje co roku listę złotych monet, które muszą być traktowane jako złote monety inwestycyjne we wszystkich krajach członkowskich Unii Europejskiej. Lista ta posiada moc prawną. W Wielkiej Brytanii, Królewski Urząd Skarbowy wydał dodatkową listę złotych monet uzupełniającą listę Komisji Europejskiej. To lista złotych monet, z których urząd ten korzysta przy określaniu zwolnienia do celów inwestycyjnych. Ta druga lista nie posiada żadnej mocy prawnej. Poniższa lista przedstawia tylko najczęstsze monety zawarte na liście Komisji Europejskiej.
+
+
+Lista palladowych monet bulionowych
+
+
+Lista platynowych monet bulionowych
+
+
+Lista srebrnych monet bulionowych
+
+
+Galeria
+
+Plik:2006 AEGold Proof Rev.png|"American Gold Eagle" z 2006 r., USA
+Plik:American Platinum Eagle 2007 Proof Rev.jpg|"American Platinum Eagle" z 2007 r., USA
+Plik:American Silver Eagle, reverse.jpg|"American Silver Eagle", USA
+Plik:2006 American Buffalo Proof Reverse.jpg|"American Buffalo" z 2006 r., USA
+
+Plik:Sovereign Victoria 1842 662015.jpg|"Suweren" z wizerunkiem królowej Wiktorii z 1842 r.,Wielka Brytania
+Plik:Wiener Philharmoniker coin.jpg|"Wiener Philharmoniker" z 2002 r., Austria
+
+
+
+
+Linki zewnętrzne

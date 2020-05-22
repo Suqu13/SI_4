@@ -1,0 +1,24 @@
+Stawka zerowa VAT – preferencyjna stawka podatku VAT określona w wysokości 0% podstawy opodatkowania, wprowadzona przez ustawę z dnia 8 stycznia 1993 r. o podatku od towarów i usług oraz o podatku akcyzowym (). Stawka 0% jest w rzeczywistości zwolnieniem z zachowaniem prawa do odliczenia podatku naliczonego, nie mają zatem do niej zastosowania wymagania dyrektywy 2006/112/WE w zakresie ustalenia stawki obniżonej na poziomie co najmniej 5%.
+
+W efekcie zastosowania tej stawki nie występuje obowiązek naliczenia podatku VAT przez dokonującego dostawę towarów lub świadczącego usługę. Zastosowanie stawki zerowej jest często błędnie utożsamiane ze zwolnieniem towaru lub usługi od podatku VAT. Różnica pomiędzy "byciem zwolnionym od VAT" a "stosującym stawkę zerową" także wykracza poza sferę podatku od towarów i usług i w bardzo istotny sposób wpływa na wysokość kosztów uzyskania przychodu. Podatnik zwolniony od podatku, co do zasady – chociaż i tu są wyjątki określone w art. 86 ust. 1 i 9 ustawy o podatku od towarów i usług – nie ma prawa do pomniejszenia podatku należnego o naliczony, bowiem w przypadku sprzedaży zwolnionej  nie występuje kategoria podatku należnego. Podatek naliczony przy zakupie towarów i usług jest więc dla niego kosztem uzyskania przychodu.
+
+Podatnik stosujący stawkę zerową dokonuje sprzedaży opodatkowanej, tyle tylko, że stawką 0%, zatem może dokonać odliczenia podatku naliczonego przy zakupie towarów i usług dotyczących tej sprzedaży, bowiem jest ona opodatkowana. Może, w związku z tym, zażądać od urzędu skarbowego zwrotu całości podatku naliczonego. Zwrot podatku nadwyżki podatku naliczonego nad należnym następuje w terminie 180 dni od dnia złożenia deklaracji podatkowej VAT-7. W terminie krótszym tzn. w ciągu 60 dni można ubiegać się o zwrot w wysokości odpowiadającej 23% wartości sprzedaży opodatkowanej stawkami niższymi niż 23%. W szczególnych przypadkach opisanych ustawą terminem podstawowym jest 60 dni a skróconym 25 dni.
+
+Stawka zerowa VAT występuje:
+w obrocie krajowym, 
+w obrocie pomiędzy polskim płatnikiem podatku VAT (zarejestrowanym jako podatnik VAT UE) a podatnikiem unijnym niebędącym polskim płatnikiem podatku VAT,
+w dokonywanym przez dostawcę eksporcie towarów (wywóz towarów z terytorium kraju poza terytorium Wspólnoty Europejskiej). 
+
+Pierwszy przypadek dotyczy transakcji dokonywanych w kraju pomiędzy polskimi podatnikami VAT (tzw. "0% krajowe"), drugi dotyczy transakcji wewnątrzwspólnotowych dostaw i nabycia towarów pomiędzy podatnikami podatku od wartości dodanej i podatnikami podatku od towarów i usług (tzw. "0% unijne"). 
+
+W sytuacji świadczenia usług pomiędzy kontrahentami z różnych krajów UE
+dosyć drobiazgowe przepisy UE zaadaptowane w polskiej ustawie o podatku od towarów i usług umożliwiają nie poddanie opodatkowaniu niektórych usług (art. 27 i 28 ustawy) w Polsce przez ustalenie, że usługi te wykonywane są poza granicami Polski (np. usługi związane z nieruchomościami położonymi poza granicami Polski). Jest to trzecia sytuacja, w której polski podatnik VAT nie ma obowiązku naliczenia podatku, zachowując prawo do jego zwrotu. 
+
+Jedynie przy stosowaniu stawki zerowej można mówić o stawce podatku. W przypadku zwolnienia (zw) lub niepodlegania opodatkowaniu (np) podatnik nie ma do czynienia ze stawkami podatkowymi.
+
+Podstawa prawna
+Ustawa z dnia 11 marca 2004 r. o podatku od towarów i usług ().
+
+
+
+

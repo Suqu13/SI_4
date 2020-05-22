@@ -1,0 +1,12 @@
+MX-16''' – polski minikomputer będący następcą Mery 400, produkowany w latach 1985-1988 przez Przedsiębiorstwo Zagraniczne Amepol. Zachowywał pełną kompatybilność wsteczną z Merą 400. Wprowadzono niewielkie zmiany w budowie jednostki centralnej, pozwalające między innymi na użycie adresowania bajtowego w całej przestrzeni adresowej komputera. Zrezygnowano z pulpitu technicznego oraz opracowano nowe moduły systemu:
+
+pamięć półprzewodnikową o pojemności do 2 MB,
+procesor komunikacyjny PLIX, pozwalający na podłączanie szybkich pamięci masowych takich jak dyski twarde z interfejsem ST-506 (dyski "Winchester") i pamięci taśmowe PT-305,
+procesor komunikacyjny MULTIX, służący do podłączania wolnych urządzeń takich jak terminale znakowe, drukarki, dziurkarki i czytniki taśm,
+moduł dla automatyki pomiarowej.
+
+Ze względu na pełną kompatybilność, moduły opracowane dla MX-16 były również instalowane w istniejących komputerach Mera 400.
+
+Moduł pamięci półprzewodnikowej, oprócz pamięci ROM, zawierał również pamięć EPROM o pojemności 8 KB. Zapisane w niej było oprogramowanie pozwalające na przeprowadzenie wstępnej konfiguracji pamięci i jej przetestowanie, oraz bootloadery dla systemów operacyjnych CROOK-5 i SOM-3.
+
+Linki zewnętrzne

@@ -1,0 +1,74 @@
+Leki benzodiazepinowe – grupa leków o działaniu przeciwlękowym, uspokajającym, nasennym, przeciwdrgawkowym, miorelaksacyjnym i amnestycznym. Naśladując prawdopodobnie działanie naturalnie występujących związków w ośrodkowym układzie nerwowym, tzw. endozepin, ułatwiają one przekaźnictwo GABAergiczne. Pierwszą benzodiazepiną wprowadzoną do lecznictwa w 1960 r. był chlordiazepoksyd.
+
+Budowa
+
+Pod względem chemicznym są one pochodnymi (alkilowymi, triazolowymi, halogenowymi, fenylowymi, nitrowymi itp.) benzodiazepin, najczęściej 1'H-benzo[e][1,4]diazepiny, rzadziej 1'H-benzo[b][1,4]diazepiny (np. klobazam, arfendazam, lofendazam) lub benzo[d][1,2]diazepiny (np. tofisopam, girizopam, nerisopam). W niektórych przypadkach (np. brotizolam) pierścień benzenowy zastąpiony jest aromatycznym pierścieniem heterocyklicznym. 
+
+
+
+Mechanizm działania
+Działanie benzodiazepin polega na łączeniu się z receptorem benzodiazepinowym (BDZ), który jest częścią większego kompleksu receptorowego, zwanego receptorem GABA-ergicznym. Stymulacja receptorów BDZ powoduje zwiększenie powinowactwa GABA do receptora GABA-ergicznego i zwiększenie stymulacji tego receptora. Receptory GABA-ergiczne są związane z kanałem chlorkowym i ich pobudzenie powoduje napływ jonów Cl-''' do komórki i jej hiperpolaryzację. Procesy te prowadzą do zmniejszenia pobudliwości neuronów i zahamowania przewodzenia impulsów, co objawia się działaniem uspokajającym i nasennym.
+
+Poszczególne leki z tej grupy różnią się powinowactwem do receptora BDZ, czasem i siłą oraz profilem. Wśród benzodiazepin można wyróżnić leki o bardziej zaznaczonym charakterze nasennym/uspokajającym (flunitrazepam, nitrazepam, estazolam), o silniejszym działaniu przeciwlękowym (medazepam, prazepam, alprazolam) oraz o silniejszym działaniu przeciwdrgawkowym (diazepam, klonazepam).
+
+Benzodiazepiny są pozbawione wielu wad leków uspokajająco-nasennych poprzedniej generacji (np. barbituranów, obecnie w Polsce rzadziej stosowanych) – są przede wszystkim o wiele mniej toksyczne, a także dużo bezpieczniejsze m.in. dzięki specyficznej odtrutce jaką jest imidazobenzodiazepina (flumazenil), która jest konkurencyjnym antagonistą receptora benzodiazepinowego. Odwraca szybko (w ciągu 30 – 60 s) działanie pochodnych benzodiazepiny, co ułatwia zdiagnozowanie i w konsekwencji leczenie w przypadku przedawkowania. W dużym uproszczeniu, procedura ratowania polega na podaniu flumazenilu – jeżeli nastąpi pełny powrót świadomości – lekarz ma pewność, że zatrucie zostało spowodowane benzodiazepinami, a nie innymi środkami. Należy mieć jednak świadomość, że odtruwanie polega na klasycznych metodach, czyli np. forsownej diurezie, a flumazenil stosowany jest raczej jako wskaźnik, który ułatwia zdiagnozowanie zatrucia benzodiazepinami a nie innymi środkami (przy ostrym przedawkowaniu, po podaniu flumazenilu zatruty bardzo szybko z powrotem traci przytomność).
+
+Zastosowanie i odstawienie
+Benzodiazepiny stosowane są powszechnie do doraźnego leczenia nasilonego lęku, bezsenności, łagodzenia objawów odstawiennych w alkoholizmie, w premedykacji do zabiegów diagnostycznych i chirurgicznych, sedacji pooperacyjnej. Znajdują zastosowanie w leczeniu stanów zwiększonego napięcia mięśniowego oraz – pomocniczo – jako leki przeciwdrgawkowe w leczeniu niektórych typów padaczki.
+
+Należy unikać stosowania benzodiazepin w leczeniu przewlekłym, z uwagi na wzrost tolerancji i związany z tym spadek skuteczności terapeutycznej. Systematyczne i długotrwałe zażywanie benzodiazepin (ponad miesiąc, codziennie) może prowadzić do silnego uzależnienia psychicznego i fizycznego, zwłaszcza u osób z tendencją do uzależnień w wywiadzie. Ryzyko uzależnienia u osób stosujących benzodiazepiny przez długi czas ocenia się na 0,1-2%, jest więc dość niskie pomimo wielu popularnych opinii. Benzodiazepiny powinny być szczególnie ostrożnie stosowane u osób w wieku podeszłym, ponieważ obniżają sprawność psychomotoryczną, co objawia się zwiększonym ryzykiem upadków, możliwym pogorszeniem pamięci krótkotrwałej i zaburzeniami funkcji kognitywnych (poznawczych).
+Długofalowe stosowanie benzodiazepin prowadzi do osłabienia ich działania, w wyniku rozwoju zjawiska tolerancji. Ryzyko rozwoju tolerancji zależy w dużym stopniu od okresu półtrwania poszczególnych pochodnych benzodiazepiny we krwi i ogólnie jest większe w przypadku benzodiazepin działających krótkotrwale.
+
+Odstawianie benzodiazepin u osób uzależnionych musi odbywać się pod ścisłym nadzorem lekarza, z uwagi na ryzyko wystąpienia niebezpiecznych dla zdrowia i życia objawów abstynencyjnych (lęk, niepokój, drażliwość, zaburzenia łaknienia, bezsenność, wymioty, zaburzenia widzenia, skurcze mięśniowe, napady drgawkowe, zespół majaczeniowy).
+
+Szczególnie niebezpieczne w przypadku przewlekłego stosowania benzodiazepin jest tzw. zjawisko odbicia polegające na tym, że po odstawieniu leku objawy, które on zmniejszał, nierzadko wracają z nasileniem o wiele większym niż przed farmakoterapią. Zjawisko to szczególnie utrudnia odstawienie benzodiazepin.
+
+Farmakokinetyka i farmakodynamika
+Większość leków z tej grupy wchłania się w 80 – 90% w postaci niezmienionej po podaniu doustnym (wyjątki: midazolam i klorazepat). Charakteryzują się zwykle dużą lipofilnością. Maksymalne stężenie we krwi po podaniu doustnym osiągają po 0,5 – 8 godzinach (najszybciej triazolam, midazolam). Po wchłonięciu łączą się z białkami surowicy w 85 – 95%.Metabolizowane w wątrobie przez enzymy mikrosomalne, w części przypadków do aktywnych metabolitów.Wydalane z moczem w postaci nieaktywnej, jako metabolity sprzężone z kwasem glukuronowym (np. lorazepam). Nie wpływają na metabolizm wątrobowy. Przemiany benzodiazepin, wskutek hamowania enzymów mikrosomalnych hepatocytów, ulegają spowolnieniu w trakcie przyjmowania cymetydyny oraz doustnych środków antykoncepcyjnych.
+
+Całkowity czas działania benzodiazepin może ulec znacznemu wydłużeniu u osób w podeszłym wieku. Podanie domięśniowe charakteryzuje się dużą zmiennością stężenia leku we krwi. Nie jest polecane poza stanami nagłymi.
+
+Podział benzodiazepin ze względu na okres działania
+Główny podział kliniczny BZD dotyczy czasu działania leku. Wyróżnia się BZD o długim (>24 h), średnim i krótkim (
+
+
+
+
+
+
+
+Antagoniści
+Antagonistą receptorów benzodiazepinowych jest flumazenil. Lek podawany w celu zniesienia działania benzodiazepin, stosowany w przypadkach ich przedawkowania oraz w encefalopatii wątrobowej.
+
+Interakcje
+Alkohol i barbiturany bardzo mocno nasilają działanie depresyjne benzodiazepin na ośrodkowy układ nerwowy, które w takim przypadku może doprowadzić do śpiączki a nawet śmierci. Hamowanie jest w takim przypadku wyraźnie silniejsze niż wynikałoby to ze zsumowania efektów poszczególnych substancji.Ponadto każdy środek działający depresyjnie na OUN dodatkowo wzmaga hamujące efekty tych leków.
+
+Działania niepożądane
+Do najczęściej występujących objawów niepożądanych, których częstość występowania koreluje zwykle z zastosowaną dawką należą:
+senność
+zaburzenia koordynacji ruchowej
+ataksja
+amnezja następcza
+zaburzenia akomodacji
+osłabienie siły mięśniowej
+Inne rzadziej występujące objawy to:
+oczopląs
+bóle głowy
+obniżenie libido
+parestezje
+drżenia mięśniowe
+alergia skórna.
+
+Leki z tej grupy mają pewien wpływ na fazę snu REM (tłumią sen REM). Spłycają fazę czwartą snu oraz przy odpowiednio długim okresie półtrwania wydłużają całkowity czas snu.Stosowane w czasie ciąży przenikają przez barierę łożyskową. Ich działanie teratogenne objawia się zwiększonym prawdopodobieństwem wystąpienia rozszczepu podniebienia. Podane przed porodem mogą być przyczyną zaburzeń oddychania dziecka.
+
+W większych dawkach mogą być powodem zatrucia. Objawy ostrego zatrucia są podobne dla wszystkich leków uspokajających. Są to: senność, osłabienie, oczopląs, podwójne widzenie, śpiączka, sinica, drgawki, spłycenie oddechu. Zatrucie ostre bardzo rzadko kończy się zgonem (niebezpieczne dla życia mogą być zatrucia mieszane z etanolem i/lub barbituranami); jednak może być obciążeniem dla wątroby jeżeli masywnie przedawkowano nitrowe pochodne benzodiazepiny (ryzyko stresu oksydacyjnego).
+
+Dawka śmiertelna nie jest dokładnie znana, uważa się, że śmierć może spowodować zażycie od 50 do 500&nbsp;mg leku na kilogram masy ciała (dla człowieka o masie 70&nbsp;kg dawka śmiertelna wynosiłaby 3,5 – 35 g).
+
+Reakcje paradoksalne
+Wszystkie benzodiazepiny mogą wywołać też działania paradoksalne, takie jak niepokój czy pobudzenie. Dotyczy to jednak głównie osób łączących te leki z alkoholem, a także pacjentów w wieku podeszłym i z organicznym uszkodzeniem ośrodkowego układu nerwowego. Podawanie benzodiazepin takim osobom wymaga zachowania szczególnej ostrożności i starannego rozważenia wskazań do ich zastosowania.
+
+
+
+Linki zewnętrzne
+Bibliografia

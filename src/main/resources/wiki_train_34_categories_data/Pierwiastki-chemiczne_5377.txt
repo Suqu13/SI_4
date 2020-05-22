@@ -1,0 +1,35 @@
+Rad (Ra, łac. radium) – pierwiastek chemiczny z grupy metali ziem alkalicznych w układzie okresowym. Nazwa pochodzi od łacińskiego słowa radius oznaczającego promień.
+
+Charakterystyka
+W formie czystej rad jest srebrzystym, lśniącym i miękkim metalem. Posiada silne własności promieniotwórcze. Jego własności chemiczne są zbliżone do baru. Reaguje stosunkowo powoli z tlenem atmosferycznym tworząc tlenek RaO i dość gwałtownie z wodą tworząc wodorotlenek Ra(OH)2.
+
+Kationy Ra2+ należą do IV grupy analitycznej.
+Sole radu barwią płomień na kolor karmazynowy.
+
+Występowanie
+Rad występuje naturalnie w rudach uranu, w formie tlenku RaO i wodorotlenku Ra(OH)2. W skorupie ziemskiej występuje w ilości ok. 6x10-7 ppm.
+
+Izotopy i radioaktywność
+Rad posiada 33 izotopy. Wszystkie jego izotopy są niestabilne. Najtrwalszy z nich jest izotop 226, który ma czas połowicznego rozpadu 1599 lat. 226Ra rozpada się trojako; energia promieniowania promieniowania α, β i γ wynosi odpowiednio 4,8, 0,0036 i 0,0067 MeV.
+
+Izotopy radu występujące w szeregu promieniotwórczym aktynu i toru noszą nazwy zwyczajowe:
+223Ra: aktyn X, AcX (powstaje z 227Ac po rozpadzie α i β; szereg uranowo-aktynowy)
+224Ra: tor X, ThX (powstaje z 228Th po rozpadzie α; szereg torowy)
+228Ra: mezotor I, MsThI lub MsTh1 (powstaje z 232Th po rozpadzie α; szereg torowy)
+
+Odkrycie
+Rad został odkryty przez Marię Skłodowską-Curie i jej męża Piotra Curie w tym samym roku co polon. Jako datę tego odkrycia, zgodnie z zeszytem laboratoryjnym Marii, przyjmuje się rok 1898.
+
+Zastosowanie
+Najważniejsze związki radu to sole Ra2+ (chlorek i węglan) które były używane w terapii nowotworowej i do produkcji farb luminescencyjnych. Obecnie rad nie jest już stosowany, ze względu na dużą radioaktywność, powodującą białaczkę u osób uczestniczących w produkcji soli radu.
+
+Znaczenie biologiczne
+Rad pośrednio zwiększa szybkość mutagenezy organizmów, szczególnie żyjących w jaskiniach. Średnia zawartość radu w kościach i tkankach ludzkich wynosi ok. 2x10-9 ppm. Działanie mutacyjne radu w środowisku jaskiniowym spotęgowane jest przez radon, który powstaje z radu i przenika do izolowanej atmosfery jaskini. Obecność radu w dzisiejszym środowisku naturalnym człowieka jest związana m.in. z kopalinami wchodzącymi w skład betonu. Rad dostający się do organizmu drogą oddechową jest 10 razy bardziej kancerogenny niż spożyty.
+
+
+
+
+
+
+
+

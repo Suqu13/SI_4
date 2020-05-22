@@ -1,0 +1,10 @@
+
+ARAL ''(Analogowy Analizator Równań Algebraicznych Liniowych)'' to skonstruowane przez K. Bochenka z GAM prototypy komputera analogowego do rozwiązywania układów równań niekoniecznie liniowych metodą kolejnych przybliżeń. Wykonano 3 wersje (ARAL-1, ARAL-2 i ARAL-3) mogące rozwiązywać układ 8-12 równań.
+
+Bibliografia
+Rozwój techniki w PRL Wydawnictwo Naukowo-Techniczne, Warszawa 1965 r.
+
+
+
+
+

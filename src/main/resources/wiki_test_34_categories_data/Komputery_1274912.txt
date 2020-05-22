@@ -1,0 +1,12 @@
+Virtual Private Server (VPS) - podział maszyny, jaką jest serwer, na kilka mniejszych, wirtualnych.
+
+VPS umożliwia pełny dostęp do konta root. Do zarządzania VPS-ami najczęściej wykorzystuje się oprogramowanie Xen, VMware, FreeVPS, Virtuozzo, OpenVZ.
+
+Podział zasobów
+Przydział zasobów zależy od administratora serwera. Przydziela się zasoby gwarantowane, dedykowane dla VPS zasoby sprzętowe do których musi mieć dostęp zawsze oraz te, które mogą być osiągnięte chwilowo, gdy serwer nie jest obciążony.
+
+Ograniczenia
+Do głównych ograniczeń należy zależność od stanu głównej maszyny (jeśli główna maszyna nie działa, nie działa żaden z VPS-ów). W przypadku niektórych rozwiązań (np. OpenVZ) nie ma dostępu do kompilacji jądra systemu operacyjnego. Ta funkcja na VPS z rozwiązaniem o nazwie XEN bardzo poszerza możliwości administracyjne VPS-a. U większości firm hostingowych można na tym rodzaju VPX (XEN) ustalić też własną pamięć wymiany.
+
+
+

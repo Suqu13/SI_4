@@ -1,0 +1,8 @@
+Laser femtosekundowy - laser generujący impulsy światła o czasie trwania od kilku do kilkudziesięciu femtosekund (1 femtosekunda to 10-15 sekund). We współczesnych laserach tego typu ośrodkiem czynnym jest często kryształ syntetycznego  szafiru domieszkowanego  tytanem (Ti:Al2O3) albo światłowód domieszkowany iterbem (lub innymi pierwiastkami ziem rzadkich, zob. np. wzmacniacz optyczny). Generacja tak krótkich impulsów światła jest możliwa dzięki zjawisku pasywnej lub aktywnej synchronizacji  modów. 
+
+Inaczej niż laser pracy ciągłej, laser femtosekundowy ma szerokie widmo, tym szersze, im krótsze są emitowane przez niego impulsy. Poza tym, dzięki temu że energia emitowanego promieniowania skupiona jest w ultrakrótkim impulsie, nawet przy niewielkiej mocy średniej można osiągnąć bardzo dużą moc chwilową.
+
+Laserom femtosekundowym zawdzięcza rozwój femtochemia (Nagroda Nobla z chemii w 1999) a także nowe metody w precyzyjnej spektroskopii laserowej (Nagroda Nobla z fizyki w 2005). Do innych zastosowań należą mikroskopia dwufotonowa, chirurgia oka czy obróbka materiałów w nanotechnologii.
+
+Linki zewnętrzne
+

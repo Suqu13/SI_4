@@ -1,0 +1,47 @@
+Sony Xperia tipo (Sony ST21i) – smartfon produkowany przez Sony MC. Zaprezentowany został w sierpniu 2012 roku. Model ten dostępny jest również w wersji dual SIM - Xperia tipo dual (ST21i2).
+
+Najważniejsze cechy i funkcje
+System operacyjny: Android 4.0 Ice Cream Sandwich
+Procesor: Qualcomm MSM7225A (taktowanie: 800 MHz)
+Wbudowana pamięć: 2,9 GB
+Wbudowany aparat: 3,2 Mpx
+Szybki dostęp do internetu dzięki połączeniom 3G – HSDPA oraz HSUPA (3.5G) i WLAN 802.11 b/g/n
+Możliwość rozszerzenia pamięci poprzez karty microSD i microSDHC (maks. 32 GB)
+Nagrywanie wideo w rozdzielczości VGA
+Maksymalna pamięć telefonu 34 GB
+Wbudowany moduł GPS z funkcją AGPS
+Radio FM stereo z RDS
+Akcelerometr
+
+Częstotliwości działania
+GSM / EDGE 850 900 1800 1900
+UMTS 900 2100
+Wymiary i waga
+Wymiary: 103 x 57 x 13 mm
+Masa telefonu (z baterią): 99,4 g
+Wyświetlacz
+3.2" - 320 x 480 px - pojemnościowy ekran dotykowy TFT Multi-Touch
+Aparat fotograficzny i kamera
+Wbudowany aparat fotograficzny 3,2 Mpx (2048 x 1536 px)
+Nagrywanie wideo w rozdzielczości VGA w formatach H.263, H.264 i MPEG-4
+Muzyka
+Odtwarzacz plików muzycznych
+Radio FM stereo z RDS
+Dyktafon
+Obsługiwane formaty: MP3, AAC, AAC+, eAAC+, AMR, Ogg, SMF, WAV.
+
+Łączność
+Możliwość łączenia się i wyszukiwania sieci WLAN (IEEE 802.11b/g/n).
+Obsługa Bluetooth w standardzie 2.1.
+Wyjście słuchawkowe 3.5 mm jack
+Transmisja danych
+GPRS.
+Maksymalna szybkość pobierania danych (HSDPA) – 7,20 Mb/s
+Maksymalna szybkość wysyłania danych (HSUPA) – 5,76 Mb/s
+Zasilanie
+Bateria litowo-jonowa o pojemności 1500 mAh, umożliwiająca (według producenta) do 470 godzin czuwania lub do 5 godzin rozmowy (w trybie GSM), odtwarzanie muzyki do 30 godzin, odtwarzanie wideo do 3 godzin.
+
+Zobacz też
+Xperia
+
+Bibliografia

@@ -1,0 +1,82 @@
+
+GRAIL (ang. Gravity Recovery and Interior Laboratory) — misja NASA dwóch bliźniaczych sond kosmicznych, które zostały wysłane na tę samą orbitę wokółksiężycową i badały jego pole grawitacyjne. Pomiary, które wykonały posłużyły naukowcom do stworzenia mapy pola grawitacyjnego Księżyca w wysokiej rozdzielczości. Technika pomiarów grawitacyjnych była wzorowana na misji GRACE (Gravity Recovery And Climate Experiment), która mapuje grawitację Ziemi od 2002 roku.
+
+W styczniu 2012 roku sondy otrzymały oficjalne nazwy, które zostały wybrane przez NASA w ramach konkursu rozpisanego wśród amerykańskich szkół w 2010. GRAIL-A otrzymał nazwę „Ebb”, a GRAIL-B - „Flow”.  Satelity zakończyły misję 17 grudnia 2012 rozbiciem na brzegu krateru księżycowego.
+
+Cele naukowe
+Podstawowym naukowym celem misji było poznanie struktury Księżyca, badanie jego wnętrza od skorupy do jądra. Misja pozwoli zrozumieć ewolucję termiczną naszego naturalnego satelity. Drugorzędnym celem jest przeniesienie szczegółowej wiedzy na temat Księżyca dla innych ciał w Układzie Słonecznym. Cele te miały zostać osiągnięte poprzez utworzenie mapy pola grawitacyjnego Księżyca o bardzo wysokiej rozdzielczości i dokładności. Mapy umożliwiają poznanie kompozycji jego wewnętrznych struktur i pozwolą określić fazy ociepleń i ochłodzeń.
+
+Program naukowy misji podzielony był na 6 zadań:
+Wykonanie map struktury litosfery księżycowej.
+Zrozumienie asymetrycznej ewolucji termicznej Księżyca.
+Określenie podpowierzchniowej struktury basenów uderzeniowych i pochodzenia maskonów.
+Ustalenie czasowej ewolucji brekcji skorupy i magmatyzmu.
+Określenie głębokiej struktury wewnętrznej na podstawie obserwacji pływów na Księżycu.
+Ustalenie ograniczeń na rozmiar stałego jądra wewnętrznego Księżyca.
+
+Sondy
+
+GRAIL-A i GRAIL-B wykorzystywane w tej misji zostały wyprodukowane przez firmę Lockheed Martin Space Systems Company. Satelity były identyczne w budowie, z wyjątkiem umiejscowienia niektórych narzędzi nawigacyjnych i komunikacyjnych. Te różnice wynikały z konieczności komunikacji między satelitami i były związane z ich położeniem na orbicie. Sondy orbitowały wokół Księżyca zwrócone do siebie antenami pasma Ka, przez co także ich orientacja względem Księżyca była różna. 
+
+Sondy zostały zbudowane na bazie Eksperymentalnego Małego Satelity Lockheed Martin (XSS – 11). Wyposażenie naukowe sond pochodzi z projektu GRACE, który badał pole grawitacyjne Ziemi. Satelita GRAIL miał prostopadłościenną strukturę kompozytową o masie 201 kg (wraz z paliwem 307 kg).
+
+Na system kontroli orientacji statku składały się: sensor światła słonecznego, urządzenie śledzące gwiazdy, reakcyjne koła zamachowe i jednostka pomiaru bezwładnościowego IMU (Inertial Measurment Unit). Sondy były stabilizowane trójosiowo.
+
+W skład układu napędowego, który był odpowiedzialny za manewry korekcyjne i wprowadzenie na orbitę wokółksiężycową wchodziły: zbiornik paliwowy, wysokociśnieniowy zbiornik z helem, system dostarczania i dystrybucji paliwa, główny silnik MR-106L (napęd: ciekła hydrazyna) o ciągu 22 N oraz osiem silników kontroli orientacji statku o ciągu 0,9 N każdy.
+
+Każdy z orbiterów był wyposażony w dwa panele słoneczne o łącznej mocy 700 W i baterię litowo-jonową o pojemności 30 Ah. System przetwarzania danych składał się z komputera RAD-750 z pamięcią RAM o pojemności 128 MB. Dodatkowa pamięć o pojemności 512 MB znajdowała się w karcie interfejsu ładunku (Memory and Payload Interface Card).
+
+System komunikacyjny składał się z transpondera pasma S i dwóch anten niskiego zysku.
+
+Instrumenty naukowe
+Na każdej sondzie zainstalowany był system służący do pomiarów grawitacyjnych oraz kamery MoonKAM.
+
+Lunar Gravity Ranging System (LGRS)
+System odpowiedzialny za wysyłanie i odbiór sygnałów służących do precyzyjnych pomiarów zmian odległości pomiędzy obydwoma orbiterami w trakcie przelotu nad obszarami Księżyca o zmiennej gęstości. W skład systemu wchodziły:
+Ultra-Stable Oscillator (USO) – ultrastabilny oscylator generujący sygnał referencyjny dla układów MWA i TTA;
+Microwave Assembly (MWA) – urządzenie mikrofalowe generujące sygnał w z zakresie pasma Ka, który był transmitowany do drugiego orbitera;
+Time-Transfer Assembly (TTA) – system transferu czasu generujący sygnał w z zakresie pasma S, tworzący dwustronne łącze służące do synchronizacji i pomiaru przesunięcia czasu między zegarami pokładowymi obydwu sond;
+Gravity Recovery Processor Assembly (GPA) – łączył wszystkie informacje otrzymane z MWA i TTA i tworzył dane przesyłane do stacji naziemnej.
+
+MoonKAM (Moon Knowledge Acquired by Middle school students)
+Zestaw kamer przeznaczonych dla celów edukacji i oświaty publicznej. MoonKAM na każdej sondzie składał się z 4 kamer i cyfrowego kontrolera wideo i był zdolny do wykonywania do 30 zdjęć na sekundę. Kamery zostały wykonane w zakładach Ecliptic Enterprises Corporation w Pasadenie. Kierownikiem zespołu była dr Sally Ride. Instrument kierowany był przez University of California w San Diego i Sally Ride Science.
+
+Rakieta nośna
+Rakieta, która wyniosła satelity to Delta II 7920H-10C wyprodukowana przez spółkę United Launch Alliance. Wykorzystywana konfiguracja posiada dwa stopnie rakietowe z dodatkowymi 9 rakietami na paliwo stałe. Zasadnicze stopnie napędzane są mieszaniną ciekłego tlenu (LOX) i kerozyny (RP-1). Całość rakiety zakończona jest modułem ładunkowym o wysokości 3 metrów. Model rakiety desygnowany literą „H” oznacza, że cechuje się on większą wydajnością w stosunku do standardowych modeli Delty II. Całość ma około 38 metrów wysokości. Pierwszy stopień używa dwupaliwowego silnika na paliwo ciekłe RS-27A firmy Rocketdyne. Drugi stopień jest napędzany silnikiem Aerojet AJ10-118K. Paliwem pędnym jest mieszanina Aerozine 50 (połączenie hydrazyny i dimetylohydrazyny niesymetrycznej) oraz tetratlenku diazotu.
+
+Przebieg misji
+
+
+
+Start miał odbyć się 8 września 2011 roku ze ze stanowiska startowego SLC-17B na Przylądku Canaveral, jednak z powodu niesprzyjających warunków wietrznych został przełożony na 9, a później na 10 września. W momencie startu został odpalony pierwszy stopień rakiety nośnej i sześć rakiet pomocniczych. Gdy rakiety pomocnicze się wypaliły, uruchomione zostały pozostałe trzy. Po separacji pierwszego stopnia nastąpiło odpalenie silnika drugiego członu. Pierwsze odpalenie umieściło ładunek na niskiej orbicie na wysokości 167 km. Potem nastąpiła prawie godzinna przerwa w pracy silnika. Następnie drugi stopień został uruchomiony ponownie, by wejść na trajektorię w kierunku Księżyca.
+
+Kilka minut po ostatnim odpaleniu silnika nastąpił manewr reorientacji drugiego stopnia. Po wykonaniu manewru nastąpiła separacja pierwszego satelity (GRAIL-A). Nieco ponad siedem minut później nastąpił podobny manewr, by ustalić wymaganą orientację drugiego satelity. Gdy statek osiągnął odpowiednią orientację, GRAIL-B oddzielił się od rakiety. Gdy oba satelity znalazły się w zasięgu światła słonecznego, nastąpiło rozwinięcie paneli słonecznych. Cała operacja trwała 2 minuty i odbyła się w tym samym czasie dla obu sond.
+
+Kolejna faza misji to lot transferowy do Księżyca (TLC – Trans-Lunar Cruise Phase), podczas którego sondy przeleciały w pobliżu punktu L1 układu Ziemia - Słońce. Faza ta trwała 3,5 miesiąca. W jej czasie nastąpiła seria kontroli i kalibracji systemów statku oraz korekty ścieżki lotu satelitów. Podczas drugiego i trzeciego manewru korekcyjnego zmodyfikowano czas przybycia satelitów do Księżyca, w ten sposób, by doleciały one do Srebrnego Globu oddzielnie, w odstępie 1 dnia.
+
+31 grudnia 2011 na orbitę Księżyca (LOI) weszła pierwsza z sond (GRAIL-A). GRAIL-B weszła na orbitę 1 stycznia 2012 roku. Oba satelity doleciały w pobliże Księżyca nad jego południowym biegunem. Praca silników zwalniających trwała 38 minut dla każdego z satelitów. Odpalenie zmieniło ich prędkość o prawie 200 m/s. Statki po tym manewrze zostały umieszczone na polarnej orbicie eliptycznej o okresie 11,5 h.
+
+2 stycznia 2012 rozpoczęła się faza redukcji okresów obiegu satelitów, która trwała 5 tygodni. W jej rezultacie oba statki osiągnęły 2-godzinne okresy obiegów.
+
+6 lutego 2012 przeprowadzone zostały manewry mające na celu przybliżyć i ustawić oba satelity w wymaganym położeniu względem siebie na tej samej orbicie. Do tego momentu GRAIL-A i GRAIL-B działały niezależnie. Manewr ten przygotował ich pozycje do wspólnej pracy.
+
+Faza naukowa od 7 marca do 29 maja 2012 roku przeznaczona była na badanie pola grawitacyjnego Księżyca. Podczas badań odległość między satelitami wahała się od 65 do 225 km, a cała powierzchnia Księżyca została przeskanowana trzykrotnie.
+
+Następnie instrumenty naukowe obu satelitów wyłączono. 4 lipca nastąpiło częściowe zaćmienie Księżyca, ale nie miało to negatywnego wpływu na działanie sond. 30 sierpnia 2012 rozpoczęła się część rozszerzona misji, która trwała do 3 grudnia 2012. W jej trakcie planowano jeszcze dokładniejsze zbadanie pola grawitacyjnego i w tym celu orbity sond zostały obniżone do średniej wysokości 23 km nad powierzchnią Księżyca.
+
+Po zakończeniu misji, 17 grudnia 2012 obydwie sondy zostały skierowane w kierunku powierzchni Księżyca i rozbiły się na zboczu bezimiennego masywu położonego na południe od krateru Mouchez i na północny wschód od krateru Philolaus, w miejscach o współrzędnych 75,609°N i 333,407°E (sonda Ebb) oraz 75,651°N, 333,168°E (sonda Flow). Pierwszy uderzył Ebb, a drugi Flow, kolejno o 22:28:51 i 22:29:21 UTC. Prędkość sond w momencie upadku wynosiła 1,7 km/s. Miejsce uderzenia zostało nazwane Sally K. Ride Impact Site, na cześć amerykańskiej astronautki Sally Ride.
+
+Zespół
+GRAIL był jedenastą misją realizowaną w ramach programu Discovery prowadzonego przez agencję NASA. Projekt jest kierowany przez ośrodek NASA Jet Propulsion Laboratory. Kierownikiem misji (Principal Investigator) jest Maria Zuber z Massachusetts Institute of Technology w Cambridge. Głównym naukowcem projektu (Project Scientist) jest Michael Watkins, a jego zastępcą Sami Asmar, oboje z NASA Jet Propulsion Laboratory.
+
+Całkowity koszt misji ma wynieść około 496,2 milionów USD.
+
+Zobacz też
+planowane loty księżycowe
+
+
+
+
+
+Bibliografia
+Linki zewnętrzne

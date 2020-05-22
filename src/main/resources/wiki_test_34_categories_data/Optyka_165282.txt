@@ -1,0 +1,9 @@
+
+
+Interferometria wielkobazowa, interferometria międzykontynentalna (ang. Very Long Baseline Interferometry, skrót VLBI) – rodzaj interferometrii, w której dane odbierane przez niezależne od siebie radioteleskopy, znajdujące się w znacznej odległości od siebie (np. na różnych kontynentach) są zapisywane razem z dokładnym czasem obserwacji (najczęściej wyznaczanym na podstawie wskazań miejscowego zegara atomowego) i przechowywane do późniejszej analizy na taśmie magnetycznej lub twardym dysku. Postęp w dziedzinie technik sieci komputerowych pozwolił także na przeprowadzanie eksperymentów, w których dane przesyłane są na bieżąco poprzez specjalnie zestawiane łącza o gigabitowej przepustowości (tzw. e-VLBI). Zebrane zapisy są następnie zestawiane z danymi pochodzącymi z innych radioteleskopów i używane do utworzenia obrazu końcowego.
+
+Rozdzielczość osiągana przy użyciu interferometrii jest odwrotnie proporcjonalna do odległości najbardziej skrajnych radioteleskopów w sieci. Technika VLBI umożliwia osiągnięcie rozdzielczości kątowej kilka rzędów lepszej niż przy tradycyjnej interferometrii, w której poszczególne odbiorniki są połączone np. światłowodem. VLBI jest używana głównie w radioastronomii, chociaż ostatnio zaczęto ją wprowadzać również w astronomii optycznej.
+
+Spośród polskich obserwatoriów do systemu VLBI należą dwa radioteleskopy w Obserwatorium Astronomiczne UMK w Piwnicach.
+
+Linki zewnętrzne

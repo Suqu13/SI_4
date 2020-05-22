@@ -1,0 +1,93 @@
+
+Nook – marka czytników książek elektronicznych opartych na platformie Android oferowana przez amerykańską księgarnię Barnes & Noble. Premiera pierwszego urządzenia miała miejsce 30 listopada 2009 roku w Stanach Zjednoczonych. Pierwszy Nook został wyposażony w dwa wyświetlacze: główny 6" wyświetlacz wykonany w technologii E-papieru oraz drugi mniejszy kolorowy ekran dotykowy służący kontroli czytnika. Urządzenie oferowało łączność z sieciami Wi-Fi oraz siecią komórkową 3G firmy AT&T, posiadało 2 GB wewnętrznej pamięci oraz dodatkowy slot na karty SD.
+
+Cechy
+Wszystkie czytniki Nook posiadają następujące funkcje:
+łączność Wi-Fi (darmowa łączność z siecią B&N w sklepach B&N)
+przechowywanie zakupionych książek i czasopism na koncie B&N (Free Cloud Storage)
+obsługa dokumentów w formacie EPUB (w tym formacie oferowane są publikacje w księgarni B&N) oraz PDF (w przypadku dokumentów w formacie PDF czytnik umożliwia wyświetlenie tekstu dopasowanego do rozmiaru wyświetlacza, niezależnie od oryginalnego formatu strony zapisanego w pliku PDF – tzw. funkcja reflow)
+możliwość pożyczania książek innym posiadaczom Nooka (Book Lending & Borrowing)
+
+Urządzenia
+Z wyświetlaczem E-papier
+Nook Simple Touch
+Nook Simple Touch to druga generacja czytnika Nook, reklamowana przez B&N jako ''„ultralekki czytnik o matowym ekranie dotykowym, którego bateria wytrzymuje ponad dwa miesiące na jednym ładowaniu”''. Urządzenie pracuje pod kontrolą systemu Android, posiada 6" ekran dotykowy wykonany w technologii E-papieru, 2 GB pamięci wewnętrznej, slot na karty SD oraz łączność z sieciami Wi-Fi.
+
+Specyfikacja:
+6" ekran dotykowy wykonany w technologii E-papieru o rozdzielczości 600 × 800 pikseli (167 ppi)
+waga: 212 g
+procesor: 800 MHz Single-Core Processor OMAP 3621
+RAM: 256 MB
+pamięć wbudowana: 2GB (z czego 750 MB jest zarezerwowane na materiały zakupione w B&N), rozszerzalna przy pomocy kart SD.
+łączność: wbudowana karta Wi-Fi (802.11b/g/n)
+bateria: wbudowana bateria o pojemności 1530 mAH (3.7V, 5.66 Wh)
+
+Nook Simple Touch with Glowlight
+Nowy model czytnika Nook posiadający wszystkie cechy swojego poprzednika wzbogacone o podświetlenie ekranu („Glowlight”) umożliwiające czytanie przy słabym oświetleniu.
+
+Nook Classic (wycofany z oferty)
+Pierwszy model czytnika Nook. Wyposażony w dwa wyświetlacze: główny 6" wyświetlacz wykonany w technologii E-papieru oraz drugi mniejszy kolorowy ekran dotykowy służący kontroli czytnika. Urządzenie oferowało łączność  z sieciami Wi-Fi oraz siecią komórkową 3G firmy AT&T, posiadało 2 GB wewnętrznej pamięci oraz dodatkowy slot na karty SD.
+
+Z wyświetlaczem LCD
+Nook HD
+Nook HD to 7" tablet wyróżniający się podwyższoną rozdzielczością ekranu, która wynosi 1440x900 pikseli (243 ppi). Urządzenie pracuje pod kontrolą zmodyfikowanego systemu Android w wersji 4.0, który umożliwia dostęp do usług i treści oferowanych przez Barnes & Noble (sklep B&N).
+
+Specyfikacja:
+7" ekran dotykowy wykonany w technologii LCD o rozdzielczości 1440 × 900 pikseli (243 ppi)
+waga: ok. 300 g
+procesor: Dual Core Ti OMAP 4470 @ 1.3 GHz
+GPU: POWERVR SGX544
+RAM: 1 GB
+pamięć wbudowana: 8 GB lub 16 GB (z czego 5 GB lub 13 GB jest dostępne dla użytkownika)), rozszerzalna przy pomocy kart micro SD.
+łączność: wbudowana karta Wi-Fi (802.11b/g/n)
+
+Nook HD+
+Nook HD+ to drugi, większy tablet z serii HD wyposażony w 9" ekran o podwyższonej rozdzielczości, która wynosi 1920x1280 pikseli (257 ppi), mocniejszy procesor oraz więcej pamięci ROM. Urządzenie pracuje pod kontrolą zmodyfikowanego systemu Android w wersji 4.0, który umożliwia dostęp do usług i treści oferowanych przez Barnes & Noble (sklep B&N).
+
+Specyfikacja:
+
+9" ekran dotykowy wykonany w technologii LCD o rozdzielczości 1920 × 1280 pikseli (257 ppi)
+waga: ok. 500 g
+procesor: Dual Core Ti OMAP 4470 @ 1.5 GHz
+GPU: POWERVR SGX544
+RAM: 1 GB
+pamięć wbudowana: 16 GB lub 32 GB (z czego 13 GB lub 28 GB jest dostępne dla użytkownika), rozszerzalna przy pomocy kart micro SD.
+łączność: wbudowana karta Wi-Fi (802.11b/g/n)
+
+Nook Tablet (wycofany z oferty)
+7" tablet oparty na zmodyfikowanym systemie Android w wersji 2.3.
+
+Specyfikacja:
+
+7" ekran dotykowy wykonany w technologii LCD o rozdzielczości 1024 × 600 pikseli (169 ppi)
+waga: ok. 400 g
+procesor: Dual Core Ti OMAP 4430 @ 1 GHz
+GPU: POWERVR SGX540
+RAM: 1 GB (w modelu z 16 GB pamięci wewn. ROM) lub 512 MB 9 w modelu 8 GB ROM)
+pamięć wbudowana: 16 GB lub 8 GB, rozszerzalna przy pomocy kart micro SD.
+łączność: wbudowana karta Wi-Fi (802.11b/g/n)
+
+Nook Color (wycofany z oferty)
+7" tablet oparty na zmodyfikowanym systemie Android w wersji 2.2.
+
+Specyfikacja:
+
+7" ekran dotykowy wykonany w technologii LCD o rozdzielczości 1024 × 600 pikseli (169 ppi)
+waga: ok. 442 g
+procesor: Ti OMAP 3621 @ 800 MHz
+GPU: POWERVR SGX530
+RAM: 512 MB
+pamięć wbudowana: 8GB, rozszerzalna przy pomocy kart micro SD.
+łączność: wbudowana karta Wi-Fi (802.11b/g/n)
+
+Linki zewnętrzne
+
+– Oficjalna strona czytnika 
+– największe polskie forum o czytnikach 
+
+
+
+
+
+
+

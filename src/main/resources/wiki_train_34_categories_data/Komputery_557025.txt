@@ -1,0 +1,23 @@
+MERA-80''' – system mikrokomputerowy przeznaczony do budowy systemów czasu rzeczywistego i kontrolno-pomiarowych.
+
+System produkowany był w Zakładzie doświadczalnym MERASTER w Zabrzu na podstawie opracowania stworzonego w Instytucie Systemów Sterowania w Katowicach.
+
+Jednostka centralna była budowana w oparciu o procesor zgodny z procesorem 8080. System budowany był w formie modułowej (kaset) w standardzie IEC-297 (19"), w których pomieścić można do 24 pakietów. System budowany był w oparciu o następujące pakiety (część z nich była opcjonalna, zależnie od potrzeb):
+pakiet jednostki centralnej (procesora)
+pakiet komunikacji z urządzeniami zewnętrznymi (np. drukarki: DZM 180, czytnikiem/perforatorem taśmy papierowej, pamięci kasetowej)
+sterownik dysków: PLx45D (o max. pojemności 1,8 MB)
+pakiety pamięci RAM (pamięć RAM w systemie tym była podtrzymywana bateryjnie)
+pakiety pamięci EPROM
+pakiety cyfrowych wejść statycznych i licznikowych oraz cyfrowych wyjść
+pakiety specjalizowane: układu przerwań, łącz z urządzeniami zewnętrznymi – przemysłowymi, kontrolno-pomiarowymi i innymi, programatora EPROM,  pulpitów sterowania itp.
+
+Standardowe oprogramowanie:
+monitor (prosty system nadzorujący pracę)
+makroasembler
+edytor tekstów
+interpreter specjalnej wersji języka BASIC (MacroBasic)
+Rozszerzone oprogramowanie
+system operacyjny Bosman
+język Logel
+
+Bibliografia

@@ -1,0 +1,13 @@
+NEF ('''.nef, '''.nrw, Nikon Electronic File) – surowy format zapisu danych stosowanym przez firmę Nikon.
+
+Pliki NEF mogą zawierać dane bezpośrednio z matrycy cyfrowego aparatu fotograficznego lub skanera (RAW) jak również oryginalne dane poddane obróbce w odpowiednim programie graficznym (np. Nikon Capture NX). Dodatkowo w pliku NEF zapisane są ustawienia aparatu lub skanera oraz poszczególne etapy obróbki w programie graficznym, dzięki czemu zapewniona jest bezstratna obróbka zdjęć, możliwość powrotu w każdej chwili do poprzedniej wersji, a nawet zapis kilku wersji zdjęcia w jednym pliku.
+
+Pliki NEF mogą być kompresowane specjalnym algorytmem, co daje oszczędność miejsca rzędu 50-60%. Kompresja zastosowana w plikach NEF jest kompresją stratną, jednak algorytm jest tak dobrany, aby straty były praktycznie niewidoczne, podobnie do plików mp3 o najwyższej jakości. W aparatach profesjonalnych (D2X, D2Xs, D3, D3x, D4) i semi-profesjonalych (D200, D300, D700, D7000) jest możliwość wyłączenia kompresji plików NEF, domyślnie włączonej w aparatach amatorskich (D40, D40x, D50, D60, D70, D70s, D80, D90).
+
+Format NEF jest w pełni obsługiwany jedynie przez oprogramowanie firmy Nikon, jednak wiele innych programów jest w stanie bez problemu odczytać dane zapisane w tym formacie, zazwyczaj za pomocą odpowiednich wtyczek, np. CameraRAW dla Photoshopa czy UFRaw dla Gimpa, potrafiącej też jako samodzielny program przekonwertować NEF do formatu TIFF.
+
+Zobacz też
+
+RAW
+
+Linki zewnętrzne

@@ -1,0 +1,9 @@
+
+Lilith – nazwa mikrokomputera skonstruowanego na ETHZ Zürich przez zespół kierowany przez prof. Niklausa Wirtha.
+
+Projekt został rozpoczęty w 1977. W 1984 działało już kilkaset stacji roboczych. Komputer był wyposażony m.in. w monitor graficzny, myszkę, interfejs do drukarki laserowej oraz kartę sieciową. Oprogramowanie było napisane w całości w języku Modula-2. System operacyjny udostępniał interfejs graficzny typu WIMP (Windows, Icons, Mouse, Pop-up menu).
+
+
+
+
+

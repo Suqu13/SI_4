@@ -1,0 +1,28 @@
+MB-3 Tamoyo - brazylijski czołg podstawowy skonstruowany w latach 80.. Nie produkowany seryjnie.
+
+Historia
+Na przełomie lat 70. i 80. na wyposażeniu armii brazylijskiej znajdowały się czołgi M41 Walker Bulldog i X1A. Produkująca te pojazdy firma Bernardini S/A rozpoczęła w drugiej połowie lat 70. prace nad nowym czołgiem. Miał on być modernizacją czołgu M41 i otrzymał oznaczenie X-30. Jego masa miała być zbliżona do 30 ton, a uzbrojeniem głównym miała być armata czołgowa kalibru 90 lub 105 mm. Prace nad tym projektem zakończono przed wybudowaniem prototypu.
+
+W 1982 roku prace nad nowym czołgiem wznowiono. Miał on podobnie jak X-30 być głęboką modernizacją M41. W 1984 roku rozpoczęto próby prototypu. Przy konstrukcji MB-3 starano się wykorzystywać wyłącznie podzespoły produkowane w Brazylii, co spowodowało ze ustępował on powstałemu w tym samym czasie innemu brazylijskiemu czołgowi - EE-T1 Osório. W 1987 roku zaprezentowano nowy prototyp o nazwie Tamoyo III. Został on wyposażony w nowy układ napędowy i nową wieżę z armatą 105 mm.
+
+Na podwoziu czołgu Tamoyo planowano budowę pojazdu ewakuacyjnego oraz samobieżnego działa przeciwlotniczego. Czołg Tamoyo nie był produkowany seryjnie.
+
+Opis
+Tamoyo jest czołgiem podstawowym. Załogę czołgu tworzy dowódca, działonowy, ładowniczy i mechanik-kierowca. Kierowca zajmuje miejsce w kadłubie, reszta załogi w wieży.
+
+Kadłub i wieża czołgu są wykonany poprzez spawanie walcowanych płyt ze stali pancernej.
+
+W przedniej części kadłuba znajduje się przedział kierowania, środkowej przedział bojowy z  wieżą, a w tylnej przedział napędowy.
+
+W przedziale kierowania stanowiska ma mechanik-kierowca. Jego stanowisko znajduje się po lewej stronie kadłuba. Miejsce w pojeździe zajmuje on przez otwierany przez uniesienie i obrót w lewo właz w górnej płycie pancernej. Obserwację terenu zapewniają peryskopy umieszczone przed włazem trzy peryskopy.
+
+Dowódca dysponuje teren przy pomocy przyrządu obserwacyjnego oraz peryskopów zamocowanych w wieżyczce dowódcy. Działonowy dysponuje celownikiem teleskopowym. Do pomiaru odległości od celów używa on dalmierza laserowego. Celowanie ułatwia prosty system kierowania ogniem.
+
+W wieży znajduje się zasadnicze uzbrojenie wozu: 90 mm armata czołgowa. Lufa armaty wyposażona jest w  przedmuchiwacz usuwający gazy prochowe po wystrzale. Obok armaty umieszczony jest czołgowy karabin maszynowy M2 HB kalibru 12,7 mm NATO. Prototyp wersji Tamoyo III był uzbrojony w armatę kalibru 105 mm typu L7A3.
+
+Napęd Tamoyo stanowi czterosuwowy wysokoprężny, chłodzony powietrzem silnik Saab-Scania DSI-14'' o mocy 368 kW przy 2100 obr/min. Napęd od silnika do kół napędowych jest przenoszony przez hydromechaniczny układ napędowy CD-850-3'' i posiada mała liczbę biegów, dwa do przodu i wsteczny. W wersji Tamoyo III zastosowano silnik Detroit Diesel 8V-92TA o mocy 541 kW przy 23000 obr/min i układ przeniesienia mocy CD-850-3. Proponowano także zastosowanie hydromechanicznego układu przeniesienia mocy  HMPT-500 (stosowany w bwp M2 Bradley). 
+ 
+MB-3 posiada zawieszenie niezależne na wałkach skrętnych. Każde z 12 kół jezdnych jest połączone za pomocą wahacza z wałkiem skrętnym. Napęd z silnika jest przekazywany na znajdujące się w tylnej części pojazdu koła napędowe. Z przodu pojazdu znajdują się koła napinające. Koła jezdne są kołami podwójnymi, z zewnętrznymi bandażami gumowymi. Wahacze pierwszej, drugiej i ostatniej pary kół współpracują z hydraulicznymi amortyzatorami. Z każdej strony znajdują się także 3 rolki podtrzymujące gąsienice.
+
+Bibliografia
+Linki zewnętrzne

@@ -1,0 +1,113 @@
+e-Deklaracje - system umożliwiający podmiotom gospodarczym przesyłanie drogą elektroniczną deklaracji podatkowych. e-Deklaracje to także narzędzie nowoczesnej, efektywnej i przyjaznej administracji skarbowej, wspierające realizację nałożonych na nią zadań ustawowych. System e-Deklaracje został uruchomiony 1 stycznia 2008 r., natomiast zakończenie wprowadzania systemu e-Podatki – pełnej wersji usług elektronicznych online dla obywateli i podmiotów gospodarczych, planowane jest na koniec 2012 r. e-Deklaracje są częścią e-Podatków realizowaną w pierwszej kolejności.
+
+Do składania deklaracje drogą elektroniczną uprawniony jest każdy podatnik/płatnik. Początkowo z tej możliwości mogli skorzystać tzw. „duzi podatnicy”, tj. podmioty, których roczne przychody netto przekraczają równowartość 5 mln euro, rozliczające się w wyspecjalizowanych urzędach skarbowych. Obecnie taką możliwość ma każdy. Ten, kto chce skorzystać z tego systemu powinien:
+
+posiadać kwalifikowany podpis elektroniczny weryfikowany przy pomocy ważnego kwalifikowanego certyfikatu, lub upoważnić osobę, która ten podpis elektroniczny posiada.
+w przypadku nieposiadania kwalifikowanego podpisu elektronicznego, podatnik będący osobą fizyczną może złożyć formularze PIT-16, 16A, 19A, 28, 36, 36L, 37, 38 i 39 wpisując w odpowiednie miejsce formularza interaktywnego kwotę przychodu zadeklarowaną na formularzu za 2 lata wstecz.
+
+Cele projektu
+
+System e-Deklaracje wpisany jest w plan informatyzacji Polski. Jego celem jest zracjonalizowanie wydatków administracji publicznej związanych z informatyzacją oraz zapewnienie neutralności technologicznej rozwiązań informatycznych.
+Wśród podstawowych celów projektu e-Deklaracje można wyróżnić:
+
+Umożliwienie przekazywania, przechowywania i przetwarzania deklaracji podatkowych i podań w postaci elektronicznej oraz zapewnienie dostępu do informacji podatkowych on-line, (realizacja art. 3a § 1 i art. 168 § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa), a tym samym rozbudowa infrastruktury społeczeństwa informacyjnego w kraju do poziomu umożliwiającego przedsiębiorcom (a docelowo wszystkim obywatelom) efektywne korzystanie z Internetu i elektronicznych usług publicznych.
+Integracja Centralnego Rejestru Podmiotów (budowanego w Ministerstwie Finansów poza projektem) – jako rejestru referencyjnego opartego na Krajowej Ewidencji Podatników – z pozostałymi państwowymi rejestrami referencyjnymi. Umożliwi to automatyczną wymianę informacji na drodze elektronicznej między Centralną Bazą Danych administracji skarbowej a innymi jednostkami administracji państwowej.
+
+Usługi realizowane przez system
+
+Obsługa deklaracji CIT, PIT, VAT, NIP, PCC.
+Obsługa dokumentów innych niż deklaracje (np. podania).
+Sprawdzanie stanu sprawy.
+Dostęp do informacji o stanie rozliczeń podatnika.
+Aktualizacja danych o podmiocie.
+Potwierdzenia danych identyfikacyjnych podmiotu.
+Portal informacyjny i informacja dedykowana
+Centralny Rejestr Podmiotów jako rejestr referencyjny.
+Wydawanie zaświadczeń (w przyszłości).
+Płatności elektroniczne (w przyszłości).
+
+Sposób działania systemu
+
+Od 1 stycznia 2008 r. deklaracje podatkowe można składać drogą elektroniczną poprzez portal http://www.e-deklaracje.gov.pl. Na portalu tym podatnicy znajdą interaktywne formularze podatkowe wraz z instrukcją, które po wypełnieniu i opatrzeniu bezpiecznym podpisem elektronicznym będzie można przesłać do systemu.
+Deklaracje podatkowe można przesyłać drogą elektroniczna na trzy sposoby:
+
+Za pomocą interaktywnego formularza PDF wybranej deklaracji podatkowej – wypełniona deklaracja jest następnie podpisywana i przesyłana do urzędu. Wymagany jest system operacyjny z rodziny Windows), Adobe Reader w minimalnej wersji 8.1.4 oraz wtyczka (plug-in) do programu Adobe Reader (pobrana ze strony www.e-deklaracje.gov.pl).
+Dostępne są wzoru formularzy od 2008 roku.
+
+Za pomocą aplikacji e-Deklaracje Desktop, która pracuje systemami operacyjnymi Windows, Linux, Mac OS X i wymaga środowiska uruchomieniowego Adobe AIR. Aplikacja nie działa poprawnie z najnowszą wersją systemu Mac OS X. Do poprawnego wysłania deklaracji przez internet bez podpisu kwalifikowanego, wymagana jest jeszcze instalacja wtyczki (pluginu) do programu Adobe Reader ze strony Ministerstwa Finansów (Wtyczka dostępna jest dla systemu Windows).
+Po zainstalowaniu programu otwiera się okno, w którym mamy do wyboru:
+Katalog formularzy – wypełnianie, składanie i drukowanie formularzy;
+Moje rozliczenia – kopie robocze oraz historia rozliczeń;
+Akty prawne – rozporządzenia i ustawy związane z rozliczeniami;
+Ustawienia programu
+
+
+Wtyczka powyższa udostępniona jest tylko dla systemu Windows.
+
+Z wykorzystaniem aplikacji (modułów) dostarczonych przez producentów oprogramowania, które pozwalają na przesyłanie deklaracji podatkowych bezpośrednio z systemów finansowo-księgowych podatnika.
+
+Takie rozwiązanie jest możliwe ze względu na publikację przez Ministerstwo Finansów otwartego standardu dokumentu podatkowego (odpowiedniego schematu XSD). Pozwala to na dostosowanie przez producentów oprogramowania swoich aplikacji tak, by mogły obsługiwać proces składania deklaracji podatkowych. System odbiera przesłaną przez podatnika deklarację w postaci dokumentu XML, weryfikuje ją wstępnie (zgodność ze schemą), nadaje numer referencyjny i odpowiednią datę (znakowanie czasem), po czym wysyła potwierdzenie przyjęcia dokumentu na wskazany przez podatnika adres mailowy. Deklaracja przesyłana jest do centralnego rejestru dokumentów, skąd informacje z tej deklaracji wysyłane są do urzędów skarbowych (przesyłane do systemu POLTAX).
+
+Harmonogram e-Deklaracji
+
+III kwartał 2006 r:
+
+Przyjmowanie drogą elektroniczną deklaracji CIT i PIT – 4
+wysyłanie przez administrację podatkową potwierdzeń o złożonych deklaracjach
+
+IV kwartał 2006 r.
+
+przyjmowanie drogą elektroniczną deklaracji VAT, AKC i pozostałych PIT
+
+I kwartał 2007 r.
+
+przyjmowanie drogą elektroniczną deklaracji NIP
+dostęp podatnika do elektronicznej informacji o złożonych przez siebie deklaracjach
+przyjmowanie elektronicznych podań
+
+II kwartał 2007 r.
+
+obsługa spraw na drodze elektronicznej, dwustronna komunikacja elektroniczna z podatnikiem
+
+III kwartał 2007 r.
+
+udostępnienie dedykowanej i ogólnej informacji podatkowej na portalu podatkowym
+
+28 grudnia 2007 r. – wygaśnięcie systemu e-Poltax, przemigrowanie danych podatników dotychczas rozliczających się w tym systemie do systemu e-Deklaracje
+1 stycznia 2008 r. umożliwienie wszystkim podatnikom i płatnikom składania deklaracji podatkowych i innych dokumentów w formie elektronicznej określonych w rozporządzeniu Ministra Finansów (32 rodzaje)
+1 kwietnia 2008 r. – udostępniono kolejne deklaracje (PIT-y roczne 36, 36L, 37, 38)
+1 lipca 2008 r. – umożliwienie przesyłania drogą elektroniczną kolejnych 17 deklaracji, między innymi PIT-11
+1 stycznia 2009 r. – rozszerzenie listy deklaracji, które mogą być przesyłane drogą elektroniczną
+8 kwietnia 2009 r. – uruchomienie usługi składania zeznania PIT-37 bez podpisu elektronicznego weryfikowanego certyfikatem kwalifikowanym
+31 grudnia 2009 r. – uruchomienie usługi składania zeznania PIT-36, PIT-36L, PIT-37, PIT-38 i PIT-39 bez podpisu elektronicznego weryfikowanego ważnym certyfikatem kwalifikowanym
+
+Prognozowane korzyści z systemu e-Deklaracje
+
+Dla podatnika:
+
+Jakość obsługi podatnika.
+ułatwienia w obsłudze podatników,
+skrócenie czasu załatwiania spraw podatkowych,
+zintegrowana obsługa podatnika informacja świadczona w jednym miejscu,
+informacja on-line o stanie spraw i stanie konta rozliczeniowego.
+Nowe usługi świadczone droga elektroniczną:
+komunikacja droga elektroniczną (podania, zaświadczenia, wnioski, ...),
+elektroniczne formularze, (CIT, PIT, VAT, NIP, PCC i inne),
+elektroniczne płatności (płatności elektroniczne, opłata skarbowa).
+
+Dla administracji skarbowej:
+
+centralizacja informacji o podatnikach,
+krok do centralnej rachunkowości,
+narzędzia do realizacji odmiejscowienia podatnika,
+elektroniczny obieg dokumentów dla dokumentów elektronicznych i papierowych jako krok w kierunku workflow,
+
+Dla państwa:
+
+przejście od papierowego do elektronicznego obiegu dokumentów
+rozbudowa infrastruktury społeczeństwa informacyjnego
+Integracja Centralnego Rejestru Podmiotów z pozostałymi państwowymi rejestrami
+dostosowanie polskiej administracji skarbowej do standardów Unii Europejskiej
+
+Bibliografia
+Linki zewnętrzne

@@ -1,0 +1,36 @@
+
+
+
+HP-32S to seria kalkulatorów firmy Hewlett-Packard, pracująca wyłącznie w systemie odwrotnej notacji polskiej (RPN). Składa się z modeli:
+
+HP-32S – produkowany w latach 1988-1991
+HP-32SII – produkowany w latach 1991-2002, wyposażony w drugi klawisz Shift, nowe funkcje algebraiczne oraz operacje na ułamkach zwykłych
+HP-32SII+''' – upodobniony wizualnie do nowszych modeli.
+
+Kalkulatory te posiadają solver, umożliwiają całkowanie numeryczne, działania na liczbach zespolonych, operacje statystyczne, regresję, konwersję współrzędnych i dość zaawansowane możliwości programowania.
+
+Przykładowy program
+  ; This is an HP-32S version of the Euclidean algorithm
+  ; to find the greatest common divisor.
+  ; You run this by putting the two numbers for
+  ;which you want to find the GCD and pressing "XEQ E"
+  E01 LBL E
+  E02 STO A
+  F01 LBL F
+  F02 – 
+  F03 FP
+  F04 RCL A
+  F05 x
+  F06 1
+  F07 x>y?
+  F08 GTO G
+  F09 R(DOWN)
+  F10 PSE
+  F11 xA
+  F12 RCL A
+  F13 GTO F
+  G01 LBL G
+  G02 RCL A
+  G03 RTN
+
+Linki zewnętrzne

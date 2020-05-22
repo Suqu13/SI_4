@@ -1,0 +1,133 @@
+
+Nitinol – stop metaliczny niklu z tytanem, gdzie przybliżony procent atomowy dwóch pierwiastków jest taki sam. Należy do grupy materiałów inteligentnych wykazujących efekt pamięci kształtu. Praktyczne zastosowanie znalazł przy zawartości 53-57% masowego niklu.
+
+Ogólne informacje
+Stop Ni-Ti ulega termosprężystej przemianie martenzytycznej i wykazuje jednokierunkowy efekt pamięci kształtu, dwukierunkowy efekt pamięci kształtu oraz pseudosprężystość. Pamięć kształtu odnosi się do zdolności nitinolu odzyskiwania ustalonego kształtu przy ogrzewaniu powyżej temperatury zajścia przemiany martenzytycznej. Pseudosprężystość występuje w wąskim zakresie temperatur, tuż powyżej temperatury przemiany. Bez zmiany temperatury możliwe jest odzyskanie kształtu, przy jednoczesnym wykazywaniu dużej sprężystości.
+
+W 1963 roku w laboratorium badawczym Marynarki Wojennej Stanów Zjednoczonych (dokładnie w US Naval Ordnance Laboratory) został zaobserwowany efekt pamięci kształtu dla tego materiału. Badaczami, którzy tego dokonali byli William J. Buehler i Frederick Wang. Nazwa jest akronimem składającym się z symboli pierwiastków i pierwszych liter organizacji badawczej: Nickel Titanium Naval Ordnance Laboratory.
+
+Układ równowagi
+
+Stopy o składzie stechiometrycznym (50% at. Ni, 50% at. Ti) tworzą fazę międzymetaliczną NiTi. Niekiedy oznacza się ją jako fazę β. Stopy o większej zawartości tytanu zawierają dodatkowo fazę Ti2Ni. Powstaje ona w wyniku przemiany perytektycznej. Stopy o większej zawartości niklu zawierają dodatkowo fazę TiNi3. Na wykresie obszar poniżej temperatury 600&nbsp;°C jest trudny do zdefiniowania. Uważa się, że w tym obszarze czysta faza NiTi występuje tylko w bardzo wąskim zakresie. Spowodowane jest to dużą aktywnością chemiczną tytanu i niklu. Nawet najmniejsza zmiana składu chemicznego powoduje duże zmiany w wykresie i własnościach materiału. Najwyższy punkt dla stechiometrycznego składu znajduje się w temperaturze 1310&nbsp;°C.
+
+Struktura faz NiTi
+
+
+Faza NiTi charakteryzuje się się uporządkowaną siecią regularną typu CsCl (B2). Parametr sieci komórki elementarnej silnie zależy od składu chemicznego i temperatury. Obecnie przyjmuje się, że parametr ten wynosi około 0,3 nm (najdokładniejszy pomiar to 0,3015 nm). W komórce przypisać można jeden atom niklu oraz jeden atom tytanu (pozycje 0,0,0 i ½,½,½). W stopie o składzie stechiometrycznym podczas jego chłodzenia występuje powyżej temperatury Ms (temperatura początku przemiany martenzytycznej) kilka zjawisk, które mają naturę dyfuzyjną. Jednym z nich jest przemiana przedmartenzytyczna. Objawia się ona przemianą sieci B2 w sieć tzw. fazy R. Stanowi ona romboedryczne zniekształcenie sieci NiTi. Wyznaczono, że jej parametr sieci wynosi 0,903 nm, a kąt α 89,3°. Martenzyt termosprężysty NiTi charakteryzuje się występowaniem w sieci jednoskośnie zniekształconej sieci rombowej typu AuCd (B19'). Parametry wynoszą kolejno a0 0,3015 nm, b0 0,412 nm i c0 0,4622 nm. W komórce zawrzeć można dwa atomy niklu i tytanu.
+
+
+Istota zjawiska
+
+Nitinol ulega termosprężystej, odwracalnej przemianie martenzytycznej. Odwracalność oznacza, że ogrzewanie materiału powyżej temperatury początku przemiany (Ms) spowoduje zmianę struktury krystalicznej na austenityczną. Chłodzenie z fazy austenitycznej spowoduje powrót do sieci krystalicznej martenzytu. Przemiana w obu kierunkach jest natychmiastowa.
+
+Struktura martenzytu posiada zdolność do ulegania ograniczonemu odkształceniu bez zerwania wiązań atomowych. Odbywa się to mechanizmem bliźniakowania.
+
+Skład chemiczny stopu ma bardzo duży wpływ na przebieg przemiany martenzytycznej.
+
+
+
+
+bezpośrednia przemiana - dla nitinolu wzbogaconego w tytan zachodzi:
+
+
+
+
+
+
+symetryczna przemiana - dla nitinolu wzbogaconego w nikiel, kobalt lub żelazo zachodzi:
+
+
+
+
+
+
+asymetryczna przemiana - dla nitinolu o stechiometrycznym składzie zachodzi:
+
+
+
+
+
+Przemiany NiTi⇔NiTi i R⇔NiTi są przemianami pierwszego rodzaju. Występowanie dwóch przemian w procesie nagrzewania martenzytu (poprzez fazę R) wykazano dla stopów, w których odwrotna przemiana martenzytyczna zachodzi, poniżej temperatury tworzenia się fazy R (TR). Dokładnie odbywa się to, gdy różnica temperatur TR i Ms jest większa, niż histereza temperatur przemiany R→NiTi (B19'). Dzieje się tak w stopach bogatych w nikiel oraz w dodatki stopowe jak kobalt i żelazo. Każdy pierwiastek stopowy obniża temperaturę Ms, jednocześnie mając mały wpływ na TR. Istnieje możliwość wymuszenia takiego typu przemiany w nitinolu o dowolnym składzie poprzez zastosowanie odpowiedniego odkształcenia lub oddziaływaniem innymi przemianami fazowymi na wielkość temperatury Ms.
+
+Obróbka cieplna ma znaczący wpływ na mechanizm zachodzenia przemiany martenzytycznej. Przede wszystkim są to:
+starzenie stopów o podwyższonej zawartości niklu
+niskotemperaturowe wyżarzanie bezpośrednie po odkształceniu na zimno
+cykliczne powtarzanie przemiany<ref name=nitinol9/>.
+
+Własności
+Wybrane właściwości
+
+
+
+<br />
+
+
+
+Własności fizyczne
+Nitinol jest stopem paramegnetycznym o niskiej podatności magnetycznej. Charakteryzuje się niską przewodnością cieplną w porównaniu do innych metali i ich stopów. Silnie absorbuje promieniowanie rentgenowskie i utrudnia to obserwację przy użyciu tego spektrum fal elektromagnetycznych..
+
+Własności mechaniczne
+
+Własności mechaniczne nitinolu są silnie podatne na zmiany struktury i przebieg przemian fazowych. Za przykład mogą posłużyć dwa modelowe stopy o rożnym składzie chemicznym. W tabeli poniżej zestawiono ich najważniejsze własności:
+
+
+Na rysunku 3 przedstawiono wykres zależności składu chemicznego nitinolu od wysokości temperatury Ms. Dla składu chemicznego stechiometrycznego Ni50Ti50 temperatura ta wynosi około 65&nbsp;°C. Wraz ze wzrostem ilości tytanu można zaobserwować jej nieznaczny wzrost. Ilość niklu w stopie ma dużo większy wpływ. Już nawet niewielkie odejście od składu stechiometrycznego powoduje spadek temperatury Ms, nawet to wartości dużo niższych od 0&nbsp;°C.
+Materiały metaliczne, które można sprężyście odkształcić do około 1%, źle wypadają na tle "materiałów" biologicznych (włosy, kości, ścięgno), które można odkształcić nawet do 10%. Własności nitinolu są zbliżone do tkanek żywych. Dzięki istnieniu pseudosprężystości stop jest w stanie bardzo duże odkształcenie może być zakumulowane, a po zdjęciu naprężenia wyzwolone. Nitinol można średnio 10 razy więcej zgiąć, niż stal nierdzewną.
+
+Własności chemiczne
+Z użytkowego punktu widzenia dla nitinolu istotna jest stabilność chemiczna i odporność na utlenianie w wysokich temperaturach.
+Do temperatury około 600&nbsp;°C stop jest stabilny i pokrywa się równomierną, cienką warstwą tlenku. W zakresie 600&nbsp;°C do 1000&nbsp;°C zaobserwowano znaczne przyspieszenie zjawisk związanych z utlenianiem. Powyżej 800&nbsp;°C warstwa tlenków zaczynała pękać i degradować się. W niektórych procesach wytwórczych istnieje groźba nawęglenia stopu. Najczęściej wtedy w stopie pojawia się zanieczyszczenie w postaci TiC. Z tego powodu udział tytanu w stopie bardzo mocno się kurczy. Podatność na utlenianie nadmieniona powyżej jest niezwykle uciążliwa w przypadku wytapiania stopu. Bardzo szybko tworzą się tlenki typu Ti2NiOx, Ti4Ni2O. Tak samo jak w przypadku węgla przede wszystkim zmniejsza się udział tytanu w stopie. Potrzeba wytworzenia stopów o niemalże idealnym składzie chemicznym spowodowała, że w przypadku wytwarzania nitinolu prym wiodą techniki próżniowe eliminujące problem dużego powinowactwa tytanu do tlenu i węgla.
+Każdy dodatek stopowy powoduje obniżenie temperatury Ms, ale pogarsza wydajność efektu pamięci kształtu i pseudosprężystości.
+
+Ograniczenia
+Nikiel nie jest obojętny dla organizmu, toteż początkowo istniały obawy, co do jego zastosowań nitinolu związanych z medycyną. Jest alergenem oraz substancją rakotwórczą. Udowodniono, że poprawnie elektrochemicznie wypolerowany i pasywujący się stop nie niesie zagrożenia. Odpowiada za to szczelna i stabilna warstwa tlenku TiO2.
+
+Nitinol jest stopem bardzo trudno spawalnym. Uniemożliwia to uzyskanie skutecznego połączenia między komponentami wykonanymi z tego samego materiału, albo innych metali.
+
+Wytwarzanie
+Problematyka wytwarzania nitinolu skupia się głównie na silnym powinowactwie tytanu do tlenu i węgla. Konieczne jest uzyskanie stopu o dokładnym składzie chemicznym. Dodatkowo nitinol jest materiałem trudno obrabialnym plastycznie.
+Do wytwarzania stopu wykorzystuje się wysokiej czystości składniki (99,99% Ni i 99,8 Ti).
+Historycznie wykorzystywano do wytopu technikę topienia elektrołukowego elektrodą nietopliwą lub lewitacyjną. Obecnie najczęściej wykorzystywanymi technikami wytwarzania są:
+przetapianie w łukowym piecu próżniowym (VAR) - przeskok łuku elektrycznego między wsadem a miedzianym tyglem (ciągle chłodzonym wodą). Proces odbywa się w próżni, dzięki czemu otrzymany stop charakteryzuje się wysoką czystością. 
+topienie w indukcyjnym piecu próżniowym (VIM) - źródłem energii potrzebnej do uzyskania stopu jest indukcja elektromagnetyczna. Proces odbywa się w próżni, dzięki czemu otrzymany stop charakteryzuje się wysoką czystością.
+Ze względu na mała plastyczność nitinolu wykonuje się praktycznie tylko przeróbkę plastyczną na gorąco. Są to przede wszystkim procesy tj.:
+walcowanie
+młotkowanie
+ciągnienie
+wyciskanie.
+Dla wytopów małogabarytowych można wykorzystać takie techniki jak stapianie w łuku plazmowym, topienie wiązką elektronów, chemiczne osadzanie z fazy gazowej (CVD) i metalurgię proszków.
+
+Obróbka wykończeniowa
+Obróbkę mechaniczną prowadzi się przy pomocy narzędzi wykonanych z węglików spiekanych. Dodatkowo można wykonać obróbkę elektroerozyjną, cięcie laserowe, czy szlifowanie.
+
+Zastosowanie
+medycyna (druty łukowe, stenty, leczenie złamań, chirurgia)
+czujniki temperatury
+elementy ruchomych mechanizmów (np. dłonie robota, siłowniki)
+pochłaniacze drgań
+silniki cieplne
+trwałe złączki
+zabawki.
+
+Ciekawostki
+Wielu ufologów twierdzi, że metal ten pozyskano z przechwyconych spodków UFO oraz że tego typu metale, lecz o znacznie większej sprawności, mają być stosowane w pojazdach obcych cywilizacji pozaziemskich.
+
+Zobacz też
+stopy metali
+stopy z pamięcią kształtu
+materiały inteligentne
+
+
+
+Przypisy
+
+
+Linki zewnętrzne
+- zbudowany z nitinolu, a sterowany komputerem z systemem Linux.
+
+
+
+
+
+
+

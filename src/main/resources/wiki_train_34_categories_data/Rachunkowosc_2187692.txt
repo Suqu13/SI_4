@@ -1,0 +1,40 @@
+Rezerwy na świadczenia pracownicze (ang. Provisions for employee benefits) – rezerwy na przyszłe zobowiązania podmiotu gospodarczego w stosunku do obecnie zatrudnionych pracowników, ujmowane w księgach rachunkowych spółki według ich wartości bieżącej na datę bilansową. Zobowiązania te wynikają z przepisów prawa pracy, regulaminów wynagrodzeń, układów zbiorowych pracy i innych wiążących porozumień pracodawców z pracownikami lub zwyczaju panującego w danej spółce.
+
+Metody wyceny i obowiązki ujawnieniowe
+Ustawa o rachunkowości precyzuje, że ujmowanie rezerw na świadczenia pracownicze powinno być przeprowadzone zgodnie z Krajowym Standardem Rachunkowości Nr 6 „Rezerwy, bierne rozliczenia międzyokresowe kosztów, zobowiązania warunkowe”  lub Międzynarodowy Standard Rachunkowości Nr 19 – „Świadczenia pracownicze”. 
+Oba te standardy nakazują użycie metodologii aktuarialnej i nakazują (KSR 6) bądź zalecają (MSR 19), aby modelowanie zostało wykonane przez wykwalifikowanego aktuariusza. 
+
+Niektóre polskie firmy prowadzą dodatkowo równoległą sprawozdawdczość na potrzeby właścicieli zagranicznych wg innych standardów (np. US GAAP). 
+
+Międzynarodowy Standard Rachunkowości nr 19
+Spółkom korzystającym z MSR 19 punkt 57 zaleca przy tym korzystanie z usług wykwalifikowanego aktuariusza, przy czym standard nie narzuca takiego obowiązku. Jedyną dopuszczalną przez standard metodą jest metoda prognozowanych uprawnień jednostkowych (ang. Projected Unit Credit Method).
+MSR 19 nakłada dużo większe obowiązki ujawnieniowe niż KSR 6. W szczególności wymaga się (MSR 19 120A), aby aby sprawozdanie zawierało uzgodnienie sald otwarcia i zamknięcia wartości bieżącej zobowiązania z tytułu określonych świadczeń prezentujące odrębnie pozycje tzw. rachunku zysków i strat aktuarialnych, tj:
+koszty bieżącego zatrudnienia,
+koszty odsetek,
+składki wpłacane przez uczestników,
+zyski i straty aktuarialne
+zmiany kursów wymiany walut obcych stosowanych w programach wycenianych w walucie innej niż waluta prezentacji jednostki,
+wypłacone świadczenia,
+koszty przeszłego zatrudnienia
+połączenie jednostek gospodarczych,
+ograniczenia oraz
+uregulowanie zobowiązań.
+
+Krajowy Standard Rachunkowości nr 6
+Krajowy Standard Rachunkowości nr 6 odwołuje się bezpośrednio do metodologii i zaleceń MSR 19, czyli do metody prognozowanych uprawnień jednostkowych, wskazując jednak przy tym obowiązek uczestnictwa licencjonowanego aktuariusza w procesie wyceny (KSR 6 punk 4.7) wskazując że wynika to z potrzeby przyjęcia szeregu założeń z makroekonomii i demografii oraz biegłego się nimi posługiwania. KSR 6 został on przygotowany z myślą o specyfice polskich świadczeń odroczonych i wymienia on w związku z tym explicite świadczenia, które muszą być rezerwowane:
+nagrody jubileuszowe,  
+odprawy emerytalne, pośmiertne, rentowe, 
+dodatki stażowe,
+opieka medyczna, itd.
+Jednak w praktyce zakres ten jest dużo szerszy z powodu odesłania do MSR 19, który nakazuje tworzenie rezerw dla wszystkich świadczeń odroczonych, tj. takich na które pracuje się w innym okresie niż są one realizowane. Są to takie świadczenia jak deputaty węglowe, ekwiwalent z tytułu prawa do ulgi w taryfie energetycznej, kolejowe świadczenia przejazdowe, czy świadczenia dla emerytów płatne z tytułu zakładowego funduszu świadczeń socjalnych.
+W internecie możliwe jest samodzielne oszacowanie rezerw przy pomocy bezpłatnych  narzędzi, jednak zgodnie z KSR 6 nie mogą być one podstawą księgowań bez poświadczenia przez licencjonowanego aktuariusza.
+
+Zobacz też
+Bilans (rachunkowość)
+Sprawozdanie finansowe
+Zasady rachunkowości
+
+
+
+Linki zewnętrzne
+, Ministerstwo Finansów

@@ -1,0 +1,55 @@
+
+Watson – superkomputer stworzony przez IBM do odpowiadania na pytania zadawane w języku naturalnym. 
+
+Jego nazwa honoruje założyciela tej firmy, Thomasa J. Watsona. Superkomputer jest rozwijany jako część projektu badawczego DeepQA. Wykorzystuje połączenie algorytmów do przetwarzania języka naturalnego, wyszukiwania informacji, reprezentacji wiedzy, wnioskowania automatycznego i 
+uczenia maszynowego. Posiada 2880 rdzeni, 15 TB pamięci operacyjnej i nie korzysta z połączenia z internetem.
+
+W ramach prezentacji swoich możliwości Watson wystąpił w teleturnieju Jeopardy!'' (którego polskim odpowiednikiem był '' Va banque) w trzydniowej rozgrywce 14–16 lutego 2011 roku. Jego przeciwnikami byli: Brad Rutter, który dotychczas wygrał najwięcej pieniędzy w tym teleturnieju, oraz Ken Jennings, który najdłużej był w nim niepokonanym mistrzem. Watson zajął pierwsze miejsce z wynikiem 77&nbsp;147 dolarów. Ken Jennings uzyskał wynik 24&nbsp;000 dolarów, a Brad Rutter 21&nbsp;600 dolarów. 
+
+W lutym 2013 roku IBM ogłosił że pierwszym komercyjnym zastosowaniem komputera Watson będzie wspomaganie wyboru terapii raka płuc w Memorial Sloan Kettering Cancer Center. 
+
+Historia powstania
+Choć współczesne wyszukiwarki internetowe potrafią szybko znajdować wyniki wyszukiwania dla podanych słów kluczowych, żadne dotychczas używane oprogramowanie nie umożliwiało szybkiego i poprawnego odpowiadania na pytania zadawane w języku naturalnym. Problem ten był powszechnie uznawany za nierozwiązywalny praktycznie.
+
+W 2006 roku pierwsza wersja Watsona potrafiła odpowiedzieć poprawnie na około 15% pytań z programu Jeopardy!''. Najlepsi gracze potrafili odpowiedzieć w tej grze na około połowę pytań, przy nie więcej niż 5% pomyłek. W 2007 roku IBM rozpoczął trzyletni projekt, którego celem było zwiększenie możliwości Watsona do poziomu, przy którym mógłby konkurować z najlepszymi graczami. Watson został wyposażony w bazę danych, zawierającą miliony stron różnych tekstów, w tym słowników, encyklopedii i dzieł literackich. Zamiast opierać się na jednym algorytmie, Watson został zaprogramowany tak, aby używać setek równolegle działających algorytmów do znalezienia prawidłowej odpowiedzi. Im więcej niezależnie pracujących algorytmów uzyska tę samą odpowiedź, tym bardziej prawdopodobne jest, że jest ona poprawna. Gdy Watson uzyska w ten sposób niewielką liczbę potencjalnych rozwiązań, porównuje je z bazą danych, aby ocenić, czy mają sens.
+
+W 2008 roku Watson był na tyle zaawansowany, że mógł być porównywany z najlepszymi graczami w Jeopardy!'' Wtedy IBM zwróciło się do producentów Jeopardy!'' z propozycją wystawienia go jako zawodnika. Producenci programu wyrazili zgodę.
+
+W lutym 2010 roku Watson wygrywał już regularnie z ludzkimi graczami. IBM zbudował w jednej ze swoich siedzib makietę studia używanego w Jeopardy!'' i rozgrywał tam pokazowe gry, których prowadzacym był Todd Alan Crain.
+
+Udział w Jeopardy!''
+Runda pokazowa
+13 stycznia 2011 roku przeprowadzono pokazową rundę Jeopardy!'' z 15 pytaniami, w której Watson zdobył 4400 dolarów, pokonując Kena Jenningsa (3400 dolarów) i Brada Ruttera (1200 dolarów), choć Ken Jennings miał tę samą liczbę punktów przed ostatnim pytaniem za 1000 dolarów. Żaden z trzech graczy ani razu nie odpowiedział błędnie.
+
+Pierwotnie Watson zgłaszał odpowiedzi elektronicznie, ale producenci Jeopardy!'' zażądali, żeby robił to za pomocą przycisku, tak jak pozostali gracze. Jednak nawet po wyposażeniu go w fizyczny "palec", Watson pozostał szybszy niż ludzcy gracze. Jennings stwierdził: "Jeśli próbujesz wygrać teleturniej, przycisk jest najważniejszy" i że Watson "może trafić z mikrosekundową precyzją we właściwy moment za każdym razem, z niewielkim albo żadnym rozrzutem. Ludzki refleks nie może w tej kwestii rywalizować z obwodami komputerowymi". W Jeopardy!'' wskazówki są wyświetlane na tablicy i czytane na głos, a gracze mogą zgłosić odpowiedź dopiero wtedy, gdy odczytywanie dobiegnie końca, co zajmuje zwykle 6-8 sekund. Watson nie słucha wskazówek, tylko dostaje je w formie tekstowej i zostaje elektronicznie poinformowany, kiedy można się zgłaszać. Pozwala mu to uniknąć kar za zbyt wczesne zgłoszenie się do odpowiedzi.
+
+Pierwsza rozgrywka
+W pierwszej rundzie, wyemitowanej 14 lutego 2011 roku, Watson zremisował z Rutterem, zdobywając tak jak on 5000 dolarów. Jennings zdobył 2000 dolarów.
+
+Watson nie grał bezbłędnie. W jednym przypadku zgłosił się do odpowiedzi i powtórzył błędną odpowiedź podaną wcześniej przez Jenningsa. Ponieważ Watson nie jest wyposażony w słuch, nie mógł wiedzieć o tej odpowiedzi. W innym pytaniu, dotyczącym George'a Eysera, po nieprawidłowym pytaniu Jenningsa o "brakującą rękę" podał odpowiedź "noga", która początkowo została uznana za prawidłową. Jednak biorąc pod uwagę, że Watson nie mógł słyszeć odpowiedzi Jenningsa i poprawić go, prowadzący wycofał akceptację tej odpowiedzi, uznając, że prawidłowo powinien zapytać o "brakującą nogę".
+
+Drugą część pierwszej rozgrywki wyemitowano 15 lutego 2011. Watson zwyciężył ją, uzyskując wynik 35&nbsp;734 dolarów. Rutter uzyskał 10&nbsp;400 dolarów, a Jennings 4800 dolarów.
+
+Watson jako jedyny nie odpowiedział prawidłowo na finałowe pytanie rozgrywki, z kategorii "Miasta USA" ("Największe lotnisko w tym mieście nosi nazwę bohatera II Wojny Światowej, a drugie w kolejności nosi nazwę bitwy w II Wojnie Światowej". Prawidłową odpowiedzią było Chicago, podczas gry Watson odpowiedział "Toronto?????" (wiele znaków zapytania oznaczało niepewność). Postawił na tę odpowiedź 947 dolarów.
+
+Druga rozgrywka
+Druga rozgrywka została wyemitowana 16 lutego 2011 roku. W pierwszej rundzie Jennings prowadził przed Watsonem, po wygraniu pytania Daily Double (pozwalającego podwoić posiadane punkty). Ostatecznie Watson zwyciężył jednak rozgrywkę, uzyskując w niej wynik 41&nbsp;413 dolarów (łącznie 77&nbsp;147 dolarów). Jennings uzyskał 19&nbsp;200 dolarów (łącznie 24&nbsp;000 dolarów), a Rutter 11&nbsp;200 dolarów (łącznie 21&nbsp;600 dolarów).
+
+Zdobyte pieniądze zostały zamienione na nagrody. Watson wygrał 1 milion dolarów, które w całości zostały przekazane organizacjom charytatywnym: 50% zostało przekazane World Vision i 50% World Community Grid. Jennings za zdobycie drugiego miejsca otrzymał 300&nbsp;000 dolarów (które w 50% przekazał na organizacje charytatywne), a Rutter za zdobycie trzeciego miejsca 200&nbsp;000 dolarów (również 50% przekazał na organizacje charytatywne).
+
+Przyszłe zastosowania
+IBM ogłosił, że "celem jest sprawienie, aby komputery zaczęły współpracować z ludźmi w naturalny sposób, w wielu zastosowaniach i procesach, rozumiejąc pytania zadawane przez ludzi i udzielając odpowiedzi, które ludzie będą mogli zrozumieć i ocenić".
+
+IBM rozpoczął współpracę z Nuance Communications Inc., w ramach której Watson ma zostać wyposażony w umiejętność rozpoznawania mowy i w wiedzę medyczną, co pozwoliłoby zastosować go w diagnostyce medycznej. Przy pomocy lekarzy z Columbia University i University of Maryland badane są możliwości zastosowania tej technologii w praktyce medycznej. Pierwsze komercyjne zastosowania Watsona w medycynie pojawiły się w 2013 roku. IBM bada również możliwości zastosowania Watsona jako asystenta dla prawników.
+
+IBM planuje sprzedaż systemu Watson wielkim korporacjom. Jego cena jest szacowana na kilka milionów dolarów, w czym sam sprzęt kosztuje około 1 miliona. IBM spodziewa się, że w miarę rozwoju technologii ta cena będzie maleć.
+
+Zobacz też
+Deep Blue
+Paradoks Moraveca
+Postęp w sztucznej inteligencji
+Test Turinga
+
+
+
+Linki zewnętrzne

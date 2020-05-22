@@ -1,0 +1,52 @@
+MKJ-28''' – nazwa prototypu minikomputera III generacji o 16-bitowym słowie maszynowym, który produkowany był od 1975 roku, początkowo jako SMC-3, a następnie jako PRS-4. Prototyp powstał w drugiej połowie 1973 r. w Zakładzie Automatyzacji Powierzchniowej wchodzącym w skład Zakładów Konstrukcyjno-Mechanizacyjnych Przemysłu Węglowego w Katowicach. 
+Prototyp, według pomysłu dr. inż. Jerzego Pilcha-Kowalczyka (wtedy magistra), zaprojektował, skonstruował i uruchomił dr inż. Krystian Żymełka (wtedy magister). Pomysł polegał na zaprojektowaniu sprzętu w sposób zapewniający pełną zgodność logiczną z minikomputerami Hewlett Packard: HP2114B, HP2115A, HP2116C. Pozwoliło to na wykorzystanie oprogramowania systemowego i narzędziowego tych komputerów, dzięki czemu czas realizacji od pomysłu do działającego prototypu skrócono do ~5 miesięcy. W projekcie uczestniczył także mgr inż. Marek Mokrosz, który zaprojektował dekoder rozkazów oraz zespół pomocniczy montujący poszczególne moduły minikomputera. Podstawowym źródłem informacji pozwalających zrealizować projekt był podręcznik programisty „A Pocket Guide to Hewlett Packard Computers” (wydanie Hewlett Packard Company 11000 Wolfe Road, Cupertino, California 95014 z 07/1970 r.).
+
+Prototyp minikomputera składał się z ferrytowej pamięci operacyjnej firmy Techtra o pojemności 8k słów 16-bitowych (taka była do dyspozycji chociaż dostępny zakres adresacji był 4-krotnie większy), sześciu pakietów procesora oraz dwóch kart interfejsu, jednej do czytnika CT-1001 i perforatora DT-105 taśmy 8. kanałowej oraz drugiej do teledrukarki (teletype’u) ASR-33. Pakiety procesora i karty interfejsu wykonano w standardzie mechaniki CAMAC i umieszczono w kasecie tego samego standardu.
+
+Parametry procesora
+równoległa struktura arytmometru,
+16-bitowe słowo maszynowe,
+70 rozkazów maszynowych,
+mikroprogramowanie, pozwalające wykonać do 8 rozkazów w jednym cyklu maszynowym,
+9 rejestrów roboczych (7 rejestrów 16-bitowych i 2 rejestry 1-bitowe), w tym 2 równoprawne 16-bitowe akumulatory adresowane również jako komórki pamięci operacyjnej o adresach 0 i 1,
+adresowanie pamięci operacyjnej bezpośrednie i pośrednie,nieograniczona krotność adresowania pośredniego,
+cykl maszynowy 2 μs,
+czas wykonania rozkazu bezadresowego 2 μs,
+czas wykonania rozkazu adresowego (adresacja bezpośrednia) 4 μs,
+czas wykonania rozkazu adresowego (adresacja pośrednia jednokrotna) 6 μs.
+
+Parametry pamięci operacyjnej
+ferrytowa, rdzeniowa,
+pojemność pamięci ferrytowej 8k słów (16k bajtów),
+organizacja stronicowa,
+pojemność strony 1k słów (2k bajtów),
+2 rodzaje stron: zerowa (zero page) o adresach 0-1777(8) i bieżąca (current page),
+ostatnie 64 słowa chronione i przeznaczone dla programu wczytującego (loadera).
+
+Oprogramowanie
+asembler,
+ALGOL,
+FORTRAN,
+BASIC,
+biblioteka podprogramów,
+BCS podstawowy system operacyjny,
+edytor symboliczny,
+debugger,
+Programy testujące.
+
+Urządzenia peryferyjne
+czytnik taśmy perforowanej CT-1001,
+perforator taśmy DT105,
+teletype ASR-33 lub monitor ekranowy FACIT-6401.
+
+Zastosowania
+Po zakończeniu badania zgodności z minikomputerem HP2114B, prototyp MKJ-28 wykorzystano w systemie nazwanym Baza Danych Naczelnego Dyrektora ZKMPW. Baza zawierała dane o zasobach ludzkich i materialnych ZKMPW. W celu łatwego wykorzystania danych wyposażono minikomputer MKJ-28 w monitor ekranowy FACIT 6401, który zainstalowano w gabinecie naczelnego dyrektora. Dedykowane oprogramowanie umożliwiało modyfikowanie oraz analizę zasobów według różnych kryteriów. Naczelny dyrektor korzystał z bazy w czasie narad i wizyt gości. Robiło to na nich wielkie wrażenie.
+
+Bibliografia
+Mokrzycki A., Suchy J., Żymełka K. "Wykorzystanie monitora ekranowego do komunikacji dyspozytora z systemem komputerowym", Mechanizacja i Automatyzacja Górnictwa nr 3(76) marzec 1975, PL ISSN 0208-7448
+Żymełka K. „Komputerowe systemy dyspozytorskie w latach 1975–1995”, Mechanizacja i Automatyzacja Górnictwa Czasopismo Naukowo-Techniczne nr 9-10 (303) wrzesień-październik 1995, PL ISSN 0208-7448
+Żymełka K. "Minikomputer PRS-4. Wspomnienia konstruktora", ANALECTA Studia i materiały z dziejów nauki, Rok 2010 nr 1-2, ISSN 1230-1159
+
+
+
+

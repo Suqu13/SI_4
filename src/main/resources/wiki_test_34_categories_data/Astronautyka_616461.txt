@@ -1,0 +1,33 @@
+Juno II – amerykańska rakieta nośna powstała z pocisków IRBM Jupiter i wcześniejszych IRBM Redstone. Trzykrotne nieudane próby wysłania aparatu kosmicznego typu Pionier w kierunku Księżyca, skłoniły uczonych amerykańskich do zmian technicznych w realizacji tego przedsięwzięcia. Postanowiono użyć czteroczłonowej rakiety Juno. 
+Budowa rakiety
+Pierwszy człon stanowiła nieco zmodyfikowana rakieta typu Jupiter, o masie startowej 60 ton z silnikiem wytwarzającym ciąg o sile 68 T. 
+Drugi człon stanowił zespół 11 rakiet typu Seregeant(Sierżant), o zmniejszonej długości zasilanych paliwem stałym. Każda z tych rakiet miała średnicę 15,2 cm i długość 137 cm, a łączna ich masa była równa 327,3 kg. Zapas paliwa wystarczał na ich sześciosekundowe działanie. Rakiety te były  umieszczone na zewnętrznym obwodzie cylindrycznego pojemnika o średnicy zewnętrznej 76 cm, wewnętrznej 31 cm i wysokości 137 cm.
+Trzeci człon rakiety Juno II stanowił zespół 3 rakiet Sergeant tego samego typu co w drugim członie, umieszczonych w kanale pojemnika drugiego członu i mający łączną masę 94 kg.
+Czwarty człon stanowiła pojedyncza rakieta Sergeant o jeszcze bardziej zmniejszonej długości, równej zaledwie 121 cm i masie 26,8 kg.
+
+Rakieta Juno II miała w chwili startu z Ziemi długość 23 m i masę całkowitą 60,5 ton. 
+              
+
+Chronologia
+1 czerwca 1955: Przedstawienie projektu Jupiter i Thor. Zaakceptowanie obu. Jupiter zaprojektowany z możliwością wynoszenia statków.
+
+8 sierpnia 1956: Zakończenie testów naziemnych – jednych z większych w historii programu kosmicznego USA.
+
+1 listopada 1956: Marynarka Wojenna Stanów Zjednoczonych rezygnuje z pocisków Jupiter na rzecz pocisków UGM-27 Polaris.
+
+26 listopada 1956: Siły Powietrzne Stanów Zjednoczonych przejmują projekt Jupiter.
+
+15 stycznia 1958: Pierwsze pociski Jupiter w gotowości bojowej.
+
+6 grudnia 1958, 05:44:52 GMT; s/n AM – 11; miejsce startu: Przylądek Canaveral (LC05), USAŁadunek: Pioneer 3; Uwagi: start częściowo nieudany – pierwszy człon wyłączył się za wcześnie. Ostatni człon osiągnął wysokość 107000 km.
+3 marca 1959, 05:10 GMT; s/n AM – 14; miejsce startu: Przylądek Canaveral (LC05), USAŁadunek: Pioneer 4; Uwagi: start udany
+16 lipca 1959, 17:37 GMT; s/n AM – 16; miejsce startu: Przylądek Canaveral (LC05), USAŁadunek: S-1; Uwagi: start nieudany – zniszczenie rakiety i ładunku ze względów bezpieczeństwa przez obsługę. 5,5 s po starcie utracono kontrolę nad rakietą
+15 sierpnia 1959, 00:31 GMT; s/n AM – 19B; miejsce startu: Przylądek Canaveral (LC26B), USAŁadunek: Beacon 2; Uwagi: start nieudany – przedwczesne wyłączenie się 1. stopnia rakiety
+13 października 1959, 15:30 GMT; s/n AM – 19A; miejsce startu: Przylądek Canaveral (LC05), USAŁadunek: Explorer 7; Uwagi: start udany
+23 marca 1960, 13:35 GMT; s/n AM – 19C; miejsce startu: Przylądek Canaveral (LC26B), USAŁadunek: S-46; Uwagi: start nieudany – nie odpalenie się 3. stopnia w wyniku braku łączności
+3 listopada 1960, 05:23 GMT; s/n AM – 19D; miejsce startu: Przylądek Canaveral (LC26B), USAŁadunek: Explorer 8; Uwagi: start udany
+25 lutego 1961, 00:13:16 GMT; s/n AM – 19F; miejsce startu: Przylądek Canaveral (LC26B), USAŁadunek: S-45; Uwagi: start nieudany – nie odpalenie się 3. stopnia
+27 kwietnia 1961, 03:22 GMT; s/n AM – 19E; miejsce startu: Przylądek Canaveral (LC26B), USAŁadunek: Explorer 11; Uwagi: start udany
+24 maja 1961, 19:48:05 GMT; s/n AM – 19G; miejsce startu: Przylądek Canaveral (LC26B), USAŁadunek: S-45A; Uwagi: start nieudany – nie odpalenie się 2. stopnia rakiety
+
+

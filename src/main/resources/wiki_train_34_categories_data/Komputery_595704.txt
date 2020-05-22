@@ -1,0 +1,10 @@
+MSP-80''' to  mikrokomputerowy  system automatyzacji pomiarów opracowany przez Przemysłowy Instytut Elektroniki.
+
+Budowa systemu oparta była o pakiety:
+jednostki centralnej
+pamięci
+układów we-wy
+buforów  szyn systemowych.
+
+
+

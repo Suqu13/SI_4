@@ -1,0 +1,3 @@
+CesarFTP – darmowy program typu Serwer FTP. Nie posiada on swojej wersji klienckiej (klienta FTP tego samego producenta) jak np. FileZilla. Jest on wykorzystywany w pakiecie WebServ czy Krasnal serv.
+
+

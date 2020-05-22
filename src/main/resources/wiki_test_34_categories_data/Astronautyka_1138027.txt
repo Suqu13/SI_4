@@ -1,0 +1,74 @@
+STS 127''' (ang. Space Transportation System) – 23. lot wahadłowca Endeavour w kosmos i 127. misja programu lotów wahadłowców. Głównym celem lotu było dostarczenie na ISS ostatniej części modułu JEM. To zewnętrzna platforma pozwalająca na przeprowadzanie eksperymentów w otwartej przestrzeni kosmicznej. Dzięki niej można uniknąć części potencjalnie niebezpiecznych i czasochłonnych wyjść astronautów na zewnątrz stacji. Dodatkowo astronauci wymienili panele słoneczne ISS oraz dostarczyli niezbędnych części zapasowych, koniecznych do utrzymania funkcjonowania stacji po wycofaniu, w roku 2011, wahadłowców z dalszej eksploatacji. Misja wystartowała 15 lipca 2009 o godzinie 22:03 UTC. Początkowo planowano rozpoczęcie misji 13 czerwca, jednak start, z powodu złej pogody, wycieku wodoru oraz uderzenia pioruna, pięciokrotnie przekładano. Lot trwał prawie 16 dni – do 31 lipca.
+
+Start wahadłowca
+Endeavour wystartował pomyślnie za szóstym razem, z około miesięcznym opóźnieniem. Poprzednie podejścia kończyły się niepowodzeniem, początkowo z powodu złych warunków meteorologicznych, później wycieku paliwa, a następnie konieczności oszacowania następstw uderzeń piorunów w okolicach stanowiska startowego na Przylądku Canaveral.
+
+Po starcie, na podstawie zdjęć i nagrań wideo, stwierdzono, że z powłoki zewnętrznego zbiornika paliwa oderwało się około 12 kawałków pianki izolacyjnej. Niektóre z nich uderzyły w powłokę termiczną statku. Dlatego NASA postanowiła zawiesić loty wahadłowców do czasu, aż zdarzenie zostanie wyjaśnione. Eksperci agencji sądzą jednak, że nie mogły one spowodować poważnych uszkodzeń, ponieważ oderwały się po przejściu statku przez gęste warstwy atmosfery. Nie było więc wystarczającego tarcia atmosferycznego, by oderwane kawałki mogły zagrażać bezpieczeństwu misji.
+
+Załoga
+Mark L. Polansky (3) – dowódca, NASA, USA
+Douglas G. Hurley (1) – pilot, NASA, USA
+David A. Wolf (4) – specjalista misji, NASA, USA
+Julie Payette (2) – specjalista misji, CSA, Kanada
+Christopher J. Cassidy (1) – specjalista misji, NASA, USA
+Thomas H. Marshburn (1) – specjalista misji, NASA, USA
+
+Przywieziony członek Ekspedycji 20
+Timothy L. Kopra (1) – NASA, USA
+
+Odwieziony na Ziemię członek Ekspedycji 20
+Koichi Wakata (3) – JAXA, Japonia
+
+Ładunek
+Kibo Japanese Experiment Module Exposed Facility (JEM-EF)'''
+Exposed Facility – dosłownie z angielskiego odsłonięta instalacja, jest ona przymocowana do Pressurized Module (PM) za pomocą specjalnego złącza EFBM. JEM-EF wygląda trochę jak taras, będą na nim umieszczane ładunki z materiałem doświadczalnym. Dzięki temu ładunek będzie mógł zaznać warunków panujących w otwartej przestrzeni kosmicznej np. silne promieniowanie kosmiczne, temperatura itp.
+Kształtem przypomina prostopadłościan, jego wymiary są następujące:
+szerokość 5 metrów
+wysokość 3,8 metra
+długość 5,2 metra
+masa 4,1 tony
+Moduł pobiera 11 kW mocy o napięciu 120 woltów prądu stałego (DC). Czas eksploatacji przewidziany jest na ponad 10 lat.
+
+Kibo Japanese Experiment Logistics Module - Exposed Section (ELM-ES)'''
+ELM-ES jest jedną z dwóch sekcji ELM – modułu zaopatrzeniowo-magazynowego.
+ELM-ES dołączony będzie do JEM-EF za pomocą Payload Interface Unit (PIU). ELM-ES pełni funkcje logistyczne, może być odłączony od JEM-EF i powrócić na Ziemię na pokładzie wahadłowca. Na swojej powierzchni może pomieścić trzy ładunki użyteczne.
+Wymiary ELM-ES:
+szerokość 4,9 metra
+wysokość 2,2 metra
+długość 4,1 metra
+masa 1,2 tony
+Maksymalny pobór mocy to 1,0 kW o napięciu 120 woltów prądu stałego (DC). Czas eksploatacji przewidziany jest na ponad 10 lat.
+
+Spacelab Pallet - Deployable 2 (SLP-D2)'''
+Jest to pozostałość po Spacelab – laboratorium wielokrotnego użytku wysyłanego w przeszłości w przestrzeń kosmiczną na pokładzie wahadłowców. Laboratorium już nie ma, ale zostały natomiast jego palety zewnętrzne. Pierwsza z nich Deployable 1 została użyta podczas misji STS-123, Deployable 2 wysłano podczas misji STS-127. Mogą być na nich montowane wszelkiego rodzaju instrumenty zewnętrzne np. teleskopy.
+
+Integrated Cargo Carrier - Vertical Light Deployable (ICC-VLD)'''
+Zawiera 6 nowych baterii, które mają być zamontowane na miejsce starych w kratownicy P6. Stare baterie zamienią się miejscami z nowymi i wrócą na Ziemie. Pozostałe elementy czyli: LDU (Linear Drive Unit), PM-2 (Pump Module-2), SGANT (Space to Ground Antennae) zostaną przeniesione do External Stowage Platform-3 (ESP-3) [zewnętrzna platforma ładunkowa] w czasie jednego ze spacerów kosmicznych.
+
+Sztuczne satelity
+DRAGONSat – Dual RF Astrodynamic GPS Orbital Navigator Satellite – studencki satelita składający się z dwóch pikosatelitów zbudowanych przez Texas A&M University i University of Texas.
+ANDE-2 – Atmospheric Neutral Density Experiment 2''' – ładunek Departamentu Obrony składający się z dwóch mikrosatelitów.
+
+Dokowanie do ISS
+Połączenie z ISS: 17 lipca 2009, 17:47:15 UTC
+Odłączenie od ISS: 28 lipca, 17:26:06 UTC
+Łączny czas dokowania: 10 dni 23 godziny 38 minut 51 sekund
+
+Ciekawostki
+Był to 158 amerykański, załogowy lot w kosmos.
+Była to 127 misja amerykańskiego wahadłowca.
+Był to 23 lot promu kosmicznego Endeavour.
+Był to 29 lot wahadłowca do Międzynarodowej Stacji Kosmicznej.
+Była to 102 misja po katastrofie promu Challenger.
+Była to 14 misja po katastrofie promu Columbia.
+Po raz pierwszy na Międzynarodowej Stacji Kosmicznej przebywało jednocześnie 13 ludzi.
+Po raz pierwszy dwóch Kanadyjczyków było razem w kosmosie.
+STS-127 wyniósł 500 osobę w kosmos.
+
+Zobacz też
+lista misji wahadłowców
+lista załogowych lotów kosmicznych do ISS
+
+
+
+Linki zewnętrzne

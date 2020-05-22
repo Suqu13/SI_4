@@ -1,0 +1,45 @@
+Księgi rachunkowe prowadzone są na podstawie dowodów księgowych i ujmują zapisy zdarzeń w porządku chronologicznym i systematycznym. Obejmują one zbiory zapisów księgowych, obrotów i sald, które tworzą dziennik, księgę główną, księgi pomocnicze, zestawienia: obrotów i sald kont księgi głównej oraz sald kont ksiąg pomocniczych, a także wykaz składników aktywów i pasywów.
+
+Księgi rachunkowe prowadzi się w siedzibie jednostki. Mogą być prowadzone poza siedzibą jednostki, w przypadku powierzenia ich prowadzenia jednostce uprawnionej - zgodnie z obowiązującymi przepisami - do usługowego prowadzenia ksiąg rachunkowych. W takiej sytuacji kierownik jednostki jest obowiązany:
+powiadomić właściwy urząd skarbowy o miejscu prowadzenia ksiąg w terminie 15 dni od dnia ich wydania poza siedzibę jednostki,
+zapewnić dostępność ksiąg rachunkowych do badania przez upoważnione organy kontrolne.
+
+Otwarcia ksiąg rachunkowych dokonuje się na:
+dzień rozpoczęcia działalności,
+początek każdego następnego roku obrotowego,
+dzień zmiany formy prawnej, połączenia lub podziału jednostki,
+dzień rozpoczęcia likwidacji lub postępowania upadłościowego.
+
+Księgi otwiera się w ciągu 15 dni od dnia wymienionych zdarzeń.
+Otwarcia ksiąg rachunkowych pod datą rozpoczęcia działalności dokonuje się przez wprowadzenie do ewidencji księgowej stanu aktywów i pasywów, potwierdzonego spisem z natury rzeczowych składników majątku i gotówki (inwentaryzacja).
+
+Księgi rachunkowe zamyka się na:
+dzień kończący rok obrotowy,
+dzień zakończenia działalności, w tym również sprzedaży i zakończenia likwidacji lub postępowania upadłościowego,
+dzień poprzedzający zmianę formy prawnej, postawienia w stan likwidacji lub upadłości.
+
+Księgi zamyka się nie później niż w ciągu trzech miesięcy od dnia tych zdarzeń. Ostateczne zamknięcie ksiąg jednostki powinno być dokonane nie później niż w ciągu 3 miesięcy od dnia zaistnienia tych zdarzeń.
+
+Księgi rachunkowe obejmują:'''
+
+dziennik – służy do zapisywania w porządku chronologicznym, dzień po dniu, danych o operacjach gospodarczych. Zapisy w dzienniku muszą być kolejno numerowane, a sumy zapisów (obroty) liczone w sposób ciągły
+konta księgi głównej – wprowadza się pod datą otwarcia ksiąg rachunkowych salda początkowe aktywów i pasywów, a następnie dokonuje zapisów wszystkich operacji za kolejne miesiące, zarejestrowanych uprzednio lub jednocześnie w dzienniku
+konta ksiąg pomocniczych (ewidencji analitycznej) – prowadzi się w szczególności dla:
+środków trwałych, wartości niematerialnych i prawnych oraz dokonanych od nich odpisów amortyzacyjnych (umorzeniowych)
+rozrachunków z kontrahentami
+rozrachunków z pracownikami
+operacji sprzedaży (kolejno numerowane własne faktury i inne dowody, ze szczegółowością niezbędną do celów podatkowych)
+operacji zakupu (obce faktury i inne dowody)
+kosztów
+zestawienie obrotów i sald księgi głównej oraz zestawienia sald kont ksiąg pomocniczych
+wykaz składników aktywów i pasywów
+
+Podmioty uprawnione do prowadzenia ksiąg rachunkowych
+
+Księgi rachunkowe mogą być prowadzone przez
+osoby fizyczne posiadające certyfikat księgowego
+biegłych rewidentów
+doradców podatkowych
+inne podmioty ( od 10 sierpnia 2014 roku prowadzeniem ksiąg rachunkowych mogą zajmować się wszystkie podmioty posiadające zdolność prawną, niekarane w zakresie określonych przepisów ( przestępstwa przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniężnemu, obrotowi papierami wartościowymi, przestępstwa skarbowe, inne określone w ustawie o rachunkowości ) oraz posiadające ubezpieczenie OC ). 
+ 
+

@@ -1,0 +1,29 @@
+Syntaksonomia – dział fitosocjologii zajmujący się systematyką zbiorowisk roślinnych. W oparciu o określone i jednolite kryteria florystyczne porządkuje abstrakcyjne fitocenony w hierarchiczny układ jednostek, zwanych syntaksonami. Syntaksonomia jest nauką o zasadach i metodach porządkowania, a w szczególności o wyróżnianiu i opisywaniu syntaksonów. Ponieważ przedmiotem porządkowania jest roślinność, stanowiąca kontinuum i nie pozwalająca się podzielić na ostro odgraniczone grupy, system zbiorowisk roślinnych nie jest klasyfikacją lecz typologią - uporządkowaniem i schematyzacją złożonej rzeczywistości.
+
+Istnieją różne systemy zbiorowisk roślinnych, tworzone według rozmaitych zasad. W polskiej fitosocjologii praktycznie w pełni dominuje system oparty na założeniach klasycznej środkowoeuropejskiej szkoły fitosocjologicznej, wywodzącej się od jednego z największych klasyków tej dyscypliny, Josiasa Braun-Blanqueta.
+
+Zarówno kryteria tworzenia systemu klasyfikującego zbiorowiska roślinne, jak i jego nomenklatura zebrane są w Kodeksie Nomenklatury Fitosocjologicznej (Code of Phytosociological Nomenclature), przygotowywanym przez IAVS (Międzynarodowe Stowarzyszenie Fitosocjologiczne).
+
+Kategorie syntaksonomiczne
+Kategoriami syntaksonomicznymi w systemie zbiorowisk roślinnych w klasycznej środkowoeuropejskiej szkole fitosocjologicznej są.
+
+Zestawienie końcówek określających rangę syntaksonu z przykładami:
+podzespół ''-etosum, np. Galio odorati-Fagetum typicum, Tilio-Carpinetum corydaletosum 
+zespół ''-etum, np. Scirpetum sylvatici, Festuco-Cynosuretum, Lemno minoris-Salvinietum natnatis,
+podzwiązek ''-enion, np. Dicrano-Pinenion, Luzulo-Fagenion
+związek ''-ion, np. Filipendulion, Berberidion, Dicrano-Pinion,
+rząd ''-etalia, np. Sisymbietalia, Vaccinio-Piceetalia
+podklasa ''-enea, np. Galio-Urticenea, Artemisienea vulgaris
+klasa ''-etea, np. Lemnetea, Ammophiletea, Koelerio glaucae-Corynephoretea canescentis
+
+Pełna nazwa naukowa syntaksonu zawiera na końcu cytat, tj. skrót lub pełne nazwisko autora publikacji, w której po raz pierwszy syntakson został opisany, wraz z rokiem jej opublikowania np. Orchido-Schoenetum nigricantis Oberd. 1957.
+
+W przeciwieństwie do łacińskich nazw naukowych, nie ma reguł nazewnictwa syntaksonów w języku polskim. Stosowane są nazwy zwyczajowe, odnoszące się do określonych zbiorowisk (jeśli istnieją, np. buczyna, szuwar trzcinowy, mszar) oraz nazwy tworzone poprzez dodanie do słowa "zespół" dopełniaczy polskich nazw roślin, użytych w nazwie łacińskiej (np. zespół wilczej jagody - Atropetum belladonnae).
+
+Zobacz też
+Typologia siedliskowa lasów, klasyfikacja biologiczna
+
+
+
+
+

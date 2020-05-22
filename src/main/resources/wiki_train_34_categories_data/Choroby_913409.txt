@@ -1,0 +1,54 @@
+
+
+Zespół ostrej niewydolności oddechowej (ang. acute respiratory distress syndrome, ARDS), zwany również zespołem niewydolności oddechowej (ang. respiratory distress syndrome, RDS), zespołem niewydolności oddechowej dorosłych (w odróżnieniu od IRDS), mokrym płucem (ang. wet lung) lub płucem Da Nang (ang. Da Nang lung, od miasta w Wietnamie, w którym odnotowano szczególnie dużo przypadków zachorowań podczas wojny wietnamskiej) jest poważną reakcją płuc na różne czynniki, które je uszkadzają. Jest to najważniejsze schorzenie prowadzące do obrzęku płuc ze wzrostu przepuszczalności.
+
+ARDS jest poważnym stanem chorobowym płuc spowodowanym różnorodnymi bezpośrednimi lub pośrednimi czynnikami uszkadzającymi. Zespół ten charakteryzuje się zapaleniem miąższu płucnego prowadzącym do upośledzenia wymiany gazowej z towarzyszącym uwalnianiem mediatorów procesu zapalnego i hipoksemią. Często doprowadza do zespołu niewydolności wielonarządowej (MOF). Jest to stan zagrażający życiu, często kończący się śmiercią. Zazwyczaj wymaga zastosowania mechanicznej wentylacji oraz przyjęcia na oddział intensywnej opieki medycznej. Mniej poważną postacią jest ostre uszkodzenie płuc (ALI).
+
+Historia
+ARDS został po raz pierwszy opisany w 1967 roku. Autorzy donosili o serii dwunastu przypadków pacjentów przebywających na oddziale intensywnej terapii. Pacjenci wykazywali różnorakie objawy; wspólne symptomy obejmowały tachypnoe, hipoksemię oraz zmętnienia na obrazach RTG klatki piersiowej. Towarzysząca nierozciągliwość płuc uniemożliwiała efektywną wentylację mechaniczną, co znajdywało odzwierciedlenie w niskiej przeżywalności. Niedługo po opisaniu zespołu objawów od lekarzy z całego świata zaczęły przychodzić doniesienia o podobnych przypadkach. W następnych latach zostały podjęte próby wyjaśnienia przyczyn i opracowania strategii terapii ARDS.  Definicja została zaproponowana w 1994 r. przez komitet Amerykańsko-Europejskiej Konferencji Konsensusowej. Obejmowała ona takie symptomy jak stosunek ciśnienia parcjalnego tlenu w tętnicach (PaO2) do frakcji wdychanego tlenu (FiO2) mniejszy niż 200 mm Hg oraz obecność obustronnych nacieków na obrazie RTG płuc. Stosunek PaO2:FiO2 mniejszy od 300 mm Hg i większy od 200 mm Hg zaklasyfikowany został jako ostre uszkodzenie płuc (ALI).  W 2012 r. została opublikowana Definicja Berlińska ARDS, znosząc rozróżnienie ARDS/ALI, zamiast niego wprowadzając klasyfikację ARDS na łagodne, umiarkowane lub ciężkie.
+
+Przyczyny
+Najczęstszymi przyczynami ARDS, stanowiącymi ok. 75% przypadków są: sepsa, ciężki uraz, zachłyśnięcie śliną lub zawartością żołądka oraz zachłystowe zapalenie płuc (zespół Mendelsona). Inne przyczyny to m.in. trauma, tonięcie, wielokrotne transfuzje oraz wdychanie substancji drażniących i toksycznych, które niszczą nabłonek płuc.
+
+Objawy
+ARDS zwykle występuje od ok. 72 godzin do tygodnia po wywołującym je czynniku, takim jak zranienie lub choroba. Najczęściej wykazywanymi symptomami są płytki oddech i zwiększenie częstości oddechu prowadzące do hipoksji. Do cech charakterystycznych należą: 
+ostry przebieg
+niewydolność oddechowa niespowodowana niewydolnością serca lub nadmiarem płynu
+widoczne dwustronne nacieki na obrazie RTG płuc – niemogące być w pełni wyjaśnione przez wylewy, zapaść płuca/płatu płuca, czy guzki
+ciśnienie zaklinowania < 18 mm Hg (mierzone aby wykluczyć niewydolność serca jako przyczynę)
+200 mm Hg < PaO2:FiO2 < 300 mm Hg (łagodne ARDS); 100 mm Hg < PaO2:FiO2 < 200 mm Hg (umiarkowane); PaO2:FiO2 < 100 mm Hg (ciężkie)
+Im mniejszy stosunek PaO2:FiO2, tym mniej tlenu z wdychanego powietrza dostaje się do krwi, powodując hipoksję. U zdrowego człowieka wartość PaO2:FiO2 wynosi zwykle powyżej 450 mm Hg.
+
+Patogeneza
+Uszkodzenie śródbłonka lub nabłonka
+Barierę powietrze-krew tworzą dwie warstwy komórek: nabłonek pęcherzyków płucnych oraz śródbłonek naczyń. Istnieją dwa typy komórek nabłonka pęcherzyków, typ I (płaskie), podatne na uszkodzenia i stanowiące około 90% komórek nabłonka, oraz typ II (sześcienne), bardziej odporne na uszkodzenia i stanowiące pozostałe 10%. Funkcją pneumocytów typu II jest produkcja surfaktantu i transport jonów; mają również zdolność do różnicowania w pneumocyty typu I. Podczas ARDS nabłonek traci swoją integralność – staje się bardziej przepuszczalny, co może prowadzić do napływu płynu do wnętrza pęcherzyków. Uszkodzenie pneumocytów typu II powoduje zaburzenie normalnego transportu płynów, co utrudnia pozbycie się płynu zalegającego w pęcherzykach. Pojawiają się także zaburzenia w produkcji surfaktantu. W przypadku zakażenia bakteryjnego uszkodzenie nabłonka może prowadzić do pojawienia się sepsy.
+Procesy zapalne
+Zapoczątkowanie i wzmocnienie stanu zapalnego w ARDS zachodzi przy udziale złożonej sieci cytokin, produkowanych lokalnie przez pneumocyty, fibroblasty i makrofagi. Do cytokin produkowanych w płucach należą: TNF-α, IL-1, IL-6, IL-8 oraz IL-10. Działają one chemotaktycznie i aktywująco na neutrofile, które migrują do płuc i tam wydzielają oksydanty, proteazy, leukotrieny i czynniki prozapalne takie jak czynnik aktywujący płytki. 
+Uszkodzenie płuc wywołane wentylacją
+Mechaniczna wentylacja płuc z dużymi objętościami i ciśnieniem może uszkadzać płuco, powodując jego obrzęk lub wzmagając obrzęk już obecny. Spowodowane jest to nadmiernym rozciąganiem pęcherzyków płucnych. Innym proponowanym mechanizmem jest powodowane przez cykliczne otwieranie i zamykanie bezpowietrznych pęcherzyków płucnych uruchomienie kaskady cytokin prozapalnych. U pacjentów z ARDS zaleca się wentylację przy objętościach oddechowych mniejszych niż tradycyjnie stosowane.
+
+Leczenie
+Terapia ARDS obejmuje:
+mechaniczną wentylację płuc ze zmniejszoną objętością oddechową
+zmniejszenie objętości przyjmowanych płynów
+terapię surfaktantem
+wdychanie tlenku azotu lub innych związków wywołujących wazodilatację
+podawanie kortykosteroidów i innych związków przeciwzapalnych
+
+Bibliografia
+Amato M, Barbas C, Medeiros D, Magaldi R, Schettino G, Lorenzi-Filho G, Kairalla R, Deheinzelin D, Munoz C, Oliveira R, Takagaki T, Carvalho C (1998). "Effect of a protective-ventilation strategy on mortality in the acute respiratory distress syndrome". N Engl J Med 338 (6): 347–54.
+
+Angus D (2012). “The Acute Respiratory Distress Syndrome: What’s in a Name?”. JAMA 307 (23): 2542–44.
+
+Ashbaugh D, Bigelow D, Petty T, Levine B (1967). "Acute respiratory distress in adults". Lancet 2 (7511): 319–23.
+
+Ranieri M (2012). "The ARDS Definition Task Force. Acute Respiratory Distress Syndrome: The Berlin Definition". JAMA 307 (23): 2526–33.
+
+Ware L, Matthay M (2000). "The acute respiratory distress syndrome". N Engl J Med 342 (18): 1334–49.
+
+
+
+
+
+
+

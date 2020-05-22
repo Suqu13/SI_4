@@ -1,0 +1,25 @@
+Przybliżenie Borna-Oppenheimera - jedno z podstawowych przybliżeń stosowanych w chemii kwantowej i spektroskopii, umożliwiające rozdzielenie ruchu elektronów i jąder w cząsteczce. 
+
+W przybliżeniu Borna-Oppenheimera i ogólniejszym przybliżeniu adiabatycznym wykorzystuje się fakt, że jądra atomowe są tysiące razy cięższe od elektronów, a zatem poruszają się o kilka rzędów wielkości wolniej. Zakładamy zatem, że całkowita funkcja falowa cząsteczki  jest iloczynem funkcji elektronowej , zależnej od zmiennych elektronowych  oraz parametrycznie od położeń jąder , i funkcji jądrowej , zależnej od zmiennych jądrowych (położeń jąder  i ewentualnie od spinów jąder):
+
+oraz
+
+Przybliżenie adiabatyczne, bardziej ogólne w stosunku do przybliżenia Borna-Oppenheimera, zawiera w hamiltonianie jeszcze człon równy energii kinetycznej jąder (dla danej geometrii cząsteczki) obliczonej za pomocą elektronowej funkcji falowej:
+
+Przybliżenie Borna-Openheimera (lub adiabatyczne) pozwala zdefiniować takie pojęcia, jak energia elektronowa i powierzchnia energii potencjalnej dla ruchu jąder, oraz klasyfikować w spektroskopii przejścia promieniste jako elektronowe i oscylacyjno-rotacyjne.
+
+Przybliżenie Borna-Openheimera jest na ogół dobrze spełnione, z wyjątkiem przypadku stanów zdegenerowanych lub prawie zdegenerowanych, gdzie występuje silne sprzężenie ruchu elektronów i jąder.
+
+Historia
+
+Nazwa przybliżenia Borna-Oppenheimera pochodzi od nazwisk Maksa Borna oraz Roberta Oppenheimera, którzy w 1927 opublikowali w Annalen der Physik artykuł Zur Quantentheorie der Molekeln (O teorii kwantowej cząsteczek) (Annalen der Physik, 84, 457-484 (1927)). Artykuł ten opisuje rozdzielenie ruchu elektronów oraz drgań i rotacji cząsteczki, jednak w innej formie niż ta prezentowana obecnie w podręcznikach chemii kwantowej.
+
+Bibliografia
+Alojzy Gołębiewski, Elementy mechaniki i chemii kwantowej, PWN, Warszawa 1984.
+Włodzimierz Kołos, Joanna Sadlej, Atom i cząsteczka '', Wydaw. Nauk.-Techn., Warszawa  1998 (Wykłady z Chemii Fizycznej, red. Henryk Buchowski i in.)
+
+Zobacz też
+zasada Francka-Condona
+
+
+

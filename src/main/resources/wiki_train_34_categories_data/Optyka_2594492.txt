@@ -1,0 +1,27 @@
+
+Odcień – w teorii koloru jedna z głównych cech koloru, obok jasności i nasycenia, zdefiniowana techniczne (przez CIECAM02) jako "stopień, w którym bodziec może być opisany jako podobny lub różny od bodźców opisanych jako czerwony, zielony, niebieski i żółty". W malarskiej teorii koloru odpowiada ona czystym i nasyconym kolorom – bez domieszek szarości, przyciemniania lub rozjaśniania. Jest to jeden z elementów koła barw.
+
+Wyznaczanie wartości
+
+W przypadku przestrzeni barw ortogonalnych względem jasności takich jak CIE 1976 (L*, a*, b*) i 1976 (L*, u*, v*) odcień może być wyznaczony jako współrzędna kątowa po konwersji ze współrzędnych kartezjańskich do współrzędnych biegunowych.
+
+CIELab
+CIELUV
+RGB
+
+
+Preucil opisuje kolorowy sześciokąt, podobny do trójliniowego wykresu opisanego przez Evansa, Hansona i Brewera, który może być użyty do obliczenia współczynnika barwy z RGB, umieszczając czerwony w 0°, zielony w 120° i niebieski w 240°.
+
+Mając dane wartości R (czerwony), G (zielony) i B (niebieski), wartość odcienia  można wyznaczyć przy pomocy następującej tabelki:
+
+
+
+Należy zauważyć, że w każdym przypadku we wzorze znajduje się ułamek , gdzie W to największa wartość z R, G, B; M to najmniejsza, a S to wartość między dwiema pierwszymi.
+
+Zobacz też
+Barwy czyste
+
+
+
+
+

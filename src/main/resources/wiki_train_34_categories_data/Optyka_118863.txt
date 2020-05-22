@@ -1,0 +1,11 @@
+
+
+Harfa laserowa – instrument muzyczny należący do grupy instrumentów elektrooptycznych. Skonstruowana przez Niemca – Bernarda Szajnera w kwietniu 1981 roku była początkowo dosyć niebezpieczna z powodu dużej mocy zastosowanego lasera. W celu uniknięcia obrażeń trzeba było założyć specjalne okulary i rękawiczki z azbestu. Obecnie do budowy harfy używa się bezpieczniejszych, słabszych laserów. Harfa laserowa jest klawiaturą sterującą i niepodłączona do syntezatora nie wyda dźwięku. W skład konstrukcji harfy wchodzą: wiązka lasera, pryzmat rozpraszający promienie, fotorezystor, sekcja midi i syntezator.
+Jest wykorzystywana głównie na koncertach. Używają jej m.in. Bernard Szajner, Jean-Michel Jarre, Claude Lifante, Sebastien Pamart.
+
+W 2008 roku Maurizio Carelli, włoski inżynier ds. programowania i elektroniki, wynalazł dla firmy Kromalaser przenośną harfę laserową, zwaną „KromaLASER KL-250”, która miała jedynie 80-100mW promienia laserowego.  To był prototyp. Po tym doświadczeniu udoskonalił również ostateczną, mocniejszą wersję harfy laserowej zwanej „KromaLASER KL-450”. Urządzenie zawiera konfigurowalną pełną oktawę z zielonymi wiązkami dla dźwięków diatonicznych oraz z czerwonymi dla każdych chromatycznych dźwięków w skali diatonicznej oraz chromatycznej. W drugiej połowie 2010 roku wynalazł kolorową wersję tego urządzenia, w pełni „plug&play” oraz modele wolnostojące KromaLASER KL-PRO, z laserem o mocy 1W , pracujące niezależne od światła dziennego. Wynalazł również skanery laserowe, obsługujące stację dysków ILDA. Używając również koloru niebieskiego wynalazł pierwszy kontroler multikolorowej harfy laserowej KL-Kontrol (nazwa prototypu to KL-ILDA). Ta harfa zawiera czujnik (wynaleziony również przez M. Carellego), obojętny na światło dzienne i sztuczne.
+
+
+
+
+

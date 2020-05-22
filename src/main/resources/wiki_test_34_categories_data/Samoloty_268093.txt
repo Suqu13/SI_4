@@ -1,0 +1,132 @@
+Chance Vought F-8 Crusader (ang. Krzyżowiec) – pokładowy samolot myśliwski skonstruowany przez firmę Chance Vought z Dallas w Teksasie. Wprowadzony do produkcji w marcu 1957 roku, był ostatnim myśliwcem amerykańskim wyposażonym w uzbrojenie strzeleckie jako uzbrojenie główne. Wersja RF-8 Crusader jako samolot rozpoznawczy była używana przez Stany Zjednoczone dłużej, niż jakakolwiek wersja myśliwska tego samolotu.
+
+Historia
+W firmie Vought opracowano i produkowano znakomity myśliwiec czasów II wojny światowej Vought F4U Corsair, ale po zakończeniu wojny samoloty o napędzie śmigłowym stały się przestarzałe i jedynym słusznym krokiem rozwoju było przestawienie się na produkcję samolotów odrzutowych. Transformacja firmy szła jednak dość opornie, a proponowane przez nią kolejne konstrukcje rozczarowywały i nie znajdowały nabywców. Pierwszy samolot odrzutowy firmy, przeznaczony dla marynarki myśliwiec pokładowy Vought F6U-1 Pirate (ang. Pirat), miał zbyt niskie osiągi i nie nadawał się do użycia bojowego. Łącznie wybudowano 30 egzemplarzy Pirata a zamówienie na kolejne 35 anulowano.
+
+Kolejny projekt myśliwca pokładowego marynarki, Vought F7U-1 Cutlass (ang. Kord), w przeciwieństwie do mało ambitnego projektu Pirata, okazał się zbyt ambitny. Konstrukcja samolotu w układzie bezogonowym, inspirowanym prawdopodobnie konstrukcjami niemieckiej firmy Arado, również nie sprawdziła się. Otrzymano samolot o równie miernych osiągach, jak poprzednik. Prawie 25% wszystkich wyprodukowanych samolotów tego typu uległo wypadkom, a reszta po krótkiej służbie została wycofana, choć niektóre egzemplarze miały za sobą tylko 50 godzin lotów.
+
+Trzeci projekt firmy Vought, oznaczony jako V-383''', zbudowany zgodnie z wymaganiami marynarki z września 1952 roku, myśliwiec pokładowy, zdolny osiągnąć prędkość 1,2 Macha charakteryzujący się dużą zwrotnością i dobrymi charakterystykami lądowania na pokładach lotniskowców, został przedstawiony do konkursu wraz z siedmioma innymi konstrukcjami. Wygrał projekt Voughta jako rewolucyjny i najbardziej obiecujący. Marynarka wyraziła zainteresowanie także wersją rozpoznania fotograficznego V-392'''.
+
+Pierwszy prototyp samolotu oznaczonego, zgodnie z nomenklaturą marynarki, XF8U-1''' wzbił się w powietrze 25 marca 1955 roku i już w pierwszym locie przekroczył prędkość dźwięku, co uczyniło go pierwszym ponaddźwiękowym myśliwcem pokładowym. Drugi prototyp, któremu nadano już nazwę Crusader, został oblatany 12 czerwca tego samego roku.
+
+Opis konstrukcji
+Wymagania stawiane przez marynarkę były dość trudne do spełnienia. Wyposażenie samolotu we wzmocnione podwozie do lądowania na lotniskowcach, hak hamujący i składane skrzydła, prowadziło do wzrostu masy, która z kolei powodowała pogorszenie osiągów maszyny. Z kolei przystosowanie do lotów z wysokimi prędkościami prowadziło do pogorszenia parametrów w locie z niskimi prędkościami podczas lądowania.
+
+Inżynierowie firmy Vought, aby sprostać wszystkim stawianym wymaganiom, zastosowali niecodzienne i unikalne rozwiązanie płata o zmiennym kącie zaklinowania. Dla polepszenia własności lotnych przy niskich prędkościach, płat, obracający się na sworzniu, mógł zostać uniesiony siłownikiem hydraulicznym w przedniej jego części, zmieniając kąt zaklinowania o 7°. Dla zwiększenia bezpieczeństwa zastosowano dodatkowy system pneumatyczny zastępujący hydrauliczny w przypadku jego awarii.
+
+Podniesienie płata i zwiększenie kąta natarcia prowadziło do zmniejszenia prędkości samolotu podczas startu i lądowania (działając dodatkowo jak hamulec aerodynamiczny) oraz polepszało widoczność do przodu z kabiny pilota. Uniknięto też stosowania długiej goleni podwozia przedniego, będącego jedną z wad poprzedniego projektu Voughta, F7U.
+
+Wiele części samolotu, takich jak szkielet główny i poszycie tylnych partii kadłuba w okolicach dopalaczy, wykonano z tytanu. Około 25% pokrycia kadłuba i skrzydeł wykonano ze stopów magnezu.
+
+Dziobowa część kadłuba, poprzedzająca kabinę pilota, zawiera wyposażenie awioniczne. Następnie znajduje się komora uzbrojenia, a za nią komora podwozia przedniego. Zbiorniki paliwa zabudowano w części środkowej i w skrzydłach. Podwozie główne składa się do przodu, w kierunku dziobu samolotu. W tylnej części kadłuba zabudowano silnik turboodrzutowy Pratt & Whitney J57-P-11'' o ciągu 43,2 kN i 65,7 kN z dopalaniem.
+W komorze uzbrojenia zamontowano cztery działka Colt Mk 12 kalibru 20 mm z zapasem 144 sztuk amunicji na działko. Ponadto po obu stronach kadłuba zamontowano szyny dla dwóch pocisków rakietowych AIM-9 Sidewinder. Samolot nie posiadał żadnych węzłów podwieszeń pod skrzydłami, za to na spodzie kadłuba zamontowano wciągany zasobnik z 32 niekierowanymi pociskami rakietowymi kalibru 70 mm Mighty Mouse. W wersjach produkcyjnych jednak zasobnik ten był rzadkością, a jeśli już był, to zazwyczaj usuwano go i zaślepiano otwór w kadłubie.
+
+Wczesne wersje Crusaderów posiadały duże zbiorniki paliwa o pojemności 5300 litrów zapewniające długotrwałość lotu w granicach 3 godzin i praktycznie nie stosowało się zbiorników zewnętrznych.
+
+Służba
+
+
+Ponieważ testy samolotu wypadły nadzwyczaj dobrze, skierowano go do produkcji, a pierwszy egzemplarz  produkcyjny opuścił fabrykę 20 września 1955 roku niespełna 6 miesięcy po pierwszym locie prototypu.
+
+Seryjne Crusadery wyposażono w silnik Pratt & Whitney J57-P-12'' o parametrach zbliżonych do użytego w prototypie modelu P-11''. Zbudowano 30 egzemplarzy samolotu z tym silnikiem a w następnych zastosowano mocniejszy J57-P-4A, o ciągu 48,6 kN i 73.9 kN z dopalaniem. Po zbudowaniu 50 egzemplarzy zaczęto dodawać, umieszczoną po lewej stronie za kabiną, wciąganą końcówkę do tankowania w powietrzu.
+
+W kwietniu 1956 roku wykonano testy kwalifikacyjne na lotniskowcu USS Forrestal (CV-59) i ostatecznie przyjęto samolot F8U-1'' do służby w US Navy w grudniu tego samego roku. Łącznie wyprodukowano 318 egzemplarzy tej wersji samolotu.
+
+Ponieważ Marynarka Wojenna potrzebowała również samolotu w wersji rozpoznania fotograficznego, jeden z egzemplarzy produkcyjnych poddano przeróbce polegającej na usunięciu systemów kontroli uzbrojenia i samego uzbrojenia, montując w jego miejsce zestaw kamer. Pierwszy samolot wersji oznaczonej jako F8U-1P wzbił się w powietrze 17 grudnia 1957 roku. Ogólnie zbudowano 144 egzemplarze wersji rozpoznawczej do wczesnych lat 60. XX wieku.
+
+Kilka zmodyfikowanych Crusaderów było używane przez NASA we wczesnych latach 70. XX wieku, do testowania elektronicznego systemu sterowania fly by wire, oraz własności skrzydła nadkrytycznego.
+
+Jednostki rezerwowe marynarki USA użytkowały samoloty w wersji RF-8 aż do 1986 roku.
+
+Drugim głównym użytkownikiem Crusaderów była Francja, użytkująca 42 samoloty wersji F-8(FN), aż do 1999 roku.
+
+W 1977 roku 35 wycofanych ze służby w US Navy samolotów w wersji F-8H sprzedano Filipinom, zmieniając ich oznaczenie na F-8P. 25 samolotów było zdatnych do lotu, a kolejne 10 przeznaczono na części zamienne. Ostatnie Crusadery zostały wycofane ze służby w lotnictwie Filipin w 1991 roku.
+
+Użycie bojowe
+Pierwsze loty operacyjne Crusaderów miały miejsce pod koniec 1962 roku, podczas kryzysu kubańskiego. Początkowo wykorzystywano wysoko latające samoloty zwiadowcze Lockheed U-2, które dostarczyły zdjęcia sugerujące, że ZSRR planuje umieścić na wyspie balistyczne pociski rakietowe zagrażające bezpieczeństwu Stanów Zjednoczonych. Wykonywane z dużych pułapów zdjęcia nie były zbyt szczegółowe, dlatego, aby uzyskać dokładniejsze dane, użyto samolotów RF-8A, zdolnych wykonać fotografie z niskiego pułapu niemożliwe do uzyskania innymi sposobami. 
+Ogólnie podczas wielu misji zwiadowczych określanych kryptonimem Blue Moon (Niebieski Księżyc) wykonały one ponad 160 000 fotografii w ciągu sześciu miesięcy trwania kryzysu.
+
+Wiosną 1964 roku Siły Powietrzne Stanów Zjednoczonych rozpoczęły wykonywanie misji rozpoznawczych nad Laosem monitorując aktywność militarną komunistów i jednocześnie zaznaczając swą obecność oraz gotowość do kontruderzenia w razie prowokacji.
+
+W latach 1965 - 1973, podczas wojny wietnamskiej, F-8 latały nad Wietnamem eskortując samoloty szturmowe i bombowce. Operowały z bazy w Đà Nẵng jako samoloty wsparcia piechoty, uzbrojone w niekierowane pociski rakietowe typu Zuni i bomby Mk 82 lub Mk 84 z zapalnikami Daisy Cutter zwiększającymi promień rażenia w terenie otwartym lub zapalnikami działającymi z opóźnieniem do niszczenia podziemnych struktur Việt Cộngu. Także samoloty w wersji rozpoznawczej RF-8'' wykonały bardzo wiele misji.
+
+Podczas całej wojny w Wietnamie Marynarka Wojenna i Korpus Piechoty Morskiej straciły 166 samolotów typu Crusader, z czego 30 w wersji rozpoznawczej RF-8''. Co ciekawe, 76 samolotów rozbiło się na skutek różnego rodzaju wypadków, a nie podczas misji bojowych.
+
+Od roku 1972 zaczęto wycofywać Crusadery ze służby liniowej zastępując je w misjach myśliwskich samolotami F-4 Phantom, a w misjach rozpoznawczych samolotami F-14 Tomcat wyposażonymi w zasobniki TARPS.
+
+Wersje samolotu Crusader
+
+XF8U-1
+Prototyp. Zbudowano 2 egzemplarze.
+
+F8U-1
+Pierwsza wersja produkcyjna. Zbudowano 318 egzemplarzy.
+
+F8U-1P
+Wersja rozpoznania elektronicznego. Nie posiadał uzbrojenia, tylko zestawy kamer fotograficznych i filmowych. Ogólnie zbudowano 144 egzemplarze.
+
+F8U-1E
+Ulepszony wariant z nowym systemem radarowym AN/APS-67 umożliwiającym wykonywanie lotów w każdych warunkach pogodowych. Większa osłona części dziobowej, wykonana z tworzywa sztucznego, mieściła większą antenę radaru. F8U-1E był praktycznie identyczny jak F8U-1'', a do budowy pierwszego egzemplarza użyto produkcyjnego F8U-1''. Pierwszy lot zmodyfikowanej wersji odbył się na początku września 1958 roku. Zbudowano 130 egzemplarzy tej wersji.
+
+F8U-2
+Określany przez Voughta jako Crusader II, ale praktycznie określany również jako Crusader, był wyposażony w nowe silniki J57-P-16'' o ciągu 47,6 kN i 75,2 kN z dopalaniem. Miał również lepsze osiągi. Optycznie F8U-2'' różnił się od poprzednika dwoma dodatkowymi wlotami powietrza na wierzchu ogonowej części kadłuba i dwoma stabilizatorami w dolnej części ogona. Chociaż wielu pilotów nie odczuwało poprawy stabilności samolotu po zastosowaniu tych stabilizatorów, stały się one wyposażeniem standardowym we wszystkich późniejszych wersjach Crusaderów.
+Rozpiętość skrzydeł nowej wersji była mniejsza o 15 cm. Zmieniono prowadnice dla pocisków Sidewinder, umożliwiające zamontowanie 2 sztuk z każdej strony, chociaż w praktyce nigdy nie podwieszano więcej, niż po jednej. Zmieniono również fotel wyrzucany na brytyjski Martin-Baker Mk 5 (ostatecznie wymiany fotela dokonano także we wcześniejszych modelach).
+
+Pierwszy egzemplarz F8U-2'' był produkcyjnym F8U-1'' ze zmienionymi silnikami i został oblatany w grudniu 1957 roku. W styczniu 1958 oblatano drugi prototyp bardziej zbliżony do wersji produkcyjnej, a w sierpniu tego roku wyprodukowano pierwszy seryjny egzemplarz.
+
+Testy wersji F8U-2'' wykazały jego zdolność do osiągania prędkości bliskich Ma 2 i jednocześnie bardzo dużej prędkości wznoszenia. Produkcję samolotu tego typu zakończono we wrześniu 1960 roku po zbudowaniu 187 egzemplarzy.
+
+F8U-2N
+Wersja F8U-2'' zmodyfikowana do roli myśliwca nocnego. Wyposażona w nową awionikę, nowocześniejszy radar i system sterowania ogniem, autopilota i jeszcze mocniejsze silniki J57-P-20'' o zwiększonym ciągu z dopalaczem do 80,1 kN. Zasobnik z niekierowanymi pociskami rakietowymi został ostatecznie usunięty, a w uzyskane miejsce zamontowano zbiornik paliwa. Łączna pojemność zbiorników wynosiła 6130 litrów. Dodano urządzenia do obserwacji w podczerwieni AN/AAS-15'' zabudowane w charakterystycznej obudowie przed kabiną pilota.
+
+Pierwszy F8U-2N został oblatany w lutym 1960 roku, a w czerwcu rozpoczęto jego dostawy. Do stycznia 1962 roku wyprodukowano 152 egzemplarze.
+
+F8U-2NE
+Ostatnia wersja wyprodukowana dla Marynarki Wojennej Stanów Zjednoczonych, oblatana w czerwcu 1961 roku. Posiadała jeszcze nowocześniejszy system kierowania ogniem i jeszcze lepszą awionikę do działań w każdych warunkach pogodowych, umieszczone w powiększonej osłonie na dziobie samolotu, czyniącej go dłuższym o 7,6 centymetra. Nowy system AN/APQ-94'' mógł wykrywać cele wielkości bombowca w promieniu 110 kilometrów i śledzić je w promieniu 75 kilometrów.
+
+Samoloty tej wersji były przystosowane do roli samolotów myśliwsko-szturmowych, posiadając możliwość zamontowania dwóch podskrzydłowych węzłów podwieszeń dla zasobników z niekierowanymi pociskami rakietowymi Zuni FFAR, pociskami naprowadzanymi radiowo AGM-12 Bullpup, bomb lub innych środków bojowych o łącznej masie do 2250 kg. W praktyce rzadko używano pocisków Bullpup ze względu na ich małą efektywność.
+
+Ogólnie wyprodukowano 286 egzemplarzy wersji F8U-2NE.
+
+F8U-1T
+Ze względu na to, że Crusader ze względu na swój nietypowy układ aerodynamiczny, wymagał od pilotów szczególnych umiejętności, w celu podniesienia bezpieczeństwa i szkolenia pilotów przebudowano jeden egzemplarz produkcyjny wersji F8U-1'' na dwumiejscowy samolot treningowy. Dziobowa część kadłuba, dłuższa o 60 centymetrów zawierała dwuosobową kabinę w układzie tandem, z miejscem dla instruktora położonym wyżej niż miejsce ucznia. 
+
+Zdemontowano dwa działka, pozostawiając wyrzutnię pocisków rakietowych w kadłubie i wyrzutnie pocisków Sidewinder. Awionika została dostosowana do standardu F-8E. W ramach pewnego rodzaju eksperymentu zastosowano niskociśnieniowe ogumienie podwozia samolotu umożliwiające operowanie z lotnisk polowych, oraz spadochron hamujący skracający dobieg o prawie połowę w porównaniu z innymi Crusaderami. Pierwszy lot F8U-1T Twosader, odbył się na początku 1962 roku. Ze względu na cięcia budżetowe w 1964 roku zbudowano tylko jeden egzemplarz.
+
+We wrześniu 1962 roku zunifikowano system oznaczeń samolotów amerykańskich Sił Powietrznych i Marynarki, zmieniając również oznaczenia istniejących Crusaderów jak poniżej:
+F-8A - F8U-1
+F-8B - F8U-1E
+F-8C - F8U-2
+F-8D - F8U-2N
+F-8E - F8U-2NE
+RF-8A - F8U-1P
+TF-8A - F8U-1T
+
+F-8E(FN)
+Wersja zbudowana dla lotnictwa francuskiej Marynarki Wojennej (Aeronavale). Ze względu na mniejsze rozmiary francuskich lotniskowców, poddano go serii modyfikacji mających na celu zmniejszenie prędkości lądowania. Wszystkie zmiany, które doprowadziły do redukcji prędkości lądowania o 28 km/h, przetestowano w lutym 1964 roku na samolocie w wersji F-8D, który jednak rozbił się w kwietniu tego roku. Pierwszy egzemplarz produkcyjny oblatany w czerwcu 1964 został użyty do dokończenia testów.
+
+Pomijając powyższe przeróbki, wersja F-8(FN)'' była identyczna z F-8E. Aeronavale używała 42 egzemplarzy na dwóch nowych lotniskowcach "Clemenceau" i "Foch". Francuskie Crusadery uzbrojone były identycznie, jak amerykańskie, ale posiadały dodatkową możliwość przenoszenia pocisków rakietowych klasy powietrze-powietrze R530 i ostatecznie czterech pocisków R550 Magic naprowadzanych termicznie zamiast Sidewinderów. Ze względu na większą temperaturę gazów wylotowych francuskich pocisków, konieczne było zastosowanie małych płytek tytanowych chroniących kadłub.
+
+Francuska Marynarka Wojenna używała wersji F-8E do 1999 roku, kiedy to zastąpiono go samolotem Dassault Rafale M.
+
+Modyfikacje
+Ponieważ niejednokrotnie samoloty Crusader dowiodły swej wartości bojowej, US Navy wraz z USMC rozpoczęły w 1965 roku program odnawiania i modyfikacji użytkowanych samolotów.
+
+W ramach programu zmieniono skrzydła na wytrzymalsze, wzmocniono podwozie główne (zaadaptowane z Vought A-7A Corsair II), wydłużono i wzmocniono goleń koła przedniego oraz zmodyfikowano układ aerodynamiczny na podobieństwo francuskich F-8E(FN)''
+
+Łącznie przebudowano 446 Crusadery, nadając im jednocześnie nowe oznaczenia:
+F-8D  na wersję F-8H  (89 egzemplarzy)
+F-8E  na wersję F-8J  (136 egzemplarzy)
+F-8C  na wersję F-8K  (87 egzemplarzy)
+F-8B  na wersję F-8L  (61 egzemplarzy)
+RF-8A na wersję RF-8G (73 egzemplarze)
+
+Planowano zbudować także wersję F-8M na podstawie F-8A, ale zrezygnowano z tego zamiaru ze względu na brak odpowiedniej liczby samolotów w stanie zdatnym do modyfikacji i dalszego używania.
+
+
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+Alni (Alniko)''' jest akronimem odnoszącym się do rodziny stopów bądź spieków żelaznych, które oprócz żelaza zawierają głównie glin (Al), nikiel (Ni) i kobalt (Co) - stąd też nazwa Al-Ni-Co. Stopy te zawierają czasami również miedź i tytan. Stopy alniko są ferromagnetykami, z wysoką koercją (odpornością na rozmagnesowanie), stąd też wykorzystywane są do produkcji trwałych magnesów.  Rozwój stopów alni rozpoczął się w Japonii, w 1931, kiedy T.Mishima odkrył, że stop żelaza, niklu i aluminium ma koercję 400 erstedów (Oe; 32 kA/m), dwukrotnie więcej niż najmocniejsze magnesy stalowe w tamtych czasach. Przed opracowaniem magnesów zawierających pierwiastki ziem rzadkich (np. magnesy neodymowe) były one najmocniejszymi spośród istniejących typów magnesów. Typowy skład stopów alniko to 8–12% Al, 15–26% Ni, 5–24% Co, do 6% Cu, do 1% Ti, uzupełnione do 100% Fe.
+
+Zastosowanie
+Magnesy alniko są szeroko używane w zastosowaniach przemysłowych i konsumenckich, gdzie wymagany jest mocny magnes trwały; przykładami są silniki elektryczne, przetworniki gitarowe, mikrofony, czujniki, magnetrony, magnesy żołądkowe dla bydła. W wielu zastosowaniach zostają systematycznie zastępowane przez silniejsze magnesy z pierwiastków ziem rzadkich.
+
+
+Gatunki
+Rozróżnianych jest łącznie 29 gatunków alniko (17 gatunków stopów odlewniczych, 10 gatunków spiekanych, 2 gatunki wiązane). Stopy występują pod nazwami handlowymi takimi jak Alnico, Columax, Alcomax 3SC, Alni, Hycomax, Ticonal. Powszechnie stosowane gatunki noszą nazwy takie jak: Alnico 5, Alnico 8, Alnico 9, Alnico 5DG, Alnico5-7, Alnico8HC, Alnico 6, Alnico 2, Alnico3, Alnico 500, Alnico 400, Alnico 600 i Alnico 700. Odmiany alniko są rozróżniane na podstawie sposobu produkcji; odlew (C, cast), spiek (S, sintered), wiązanie (B, bonded), budowy (anizotropowa (A, anisotropic), izotropowa (I, isotropic) oraz maksymalnej energii magnetycznej (BHmax; do 80 kJ/m3). Przykładami oznaczeń odmian dla gatunku alniko 8 są: Alnico8_ACA40, Alnico8_ASA38, Alnico8_ICA18, Alnico8_ISA20, Alnico_BA8    Najpowszechniej używanym stopem alniko jest alnico 5. W przypadku alnico 5 rozróżniane są 4 odmiany odlewnicze (ACA - Anisotropic Cast Alnico; ACA34, ACA37, ACA40, ACA44)  oraz jedna spiekana (ASA - Anisotropic Sintered Alnico; ASA34).
+
+Przypisy
+
+
+
+
+
+
+
+
+

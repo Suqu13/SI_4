@@ -1,0 +1,15 @@
+Sprzężenia wibronowe – w  chemii teoretycznej, są to oddziaływania pomiędzy elektronowymi i jądrowymi ruchami cząsteczek, a ich spektroskopowym przejawem jest pojawianie się pasma wzbronionego w widmie elektronowym. W przybliżeniu Borna-Oppenheimera oddziaływania te są zaniedbywane.
+
+Kiedy zręby atomowe wykonują drgania, zmienia się elektryczny moment dipolowy "μ" cząsteczki. Dla momentu dipolowego w stanie równowagi drgania (q=0), prawdopodobieństwo przejścia (Rnw) między termami elektronowymi jest równe zero:
+
+
+Jednak, gdy zręby atomowe są wychylone ze stanu równowagi (q≠0), moment dipolowy (μ) może spowodować, że prawdopodobieństwo to będzie niezerowe:
+
+
+W takim przypadku przejście będzie dozwolone.
+
+Dla przejść typu d-d (pomiędzy orbitalami d) lub typu f–f, które zgodnie z regułą Laporte'a są przejściami wzbronionymi, w widmie elektronowym pojawia się jednak pasmo absorpcji o niewielkiej intensywności. Moc oscylatora f takich przejść wynosi około 10-4, a molowy współczynnik absorpcji εmax jest rzędu 10. Sprzężenia wibronowe wynikające z jednoczesnego wzbudzenia elektronów oraz oscylacji cząsteczki są obserwowane dla jonów niektórych pierwiastków bloku d układu okresowego np. Mn2+, czy też bloku f układu okresowego np. Nd3+.
+
+
+
+Bibliografia

@@ -1,0 +1,49 @@
+PlayStation Vita (nazwa kodowa Next Generation Portable) – przenośna konsola gier wideo firmy Sony, która została oficjalnie zaprezentowana 27 stycznia 2011 roku. Jest to następca konsoli PlayStation Portable. Urządzenie zadebiutowało w Japonii 17 grudnia 2011 roku, a na rynku europejskim i amerykańskim pojawiła się 22 lutego 2012 roku. Jest konkurentem przenośnej konsoli Nintendo 3DS, która miała swą premierę w pierwszym kwartale 2011 roku.
+
+Gry na konsole wydawane są na specjalnym nośniku w postaci kart pamięci (ang. PlayStation Vita Card). Karta ta oprócz samych oryginalnych zasobów gry może również przetrzymywać zapisane stany gry oraz dodatkowe dane. Urządzenie jest także w pełni kompatybilne z grami na PlayStation Portable dostępnymi na PlayStation Store za pośrednictwem PlayStation Network. Konsola nie jest jednak kompatybilna z grami wydanymi na nośniku UMD. PlayStation Vita może być również używana jako kontroler do pełnowymiarowej konsoli PlayStation 4. Za pomocą "Remote Play", posiadacze konsoli PlayStation 4 mogą połączyć dwie konsole razem, za pomocą czego ekran PlayStation Vita działa jak telewizor, na którym obraz z gry jest wyświetlany, a sama konsola działa jako kontroler do PlayStation 4. Takie zastosowanie pozwala na dostęp do pełnych gier PlayStation 4, na małej przenośnej konsoli. 
+
+Dane techniczne
+Schemat konsoli
+
+
+Parametry
+Nazwa platformy: PlayStation Vita
+Numer modelu: PCH – 1000
+Procesor: ARM Cortex – A9 Core (czterordzeniowy)
+Karta graficzna: SGX543MP4+
+Wymiary: około 182&nbsp;×&nbsp;83,5&nbsp;x 18,6 milimetra (szerokość na wysokość na głębokość)
+Ekran: 5 cali, format 16:9, rozdzielczość 960&nbsp;×&nbsp;544,&nbsp;około 16 milionów kolorów, ekran OLED, z multidotykiem (typ pojemnościowy)
+RAM: 512 MB
+VRAM: 128 MB
+Tylny panel dotykowy: multidotyk (pojemnościowy)
+Aparaty: przedni i tylny; nagrywanie kamerą: liczba klatek: 120 (w rozdzielczości 320x240, QVGA) i 60 (w rozdzielczości 640x480, VGA)
+Dźwięk: stereo, wbudowany mikrofon
+Sensory: wykrywanie ruchu w sześciu osiach (trzyosiowy żyroskop, trzyosiowy akcelerometr). Trzyosiowy elektroniczny kompas
+Lokalizacja: wbudowany GPS (tylko w modelu z 3G i WiFi), wsparcie dla usług bezprzewodowych
+Przyciski/guziki: przycisk PS, wyłącznik, klawisze kierunkowe (góra, dół, prawo, lewo), akcji (, ,  i ), przyciski po bokach (prawy, lewy), prawa i lewa gałka, przycisk START i SELECT, klawisze głośności
+Komunikacja bezprzewodowa: połączenie z siecią komórkową (model z 3G), połączenie bezprzewodowe w standardzie IEEE 802.11b/g/n, Bluetooth
+Sloty/porty: slot na karty obsługiwane przez Vitę, slot na karty pamięci, slot na kartę sim (model z 3G i WiFi), port wielofunkcyjny (USB, DC IN, audio – wyjście stereo i wejście mono), wyjście słuchawkowe (mini jack), port dla akcesoriów
+Bateria: wbudowany akumulator litowo-jonowy 2210 mAh, zasilacz sieciowy
+Obsługiwane formaty muzyczne: MP3, MP4
+Zawartość AV: WAVE
+Formaty wideo: MPEG-4 (AAC), H.264/MPEG-4 AVC
+Formaty obrazu: JPEG, TIFT, BMP, GIF, PN
+Model z 3G/WiFi jest wyposażony w moduł GPS
+
+Różnice pomiędzy PlayStation Vita a PlayStation Portable
+
+
+Oprogramowanie
+
+System operacyjny
+System operacyjny konsoli, Vita OS, jest oparty na Linuksie. Został opracowany przez firmę Sony dla konsoli PlayStation Vita oraz smartfonów z serii Xperia. PlayStation Vita w przeciwieństwie do PlayStation Portable i PlayStation 3 nie używa interfejsu XrossMediaBar. Zamiast tego wykorzystuje dotykowy interfejs użytkownika oparty na LiveArea, który zawiera różne funkcje sieci społecznościowych za pośrednictwem PlayStation Network. W czasie premiery PlayStation Vita przeglądarka nie obsługiwała poprawnie Adobe Flash, jednak HTML5, ciasteczka i JavaScript były dostępne. Konsolę PS Vita można uruchomić w trybie awaryjnym w przypadku, gdy nie można jej uruchomić normalnie, pozwalając użytkownikowi na uaktualnienie lub przywrócenie oprogramowania systemowego.
+
+Gry
+Większość gier jest dystrybuowanych przez kartę PS Vita i sprzedawanych w sklepach, podczas gdy niektóre gry, jak Tales from Space: Mutant Blobs Attack, Super Stardust Delta i Escape Plan, są rozpowszechniane online i można je kupić tylko z PlayStation Store.
+
+Zobacz też
+Lista przenośnych konsoli gier wideo
+
+
+
+Linki zewnętrzne

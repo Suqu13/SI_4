@@ -1,0 +1,56 @@
+Amortyzacja – nazywana czasami konsumpcją kapitału, oznacza zmniejszenie się wartości dobra kapitałowego w danym czasie w wyniku jego użytkowania lub starzenia się. Można mówić o amortyzacji kredytu (rozłożeniu jego spłaty), ale najczęściej pojęcie to odnosi się do amortyzacji księgowej.
+
+Amortyzacja księgowa służy przypisaniu ceny nabycia lub kosztu wytworzenia środka trwałego lub wartości niematerialnej i prawnej do całego okresu ekonomicznej użyteczności tych aktywów. Suma odpisów amortyzacyjnych stanowi umorzenie.
+
+Amortyzacja jest kosztem niepieniężnym (to znaczy nie pociąga za sobą wydatków w bieżącym okresie). Jest także źródłem finansowania inwestycji restytucyjnych. Z pomocą amortyzacji nakłady na zakup czy wytworzenie środka trwałego są stopniowo zaliczane w koszty poszczególnych okresów, co pozwala (przynajmniej teoretycznie) zgromadzić fundusze na zakup nowych środków trwałych po całkowitym zamortyzowaniu starych.
+
+W niektórych przedsiębiorstwach istnieje tzw. „fundusz amortyzacji”. Ma to miejsce szczególnie w instytucjach, które są podzielone na działy wypracowujące wspólny zysk i ponoszące wspólne koszty. Ponieważ jeden z działów mógłby chcieć kupić niepotrzebne narzędzia, za które zapłacą pozostałe działy, dział kupujący musi oddać im pieniądze na swój zakup.
+
+Ojcem państwowego funduszu amortyzacyjnego (sinking fund) jest premier Wielkiej Brytanii w latach (1721-1742) Robert Walpole.
+
+Przykład:
+
+Zakład Przelewania z Pustego w Próżne (ZPPP) w Instytucie Technik Wodno-Lądowych planuje zakup nowych komputerów. Ponieważ inne zakłady musiałyby za ten zakup zapłacić ze wspólnej kasy, mogą mieć wątpliwości, czy aby zakup nowych komputerów jest uzasadniony. Kierownik ZPPP twierdzi, że zakup komputerów przyniesie zysk 10% w skali roku. W związku z tym, ZPPP zakupuje komputery i przez jakiś czas (np. przez rok) jakby „spłaca” te komputery do wspólnej kasy. ZPPP ma na to pieniądze, ponieważ zakup komputerów przyniósł mu zysk 10% i z tych pieniędzy wyrównuje stratę pozostałych zakładów. ZPPP ma w czasie amortyzacji takie same wydatki, jak przed zakupem: choć koszty działania wzrosły o 10% na amortyzację, to jednocześnie dzięki komputerom wzrosła wydajność o 10% i koszty się wyrównały. Spłacenie kosztów w terminie jest dowodem na trafność inwestycji.
+
+Po „spłacie” komputerów zyski ZPPP rosną o te 10%. W nagrodę za trafną decyzję o zakupie komputerów (zakup zwrócił się), ZPPP może teraz zakupić nowy sprzęt, do wysokości tego, co już spłacił, bez zgody innych zakładów (z tzw. funduszu amortyzacji).
+
+Gdyby decyzja o zakupie okazała się nietrafna, pozostałe zakłady nie poniosą straty; poniesie je tylko ZPPP.
+
+Metody amortyzacji
+Metoda liniowa
+Metoda liniowa (inaczej równomierna lub proporcjonalna) polega na odpisywaniu stałej raty (np. co miesiąc) takiego samego odsetka wartości środka trwałego (np. jeśli okres amortyzacji środka trwałego obejmuje 5 lat, czyli 60 miesięcy, to co miesiąc będzie odpisywana w koszty 1/60 część wartości tego środka trwałego). Oparta jest na założeniu, że zużycie środka trwałego i utrata jego wartości jest taka sama w każdym okresie.
+
+
+
+gdzie
+– amortyzacja roczna
+– cena nabycia lub koszt wytworzenia
+– wartość rezydualna (końcowa)
+– przewidywany okres eksploatacji
+
+Metoda degresywna
+Metoda degresywna to metoda malejących odpisów amortyzacyjnych. W Polsce utożsamiana najczęściej ze specyficzną metodą opisaną w przepisach podatkowych. Polega na zastosowaniu odpowiedniego współczynnika podwyższającego, wykorzystywana w szczególnych przypadkach. Oparta jest na założeniu, że zużycie środka trwałego a zwłaszcza zmniejszenie jego wartości następuje w początkowym okresie jego używania szybciej niż w następnych okresach.
+
+
+
+gdzie
+– amortyzacja roczna dla roku t
+– współczynnik podwyższający stawkę amortyzacji
+– wartość netto na koniec poprzedniego roku obrotowego
+
+W metodzie tej odpisy zmniejszają się aż do momentu zrównania się z odpisem z metody liniowej. Gdyby wartość odpisywanej raty metodą degresywną byłaby mniejsza niż metodą liniową, to dalsze odpisy są naliczane liniowo.
+
+Interpretacja przepisów podatkowych mówi:'''
+
+Amortyzacja metodą degresywną polega na tym, że na początku miesięczne raty amortyzacji można podwyższać współczynnikiem nie wyższym niż 2,0, a w następnych latach nalicza się je od wartości początkowej pomniejszonej o dotychczasowe odpisy amortyzacyjne, ustalonej na początek kolejnych lat ich używania. Począwszy od roku podatkowego, w którym tak określona roczna kwota amortyzacji miałaby być niższa od rocznej kwoty amortyzacji obliczonej metodą liniową, podatnicy dokonują dalszych odpisów zgodnie z amortyzacją liniową.
+
+Metoda progresywna
+Metoda progresywna to metoda rosnących odpisów amortyzacyjnych. Oparta jest na założeniu, że wraz z upływem czasu zużycie środka trwałego i utrata jego wartości następuje coraz szybciej.
+
+Metoda naturalna
+W metodzie naturalnej okresowy odpis amortyzacyjny szacuje się przez porównanie wykorzystania amortyzowanego składnika majątku (najczęściej jego produkcji lub czasu pracy w przypadku maszyn produkcyjnych lub ilości przejechanych kilometrów dla środków transportu) z określoną przez producenta maksymalną zdolnością produkcyjną w ciągu całego okresu życia. Nie funkcjonuje od 1 września 2007&nbsp;r.
+
+Amortyzacja jako koszt podatkowy
+Amortyzacja jest generalnie kosztem podatkowym. Jednakże o ile amortyzacja w ujęciu księgowym zakłada, że stawka amortyzacyjna powinna odzwierciedlać planowany okres ekonomicznego użytkowania danego składnika majątku (aktywa) o tyle w ujęciu podatkowym istnieją z góry ustalone w Ustawie o podatku dochodowym od osób prawnych (CIT) stawki amortyzacji uznawanej podatkowo przez urzędy skarbowe w Polsce. Taka sytuacja powoduje to że koszty amortyzacji w danym okresie w ujęciu księgowym, czyli w sprawozdaniu finansowym i w księgach rachunkowych różnią się niekiedy od amortyzacji wykazywanej jako koszt w deklaracji podatkowej. Różnica między amortyzacją w ujęciu księgowym a tą w ujęciu podatkowym powoduje powstawanie podatku odroczonego w sprawozdaniach finansowych spółek.
+
+

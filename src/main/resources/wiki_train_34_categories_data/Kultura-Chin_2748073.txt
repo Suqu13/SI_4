@@ -1,0 +1,54 @@
+
+Sinogram (), jap. 漢字 kanji (hiragana: かんじ, katakana: カンジ), kor. hanja (한자), wietn. hán tự – znak pisma chińskiego, japońskiego, koreańskiego, wietnamskiego oraz pism pochodnych (np. pismo Tangutów, pismo Kitanów, pismo Dżurdżenów, pismo dongba i in.), o postaci logograficznej: albo piktograficznej, albo ideograficznej, albo ideograficzno-fonetycznej. 
+
+Nazwa "sinogram" (łac. sino-'' "chiński, odnoszący się do Chin", grec. gramma – "pismo, znak"), jest prostym tłumaczeniem nazwy oryginalnej "hanzi", tj. znak (-zi) Hanów (han-), gdzie nazwa "Han" odnosi się do Chińczyków Han, jako twórców i głównych użytkowników tego typu znaków, lub do dynastii Han, za której czasów skodyfikowano pismo chińskie w postać klasyczną, używaną aż do reformy uproszczenia znaków zapoczątkowanej w ChRL w r. 1952. 
+
+Nazwa "sinogram" jest stosowana głównie przez sinologów odwołujących się do tradycji sinologii francuskiej (np. J. Chmielewski. T. Margul); sinologowie odwołujący się do innych tradycji wolą używać długiej nazwy "znak pisma chińskiego".
+
+Sinogramy niekiedy niepoprawnie nazywane są: "hieroglifami chińskimi" lub po prostu "hieroglifami" (jest to rusycyzm: po rosyjsku иероглиф oznacza znak każdego pisma niefonetycznego, np. pisma staroegipskiego, sumeryjskiego pisma klinowego, pisma rongo-rongo z Wyspy Wielkanocnej czy właśnie pisma chińskiego; po polsku hieroglify to wyłącznie znaki pisma egipskiego); "charakterami" lub "glifami" (jest to anglicyzm, po angielsku character to m.in. "znak napisany" a glyph to po prostu "znak pisma"); albo "piktogramami" (dalece nie każdy sinogram jest piktogramem).
+
+Sinogramy wywodzą się ze starszych postaci pisma chińskiego i zachowały swój jednolity charakter logograficzny od czasów pisma na kościach wróżebnych z czasów dynastii Shang. Nie zmienia to faktu, że postaci konkretnych znaków były wielokrotnie modyfikowane, zarówno w samych Chinach, jak i w krajach sąsiadujących (zwł. w Japonii, zob. shinjitai). Do oryginalnego zestawu znaków dodawano nowe znaki, niezbędne do zapisu nowych pojęć – do odróżniania nowych znaczeń terminów homonimicznych (np. podczas tłumaczenia bogatej literatury buddyjskiej z sanskrytu i in. języków indyjskich na język chiński) lub do zapisywania dźwięków niemandaryńskich języków i dialektów Chin (np. język kantoński) czy Wietnamu (chữ nôm).
+
+
+
+Sinogramy w obrębie tekstu są używane albo samodzielnie (w piśmie chińskim, gdzie tekst na ogół składa się wyłącznie z sinogramów), albo wraz ze znakami pokrewnej natury (logografami, np. w piśmie wietnamskim chữ nôm, czy w wymarłych pismach Kitanów, Dżurdżenów i Tangutów), albo – w pismach mieszanych (pismo japońskie, pismo koreańskie) – wraz z towarzyszącymi znakami czysto fonetycznymi, należącymi do typologicznie odmiennego rodzaju pisma, a służącymi do zapisu końcówek gramatycznych itp., lub do zapisu wymowy (mniejsze znaki japońskiej hiragany, koreańskiego hangulu lub chińskiego zhuyin (zw. też bopomofo) biegną wówczas obok sinogramów; ma to miejsce najczęściej w przypadku tekstów zapisanych chińskim językiem klasycznym, niezrozumiałym dzisiaj, albo w przypadku tekstów religijnych, np. buddyjskich mantr, sutr itp., będących tylko transkrypcją fonetyczną tekstu sanskryckiego dokonaną z użyciem sinogramów).
+
+Z uproszczonych sinogramów wywodzą się też w większości znaki fonetycznych pism Dalekiego Wschodu, takich jak hiragana, katakana, zhuyin, pismo yi i in. Szczególna jest sytuacja pisma koreańskiego. Nie udało się do dzisiaj jednoznacznie ustalić genezy poszczególnych znaków tego pisma w znakach innego pisma czy innych pism (tj. znaleźć takiego pisma (np. devanagari czy Phags-pa), którego przynajmniej niektóre znaki byłyby byłyby jednoznacznymi prototypami dla znaków pisma hangeul). W szczególności dotyczy to sinogramów jako potencjalnych kandydatów na takie prototypy. Twórcy tego pisma (król Saejong i jego zespół w latach 1443-46) twierdzili po prostu, że pismo ukazuje człowieka, jako aktywnego współtwórcę świata dzięki mowie: kształt znaków odzwierciedla albo układ narządów mowy w trakcie wymawiania danej głoski (dot. spółgłosek), albo układ 3 kosmicznych zasad: Nieba – Ziemi – Człowieka (dot. samogłosek). Stąd pomysł George'a Sampsona, by stwierdzić, że pismo to ma charakter "odzwierciedlający cechy rzeczywistości" (ang. '''' – neologizm utworzony przez Sampsona, nieposiadający utrwalonego polskiego przekładu; ). Skłania to niektórych uczonych koreańskich do głoszenia teorii, że pismo hangeul powstało i rozwijało się nie tylko w opozycji do dominującej pozycji sinogramów, ale i całkowicie niezależnie od pisma chińskiego. Faktycznie jednak wpływ pisma chińskiego na hangeul jest znaczący. Logograficzna natura sinogramów – «jeden znak odpowiada jednemu, jednosylabowemu słowu (dziś: morfemowi)» – wpłynęła na nielinearny sposób zapisu znaków pisma koreańskiego. Znaki koreańskie, o naturze alfabetycznej, nie są zapisywane jeden po drugim (jak w większości pisma na świecie), lecz grupowane w sylaby mające kształt zbliżony do kwadratu (odpowiadający kształtem i wielkością sinogramom, którym pierwotnie znaki koreańskie towarzyszyły). Sylaby mają od 2 do 6 znaków, zapisywanych od górnego lewego rogu, przez środek znaku, górny prawy róg (lub cała prawą stronę), ku dolnemu lewemu rogowi kończąc w rogu prawym dolnym. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

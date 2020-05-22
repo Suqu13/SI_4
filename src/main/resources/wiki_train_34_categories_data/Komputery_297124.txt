@@ -1,0 +1,5 @@
+System/38''' - minikomputer opracowany przez firmę IBM, który był sterowany za pomocą systemu operacyjnego Control Program Facility z wbudowaną relacyjną bazą danych. Wprowadzony na rynek w 1978 r. jako rozwinięcie wcześniejszej linii System/3x - typowa konfiguracja obsługiwała kilkanaście do kilkudziesięciu terminali. System/38 został potem zastąpiony przez AS/400, na  którym działa większość aplikacji napisanych dla System/38.
+
+
+
+

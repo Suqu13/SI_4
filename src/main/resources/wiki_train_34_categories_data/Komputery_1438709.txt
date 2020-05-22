@@ -1,0 +1,20 @@
+
+Netbook – mały, przenośny komputer osobisty, zazwyczaj tańszy i lżejszy od tradycyjnego laptopa, przeznaczony do przeglądania Internetu, wideorozmów, aplikacji online oraz prac biurowych w podróży. Najnowsze modele netbooków radzą sobie także z grami i nowszymi programami.
+
+Netbooki posiadają zwykle systemy Linux, Windows Mobile, Windows XP lub Windows 7 oraz energooszczędne procesory Intel Celeron M ULV, Intel Atom, VIA C7, VIA Nano lub AMD Athlon Neo. Netbooki pracują zwykle na kartach Intel z rodziny GMA. Najnowsze modele posiadają również nVidia ION. Mają też niewielki, najwyżej 12,1-calowy ekran, dysk typu SSD lub tradycyjny dysk twardy oraz zmniejszoną klawiaturę. Zazwyczaj nie posiadają napędów optycznych, posiadają za to porty USB, czytniki kart pamięci, Wi-Fi oraz Bluetooth.
+
+Pierwsze użycie terminu netbook
+Pierwszy raz termin „netbook” został użyty w 1999 r. przez firmę Psion dla małych notebooków, posiadających wystarczającą moc do przeglądania internetu oraz do prac biurowych. Pierwszym netbookiem był Psion Netbook, który na początku miał system Psion Epoc Operating System, a później Windows CE. Ze względu na wąski rynek docelowy, wysoką cenę (1299 dolarów) i brak standardowego systemu operacyjnego, Psion Netbook nigdy nie zyskał znacznego udziału w rynku, a jego produkcja została wstrzymana.
+
+Pierwsze netbooki
+Mimo, że pierwszym netbookiem był Psion Netbook, zostały one jednak spopularyzowane przez ASUS Eee PC, pierwszy bardzo tani netbook. Odpowiedzią na Eee PC był Everex Cloudbook, który został wyposażony w procesor VIA C7-M taktowany z częstotliwością 1,2 GHz, 512 MB RAM oraz system operacyjny Linux gOS. Jednak Cloudbook nie odniósł zbyt wielkiego sukcesu.
+
+Zobacz też
+Nettop
+Chromebook
+
+
+
+
+
+

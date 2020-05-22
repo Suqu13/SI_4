@@ -1,0 +1,107 @@
+Ostra niewydolność serca (ONS, łac. insufficientia cordis acuta, ang. acute heart failure) – szybko rozwijający się zespół objawów podmiotowych i przedmiotowych spowodowanych upośledzeniem czynności skurczowej lub rozkurczowej serca, co skutkuje niedostatecznym zaopatrzeniem komórek w tlen i substancje odżywcze oraz zaburzeniem funkcji wielu narządów i układów. Może rozwinąć się de novo lub jako dekompensacja przewlekłej niewydolności serca.
+
+Podział
+Postaci kliniczne
+ostra niewyrównana niewydolność serca
+nadciśnieniowa ostra niewydolność serca (przełom nadciśnieniowy)
+obrzęk płuc
+wstrząs kardiogenny
+niewydolność serca z dużym rzutem
+prawostronna niewydolność serca
+
+Klasyfikacje
+klasyfikacja Killipa-Kimballa:
+I – nie ma objawów klinicznych dekompensacji serca, bez cech zastoju w krążeniu płucnym ani III tonu serca
+II – niewydolność serca, zastój poniżej dolnych kątów łopatek objawiający się wilgotnymi rzężeniami i (lub) III ton serca
+III – pełnoobjawowy obrzęk płuc, rzężenia nad ponad połową pól płucnych
+IV – wstrząs kardiogenny, hipotonia (ciśnienie tętnicze skurczowe ≤90&nbsp;mm Hg) i cechy hipoperfuzji obwodowej (oliguria, sinica, zlewne poty)
+
+klasyfikacja Forrestera:
+I – chorzy bez objawów hipoperfuzji obwodowej i bez cech zastoju w płucach; CI > 2,2 l/min/m², PCWP  2,2 l/min/m², PCWP > 18&nbsp;mm Hg
+III – chorzy ze wstrząsem hipowolemicznym, z objawami hipoperfuzji obwodowej, ale bez cech zastoju w płucach. CI 18&nbsp;mm Hg.
+
+Etiologia
+Przyczyny dekompensacji przewlekłej niewydolności serca:
+nieodpowiednie leczenie, brak współpracy (low compliance)
+nadmierna podaż wody i sodu
+postęp choroby podstawowej
+choroba niedokrwienna serca
+nadciśnienie tętnicze
+zaburzenia rytmu
+infekcje
+zatorowość płucna
+
+Objawy i przebieg
+Objawy ostrej lewokomorowej niewydolności serca:
+objawy małego rzutu:
+splątanie, senność
+blada, chłodna, spocona skóra
+hipotonia
+tętno nitkowate
+skąpomocz
+sinica obwodowa
+objawy zastoju:
+duszność
+kaszel
+hipertonia
+blada, chłodna i wilgotna skóra
+osłuchowe cechy zastoju nad płucami (rzężenia drobno- i średniobańkowe)
+
+Nieprawidłowości w badaniach dodatkowych
+Monitorowanie hemodynamiczne:
+nieprawidłowy wynik pomiaru ciśnienia zaklinowania cewnikiem Swana-Ganza jest diagnostyczny
+EKG:
+zazwyczaj nieprawidłowe, zależne od choroby podstawowej
+Badania laboratoryjne:
+poziom troponin, CK-MB podwyższony gdy przyczyną ONS jest ostry zespół wieńcowy
+jonogram
+Gazometria krwi tętniczej:
+RTG klatki piersiowej:
+objawy choroby podstawowej
+zastój w krążeniu płucnym
+ECHO serca:
+ocena charakteru zaburzenia czynności serca
+
+Rozpoznanie
+Rozpoznanie opiera się na wywiadzie, badaniu przedmiotowym i na wynikach badań dodatkowych.
+
+Różnicowanie
+Ostra niewydolność serca różnicuje się z:
+zaostrzeniem astmy
+zaostrzeniem POChP
+zatorowością płucną.
+
+Kardiogenny obrzęk płuc wymaga różnicowania z obrzękiem niekardiogennym.
+
+Kryteria rozpoznania wstrząsu kardiogennego:
+kliniczne objawy hipoperfuzji obwodowej
+hipotonia (SP ≤90&nbsp;mm Hg przez co najmniej 30&nbsp;min pomimo podaży płynów i.v.)
+CI 18&nbsp;mm Hg
+oliguria <20-30 ml/h
+
+Leczenie
+Leczenie farmakologiczne
+nitraty
+diuretyki
+leki inotropowe dodatnie:
+dopamina
+dobutamina
+milrinon
+adrenalina
+glikozydy nasercowe
+noradrenalina
+leki antyarytmiczne (amiodaron; przeciwwskazane leki klasy IC)
+
+Leczenie wspomagające
+tlenoterapia, wentylacja wspomagana
+mechaniczne wspomaganie czynności serca
+kontrapulsacja wewnątrzaortalna (IABP)
+urządzenia wspomagające czynność komór (VAD)
+
+Leczenie inwazyjne
+Rokowanie
+W klasyfikacji Killipa śmiertelność wewnątrzszpitalna wynosi w klasach I-IV odpowiednio, 6%, 30%, 40% i 80-90%.
+
+
+
+Bibliografia

@@ -1,0 +1,109 @@
+[[Plik:ZAM-2.jpg|thumb|250px|right|
+Na środku [[stolik operatora]] z [[pulpit]]em ([[Monitor komputera|monitorem]]),
+po jego bokach czytnik i perforator taśmy,
+pod ścianą dwie szafy jednostki centralnej,
+z tyłu zasilająca.]]
+
+
+ZAM-2''' to polski komputer pierwszej generacji zbudowany na lampach, wersja produkcyjna polskiego komputera XYZ. Przeznaczony przede wszystkim do obliczeń numerycznych był także używany do przetwarzania danych np w Towarzystwie Ubezpieczeń i Reasekuracji WARTA, a w NRD współpracował z maszynami analitycznymi.
+
+Twór­cy ZAM-2 otrzymali w 1964r. nagrodę państwową  II-go stopnia.
+
+Wyprodukowano 12 szt. w wersjach: Alfa, Beta i Gamma.
+
+Zmiany w stosunku do XYZ
+dodanie rejestru indeksowego i uzupełnienie listy rozkazów
+zastąpienie pamięci rtęciowej magnetostrykcyjną
+podwojenie pojemności pamięci bębnowej
+użycie zamkniętych szaf zamiast stojaków centrali telefonicznej
+od wersji gamma zastąpienie przekaźnikowej macierzy przełączającej głowice pamięci bębnowej tranzystorową (zastosowana w pozostałych przy naprawach).
+
+Dane techniczne
+rodzina: ZAM
+organizacja:
+jednoadresowy, dynamiczny komputer szeregowy o sterowaniu układowym
+arytmetyka binarna, zapis liczb znak-moduł
+18 bitowe liczby całkowite
+36 bitowe liczby ułamkowe
+18 bitowe słowo rozkazu zawierające pola:
+1 bitowy modyfikator rozkazu np. zmieniający długość operantu
+5 bitowy kod rozkazu
+12 bitowy adres
+32 rozkazy arytmetyczne, logiczne i sterownia; brak rozkazów zmiennoprzecinkowych i działań na znakach (lista rozkazów w opisie makroasemblera SAS)
+szybkość: 
+ok. 1000 dodawań na sekundę 
+ok. 300 mnożeń na sekundę
+pamięć:
+operacyjna pamięć magnetostrykcyjna na liniach opóźniających
+512 słów długości 36 bitów
+średni czas dostępu: 0,4 ms
+bębnowa 
+głowice stałe
+pojemność ok. 600 tys. bitów (128 ścieżek po 128 słów 36bitowych)
+średni czas dostępu zależny od wykonania macierzy przełączającej głowice:  
+przekaźnikowa: 40 ms
+tranzystorowa: 20 ms
+urządzenia zewnętrzne: 
+dalekopis o szybkości 7 znaków na sekundę
+fotoelektryczny czytnik pięciokanałowej taśmy o szybkości 300 znaków na sekundę
+perforator pięciokanałowej taśmy o szybkości 30 znaków na sekundę
+w NRD czytnik kart ELLIOTT-B 42 wymieniony następnie na reproducer kart
+rozkazy: 32 rozkazy 18 bitowe
+rejestry:
+arytmometru:
+36 bitowe na magnetostrykcyjnych liniach opóźniających
+akumulator - 36 bity i bit nadmiaru
+mnożnik - 36 bitów
+rejestr pośredniczący
+1 bitowe
+bit nadmiaru akumulatora
+bit znaku akumulatora
+bit znaku mnożnika
+układu sterowania:
+licznik rozkazów
+rejestr rozkazów
+licznik powtórzeń dla rozkazów mnożenia, dzielenia i przesunięć
+bit modyfikacji rozkazów
+technologia: 
+ok. 400 lamp elektronowych i ostrzowe diody germanowe
+w pamięci bębnowej tranzystory
+pakiety montowane na płytkach tekstolitowych, montaż przestrzenny, lutowane połączenia między łączówkami. 
+budowa (moduły):
+dwie szafy o wymiarach 2300x2000x400 mm (arytmometr, pamięć wewnętrzna i układ sterowania)
+stolik operatora
+pamięć bębnowa
+zasilacz
+zasilanie: 3 fazy 380/220 V, 50 Hz 12,5 KW
+chłodzenie: szafy i inne urządzenia posiadały wentylatory, a komputer nie wymagał klimatyzacji, jedynie szafa z pamięcią wewnętrzną posiadała wentylatory sterowne przez termostat (pamięć wewnętrzna wymagała stałej temperatury).
+
+Języki programowania
+SAS - makroasembler
+SAKO - autokod zwany "Polskim Fortranem".
+
+Produkcja
+Alfa — dwie sztuki w latach 1960—61 z pamięcią rtęciową wymienioną w czasie uruchamiania na magnetostrykcyjną. Sprzedane Oficerskiej Szkole Łączności w Zegrzu i Biurze Projektów Przemysłu Syntezy Chemicznej w Gliwicach.
+Beta — dwie sztuki w latach 1961—1962 z pamięcią magnetostrykcyjną.
+Gamma — osiem sztuk w latach 1962—1965, z czego 2 sztuki wyeksportowano do NRD. W pamięci bębnowej zastosowano tranzystory.
+
+Eksploatacja
+Roczne wykorzystanie czasu pracy  w ośrodku obliczeniowym
+„ETOPROJEKT”:
+
+
+Najdłuższy czas bezawaryjnej pracy: 140 h.
+Najdłuższy czas awarii: 30 h.
+Najczęściej występowały awarie we/wy ale były łatwe do usunięcia.
+Najbardziej kłopotliwe były błędy pamięci operacyjnej.
+Niezawodność poprawiło zastosowanie klimatyzacji.
+
+Literatura
+Konrad Fiałkowski "Maszyna cyfrowa ZAM-2" Wydawnictwa Naukowo-Techniczne,Warszawa 1963 r.
+
+Linki zewnętrzne
+zdjęcia:  
+
+
+
+
+
+

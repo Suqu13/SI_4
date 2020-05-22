@@ -1,0 +1,36 @@
+Jornada – seria urządzeń typu PDA, produkowanych przez Hewlett-Packard. Pod tą nazwą występowały urządzenia typu  Palm-Size PC, Handheld PC, jak również Pocket PC. Pierwszym modelem była Jornada 820, wypuszczona na rynek w 1998 roku, ostatni nosił numer 928 i wyszedł w 2002, tuż przed fuzją HP i Compaq. Wtedy właśnie linia została zastąpiona bardziej popularnymi produktami z serii iPAQ. Wszystkie modele działały pod kontrolą systemu Windows CE firmy Microsoft, aczkolwiek stworzono również dystrybucje Linuksa (np. Jlime) mogące działać na niektórych z nich.
+
+Spis Modeli
+Handheld PC
+Jornada 820
+Pierwsze urządzenie sprzedawane pod nazwą Jornada, wypuszczone na rynek w 1998 roku. Pracowała pod kontrolą systemu Windows CE 2.11 Handheld PC Professional Edition, w roli urządzenia wskazującego został użyty miniaturowy TouchPad z dwoma przyciskami. Ekran pracował w rozdzielczości 640x480 i był zdolny do wyświetlania 256 kolorów. Urządzenie posiadało po 16 MB pamięci ROM oraz RAM, procesor Intel StrongARM 190 MHz, czytnik kart CF Type II, slot PCMCIA oraz pełną, miniaturową klawiaturę QWERTY. Dzięki wbudowanemu faxmodemowi możliwe było łączenie Internetem oraz korzystanie z funkcji faksu.
+
+Jornada 680
+Wypuszczona na rynek w 1998 roku. Pracowała pod systemem Windows CE 2.11 handheld PC Professional 3.0. Zawierała procesor SH3 firmy Hitachi taktowany częstotliwością 133 MHz, slot kart PCMCIA, zintegrowany modem oraz czytnik kart pamięci Compact Flash. ekran HVGA o rozdzielczości 640x240 mogący teoretycznie wyświetlać 65 tysięcy kolorów, jednakże dostępnych było jedynie 256 - problem mógł jednak być rozwiązany po zainstalowaniu odpowiedniego sterownika. Model ten posiadał po 16 MB pamięci ROM i RAM, jednak możliwa była wymiana chipu, co dawało w efekcie po 32 MB. Urządzeniem wskazującym był ekran dotykowy obsługiwany za pomocą dołączonego rysika.
+
+Jornada 680e
+Okrojona wersja modelu 680, pozbawiona zintegrowanego modemu.
+
+Jornada 690
+Wypuszczona na rynek w 1999 roku - udoskonalona wersja modelu 680, zawierająca dwukrotnie więcej pamięci. System pozwalał na uzyskanie pełnej palety 56 tysięcy kolorów na wyświetlaczu bez potrzeby instalowania dodatkowego sterownika.
+
+Jornada 690e
+Okrojona wersja modelu 690, pozbawiona modemu.
+
+Jornada 720
+
+Weszła do sprzedaży w 2000 roku. Główną zmianą w stosunku do poprzednich produktów było przejście z mało wydajnej architektury SH3 na szybsze procesory StrongARM - w tym przypadku 206 MHz. Urządzenie posiadało 32 MB pamięci ROM i RAM, system operacyjny Windows CE 3.0 H/PC 2000, slot PCMCIA, modem 56 kb/s, czytnik kart CF oraz Smart Card.
+
+Jornada 710
+Wypuszczona w 2001 roku, z przeznaczeniem na rynek krajów środkowej i wschodniej Europy. Była to wersja budżetowa - pozbawiona modemu oraz stacji dokującej w przypadku pozostałych modeli dostępnej w zestawie.
+
+Jornada 728
+Ulepszona wersja modelu 720, wypuszczona na rynek w 2002 roku. Najważniejszą zmianą była dwukrotnie większa pamięć.  poza tym udoskonalono lekko system dodając natywną obsługę protokołu PPTP VPN. Kosmetycznym zmianom poddano również obudowę.
+
+Spotyka się jednak Jornady 728 wyposażone w 32 MB RAM, resztę zaś komponentów (obudowa, system) jak 64-megabajtowe Jornady 728,
+
+Palm-Size PC
+Jornada 420
+Jornada 420 zadebiutowała w 1999 roku. Była pierwszym urządzeniem typu Palm-Size PC z kolorowym wyświetlaczem. Wyświetlacz pracował w rozdzielczości 240x320 pikseli przy 256 kolorach. W urządzeniu zastosowano 100 MHz procesor Hitachi SH7709a, po 8 MB pamięci ROM i RAM oraz system operacyjny Windows CE 2.11.
+
+

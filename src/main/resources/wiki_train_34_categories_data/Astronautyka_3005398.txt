@@ -1,0 +1,23 @@
+Pegasus 3''' – trzeci, zarazem ostatni sztuczny satelita badawczy związany z praktyczną realizacją programu Apollo, wprowadzony na orbitę w ramach programu Pegasus. Wystrzelony w trakcie próby z rakietą Saturn I Block 2 w dniu 30 lipca 1965 roku (lot nosił nazwę Saturn–Apollo 10).
+
+Cele misji
+Pomiar strumienia meteoroidów i mikrometeoroidów praktycznie poza atmosferą Ziemi.
+Określenie penetracji paneli satelity przez mikrometeoroidy dla trzech różnych grubości warstwy aluminium.
+Pomiar zmiany w położeniu satelity po uderzeniach mikrometeoroidów.
+
+Przebieg misji
+Pegasus 3 wystartował ze stanowiska 37B na Przylądku Kennedy'ego na Florydzie 30 lipca 1965 roku. Ze względu na duże rozmiary, satelita zajmował zarówno przestrzeń w makiecie modułu serwisowego statku Apollo, jak i w drugim członie rakiety (SIV). Zaprojektowany do badania zagrożenia zderzeniami z mikrometeoroidami na orbicie okołoziemskiej. Satelita został zbudowany w Huntsville, przez ten sam zespół NASA, który zajmował się rakietami Saturn. Na orbicie znalazł się w 640,252 sekundzie lotu i zgodnie z założeniami misji nie oddzielił się od drugiego członu rakiety Saturn I, lecz razem z nim krążył po orbicie. Początkowe parametry orbity: perygeum - 535 km, apogeum - 567 km, kąt nachylenia orbity - 28,8° oraz czas obiegu - 95,5 min. Wszystkie systemy satelity działały sprawnie, a rozłożenie paneli odbyło się zgodnie z planem. Rozpiętość paneli po rozłożeniu wynosiła 29,3 m, a szerokość 4,3 m.
+
+W połowie 1968 roku została wyłączona aparatura, ponieważ znacznie przekroczono planowany okres aktywnego działania, a uzyskane wyniki wykazały, że założenia konstrukcyjne w odniesieniu do ochrony statków Apollo przed mikrometeorytami są wystarczające. Satelita uległ dezintegracji przy ponownym wejściu w atmosferę ziemską 4 sierpnia 1969.
+
+
+
+Bibliografia
+E. Staniewski, R. Pawlikowski, ''15 lat podboju Kosmosu 1957-1972''
+Kopernik, Astronomia, Astronautyka. Przewodnik encyklopedyczny, Państwowe Wydawnictwo Naukowe, Warszawa 1973, s. 217 
+Kosmonautyka, Wydawnictwa Naukowo-Techniczne, Warszawa 1971, s. 287
+
+
+
+
+

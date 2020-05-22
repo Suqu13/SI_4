@@ -1,0 +1,14 @@
+
+Zagadka brakującego kwadratu – iluzja optyczna, na którą składają się dwa różne ułożenia zestawu figur geometrycznych. W pierwszym przypadku figury na pierwszy rzut oka tworzą trójkąt prostokątny o wymiarach 13 na 5 kratek. Drugi przypadek stanowi figura podobna do tej z pierwszego przypadku, różniąca się od niej wybrakowaniem w kształcie kwadratu o boku 1 kratki.
+
+Obserwacje
+W obydwu przypadkach figury składowe nie zachodzą na siebie, a ich zestawy składają się z tych samych elementów. Suma ich pól wynosi 32 jednostki kwadratowe.
+W pierwszym przypadku wydaje się, że powstała figura to trójkąt prostokątny o wymiarach 13 na 5 kratek, który miałby pole 32,5 j.k  ( – długości przyprostokątnych trójkąta prostokątnego), co daje sprzeczność. W drugim zestawieniu wydaje się, że figury składowe tworzą wielobok różniący się od trójkąta powstałego w pierwszym przypadku tylko brakującym kwadratem o boku 1 kratki. Jednak wtedy pole całej figury wyniosłoby 31,5 j.k., co również stanowi sprzeczność.
+
+Wyjaśnienie
+W rzeczywistości figura powstała w pierwszym przypadku nie jest trójkątem, lecz czworokątem. Stosunki długości przyprostokątnych obydwu trójkątów składowych są różne , czyli wartości tangensa kąta nachylenia przeciwprostokątnych do kierunku poziomego są w obydwu przypadkach różne. Z tego wynika, że kąty te mają różne wartości, a więc przeciwprostokątne te nie tworzą prostego odcinka lecz łamaną (punkt leżący na skraju tych obydwu przeciwprostokątnych jest jej „punktem przegięcia”).
+Powierzchnia między łamaną a przeciwprostokątną trójkąta 13x5 tworzy w pierwszym przypadku „wybrzuszenie” figury ''(stąd 0,5 j.k. powierzchni więcej niż trójkąta 13x5)'', a w drugim przypadku „wklęsłość” ''(0,5 j.k. mniej niż przy trójkącie 13x5)''.
+Powstałe figury są w obydwu przypadkach niemal identyczne z trójkątami, gdyż różnica w stosunkach długości przyprostokątnych składowych trójkątów jest niewielka . Stąd mylne wrażenie, że figury te są trójkątami prostokątnymi.
+
+
+

@@ -1,0 +1,21 @@
+Grumman XF10F Jaguar – prototypowy myśliwiec pokładowy o zmiennej geometrii skrzydeł zaprojektowany w zakładach Grummana w latach 50. na zamówienie Marynarki Wojennej Stanów Zjednoczonych. Samolot nie wszedł do produkcji seryjnej, ale zastosowane w nim rozwiązania wykorzystano w późniejszych i bardziej udanych samolotach ze zmienną geometrią skrzydeł, takich jak General Dynamics F-111 czy F-14 Tomcat.
+
+Historia
+Wprowadzenie na uzbrojenie Marynarki Wojennej Stanów Zjednoczonych samolotów odrzutowych pociągnęło za sobą różnorakie problemy. Z jednej strony wzrosła masa własna maszyn, co spowodowało wydłużenie drogi startu i lądowania. Z drugiej, dla poprawy osiągów należało budować samoloty o skośnych skrzydłach, co oznaczało zwiększenie prędkości minimalnej i dalsze zwiększenie drogi startu. Już na początku lat 50. wiele samolotów z trudem radziło sobie w roli samolotów pokładowych na lotniskowcach. Jednym z narzucających się rozwiązań było wykorzystanie zmiennej geometrii skrzydeł, co zapewniało zarówno dobre osiągi maksymalne (przy złożonych skrzydłach) jak i poprawę charakterystyki samolotu podczas startu i lądowania.
+
+Zaprojektowany w zakładach Grummana Jaguar był pierwszym samolotem o zmiennej geometrii skrzydeł zbudowanym dla Marynarki Wojennej Stanów Zjednoczonych. Był to stosunkowo niewielki samolot, o krótkim, "grubym" kadłubie, podobnym nieco do wcześniejszej konstrukcji Grummana F9F Panther. Pojedynczy silnik turboodrzutowy miał dwa wloty powietrza zamontowane symetrycznie po obu stronach kadłuba. Skrzydło w układzie górnopłata mogło przyjąć jedną z dwóch pozycji – skos 13,5° do startu i lądowania oraz 42,5°. Usterzenie tylne miało kształt litery "T", taka konfiguracja samolotu powodowała, że sprawiał on podobne problemy w pilotażu co wcześniejszy Bell X-5 i bardzo łatwo wpadał w niekontrolowany korkociąg. Innym źródłem problemów był silnik, cieszący się złą sławą Westinghouse J40. Projektując Jaguara zakładano, że silnik będzie osiągał moc 49 kN, w rzeczywistości było to jedynie 30,2 kN.
+
+XF10F-1 nie był uzbrojony, ale planowano, że wersje produkcyjne zostaną uzbrojone w cztery działka 20 mm.
+
+Jedynym pilotem, który latał na Jaguarze był oblatywacz Corwin "Corky" Meyer. Swoje doświadczenie określił jako "interesujące ponieważ była w nim (w samolocie) cała masa problemów". Według Meyera jedyną rzeczą, która działała bezbłędnie, był nowatorski wówczas mechanizm zmiany geometrii skrzydeł. Co ciekawe, był on dużo bardziej skomplikowany niż mechanizm użyty w późniejszy czasie w samolotach General Dynamics F-111, F-14 i Panavia Tornado.
+
+Pierwszy lot jedynego prototypu XF-10F odbył się 19 maja 1952. Samolot wykonał łącznie 32 loty, ale na początku 1953 roku Marynarka Wojenna Stanów Zjednoczonych zakończyła program XF-10F z powodu braku oczekiwanych rezultatów. Zdecydowano, że lepszym rozwiązaniem będzie budowa większych lotniskowców z dłuższymi pasami startowymi, wyposażonych w parowe katapulty startowe.
+
+
+
+
+
+
+
+
+

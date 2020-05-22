@@ -1,0 +1,21 @@
+
+
+S-II (lub S-2'', wym. Es two): stopień rakietowy wykorzystywany przez NASA dla rakiet Saturn V. 
+
+Dane techniczne
+
+Stopień został zaprojektowany przez Centrum Lotów Kosmicznych imienia George'a C. Marshalla, zaś kontrakt na budowę otrzymała spółka North American Aviation (ta sama firma budowała również pojazdy orbitalne Apollo CSM).
+
+S-II miał kształt walca o średnicy 10 m i długości 25 m. Posiadał wewnątrz specjalną przegrodę z 2 zbiornikami: górnym na ciekły tlen i dolnym na ciekły wodór. Przegrodę stanowiły 2 blachy z aluminium oddzielone od siebie fenolem ułożonym na kształt plastrów miodu. Zastosowanie takiej przegrody umożliwiło uzyskanie różnicy temperatur wewnątrz zbiorników równej 70°C, a także pozwoliło konstruktorom na zmniejszenie masy członu o 3,6 t.
+Zbiornik z tlenem miał kształt elipsoidalnego kontenera o średnicy 10 m i długości 6,7 m. Formowany był poprzez spawanie 12 trójkątnych klinów i 2 okrągłych kształtek. Kliny te były formowane wewnątrz zbiornika wodnego o poj. 2110 hl metodą podwodnych wybuchów.
+Zbiornik na wodór składał się z 6 cylindrów: 5 o długości 2,4 m i 1 o dł. 0,7 m. Największym wyzwaniem dla konstruktorów była izolacja zbiornika na wodór. Izolacja takiego zbiornika była ważna, gdyż ciekły wodór powinien być przechowywany w temperaturze 20 K (-253°C). Próbowano wielu metod izolacji (klejenie, pęcherzyki powietrza itp.), które nie dawały pożądanego skutku. Ostatecznie wybrano metodę wielokrotnego rozpylania warstwy izolacyjnej na powierzchni zbiornika.
+Napęd członu stanowił zestaw pięciu silników J-2 (używanych również w członach S-IVB) ustawionych w kształt krzyża. Cztery silniki umieszczone po bokach mogły być wychylane by móc kontrolować nachylenie rakiety, a silnik centralny był w połowie cyklu pracy stopnia wygaszany (tzw. Inboard Cutoff). Zestaw taki zapewniał siłę ciągu o wartości 5 meganiutonów.
+
+Użycie
+S-II swój pierwszy lot odbył w listopadzie 1967 podczas lotu Apollo 4, który był pierwszym lotem rakiety Saturn V. Pierwszym załogowym lotem stopnia S-II była misja Apollo 8, rozpoczęta w grudniu 1968. Ogółem wyprodukowano 15 stopni S-II, z czego wystrzelono tylko 13. Jeden stopień S-II miał być użyty do lotu Apollo 18 (obecnie jest na wystawie w Centrum Kosmicznym imienia Johna F. Kennedy'ego na Florydzie), drugi miał wynieść zapasową stację orbitalną w razie fiaska lotu Skylab 1 (stopień ten znajduje się w Centrum Lotów Kosmicznych imienia Lyndona B. Johnsona w Teksasie).
+
+
+
+
+
+

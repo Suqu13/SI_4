@@ -1,0 +1,20 @@
+Elwro 801AT – komputer opracowany i produkowany pod koniec lat osiemdziesiątych XX wieku przez Elwro z Wrocławia. Pierwsze egzemplarze tego modelu powstały w 1987 roku, natomiast jego prezentacja nastąpiła w 1988 roku na Infosystemie w Poznaniu. Produkcję tego modelu rozpoczęto również w 1988 roku. W swej istocie komputer był klonem komputera IBM PC/AT. W zakładach Elwro opracowano, jako oryginalną konstrukcję, jedynie płytę główną do tego komputera, oznaczoną jako E-801AT. Pozostałe elementy, jak również części elektroniczne do produkcji płyty głównej, były importowane z Tajwanu.
+
+Dane techniczne
+Dane techniczne Elwro 801AT:
+jednostka centralna :
+procesor : 80286 6 MHz (później 10 MHz)
+RAM : 512 KB (później 1 MB)
+ROM : 64 lub 128 KB
+karta graficzna : Hercules
+pamięć masowa :
+stacje dyskietek: 2 szt. 5,25" (1 szt. –  360 KB i 1 szt. – 1,2 MB)
+dysk twardy : 20 MB
+zasilacz : o mocy 200W
+monitor : monochromatyczny produkcji Polkolor
+klawiatura : MM-12 – 84 klawisze
+system operacyjny : MS-DOS 3.3
+
+
+
+Bibliografia

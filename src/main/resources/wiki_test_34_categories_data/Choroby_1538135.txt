@@ -1,0 +1,137 @@
+Zespół Aicardiego-Goutièresa (ang. Aicardi-Goutières syndrome, AGS) – rzadki zespół wad wrodzonych, w którym najważniejszym zaburzeniami są: wcześnie pojawiająca się w rozwoju encefalopatia, zwykle skutkująca niedorozwojem umysłowym i fizycznym, zwapnienia śródczaszkowe oraz podwyższona ilość limfocytów w płynie mózgowo-rdzeniowym. Pierwsze objawy mogą pojawiać się w pierwszych dniach życia (poważniejsze objawy później, zwykle przed 3.-7. miesiącem, zawsze przed 12. miesiącem) po stosunkowo krótkim okresie normalnego rozwoju. Uważa się obecnie, że choroby takie jak: zespół pseudo-TORCH i encefalopatia Kri są jedynie odmianami AGS (w pierwszym wypadku jest to odmiana kliniczna, w drugim alleliczna). Do roku 2002 opisano 80 przypadków choroby, choć liczba wszystkich przypadków jest prawdopodobnie wyższa.
+
+Historia
+Choroba została opisana po raz pierwszy przez francuskich neurologów dziecięcych Jeana Aicardiego i Françoise'a Goutièresa w 1984 roku w artykule A progressive familial encephalopathy in infancy, with calcifications of the basal ganglia, and chronic cerebrospinal fluid lymphocytosis opublikowanym w Annals of Neurology, bazowali oni na 8 przypadkach rodzinnego występowania zburzeń. Kolejna większa praca francuskich neurologów opublikowana w 1986 roku obejmująca 9 przypadków AGS przyczyniła się do lepszego poznania choroby. W roku 2003 potwierdzono przynależność występującej wśród Indian Ameryki Północnej encefalopatii Kri do AGS jako jej odmiany allelicznej. W latach 2006- 2007 pojawiła się seria artykułów potwierdzających wcześniejsze tezy o przynależności znacznej większości (lub nawet wszystkich) przypadków zespołu pseudo-TORCH do AGS.
+
+Genetyka
+AGS jest rzadką chorobą i choć nieznane są szczegółowe wyliczenia, to ekstrapolacja badań francuskich daje wartość 1-1,5 przypadków na 100 000 żywych urodzeń. Choroba jest dziedziczona autosomalnie recesywnie. Pojawiły się jednak sugestie, że mała część przypadków jest dziedziczona autosomalnie dominująco. W małym odsetku stwierdza się również rozwój AGS w wyniku mutacji de novo. Za chorobą odpowiadają mutacje w kilku genach, w czterech przypadkach (odpowiadających za ok. 83% przypadków choroby) gen został już odkryty. Z tego powodu wyróżnia się 4 genetyczne odmiany AGS.
+Typ 1''', mutacja w genie TREX1, OMIM  (5 znanych typów mutacji w AGS); gen znajduje się na chromosomie 3 (3p21.3-p21.2), i koduje 3'-egzonukleazę 1; podtypem allelicznym jest tu encefalopatia Kri, gdzie występuje mutacja c.490C>T w genie TREX1;
+Typ 2''', mutacja w genie RNASEH2B, OMIM  (2 znane typy mutacji w AGS); gen znajduje się na chromosomie 13 (13q14.1) i odpowiada za kodowanie podjednostki B rybonukleazy H2;
+Typ 3''', mutacja w genie RNASEH2C, OMIM  (2 znane typy mutacji w AGS); gen znajduje się na chromosomie 11 (11q13.2) i odpowiada za kodowanie podjednostki C rybonukleazy H2;
+Typ 4''', mutacja w genie RNASEH2A, OMIM  (jeden znany typ mutacji w AGS); gen znajduje się na chromosomie 19 (19p13.13) i odpowiada za kodowanie podjednostki A rybonukleazy H2;
+
+Częstość poszczególnych typów AGS:
+typ 1 – 25% (w starszych pracach często podawano 40-50%, początkowo mutacje w TREX1 były jedynymi znanymi powodującymi AGS)
+typ 2 – 40%
+typ 3 – 14%
+typ 4 – 4%
+
+Mutacje w tych 4 typach choroby są obecnie wykrywane za pomocą testów. Wykrywalność mutacji w danym genie wynosi w tych testach ponad 95%, wyjątkiem jest AGS2 (wykrywalność ponad 90%).
+
+Niektórzy badacze wyróżniają również typ 5''' choroby, który obejmuje przypadki dziedziczenia autosomalnego dominującego (taki typ wyróżnia m.in. OMIM – ). Poznano do tej pory jeden typ mutacji – w genie TREX1.
+
+Wspomniane wyżej geny odpowiadają za zdolność komórek (w tym wypadku układu nerwowego chorych z AGS) do napraw DNA. Ich dysfunkcja powoduje stopniową kumulację błędów w aparacie genetycznym. Coraz częściej sugeruje się główna rolę podwyższonego poziomu interferonu-α w patogenezie AGS.
+
+Od roku 2006 toczy się również dyskusja, czy familial chilblain lupus (FCL, CHBL, OMIM ) jest odmianą alleliczną AGS (wewnątrz typu 5 lub 1 choroby), czy też odrębną jednostką chorobową. Choroba ta jest fenotypowo odmianą tocznia układowego; jest za nią odpowiedzialna dziedziczona autosomalnie dominująco mutacja w genie TREX1; objawy jej ograniczone są do skóry.
+
+Osoby cierpiące na AGS mają również zwiększoną podatność na tocznia układowego trzewnego (w przebadanej grupie chorych z SLE wykryto ponad 2% osób z mutacjami w obrębie TREX1).
+
+Objawy
+Objawy zespołu Aicardiego-Goutièresa są dość charakterystyczne dla zespołu TORCH, a podstawową różnicą jest brak czynnika zakaźnego w AGS. Ogólnie mówiąc najpoważniejsze objawy dotyczą układu nerwowego, a w szczególności mózgowia. Nie wszystkie wymienione poniżej objawy muszą pojawiać się u wszystkich chorych, na co wpływ w znacznym stopniu ma typ mutacji oraz zmutowany gen ().
+
+zaburzenia neurologiczne i dotyczące mózgowia:
+spowolniony wzrost głowy skutkujący małogłowiem (większość chorych rodzi się z prawidłowym lub tylko nieznacznie obniżonym obwodem głowy), do pierwszego roku życia obwód głowy spadać może do 7 SD poniżej średniej,
+leukodystrofia występująca u 75% -100% chorych, ogniska hipodensji szczególnie dobrze uwidacznia MRI w projekcji T2 (dość typowe są one w okolicach rogów przednich komór mózgu).
+zwapnienia w obrębie mózgowia, w szczególności w obrębie jąder podstawnych. Zwapnienia te zwykle nie narastają lub w większości przypadków nie narastają szybko, poza pierwszymi momentami choroby, czasem w pierwszych badaniach nie wykrywa się zwapnień; nasilenie jest różne nawet wśród rodzeństwa z AGS. Intensywność zwapnień zwykle nie koreluje z ciężkością zaburzeń neurologicznych; znane są również przypadki zespół Aicardiego-Goutièresa bez zwapnień śródczaszkowych. Występują one zarówno jako zwapnienia punktowe, jak i zwapnienia wokół niewielkich naczyń mózgowych wraz z towarzyszącą im mikroangiopatią. Zwapnienia dotyczą typowo:
+skorupy,
+gałki bladej,
+wzgórza,
+jądra zębatego (nieco rzadziej)
+często dotyczą one również istoty białej, w szczególności sąsiadującej z komorami,
+powiększony układ komorowy, postępujące (zwykle) wodogłowie,
+atrofia lub hipotrofia móżdżku,
+niedorozwój ciała modzelowatego,
+liczne zmiany w zakresie istoty białej zarówno w postaci wspomnianych wcześniej zwapnień jak i (w cięższych przypadkach) powstawania struktur torbielopodobnych (szczególnie w obrębie płata czołowego i skroniowego),
+nieadekwatnie podwyższona odpowiedź na bodźce (45% pacjentów),
+stopniowa utrata odruchów i zdolności motorycznych i społecznych lub znaczne spowolnienie rozwoju w tym zakresie,
+napady padaczkowe toniczno-kloniczne lub kloniczne częściowe (20-50% chorych), są one zwykle słabo nasilone,
+przewlekła leukocytoza (w szczególności limfocytoza) CSF,
+postępujący wzrost stężenia interferonu-α w CSF, poziom ten po pewnym czasie obniża się jednak 2/3 pacjentów wykazuje jego wartości wyższe od normy przynajmniej do 5 roku życia, dość typowe dla AGS jest występowanie indukowanych INF-α wtrętów tubuloretikularnych w obrębie skóry, mięśni i w limfocytach,
+postępujący wzrost stężenia neopteryny w CSF,
+trudności w nawiązaniu kontaktu wzrokowego oraz niemożliwość skupienia wzroku na jednym punkcie przez dłuższy czas (objawy te zwykle pojawiają się w 3 miesiącu życia),
+patologiczne ruchy gałek ocznych – drżenia, nieznacznie nasilony oczopląs,
+hipotonia (szczególnie dotycząca tułowia),
+spastyczość kończyn,
+dystonia,
+czasem mogą powstać ciężkie krwotoki mózgowe prowadzące do śmierci,
+napadowa gorączka nieprzekraczająca 38,5&nbsp;°C (35% pacjentów),
+hepatosplenomegalia,
+podwyższone poziomy enzymów wątrobowych (niekoniecznie współistniejące z hepatomegalią), szczególnie między 1 a 2 rokiem życia,
+wrodzona jaskra,
+objawy skórne:
+akrocyjanoza
+obecność wykwitów skórnych typowych dla odmrozin (opuchlizna, zaczerwienienie, świąd) w obrębie palców rąk i nóg oraz uszu (40% chorych),
+wymioty, refluks żołądkowo-przełykowy,
+problemy z karmieniem (35% pacjentów),
+niewielkie obrzęki w zakresie rąk i stóp (część autorów twierdzi iż objaw ten jest bardzo rzadki i niezwiązany z AGS),
+obniżona temperatura stóp (objaw rzadki).
+
+Kryteria wykluczające
+Pewne objawy i badania pozwalają wykluczyć (z niemal 100% pewnością) zespół Aicardiego-Goutièresa; są to:
+występowanie u chorego znanej choroby metabolicznej lub neurodegeneracyjnej (patrz też "różnicowanie"),
+wystąpienie w okresie ciąży infekcji, w szczególności zaś infekcji z grupy objętej akronimem TORCH.
+
+Badania mikroskopowe
+W badaniu mikroskopowym tkanek mózgowia stwierdza się:
+mikroangiopatię ze zwapnieniami zarówno wewnątrz medii i przydanki małych naczyń, jak i zwapnieniami okołonaczyniowymi, najczęściej zmiany patologiczne dotyczą arterioli,
+rozsianą umiarkowaną demielinizację,
+astrocytozę,
+objawy zapalenia w obrębie struktur objętych martwicą oraz opon miękkiej i pajęczynówki,
+obecność klinowatych mikrozawałów w tkance mózgowej wywołanych prawdopodobnie zmniejszoną elastycznością zwapniałych naczyń.
+
+Różnicowanie
+zespół TORCH,
+zespół pseudo-TORCH (z wcześniej wspomnianymi uwagami dotyczącymi klasyfikacji obu chorób),
+zespół Høyeraala-Hreidarssona (zobacz uwagi dotyczące różnicowania obu chorób)
+
+rzadziej spotykane problemy z diagnostyką różnicową dotyczą chorób takich jak:
+rodzinna limfohistiocytoza hemofagocytarna,
+zespół Cockayne'a,
+leukodystrofia sudanofilna,
+zanik oliwkowo-mostowo-móżdżkowy typu 2 (typ Ficklera-Winklera),
+noworodkowa postać SLE,
+niektóre choroby mitochondrialne, w szczególności zespół Leigha,
+kwasica 3-hydroksyizomaślanowa,
+mikroangiopatia móżdżkowo-siatkówkowa ze zwapnieniami i torbielami (CRMCC)
+
+Rozpoznanie
+Oprócz podstawowych badań klinicznych oraz badań neurologicznych w rozpoznaniu choroby cenne są badania:
+TK (obrazowanie struktur wewnątrzczaszkowych),
+MRI (obrazowanie struktur wewnątrzczaszkowych, badanie stopnia leukodystrofii),
+USG przezciemiączkowe,
+MRS;badanie to pozwala:
+wykryć obniżony iloraz poziomu kwasu N-acetyloasparaginowego do poziomu kreatyniny,
+wykryć obniżony iloraz poziomu mioinozytolu do poziomu kreatyniny,
+przetrwałą mózgową zasadowicę mleczanową,
+badania poziomu interferonu-α (jego podwyższony ponad normę poziom można wykryć we krwi już u 26-tyg. płodu; poziom we krwi jest zwykle niższy niż w CSF), u chorych przekracza on normę w CSF wynoszącą 2 IU/ml,
+badania poziomu neopteryny w CSF (jej poziom początkowo rośnie, później normalizuje się),
+badanie limfocytozy w CSF (u chorych liczba limfocytów waha się ona w zakresie 5-100/mm³, poziomy glukozy i białka są w normie, limfocytoza utrzymuje się na podwyższonym poziomie u 25% pacjentów którzy ukończyli drugi rok życia, później jej częstość występowania spada wolniej), bariera krew-mózg wykazuje tylko nieznaczne odchylenia od normy,
+potencjały wywołane pnia mózgu wykazują często przedłużenie interwału I-V,
+testy genetyczne dostępne dla 4 poznanych genów których mutacje wywołują AGS.
+
+Rokowanie i leczenie
+Większość pacjentów z AGS wykazuje progresję zmian chorobowych. Występuje różnego stopnia upośledzenie umysłowe. 25% pacjentów umiera w okresie kilku pierwszych lat życia, a 30% między 1 a 17 rokiem życia (choć źródła podają 25% śmiertelność po osiągnięciu przez chorych od 1 roku życia do 17 lat). Badania grupy G. Rice'a opublikowane w 2007 roku różnicują śmiertelność w zależności od genetycznego typu choroby: typ 1, 3 i 4 mają śmiertelność 34,3%, zaś typ 2 - 8%. Sporadycznie objawy mogą ulec nieznacznej regresji. Nie ma leczenia przyczynowego w zespole Aicardiego-Gutiresa. Można jedynie leczyć niektóre jego objawy.
+
+Leczenie i kontrola:
+leki przeciwbólowe
+leki przeciwpadaczkowe,
+karnityna (wykazano, że w kilku przypadkach miała ona korzystny wpływ na zmniejszanie zmian atroficznych oraz poprawę widzenia przy częściowej ślepocie korowej), leczenie ewentualnej amblyopii,
+problemy z karmieniem – płynna, kaloryczna dieta podawana przynajmniej w pierwszym okresie życia przez sondę, unikanie odwodnienia,
+leki przeciwymiotne,
+w sytuacjach nasilonego refluksu należy rozważyć fundoplikację sposobem Nissena,
+przeciwdziałanie powikłaniom płucnym wynikającym głównie z aspiracji pokarmu,
+fizjoterapia klatki piersiowej,
+badania okulistyczne (szczególnie w pierwszych miesiącach życia) mające na celu wykrycie i ewentualną kontrolę jaskry,
+zmiany skórne: przekrwienia można leczyć lekami przeciwhistaminowymi i unikaniem niskich temperatur (z kolei próby leczenia wazodylatacyjnego uszkodzeń skóry są nieskuteczne),
+przeciwdziałanie skoliozie częstej u starszych dzieci z AGS (szczególnie w AGS 2),
+fizjoterapia (ze szczególnym uwzględnieniem kończyn) – przeciwdziałanie powikłaniom spastyczności (bólowi, deformacjom, zanikom kostnym i mięśniowym, zmian stawowych), dziecko powinno być pod stałą opieką fizjoterapeuty,
+kontrola poziomu cukru i hormonów tarczycy (cukrzyca typu 1 i niedoczynność tarczycy to możliwe późne powikłania AGS),
+unikanie stresu – wykazano zwiększoną progresję choroby u dzieci zestresowanych (w tym u dzieci u których ból nie był kontrolowany lekami przeciwbólowymi),
+unikanie głębokiej sedacji w wypadku koniecznych zabiegów chirurgicznych (wykazano, że może ona przyspieszyć progresję choroby),
+przeciwdziałanie zaparciom typowym wśród starszych dzieci z AGS.
+
+Rozważana jest również terapia komórkami macierzystymi, które maja być wszczepiane w obręb tkanki mózgowej pacjentów. Jest to jednak obecnie technika eksperymentalna i nie była dotąd stosowana u pacjentów.
+
+
+Linki zewnętrzne
+(zawiera on również zdjęcia, krótką tabelę diagnostyki różnicowej i szczegółową bibliografię), autorzy: J L Tolmie, Paul Shillito, Rhiannon Hughes-Benzie, J B P Stephenson

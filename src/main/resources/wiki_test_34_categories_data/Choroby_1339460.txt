@@ -1,0 +1,50 @@
+Hiperamonemia – zaburzenie metaboliczne charakteryzujące się zwiększonym ponad dopuszczalny poziom stężeniem amoniaku w surowicy krwi. W zależności od przyczyny wyróżnia się hiperamonemię pierwotną i wtórną.
+
+Hiperamonemia pierwotna jest spowodowana wrodzonymi błędami metabolizmu, które polegają na braku lub zmniejszeniu aktywności enzymów działających w cyklu mocznikowym. Przykładem może być hiperamonemia typu II, czyli wrodzony niedobór trankarbamylazy ornitynowej (OTC), która jest najczęstszą przyczyną nieprawidłowego funkcjonowania cyklu mocznikowego. Choroba jest sprzężona z płcią.Gen OTC zlokalizowany jest na chromosomie X p21.1.
+
+Hiperamonemia wtórna może być spowodowana:
+- nadmiernym wytwarzaniem amoniaku ze względu na wzmożoną pracę mięśni (drgawki, niewydolność oddechowa),
+- stosowaniem niektórych leków, np. kwasu walproinowego
+- infekcjami wywoływanymi przez bakterie posiadające ureazę,
+- kwasicami organicznymi,
+- zespołem hiperinsulinemia-hiperamonemia,
+- zespołem HHH (hiperornitynemia, hiperamonemia, homocytrulinemia)
+- lizynuryczną nietolerancją białka
+
+Przyczyny powstania
+U podłoża hiperamonemii typu II leży mutacja w genie transkarbamoilazy ornitynowej, której efektem jest niedobór tego enzymu. 
+Przemiana aminokwasów w organizmie polega m.in. na dezaminacji. Powstały w wyniku tej reakcji amoniak ulega przekształceniu w łatwo wydalany przez nerki mocznik. Przekształcenie to obejmuje szereg reakcji chemicznych zachodzących głównie w wątrobie, określanych jako cykl mocznikowy. Transkarbamoilaza ornitowa bierze udział w cyklu mocznikowym, katalizując przekształcenie karbamoilofosforanu i ornityny w cytrulinę. W przypadku niedoboru transkarbamoilazy ornitynowej dochodzi do nagromadzenia się amoniaku w organizmie i w konsekwencji do powstania hiperamonemii.
+
+Rozpoznanie
+Hiperamonemię można stwierdzić na podstawie zwiększonego stężenia amoniaku we krwi [wartość referencyjna to stężenie amoniaku poniżej 35 µmol/L]. Stwierdzenie hiperamonemii nie pozwala jednak wykryć, którego enzymu cyklu mocznikowego (lub spoza niego) dotyczy defekt. Dopiero wykazanie nagromadzenia się w organizmie jednego ze związków chemicznych cyklu mocznikowego pozwala zlokalizować defekt i tym samym określić typ hiperamonemii. Nazwy poszczególnych zaburzeń metabolicznych cyklu mocznikowego pochodzą od związków chemicznych, które ulegają nagromadzeniu w płynach ustrojowych. W cytrulinemii która jest następstwem defektu enzymu zwanego syntetazą kwasu argininowego, gromadzi się cytrulina, a w argininemii, powstającej z niedoboru enzymu arginazy, gromadzi się arginina. Najpewniejszym sposobem potwierdzenia hiperamonemii typu II jest wykrycie mutacji w obrębie genu dla transkarbamoilazy ornitynowej.
+
+Objawy
+senność
+wymioty
+śpiączka
+obrzęk mózgu
+wiotkość mięśni
+drżenie kończyn
+drgawki
+hiperwentylacja
+
+Noworodki z hiperamonemią zaraz po urodzeniu wydają się zupełnie zdrowe, ale już w drugim lub trzecim dniu pojawiają się u nich wyżej wymienione objawy. Dzieci, którym udało się przeżyć okres noworodkowy, cechuje zmienność fenotypowa, w zależności od liczby incydentów hiperamonemii. Obraz kliniczny może być bezobjawowy, natomiast postacie skrajne cechują znaczne ubytki neurologiczne, takie jak:
+opóźnienie umysłowe
+niedowłady
+drgawki
+ataksja
+opóźnienie wzrostu
+postępująca encefalopatia
+
+Leczenie
+Choremu na hiperamonemię nie wolno podawać białka, a dostarczanie kalorii należy zapewnić podając dożylnie glukozę i lipidy. Działania te mają zahamować katabolizm związków energetycznych, głównie białek. Ważne jest odpowiednie nawodnienie chorego by utrzymać prawidłowe czynności nerek. Chorzy mogący przyjmować pokarmy doustnie powinni otrzymywać specjalne mieszanki bezbiałkowe. Zwiększone stężenie amoniaku u chorego z objawami klinicznymi jest wskazaniem do dializoterapii. Metodą z wyboru jest hemodializa. Jeśli jej przeprowadzenie jest niemożliwe, można wykonać hemofiltrację lub skorzystać z innych form dializoterapii. W przypadku zwiększonego stężenia amoniaku u chorego z silnymi objawami klinicznymi należy rozpocząć podawanie dożylne leków zmniejszających stężenie amoniaku.
+
+
+
+Bibliografia
+Encyklopedia Zdrowia. Tom 2. pod red. Witolda S. Gumułki i Wojciecha Rewerskiego. Wydawnictwo Naukowe PWN. Warszawa 1999 
+
+
+
+
+

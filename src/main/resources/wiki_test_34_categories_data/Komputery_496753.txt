@@ -1,0 +1,34 @@
+
+UMC-10''' (Uniwersalna Maszyna Cyfrowa) to polski komputer tranzystorowy opracowany i wykonany w 3? egzemplarzach na Politechnice Warszawskiej (prototyp uruchomiony w 1965&nbsp;r.). Wersja tranzystorowa komputera UMC-1.
+
+Komputer przyjmuje wszystkie programy UMC-1 np napisane w językach W-18 i W-20.
+
+W Katedrze Budowy Maszyn Matematycznych Poli­techniki Warszawskiej powatał kompilator języka ALGOL-60 nazwany UMC-ALGOL.
+
+Dane
+rodzina: UMC
+typ: mikroprogramowany, bezzłączowy komputer szeregowy II generacji, zbudowany na krajowych germanowych tranzystorach stopowych
+organizacja:
+arytmetyka binarna o podstawie -2
+słowo maszynowe
+liczby: długości 36 bity
+rozkazy: długości 34 bity podzielone na:
+część operacyjna: 22 bity
+adres: 12 bity
+programowy zmienny przecinek realizowany przez bibliotekę (brak rozkazów zmiennoprzecinkowych realizowanych sprzętowo)
+prędkość:
+zegar: 200 kHz
+pamięć operacyjna:
+ferrytowa o cyklu 10 µs
+4096 słów 36 bitowych
+bębnowa pamięć masowa o pojemności 16 384 słów 36-bitowych
+
+Urządzenia we-wy
+monitor – dalekopis
+czytnik taśmy pięciokanałowej o szybkości 1000 zn/sek
+perforator taśmy pięciokanałowej o szybkości 150 zn/sekΧ.
+
+
+
+
+

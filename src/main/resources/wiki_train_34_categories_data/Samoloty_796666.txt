@@ -1,0 +1,188 @@
+Convair F-102 Delta Dagger jest jednomiejscowym myśliwcem przechwytującym, średniopłatem w układzie delta o konstrukcji metalowej, zdolnym do działania w każdych warunkach atmosferycznych. Samolot wszedł do służby w 1956 roku i został wyprodukowany w liczbie ponad 1000 szt. Jego głównym zadaniem było przechwytywanie radzieckich bombowców strategicznych. F-102 zastąpił myśliwce poddźwiękowe, takie, jak Northrop F-89 Scorpion. W latach '60 był w ograniczonym zakresie wykorzystywany podczas Wojny Wietnamskiej do eskortowania bombowców i atakowania celów naziemnych. Pod koniec lat '60 liczne F-102 zostały przeniesione do lotnictwa Gwardii Narodowej USA. Do 1976 roku samolot został wycofany ze służby. Wersją rozwojową F-102 był Convair F-106 Delta Dart. 
+
+Historia
+Początkowe założenia i problemy
+4 października 1949 Siły Powietrzne Stanów Zjednoczonych rozpoczęły przygotowania do ogłoszenia konkursu na nowy myśliwiec przechwytujący, który miałby wejść do służby w 1954 roku. W listopadzie 1949 r. podjęto decyzję, że nowy samolot zostanie zbudowany wokół zaprojektowanego przed powstaniem płatowca systemu kierowania ogniem. Płatowiec razem z SKO zostały określone mianem systemu uzbrojenia.
+
+W styczniu 1950 Siły Powietrzne USA wystosowały zapytanie ofertowe w sprawie SKO do 50 podmiotów, z których odpowiedziało 18. Do końca maja lista została ograniczona do dziesięciu. Do udziału w dalszych etapach prac rekomendowano propozycje Hughes Aircraft i North American Aviation. Ostatecznie 2 października 1950 wybrano firmę Hughes.
+
+Zapytania w sprawie płatowca zostały wystosowane 18 czerwca 1950. Do stycznia 1951 odpowiedziało sześciu producentów. 2 lipca 1954 wybrano trzy firmy, które miały zbudować makiety: Convair, Republic i Lockheed. Najlepsza z trzech zaprezentowanych konstrukcji miała wygrać kontrakt określany mianem "Projekt MX-1554". Zwycięzcą okazał się Convair, który w  tamtym czasie prowadził badania nad samolotami w układzie delta, przedstawiając projekt nazwany XF-102, przy którego konstruowaniu wykorzystano doświadczenia z prac nad projektem P-92.
+
+Aby przyśpieszyć prace, zdecydowano się zastosować w prototypach i samolotach przedseryjnych słabsze silniki odrzutowe Westinghouse J40. Dalsze opóźnienia w pracach nad silnikiem J67 i SKO MA-1 doprowadziły do podjęcia decyzji o opracowaniu przejściowego samolotu z prostszym SKO E-9 i silnikiem J-40. Samolot ten został przyjęty do produkcji jako F-102A. Niespełnienie wymagań przez silnik J40 doprowadziło do zastąpienia go jednostką Pratt & Whitney J57 o ciągu 44 kN.
+Taka konfiguracja miała być rozwiązaniem tymczasowym, poprzedzającym opracowanie wersji F-102B, która miała być napędzana bardziej zaawansowanym silnikiem Wright J67 - licencyjną wersją będącego wówczas w opracowaniu silnika Bristol-Siddeley Olympus. F-102B osiągnął ostateczny kształt jako F-106A.
+
+Prototyp YF-102 wykonał pierwszy lot 24 października 1953, jednak został stracony w wypadku 9 dni później. Drugi prototyp wzbił się w powietrze 11 stycznia 1954. Jego osiągi okazały się niezadowalające. Opór przydźwiękowy okazał się znacznie wyższy, niż przewidywano i samolot nie mógł przekroczyć Ma&nbsp;0.98 na pułapie 14630 m.
+
+Gruntowna modyfikacja
+Aby rozwiązać problem i ocalić F-102, Convair podjął się przeprojektować samolot z uwzględnieniem niedawno odkrytej reguły pól, oraz uprościć produkcję i obsługę techniczną. Zmiany objęły wydłużenie kadłuba o 3.35 m, zwężenie w sekcji środkowej, dwie duże płetwy po obu stronach dyszy silnika, przeprojektowane wloty powietrza, i węższy kokpit. Ponadto wykorzystano mocniejszy silnik J57 i zmniejszono masę kadłuba. 
+Pierwszy ze zmodyfikowanych samolotów, oznaczony YF-102A został oblatany 20 grudnia 1954 i następnego dnia przekroczył prędkość dźwięku. Poprawiony samolot osiągał Ma 1.22 i pułap 16154 m. Osiągi te spełniały wymagania USAF i pozwoliły na rozpoczęcie produkcji seryjnej.
+
+Seryjne F-102A były wyposażone w SKO Hughes MG-3, który w okresie służby został zastąpiony przez MG-10. Samolot posiadał trzyczęściowy wewnętrzny luk dla rakiet powietrze-powietrze. Początkowo uzbrojenie stanowiło sześć pocisków GAR-1/2/3/4 w wersjach naprowadzanych w podczerwieni i półaktywnie radiolokacyjnie. Pokrywy dwóch przednich luków na uzbrojenie były wyposażone w prowadnice dla 24 (po 12 na każdej pokrywie) niekierowanych pocisków rakietowych kal. 50mm, później zastąpionych pociskami kal. 70mm. W późniejszym okresie dodano możliwość przenoszenia pocisku GAR-11/AIM-26 z głowicą nuklearną. Większe rozmiary pocisku uniemożliwiały podwieszanie go w lukach z pokrywami zawierającymi prowadnice dla pocisków niekierowanych.
+Powstały plany przystosowania F-102 do przenoszenia niekierowanych pocisków nuklearnych MB-1 Genie, jednak mimo iż w maju 1956 dokonano testowego odpalenia Genie z YF-102A, nie wdrożono tego rozwiązania na samolotach seryjnych.
+
+F-102 w okresie eksploatacji przeszedł szereg modernizacji: większość samolotów została doposażona w systemy śledzenia w podczerwieni, ostrzegacze o opromieniowaniu radarem, transpondery, zapasowe sztuczne horyzonty i usprawnienia systemu kierowania ogniem. Proponowana wersja szturmowa miała być wyposażona w zabudowane w kadłubie działko systemu Gatlinga, dodatkowe dwa węzły uzbrojenia pod skrzydłami dla bomb, większe wewnętrzne zbiorniki paliwa i instalację do tankowania w powietrzu. 
+
+Dla szkolenia pilotów F-102A opracowano TF-102A - wersję dwumiejscową z miejscami instruktora i ucznia obok siebie. Ta zmiana wymagała przemieszczenia wlotów powietrza, oraz dodania wytwornic wirów w górnej części kadłuba aby uniknąć oderwania strug w określonych warunkach lotu. Samolot w tej wersji posiadał zdolności bojowe, ale nie osiągał prędkości dźwięku.
+
+Następcą F-102 miał stać się F-102B. Zakres planowanych zmian (nowy silnik Pratt & Whitney J75, liczne modyfikacje aerodynamiki, wloty powietrza o zmiennej geometrii) doprowadził do przemianowania projektu na F-106. 
+
+Użycie
+
+Pierwsze F-102A trafiły do 327th Fighter-Interceptor Squadron (327 eskadra myśliwców przechwytujących) w kwietniu 1956 r. W latach '60 TF-102 i F-102 były używane przez Dowództwo Obrony Powietrznej USAF w bazie sił powietrznych Perrin do szkolenia pilotów F-102 i zapoznawania przyszłych pilotów B-58 z właściwościami skrzydła delta. 
+
+Nazwa "Delta Dagger" nie przyjęła się wśród pilotów, samolot w wersji jednomiejscowej był nazywany "Deuce" (czart) a dwumiejcowy "Tub" (balia).
+
+W trakcie eksploatacji testowano kilka wariantów skrzydeł z ugięciem krawędzi natarcia w górę, ostatecznie jednak zdecydowano się na ugięcie skrzydła ze wzniosem obszaru sterolotek. W rezultacie uzyskano niższą prędkość startu, lepszy stosunek siły nośnej do oporu przy prędkościach naddźwiękowych i pułap zwiększony do 17069 m. Modyfikacja skrzydła pociągnęła za sobą również modyfikację pokryw luków podwozia.
+
+Dowództwo obrony powietrznej USAF eksploatowało F-102 w latach '60. Znaczna liczba F-102 była używana przez Siły Powietrzne i Gwardię Narodową Stanów Zjednoczonych aż do lat '70. Na F-102 latał między innymi  George W. Bush, przyszły Prezydent Stanów Zjednoczonych. 
+
+Wojna Wietnamska
+Podczas Wojny Wietnamskiej F-102 wykonywały zadania patrolowe oraz eskorty bombowców. 15 samolotów zostało straconych: 1 w walce powietrznej, pozostałe od ognia obrony przeciwlotniczej i w wypadkach. 
+
+Pierwsze F-102 dotarły do baz w południowo-wschodniej Azji w 1962 r. jako odpowiedź na zagrożenie ze strony północnowietnamskich bombowców Ił-28. F-102 zostały rozlokowane w bazach w Tajlandii z zadaniem przechwytywania bombowców, gdyby zagroziły one Południowemu Wietnamowi. 
+
+
+F-102 były używane również do eskortowania uderzeń bombowców B-52 określanych nazwą kodową ARC LIGHT. W czasie jednej z tych misji F-102 został zestrzelony przez północnowietnamskiego MiGa-21 rakietą K-13. Rakieta nie wybuchła od razu, tylko pozostała zaklinowana w tylnej części samolotu powodując problemy ze sterownością. W chwilę po zgłoszeniu problemu przez pilota, samolot eksplodował. Drugi z pilotów odpalił rakiety AIM-4 za uciekającymi MiGami, jednak bez efektu. Był to jedyny przypadek utraty F-102 w walce powietrznej w trakcie działań w Wietnamie.
+
+Próby użycia F-102 do zadań powietrze-ziemia przyniosły słabe rezultaty, ze względu na nieodpowiednią do tego celu charakterystykę samolotu i brak wyszkolenia pilotów do wykonywania takich zadań. F-102 z 509 Fighter-Interceptor Sqadron  dotarły do bazy Đà Nẵng 4 sierpnia 1964 po przebazowaniu z bazy Clark na Filipinach. Podczas operacji dziennych wykorzystywano 70 mm rakiety niekierowane, natomiast podczas nocnych nalotów nękających na Szlak Ho Chi Minha używano rakiet AIM-4 Falcon i systemu naprowadzania i poszukiwania w podczerwieni.
+
+Dwumiejscowe TF-102A były używane w roli wysuniętych kontrolerów powietrznych (Forward Air Control). 
+
+Do końca 1968 roku wszystkie F-102 zostały odesłane z powrotem do Stanów Zjednoczonych.
+
+Późniejsze lata
+
+W 1973 sześć samolotów zostało przerobionych na bezzałogowe cele latające symulujące samoloty MiG-21 w ramach projektu Pave Deuce. Ostatecznie setki F-102 zostały przebudowane na cele dla samolotów F-4 i F-106, a także dla F-15 i do testowania rakiet Patriot. Część F-102 została przystosowana do przenoszenia pojedynczej rakiety nuklearnej AIM-26 Super Falcon.
+
+F-102 i TF-102 były eksportowane do Turcji i Grecji. Tureckie F-102 zostały użyte bojowo podczas tureckiej inwazji na Cypr. Istnieją doniesienia o starciu między greckimi F-5 a tureckimi F-102A które miałoby rozegrać się nad Morzem Egejskim. Oficjalnie obydwie strony zaprzeczają jakimkolwiek stratom, nieoficjalnie mówi się o zestrzeleniu dwóch greckich F-5 lub dwóch tureckich F-102.
+F-102 zostały wycofane z eksploatacji w siłach powietrznych obu państw w 1979 roku.
+
+Ze służby w Siłach powietrznych Stanów Zjednoczonych F-102 zostały wycofane w 1976 roku, ostatni cel latający PQM-102 został wykorzystany w roku 1986. Obecnie żaden z zachowanych F-102 nie jest zdatny do lotu.
+
+Wersje
+YF-102
+Seria prototypowa. Kadłub bez zastosowania reguły pól. Napędzany silnikiem J57-P-11 o ciągu 64.5&nbsp;kN, zbudowano dwa egzemplarze.
+YF-102A
+Seria prototypów z kadłubem zgodnym z regułą pól. Napędzany silnikiem J57-P-23 o ciągu 71.2&nbsp;kN. Cztery przebudowane z samolotów przedseryjnych.
+F-102A
+Wariant seryjny. Pierwsze osiem egzemplarzy z kadłubem niezgodnym z regułą pól.  Zbudowano 887 sztuk.
+TF-102A:
+Dwumiejscowa wersja szkolna. Zbudowano 111 sztuk.
+F-102B
+Pierwotne oznaczenie F-106A.
+F-102C
+Propozycja wersji szturmowej z silnikiem J57-P-47. Dwa F-102A zostały przebudowane jako samoloty testowe YF-102C 
+QF-102A:Cele ćwiczebne przebudowane z F-102A. Wyprodukowano 6 sztuk.
+PQM-102A: Bezpilotowe cele ćwiczebne. Przebudowano 65 sztuk.
+PQM-102B: Cel ćwiczebny z możliwością sterowania zdalnego, lub z kokpitu. Przebudowano 146 sztuk.
+
+Użytkownicy
+
+Greckie Siły Powietrzne
+W 1969 roku Grecja pozyskała 19 F-102A i 5 dwumiejscowych TF-102A, które trafiły do 114 Pterix (skrzydło) w Tanagrze. Samoloty te służyły w Greckich Siłach Powietrznych do 1978 roku, kiedy zostały zastąpione przez Mirage F1CG
+
+
+Tureckie Siły Powietrzne
+Począwszy od 1968 roku około 50 F-102A i TF-102A zostało przekazanych do Turcji z zapasów USAF. Przed przejęciem przez Turcję były one remontowane przez CASA w Sewilli. Początkowo zostały włączone do 191 Filo (eskadry) w Murted, gdzie zastąpiły samoloty F-84F Thunderstreak. Jednostka ta została przemianowana na 142 Filo na początku 1973 r. W 1971 r. F-102 trafiły również do 182 Filo w Diyarbakır, zastępując F-84F. F-102 były używane w tych dwóch eskadrach do polowy 1979 roku, kiedy zostały zastąpione przez F-104G w 142 Filo i F-100C w 182 Filo.
+
+
+
+Siły Powietrzne Stanów Zjednoczonych
+
+Dowództwo Obrony Powietrznej
+2nd Fighter-Interceptor Squadron - Baza Sił Powietrznych Suffolk(1956-1959)
+5th Fighter-Interceptor Squadron - Baza Sił Powietrznych Suffolk (1956–1960)
+11th Fighter-Interceptor Squadron - Baza Sił Powietrznych Gwardii Narodowej Duluth (1956–1960)
+18th Fighter-Interceptor Squadron - Baza Sił Powietrznych Wurtsmith (1957–1960)
+27th Fighter-Interceptor Squadron - Baza Sił Powietrznych Griffiss (1957–1959)
+31st Fighter-Interceptor Squadron - Baza Sił Powietrznych Wurtsmith (1956–1957) Przekazane do Dowództwa Sił Powietrznych Alaska
+37th Fighter-Interceptor Squadron - Baza Sił Powietrznych Ethan Allen (1957–1960)
+47th Fighter-Interceptor Squadron - Baza Sił Powietrznych Rezerwy Niagara Falls (1958–1960)
+48th Fighter-Interceptor Squadron - Baza Sił Powietrznych Langley (1957–1960)
+57th Fighter-Interceptor Squadron - Baza Lotnicza Keflavik (1962–1973)
+59th Fighter-Interceptor Squadron - Baza Sił Powietrznych Goose Bay(1960–1966)
+61st Fighter-Interceptor Squadron - Truax Field (1957–1960)
+64th Fighter-Interceptor Squadron - Baza Sił Powietrznych McChord (1957-1960), Paine Field (1960–1966)
+71st Fighter-Interceptor Squadron - Baza Sił Powietrznych Selfridge (1958–1960)
+76th Fighter-Interceptor Squadron - Baza Sił Powietrznych Westover (1961–1963)
+82d Fighter-Interceptor Squadron  - Baza Sił Powietrznych Travis (1957–1966)
+86th Fighter-Interceptor Squadron - Baza Sił Powietrznych Youngstown (1957–1960)
+87th Fighter-Interceptor Squadron - Baza Sił Powietrznych Lockburne (1958–1960)
+95th Fighter-Interceptor Squadron - Baza Sił Powietrznych Andrews (1958–1959)
+317th Fighter-Interceptor Squadron - Baza Sił Powietrznych McChord (1957–1958)
+318th Fighter-Interceptor Squadron - Baza Sił Powietrznych McChord (1957–1960)
+323d Fighter-Interceptor Squadron - Truax Field (1956–1957), Baza Sił Powietrznych Harmon (1957–1960)
+325th Fighter-Interceptor Squadron - Truax Field (1957–1966)
+326th Fighter-Interceptor Squadron - Baza Sił Powietrznych Richard-Gebauer (1957–1967)
+327th Fighter-Interceptor Squadron - Baza Sił Powietrznych George (1956–1958), Baza Lotnicza Thule (1958–1960)
+329th Fighter-Interceptor Squadron - Baza Sił Powietrznych George (1958–1960)
+331st Fighter-Interceptor Squadron - Baza Sił Powietrznych Webb (1960–1963)
+332nd Fighter-Interceptor Squadron - Baza Sił Powietrznych McGuire (1957–1959), Baza Sił Powietrznych England (1959–1960),Thule AB (1960–1965)
+438th Fighter-Interceptor Squadron - Baza Sił Powietrznych Kincheloe (1957–1960)
+456th Fighter-Interceptor Squadron - Baza Sił Powietrznych Castle (1958–1960)
+460th Fighter-Interceptor Squadron - Baza Sił Powietrznych Portland (1958–1966)
+482nd Fighter-Interceptor Squadron - Baza Sił Powietrznych Seymour Johnson (1956–1965)
+498th Fighter-Interceptor Squadron - Geiger Field (1957–1959)
+Dowództwo Sił Powietrznych Alaska
+317th Fighter-Interceptor Squadron - Baza Sił Powietrznych Elmendorf (1958–1970)
+31st Fighter-Interceptor Squadron - Baza Sił Powietrznych Elmendorf (1957–1958)
+Siły Powietrzne Stanów Zjednoczonych w Europie
+32d Fighter-Interceptor Squadron - Baza Lotnicza Soesterberg (1960–1969)
+431st Fighter-Interceptor Squadron - Baza Lotnicza Zaragosa (1960–1964)
+496th Fighter-Interceptor Squadron - Baza Lotnicza Hahn (1960–1970)
+497th Fighter-Interceptor Squadron - Baza Lotnicza Torrejon (1960–1963)
+525th Fighter-Interceptor Squadron - Baza Lotnicza Bitburg (1959–1969)
+526th Fighter-Interceptor Squadron - Baza Lotnicza Ramstein (1960–1970)
+Siły Powietrzne Pacyfiku
+4th Fighter-Interceptor Squadron - Baza Lotnicza Misawa (1957–1965)
+16th Fighter-Interceptor Squadron - Baza Lotnicza Naha (1959–1965)
+40th Fighter-Interceptor Squadron - Baza Lotnicza Yokota (1957–1965)
+64th Fighter-Interceptor Squadron - Baza Lotnicza Clark (1966–1969)
+68th Fighter-Interceptor Squadron - Baza Lotnicza Itazuke (1957–1965)
+82d Fighter-Interceptor Squadron - Baza Lotnicza Naha (1966–1971)
+509th Fighter-Interceptor Squadron - Baza Lotnicza Clark (1959–1970)
+Siły Powietrzne Gwardii Narodowej
+102d Fighter-Interceptor Squadron, NY ANG - Baza Sił Powietrznych Gwardii Narodowej Suffolk (1972–1975)
+111th Fighter-Interceptor Squadron, TX ANG - Ellington Field (1960–1975)
+116th Fighter-Interceptor Squadron, WA ANG - Geiger Field (1965–1969)
+118th Fighter-Interceptor Squadron, CT ANG - Baza Sił Powietrznych Gwardii Narodowej Bradley (1966–1971)
+122nd Fighter-Interceptor Squadron, LA ANG - NAS New Orleans (1960–1971)
+123d Fighter-Interceptor Squadron, OR ANG - Baza Sił Powietrznych Gwardii Narodowej Portland (1966–1971.
+132nd Fighter-Interceptor Squadron, ME ANG - Baza Sił Powietrznych Gwardii Narodowej Bangor (1969–1970)
+134th Fighter-Interceptor Squadron, VT ANG - Baza Sił Powietrznych Gwardii Narodowej Burlington (1965–1975)
+146th Fighter-Interceptor Squadron, PA ANG - Pittsburgh AP (1961–1975)
+151st Fighter-Interceptor Squadron, TN ANG - Baza Sił Powietrznych Gwardii Narodowej McGhee-Tyson (1963–1964)
+152d Fighter-Interceptor Squadron, AZ ANG - Baza Sił Powietrznych Gwardii Narodowej Tucson (1966–1969)
+157th Fighter-Interceptor Squadron, SC ANG Baza Sił Powietrznych Gwardii Narodowej MacEntire (1963–1975)
+159th Fighter-Interceptor Squadron, FL ANG - Imeson Field (1960–1968), Baza Sił Powietrznych Gwardii Narodowej Jacksonville 1968–1974
+175th Fighter-Interceptor Squadron, SD ANG - Baza Sił Powietrznych Sioux Falls (1960–1970)
+176th Fighter-Interceptor Squadron, WI ANG - Truax Field (1966–1974)
+178th Fighter-Interceptor Squadron, ND ANG - Hector Field (1966–1969)
+179th Fighter-Interceptor Squadron, MN ANG - Baza Sił Powietrznych Gwardii Narodowej Duluth (1966–1971)
+182nd Fighter-Interceptor Squadron, TX ANG - Baza Sił Powietrznych Kelly (1960–1969)
+186th Fighter-Interceptor Squadron, MT ANG - Baza Sił Powietrznych Gwardii Narodowej Great Falls (1966–1972)
+190th Fighter-Interceptor Squadron, ID ANG - Gowen Field (1964–1975)
+194th Fighter-Interceptor Squadron, CA ANG - Baza Sił Powietrznych Gwardii Narodowej Fresno (1964–1974)
+196th Fighter-Interceptor Squadron, CA ANG - Międzynarodowy Port Lotniczy Ontario (1965–1975)
+199th Fighter-Interceptor Squadron, HI ANG - Baza Sił Powietrznych Hickam (1960–1977)
+
+Powiązane hasła
+Pokrewne konstrukcje
+Convair XF-92
+Convair F-106 Delta Dart
+Podobne samoloty
+Avro Canada CF-105 Arrow
+Dassault Mirage III
+English Electric Lightning
+MiG-21/Chengdu_J-7
+Saab 35 Draken
+Su-9/Su-11
+Su-15
+
+
+
+
+
+
+
+

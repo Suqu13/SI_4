@@ -1,0 +1,50 @@
+Nexus S – (znany również jako Samsung GT-i9020''' lub Samsung GT-i9023''') to smartphone firmy Google, wyprodukowany przez Samsung Electronics. Został wprowadzony na rynek w grudniu 2010 roku. Bliźniaczym telefonem jest Samsung Galaxy S, z którym Nexus S dzieli wiele podzespołów.
+
+Opis
+Ekran
+Wyświetlacz modelu Nexus S to Super AMOLED lub Super Clear LCD o rozdzielczości 480x800 pikseli, wielkości 4 cali (235 ppi). Ekran ten jest specjalnie zakrzywiony, aby lepiej pasował do twarzy w trakcie rozmowy. To sprawiło, że wyświetlacz ten dostał nową nazwę: "Contour Display" (co w dosłownym tłumaczeniu znaczy: ekran konturowy, ale raczej to tłumaczenie nie ma nic wspólnego z zakrzywieniem ekranu).
+
+Procesor
+Jednostka obliczeniowa modelu Nexus S to Samsung Hummingbird bazujący na rdzeniu ARM Cortex A8, o taktowaniu 1.00&nbsp;GHz. Procesor wykonano w procesie technologicznym 45&nbsp;nm. Razem z tym procesorem, w układzie SoC pracuje układ graficzny (GPU) PowerVR SGX-540.
+
+Pamięć
+I9020 ma 16&nbsp;GB pamięci wewnętrznej, z czego 13.3&nbsp;GB przeznaczone jest na dane. Nexus S posiada także 512&nbsp;MB pamięci Mobile DDR RAM. Nie wyposażono go w gniazdo na kartę pamięci.
+
+Komunikacja
+Nexus S posiada łączność IEEE 802.11 (Wi-Fi) w standardach b/g/n. Urządzenie wyposażono także w Bluetooth w wersji 2.1 z EDR. Ciekawostką jest też system NFC (Near Field Communication). Posiada także GPS (z A-GPS), oraz złącze microUSB czy gniazdo słuchawkowe 3.5mm.
+
+Aparat
+Nexus S posiada dwa aparaty. Przedni; o rozdzielczości 0.3&nbsp;MPx; może kręcić filmy w rozdzielczości VGA – 640x480 pikseli, oraz tylny (główny); z matrycą 5&nbsp;MPx, można nagrywać nim filmy w rozdzielczości 720x480 pikseli.
+
+System
+Jako urządzenie firmy Google, Nexus S fabrycznie wyposażony jest w system Android w wersji 2.3 Gingerbread. Telefon ten był pierwszym urządzeniem z tym systemem operacyjnym Dostępna jest aktualizacja do 4.0 Ice Cream Sandwich.
+ 20 lipca 2012 została udostępniona aktualizacja do wersji 4.1.1 Jelly Bean.
+
+Wersja zubożona GT-i9023
+W krajach rozwijających się takich jak Rosja dostępna jest ekonomiczna wersja z ekranem Super (Clear) LCD, a nie z SuperAMOLED. Jednak pozostałe parametry wyświetlacza i całego telefonu pozostać mają bez zmian. Potrzeba zainstalowania innego ekranu wynika z tego, iż Samsung nie jest w stanie nadążyć z produkcją ekranów Super AMOLED.
+
+Krytyka
+Model Nexus S spotkał się z negatywnymi opiniami od niektórych użytkowników, m.in. krytykowano Samsunga za wykorzystanie tego samego plastiku co w modelu Galaxy S, który jest gorszy od aluminium stosowanego przez HTC w modelu Nexus One
+
+Pojawił się także problem dotyczący przerywania przez niektóre telefony rozmowy po trzeciej minucie połączenia..
+
+Część telefonów pracując na Androidzie w wersji 2.3.3 wysyła smsy pod losowe numery,  a ponadto nabija wysokie rachunki z powodu problemów z przełączaniem między 3G a Wi-Fi.  Aktualizacja systemu do wersji 2.3.4 rozwiązuje problem.
+
+Cena
+W Polsce, cena GT-i9020 z ekranem Super AMOLED wynosiła około 2399&nbsp;zł, natomiast wersja GT-i9023 z Super LCD kosztowała 1599&nbsp;zł. W USA, model Nexus S można było nabyć za niecałe 530 dolarów.
+
+Linki zewnętrzne
+– specyfikacja Nexus S na stronie google.com
+
+
+
+Zobacz też
+Google Nexus
+
+
+
+
+
+
+
+

@@ -1,0 +1,42 @@
+
+Blue Gene – architektura superkomputerów rozwijana przez IBM we współpracy z Lawrence Livermore National Laboratory oraz Departamentem Energii USA. Obecnie istnieją trzy generacje tej architektury: BlueGene/L, BlueGene/P oraz BlueGene/Q.
+
+Projektowi Blue Gene został w 2009 przyznany National Medal of Technology.
+
+Blue Gene/L
+
+W grudniu 1999 roku IBM ogłosił zainwestowanie 100 milionów dolarów w pięcioletni projekt budowy superkomputera przeznaczonego do symulacji procesów zwijania białek. Celem tego projektu, poza samymi symulacjami, było opracowanie tańszej i efektywniejszej technologii obliczeń równoległych. W listopadzie 2001 IBM nawiązał współpracę w ramach tego projektu z Lawrence Livermore National Laboratory.
+
+We wrześniu 2004 roku IBM ogłosił, że prototypowy superkomputer o nowej architekturze, posiadający 8 tysięcy procesorów, osiągnął wydajność 36,01 TFLOPS w teście LINPACK, prześcigając dotychczasowego rekordzistę Earth Simulator o wydajności 35,86 TFLOPS. Po rozbudowie do 16 tysięcy procesorów i osiągnięciu wydajności 70,72 TFLOPS, w listopadzie 2004 roku nowy superkomputer został odnotowany na pierwszym miejscu listy TOP500, jako najszybszy superkomputer na świecie. Kolejne wersje superkomputerów opartych na tej architekturze znajdowały się na szczycie tej listy przez kolejne trzy lata, osiągając 135,5 TFLOPS w czerwcu 2005 roku, 280,6 TFLOPS w listopadzie 2005 roku i 478,2 TFLOPS w listopadzie 2007 roku.
+
+Blue Gene/P
+
+
+26 czerwca 2007 roku IBM zaprezentował drugą generację superkomputera Blue Gene – Blue Gene/P, zaprojektowaną, aby uzyskać 1 PFLOPS.
+
+Architektura Blue Gene/P oparta jest na procesorach IBM PowerPC 450, taktowanych zegarami o częstotliwości 850 MHz. Cztery procesory zintegrowane są na jednym układzie scalonym. 32 takie układy montowane są na jednej płycie, a 32 płyty mieszczą się w jednym racku. Pojedynczy rack zawiera więc 4096 procesorów i może wykonywać 14 bilionów operacji na sekundę. Aby uzyskać 1 PFLOPS potrzebne są 72 takie racki, czyli łącznie 294&nbsp;912 procesorów. Wydajność energetyczna systemów Blue Gene/P to maksymalnie 378 MFLOPS/W, a system o wydajności 1 PFLOPS zużywa około 2,27 MW mocy. Maksymalna możliwa konfiguracja to 216 racków, co umożliwia uzyskanie 3 PFLOPS.
+
+Pomiędzy komputerami Blue Gene/L i Blue Gene/P istnieje kilka zasadniczych różnic. W systemie P zastosowano czterordzeniowe procesory (w L były dwurdzeniowe), które są taktowane szybszym zegarem (850 MHz zamiast 700 MHz). Blue Gene/P korzysta też z większej pamięci operacyjnej oraz wykorzystuje tryb SMP (ang. symmetric multiprocessing – przetwarzanie symetryczne), dzięki czemu można go programować podobnie jak programuje się komercyjnie dostępne klastry komputerowe. System operacyjny superkomputera Blue Gene/P bazuje na Linuksie, a aplikacje można tworzyć w standardowych językach programowania, takich jak Fortran, C czy C++.
+
+Pierwszy system oparty na architekturze Blue Gene/P, nazywany JUGENE, został uruchomiony 12 listopada 2007 roku w Centrum Badawczym w Jülich. Posiadał 65535 procesorów, miał moc obliczeniową 180 TFLOPS i był w lutym 2009 roku najszybszym superkomputerem w Europie i szóstym na świecie. W maju 2009 roku został rozbudowany do pełnej konfiguracji, osiągając wydajność 1 PFLOPS.
+
+W kolejnych latach IBM zainstalował wiele systemów opartych na architekturze Blue Gene/P. Moc obliczeniowa największych to:
+450 TFLOPS – zainstalowanego w Argonne National Laboratory w 2007 roku,
+415 TFLOPS – zainstalowanego w Lawrence Livermore National Laboratory w 2009 roku,
+190 TFLOPS – zainstalowanego w King Abdullah University of Science and Technology w Arabii Saudyjskiej w 2009 roku.
+
+Blue Gene/Q
+Architektura Blue Gene/Q powstała jako dalsze rozwinięcie Blue Gene/P. Wykorzystuje procesory o 18 rdzeniach (16 na obliczenia, jeden na system operacyjny i jeden rezerwowy) z Hyper-Threadingiem umożliwiającym uruchomianie 4 wątków na każdym rdzeniu. Procesory taktowane są zegarem 1,6 GHz i osiągają wydajność 204 GFLOPS przy zużyciu mocy wynoszącym 55 watów. Prototypowy system oparty na tej architekturze został zaprezentowany w listopadzie 2010 roku. Uzyskał wydajność 1684 MFLOPS/W i znalazł się na pierwszym miejscu listy Green500, jako najbardziej energooszczędny system komputerowy na świecie.
+
+W czerwcu 2012 superkomputer Sequoia oparty na architekturze Blue Gene/Q zajął pierwsze miejsce na liście najszybszych komputerów świata TOP500. Zbudowany z 98&nbsp;304 procesorów i posiadający łącznie ponad 1,5 miliona rdzeni, osiągnął moc obliczeniową 16324 TFLOPS. Na tej samej liście znalazło się pięć kolejnych komputerów Blue Gene/Q o mocy przewyższającej 1 PFLOPS:
+8162 TFLOPS – Mira, zainstalowany w Argonne National Laboratory,
+1725 TFLOPS – Fermi, zainstalowany w Uniwersytecie Bolońskim we Włoszech,
+1380 TFLOPS – JUQUEEN, zainstalowany w Forschungszentrum Jülich w Niemczech,
+1207 TFLOPS – Blue Joule, zainstalowany w Daresbury Laboratory w Wielkiej Brytanii,
+1042 TFLOPS – DiRAC, zainstalowany w University of Edinburgh w Wielkiej Brytanii.
+
+Ogółem, w czerwcu 2012 roku wśród 10 najszybszych superkomputerów świata 4 były oparte na architekturze Blue Gene/Q, a wśród 50 najszybszych – 12.
+
+
+
+

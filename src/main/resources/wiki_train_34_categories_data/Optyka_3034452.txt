@@ -1,0 +1,30 @@
+Magic Lantern - firmware rozwijany przez entuzjastów aparatów cyfrowych Canon i wydawany na licencji otwartego oprogramowania. Magic Lantern jest nakładką programową na firmowe oprogramowanie aparatów fotograficznych Canon DSLR z serii EOS, daje ono możliwość użytkowania opracowanych przez twórców zaawansowanych funkcji fotograficznych jak i filmowych.
+
+Historia projektu
+
+Magic Latern oryginalnie został napisany jako nakładka systemowa do Canona 5D Mark II przez Trammela Hudsona w 2009 roku. 
+W 2010 roku do projektu dołączył A1ex, twórca podobnego oprogramowania Canon Hack Development Kit dla aparatów kompaktowych Canona, który poprzenosił projekt na inne modele aparatów.
+
+Magic Lantern jest opracowywany jako nakładka programowa dodając rozbudowane funkcje do trybów fotografii i produkcji filmowej, takie jak Time lapse, HDR,  zaawansowane tryby sterowania Czułością filmu,  ustawieniami migawki oraz rozwijana od 2013 funkcja RAW Video.
+
+Magic Lantern jest bootowalny z karty po każdym włączeniu aparatu. Nie zastępuje oryginalnego firmware w aparatach Canon i podczas użytkowania daje pełen dostęp do oryginalnych funkcji aparatu. 
+
+Projekt jest rozwijany w oparciu o model non-profit i licencji GNU. Twórcy udostępnili możliwość wpłacania dobrowolnych dotacji, co pozwala na dalsze rozwijanie projektu.
+
+Obsługiwane modele
+
+
+
+
+Linki zewnętrzne
+
+
+
+Zobacz też
+Mikroprogram
+System operacyjny
+Canon EOS
+CHDK
+
+
+

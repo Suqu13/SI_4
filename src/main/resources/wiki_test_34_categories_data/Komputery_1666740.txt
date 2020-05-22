@@ -1,0 +1,6 @@
+SKOK ''(Szybki Kompatybilny Odra Komputer)'' (EMCX 1300) to polski procesor przeznaczony do modernizacji ośrodków obliczeniowych ZETO i ETO, zgodny na poziomie języka maszynowego i interfejsów z komputerem Odra 1305.
+
+Produkcja
+W latach 1989-91 wyprodukowano 6 sztuk procesorów.
+
+Linki zewnętrzne

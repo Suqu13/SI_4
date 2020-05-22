@@ -1,0 +1,16 @@
+Qtek 9100''' – palmtop klasy Pocket PC. Posiada moduł GSM.
+
+Dane techniczne
+Procesor - Texas Instruments OMAP 850, 200Mhz
+Pamięć: 
+ROM - 128 MB 
+RAM - 64 MB 
+Akumulator - 1250 mAh Lithium ion polymer 
+Gniazdo na karty - Mini SD 
+System operacyjny: Windows Mobile 5.0 Phone Edition
+Komunikacja bezprzewodowa:
+Bluetooth
+Wireless LAN IEEE 802.11b/g. 
+Waga - 160 g
+
+

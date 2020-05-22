@@ -1,0 +1,17 @@
+Barkowcowy system transportowy jest jednym z systemów w transporcie wodnym, polegający na tym, że jednostkowy pojemnik służący do transportu ładunku stanowi cała barka, która po wyładowaniu ze statku morskiego (za pomocą urządzeń znajdujących się na tym statku) może być przemieszczana bezpośrednio w głąb lądu droga wodną, bez konieczności przeładunku w porcie morskim. Dzięki ograniczeniu operacji związanych z załadunkiem jak i rozładunkiem, znacznemu obniżeniu ulega czasu postoju statku w porcie, a co za tym idzie wielkość opłat portowych. 
+
+Schemat działania tego systemu polegał na tym aby nadany ładunek daleko w głębi lądu przetransportować śródlądową droga wodną za pomocą barek rzecznych do portu rzeczno-morskiego następnie, całą barkę umieścić na specjalnym statku tzw. barkowcu przepłynąć akwen morski, rozładować w innym porcie rzeczno-morskim i dalej śródlądową droga wodną dostarczyć ładunek do odbiorcy. 
+
+W latach 60' XX wieku, kiedy powstawał ten system wiązano z nim wielkie nadzieje i prognozowano, że system ten zdominuje transport morski. Prognozy te jednak nie sprawdziły się. Zasadniczą wadą tego systemu było nie istnienie odpowiedniej ilości portów mogących przyjmować takie statki, które wynikało z ścisłego powiązania portu z śródlądową droga wodna. Porty nie spełniające tego warunku nie mogły uczestniczyć w tym systemie transportu. Ponadto śródlądowe drogi wodne często nie były przygotowane do obsługi tych barek, ze względu na ich zwiększona głębokość zanurzenia. Ważnym czynnikiem który zahamował rozwój tego systemu było pojawienie się systemu opartego na kontenerach oraz jednostek typu RO-RO.
+
+Planowano aby załadunek jak i rozładunek barek na barkowiec odbywał się za pomocą trzech głównych systemów:
+System LASH - najbardziej rozpowszechniony polega na tym, że barka jest podnoszona z wody za pomocą specjalnych urządzeń dźwigowych, które wraz z uniesiona barką poruszają się wzdłuż statku, umieszczając ją w odpowiednim miejscu.
+System SEABEE - charakteryzuje się tym iż, barki wpływają do specjalnego doku, który wraz z barką jest podnoszony na odpowiednią wysokość - pokład barkowca. Na pokładzie barka przemieszczana jest za pomocą odpowiedniej ramy. 
+System Float on- Float off - w systemie tym, barki wpływają i wypływają bezpośrednio na pokład barkowca bez użycia urządzeń dźwigowych. Barkowce tego typu należą do klasy statków półzanurzalnych lub katamaranowych. 
+
+Barki barkowców na wodach śródlądowych przemieszczają się w zestawach pchanych scalonych. Obecnie jak wcześniej wspomniano system ten nie znalazł szerszego zastosowania.
+
+Bibliografia
+Śródlądowy transport wodny, Jan Kulczyk i Jan Winter, Oficyna Wydawnicza Politechniki Wrocławskiej, Wrocław grudzień 2003.
+
+

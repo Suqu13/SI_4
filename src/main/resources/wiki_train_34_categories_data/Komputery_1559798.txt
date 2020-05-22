@@ -1,0 +1,27 @@
+
+Syzyf (en. Sisyphus) — jest jednym z 5 największych banków pakietów wolnego oprogramowania na świecie. Projekt rozwijany na podstawie repozytorium pakietów RPM.
+
+Prace nad Syzyfem prowadzi zespół deweloperów ALT Linux Team, w skład którego wchodzi 150 uczestników z pięciu krajów świata. Syzyf jest największym projektem rozwijającym wolne oprogramowanie, stworzonym przez rosyjskojęzyczny zespół. Syzyf jest w całości otwarty, tj. nie istnieją żadne tajne patche i zamknięte testy z podpisem o nierozgłaszaniu. Szczególną uwagę poświęca się bezpieczeństwu systemu, umiędzynarodowieniu, uzupełnianiu i poprawności zależności międzypakietowych.
+
+Syzyf jest zorientowany na deweloperów dystrybucji i rozwiązań, i dlatego zawiera najnowsze zabezpieczenie programowe, ze wszystkimi jego zaletami i wadami (niekiedy jeszcze nieznanymi), w tym i niebezpiecznymi dla użytkowników.
+
+Na bazie repozytorium Syzyf powstają stabilne dystrybucje ALT Linux, pokrywające potrzeby użytkowników, a także rozwiązania dla wąskospecjalizowanych zadań.
+
+
+W 2007 roku repozytorium Syzyf otrzymało nagrodę CNews Awards w kategorii "Informacyjne bezpieczeństwo".
+
+Technologia
+W ramach projektu Syzyf, członkowie ALT Linux Team stworzyli zestaw narzędzi:
+
+Hasher – narzędzie do bezpiecznego montowania pakietów RPM w bezpiecznym środowisku,
+Gear – narzędzie do wspierania i wspólnego rozwijania pakietów RPM w systemie kontroli wersji git,
+Alterator – platforma do zarządzania konfiguracją systemu Linux,
+ALT Linux Installer – instalator, wykorzystywany w dystrybucjach ALT Linux.
+
+
+
+Zobacz też
+Fedora
+PLD
+
+Linki zewnętrzne

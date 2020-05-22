@@ -1,0 +1,24 @@
+Komputerowa gra strategiczna – jeden z gatunków gier komputerowych przeznaczonych dla jednej lub wielu osób, w której wygrana zależy nie tylko od losu, ale przede wszystkim od strategii, wiedzy i planowania. Takie gry mogą wymagać od użytkownika np. umiejętności dowodzenia oddziałami wojska lub zarządzania kapitałem przedsiębiorstwa.
+
+Gra turowa
+Pierwszymi grami strategicznymi były strategie turowe. Polegały one na podziale czasu rozgrywki na tury (tura jest to jeden ruch lub działanie jakie może wykonać gracz i najczęściej nie jest to ograniczone czasem) przykładem tego gatunku jest seria Heroes of Might and Magic. Gdzie gracz staje naprzeciw jednego lub kilku komputerowych przeciwników wykonując ruchy (wykorzystując swoje tury) na przemian z innymi.
+
+Strategiczna gra czasu rzeczywistego
+Kolejnym podgatunkiem jest strategiczna gra czasu rzeczywistego (ang. RTS – Real Time Strategy). Od klasycznych gier turowych odróżnia je to, że przeciwnicy wykonują działania w tym samym czasie i bez podziału na tury. Te gry są bardziej dynamiczne i efektowne. Wymagają zdecydowania, szybkiego myślenia, umiejętności planowania oraz przewidywania posunięć wroga. Przeciwnicy zarzucają im, że wymagają bardziej umiejętności szybkiego klikania niż myślenia. Pierwszą grą typu RTS była '''' stworzona przez Westwood.
+
+Przykładem takich gier jest seria Command & Conquer , KKnD oraz StarCraft.
+
+Mieszane
+W niektórych grach strategicznych tryb turowy przeplata się z trybem czasu rzeczywistego, m.in. w Jagged Alliance, gdzie typowo zwiedzanie planszy przebiega w czasie rzeczywistym (postacie wędrują, rozmawiają, podkładają bomby), ale gdy zaczyna się ostra wymiana ognia, gra automatycznie przechodzi w tryb turowy z rozliczaniem punktów akcji. Bardzo przypomina to rozwiązanie z niektórych gier fabularnych, jak np. Fallout.
+
+Tryby gry
+Potyczka (ang. skirmish) – nazwa trybu gry jednoosobowej, w którym symulowana jest rozgrywka sieciowa nie posiadająca związku z kampanią (lub podobnym trybem rozgrywki fabularnej). Graczy w tym trybie zastępuje komputer. Przykładami gier posiadających tryb potyczki są '''', '''' i ''''.
+
+Zobacz też
+4X
+
+
+
+
+
+

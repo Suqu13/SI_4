@@ -1,0 +1,40 @@
+Kwetiapina (INN: Quetiapine) – organiczny związek chemiczny, pochodna dibenzotiazepiny, stukturalnie zbliżona do dibenzoazepiny, w której jeden atom azotu został zastąpiony atomem siarki. Jest neuroleptykiem stosowanym w ostrych i przewlekłych schorzeniach psychicznych. Lek wykazuje powinowactwo do receptora dopaminergicznego D2, jak i serotoninergicznego 5-HT2, oba z nich blokując. Kwetiapina ponadto wiąże się, również jako antagonista, z receptorem histaminowym i noradrenergicznym (stąd wynikają główne objawy uboczne).
+
+Metabolit kwetiapiny – norkwetiapina ma wysokie powinowactwo do transportera noradrenaliny, co jest dość nietypową właściwością wśród neuroleptyków.
+
+Zastosowanie w chorobach i zaburzeniach
+W schizofrenii
+W leczeniu schizofrenii kwetiapina wykazuje porównywalną skuteczność do innych atypowych neuroleptyków przy zrównoważonym profilu działań ubocznych. Ze względu na odmienny profil działania od neuroleptyków I generacji, kwetiapina wykazuje największą efektywność kliniczną w leczeniu schizofrenii po niepowodzeniu leczenia lekami I generacji.
+
+W zaburzeniach dwubiegunowych
+W leczeniu fazy maniakalnej w przebiegu zaburzeń dwubiegunowych kwetiapina jest porównywalnie skuteczna lub nieco słabsza w porównaniu do litu, kwasu walproinowego, jak i innych neuroleptyków. 
+W leczeniu fazy depresyjnej, jako jedyny oprócz olanzapiny neuroleptyk, kwetiapina wykazuje skuteczność kliniczną, przy czym nie wiąże się to ze wzrostem ryzyka indukcji manii.
+
+W stosowaniu profilaktycznym, kwetiapina zmniejsza ryzyko nawrotu epizodów manii i depresji, przy czym skuteczniejsze jest w tym celu stosowanie kwetiapiny w formie politerapii z lekami stabilizującymi nastrój. 
+
+Dawkowanie
+
+Lek jest dawkowany 2-3 razy dziennie – w psychozach, schizofrenii i manii; raz dziennie –  w depresji i depresji w przebiegu choroby afektywnej dwubiegunowej. Dawkę leku należy stopniowo zwiększać od dawki 25–200&nbsp;mg w 1 dniu do dawki 300–600&nbsp;mg w 4 dniu, w celu zmniejszenia ryzyka działań niepożądanych. Najczęściej stosowane dawki leku: schizofrenia 400–800 &nbsp;mg/dzień (średnia dawka 600&nbsp;mg/dzień); mania i inne psychozy 400–800&nbsp;mg/dzień (średnia dawka 600&nbsp;mg/dzień); depresja w ChAD 200–400&nbsp;mg/dzień (zalecana dawka 300&nbsp;mg/dzień).
+
+U osób w podeszłym wieku skuteczna dawka leku jest na ogół niższa niż u dorosłych osób i mieści się w zakresie 25–300&nbsp;mg/dzień. W badaniu w którym stosowano kwetiapinę w dawce 100&nbsp;mg/dzień i kwetiapinę w dawce 200&nbsp;mg/dzień w celu zmniejszenia agitacji i agresji pacjentów z demencją w przebiegu choroby Alzheimera, tylko dawka 200&nbsp;mg/dzień była w sposób istotny skuteczniejsza od placebo.
+
+Działania niepożądane
+Lek jest na ogół dobrze tolerowany. Na początku leczenia często pojawia się suchość ust, sedacja, ospałość, które w większości wypadków zmniejszają swoje nasilenie po 2–4 tygodniach stosowania leku.
+
+Może pojawić się zwiększenie masy ciała (średnio w badaniach klinicznych 2,4&nbsp;kg). Wzrost masy ciała jest porównywalny do większości innych neuroleptyków ale niższy niż po stosowaniu klozapiny i olanzapiny (średnio 5–6&nbsp;kg). W przeciwieństwie do wielu innych neuroleptyków kwetiapina nie wpływa na poziom prolaktyny. Kwetiapina niesie ze sobą bardzo niskie (bądź go nie ma wcale) ryzyko wywołania pozapiramidowych działań niepożądanych.
+
+Tak jak dla innych neuroleptyków należy być wyczulonym na potencjalnie możliwy złośliwy zespół neuroleptyczny, a także stosować lek ostrożnie u pacjentów z chorobami serca i krążenia.
+
+Wg zalecenia amerykańskiego FDA, tak jak inne neuroleptyki atypowe, lek może zwiększać ryzyko udaru u pacjentów w podeszłym wieku (aczkolwiek dane dla kwetiapiny są niespójne).
+
+Podobnie amerykańska FDA informuje o zwiększonym ryzyku metabolicznym, w tym indukcji cukrzycy typu II po stosowaniu atypowych neuroleptyków.
+
+Interakcje
+Leki o udokumentowanym działaniu powodującym wzrost stężenia kwetiapiny to erytromycyna i ketokonazol, co sugeruje ogromne znaczenie enzymu CYP3A4 z rodziny wątrobowego cytochromu P450.
+
+Preparaty
+Lek oryginalny: Seroquel,Seroquel XR - forma o przedłużonym działaniu
+
+Inne preparaty: Loquen, Ketrel, Kwetaplex, Kventiax, Ketipinor, Symquel, Ketilept, Nantarid, Poetra, Bonogren, Kwetax, Etiagen, Pinexet
+
+Bibliografia

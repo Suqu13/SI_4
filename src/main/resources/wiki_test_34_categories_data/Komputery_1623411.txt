@@ -1,0 +1,53 @@
+Cobra 1''' – 8-bitowy mikrokomputer domowy i przemysłowy z procesorem ZiLOG Z-80A przeznaczony do samodzielnej budowy.
+
+Schemat i opis komputera był publikowany w czasopiśmie Audio Video, począwszy od numeru 1/84. Z powodu długiego okresu publikacji (Audio Video było wtedy kwartalnikiem) konstrukcja zestarzała się jeszcze przed jej zakończeniem.
+
+Ze względu na dokładny opis, komputer był wykonany w wielu odmianach i wykorzystywany np. jako sterownik stacji pomiarowej pola hydrodynamicznego okrętów.
+
+Cobra 1 był wzorowany na ZX-81, ale nie był z nim zgodny.
+
+Specyfikacja
+procesor: Z80A 3,25 MHz
+pamięć:
+operacyjna RAM: od 16 do 48 KB na układach 4116 o pojemności 16 kb albo 4164 o pojemności 64 kb
+stała EPROM: 2 KB
+pamięć masowa: magnetofon kasetowy; prędkość zapisu/odczytu 300 i 1200 bitów na sekundę
+obrazu: 1 KB
+generator znaków
+grafika:
+tylko tryb znakowy - zestaw 64 znaków z możliwością rozszerzenia do 256
+tekst: 32 × 24 znaków, 8x8 pikseli
+kolory: 1 (biały i czarny, z możliwością rozszerzenia do 8 poziomów jasności)
+dźwięk: 1 kanał
+porty: PIO 1x74S412 (wejście-obsługa klawiatury/magnetofonu)
+urządzenie wejścia-wyjścia
+podstawowe:
+klawiatura kontaktronowa
+monitor: telewizor
+pamięć masowa: magnetofon kasetowy
+dodatkowe:
+port drukarki:
+D-100
+Seikosha GP-500A
+dalekopis
+pamięć masowa: stacja dyskietek 5&nbsp;1/4" 360 kB
+oprogramowanie:
+system operacyjny: Monitor w pamięci stałej
+język programowania: Basic, asembler, disasembler, język maszynowy
+data opracowania: 1984–1986
+opracowali:
+Andrzej Sirko, Grzegorz Gancarz i uzupełnili czytelnicy
+koszt komputera z pamięcią 16 KB wg cen z 1984: 32 000 zł [ PLZ ](3.20 zł [ PLN ]).
+
+Zobacz też
+Monitor (Cobra 1)
+System  (Cobra 1)
+
+
+
+Bibliografia
+Audio Video numery 1/1984-1988
+
+
+
+

@@ -1,0 +1,31 @@
+Ewidencja podatkowa – ewidencja prowadzona dla celów podatkowych i służących ustaleniu rzeczywistej wielkości obciążenia podatkowego. Rodzaj prowadzonej ewidencji podatkowej zależny jest od formy opodatkowania przedsiębiorcy:
+
+Pełna księgowość:
+ewidencja wszystkich zdarzeń gospodarczych
+ewidencja środków trwałych
+ewidencja wartości niematerialnych i prawnych
+
+Księga przychodów i rozchodów
+ewidencja środków trwałych oraz wartości niematerialnych i prawnych
+ewidencja wyposażenia
+inne karty przychodów pracowników ( pracodawcy )
+książka kontroli
+ewidencja kupna i sprzedaży wartości dewizowych ( kantory)
+ewidencja pożyczek i rzeczy zastawionych ( lombardy )
+ewidencja sprzedaży ( klienci biur rachunkowych )
+ewidencja przebiegu pojazdu
+
+Ryczałt od przychodów ewidencjonowanych
+ewidencja przychodów
+wykaz środków trwałych oraz wartości niematerialnych i prawnych
+ewidencja wyposażenia
+imienne karty przychodów pracowników ( pracodawcy )
+książka kontroli
+
+Karta podatkowa
+imienne karty przychodów pracowników ( pracodawcy )
+książka kontroli
+
+
+
+

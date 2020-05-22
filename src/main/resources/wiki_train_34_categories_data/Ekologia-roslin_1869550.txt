@@ -1,0 +1,40 @@
+Makrofitowy Indeks Stanu Ekologicznego, Makrofitowy Wskaźnik Stanu Ekologicznego, ( Ecological State Macrophyte Index – ESMI)''' – jeden z biologicznych wskaźników jakości wód stosowany w biomonitoringu śródlądowych wód stojących, opracowywany na podstawie występowania zbiorowisk roślin wodnych, których bogactwo jest miarą stanu ekologicznego. Wskaźnikiem stosowanym do oceny śródlądowych wód płynących opartym na występowaniu makrofitów jest Makrofitowy Indeks Rzeczny.
+
+Sposób wyznaczania
+Makrofitowy Indeks Stanu Ekologicznego jest jednym ze wskaźników stosowanych w klasyfikacji i monitoringu stanu jakości  naturalnych zbiorników wodnych wyznaczonych przez polskie Ministerstwo Środowiska. Jego podstawą jest metoda makrofitoindykacji opracowana przez Mariana Rejewskiego, która określa bioróżnorodność na poziomie zbiorowisk roślinnych fitolitoralu tworzonych przez makrofity. W celu jego wyznaczenia analizuje się roślinność występującą wzdłuż wyznaczonych w jeziorze transektów o szerokości 20–30 m. Liczba wyznaczonych transektów zależna jest od długości linii brzegowej i powierzchni jeziora.
+
+ESMI przyjmuje wartości od 0 do 1, a oblicza się go według następującego wzoru:
+
+lub wzoru:
+
+gdzie:
+H – wskaźnik zróżnicowania fitocenotycznego
+Hmax – maksymalne zróżnicowanie fitocenotyczne
+Z – wskaźnik zasiedlenia
+N – całkowita powierzchnia fitolitoralu (100%)
+P – powierzchnia jeziora (km2)
+
+Poszczególne składniki równań wyznacza się w następujący sposób:
+
+gdzie:
+ni – średnie pokrycie zbiorowiska roślinnego i w obrębie fitolitoralu (średnia arytmetyczna jego pokrycia na poszczególnych transektach) (%)
+Wskaźnik zróżnicowania fitocenotycznego H jest modyfikacją wskaźnika Shannona.
+
+gdzie:
+izob. 2.5 – powierzchnia jeziora ograniczona izobatą 2,5 m (ha)
+gdzie:
+S – liczba zbiorowisk roślinnych w fitolitoralu
+
+ESMI a klasy jakości wód
+Wartości ESMI rozgraniczające klasy jakości wód, według Rozporządzenia Ministra Środowiska z dnia 20 sierpnia 2008 r. w sprawie sposobu klasyfikacji stanu jednolitych części wód powierzchniowych, są przyjmowane różnie w zależności od rodzaju jeziora i obecnie dotyczą jedynie jezior ramienicowych w szerokim ujęciu, tj. jezior z wodą o stosunkowo dużej zawartości wapnia, niezależnie od tego, czy obecnie występują w nich kalcyfilne ramienice. 
+
+Dla jezior ramienicowych głębokich:
+Dla jezior ramienicowych płytkich:
+Zobacz też
+Ramowa Dyrektywa Wodna
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+Kepler-90''' (KOI-351) – gwiazda należąca do typu widmowego G lub F, znajdująca się ponad 2500 lat świetlnych od Ziemi w gwiazdozbiorze Smoka. Przy użyciu Teleskopu Kepler, w którego polu widzenia znajduje się ta gwiazda, zaobserwowano tranzyty planet okrążających tę gwiazdę. Układ planetarny Kepler-90 zawiera co najmniej siedem planet, jego konfiguracja upodabnia go do Układu Słonecznego, jednak jest znacznie ciaśniejszy.
+
+Charakterystyka fizyczna
+Kepler-90 jest gwiazdą ciągu głównego wczesnego typu widmowego G lub późnego typu F, karłem nieco gorętszym i jaśniejszym od Słońca. Promień gwiazdy wynosi 1,2 promienia Słońca, podobnie masa równa się 1,2 . Temperatura powierzchni gwiazdy przekracza 6000 K.
+
+Obserwowana wielkość gwiazdowa Kepler-90 wynosi 14, nie jest ona widoczna z Ziemi gołym okiem.
+
+Układ planetarny
+
+Planety krążące wokół gwiazdy Kepler-90 mają zróżnicowane rozmiary, ale wszystkie są większe od Ziemi. Układ ten, podobnie jak Układ Słoneczny, posiada planety-olbrzymy na orbitach najdalszych od gwiazdy, podczas gdy bliżej niej krążą mniejsze planety. Promienie tych orbit są jednak dużo mniejsze niż w przypadku analogicznych obiektów z Układu Słonecznego; występują między nimi silne oddziaływania grawitacyjne, wyrażające się m.in. poprzez istnienie szeregu współmierności okresów obiegu i zaburzenia czasu tranzytu. Masy planet nie są znane, jednak muszą znajdować się w przedziale planetarnym (tzn. wykluczone jest, aby nawet największe były brązowymi karłami), aby układ był dynamicznie stabilny.
+
+Planety systemu Kepler-90 można podzielić na trzy grupy ze względu na rozmiary i orbitę.
+
+
+
+Kepler-90b i c
+Planety b i c krążą po bardzo ciasnych orbitach, ponad trzykrotnie bliżej gwiazdy niż Merkury w Układzie Słonecznym. Są to najmniejsze obiekty, o promieniach odpowiednio: 1,3 i 1,2 . Wykazują one współmierność okresów obiegu, są blisko rezonansu 5:4 – planeta b okrąża gwiazdę pięciokrotnie na każde cztery obiegi planety c. Są to najprawdopodobniej planety skaliste.
+
+Kepler-90d, e i f
+Są to planety o bardzo zbliżonych rozmiarach, o promieniach od 2,7 do 2,9 . Ich orbity mają promienie zbliżone do promienia orbity Merkurego wokół Słońca. Masa, a także budowa tych planet nie jest znana: mogą to być duże planety skaliste, tzw. superziemie, ale też mogą one posiadać gęste otoczki gazowe i należeć do tzw. gorących neptunów. Także między nimi występuje rezonans orbitalny: na każde dwa okrążenia gwiazdy przez planetę f przypadają trzy obiegi planety e i cztery okrążenia planety d.
+
+Kepler-90g i h
+Planety g i h krążą po orbitach podobnych do orbit Wenus i Ziemi w Układzie Słonecznym, ale mają średnice odpowiednio 8 i 11 razy większe od Ziemi, są zatem gazowymi olbrzymami podobnymi do Saturna i Jowisza. Ciasne orbity tych olbrzymów powodują silne perturbacje ruchu; planety te są bliskie rezonansu 8:5. Ze względu na to, że gwiazda centralna jest gorętsza od Słońca, najdalsza znana planeta Kepler-90h krąży na wewnętrznym skraju ekosfery. Planeta g wykazuje zmiany głębokości i czasu trwania tranzytu. Jednym z możliwych wytłumaczeń tego zjawiska jest istnienie dużego księżyca, krążącego wokół niej. Problemem tej hipotezy jest to, że obliczony promień orbity takiego księżyca jest bliski promieniowi strefy Hilla, co nie gwarantuje długookresowej stabilności.
+
+Zobacz też
+HD 10180
+
+
+
+
+
+Linki zewnętrzne

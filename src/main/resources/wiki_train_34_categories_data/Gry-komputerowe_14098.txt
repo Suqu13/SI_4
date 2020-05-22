@@ -1,0 +1,26 @@
+Poziom, mapa, obszar, etap lub świat – pojęcie w grach komputerowych oznaczające pewien obszar gry dostępny dla gracza w trakcie wypełniania przez niego określonych zadań. Termin „poziom” może także odnosić się do poziomu trudności, który określa stopień trudności gry. W niektórych grach istnieją też poziomy bonusowe, na które gracz może wejść dzięki odnalezieniu tajnego przejścia bądź znalezieniu odpowiedniego przedmiotu.
+
+Poziom w większości gier (szczególnie zręcznościowych) obejmuje pewien zamknięty etap gry, po zakończeniu którego najczęściej następuje przerwa w grze z możliwością obejrzenia dotychczasowych dokonań (zdobyte punkty, dodatkowe życia, przedmioty itp), czasem jest to jedyny moment w którym możliwe jest zapisanie stanu gry, aby w przyszłości rozpocząć grę od tego miejsca. Ukończenie poziomu z reguły wynagradzane jest dodatkowymi punktami lub dodatkowym życiem bądź energią dla kierowanej przez gracza postaci.
+
+Kolejne poziomy gry są najczęściej coraz trudniejsze i różnią się od poprzednich poziomów takimi cechami, jak:
+inna, najczęściej większa mapa do przejścia,
+krótszy czas wymagany do ukończenia z sukcesem danego poziomu,
+większa liczba przeszkód czy przeciwników do pokonania,
+większa szybkość gry.
+
+Poziomy do gier tworzone są za pomocą edytora poziomów przez projektantów poziomów.
+
+Inne nazwy
+W grach komputerowych i wideo występują również inne nazwy oznaczające jeden zamknięty obszar gry niż poziom:
+etap, faza (stage, phase): nazwa najczęściej występująca w grach arcade
+runda (round): podobnie jak etap/faza z tym, że odnosząca się do gier typu bijatyki
+strefa, akt (zone, act): nazwa głownie występująca w grach 2D z serii Sonic the Hedgehog
+fala (wave): podobnie jak etap/faza z tym, że odnosząca się do gier, w których gracz musiał eliminować za każdym razem coraz więcej przeciwników (kolejną "falę" przeciwników)
+świat (world): nazwa odnosząca się do gier, w których poziomy są podzielone na kilka grup (światów), a poziomy w jednej grupie charakteryzują się jednym stylem (np. Super Mario Bros)
+misja (mission): nazwa najczęściej występująca w grach, w których gracz ma do wykonania jakiś konkretny cel, oraz w grach wojennych
+
+Zobacz też
+poziom doświadczenia w grach fabularnych
+umiejętność w grach fabularnych
+
+

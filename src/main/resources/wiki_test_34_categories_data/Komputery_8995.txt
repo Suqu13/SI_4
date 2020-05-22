@@ -1,0 +1,78 @@
+Apache – otwarty serwer HTTP dostępny dla wielu systemów operacyjnych (m.in. UNIX, GNU/Linux, BSD, OS X, Microsoft Windows).
+
+Popularność
+Apache jest najszerzej stosowanym serwerem HTTP w Internecie. W lutym 2014 jego udział wśród serwerów wynosił 38%. W połączeniu z interpreterem języka skryptowego PHP i bazą danych MySQL, Apache stanowi jedno z najczęściej spotykanych środowisk w firmach oferujących miejsce na serwerach sieciowych.
+
+Statystyki wykorzystania serwerów www (dane z lutego 2014 wg serwisu Netcraft):
+
+
+Cechy serwera i obsługiwane moduły
+wielowątkowość
+skalowalność
+bezpieczeństwo
+Kontrola dostępu/uwierzytelnianie: mod_authz_host
+CGI
+Proxy typu HTTP, Apache JServe Protocol, FTP, CONNECT: mod_proxy*
+SSI: mod_include
+Content-Negotation: mod_negotation
+Moduł URL-Rewriting: mod_rewrite
+SSL: mod_ssl
+możliwość osadzania interpreterów języków skryptowych, np. mod perl, mod_php czy mod_python
+
+Historia
+Serwer Apache wywodzi się z kodu serwera HTTP napisanego przez Roba McCoola, pracownika NCSA
+kwiecień 1995 – wersja 0.6.2 pierwsza oficjalna wersja serwera HTTP Apache
+sierpień 1995 – wersja 0.8.8 dodanie standardowego API i modularyzacja kodu
+grudzień 1995 – wersja 1.0 ulepszenie modułów serwera, napisanie dokumentacji, przeniesienie serwera na wiele różnych platform systemowych
+
+Konfiguracja
+Najnowsze wersje serwera Apache posiadają interfejs graficzny GUI. Program Apache parsuje plik konfiguracyjny httpd.conf (oraz inne zdefiniowane przez użytkownika, bądź sam program).
+
+Plik konfiguracyjny dystrybucji Apache z serii 2.0 zawiera sekcje:
+
+Global Environment
+środowisko serwera
+podstawowe parametry sieciowe
+lista dołączanych modułów
+
+‘Main’ server configuration
+położenie dokumentów
+połączenie
+
+aliasy
+określenie dostępu do zasobów
+formaty i położenie dzienników serwera
+moduły CGI
+opcje automatycznego indeksowania katalogów
+Content Negotation (ang. negocjacja treści)
+własne dokumenty błędów serwera (dyrektywy ErrorDocument)
+konfiguracja modułu mod_proxy
+
+Virtual Hosts
+odwrotny DNS
+lista i konfiguracja ewentualnych hostów wirtualnych obsługiwanych przez maszynę
+
+Niektóre większe moduły (np. mod_SSL) mogą posiadać własne sekcje w pliku httpd.conf bądź oddzielny plik dla własnych ustawień. Aby zmiany dokonane w plikach konfiguracyjnych zostały uwzględnione, konieczne jest zrestartowanie procesu serwera.
+
+Bezpieczeństwo
+Serwer Apache nie jest wolny od luk stwarzających potencjalne zagrożenie. Dotyczy to szczególnie ataków typu DoS.
+
+Zobacz też
+Perl
+WebDAV
+.htaccess
+.htpasswd
+.htgroup
+ApacheBench
+Serwer
+PHP
+MySQL
+
+Inne serwery WWW
+Internet Information Services
+Lighttpd
+nginx
+
+
+
+Linki zewnętrzne

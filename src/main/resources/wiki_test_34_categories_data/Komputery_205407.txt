@@ -1,0 +1,38 @@
+Mera 400''' - wzorowany na komputerze K-202 polski minikomputer.
+Produkowany w latach 1976-1987 w Zakładach Systemów Minikomputerowych MERA w Warszawie (ul. Łopuszańska 117/123).
+
+Maksymalna konfiguracja systemu
+2 jednostki centralne
+17 bloków pamięci operacyjnej po 32k słów 16-bitowych
+16 kanałów:
+znakowych po 8 urządzeń (drukarki, czytniki, perforatory, monitory, FDD...) w kanale,
+pamięciowych (pamięci dyskowe, taśmowe...),
+multipleksorowych, automatyki (PI, CAMAC...),
+autonomicznych jednostek sterujących.
+
+Jednostka centralna
+długość słowa 16 bitów,
+8 szt 16-bitowych rejestrów uniwersalnych w tym 7 akumulatorów lub rejestrów indeksowych,
+32-bitowy rejestr przerwań pogrupowanych w 11 poziomów obsługi z maskowaniem w 10 poziomach,
+zegar czasu rzeczywistego generujący przerwanie zegarowe co 2, 10, 20, 40 lub 80 ms, zależnie od konfiguracji procesora,
+automatyczne ładowanie programu (bootstrap),
+układ alarmu zasilania i automatycznego restartu,
+mechanizm pracy dwuprocesorowej ze wspólnym obszarem pamięci operacyjnej, urządzeń we/wy i pamięci zewnętrznych;
+121 rozkazów (ładowania, pamiętania, arytmetyczne, logiczne, bajtowe, porównania, przesuwania, skoków, rozgałęziania, obsługi we/wy, 256 ekstrakodów = przerwań programowych),
+trzy rodzaje adresacji,
+arytmometr zmiennoprzecinkowy (8bitów cecha, 40bitów mantysa).
+
+Systemy operacyjne
+SOM-3 w trzech wersjach (w tym wersja EXTENDED - wielozadaniowy z dynamicznym przydziałem pamięci);
+CROOK – oparty na ideach systemu Unix.
+
+Pamięć operacyjna – 64K słów 16-bitowych; dolne 32 KB było adresowalnych jako bajty (8-bitowe).
+
+Zobacz też
+EM400 - emulator systemu MERA-400 na PC
+Mera 300
+EMIX 220
+Mera 9425
+SP45DE
+
+Linki zewnętrzne

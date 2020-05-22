@@ -1,0 +1,28 @@
+Canon EOS 5D Mark II – cyfrowa lustrzanka jednoobiektywowa wyposażona w pełnoklatkową matrycę światłoczułą CMOS o rozdzielczości 21,1 megapiksela, wyprodukowana przez japońską firmę Canon.
+
+Premiera lustrzanki miała miejsce 17 września 2008 roku. Jest to pierwszy model linii Canon EOS z możliwością nagrywania wideo. Jego następcą jest aparat Canon EOS 5D Mark III, wypuszczony na rynek 2 marca 2012 roku.
+
+Ulepszenia w porównaniu z modelem Canon EOS 5D
+21,1 megapikseli (5616x3744 pikseli), w porównaniu z 12,8 megapikseli (4368&nbsp;×&nbsp;2912&nbsp;pikseli)
+procesor obrazu DIGIC 4, w porównaniu z procesorem DIGIC II
+zakres ISO równy 100-6400 [rozszerzalny do L (50), H1 (12800), H2 (25600)], w porównaniu z zakresem 100-1600 [rozszerzalnym do L (50), H (3200)]
+3,9 kl./s (78 zdjęć seryjnych w formacie JPEG lub 13 w formacie RAW), w porównaniu z 3 kl./s (60 zdjęć seryjnych w formacie JPEG lub 17 w formacie RAW)
+tryby Small Raw: tryb sRAW1 (10 megapikseli/3861x2574 pikseli) i tryb sRAW2 (5,2 megapikseli/2784×1856 pikseli)
+wizjer z pokryciem 98% kadru i powiększeniem x 0,71, w porównaniu z wizjerem z pokryciem 96% kadru
+większy, 3,0-calowy (76 mm) wyświetlacz LCD z 920.000 pikseli, w porównaniu z wyświetlaczem 2,5-calowym (64 mm)
+bateria 1800mAh LP-E6, w porównaniu z baterią 1390mAh BP-511A
+
+Funkcje
+nagrywanie video w Full HD w rozdzielczości 1920×1080 i SDTV w rozdzielczości 640×480 pikseli
+monofoniczny mikrofon do nagrywania dźwięku podczas nagrywania video, głośnik do odtwarzania i mikrofonowy jack do zewnętrznego mikrofonu stereofonicznego
+podgląd obrazu na żywo z „symulacją ekspozycji” ExpSim LV (pełna kontrola podglądu ekspozycji przy wykorzystaniu ExpSim LV, pierwszym dla wideo w DSLR)
+podgląd obrazu na żywo z autofokusem wykrywającym kontrast
+wyjście wideo HDMI do podglądu na żywo lub odtwarzania filmów i obrazów na zewnętrznym 	monitorze za pośrednictwem portu typu C miniHDMI
+wbudowany system czyszczący matrycę
+oprogramowanie do zarządzania baterią
+
+Bateria litowo-jonowa LP-E6 w Canon EOS 5D Mark II ma pojemność 1800mAh. Każda bateria zawiera mikroprocesor z unikalnym identyfikatorem, dzięki któremu na wyświetlaczu aparatu pojawia się informacja o stanie baterii i stopniu jej naładowania.
+
+
+
+Linki zewnętrzne

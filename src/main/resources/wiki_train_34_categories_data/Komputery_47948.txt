@@ -1,0 +1,33 @@
+Grid.org – był to zbiór kilkunastu projektów internetowych, wykorzystujących zasadę obliczeń rozproszonych, które polegają na wykorzystywaniu mocy obliczeniowej komputerów wolontariuszy w celu wykonania obliczeń potrzebnych do rozwiązania rozmaitych problemów biomedycznych. Powstał w kwietniu 2001 roku pod nazwą United Devices. Projekt oficjalnie zakończył działalność 27 kwietnia 2007 roku.
+
+Grid.org był jednocześnie instytucją koordynującą te projekty. Działała ona wykorzystując infrastrukturę firmy United Devices. Większość projektów była nadzorowana przez Wydział Biochemii Uniwersytetu Oksfordzkiego oraz amerykański  National Foundation for Cancer Research.
+
+Uczestniczenie w projektach działających w ramach grid.org polega na ściągnięciu programu, tzw. klienta systemu grid.org, działającego w tle lub jako wygaszacz ekranu, zainstalowaniu go na własnym komputerze, podłączonym do internetu i obserwowaniu efektów jego działania. Programy te wykonują intensywne obliczenia, w czasie gdy komputer nie jest użytkowany, obrazując w efektowny sposób ich postęp na ekranie.
+
+Aby aktywnie uczestniczyć w projekcie nie jest konieczny stały dostęp do internetu. Po ściągnięciu porcji danych, zwykle około 800kb, program bada swoją próbkę. Po zakończeniu badania, co trwa zwykle od kilku do kilkudziesięciu godzin, klient oczekuje na pierwsze połączenie z internetem, w czasie którego wysyła swoje wyniki i pobiera kolejną próbkę do badań.
+
+Projekt zawiera wiele elementów integrujących społeczność wolontariuszy. Tak zwany Member Services, na które składa się panel użytkownika, panel drużyn, a w nich dokładne statystyki z poszczególnych komputerów przyłączonych do projektu, możliwość łączenia użytkowników w Zespoły, ranking użytkowników indywidualnych oraz Zespołów, rozbudowane angielskojęzyczne Forum.
+
+Przykładowy raport z Member Statistics:
+ Total CPU Time (y:d:h:m:s) (Rank)  – 11:237:03:13:08 (# 3,234)
+ Points Generated (Rank)            – 1,059,757 (#7,773)
+ Results Returned (Rank)            – 12,997 (#2,074)
+
+Dotychczasowe projekty
+Projekt Anthrax – którego celem było wyselekcjonowanie kilkuset tysięcy spośród ok. 3,7 miliarda związków chemicznych, mogących mieć potencjalne właściwości biobójcze w stosunku do złośliwych postaci wąglika. Projekt skończył się pełnym sukcesem już po 24 dniach od jego uruchomienia. Wyselekcjonowano ok. 500&nbsp;000 cząsteczek, które są obecnie bardziej szczegółowo analizowane.
+Projekt HMMER – wykorzystuje on moc obliczeniową komputerów wolontariuszy w celu wyszukiwania w ludzkim kodzie genetycznym sekwencji nukleotydów DNA, które są potencjalnymi "markerami" miejsc, w których zaczynają się uszkodzenia kodu powodujące choroby genetyczne. Projekt HMMER nie przyniósł jednak oczekiwanych rezultatów i został zarzucony.
+PatriotGrid – mocno kontrowersyjny projekt, który posługując się metodami użytymi do znalezienia leku na wąglika, stara się znaleźć antybiotyki działające na bakterie i wirusy, które mogą być potencjalnie użyte jako broń biologiczna. Osoby przystępujące do projektu nie są informowane na jakie konkretnie bakterie i wirusy będą za ich pomocą wyszukiwane leki, gdyż lista potencjalnych bakterii i wirusów, co do których sądzi się, że mogą być użyte jako broń biologiczna, jest tajna.
+Smallpox Research – poszukiwanie skutecznego leku na nowe mutacje Ospy prawdziwej (zwanej też czarną), które mogą pojawiać się zarówno naturalnie jak i na skutek badań nad bronią biologiczną. Obliczenia w ramach grid.org zakończyły się 11 marca 2004, ale projekt nie został jeszcze oficjalnie zamknięty.''
+Cancer Resarch – poszukiwanie skutecznych leków na rozmaite formy raka. W ramach projektu jest testowana skuteczność mechanizmu blokowania tworzenia białek charakterystycznych dla komórek rakowych, przez zbiór ok 4 miliardów związków chemicznych, po to aby wyselekcjonować najbardziej obiecujące. Aktualnie (grudzień 2003) projekt znajduje się pod koniec II fazy – wyboru ok 1 miliona potencjalnie najbardziej obiecujących związków.
+
+Zobacz też
+BOINC
+
+Linki zewnętrzne
+– strona informująca (stan z 28 sierpnia 2014) o zamknięciu projektu 27 kwietnia 2007 i krótko podsumowująca jego cel i osiągnięcia. 
+– strona zarchiwizowana 7 października 2013 w zasobach Internet Archive 
+
+
+
+
+

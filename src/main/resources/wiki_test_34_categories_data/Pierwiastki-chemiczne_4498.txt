@@ -1,0 +1,94 @@
+
+Pierwiastek chemiczny – podstawowe pojęcie chemiczne posiadające dwa znaczenia:
+zbiór wszystkich atomów posiadających jednakową liczbę protonów w jądrze
+taka substancja chemiczna, która składa się wyłącznie z atomów posiadających jednakową liczbę protonów w jądrze.
+
+Pierwotna definicja pierwiastka chemicznego podana przez Arystotelesa, głosząca, że jest to taka substancja, której nie da się rozłożyć na prostsze, nie jest już współcześnie stosowana.
+
+W odpowiednich warunkach atomy pierwiastków mogą łączyć się ze sobą, tworząc związki chemiczne. Niemal cała znana materia składa się z pierwiastków chemicznych w pierwszym znaczeniu, które występują albo w stanie wolnym albo w formie związków chemicznych i ich mieszanin. Pierwiastki w drugim znaczeniu tego słowa występują na Ziemi w formie czystej stosunkowo rzadko i poza nielicznymi przypadkami (takimi jak np. miedź rodzima) trzeba je celowo wyodrębniać z mieszanin.
+
+
+
+Liczba pierwiastków i ich nazewnictwo
+
+Pierwiastki we wzorach chemicznych oraz w układzie okresowym przedstawia się w formie jedno-trzyliterowych skrótów (jedno- i dwuliterowe to oficjalne, trzyliterowe - tymczasowe). Dla przykładu: C - to węgiel, H to wodór, Cl to chlor, Uut to ununtrium odkryty w 2004 roku. W skrótach tych pierwsza litera jest zawsze wielka, a pozostałe małe. Przestrzeganie tej zasady ma duże znaczenie w jednoznacznym interpretowaniu wzorów chemicznych. Np: Co to symbol kobaltu, CO zaś to wzór tlenku węgla, składającego się z atomu węgla (C) i tlenu (O). Skróty te pochodzą od łacińskich nazw pierwiastków.
+
+Na początku 2010 r. znane były dowody na istnienie 118 pierwiastków chemicznych, z których te o liczbie atomowej od 1 do 112 oraz 114 i 116 zostały uznane przez Międzynarodową Unię Chemii Czystej i Stosowanej (IUPAC) i nadano im oficjalne nazwy oraz symbole. Doniesienia o odkryciu pierwiastków o liczbach atomowych 113, 115, 117 i 118 muszą zostać jeszcze w pełni zweryfikowane przez niezależne ośrodki naukowe, dopiero wtedy zostaną one uznane przez IUPAC i uzyskają oficjalne nazwy. Polskie Towarzystwo Chemiczne ustaliło polskie nazwy pierwiastków uznanych przez IUPAC, do liczby atomowej 116 włącznie, natomiast nazwy pierwiastków o wyższych liczbach atomowych (powyżej 110) są nieoficjalnymi tłumaczeniami nazw łacińskich.
+
+Oprócz nazw pierwiastków uznanych oficjalnie przez IUPAC w obiegu są też nazwy nieoficjalne. Dotyczy to głównie pierwiastków otrzymanych sztucznie przy pomocy technik rozwiniętych przez fizykę jądrową. 
+
+94 pierwiastki występują naturalnie na Ziemi (niektóre, np. astat, jedynie przejściowo, w naturalnych reakcjach jądrowych). Pozostałe zostały otrzymane sztucznie. Pierwiastki o liczbie atomowej powyżej 82 (bizmut i dalsze) są niestabilne, tzn. ulegają rozpadowi promieniotwórczemu w zauważalnym eksperymentalnie tempie. Oprócz tego niestabilne są także pierwiastki 43 (technet) i 61 (promet), które zostały otrzymane sztucznie. Ponadto żaden z pierwiastków o liczbie atomowej powyżej 94 nie występuje naturalnie. Wszystkie pierwiastki posiadają także niestabilne izotopy, tj. atomy w których jądrach jest ta sama liczba protonów, ale inna neutronów. Niewiele spośród nich występuje w przyrodzie; należy do nich np. tryt, niestabilny izotop wodoru, z którego buduje się bomby wodorowe.
+
+Własności chemiczne pierwiastków i układ okresowy
+
+Prawo okresowości Mendelejewa głosiło, że własności chemiczne pierwiastków zmieniają się periodycznie, gdy ułoży się je w kolejności ich mas atomowych. Stało się to podstawą do stworzenia tabeli nazwanej układem okresowym. Później w toku badań nad pierwiastkami okazało się, że ich własności chemiczne wykazują okresowość nie tyle ze względu na masę atomową ile raczej na liczbę atomową. Na ogół masy atomowe pierwiastków rosną stopniowo ze wzrostem ich liczby atomowej, jednak ze względu na składy izotopowe w kilku przypadkach kolejność ta jest zaburzona.
+
+W układzie okresowym pierwiastki dzielą się na grupy i okresy. W najczęściej spotykanych postaciach układu grupy stanowią kolumny a okresy rzędy tabeli. Pierwiastki występujące w jednej grupie mają zazwyczaj podobne podstawowe własności chemiczne, które przechodząc od okresu do okresu ulegają tylko wzmocnieniu lub osłabieniu. Np: wszystkie oprócz wodoru pierwiastki występujące w 1. grupie układu są bardzo reaktywnymi metalami o własnościach zasadowych tworzącymi w reakcji z wodą odpowiednie wodorotlenki. Z kolei wszystkie pierwiastki z 17. grupy są niemetalami, tworzącymi w reakcji z wodą silne kwasy.
+
+Historia powstania
+
+Zgodnie z teoriami Wielkiego Wybuchu i modelem standardowym fizyki cząstek elementy struktury pierwszych atomów zaczęły powstawać w plazmie kwarkowo-gluonowej po jej ochłodzeniu do temperatury 3 K, gdy od Wielkiego Wybuchu minęło 10-5 sekundy. W historii „zwykłej materii” i tym samym pierwiastków wymienionych w układzie okresowym, wyróżnia się trzy podstawowe rodzaje procesów:
+powstawanie jąder najlżejszych pierwiastków, o liczbach atomowych Z ≤ 4, oraz ich atomów i cząsteczek w przestrzeni kosmicznej (powstawanie obłoków molekularnych),
+synteza jąder pierwiastków o liczbach atomowych 4 ≤ Z ≤ 26 (od Be do Fe) we wnętrzu gwiazd, które powstają z molekularnych obłoków gazowych, a w kolejnych etapach ewolucji Wszechświata – z obłoków gazowo-pyłowych,
+powstawanie pierwiastków cięższych od żelaza (26 .
+
+
+
+Największym dokonaniem Arystotelesa było jednak ścisłe zdefiniowanie pojęcia pierwiastka, które przetrwało do czasów współczesnych. Według niego:
+Pierwiastek to jedno z tych ciał, na które inne ciała mogą być rozłożone i które samo nie może być już dalej podzielone
+
+Alchemia
+Kolejny rozwój koncepcji pierwiastków miał miejsce dopiero około roku 790, gdy arabski alchemik Dżabir Ibn Hajjan (znany w Europie jako Geber), dodał do dawnej greckiej listy dwa nowe elementy, z których miały być zbudowane metale. Były to siarka (kamień, który się pali), mający odpowiadać za zdolność metali do stapiania się, oraz rtęć, która miała odpowiadać za ich połysk i kowalność. Warto zauważyć, że w odróżnieniu od pierwiastków greckich, pierwiastki Gebera są również pierwiastkami według współczesnej wiedzy. Nowość podejścia Gebera polegała też na tym, że do swoich wniosków doszedł on częściowo w drodze zaplanowanych eksperymentów, a nie w wyniku czystych spekulacji. Koncepcja Gebera była dalej rozwijana przez jego arabskich kontynuatorów, którzy dołożyli jeszcze kolejny pierwiastek: sól, która miała odpowiadać za twardość metali.
+
+W 1524 r. Paracelsus starał się połączyć koncepcję Arystotelesa i alchemików arabskich, twierdząc, że trzy z czterech żywiołów greckich odpowiadają trzem pierwiastkom Gebera, które znajdują się nie tylko w metalach, ale wszelkich ciałach stałych i cieczach. Rtęć miała być odpowiednikiem wody, siarka - ognia, a sól - ziemi. Powietrze miało być nieobecne w ciałach stałych i pełnić rolę obojętnego chemicznie ośrodka, w którym ciała stałe i ciecze się poruszają i mogą przekształcać jedne w drugie.
+
+W 1669 lekarz i alchemik niemiecki Johann Joachim Becher uogólnił teorię Paracelsusa, twierdząc, że wszystkie substancje składają się z: powietrza, wody i trzech rodzajów ziemi: terra fluida (odpowiednik rtęci) - który umożliwia ich topienie i parowanie, terra lapida (odpowiednik soli) - odpowiadający za to, że substancje stają się twarde i odporne mechanicznie, oraz terra pinguis (pierwiastek "tłustości", odpowiednik siarki), który odpowiada za "miękkość" i jednocześnie za zdolność do spalania. Np: według Bechera drewno składa się z terra lapida oraz z terra pinguis - na skutek czego jest ono twarde - ale nie tak jak metale i jest palne - ale po spaleniu zostaje się popiół, czyli właśnie terra lapida, zaś terra pinguis tworzy z powietrzem dym, który ulatuje w przestrzeń. Później koncepcja terra pinguis pokutowała aż do czasów Antoine Lavoisier'a jako teoria flogistonu.
+
+Rozwój współczesnej koncepcji pierwiastka
+Za twórcę współczesnej koncepcji pierwiastka można uznać Roberta Boyle'a, który powrócił do pierwotnej definicji Arystotelesa, ale jednocześnie przedstawił serię krzyżowych eksperymentów rozkładu kilkuset substancji, dowodzącą, że w przyrodzie musi być więcej niż 4 czy nawet 6 pierwiastków. Zaproponował też, aby przyjąć zasadę, że daną substancję uważa się za pierwiastek, tak długo aż komuś nie uda się jej rozłożyć na jeszcze prostsze substancje.
+
+Postępując zgodnie z programem Boyla, Antoine Lavoisier w 1789 r. obalił teorię flogistonu i jednocześnie sporządził listę 33 pierwiastków, z których później część okazała się faktycznie pierwiastkami chemicznymi, ale część była nieporozumieniem, np: na liście były światło i ciepło. Lista ta była stale uzupełniania i zmieniana przez kolejne pokolenia chemików. Do 1818 Jöns Jacob Berzelius ustalił masy molowe 45 z 49 substancji uznanych za pierwiastki. Duże zasługi w uporządkowaniu listy pierwiastków położył na przełomie XVIII i XIX wieku Humphry Davy, który konkurował i spierał się z Berzeliusem.
+
+W 1869 r. w pierwszym układzie okresowym pierwiastków Dmitrij Mendelejew zamieścił już 66 pierwiastków. Układ okresowy znacznie przyspieszył odkrywanie nowych pierwiastków i ułatwił ustalanie, czy postulowana substancja jest nim istotnie, gdyż musiały one pasować swoim własnościami chemicznymi i masą atomową do wolnych miejsc w układzie.
+
+W XIX wieku głównym źródłem odkryć nowych pierwiastków były badania geologiczne. Odkryto w tym czasie m.in. większość występujących naturalnie metali ziem rzadkich. Pod koniec XIX wieku William Ramsay odkrył istnienie gazów szlachetnych, występujących w śladowych ilościach w powietrzu i niektórych gazach geologicznych.
+
+Do początków XX wieku, pierwiastek nadal definiowano tak, jak to zaproponował Arystoteles i Boyle. Na podstawie tego, że w układzie okresowym nie było już prawie żadnych pustych miejsc uważano też, że zostały już odkryte prawie wszystkie pierwiastki. Odkrycie zjawiska rozpadu promieniotwórczego przez Marię Skłodowską Curie i jej męża w 1898 r. z jednej strony obaliło mit o tym, że atomy pierwiastków nie mogą się rozpadać na mniejsze jednostki, a z drugiej strony otworzyło to źródło odkryć kolejnych kilkudziesięciu pierwiastków chemicznych. 
+
+W 1913 r. Henry Moseley dowiódł, że okresowość własności chemicznych pierwiastków nie jest związana bezpośrednio z ich masą atomową lecz wynika raczej z ładunku elektrycznego ich jąder, który wynika z kolei z liczby protonów znajdujących się w tych jądrach. Po odkryciu w 1913 r. przez Fredericka Soddy'ego, że część rzekomych nowych pierwiastków to w istocie izotopy już istniejących, powstała konieczność zmiany definicji tych pierwszych. Współczesna definicja pierwiastka, przyjęta przez IUPAC po II wojnie światowej określająca go jako zbiór atomów o tej samej liczbie protonów w jądrze rozwiązuje kwestię problemów z izotopami i rozpadem promieniotwórczym.
+
+Najnowsze odkrycia
+
+W 1919 r. lista pierwiastków liczyła 89 pozycji. W 1937 r. została zapełniona ostatnia poważna luka w układzie okresowym między molibdenem i rutenem, z której istnienia zdawał sobie sprawę już Mendelejew. Udało się tego dokonać badaczom z Uniwersytetu w Palermo pod kierunkiem Emilio Segrè i przy współpracy z G. T. Seaborgiem. Technet był pierwszym pierwiastkiem wytworzonym przez człowieka z innych pierwiastków.
+
+Odkrycia nowych pierwiastków chemicznych w czasie i po II wojnie światowej związane były z rozwojem technik fizyki jądrowej, zwłaszcza z możliwością przeprowadzania reakcji jądrowych na skutek bombardowania jąder atomowych cząstkami rozpędzanymi w akceleratorach. Do początku 2010 r. otrzymano w ten sposób pierwiastki o liczbach atomowych od 93 do 118, które razem nazywane są transuranowcami.
+
+Badania te są bardzo kosztowne i prowadzone są głównie w trzech ośrodkach naukowych na świecie:
+Lawrence Berkeley National Laboratory - w Kalifornii w Stanach Zjednoczonych
+Zjednoczonym Instytucie Badań Jądrowych w Dubnej w Rosji
+Instytucie Badań Ciężkich Jonów w Wixhausen - na przedmieściach Darmstadt w Niemczech.
+
+Pierwszym w ten sposób odkrytym pierwiastkiem był neptun (1940, Edwin Mattison McMillan i Philip Abelson, Berkeley). Pierwiastek o liczbie atomowej 100 (ferm) został otrzymany w Berkeley przez zespół Alberta Ghiorso, zaś pierwiastek 101 (mendelew) otrzymał w 1955 r. zespół z Dubnej.
+
+Najcięższym odkrytym dotąd pierwiastkiem jest ununoctium (118). Miał być on rzekomo odkryty przez rosyjskiego fizyka Wiktora Ninowa w Berkeley w 1999 r., jednak po nieudanych próbach powtórzenia eksperymentu wyniki te zostały uznane za oszustwo. Pierwiastek ten udało się jednak ostatecznie otrzymać w Dubnej, co zostało ogłoszone 9 września 2006 r.
+
+24 kwietnia 2008 grupa kierowana przez Amnona Marinova z Uniwersytetu Hebrajskiego w Jerozolimie ogłosiła wykrycie kilku atomów unbibium-292 w naturalnie występujących złożach toru. Rzetelność tych badań została podważona przez inne zespoły badawcze, wyniki te nie doczekały się też ogłoszenia w recenzowanym czasopiśmie naukowym (Marinov ujawnił, że Nature i Nature Physics nie przyjęły artykułu do publikacji).
+
+Zobacz też
+
+
+
+Lista pierwiastków chemicznych
+Układ okresowy pierwiastków
+Historia odkryć pierwiastków chemicznych
+Historia pierwiastków chemicznych
+Związek chemiczny
+Związki chemiczne według pierwiastków
+Pierwiastki kryptomorficzne
+
+Przypisy
+
+
+
+
+

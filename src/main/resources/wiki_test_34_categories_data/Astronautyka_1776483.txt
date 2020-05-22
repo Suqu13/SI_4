@@ -1,0 +1,10 @@
+
+Układ multifeed to instalacja antenowa telewizji satelitarnej tzw. "zez", polega na zamontowaniu do jednej czaszy satelitarnej kilku konwerterów satelitarnych ustawionych obok siebie, takie rozwiązanie pozwala na odbiór przekazów radiowo-telewizyjnych z kilku satelitów ustawionych na różnych pozycjach geograficznych. Najpopularniejszym układem multifeed w Polsce jest ustawienie czaszy satelitarnej z głównym konwerterem znajdującym się w ognisku czaszy na satelitę HOT BIRD 13°E oraz instalacja z boku dodatkowego konwertera ustawionego na satelitę ASTRA 19,2°E.
+
+W układach multifeed sprawdzają się anteny o średnicach powyżej 80 cm. należy pamiętać, iż konwertery "boczne" zamocowane poza ogniskiem czaszy odbierają sygnał o słabszej mocy, wyjątek stanowią układy zbudowane w oparciu o czasze satelitarne wieloogniskowe skonstruowane specjalnie do tego typu zastosowań z oryginalnym mocowaniem na większą liczbę konwerterów.
+Przełączanie konwerterów odbywa się za pomocą przełącznika konwerterów, istnieją różne przełączniki konwerterów: manualne, przełączane pilotem, sterowane napięciem 12 V oraz obecnie najpopularniejsze sterowane sygnałem DiSEqC (sygnał taki wysyła tuner satelitarny automatycznie po wcześniejszym zaprogramowaniu).
+
+opis instalacji na zdjęciu obok: konwerter główny ustawiony na satelitę 4.8°E Sirius z jego lewej strony (patrząc od strony mocowania czaszy do masztu) znajduje się konwerter ustawiony na pozycję 4.0°W Amos, z prawej zaś usytuowane są kolejno konwertery ustawione na pozycje 13.0°E Hot Bird i 19.2°E Astra.
+
+
+

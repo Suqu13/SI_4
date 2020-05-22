@@ -1,0 +1,32 @@
+SAM Coupé (także SAM Élite) – 8-bitowy komputer domowy zaprojektowany przez angielską firmę Miles Gordon Technology, wypuszczony na rynek w grudniu 1989 r. Obsługiwał tryb emulacji ZX Spectrum.
+
+Komputer ten posiadał:
+procesor Zilog Z80 z zegarem 6 MHz
+nowy układ graficzny umożliwiający wyświetlanie grafiki w 4 trybach:
+tryb 1, kompatybilny wstecz z ZX Spectrum - 16 kolorów ze 127 w rozdzielczości 256x192 px, kolory zdefiniowane w polach 8x8 px
+tryb 2, znany z komputerów Timex Sinclair z kolorami zdefiniowanymi w polach 1x8 px
+tryb 3, wyświetlający w rozdzielczości 512x192 px w 4 kolorach
+tryb 4 - 256x192 px, 16 kolorów ze 127, kolor każdego piksela zdefiniowany osobno.
+programową obsługę tzw. "sprite"
+wbudowany układ dźwiękowy Philips SAA 1099 (6 kanałów, 8 oktaw stereo)
+wysokiej jakości klawiaturę
+32 kB pamięci ROM, 256 lub 512 kB RAM
+tryb częściowej zgodności z ZX Spectrum (ale nie 128 pomimo posiadania odpowiedniej ilości RAM) - wymagający skopiowania ROM z ZX Spectrum
+fabrycznie montowany napęd dyskietek 3.5"
+wejście audio (np. dla magnetofonu), wyjście audio DIN5 stereo, wejście/wyjście MIDI
+wejście na dżojstik
+obsługę programową dedykowanej myszy
+rozbudowany interpreter języka BASIC (SAM BASIC), będący zarazem systemem operacyjnym komputera.
+
+Nie zainteresowała się nim żadna duża firma produkująca oprogramowanie, programy, gry i dema tworzone były głównie przez entuzjastów i niewielkie firmy.
+
+
+Przypisy
+
+
+Linki zewnętrzne
+– emulator SAM Coupé na różne platformy
+
+
+
+

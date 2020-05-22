@@ -1,0 +1,32 @@
+Unbibium – hipotetyczny pierwiastek chemiczny o liczbie atomowej 122, niezsyntetyzowany do tej pory. Jego nazwa została utworzona z liczby atomowej, zgodnie z regułami nazewnictwa pierwiastków transuranowych, ustalonymi przez IUPAC.
+
+Historia
+Pierwszą próbę syntezy unbibium metodą gorącej fuzji podjął w 1972 r. Gieorgij Florow:
++  →  → bez wyniku
+
+W 1978 roku podjęto próbę syntezy w Instytucie Badań Ciężkich Jonów w Darmstadt, bombardując naturalną mieszaninę izotopów erbu izotopem 136 ksenonu:
+Er +  → Ubb* → bez wyniku
+
+Te wczesne próby były motywowane hipotezą występowania pierwiastków superciężkich w środowisku naturalnym.
+
+W roku 2000 w Instytucie Badań Ciężkich Jonów podjęto nową próbę syntezy:
++  →  → bez wyniku
+
+W 2003 roku rosyjscy uczeni z Instytutu w Dubnej przeprowadzili próby syntezy jąder złożonych, aby zbadać procesy rozszczepienia jąder pierwiastków superciężkich. Pośród badanych reakcji, do powstania jądra złożonego o Z=122 prowadziły reakcje 248Cm i 58Fe oraz 242Pu i 64Ni:
++  →  → rozszczepienie
++  →  → rozszczepienie
+
+Jądra te istniały przez ok. 10-18 sekundy. Stwierdzono, że rozszczepienie tych jąder ma charakter asymetryczny; w procesie tym, jako lżejszy produkt rozszczepienia najczęściej tworzone są jądra o liczbie protonów i neutronów podobnej do podwójnie magicznego jądra .
+
+Doniesienie o występowaniu naturalnym
+24 kwietnia 2008 grupa kierowana przez Amnona Marinova z Uniwersytetu Hebrajskiego w Jerozolimie ogłosiła wykrycie kilku atomów unbibium-292 w naturalnie występujących złożach toru. Zawartość pierwiastka określono na 10-12–10-11 zawartości toru. Autorzy uznali także, że czas połowicznego rozpadu tego izotopu jest rzędu 108 lat, co umożliwiło jego wykrycie. Wyniki te nie zostały opublikowane w recenzowanym czasopiśmie naukowym.
+
+Artykuł spotkał się z krytyką środowiska naukowego, podważającą poprawność przeprowadzenia eksperymentu. Prócz tego otrzymane wyniki odbiegają znacznie od dotychczasowej wiedzy na temat pierwiastków superciężkich; unbibium ma prawdopodobnie własności chemiczne istotnie różne od toru (ze względu na efekty relatywistyczne, zmieniające kolejność zapełniania orbitali elektronowych). Ponadto istnienie długożyciowego izotopu o tak małej liczbie neutronów, daleko od ścieżki stabilności, wydaje się nieprawdopodobne.
+
+Powtórzenie eksperymentów z próbką toru za pomocą innej metody, przy 100-krotnie wyższej czułości pomiaru, nie potwierdziło wyników grupy Marinova. Pierwiastek ten pozostaje nieodkryty.
+
+Przypisy
+
+
+
+

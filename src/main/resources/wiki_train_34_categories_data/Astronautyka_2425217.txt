@@ -1,0 +1,41 @@
+
+
+J-2X – silnik rakietowy budowany przez Pratt & Whitney Rocketdyne dla NASA z przeznaczeniem dla ciężkich rakiet nośnych SLS. Silnik J-2X wywodzi się z silnika J-2, który był używany w rakietach Saturn IB i Saturn V w ramach programu Apollo. 
+
+Historia
+Idea budowy silnika J-2X powstała w 2005 r. w ramach przygotowywania nowego budżetu NASA dla programu Constellation. W 2006 r. projekt został zaakceptowany i miał być ukończony do 2016 roku.
+
+Konstrukcja J-2X opiera się przede wszystkim na projekcie J-2S, będącego uproszczonym i udoskonalonym silnikiem J-2. Wcześniej, w latach 90. XX wieku na potrzeby projektu X-33 (Venture Star) również wykorzystano rozwiązania z silnika J-2S. Projektowany wówczas silnik powietrzno-stożkowy z serii J-2T nie doczekał się jednak praktycznego wykorzystania i po serii naziemnych testów program zawieszono. 
+
+Po analizie projektu J-2S NASA oraz podwykonawcy dokonali niezbędnych usprawnień zgodnych z nowymi normami. Skorzystano przede wszystkim z nowocześniejszych technologii i materiałów. W ten sposób ciąg silnika został zwiększony o 20%, a impuls właściwy o 3% względem pierwotnej wersji silnika. Natomiast masa konstrukcji wzrosła o 77%.
+
+J-2X powstał z myślą o napędzaniu drugiego stopnia rakiety Ares I oraz drugiego stopnia Earth Departure Stage (EDS) rakiety Ares V. EDS jest podobny do stopnia S-IVB rakiety Saturn V i miał działać na podobnej zasadzie: po odcięciu pierwszego stopnia Aresa V silnik J-2X skierowałby EDS na niską orbitę okołoziemską, a stamtąd, po kolejnym odpaleniu J-2X w stronę orbity księżycowej.
+
+Ze względu na ryzyko redukcji środków przeznaczonych na silnik J-2X zdecydowano, że najpierw opracowany zostanie silnik J-2X o nieco mniejszym ciągu 1220 kN niż jest projektowany. Jeśli sprawdziłby się jako układ napędowy drugiego członu rakiety Ares I w trakcie operacji na LEO, wówczas przystąpiono by do budowy silnika J-2XD o docelowym ciągu 1310 kN.
+
+Budowa
+Silnik J-2X czerpie wiele od swoich poprzedników. Wykorzystywane są w nim turbopompy z serii Mark 29 używane w J-2S i udoskonalone na potrzeby projektu X-33. Gaz z wylotu turbiny kierowany jest do dyszy silnika, przez co zwiększany jest ciąg i chłodzone są ściany wydłużonej dyszy. Główny wtryskiwacz został przeprojektowany, ale elementy współosiowe pozostały takie same jak w J-2. Komora spalania ma miedzianą powłokę z wyfrezowanymi kanałami oraz specjalną warstwą wzmocnioną pod ciśnieniem przy użyciu metod opracowanych dla RS-68. Dwuczęściowa dysza wylotowa została pozyskana z projektu Volvo Aero (takie dysze opracowano na potrzeby silników Vulcain 2 w rakietach Ariane 5). Jej współczynnik rozszerzalności plasuje się na poziomie 40:1, podobnie jak w J-2S. Współczynnik przedłużenia dyszy wynosi 80:1, co wpływa na wysoki impuls właściwy silnika. Układ zapłonowy składa się z zapłonu iskrowego zastosowanego w J-2S, ale udoskonalenia pochodzą z głównego silnika wahadłowców SSME (Space Shuttle Main Engine). J-2X wykorzystuje projekty zaworów jak w J-2, dopracowane przez NASA w 2006 r. Część siłowników pozostała, ale większość została wymieniona ze względu na błędy tolerancji. Do J-2X wprowadzono nowy cyfrowy kontroler pracy silnika, który będzie wykrywał błędy tolerancji elementów, awarie oraz części wymagające naprawy. System używa sterowania w pętli otwartej, by zapewnić jak najprostszą budowę.
+
+Nawet z tymi modyfikacjami silnik J-2X jest w założeniu znacznie tańszy i związany z mniejszym ryzykiem niż koncept modyfikacji głównego silnika promów kosmicznych (SSME) do restartu w trakcie lotu, dlatego zrezygnowano ze zmodyfikowanych SSME na rzecz J-2X. Z ramienia NASA powstało biuro J-2X Upper Stage Engine Element Office, zajmujące się tworzeniem silnika. W 2006 zatwierdzono wstępny kosztorys, rozpoczęły się także pierwsze testy.
+
+Jednak w październiku 2010 r. prezydent Barack Obama zawiesił program Constellation, zatem koncepcja silnika J-2X straciła rację bytu. Projektanci i inżynierowie nie zawiesili programu i testy są kontynuowane z myślą o wykorzystaniu J-2X jako układu napędowego wyższych członów nowych ciężkich rakiet nośnych NASA. Według obecnych planów silnik J-2X znajdzie zastosowanie w projektowanej ciężkiej rakiecie nośnej SLS.
+
+Parametry techniczne
+Podstawowe parametry silnika J-2X w porównaniu z poprzednimi silnikami z serii J-2 są następujące:
+
+
+
+Testy
+W 2010 r. w Centrum Lotów Kosmicznych imienia George'a C. Marshalla przeprowadzano serię testów generatora gazu zasilającego układy turbopompowe silnika J-2X. Wiosną 2011 badano żywotność i trwałość dyszy turbopompy paliwowej, przez którą gaz przedostaje się na ostrza turbiny. W lipcu 2011 r. rozpoczęły się pierwsze ogniowe (zapłonowe) testy silnika J-2X. Przeprowadzono je w Stennis Space Center na platformie testowej A-2.
+
+Przez najbliższe lata będą odbywały się kolejne testy, w tym przede wszystkim ogniowe (zapłonowe) na platformie testowej A-2 w Stennis Space Center, a następnie, po wybudowaniu specjalnie dla J-2X platformy A-3, silnik przejdzie badania w warunkach próżniowych.
+
+Silnik J-2X byłby doskonałym napędem dla jednostek udających się z orbity okołoziemskiej w głęboką przestrzeń kosmiczną, czyli np. na Księżyc lub Marsa, dlatego jego budowa ściśle wiąże się z przyszłością załogowych lotów kosmicznych NASA.
+
+Zobacz też
+J-2 (silnik rakietowy)
+Space Launch System
+
+Bibliografia
+[dostęp 2013-01-26]
+[dostęp 2013-01-26]

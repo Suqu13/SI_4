@@ -1,0 +1,130 @@
+
+Światło – pojęcie to ma inne znaczenie potoczne i w nauce.
+
+Potocznie nazywa się tak widzialną część promieniowania elektromagnetycznego, czyli promieniowanie widzialne odbierane przez siatkówkę oka ludzkiego np. w określeniu światłocień. Precyzyjne ustalenie zakresu długości fal elektromagnetycznych nie jest tutaj możliwe, gdyż wzrok każdego człowieka charakteryzuje się nieco inną wrażliwością, stąd za wartości graniczne przyjmuje się maksymalnie 380-780&nbsp;nm, choć często podaje się mniejsze zakresy (szczególnie od strony fal najdłuższych) aż do zakresu 400-700&nbsp;nm.
+
+(używa się pojęcia promieniowanie optyczne), gdyż nie tylko promieniowanie widzialne, ale i sąsiednie zakresy, czyli ultrafiolet i podczerwień można obserwować i mierzyć korzystając z podobnego zestawu przyrządów, a wyniki tych badań można opracowywać korzystając z tych samych praw fizyki.
+
+Przykłady wskazujące, że światłem należy nazywać szerszy zakres promieniowania, niż tylko promieniowanie widzialne:
+
+wiele substancji barwiących płowieje nie tylko od kontaktu ze światłem widzialnym, ale i bliskim ultrafioletem pochodzącym ze Słońca;
+rozszczepiając, za pomocą pryzmatu, światło emitowane przez rozgrzane ciała, można zaobserwować wzrost temperatury przesuwając termometr wzdłuż uzyskanych barw widmowych, wzrost ten jest mierzalny także dalej, w niewidocznej części widma, która jest również załamywana przez ten pryzmat;
+wiele zwierząt ma zakresy widzenia światła wykraczające poza zakres widzenia ludzkiego oka.
+
+
+
+W naukach ścisłych używa się określenia promieniowanie optyczne, tj. promieniowania podlegającego prawom optyki geometrycznej oraz falowej. Przyjmuje się, że promieniowanie optyczne obejmuje zakres fal elektromagnetycznych o długości od 10&nbsp;nm do 1&nbsp;mm, podzielony na trzy zakresy – podczerwień, światło widzialne oraz ultrafiolet.
+
+Nauka zajmująca się badaniem światła to optyka. Współczesna optyka, zgodnie z dualizmem korpuskularno-falowym, postrzega światło jednocześnie jako falę elektromagnetyczną oraz jako strumień cząstek nazywanych fotonami.
+
+Światło porusza się w próżni zawsze z taką samą prędkością zwaną prędkością światła. Jej wartość oznaczana jako c jest jedną z podstawowych stałych fizycznych i wynosi 299&nbsp;792&nbsp;458&nbsp;m/s. Prędkość światła w innych ośrodkach jest mniejsza i zależy od współczynnika załamania danego ośrodka.
+
+Ważne zjawiska fizyczne dotyczące światła
+dyfrakcja
+fluorescencja
+fosforescencja
+interferencja
+luminescencja
+odbicie
+polaryzacja fali
+prostoliniowość rozchodzenia się fal
+rozpraszanie światła
+rozszczepienie
+sonoluminescencja
+widzenie stereoskopowe
+załamanie
+zjawisko fotoelektryczne wewnętrzne i zewnętrzne (fotoemisja)
+
+Zjawiska i obiekty wytwarzające światło
+rozgrzane ciała – widmo ciała doskonale czarnego
+ruch z przyspieszeniem (zwiększanie prędkości, zmniejszanie prędkości lub zmiana kierunku ruchu) cząstek posiadających ładunek elektryczny pod wpływem zderzenia, działania silnego pola magnetycznego lub elektrycznego, np. promieniowanie synchrotronowe w synchrotronie
+cząstki poruszające się w substancji z prędkością nadświetlną (większą niż prędkość światła w tej substancji) wytwarzają promieniowanie Czerenkowa
+elektrony zmieniające poziom energetyczny w atomie – linie widmowe
+
+Źródła światła
+
+termiczne – świecące w wyniku rozgrzania ciała:
+gwiazda
+lampa halogenowa zwana halogenem
+lampa łukowa
+płomień
+żarówka
+promieniowanie synchrotronowe:
+synchrotron
+emisja z elektronów w atomie lub ciele stałym:
+dioda elektroluminescencyjna
+lampa fluorescencyjna
+lampa kwarcowa
+lampa rtęciowa
+laser
+maser
+
+Detektory światła
+Większość detektorów opiera się na zjawisku fotoelektrycznym lub efekcie cieplnym:
+fotodioda
+fotokomórka
+fotopowielacz
+fototranzystor
+matryca CCD
+luksomierz
+Bolometr
+
+Inne przyrządy optyczne
+aparat fotograficzny
+filtr (optyka)
+interferometr
+kamera
+kineskop
+kostka światłodzieląca
+luneta
+lupa
+mikroskop optyczny
+monochromator
+noktowizor
+obiektyw
+oko
+okular
+okulary wirtualnej rzeczywistości
+okulary korekcyjne
+projektor
+pryzmat
+przesłona
+siatka dyfrakcyjna
+soczewka
+spektroskop
+szczelina dyfrakcyjna
+światłowód
+teleskop optyczny
+zwierciadło optyczne (lustro)
+
+Pomiary światła
+światłość (jednostka SI: kandela)
+
+Niektóre rodzaje światła
+światło białe
+światło monochromatyczne
+światło spójne
+
+Ciekawostki
+Według przekonań fizyków przełomu XVIII i XIX wieku, podobnie jak ciepło, światło miało być fluidem. W 1789 Lavoisier umieścił je w tablicy pierwiastków. Jędrzej Śniadecki przetłumaczył to pojęcie jako świetlik.
+
+Zobacz też
+
+
+barwa
+ogniwo fotowoltaiczne
+fotochemia
+scyntylator
+stroboskop
+światło widzialne
+światło w religii i kulturze
+materiał światłoczuły
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+Podatkowa grupa kapitałowa jest instytucją prawa podatkowego, tworzoną na podstawie ustawy o podatku dochodowym od osób prawnych.
+
+Podatkowa grupa kapitałowa powstaje w wyniku podpisania umowy przez co najmniej dwie spółki kapitałowe (tj. spółek z ograniczoną odpowiedzialnością lub spółek akcyjnych) mające osobowość prawną, które pozostają w związkach kapitałowych. Pozostałe kryteria, które muszą zostać spełnione przez grupę spółek kwalifikujących się do podatkowej grupy kapitałowej obejmują m.in.:
+
+jedna ze spółek w grupie, tzw. spółka dominująca, musi posiadać bezpośredni 95% udział w kapitale zakładowym pozostałych spółek (tzw. spółek zależnych);
+przeciętny kapitał zakładowy przypadający na każdą ze spółek jest nie niższy niż 1 000 000 zł;
+umowa utworzenia podatkowej grupy kapitałowej musi być zawarta w formie aktu notarialnego na okres co najmniej 3 lat podatkowych (umowa ta musi zostać zarejestrowana przez naczelnika urzędu skarbowego);
+podatkowa grupa kapitałowa osiągnie za każdy rok podatkowy udział dochodów w przychodach w wysokości co najmniej 3%.
+
+Jedna ze spółek należących do podatkowej grupy kapitałowej (spółka wyznaczona przez grupę) jest odpowiedzialna za obliczenie podatku dochodowego podatkowej grupy kapitałowej, obliczenie wysokości zaliczek, pobieranie i wpłacenie podatku do właściwego urzędu skarbowego.
+Po rejestracji umowy podatkowej grupy kapitałowej przez naczelnika urzędu skarbowego, umowa nie może zostać rozszerzona na inne spółki.
+
+Spółki tworzące podatkową grupę kapitałową odpowiadają solidarnie za jej zobowiązania z tytułu podatku dochodowego należnego za okres obowiązywania umowy. Transakcje odbywające się pomiędzy spółkami wchodzącymi w skład podatkowej grupy kapitałowej nie podlegają regulacjom z zakresu cen transferowych.
+
+Bibliografia
+''"Ustawa o podatku dochodowym od osób prawnych z dnia 15 lutego 1992 r."'' – Dz. U. Nr 21, poz. 86; Art. 1a.
+
+

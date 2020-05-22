@@ -1,0 +1,5 @@
+Potok graficzny – droga przepływu danych między interfejsem karty graficznej a buforem ramki zawierającym gotową klatkę animacji 3D. Proces tworzenia kolejnych ramek przebiega sekwencyjnie, przybierając postać animacji komputerowej, gdzie płynność ruchu zostaje zapewniona przez wyświetlanie 25 klatek na sekundę. W grach komputerowych płynność ruchu uzyskiwana jest dopiero przy 60 klatkach na sekundę, co znacznie podnosi poprzeczkę dla akceleratorów 3D.
+
+
+
+

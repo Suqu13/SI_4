@@ -1,0 +1,78 @@
+Su-15''' (ros. Су-15''', w kodzie NATO Flagon) - radziecki, dwusilnikowy myśliwiec przechwytujący zaprojektowany w biurze Suchoja. Używany przez lotnictwo ZSRR. Ogółem zbudowano ich ok. 1300. Nazwę Su-15 nosił także wcześniejszy prototyp myśliwca z 1949.
+
+Historia rozwoju
+Projekt T-58
+Konstrukcja Su-15 rozpoczęła się jako dalsze rozwinięcie myśliwca T-47 (Su-11), wywodzącego się z projektu T-3 (Su-9). Dla zwiększenia możliwości przechwytywania celów, zdecydowano zastosować nową stację radiolokacyjną, o większej średnicy anteny. Ponieważ antena nie mieściła się już w regulowanym stożku centralnego wlotu powietrza, wymusiło to umieszczenie stacji w nieruchomym nosie kadłuba i zastosowanie dwóch wlotów powietrza po bokach kadłuba. Od środkowej części kadłuba, konstrukcja miała odpowiadać Su-11, także napęd miał stanowić jeden silnik Liulki AŁ-7F-2. Prace prowadzono od 1960 pod oznaczeniem projektu T-58''', pojawiło się już także wtedy oznaczenie Su-15'''. Samolot jednak w takiej postaci nie został zbudowany, gdyż w 1961 i 1962 roku ujawniły się poważne problemy z eksploatacją nowych myśliwców Su-9, prowadzące do wielu katastrof, głównie z powodu awarii nie dopracowanych silników AŁ-7F-1. W efekcie władze zdecydowały ograniczyć produkcję następcy Su-9 - Su-11, a także skłaniały się ku wyposażeniu jednostek w bezpieczniejsze samoloty dwusilnikowe. Samolot tego rodzaju – Jak-28P, opracowany przez Jakowlewa, zastąpił w produkcji Su-11. 
+
+T-58D - Su-15
+W tej sytuacji, Suchoj zdecydował przeprojektować T-58 na samolot dwusilnikowy, napędzany dwoma słabszymi, lecz sprawdzonymi silnikami Tumanskiego R-11F-300. Korzystał w tym celu z doświadczeń eksperymentalnego myśliwca T-5 (dwusilnikowej wersji T-3, oblatanej 18 lipca 1958). Nowy wariant oznaczono T-58D. Silniki umieszczono obok siebie w poszerzonej tylnej części kadłuba, który przybrał kształty zgodne z regułą pól (aczkolwiek z niewielkim przewężeniem). Początkowo prace prowadzono bez oficjalnego zamówienia, w końcu w lutym 1962 władze zamówiły rozwój samolotu jako modernizacji Su-11, początkowo pod oznaczeniem Su-11M.
+
+Pierwszy nieuzbrojony prototyp (T-58D-1) oblatano 30 maja 1962 (pilot Władimir Iliuszyn). Dopiero we wrześniu 1962 wybrano dla samolotu radar Smiercz-AS i pociski kierowane K-8M2. Jednakże, ponieważ ten system uzbrojenia był dopiero w toku rozwoju, Rada Ministrów zgodziła się na zastosowanie w samolocie radaru Orieł-D i pocisków K-8M1, będących zmodyfikowanym systemem uzbrojenia Su-11. W kwietniu 1963 zbudowano drugi prototyp T-58D-2, wyposażony w ten system uzbrojenia, a potem trzeci T-58D-3. 
+
+
+Od sierpnia 1963 do czerwca 1964 prowadzono badania państwowe prototypów, które przechodziły bez większych problemów. Po próbach, system został 30 kwietnia 1965 oficjalnie przyjęty na uzbrojenie, przy czym samolot otrzymał oficjalne oznaczenie Su-15''', stacja radiolokacyjna Orieł-D - RP-15, pociski K-8M1 - R-98, a cały kompleks przechwytujący (samolot, radar i pociski) Su-15-98. 
+Produkcję Su-15 rozpoczęto w zakładzie nr 153 w Nowosybirsku w 1966, w miejsce Jak-28P (a wcześniej Su-11). Samoloty Su-15 pierwszego modelu produkowano do 1971.
+
+W toku produkcji wprowadzano modernizacje – przede wszystkim od 11. serii w 1969 skrzydła delta otrzymały wydłużone końcówki, polepszające stateczność oraz klapy z nadmuchem, polepszające charakterystyki lądowania. Zaczęto stosować też mocniejsze silniki R-13-300. Stacja radiolokacyjna była na już wyprodukowanych maszynach modernizowana do standardu RP-15M (Orieł-D58M), o większej odporności na zakłócenia. W latach 70. samoloty dostosowywano do przenoszenia dwóch podwieszanych kontenerów UPK-23-250 z działkiem 23&nbsp;mm GSz-23Ł, a w latach 80. do przenoszenia pocisków bliskiego zasięgu samonaprowadzających się na podczerwień R-60.
+
+Su-15T i TM
+Dla zwiększenia możliwości bojowych Su-15, podjęto prace nad nowymi wersjami, wyposażonymi w stację radiolokacyjną Tajfun (rozwinięcie Smiercz) oraz system automatycznego pilotażu SAU-58, pozwalający na optymalne wyjście na wysokość i kierunek celu według komend ze stanowiska dowodzenia oraz na automatyzację lotu na małej wysokości. Pierwszym wariantem był przejściowy Su-15T, którego prototyp zbudowano w 1969. Miał on pociski R-98 i mocniejsze silniki R-13-300, z powiększonymi wlotami powietrza. Ponieważ prace nad nim przeciągnęły się na skutek problemów z radarem, ostatecznie zbudowano w 1970 tylko 20 samolotów. 
+
+
+Równolegle opracowany był docelowy wariant ulepszony Su-15TM, ze stacją radiolokacyjną RP-26 Tajfun-M i ulepszonymi pociskami rakietowymi R-98M. Jego prototyp oblatano 7 kwietnia 1970 i po próbach skierowano do produkcji, trwającej w latach 1971-1975. Oficjalnie został przyjęty do uzbrojenia w składzie kompleksu przechwytującego Su-15-98M dopiero 21 stycznia 1975. Od 8. serii produkcyjnej wprowadzono nową osłonę stacji radiolokacyjnej, o bardziej zaokrąglonych liniach, w celu poprawy warunków pracy stacji, montowaną później także na wcześniejszych maszynach. Awionikę samolotu następnie ulepszano, w szczególności począwszy od 1978 modernizowano radary, po zapoznaniu się zachodnich ekspertów z myśliwcem MiG-25P wyposażonym w pokrewną stację radiolokacyjną Smiercz-A (na skutek ucieczki W. Bielenki do Japonii). W toku produkcji wprowadzono też możliwość podwieszania uzbrojenia bombowego na zamkach uniwersalnych. Od 1979 samoloty przystosowano do przenoszenia pocisków bliskiego zasięgu R-60. 
+
+Od 1972 prowadzono próby wariantu Su-15bis z nowymi silnikami R-25-300, lecz mimo nieco lepszych osiągów, nie wszedł on do produkcji, m.in. z powodu niewystarczającej produkcji silników, przeznaczonych w pierwszym rzędzie dla MiG-21bis. 
+
+Wersje szkolne
+Wprowadzenie nowego masowo produkowanego samolotu wymagało powstania jego wersji szkolno-treningowej, aczkolwiek wersja taka nie zdążyła powstać przed wprowadzeniem Su-15 do jednostek. Pierwszą wersją był Su-15UT, oparty na konstrukcji Su-15 (oznaczenie fabryczne U-58T). Dodano w nim drugą kabinę dla instruktora, za kabiną pilota, z osobną osłoną i przedłużono o 45&nbsp;cm kadłub. Zainstalowano na nim tylko podstawowy komplet wyposażenia nawigacyjnego, bez systemu uzbrojenia ani radaru. Masa samolotu wzrosła do 10.660&nbsp;kg, a zmniejszeniu uległ zapas paliwa, co spowodowało zmniejszenie zasięgu i pułapu. Pierwszy prototyp tej wersji oblatano 26 sierpnia 1968. Samoloty Su-15UT produkowano od 1969 do 1972.
+
+Jednocześnie, próbowano skonstruować dwumiejscową wersję szkolno-bojową Su-15UB, wyposażoną w system uzbrojenia i radar Tajfun (oznaczenie fabryczne U-58B). Prototyp oblatano w 1970, lecz na skutek przesunięcia środka ciężkości do przodu, samolot okazał się nieudany i dalsze prace przerwano.
+
+Po wejściu do służby Su-15TM opracowano na jego bazie nową wersję szkolną Su-15UM (oznaczenie fabryczne U-58TM). Kabinę instruktora umieszczono w niej bez przedłużania kadłuba. Wersja ta była również pozbawiona radaru i pocisków naprowadzanych półaktywnie R-98M, lecz można było na niej stosować pociski samonaprowadzane termicznie R-98T i R-60 oraz dwa podwieszane kontenery z działkiem UPK-23-250. W 1976 zbudowano pierwszy samolot, po czym produkowano je do 1980 (ostatni został przekazany użytkownikowi w 1982).  
+
+Użycie
+Pierwsze Su-15 trafiły do jednostek w 1967, w tym też roku zaprezentowano je na paradzie lotniczej w Domodiedowie. Su-15T i TM weszły do służby od 1972, z czego Su-15T tylko do jednostek szkolnych, natomiast Su-15TM stał się standardowym radzieckim myśliwcem przechwytującym. W połowie lat 70. wersje Su-15 stanowiły uzbrojenie 29 pułków myśliwskich - powyżej 1/3 jednostek obrony powietrznej. 
+
+Po rozpadzie ZSRR w 1991, Su-15 używane były jeszcze do 1993 w Rosji i do 1996 na Ukrainie. Ostatnią jednostką był 
+pułk lotnictwa w Belbek na Krymie. 
+
+
+Samoloty Su-15 dokonywały wielu przechwyceń samolotów naruszających przestrzeń powietrzną ZSRR, także pasażerskich lub transportowych. Po raz pierwszy, w nocy 11/12 września 1970 Su-15 zmusił do lądowania grecki Douglas DC-3. 20 kwietnia 1978 nad Karelią Su-15TM na rozkaz dowództwa wystrzelił rakietę w stronę południowokoreańskiego, nie podporządkowującego się komendom samolotu pasażerskiego Boeing 707 HL7429 lecącego z Paryża do Anchorage - uszkodzony samolot został zmuszony do lądowania na zamarzniętym jeziorze Korpijärvi, podczas którego zginęły dwie osoby ze 109 znajdujących się na pokładzie. Najbardziej znanym i tragicznym epizodem związanym z Su-15 było zestrzelenie koreańskiego samolotu pasażerskiego Boeing 747 KAL007 1 września 1983, naruszającego granicę nad Kamczatką i Sachalinem, w rezultacie czego zginęło 269 osób (według wersji radzieckiej, był on wzięty za samolot rozpoznawczy). 18 lipca 1981 Su-15 staranował irański samolot transportowy CL-44 (pilot katapultował się). 
+
+Su-15 miał dobre charakterystyki lotne, a jego poziom awaryjności nie przekraczał przeciętnego. W przeciwieństwie do poprzedników, mógł także przechwytywać cele powietrzne z przedniej półsfery.
+
+Su-15TM jako pierwszy radziecki samolot miał pewne możliwości przechwytywania celów nisko lecących (500 m), lecz sam musiał lecieć poniżej, w czym pomagał automatyczny system pilotażu SAU-58 z radiowysokościomierzem, który jednak był efektywny tylko nad płaskim terenem.
+
+Wersje
+
+Su-15''' - podstawowa wersja bojowa, początkowo wyposażona w skrzydła delta o skosie +53°, od 1969 (seria 11) z większą rozpiętością skrzydeł i mniejszym skosem końcówek, a od 1973 ze zmienionymi zamkami podskrzydłowymi.
+T-58WD - samolot eksperymentalny krótkiego startu i lądowania (STOL). Przebudowany prototyp T-58D-1''' wyposażony w trzy dodatkowe, ustawione pionowo silniki odrzutowe RD36-35, które skracały długość rozbiegu i dobiegu z 1170/1000 m do 500/560 m. Oblatany 6 czerwca 1966, nie produkowany seryjnie.
+Su-15UT - dwumiejscowa wersja treningowa, o wydłużonym kadłubie, zmniejszonym zbiorniku paliwa i pozbawiona radaru.
+U-58B - prototyp samolotu szkolno-bojowego, różniący się od Su-15UT radarem, prace nad nim przerwano ze względu na niewyważenie konstrukcji.
+Su-15-30''' - projekt z lat 1966-1967 o zmienionym radarze i silnikach, nie wszedł do produkcji.
+Su-15Sz - propozycja samolotu szturmowego z lat 1969-1970. Przegrała w konkurencji z MiGiem-27.
+Su-15T - wersja z nowym radarem i silnikami R-13-300. Unowocześniono również awionikę, budowane w latach 1970-1971 w małej serii.
+Su-15U - niemal identyczny z Su-15T, różniący się radarem. Nie wszedł do produkcji.
+Su-15TM - seryjna wersja początkowo identyczna z Su-15T, w której usunięto wady radaru. W późniejszym okresie zmieniono radar na inny typ, zmieniając również część nosową kadłuba, a także zamki podskrzydłowe i awionikę.
+Su-15UM - szkolna, dwumiejscowa wersja Su-15TM pozbawiona radaru i o uboższej awionice.
+Su-15bis - samolot Su-15TM z silnikami zmienionymi na R-25-300 (ciąg 69,6 / 97,1&nbsp;kN). Nie wszedł do produkcji.
+
+
+
+Opis konstrukcji
+Samolot o konstrukcji półskorupowej, całkowicie metalowej, wykonanej z duraluminium. Jednomiejscowy średniopłat, w układzie klasycznym płatowca. Skrzydła w układzie delta w części wewnętrznej o skosie +53°, a w części zewnętrznej +37°. Usterzenie klasyczne, skośne, stery wysokości płytowe. Prostokątne wloty powietrza po bokach kadłuba. Kabina hermetyzowana z fotelem katapultowym KS-4, zakryta oszkloną osłoną, składającą się ze stałego wiatrochronu z płaską przednią szybą pancerną i otwieranej wypukłej osłony nad pilotem. Dwa silniki odrzutowe obok siebie w środkowej i tylnej części kadłuba.  W ogonowej części kadłuba hamulce aerodynamiczne w formie 4 odchylanych klap. Podwozie samolotu trójkołowe, przednie z podwójnymi kołami, chowane do kadłuba w kierunku do przodu, główne z pojedynczymi kołami chowane do skrzydeł w kierunku kadłuba. W ogonowej części u nasady usterzenia spadochron hamujący. Pod kadłubem można podwiesić dwa dodatkowe zbiorniki paliwa - łączna pojemność systemu paliwowego: 8600 l.
+
+Napęd: 2 silniki turboodrzutowe typów R-11F2S-300 (ciąg 2x60,8 kN / 6200&nbsp;kg), R-11F2SU-300 lub R-13F-300 (ciąg 2x65,7&nbsp;kN / 6700&nbsp;kg). 
+
+Uzbrojenie:''' stałego brak, 2 belki pod skrzydłami do podwieszenia pocisków rakietowych powietrze-powietrze samonaprowadzanych półaktywnie radiolokacyjnie R-98 lub termicznie R-98T (R-98M / R-98MT w Su-15TM). Od lat 80. dodano 2 belki dla podwieszania  pocisków bliskiego zasięgu samonaprowadzających się na podczerwień R-60. Pod kadłubem zamiast zbiorników paliwa samolot mógł przenosić dwa kontenery UPK-23-250 z działkiem 23&nbsp;mm GSz-23Ł (250 nabojów). Na Su-15TM i T istniała możliwość przenoszenia zamiast rakiet 2 bomb 250&nbsp;kg (lub 500&nbsp;kg?) lub 2 wyrzutni UB-16-57 po 16 niekierowanych pocisków rakietowych S-5 lub 2 niekierowanych pocisków rakietowych S-24. Udźwig uzbrojenia: 1500&nbsp;kg.
+
+Bibliografia
+,  w serwisie Ugołok Nieba 
+na stronie oficjalnej Sukhoi 
+
+
+
+
+
+
+

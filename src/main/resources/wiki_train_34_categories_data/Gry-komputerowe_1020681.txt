@@ -1,0 +1,7 @@
+Chinook – program komputerowy do grania w warcaby angielskie. Pierwsza wersja programu powstała w roku 1989 na Uniwersytecie Alberty. Twórcą programu jest Jonathan Schaeffer. Pozostałymi programistami są Rob Lake, Paul Lu, Martin Bryant oraz Norman Treloar. W 2007 roku zostało ogłoszone, że program osiągnął stopień, w którym niemożliwe jest wygranie z nim partii (pewne jest zwycięstwo programu lub remis).
+
+19 lipca 2007 w magazynie Science kierowany przez Shaeffera zespół opublikował artykuł, w którym poinformował, że baza danych Chinook zawiera pełną informację o wszystkich 500 trylionach (5x1020) możliwości ustawień w warcabach angielskich, w jakich mogą znaleźć się piony na planszy. Twórcy programu udowodnili, że w przypadku, gdy żaden z graczy nie popełni błędu, partia warcabów angielskich  musi skończyć się remisem.
+
+
+
+Linki zewnętrzne

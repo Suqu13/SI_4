@@ -1,0 +1,39 @@
+
+T-55AM "Merida"''' – zmodernizowana wersja czołgu T-55A   
+Historia konstrukcji
+Konieczność modernizacji czołgów T-55 do wersji AM wynikała z decyzji Komitetu Technicznego Układu Warszawskiego podjętej w 1980 r. Prace koncepcyjne nad modernizacją czołgu podjął Wojskowy Instytut Techniki Pancernej i Samochodowej w Sulejówku pod Warszawą. W skład urządzeń modernizacyjnych, oprócz rozwiązań licencyjnych weszły opracowania krajowe. Zastosowano w nim system kierowania ogniem - SKO "Merida" opracowany w Wojskowej Akademii Technicznej w Warszawie. Ponadto zastosowano szereg innych modyfikacji, w tym:  wykrywacz promieniowania laserowego (również opracowany w WAT), wyrzutnie pocisków dymnych oraz mniejsze modyfikacje. Pojazd prototypowy oraz partię próbną zbudowano w 1985 r. Po przejściu badań technicznych rozpoczęto seryjną modernizację czołgów wykorzystując najmniej wyeksploatowane czołgi T-55A.
+
+Modernizacji czołgów dokonywano w latach 1986-1989 w Wojskowych Zakładach Mechanicznych w Siemianowicach Śl. i Wojskowych Zakładach Motoryzacyjnych nr 5 w Poznaniu. Do standardu T-55AM "Merida" zmodernizowano ok. 630 sztuk T-55A. Od połowy lat 80. XX w. czołgi te były na wyposażeniu Wojska Polskiego. 
+
+Czołgi T-55AM zostały wycofane z uzbrojenia na przełomie XX i XXI w. (lata 1999-2001). 
+
+Spośród wycofanych ze służby czołgów T-55AM "Merida" niewiele zachowało swoją sprawność bojową. Jeden z tej niewielkiej liczby zachowanych i w 90% sprawny czołg można podziwiać w oddziale Muzeum Wojska Polskiego - Fort IX Oddział Muzeum Wojska Polskiego - Muzeum Polskiej Techniki Wojskowej przy ul. Powsińskiej 13 w Warszawie, gdzie dzięki zaangażowaniu i pasji rekonstruktorów historycznych z I. GRH SMOK, czołg ten nadal utrzymuje swoją sprawność techniczną. Prace konserwatorskie SMOK-ów przy czołgu oraz jego możliwości można podziwiać podczas organizowanych w oddziale uroczystości militarnych.
+
+Służba w WP
+Czołgi T-55AM wprowadzono na wyposażenie takich jednostek jak: 
+16 Kaszubska Dywizja Pancerna (Elbląg) - 1, 51 i 60 Pułk Czołgów, 55 Pułk Zmechanizowany 
+4 Lubuska Dywizja Zmechanizowana (Krosno Odrzańskie) - 18 Pułk Czołgów, 12 i 17 Pułk Zmechanizowany
+8 Drezdeńska Dywizja Zmechanizowana (Koszalin) - 28, 32 i 36 Pułk Zmechanizowany i 16 Pułk Czołgów 
+w późniejszym okresie
+4 Suwalska Brygada Kawalerii Pancernej (Orzysz)
+
+Pododdziały liniowe były wyposażone następująco: kompania - 1 T-55AD-2M (dowódcy kompanii), 6 T-55AM (po 2 na pluton) oraz 3 T-55AMS (po 1 na pluton). Dodatkowo na szczeblu batalionu 1 T-55AD-1M. 
+Wersje czołgu
+wozy dowódcze T-55AD-1M i T-55AD-2M - wyposażone były w dodatkowe radiostacje. W czołgu AD-1M była to radiostacja R-130, a w czołgu AD-2M druga radiostacja R-123. Zewnętrznie czołgi te różniły się od wozów liniowych następującymi szczegółami: posiadały uchwyt masztu teleskopowego anteny (z tyłu wieży, przy włazie dowódcy, inny typ w wersji AD-2M a inny w AD-1M), futerał masztu anteny teleskopowej (z tyłu kadłuba, przy rurze WJPW, inny typ w wersji AD-2M a inny w AD-1M) i uchwyt do mocowania pompki (tylko AD-2M). T-55AD-1M nie spełniały swojej roli, gdyż radiostacja R-130 jest radiostacją KF, podczas gdy łączność dowodzenia na szczeblu pułku (potem brygady) była organizowana w paśmie UKF. Dlatego w niektórych jednostkach wojskowych przerabiano te czołgi instalując drugą R-123 w miejsce R-130.
+
+wóz saperski T-55AMS - wyposażony był w wykopowy trał przeciwminowy oraz zestawy ŁWD do wykonywania przejść w polu minowym metodą wybuchową. Od wersji liniowej czołg ten różnił się zewnętrznie: brakiem wzmocnienia opancerzenia przodu kadłuba, brakiem opancerzenia dodatkowego dna kadłuba, innym typem skrzynki na noktowizję (mniejsza, z całkowicie zdejmowaną pokrywą), brakiem trzeciego zbiornika zewnętrznego (w tym miejscu miał zamontowaną skrzynkę na osprzęt), wsporniki do montażu pojemników startowych WŁWD, instalacja elektryczna do kasety PSK, osłony blaszane instalacji elektrycznej trału lub lemiesza (górna płyta kadłuba przed wieżą i na daszkach peryskopów kierowcy), ścięte na skos przednie błotniki uchylne, brak skrzynki na oporządzenie załogi na lewym błotniku (funkcję tę pełniła skrzynka w miejscu 3 zbiornika zewnętrznego), inny sposób mocowania ZOd-2 (umożliwiający wysunięcie w bok w celu użycia, inne mocowanie skrzynki na zawór wydechowy (w miejscu skrzynki na oporządzenie załogi, na lewym błotniku z tyłu).
+
+Opis konstrukcji
+Czołg posiadał system kierowania ogniem Merida w skład którego wchodził: przelicznik balistyczny, celownik-dalmierz dzienno-nocny (CDDN-1), zintegrowany czujnik meteo (temperatura powietrza i poprzeczna składowa prędkości wiatru), czujniki: prędkości własnej, kąta burtowego i przyrostu kąta burtowego, kąta podniesienia armaty, pochylenia podłużnego, pochylenia poprzecznego czopów armaty, temperatury ładunku prochowego. System liczył dane ogniowe do celów w odległości 300-7000 m. Pozwala na pomiar odległości w przedziale 300-9990 m. Po obliczeniu danych i wprowadzeniu ich na celownik są one uaktualniane co 0,5 sekundy przez 2 minuty.
+
+Opancerzenie - po bokach wieży i na kadłubie z przodu zamontowano dodatkowe nakładki ochronne wzmacniające pancerz. Wzmocniono też dno kadłuba w przedniej części - do wałka skrętnego drugiej pary kół nośnych. Ulepszono zabezpieczenie włazu zapasowego oraz dodano lepszą ochronę przed napalmem. 
+
+Sprzęt dodatkowy - w ramach modernizacji czołg wyposażono w: wykrywacz promieniowania laserowego WPL-1 "Bobrawa"''' (4 głowice fotodetekcyjne na wieży)- urządzenie to sygnalizowało dowódcy czołgu fakt opromieniowania czołgu promieniowaniem laserowym pokazując: kierunek z którego czołg jest opromieniowany, czas od odebrania pierwszego sygnału oraz rodzaj opromieniowania (dalmierz laserowy czy oświetlacz); wyrzutnię pocisków dymnych WPD-1 "Tellur"''' (8 luf, po 4 po obu stronach wieży - wewnętrzny rząd) - obsługiwał go ładowniczy, służył do postawienia zasłony dymnej w odległości ok. 300-350 m przed czołgiem w czasie ok. 15-20 sekund na czas ok. 2 minut; wyrzutnię wybuchowych granatów dymnych WWGD-1 "Erb"''' (8 luf, po 4 po obu stronach wieży - zewnętrzny rząd) - obsługiwał go dowódca, służył do postawienia zasłony dymnej w odległości ok. 25-30 m przed czołgiem w czasie ok. 2-3 sekund na czas ok. 2 minut. W każdym czołgu zamontowano urządzenie filtracyjno-wentylacyjne UFWCz-200 i rentgenometr sygnalizacyjny DPS-68M-1. Do lufy dodano osłonę termoizolacyjną.
+
+Bibliografia
+Kajetanowicz Jerzy, "Wozy bojowe i pojazdy wsparcia produkowane w Polsce w okresie powojennym", Wrocław 1998
+Krzysztof M. Gaj, "Czołg T-55AM i pochodne (T-55AD-1M, T-55AD-2M, T-55AMS)", 2013 ISBN 978-83-936039-3-0 
+
+
+
+

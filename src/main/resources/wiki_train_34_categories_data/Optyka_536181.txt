@@ -1,0 +1,23 @@
+Metoda termoluminescencyjna, metoda TL – metoda określania wieku używana w archeologii do datowania przede wszystkim ceramiki oraz w geologii do datowania osadów czwartorzędowych. 
+
+Wprowadzono ją w latach '50 XX wieku, lecz bardziej precyzyjne metody pojawiły się w latach '70. Metoda opiera się na zjawisku powszechnej wśród niektórych minerałów (głównie kwarcu i skaleni) luminescencji. Natężenie stymulowanej termicznie luminescencji rośnie wraz z energią pochłoniętego promieniowania wzbudzającego. Energia wzbudzająca, której źródłem jest naturalne promieniowanie tła jest akumulowana. Czas t, w ciągu którego energia wzbudzenia promieniowania jest akumulowana, jest czasem, kiedy obiekt, a po termicznie wzbudzonym wyświeceniu, został wyzerowany, czyli nasza datą. 
+
+Obliczenia wykonuje się zgodnie z zasadą:
+t=D/D1, gdzie t-czas, D- dawka promieniowania odpowiedzialna za wzbudzenie TL, D1- dawka roczna
+(Oczkowski 2001).
+
+Najważniejszą cechą tej metody jest to, że nie datujemy osadu a jedynie ostatni epizod ekspozycji na światło i/lub transportu albo ostatnie podgrzanie do temp. co najmniej 300 C.
+
+Mechanizm metody termoluminescencyjnej
+W ceramice znajdują się drobne ziarna minerałów o własnościach termoluminescencyjnych. Minerały te są pobudzane promieniowaniem tła, a pobudzone po podgrzaniu świecą. Ilość wydzielonego światła jest proporcjonalna do pochłoniętego promieniowania jonizującego. Podgrzanie kasuje centra pobudzenia.
+
+W geologii używana jest do datowania  ostatniej ekspozycji osadu na światło słoneczne lub transportu powodującego tzw. wyzerowanie próbki. Datowanie wykonuje się dla ziarn kwarcu najczęściej z przedziału 63-45 µm w utworach eolicznych lessach i piaskach wydmowych rzadziej w osadach fluwialnych. Założeniem metody jest określenie dawki geologicznej promieniowania kosmicznego i pierwiastków promieniotwórczych tła, pochłoniętej przez osad od jego ostatniego kontaktu ze światłem słonecznym i/lub epizodu transportu (Oczkowski 2001). Metoda ta jest coraz rzadziej stosowana w badaniach osadów czwartorzędowych. Powodem tego jest znaczny błąd metody sięgający 15% i zawężenie zastosowania w zasadzie tylko do osadów wulkanicznych (spełniających kryterium termicznego wyzerowania). Niektóre niedoskonałości datowania metodą termoluminescencji (TL) udało się wyeliminować dzięki zastosowaniu nowocześniejszej metody optycznie stymulowanej luminescencji (OSL).
+
+Bibliografia
+L. Lindner (red.), 1992. Czwartorzęd. Wyd. PAE, Warszawa.
+Oczkowski H. L., 2001- Datowanie luminescencyjne. Materiały XXXVI Zjazdu Fizyków Polskich, Toruń. 
+
+
+
+
+

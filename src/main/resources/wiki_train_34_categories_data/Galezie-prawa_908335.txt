@@ -1,0 +1,7 @@
+Cena emisyjna - to cena, która pojawia się w przypadku sprzedaży (subskrypcji) akcji na rynku pierwotnym. Może być równa lub wyższa od wartości nominalnej akcji (cena nominalna akcji). W przypadku pierwszej emisji akcji przez spółkę, która ma miejsce w chwili zawierania spółki, z reguły wartość nominalna akcji i cena emisyjna akcji są sobie równe. 
+Natomiast w przypadku następnych emisji akcji (podwyższenia kapitału przez spółkę już działającą na rynku) cena emisyjna jest zazwyczaj wyższa od wartości nominalnej akcji, gdyż wartość spółki, przypadająca na jedną akcję, przewyższa z reguły wartość nominalną akcji. Różnica pomiędzy ceną emisyjną a nominalną danej akcji (zwana często agio) '' zasila kapitał zapasowy spółki. Kapitał zakładowy (dawniej wobec spółki akcyjnej obowiązywał termin kapitał akcyjny) i zapasowy stanowią kapitał własny przedsiębiorstwa.
+
+Zobacz też
+Emisja akcji
+
+Linki zewnętrzne

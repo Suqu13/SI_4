@@ -1,0 +1,10 @@
+JUQUEEN – superkomputer o mocy obliczeniowej 4,1 PFLOPS (wykonujący ponad 4 biliardy operacji zmiennoprzecinkowych na sekundę). Został wyprodukowany przez IBM w 2012 roku i zainstalowany w Forschungszentrum Jülich w Niemczech. W listopadzie 2012 był najszybszym superkomputerem w Europie i piątym na świecie.
+
+Architektura
+JUQUEEN jest superkomputerem zbudowanym w architekturze Blue Gene/Q. Składa się z 24 racków, z których każdy zawiera 32 węzły po 32 osiemnastordzeniowe procesory w każdym (do obliczeń wykorzystuje się w tych procesorach 16 rdzeni), oraz 16 GB pamięci operacyjnej SDRAM-DDR3. Daje to w sumie 393 216 rdzeni oraz 393 TB RAM. Teoretyczna moc obliczeniowa sięga 5 PFLOPS, a zmierzona testem Linpack 4,1 PFLOPS. System zużywa 1,97 MW mocy i jest chłodzony wodą o temperaturze 18-25 °C.
+
+Pierwsza wersja superkomputera JUQUEEN, uruchomiona w czerwcu 2012, składała się z 8 racków i osiągała moc obliczeniową 1,38 PFLOPS.
+
+
+
+

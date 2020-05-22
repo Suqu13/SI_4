@@ -1,0 +1,96 @@
+Fluor (F, łac. fluorum od minerału fluorytu, CaF2) – pierwiastek chemiczny, niemetal z grupy fluorowców w układzie okresowym. Fluor w stanie wolnym występuje w postaci dwuatomowej cząsteczki . Jest żółtozielonym silnie trującym gazem o ostrym zapachu podobnym do chloru.
+
+Jest najaktywniejszym niemetalem o największej elektroujemności, tworzącym związki z większością innych pierwiastków (nawet z gazami szlachetnymi – kryptonem, ksenonem i radonem). W przeciwieństwie do innych fluorowców fluor łączy się wybuchowo z wodorem tworząc fluorowodór bez dostępu światła i w niskiej temperaturze. W strumieniu gazowego fluoru palą się szkło, metale i woda. Z powodu jego dużej aktywności nie można go przechowywać ani wytwarzać w naczyniach szklanych.
+
+Fluor jest otrzymywany poprzez elektrolizę ciekłego fluorowodoru z dodatkiem wodorofluorku potasu ().
+
+Wchodzi w skład kwasu fluorowodorowego i fluorków, m.in. minerału fluorytu (CaF2). W roztworze wodnym najczęściej występuje jako jon fluorkowy . Znane są także jony kompleksowe fluoru, np. ,  lub .
+
+Zawartość w górnych warstwach Ziemi wynosi 0,054%. Jedynym stabilnym izotopem fluoru jest .
+
+Zastosowanie
+Gazowego fluoru używa się przy produkcji monomerów, fluorowanych alkenów, z których otrzymuje się teflon i jego pochodne. Oprócz tego jest stosowany do produkcji halonów, które są stosowane jako ciecze chłodzące i hydrauliczne (np. freon). Inne zastosowania:
+kwas fluorowodorowy (HF) oraz fluorki litowców i amonu są używane do trawienia szkła, m.in. w żarówkach
+jednoatomowy fluor jest używany w produkcji półprzewodników
+sześciofluorku uranu () używa się do wzbogacania uranu
+heksafluoroglinian sodu (występujący naturalnie jako minerał kriolit) jest używany w elektrolitycznym otrzymywaniu glinu
+fluorek sodu był kiedyś używany jako insektycyd, głównie przeciwko karaluchom
+niektóre inne fluorki są często dodawane do past do zębów i (co budzi czasem kontrowersje) do wody pitnej, aby zapobiegać próchnicy zębów.
+sześciofluorek siarki () jest stosowany zamiast powietrza w rozdzielniach i transformatorach, gdyż ma 3 razy lepsze właściwości izolacyjne, niż powietrze, co zmniejsza ilość potrzebnego miejsca.
+fluorodeoksyglukoza znakowana izotopem  () jest wykorzystywana w pozytonowej emisyjnej tomografii komputerowej.
+
+Historia
+Fluoryt (tj. fluorek wapnia, CaF2) został opisany w 1529 roku przez Georgiusa Agricolę jako topnik obniżający temperaturę topnienia innych minerałów (od właściwości tej pochodzi nazwa minerału: łac. fluere = płynąć). W 1670 roku Heinrich Schwanhard odkrył, że w wyniku działania kwasów na fluoryt powstaje gaz trawiący szkło (był to fluorowodór, HF). Właściwości kwasowe HF odkrył w roku 1780 Carl Scheele. Humphry Davy po otrzymaniu pierwiastkowego chloru przez utlenienie chlorowodoru (1810) usiłował – bez powodzenia – wraz z André Ampèrem w podobny sposób wyizolować fluor z flourowodoru. Badacze ci nadali nowemu pierwiastkowi nazwę fluorum od minerału fluorytu, CaF2. Polską nazwę – fluor – wprowadził Filip Walter.
+
+Wolnego fluoru przez wiele lat nie udawało się go wyodrębnić z powodu jego ogromnej aktywności chemicznej – po wytworzeniu poprzez elektrolizę stopionego fluorytu, w wysokiej temperaturze procesu (t.topn. CaF2 wynosi ok. 1400&nbsp;°C) natychmiast reagował z substancjami i materiałami obecnymi w naczyniach reakcyjnych. Próby otrzymania fluoru doprowadziły przy tym do śmierci kilku badaczy. W roku 1885 Edmond Frémy rozpoczął badania nad elektrolizą fluorowodoru, jednak okazało się, że suchy związek nie przewodzi prądu, a związek wilgotny prąd wprawdzie przewodził, ale na elektrodzie wydzielał się tlen z obecnej wody, a nie fluor. Badania te kontynuował jego uczeń, Henri Moissan, który ostatecznie w 1886 roku otrzymał fluor przez elektrolizę fluorowodoru zawierającego dodatek KHF2 (było to przypadkowe zanieczyszczenie materiału do elektrolizy). Moissanowi otrzymanie nowego pierwiastka przyniosło Nagrodę Nobla w dziedzinie chemii w 1906 roku. 
+
+Pierwsza produkcja fluoru na skalę przemysłową została uruchomiona na potrzeby projektu Manhattan. Gazowy fluorek uranu(IV) () był wtedy używany do rozdzielenia izotopów  i  podczas wzbogacania uranu. 
+
+Na 100-lecie odkrycia fluoru Karl Christe otrzymał ten pierwiastek poprzez reakcję heksafluoromanganianu(IV) potasu z fluorkiem antymonu(V) w temp. 150&nbsp;°C:
+Etap 1 – synteza substratów:
+2 + 2KF + 10HF +  → ↓ +  + 
++ 5HF →  + 5HCl
+Etap 2 – reakcja właściwa:
++  →  +  + ↑
+
+Była to pierwsza chemiczna (nie elektrochemiczna) metoda pozwalająca na otrzymanie fluoru pierwiastkowego ze znaczącą wydajnością (ok. 40%).
+
+Związki
+Fluor może zastępować wodór w związkach organicznych, dlatego liczba związków fluoru może być bardzo duża. Związki fluoru z gazami szlachetnymi po raz pierwszy otrzymali Howard Claassen, Henry Selig i John Malm w 1962 roku. Pierwszym z tych związków był tetrafluorek ksenonu. Otrzymano również fluorki kryptonu i radonu.
+
+Fluor otrzymuje się z fluorytu, kriolitu lub fluoroapatytu.
+
+
+Plik:The fluorine economy-pl.svg|thumb|600px|center|Produkcja i wykorzystanie fluoru i jego związków. Kliknij na daną nazwę z grafiki by przejść do danego hasła.
+rect 9 6 81 34 Fluoryt
+rect 9 172 81 199 Fluoroapatyt
+rect 142 5 244 34 Fluorowodór
+rect 142 65 245 97 Wytop metali
+rect 142 121 244 154 Produkcja szkła
+rect 309 5 411 33 Związki fluoroorganiczne
+rect 310 63 413 92 Heksafluoroglinian sodu
+rect 311 121 414 154 Wytrawianie metali
+rect 310 171 412 200 Kwas fluorokrzemowy
+rect 309 211 412 243 Kraking alkanów
+rect 483 6 585 34 Fluorowęglowodory
+rect 484 47 585 76 Chlorofluorowęglowodory
+rect 483 88 586 116 Freony
+rect 483 128 585 160 Teflon
+rect 484 170 586 200 Fluorowanie wody
+rect 483 210 586 238 Wzbogacanie uranu
+rect 484 258 586 287 Heksafluorek siarki
+rect 484 297 585 357 Heksafluorek wolframu
+rect 28 246 177 293 Fosfogips
+
+desc bottom-left
+
+
+
+Szkodliwość
+Pierwiastkowy fluor, jak i jony fluorkowe, są silnie toksyczne. Zaburza procesy enzymatyczne w komórkach hamując oddychanie tkankowe, przemianę węglowodanów, lipidów oraz syntezę hormonów. Sam fluor i niektóre jego związki działają żrąco powodując głębokie martwice. Wolny fluor ma charakterystyczny drażniący zapach i jest wyczuwalny nawet w stężeniu 20 ppm.
+
+Gazowy fluor łatwo wchłania się przez drogi oddechowe i pokarmowe. Związki fluoru obecne np. w żywności dobrze wchłaniają się z dróg pokarmowych.
+
+Po podaniu doustnym w dużych stężeniach związki fluoru powodują zatrucia ostre, na skutek żrącego działania wydzielającego się fluorowodoru. Dalsze objawy to płytki oddech, kurcz dłoni, drgawki, ślinotok i nudności. Bezpośrednią przyczyną zgonu w wyniku zatrucia fluorem jest porażenie ośrodka oddechowego.
+
+Zatrucia przewlekłe małymi dawkami fluoru, czyli fluoroza, objawiają się zaburzeniami w uwapnieniu kości, brunatnym cętkowaniem zębów, zmniejszeniem ruchliwości.
+
+Dozwolone maksymalne stężenie przy założeniu 8-godzinnej ekspozycji na działanie fluoru to 0,05 mg/m3 (czyli mniej niż w przypadku cyjanowodoru).
+
+Znaczenie biologiczne
+Pomimo znacznej toksyczności, fluor w odpowiednich ilościach jest pierwiastkiem niezbędnym dla prawidłowego rozwoju kości i zębów. Może on modyfikować hydroksyapatyty budujące szkliwo zębów i poprzez substytucję grup wodorotlenowych tworzyć fluoroapatyty. Szkliwo zawierające taką modyfikację ulega wzmocnieniu oraz wykazuje większą oporność na działanie kwasów produkowanych przez bakterie próchnicotwórcze obecne w płytce nazębnej. Te specyficzne właściwości wynikają z faktu, iż fluoroapatyty wykazują lepszą krystaliczność, twardość oraz mniejszą rozpuszczalność w kwasach niż naturalnie występujące hydroksyapatyty.
+
+Środki ostrożności
+Zarówno fluor jak i fluorowodór muszą być przechowywane z zachowaniem szczególnych środków ostrożności. Powinno się unikać wszelkiego kontaktu ze skórą lub oczami. Fluoru nie przechowuje się w szkle.
+
+Uwagi
+
+
+Przypisy
+
+
+
+
+
+
+

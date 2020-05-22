@@ -1,0 +1,14 @@
+Stal konstrukcyjna niskostopowa – stal o niskiej zawartości węgla maksymalnie do 0,22% (na zachodzie przyjmuje się, że do 0,25, choć zdarzają się stale o jego nieco wyższej zawartości) posiadająca dodatki stopowe w ograniczonych ilościach.
+
+Stale niskostopowe używane są do budowy konstrukcji narażonych na działanie warunków atmosferycznych takich jak mosty, maszty, wagony kolejowe itp. - wszędzie tam, gdzie zastosowanie jej jest uzasadnione ekonomicznie. Charakteryzują się większą wytrzymałością od stali konstrukcyjnych wyższej jakości oraz większą odpornością na korozję.
+Według Polskiej Normy PN-XX/H-84018 stale wyższej jakości oznacza się liczbą całkowitą, która koduje średnią zawartość węgla (procent zawartości razy 100). Po tym symbolu następuje litera lub ciąg liter oznaczających główne dodatki stopowe. Niekiedy po symbolu dodatku następuje liczba całkowita kodująca zaokrągloną zwartość dodatku. Dla niektórych dodatków, jak na przykład manganu, nie stosuje się mnożnika zawartości. Dla innych, jak na przykład wanadu, stosuje się mnożnik 100. 
+
+Przykładowe stale konstrukcyjne niskostopowe:
+'''09G2Cu – 0,12% węgla, 1,2-1,8% manganu, 0,25-0,5% miedzi;
+'''15G2AN3Cu – 0,8% węgla, 1.6% manganu, ponad 0,02% aluminium 0,02-0,06% niobu i 0,25-0,5% miedzi;
+'''18HGM – 0,16-0,23% węgla, 0,9-1.2% chromu, 0,9-1.2% manganu i 0,2-0.3% molibdenu.
+
+
+
+
+

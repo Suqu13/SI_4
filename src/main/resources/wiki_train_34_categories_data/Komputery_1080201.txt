@@ -1,0 +1,31 @@
+iPod touch – kieszonkowy odtwarzacz MP3 firmy Apple Inc., zasadniczo wielofunkcyjny palmtop z systemem operacyjnym iOS, zaprezentowany 5 września 2007. Jest to pierwszy iPod z wbudowanym Wi-Fi, z bezpośrednim dostępem (jedynie bezprzewodowym) do internetu, w tym przez przeglądarkę sieciową, a także specjalną przeglądarkę serwisu YouTube bez pomocy wtyczki Adobe Flash i sklepu internetowego iTunes Store.
+Szacuje się że sprzedano 32 miliony sztuk iPodów touch (dane pod koniec 2009).
+
+iPod touch 2G (2G: drugiej generacji) został zaprezentowany 9 września 2008.
+Jest tańszy i 5 gramów lżejszy. W przeciwieństwie do wersji pierwszej, posiada wbudowane głośniki i mechaniczną kontrolkę wzmacniania głośności. Bateria w drugiej wersji, być może dzięki nowszej wersji oprogramowania iPhone OS udostępnionej jednocześnie dla obu wersji iPoda touch, jest wydajniejsza: zamiast do 22 godz. działa do 35 godz. w trybie audio i zamiast do 4 godz. działa do 6 godz. w trybie wideo. Oba osiągi przy wyłączonej karcie WiFi.
+
+iPod touch pierwszej i drugiej generacji jest dostępny w wersjach 8GB, 16GB i 32GB.
+
+9 września 2009 Apple zaprezentowało iPoda touch 3G (3G: trzeciej generacji), model ten posiada wszystkie funkcje drugiej generacji, wyróżnia sie jednak mocniejszym procesorem, większą ilością pamięci RAM, dodaną obsługą Voice Control i VoiceOver. iPod touch 3G dostępny jest w wersjach 32GB i 64GB.
+
+Modele
+
+
+Oprogramowanie
+Wszystkie modele iPoda Touch mają takie aplikacje jak muzyka, wideo, iTunes (zapewnienie dostępu do iTunes Music Store), Safari, YouTube, Kalendarz, kontakty, zegar, kalkulator, i ustawienia. Późniejsze modele miały dodatkowo Pocztę (dostęp POP / IMAP / SMTP e-mail), Mapy, Giełda i Pogoda. Wszystkie te funkcje zostały dodane do wcześniejszych modeli po aktualizacji iOS. Użytkownik może dodawać linki do stron internetowych o nazwie "Web Clips" do ekranu głównego. Wszystkie modele iPoda touch są wyposażone w Wi-Fi 802.11b/g, a iPod touch 4G został dodatkowo wyposażony w Wi-Fi 802.11n.
+
+App Store oferuje szereg gier wykorzystujących wbudowany przyspieszeniomierz (akcelerometr), pierwotnie wbudowanego ku automatycznej zmianie pionu obrazu w zależności od orientacji iPoda touch czy iPhone'a względem ziemi (lub innego lokalnego przyspieszenia).
+
+iPod touch posiada zlokalizowany interfejs w językach: angielskim, polskim, chińskim, duńskim, francuskim, hiszpańskim, holenderskim, japońskim, koreańskim, niemieckim, norweskim, portugalskim, rosyjskim, szwedzkim i włoskim, a także klawiatury dla angielskiego (w wersji amerykańskiej lub brytyjskiej), polskiego, duńskiego, fińskiego, francuskiego, hiszpańskiego, holenderskiego, islandzkiego, japońskiego, koreańskiego, niemieckiego, norweskiego, portugalskiego, szwedzkiego i włoskiego. Dodatkowo zaopatrzono wszystkie wersje klawiatury oprócz japońskiej w litery tureckie czy islandzkie. Działają także sugestie słownikowe dla klawiatur angielskich, francuskich i niemieckich, a dodatkowo iPod touch "pamięta" wystukane słowa poza sugestiami słownikowymi, bez względu na wybraną klawiaturę, i podpowiada je także, co skutkuje w podawaniu sugestii m.in. po polsku również.
+
+Z powodu zmian technicznych wprowadzonych przez Apple Inc., zaistniała niekompatybilność pomiędzy iPodem touch a modelem 2005 Apple Uniwersalnego doku (podstawki/adaptera z wyjściem wideo). O ile iPod touch wstawiony do 2005 Apple Uniwersalnego doku nadal będzie skutecznie zasilany, podłączenie go do osobnego ekranu wideo wymaga obecnie specjalnego kabla i 2007 Apple Uniwersalnego doku. Sytuacja została spowodowana wprowadzeniem specjalnego układu scalonego w iPodzie touch.
+
+Linki zewnętrzne
+(oficjalna strona producenta)
+(częściej uaktualniana; oficjalna strona producenta) 
+
+
+
+
+
+

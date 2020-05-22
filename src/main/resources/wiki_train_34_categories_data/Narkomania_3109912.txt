@@ -1,0 +1,47 @@
+Cyjamemazyna – organiczny związek chemiczny, pochodna fenotiazyny, stosowana jako lek przeciwpsychotyczny. Lek został wprowadzony na francuski rynek farmaceutyczny przez firmę Theraplix w 1972 roku.
+
+Mechanizm działania
+Cyjamemazyna jest klasycznym lekiem przeciwpsychotycznym, blokującym receptory dopaminergiczne D2. Ma także pewne cechy neuroleptyków atypowych, działając silnie antagonistycznie wobec receptorów serotoninergicznych 5HT2A, 5-HT2C, 5HT3 i 5-HT7. Działanie na receptory serotoninergiczne 5HT2C, zwłaszcza przy małych dawkach, może odpowiadać za przeciwlękowe działanie cyjamemazyny i niewielką częstość objawów pozapiramidowych (wiązane z działaniem na 5HT2A).
+
+Profil receptorowy cyjamemazyny:
+
+5-HT1A (Ki = 517 nM)
+5-HT2A (Ki = 1,5 nM)
+5-HT2C (Ki = 12 nM)
+5-HT3 (Ki = 2,9 nM)
+5-HT7 (Ki = 22 nM)
+D1 (Ki = 3,8 nM)
+D2 (Ki = 5,8 nM)
+D3 (Ki = 2,5 nM)
+D4 (Ki = 5,3 nM)
+
+α1 (Ki = 2,3 nM)
+α2 (Ki = 1320 nM)
+H1 (Ki = 9,3 nM)
+H2 (Ki = 351 nM)
+H3 (Ki = >10000 nM)
+M1 (Ki = 13 nM)
+M2 (Ki = 42 nM)
+M3 (Ki = 32 nM)
+M4 (Ki = 12 nM)
+M5 (Ki = 35 nM)
+
+
+Wskazania
+Cyjamemazyna stosowana jest w leczeniu zaburzeń psychotycznych, w tym schizofrenii, ciężkiej depresji, zaburzenia afektywnego dwubiegunowego, zespołu abstynencyjnego od benzodwuazepin.
+
+Działania niepożądane
+Lek może powodować poneuroleptyczny zespół ubytkowy, akatyzję, objawy pozapiramidowe, hiperprolaktynemię, hipotonię, tachykardię, suchość w jamie ustnej, zaparcia, zaburzenia widzenia, nadmierną senność, przyrost masy ciała, dysfunkcje seksualne, zespół metaboliczny. Ryzyko złośliwego zespołu neuroleptycznego jest niskie. Rzadko występują żółtaczka, agranulocytoza, drgawki.
+
+Cyjamemazyna może wydłużać odstęp QTc.
+
+Dawkowanie
+Działanie przeciwpsychotyczne występuje przy dawkach 300–600 mg. Lek jest stosowany także w mniejszych dawkach (25–100 mg), wywierając wówczas działanie przeciwlękowe.
+
+Preparaty
+Tercian (Rhone-Poulenc Rorer/Theraplix/Specia/Vitoria)
+Lek nie jest dostępny w Polsce. Cyjamemazyna jest jednym z częściej przepisywanych neuroleptyków we Francji. Preparaty zawierają cyjamemazynę lub winian cyjamemazyny.
+
+
+
+Bibliografia

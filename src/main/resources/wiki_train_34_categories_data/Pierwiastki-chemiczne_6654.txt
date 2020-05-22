@@ -1,0 +1,133 @@
+
+
+Wodór (H, łac. hydrogenium) – pierwiastek chemiczny o liczbie atomowej 1, niemetal z bloku s układu okresowego. Jego izotop, prot, jest najprostszym możliwym atomem, zbudowanym z jednego protonu i jednego elektronu.
+
+Rozpoczyna układ okresowy. Jest wyznacznikiem w szeregu aktywności metali, który oddziela metale na wypierające wodór i niewypierające go.
+
+Istnieje w postaci dwóch stabilnych izotopów 1H (prot) i 2H (deuter, D) oraz niestabilnego – 3H (tryt, T).
+
+Mimo iż wodór jest niemetalem, w warunkach wysokiego ciśnienia przechodzi do stanu metalicznego.
+
+Występowanie
+Wodór jest najpowszechniej występującym pierwiastkiem we Wszechświecie. W postaci wolnej występuje w gwiazdach i obłokach międzygwiazdowych, a w postaci związanej wchodzi w skład wielu związków nieorganicznych (np. wody, kwasów, zasad, wodorotlenków) oraz związków organicznych (węglowodory i ich pochodne).
+
+Wodór atomowy
+Wodór atomowy to odmiana tworzona przez pojedyncze atomy, w przeciwieństwie do wodoru cząsteczkowego. Wodór atomowy jest nietrwały i szybko łączy się z drugim atomem wodoru, tworząc cząsteczkę H2, czyli wodór cząsteczkowy (molekularny). Wodór atomowy powstaje w wyniku dysocjacji wodoru cząsteczkowego w wysokiej temperaturze i jest znacznie bardziej aktywny chemicznie niż wodór molekularny.
+
+Wodór atomowy powszechnie występuje w przestrzeni międzygwiazdowej.
+
+Wodór cząsteczkowy
+
+Wodór cząsteczkowy (wodór dwuatomowy, wodór molekularny) (H2) to najprostsza dwuatomowa cząsteczka homoatomowa. Składa się z dwóch atomów wodoru połączonych wiązaniem kowalencyjnym o długości 74,14 pm (0,7414 Å) i o energii dysocjacji 435,88 kJ/mol (25&nbsp;°C).
+
+Na Ziemi wodór w postaci cząsteczkowej występuje w atmosferze – przy powierzchni w ilościach śladowych (Ok. 0,5 ppm obj.), natomiast w wysokich, bardzo rozrzedzonych warstwach jest składnikiem dominującym.
+
+Ortowodór i parawodór
+Jak wszystkie dwuatomowe cząsteczki homojądrowe o niezerowym spinie jąder, wodór występuje w dwóch odmianach spinowych o nieco innych właściwościach fizycznych (np. o różnym cieple właściwym) znanych jako ortowodór i parawodór. Różnią się one wzajemną orientacją spinów protonów. W ortowodorze spiny skierowane są zgodnie, zaś w parawodorze — przeciwnie. Naturalny wodór molekularny w temperaturze pokojowej i wyższej stanowi mieszaninę obu odmian (ok. 75% ortowodoru i 25% parawodoru czyli w stosunku 3:1), natomiast w temperaturze obniżonej udział parawodoru wzrasta, osiągając 99,8% w temperaturze −253&nbsp;°C. Podobnie zachowuje się orto- i paratryt, natomiast dla orto- i paradeuteru sytuacja jest odwrotna.
+
+Przemiana ortowodoru w parawodór jest egzotermiczna lecz wymaga udziału zabronionego przejścia tryplet-singlet. W normalnych warunkach jest ona wolna i poniżej temperatury 500&nbsp;°C układ o:p = 3:1 jest stanem metastabilnym. Proces przemiany jest katalizowany przez substancje paramagnetyczne.
+
+Wodór metaliczny
+Metaliczny wodór to stan, który wodór uzyskuje pod bardzo wysokim ciśnieniem. Stan ten wykazuje dobre przewodnictwo elektryczne i inne właściwości metaliczne.
+
+
+Kation wodorowy
+Kation wodorowy H+ jest w istocie równoważny protonowi. W stanie wolnym występuje on w próżni, plazmie i górnych warstwach atmosfery ziemskiej (promienie UV jonizują atomy wodoru).
+W roztworach wodnych kation ten ulega silnej hydratacji:
+
+H+ + H2O → H3O+
+
+Taki kation nazywany hydroksoniowym (hydroniowym), rzeczywiście istnieje w niektórych związkach w warunkach bezwodnych. Natomiast w wodzie takiego kationu nie ma i tylko umownie przyjmuje się, że jedna cząsteczka wody szczególnie silnie hydratuje proton. Należy więc pamiętać, że nie jest to prawdą, lecz stosuje się taki zapis dla ułatwienia i podkreślenia, iż kation H+ jest bardzo silnie hydratowany.
+
+Serie widmowe
+Wodór ma charakterystyczne serie widmowe:
+seria Lymana
+seria Balmera
+seria Paschena
+seria Bracketta
+seria Pfunda
+seria Humphreysa
+
+Historia
+Prawdopodobnie pierwszą osobą, która opisała otrzymywanie wodoru w stanie czystym był alchemik Paracelsus żyjący w latach 1493–1541. Paracelsus wykonywał eksperymenty polegające na wrzucaniu metali do kwasów i zbieraniu do naczyń gazowych produktów tych reakcji, co do dzisiaj stanowi najprostszy sposób otrzymywania tego pierwiastka w warunkach laboratoryjnych. Przypuszcza się jednak, że podobne eksperymenty wykonywano już wcześniej.
+
+Eksperymenty te powtórzył w 1661 r. Robert Boyle, który opisał też wybuchową naturę mieszanki wodoru z powietrzem, zwanej dziś mieszaniną piorunującą, a wówczas aria tonante – z włoskiego – "powietrze grzmiące". Pierwszą osobą, która uznała wodór za pierwiastek, a właściwie flogiston, czyli "pierwiastek palności", będący przedmiotem błędnej teorii flogistonowej i reliktem wielowiekowej tradycji alchemii, był Henry Cavendish. W 1766 r. zamieścił w swoich notatkach taką tezę. Jak wszystkie inne badania angielskiego arystokraty nie zostało to jednak opublikowane za jego życia. Substancja ta została uznana za pierwiastek dzięki badaniom Antoine Lavoisiera nad otrzymywaniem wody z wodoru i tlenu w 1783 r. Pierwotnie polska nazwa, przetłumaczona z łaciny przez Jędrzeja Śniadeckiego brzmiała "wodoród". Nazwę tą przyjęli także Chodkiewicz, Fonberg, Krzyżanowski i Radwański, który używał także nazwy "lżeń". W projekcie warszawskim określano nowy pierwiastek mianem "wodor", Matecki pisał "wód", a Czyrniański "wod", następnie także "wód". Z biegiem czasu została skrócona do powszechnie dziś znanej nazwy "wodór", którą zaproponował Filip Walter, co zatwierdziła krakowska Akademia Umiejętności w roku 1900.
+
+Otrzymywanie
+Na skalę przemysłową wodór otrzymuje się następującymi metodami:
+Poprzez konwersję realizowaną podczas przepuszczania alkanu nad parą wodną, np. metanu:
+CxH2y + 2xH2O → (2x+y)H2 + xCO2
+CH4 + 2H2O → 4H2 + CO2
+
+Przez reakcję pary wodnej z koksem w reakcji Boscha:
+C + H2O → CO + H2
+termiczny rozpad CH4:
+2CH4 –T=2000&nbsp;°C→ C2H2 + 3H2
+reakcje metanu z tlenem:
+2CH4 + O2 → 2CO + 4H2
+
+W laboratorium można go otrzymać na kilka sposobów:
+Elektroliza wodnego roztworu soli lub wodorotlenku metalu alkalicznego bądź wody:
+2H2O → 2H2 +O2
+
+Reakcja metalu z kwasem:
+np. Zn + 2HCl → ZnCl2 + H2↑
+Spalanie magnezu w parze wodnej:
+Mg + H2O → MgO + H2↑
+Reakcja metalu amfoterycznego z roztworem zasady:
+np. 2Al + 2NaOH + 6H2O → 2Na[Al(OH)4] + 3H2↑
+
+Powyższe reakcje roztwarzania metali wykonywać można dogodnie w aparacie Kippa.
+
+Izotopy wodoru
+
+Wodór występuje w 3 różnych izotopach: prot, deuter i tryt.
+prot (wodór 1H)
+W skład jądra wchodzi jeden proton. Nie posiada neutronów. Jest izotopem stabilnym.
+
+deuter (2H lub 2D)
+W skład jądra wchodzi jeden proton i jeden neutron. Jest izotopem stabilnym. Ze względu na to, że deuter ma dwukrotnie większą masę od protu, różnią się one znacząco właściwościami fizycznymi, a także chemicznymi (silny efekt izotopowy).
+
+tryt (3H lub 3T)
+W skład jądra wchodzi jeden proton i dwa neutrony. Jest izotopem niestabilnym. Ulega rozpadowi β- z powstaniem helu-3.
+
+Zastosowanie
+Dawniej wodór był stosowany do napełniania balonów i sterowców, lecz z powodu ryzyka pożaru i wybuchu obecnie zastępowany jest zazwyczaj helem. Skroplony wodór znalazł zastosowanie jako paliwo w silnikach rakietowych. Wodór może również służyć jako paliwo dla silników o spalaniu wewnętrznym (np. silnik spalinowy tłokowy wykorzystywany w samochodzie osobowym). Wykorzystywany jest także w ogniwach paliwowych do generowania prądu elektrycznego.
+
+Izotop wodoru – tryt – wykorzystywany jest w reakcjach termojądrowych, które mogą potencjalnie stanowić źródło taniej i czystej energii. Inny jego izotop – deuter – wykorzystywany jest jako spowalniacz (moderator) w reaktorach atomowych. Związki zawierające deuter są wykorzystywane do przygotowanie próbek NMR ze względu na właściwości fizykochemiczne tego atomu.
+
+Wodór używany jest także w elektrowniach do chłodzenia generatorów dużej mocy (powyżej 500&nbsp;MW).
+
+
+
+W chemii organicznej wodór może być użyty do:
+uwodornienia, np. alkenów w obecności katalizatora niklu:
+C2H4 + H2 → C2H6
+inne reakcje redukcji, np. związków nitrowych do amin:
+R-NO2 + 3H2 → R-NH2 + 2H2O
+
+Związki wodoru
+wodorki
+tlenki wodoru
+wodorotlenki
+kwasy (poza kwasami Lewisa)
+prawie wszystkie związki organiczne
+
+Zobacz też
+antywodór
+biowodór
+przechowywanie wodoru
+promień atomu Bohra
+linia wodoru 21 cm
+obszar H I
+biekscyton
+choroba wodorowa miedzi
+
+
+
+
+
+Bibliografia
+"Księga pierwiastków", Ignacy Eichstaedt, wydanie III, Warszawa 1973.
+
+Linki zewnętrzne

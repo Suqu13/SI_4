@@ -1,0 +1,15 @@
+Różnica kursowa – różnica, która wynika z przeliczenia danej liczby jednostek jednej waluty na inną walutę po różnych kursach wymiany pomiędzy określonymi w przepisach momentami ustalenia kursów. 
+
+Wszelkie opiewające na walutę obcą aktywa, pasywa, przychody oraz koszty w myśl ustawy o rachunkowości muszą być ujęte w księgach rachunkowych oraz w sprawozdaniu finansowym w złotych. Stąd wynika konieczność, aby wartość pozycji wyrażonych w walucie obcej była przeliczona na złote po właściwym kursie. Wiąże się to ze zmianą kursów danej waluty, czego następstwem są tak zwane różnice kursowe. 
+
+W myśl art. 30 ust. 2 pkt. 1 ustawy o rachunkowości, operacje gospodarcze wyrażone w walutach obcych, dotyczące środków pieniężnych, udziałów i papierów wartościowych, w ciągu roku obrotowego ujmuje się w księgach rachunkowych po kursie kupna lub sprzedaży banku, z którego usług korzysta jednostka.
+
+Obecnie ustawa o CIT daje możliwość wyboru ustalania różnic kursowych według przepisów podatkowych lub bilansowych. Metoda bilansowa polega na zaliczeniu odpowiednio do przychodów lub kosztów ich uzyskania ujętych w księgach różnic kursowych z tytułu transakcji walutowych i wynikających z dokonanej wyceny składników aktywów i pasywów wyrażonych w walucie obcej, a także wyceny pozabilansowej pozycji w walutach obcych. W metodzie podatkowej dla rozliczania różnic kursowych należy stosować „kurs faktycznie zastosowany” w dniu transakcji. Jeśli nie jest możliwe jego ustalenie, należy przyjąć kurs średni NBP z ostatniego dnia roboczego poprzedzającego ten dzień.
+
+Bibliografia
+Ustawa o rachunkowości
+Józef Kuszneruk: Międzynarodowe standardy rachunkowości (MSR); zakres przedmiotowy oraz ich zastosowanie w Polsce
+
+
+
+

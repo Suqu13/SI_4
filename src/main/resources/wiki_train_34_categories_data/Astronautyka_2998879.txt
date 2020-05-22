@@ -1,0 +1,22 @@
+NaviExpert – aplikacja nawigacyjna wykorzystująca system GPS dostępna na telefony komórkowe i tablety.
+
+NaviExpert zadebiutował na rynku w 2005 roku. Aplikacja poza funkcją nawigacji pozwala kierowcom omijać korki dzięki technologii Community Traffic online, posiada ostrzeżenia CB o fotoradarach, kontrolach drogowych czy niebezpiecznych miejscach oraz bogatą bazę punktów POI. Aplikacja działa w trybie online, dzięki czemu uwzględnia na mapie bieżące informacje o średnich prędkościach z jakimi poruszają się kierowcy na danych odcinkach dróg, trwające remonty, zablokowane odcinki oraz nowe inwestycje drogowe.
+
+Mapy Polski pochodzą z łódzkiej firmy Emapa, natomiast mapa Europy dostarczana jest przez holenderską firmę TomTom. Mapa Polski wykorzystana w NaviExpert dostępna jest także w serwisie , skąd ułożoną trasę można eksportować do aplikacji (funkcja dostępna od wersji 8.3 na system Android).
+
+Aplikacja kompatybilna jest z ponad 300 urządzeniami działającymi pod systemami operacyjnymi:
+
+Android
+iOS
+Windows Phone
+BlackBerry    
+Bada
+Symbian
+Java
+Windows Mobile
+
+NaviExpert współpracuje z czterema operatorami sieci komórkowych: Orange, Play, Plus, i T-Mobile oferując swoją aplikację w wersji dedykowanej dla danego operatora GSM i preinstalowanej na wybranych urządzeniach dostępnych w ofercie operatorów.
+
+Na rynku pozaoperatorskim aplikację NaviExpert  można pobrać z Google Play, App Store, Windows Phone Store oraz ze strony . Przed wykupieniem abonamentu użytkownik może przetestować aplikację za darmo przez 7 dni lub 30 dni w przypadku Windows Phone Store.
+
+Linki zewnętrzne

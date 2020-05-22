@@ -1,0 +1,14 @@
+Monochromatyczność (mono – jeden, chroma – kolor) – promieniowanie elektromagnetyczne o ściśle określonej częstotliwości (długości fali). Idealnie monochromatyczna jest fala o niezmieniającej się częstotliwości i stałej amplitudzie, dlatego idealnej monochromatycznej fali nie nie można uzyskać.
+
+Jeśli przedział częstotliwości fali jest niewielki, to własności światła są zbliżone do światła monochromatycznego i nazywane jest ono światłem guasi-monochromatycznym. 
+
+Dla rzeczywistych fal określa się stopień monochromatyczności na podstawie szerokości linii widmowej. Stopień monochromatyczności definiuje się zazwyczaj jako stosunek szerokości linii widmowej w jej połowie wysokości (szerokość połówkowa) do częstotliwości linii.
+
+Określenie zwykle odnosi się do promieniowania elektromagnetycznego w zakresie widzialnym i zbliżonym do widzialnego, jednak może dotyczyć fal elektromagnetycznych z innych zakresów.
+
+Urządzeniem wytwarzającym promieniowanie monochromatyczne (o wysokim stopniu monochromatyczności) jest laser, przed wynalezieniem laserów jako światło monochromatyczne używano linie atomów swobodnych w gazach rozrzedzonych. Szerokość naturalna linii emisyjnej atomów wynika z czasu życia atomu w stanie wzbudzenia, oddziaływania atomu z innymi atomami lub polami elektrycznymi i magnetycznymi, oraz efektu Dopplera wywołanego ruchem emitujących atomów.
+
+Potocznie promieniowanie w zakresie widzialnym, o charakterze zbliżonym do monochromatycznego nazywane jest barwą prostą.
+
+
+

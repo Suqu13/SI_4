@@ -1,0 +1,23 @@
+Termoluminescencja jest to luminescencja (jarzenie, zimne świecenie) substancji wywołana przez ogrzewanie substancji, która wcześniej została pobudzona przez światło (falę elektromagnetyczną) lub promieniowanie przenikliwe. Zjawisko to występuje w fosforach krystalicznych, minerałach (np. fluorycie), szkłach, monokryształach tlenkowych. 
+
+Mechanizm termoluminescencji
+Termoluminescencja (TL lub termicznie stymulowana luminescencja – TSL) występuje w materiałach o b. wysokim oporze elektrycznym tj. w dielektrykach lub półprzewodnikach. Według pasmowej teorii przewodnictwa ciał stałych, w materiałach tych pasmo przewodnictwa jest oddzielone od pasma walencyjnego dużą przerwą energetyczną. W obszarze przerwy energetycznej w miejscach wad sieci krystalicznej występują lokalne poziomy (pułapki) elektronowe bliskie poziomowi pasma przewodnictwa oraz poziomy dziurowe bliskie pasmu walencyjnemu.
+
+
+Do wystąpienia termoluminescencji niezbędne jest przeniesienie elektronów i dziur do pułapek (ekscytacja). Przeniesienie to dokonuje się zazwyczaj poprzez przeniesienie elektronów z pasma walencyjnego do pasma przewodnictwa (generacja par dziura-elektron). Niewielka część elektronów z pasma przewodnictwa może przejść do pułapek elektronowych. Pewna ilość dziur przechodzi też do pułapek dziurowych. W zależności od roli jaką pełnią poszczególne poziomy pułapkowe określamy je mianem pułapek aktywnych, pułapek głębokich i tzw. centrów rekombinacji.
+
+Ekscytację materiału może dokonać promieniowanie o dostatecznie dużej energii większej od szerokości przerwy energetycznej materiału. Do ekscytacji typowych materiałów organicznych wystarczające jest zazwyczaj promieniowanie elektromagnetyczne z zakresu UV. Dielektryki nieorganiczne, takie jak fluorek litu (LiF), są zazwyczaj ekscytowane wysokoenergetycznym promieniowaniem jonizującym (np. promieniowaniem rentgenowskim, gamma, alfa lub beta). Podobnie mogą być pobudzone poziomy pułapkowe dziur elektronowych.
+
+Nośniki ładunku (dziury i elektrony) uwięzione w pułapkach mogą w nich pozostawać bardzo długo (nawet tysiące lat). Do uwolnienia pułapkowanych nośników potrzebne jest promieniowanie o energii co najmniej równej różnicy między poziomem pułapki a pasmem przewodnictwa (gdy "aktywnymi nośnikami" są elektrony). Dla "typowych" materiałów termoluminescencyjnych (używanych w dozymetrii TL) różnica tych poziomów musi być większa od energii promieniowania cieplnego w temperaturze pokojowej, a mniejsza od energii promieniowania cieplnego w temperaturze kilkuset stopni.
+
+W wyniku podgrzania elektrony z pułapek zostają przeniesione do pasma przewodnictwa, z którego rekombinują do centrów rekombinacji zawierających zapułapkowane nośniki przeciwnego znaku. Natężenie świecenia zazwyczaj jest proporcjonalne liczby elektronów uwięzionych w pułapkach czyli do dawki promieniowania pochłoniętej podczas ekscytacji. 
+
+Podgrzanie usuwa elektrony (dziury) z pułapek, kasując "pamięć dawkową" kryształu.
+
+Zjawisko to daje możliwość stosowania termoluminescencji w dozymetrii do pomiaru dawki pochłoniętej oraz datowaniu obiektów archeologicznych i geologicznych (metoda termoluminescencyjna).
+
+Zobacz też
+datowanie metodą termoluminescencyjną
+
+Przypisy
+

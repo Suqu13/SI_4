@@ -1,0 +1,36 @@
+ 
+Natężenie oświetlenia – gęstość strumienia świetlnego padającego na daną powierzchnię, równa granicy ilorazu strumienia świetlnego  padającego na powierzchnię i pola  tej powierzchni, przy  dążącym do 0.
+.
+
+Gdy znana jest światłość  źródła światła, to wzór opisujący natężenie oświetlenia w dowolnym punkcie powierzchni można przedstawić następująco:
+,
+gdzie  jest natężeniem oświetlenia,  jest kątem między normalną do powierzchni a wektorem skierowanym na źródło światła a  odległością punktu powierzchni od źródła światła.
+
+Natężenie oświetlenia jest jedyną wielkością światła, która nie charakteryzuje samego źródła światła, lecz jasność oświetlenia powierzchni. 
+
+Jednostką natężenia oświetlenia w układzie SI jest luks (lx) równy lumen na metr kwadratowy (cd·sr·m–2)
+
+Natężenie oświetlenia miejsca pracy (Polska)
+
+
+Natężenie oświetlenia miejsca pracy określają polskie normy. W normie tej przyjęto, że wymagane natężenie oświetlenia w celu dostrzeżenia rysów ludzkiej twarzy w normalnych warunkach oświetleniowych, powinno być nie mniejsze niż 20&nbsp;lx i jest to najmniejsze natężenie oświetlenia wymieniane przez normę. W typowych pracach biurowych, takich jak: pisanie ręczne, pisanie na maszynie, czytanie, obsługiwanie klawiatury wymagane jest natężenie oświetlenia 500&nbsp;lx, dla prac precyzyjnych przewyższa 1000&nbsp;lx. W słoneczny letni dzień natężenie oświetlenia w miejscach niezacienionych osiąga wartość 100&nbsp;000&nbsp;lx.
+
+Dla orientacji – wg normy PN-EN 12 464-1: 2004 zalecane natężenie oświetlenia:
+rozpoznanie rysów twarzy – 20&nbsp;lx
+wykonywanie prostych czynności – 50&nbsp;lx
+kuźnia (kucie swobodne) – 200&nbsp;lx
+obsługa komputera, prace biurowe – 500&nbsp;lx
+montaż precyzyjny, mikromechanika – 1000&nbsp;lx
+
+oraz dla porównania:
+oświetlenie powierzchni ziemi przez Księżyc w pełni w pogodną noc – 0,1&nbsp;÷&nbsp;0,2&nbsp;lx
+oświetlenie uliczne w nocy – 2&nbsp;÷&nbsp;5&nbsp;lx
+pomieszczenie od zacienionej strony w środku dnia – 300&nbsp;lx
+oświetlenie słoneczne terenu na zewnątrz (zachmurzone niebo) – 5000&nbsp;lx
+słoneczny letni dzień (czyste niebo) – 100&nbsp;000&nbsp;lx
+
+Bibliografia
+Dla części "Natężenie oświetlenia miejsca pracy":
+Pracki Piotr: Projektowanie oświetlenia wnętrz, Oficyna Wydawnicza Politechniki Warszawskiej, Warszawa 2011.
+
+

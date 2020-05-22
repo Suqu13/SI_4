@@ -1,0 +1,49 @@
+
+Laptop (po polsku – przenośny komputer ang. lap – kolana, top – na wierzchu), nazywany również notebook – przenośny komputer osobisty. Inne zminiaturyzowane komputery (mniejsze od laptopów) to netbooki, palmtopy (np. Palm lub Pocket PC) lub smartfony.
+
+Historia
+
+
+Początkowo istniał umowny podział komputerów przenośnych pomiędzy laptop (większy i cięższy rodzaj komputera, który wymagał do działania zewnętrznego zasilania) oraz notebook (wymowa /nəʊtbʊk/, mniejszy rodzaj komputera, łatwy do przenoszenia i posiadający własne źródło zasilania – pierwotnie rozmiarów notatnika formatu A4, stąd nazwa). W chwili obecnej obydwa te określenia funkcjonują wymiennie.
+
+Pierwszym, jeszcze wizjonerskim urządzeniem z tej kategorii, był DYNABOOK. Jego projekt stworzył Alan Kay w laboratoriach Xerox Parc.
+
+Pierwszym oferowanym komercyjnie laptopem, który mieścił się w torbie, był Grid Compass Computer 1109. W roku 1979 zaprojektował go William Moggridge dla Grid Systems Corporation. Komputer ten był używany w programie NASA dotyczącym promów kosmicznych we wczesnych latach 80. Komputer miał 340 kB RAM, obudowę ze stopu magnezu oraz podświetlany wyświetlacz. W USA kosztował 8000-10000 USD. Urządzenie nie było kompatybilne z IBM PC, dlatego przegrało wojnę na rynku.
+
+Obecnie w sprzedaży znajdują się laptopy kompatybilne z architekturą Intel x86, z procesorami Intela, VIA i AMD. Układy x86 stosowane są również w notebookach Apple. Inne architektury wykorzystywane są sporadycznie: IBM w serii RS/6000 oraz Apple (do 2006 r.) używało układów PowerPC. Na rynku netbooków, mniejszych kuzynów laptopów, pojawiają się też urządzenia z procesorami ARM.
+
+Budowa
+Laptopy są zbudowane przeważnie jako pojedyncze niewielkie zamykane urządzenia, w których znajdują się wszystkie podzespoły wewnętrzne (procesor, pamięć, itd.), wybrane wejścia dla nośników (DVD-ROM, USB), złącza (HDMI, D-Sub, itd.) urządzenia komunikacji z użytkownikiem (klawiatura, ekran TFT oraz TrackPoint lub touchpad). Ekran notebooka jest wykonany w technologii TFT o rozmiarze 12-21 cali (poniżej 12 cali komputery przenośne klasyfikuje się jako netbooki). Wszystkie obecnie produkowane laptopy są wyposażone w ekrany panoramiczne (o proporcjach 16:9). Najpopularniejsze laptopy posiadają ekrany o przekątnej 15.6" (1366&nbsp;×&nbsp;768&nbsp;px) oraz 17.3" (1600&nbsp;×&nbsp;900&nbsp;px lub 1920&nbsp;×&nbsp;1080&nbsp;px – Full HD). Matryce o wyższych rozdzielczościach, zapewniające lepszy komfort pracy, stosowane są w laptopach wyższej klasy, wyposażonych w bardzo szybkie procesory, karty graficzne i dużą ilość pamięci RAM.
+Klawiatury laptopów są wyposażone w dodatkowy klawisz funkcyjny – Fn.
+
+Laptopy mają wewnętrzne akumulatory pozwalające na kilka godzin pracy bez napięcia sieciowego (w popularnych urządzeniach zwykle ok. 2-3 godzin, w najwyższej jakości laptopach po uruchomieniu wszystkich opcji oszczędzania nawet 8 godzin). Obecnie stosowane są akumulatory Litowo-jonowe (rzadziej Litowo-Polimerowe). Zewnętrzne zasilacze umożliwiające pracę oraz ładowanie akumulatorów z sieci elektrycznej. Istnieją także ładowarki podłączane do gniazda zapalniczki w samochodzie i samolocie.
+
+Masa współczesnego laptopa waha się zazwyczaj w granicach od 1 do 4 kilogramów. Notebooki mniejsze od kartki formatu A4 i ważące około 1 kg określa się mianem netbooka, a te cięższe, ważące około 5 kg – ang. Desktop replacement computer (DTR, dosłownie: zastępstwo komputera biurkowego).
+
+Specyficznym rodzajem laptopa jest Tablet PC posiadający dotykowy ekran.
+
+Cechy
+Zalety
+
+Do zalet laptopów można zaliczyć wysoką mobilność – relatywnie niewielkie urządzenie nie sprawia większych problemów przy transporcie, a pozwala w dowolnym miejscu, na niewielkiej przestrzeni uruchomić w pełni funkcjonalną stację roboczą (stąd nazwa – laptop z ang. lap – kolano, top – wierzch, komputer trzymany na kolanach). Dzięki swym rozmiarom i możliwościom stanowią również atrakcyjną alternatywę dla dużych komputerów stacjonarnych.
+
+Ponadto większość współczesnych notebooków jest wyposażona w dużo nowoczesnych technologii (IRDA, Bluetooth, Wi-Fi, porty USB, kartę sieciową z modemem, nagrywarkę CD/DVD, GPS itp.), pozwalających na przykład komunikować się z urządzeniami zewnętrznymi, bezprzewodowo lub przewodowo łączyć się z internetem itp. Dzięki portom USB można podłączyć do komputera zewnętrzną klawiaturę i mysz, które eliminują trudności związane z niewygodną, wbudowaną klawiaturą i touchpadem, TrackPointem lub trackballem (jeżeli nasze kontrolery mają wyjście PS/2 należy w takiej sytuacji zaopatrzyć się w przejściówkę PS/2-USB, gdyż żaden z obecnych na rynku laptopów/notebooków nie jest zaopatrzony w takie wejście.) Notebooki posiadają zazwyczaj również port pozwalający na podłączenie zewnętrznego monitora lub rzutnika, co ułatwia prowadzenie multimedialnych prezentacji czy też konferencji. Większość nowych modeli wyższej klasy jest już wyposażona w złącze DVI lub HDMI. Często producent umożliwia wpięcie laptopa w replikator portów lub stację dokującą – znacząco podnosi to funkcjonalność urządzenia. Dzięki temu zwiększa ilość i rodzaj portów (np. RS232, LPT, większa ilość gniazd USB, DVI, dodatkowy napęd, dysk twardy). Do niektórych laptopów (np. Dell z serii C i D) dostępne są stacje dokujące posiadające także złącza kart PCI i możliwość ładowania dodatkowego akumulatora.
+Ponadto pobierają mniej energii elektrycznej podczas zasilania prądem z gniazdka niż komputer stacjonarny – w przypadku niektórych firm używających komputerów głównie np. do edycji tekstów może być to znaczącym atutem.
+
+Wady
+Według niektórych osób do wad większości laptopów zalicza się niewygodna klawiatura, problemy ze sterowaniem kursorem oraz wzrost wagi wraz ze wzrostem funkcjonalności.  Poważną wadą komputerów typu laptop/notebook jest znacząco wyższa awaryjność, wynikająca z niewielkich rozmiarów (duży stopień integracji, problemy z chłodzeniem) i narażenie na wstrząsy przy częstym przenoszeniu. Bardzo awaryjnym elementem są akumulatory (niejednokrotnie działają poprawnie tylko przez kilkanaście miesięcy) – tu producenci często deklarują wprost ich czasową wytrzymałość, zależną także od sposobu użytkowania i przechowywania.
+
+Komputery typu laptop posiadają także niższe parametry wydajnościowe od komputerów biurkowych, co wynika głównie z konieczności zapewnienia niskiego poziomu poboru prądu i zapewnienia chłodzenia (w komputerze stacjonarnym często ponad 100 W na procesor i kolejne 100 W na układ graficzny). Stosuje się spowalnianie zegara procesora i pamięci, niższej wydajności chipset, słabsze układy graficzne itd. Niższe wydajności mają także dyski twarde – stosuje się urządzenia 2.5" (czasem 1,8") ustępujące parametrami typowym 3.5" w komputerach stacjonarnych, ale posiadające większą wytrzymałość na wstrząsy, mniejszy pobór prądu, niższą temperaturę i głośność podczas pracy. W komputerach laptop nie spotkamy też np. najwydajniejszych kart graficznych, dysków 10.000 RPM (najszybsze dyski w laptopach osiągają 7200 rpm – tyle co w typowym komputerze domowym, standardowe 5400 rpm). Konstrukcja laptopa jest kompromisem pomiędzy wydajnością a zapotrzebowaniem na prąd, możliwościami odprowadzania ciepła i masą.
+
+Komputery typu laptop są bardzo trudne w rozbudowie i praktycznie nie nadają się do modernizacji poza standardowo przewidzianymi rozszerzeniami. Typowym sposobem rozszerzania funkcjonalności są karty PCMCIA i ExpressCard (modemy GSM (3G-HSDPA), karty sieciowe, pamięci masowe, karty dźwiękowe, kontrolery dysków twardych, karty TV itp.), karty miniPCI (WiFi, Bluetooth, GSM (3G-HSDPA), GPS, Wireless USB itp.) oraz pamięci. W większości obecnie użytkowanych  laptopów można wymienić procesor, ponieważ jest montowany w podstawkach. Procesory wlutowane na stałe w płytę główną (BGA) stosowane są głównie w najlżejszych i najmniejszych modelach. Często możliwa jest również wymiana napędu optycznego na dysk twardy lub dodatkowy akumulator. Zazwyczaj wymiana taka możliwa jest do wykonania bez przerywania pracy komputera. Niektóre droższe wersje notebooków mają ponadto możliwość wymiany karty grafiki, jeśli jest ona w standardzie MXM.
+
+Zobacz też
+ultrabook
+netbook
+tablet
+
+
+
+
+
+

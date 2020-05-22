@@ -1,0 +1,40 @@
+Podatek Clarke’a – zwany również podatkiem Grovesa – Clarke’a na cześć ekonomistów, którzy zainicjowali jego badania (Edward H. Clarke i Teodore Groves) jest częścią mechanizmu podejmowania decyzji Grovesa – Clarka dotyczącego możliwości dostarczenia dobra publicznego. Jest to metoda zbiorowego określenia podaży dobra publicznego. Podatek ten jest próbą stworzenia systemu bodźców, w którym uczestnicy procesu decyzyjnego będą w optymalny sposób motywowani do ujawnienia swoich prawdziwych preferencji, czyli prawdziwej wartości, jaką przypisują danemu dobru publicznemu. Innymi słowy podatek ten ma motywować uczestników do mówienia prawy na temat wartości, jaką przypisują dobru publicznemu. Podatek Clarke’a będzie płacony jedynie przez tzw. podmioty kluczowe, czyli osoby, które poprzez ujawnienie swoich preferencji zmieniają sumę wartości przypisywanej do dobra publicznego przez wszystkich uczestników na tyle, że będzie ona większa lub mniejsza od kosztu dostarczenia dobra a tym samym zmieni decyzję na temat dostarczenia tego dobra. 
+
+Mechanizm podejmowania decyzji Grovesa –Clarke’a zakłada następujące etapy prowadzące do opłaty podatku Clarke’a:'''
+
+1. Przypisanie każdemu uczestnikowi równej części kosztu dostarczenia dobra publicznego. Koszt ten będzie poniesiony przez uczestników, jeśli zapadnie decyzja o dostarczeniu dobra publicznego.
+
+2. Każdy uczestnik deklaruje wartość, jaką przypisuje dobru publicznemu. Wartość deklarowana może być równa lub nie faktycznie przypisywanej wartości. Uczestnicy dokonują deklaracji jednocześnie nie znając wartości przypisanych przez innych uczestników.
+
+3. Na tej podstawie kalkulowana jest wartość netto dobra publicznego dla poszczególnych uczestników, czyli wartość deklarowana pomniejszona o koszt dostarczenia dobra.
+
+4. Jeśli suma deklarowanych wartości netto wszystkich uczestników jest dodatnia zapada decyzja o dostarczeniu dobra. Ujemna wartość netto jest równoznaczna z podjęciem decyzji o braku dostarczenia dobra.
+
+5. Od każdej osoby kluczowej, której ujawniona preferencja decydowała o podjęciu decyzji dotyczącej wszystkich uczestników będzie wymagany podatek Clarke’a.
+
+Wartość podatku płatnego przez kluczową osobę będzie równa sumie netto wycen pozostałych osób biorących udział w podejmowaniu decyzji. Podatek będzie płacony zarówno w sytuacji, gdy osoba kluczowa „przeważa” decyzję w kierunku dostarczenia dobra i braku jego dostarczenia. Podatek Clarke’a płatny jest państwu w taki sposób, że nie może on wrócić do uczestników procesu podejmowaniu decyzji.
+
+Podatek Clarke ‘a zakłada, że jeżeli wszyscy uczestnicy biorący udział w procesie decyzyjnym mogę poprawić swoje położenie poprze dostarczenie dobra publicznego to dobro to powinno być dostarczone. Nie oznacza to jednak, że każdy z uczestników poprawi swoje położenie w wyniku dostarczenia tego dobra. Będzie to zależeć od kosztu poniesionego przez danego uczestnika w stosunku do wartości, jaką przypisuje on danemu dobru publicznemu, czyli od wartości netto dla danego uczestnika.
+
+Ograniczenia dotyczące podatku Clarke’a:'''
+
+1. Podatek Clarke’a nie daje rozwiązania optymalnego w rozumieniu Pareto ponieważ może prowadzić do sytuacji, w której poprzez dostarczenie dobra publicznego nastąpi pogorszenie sytuacji niektórych uczestników. Poza tym istnienie podatku obniża możliwą konsumpcje prywatną w porównaniu do sytuacji gdyby podatek nie został zapłacony.
+
+2. Podatek ten zakłada, że preferencje konsumentów maja charakter quasi liniowy. Zakłada się, że koszty ponoszone przez konsumentów nie wpływają na ich popyt na dobro publiczne. Podatek sprawdzi się jedynie, jeśli będzie istniał pojedynczy optymalny poziom dobra publicznego.
+
+3. Podatek Clarke’a zakłada, że suma podatku nie zostanie w żaden sposób przekazana innym konsumentom biorącym udział w decyzji dotyczącej dobra publicznego. Transfer podatku do innych uczestników procesu decyzyjnego mógłby wpłynąć na ich preferencje dotyczące konsumpcji tego dobra. Zakłada się wiec, że podatek ten musi być całkowicie wyeliminowany z systemu.
+
+4. W sytuacji, gdy w procesie decyzyjnym bierze udział większa liczba uczestników pojawiają się trudności z określeniem, które osoby będą podmiotami decydującymi a wartość opłaconego podatku może być niewielka.
+
+5. Podatek Clarke’a pomija efekt, jaki na ujawnione preferencje może mieć poziom kosztu dostarczenia dobra publicznego, który to koszt jest komunikowany przed ujawnieniem preferencji uczestników procesu decyzyjnego. Występować będzie tu znany z psychologii społecznej mechanizmu zakotwiczenia, czyli tendencja do podawania wycen zbliżonych do znanego już kosztu.
+
+Przykład:'''
+
+Załóżmy, że dobrem publicznym jest naprawa krótkiego odcinka drogi wiodącej do czterech domków kempingowych będących własnością osób A, B, C, D. Załóżmy, że koszt inwestycji wynosi 20 tys. złotych. Osoby mają podjąć decyzję dotyczącą tej naprawy. Koszt naprawy „na głowę” wynosi 5 tys. złotych. Załóżmy, że uczestnicy deklarują następujące wartości przypisane naprawionej drodze: A = 2 tys., B = 5 tys., C = 10 tys., D = 5 tys. Suma wartości zadeklarowanych przez uczestników wynosi 22 tys. złotych jest wiec większa od kosztu dostarczenia tego dobra. Tym samym suma wartości netto przypisanych dobru publicznemu jest dodatnia i wyniesie 2 tys. złotych (-3+0+5+0). Decyzja jest wiec pozytywna i droga będzie naprawiona, jeśli decyzja będzie podejmowana zgodnie z mechanizmem Grovesa –Clarke’a. Osobą kluczową, której preferencja zdecydowały o wyniku jest osoba C, bowiem bez wartości netto tej osoby suma wartości pozostałych osób byłaby ujemna, czyli droga nie byłaby naprawiana. Osoba C zapłaci podatek Clarke’a w wysokości 3 tys. złotych (-3+0+0 ponieważ taka jest suma wartości netto pozostałych uczestników A, B, D).
+
+
+
+Zauważmy, że w przypadku osoby A wartość netto przypisana do dobra z wyłączeniem tej osoby wynosi ( 0+0+5) 5 tys. zaś wartość netto tej osoby -3 tys. Osoba ta nie jest wiec osobą kluczową podobnie jak osoba B i D, ponieważ ich wartości netto nie zmieniają ogólnej decyzji. Tym samym ich preferencje nie mają kluczowego wpływu na decyzję. Osoba A pogarsza swoją sytuacje w przydatku nabycia dobra, ponieważ jej preferencja netto jest ujemna. Tym samym osoba A może chcieć zaniżyć ujawnione wartość, aby wpłynąć na decyzję o niedostarczeniu tego dobra. Powiedzmy, że zdecyduje się zadeklarować wartość -6 tys., czyli powiedzieć, że naprawa drogi jest dla niej stratą. Być może osoba ta ceni sobie większa niedostępność swojego domu kempingowego. Tym samym wartość netto dla osoby A wyniesie ( -6-5) -11 tys. W takiej sytuacji osoba stanie się osobą kluczową, ponieważ jej preferencja zdecyduje o zaniechaniu naprawy drogi. Jednak, jako osoba kluczowa osoba A będzie musiała zapłacić podatek Clarke’a równy sumie netto wycen pozostałych osób, ( 0+0+5) czyli 5 tys. złotych. Tym samym obniżenie przez osobę A jej wyceny pozwala jej zaoszczędzić 3 tys. na wartości netto, ponieważ droga nie będzie w tym przypadku budowana, ale kosztuję ją 5 tys. podatku Clarke’a. Daję to osobie A stratę netto w wysokości 2 tys. złotych. Tym samym podatek Clarke’a motywuję tą osobę do ujawnienia jej realnych preferencji na temat remontu drogi i odstrasza ją od przesadzania i dramatyzowania na temat strat, jakie rzekomo miałaby ponieść w przypadku remontu.
+
+Podobnie osoba C będzie czuła się zmotywowana do realnego deklarowania wartości, jaką przypisuję naprawie drogi. Wartość netto dla tej osoby wynosi 5 tys. a podatek 3 tys. Tym samym osoba C realizuje ogólną wartość netto równą 2 tys. Osoba ta nie jest zainteresowana podawanie niższej wyceny niż prawdziwa, ponieważ tym samym zmniejsza ona prawdopodobieństwo remontu drogi, (co jest przecież jej preferencją) a nie zmniejsza podatku Clarke’a jaki musi zapłacić. Podanie zawyżonej wyceny też nie jest w interesie tej osoby, ponieważ w momencie deklaracji wyceny nie wie ona czy będzie osobą kluczową (nie zna wycen innych uczestników). Podanie zawyżonej wyceny zwiększa w jej przypadku prawdopodobieństwo stania się osobą kluczową i zapłaty podatku Clarke’a.
+

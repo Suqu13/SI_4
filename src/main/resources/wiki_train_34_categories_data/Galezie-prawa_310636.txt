@@ -1,0 +1,15 @@
+Prawo poboru (PP) - na rynku kapitałowym - to zasada umożliwiająca co najmniej zachowanie przez dotychczasowych akcjonariuszy proporcjonalnego udziału w kapitale akcyjnym danej spółki akcyjnej po nowej emisji jej akcji. Według tej reguły objęcie przez akcjonariuszy odpowiedniej ilości nowych akcji zależy ściśle od już posiadanego ich stanu ilościowego, i odbywa się w terminie specjalnie wyznaczonym im przez spółkę. Akcjonariusze niezainteresowani nowo emitowanymi walorami tej spółki mogą zbywać swoje prawa poboru osobom trzecim - gotowym wejść w skład jej akcjonariatu albo też chcącym powiększyć swój w nim udział. Czynności te, w przypadku dostępności akcji tejże spółki w obrocie publicznym, zachodzą za pośrednictwem giełdy, tzn. prawa poboru są w określonym czasie notowane na cedule giełdowej, z ceną wyjściową uzależnioną od liczby i rynkowej wartości akcji wszystkich emisji przeprowadzonych przez tę spółkę. W sytuacjach szczególnych (np. akceptowane wejście inwestora strategicznego do akcjonariatu danej spółki akcyjnej), możliwe jest wyłączenie dotychczasowych akcjonariuszy z prawa poboru przy nowej emisji akcji, wskutek podjęcia podczas walnego zgromadzenia akcjonariuszy stosownej uchwały (większością min. 80% procent głosów za). 
+ 
+Wzór na teoretyczną wartość prawa poboru
+,
+gdzie: 
+PP - teoretyczna wartość prawa poboru 
+S - cena rynkowa starych akcji
+E - cena emisyjna nowych akcji
+L - liczba jednostkowych praw poboru potrzebnych do objęcia jednej akcji nowej emisji.
+
+
+
+
+
+

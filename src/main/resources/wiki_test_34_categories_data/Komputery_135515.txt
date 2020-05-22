@@ -1,0 +1,9 @@
+Projekt DHEP (ang. Distributed Hardware Evolution Project) – przedsięwzięcie typu przetwarzania rozproszonego, którego celem jest projektowanie układów scalonych zdolnych do przeprowadzania własnej diagnostyki i raportowania błędów. Program opiera się na algorytmach ewolucyjnych, które umożliwiają tworzenie często doskonalszych obwodów niż te zaprojektowane przez człowieka. Wiele z nich spełnia powierzone zadania doskonale, mimo iż sposób ich działania pozostaje tajemnicą.
+
+Oprogramowanie i instalacja
+Oprogramowanie DHEP zostało napisane w Javie. Minimalne wymagania to komputer z 32 MB pamięci operacyjnej. Aplikacja nie wymaga przydzielania wolnego miejsca na dysku twardym, gdyż wyniki zapisywane są tylko na głównym serwerze. Nie wymaga również stałego i szybkiego łącza internetowego, gdyż ilości danych, jakie przesyła są znikome, a odstęp między poszczególnymi połączeniami z serwerem może być dowolnie konfigurowany. Program dostępny jest na platformy Linux oraz Windows.
+
+
+
+
+

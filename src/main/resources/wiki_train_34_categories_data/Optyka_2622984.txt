@@ -1,0 +1,22 @@
+
+Astro-H (nazywany też NeXT od New X-ray Telescope, czyli Nowy Teleskop Rentgenowski) – planowany naukowo-badawczy satelita budowany przez japońską agencję kosmiczną JAXA we współpracy z Holenderskim Instytutem Badań Kosmicznych SRON oraz NASA. Umieszczenie na orbicie wokółziemskiej na wysokości 550 km ma nastąpić w 2015 roku. Będzie służył do badań Wszechświata w zakresie promieniowania rentgenowskiego.
+
+Cele naukowe
+Dzięki zaawansowanej technologii, zastosowanej w najnowszych instrumentach do badania kosmosu w paśmie rentgenowskim, naukowcy będą mieć możliwość testowania hipotez, a zarazem dokonywania nowych odkryć. Celem badań będą m.in. centra aktywnych galaktyk, okolice czarnych dziur, supernowe oraz gromady galaktyk. Astronomowie liczą również na dokładne dane o wielkoskalowej strukturze Wszechświata, czyli jak powstają i ewoluują galaktyki i gromady galaktyk oraz jaką rolę w tym procesie spełnia ciemna materia.
+
+Instrumenty naukowe
+Hard X-ray Telescope (HXT)
+Soft X-ray Telescope (SXT-S, SXT-I)
+Hard X-ray Imager (HXI)
+Soft X-ray Spectrometer (SXS)
+Soft X-ray Imager (SXI)
+Soft Gamma-ray Detector (SGD)
+Satelita będzie ważył 2,4 t, a po rozłożeniu na orbicie jego długość wyniesie 14 metrów. Będzie to najcięższy japoński satelita umieszczony na orbicie.
+
+Zobacz też
+astronomia rentgenowska
+XMM-Newton
+
+
+
+Linki zewnętrzne

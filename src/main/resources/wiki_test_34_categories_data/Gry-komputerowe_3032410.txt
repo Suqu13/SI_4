@@ -1,0 +1,10 @@
+KingsAge – komputerowa gra strategiczna z gatunku MMOSG, wydana przez niemieckie studio Gameforge AG w 2009 roku. KingsAge uruchamiany jest przy użyciu przeglądarki internetowej. W grze gracz przejmuje kontrolę nad osadą, którą w miarę postępu w rozgrywce rozwija, aby móc zapanować nad osadami sterowanymi przez innych graczy. W 2009 roku polska strona KingsAge notowała 220 milionów odsłon.
+
+Rozgrywka
+Gra podzielona jest na serwery; każdy serwer stanowi kwadratowe pole o wymiarach tysiąc na tysiąc pól. Obszar stu na stu pól tworzy kontynent, a każdy serwer zawiera ich sto. Rozgrywka jest osadzona w realiach średniowiecza; każdy z graczy rozpoczyna grę od jednej osady, którą stopniowo rozwija i wykorzystując szkolone wojsko, próbuje zdobyć panowanie nad innymi osadami. Gracz może stracić swoją osadę po upłynięciu okresu jej systemowej ochrony przed podbojem – w takim przypadku gra rozpoczyna się od nowa. 
+
+Podstawą rozwoju w grze są surowce: kamień, drewno i ruda. Budynki wydobywcze potrzebują osadników, których można pozyskać dzięki rozbudowie młyna. Wyżej wymienione surowce są stosowane do rozwoju zabudowy osady, przeprowadzania badań i rekrutowania wojska; maksymalnie rozbudowana osada może posiadać 10 000 punktów za budynki oraz 10 000 punktów za wojsko. Podczas rozwoju osady czas budowy obiektów zwiększa się, jednak można go skracać dzięki rozwojowi zamku. Jedyną metodą zdobycia nowych osad jest ich podbicie. Aby podbić osadę, użytkownik musi posiadać przynajmniej jednego hrabiego oraz siły wojskowe. Podbijanie osady polega na zmniejszeniu w niej aprobaty mieszkańców wobec dotychczasowej władzy za pomocą ataków z udziałem hrabiego; jednakże, jeśli polegnie 50% jednostek podczas walki, hrabia także ginie. Gracz ma możliwość założenia sojuszu, paktowania i wypowiadania wojen innym sojuszom. Głównym celem gry jest dominacja w określonym świecie/kontynencie. Gra toczy się 24 godziny na dobę. Działania przeciwko innym graczom mogą być podejmowane podczas ich nieobecności w grze, jednak od północy do ósmej rano każdego gracza obowiązuje „bonus nocny”, który zwiększa zdolność obrony. 
+
+
+
+Linki zewnętrzne

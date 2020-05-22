@@ -1,0 +1,49 @@
+Linagliptyna – organiczny związek chemiczny z grupy inhibitorów dipeptydylopeptydazy 4. Stosowana w cukrzycy typu 2 w celu poprawy kontroli glikemii.
+
+Mechanizm działania
+Linagliptyna jest inhibitorem enzymu dipeptydylopeptydazy 4 (DPP-4; EC 3.4.14.5), biorącego udział w inaktywacji hormonów inkretynowych GLP-1 (glukagonopodobny peptyd 1) oraz GIP (glukozozależny peptyd insulinotropowy). Hormony te są szybko rozkładane przez enzym DPP-4. Oba hormony inkretynowe biorą udział w fizjologicznej regulacji homeostazy glukozy. Inkretyny są wydzielane przez cały dzień w niewielkim stężeniu podstawowym, ich stężenia rosną natychmiast po przyjęciu posiłku. GLP-1 oraz GIP zwiększają biosyntezę insuliny i jej wydzielanie z komórek beta trzustki w przypadku prawidłowych i zwiększonych stężeń glukozy we krwi. Ponadto GLP-1 zmniejsza wydzielanie glukagonu z komórek alfa trzustki, co powoduje zmniejszenie ilości glukozy uwalnianej z wątroby. Linagliptyna z dużą skutecznością odwracalnie wiąże się z DPP-4, przez co prowadzi do trwałego zwiększenia stężenia inkretyn oraz do przedłużenia utrzymywania się aktywnych wartości stężeń tych związków. Linagliptyna w sposób zależny od glukozy zwiększa wydzielanie insuliny i zmniejsza wydzielanie glukagonu, przez co pozwala na ogólną poprawę homeostazy glukozy. Linagliptyna wiąże się wybiórczo z DPP-4 oraz działa ponad 10 tysięcy razy bardziej wybiórczo w porównaniu z aktywnością DPP-8 lub DPP-9 w warunkach in vitro.
+
+Farmakokinetyka
+
+Okres półtrwania
+Skuteczny okres półtrwania dla kumulacji linagliptyny określony po doustnym podaniu wielu dawek 5 mg linagliptyny wynosi około 12 godzin. Po podawaniu linagliptyny raz na dobę w dawce 5 mg stan stacjonarny stężeń w osoczu występuje po podaniu trzeciej dawki.
+
+Wiązanie z białkami osocza i tkanek
+Wiązanie linagliptyny z białkami osocza zależy od stężenia, zmniejszając się z około 99% przy stężeniu 1 nmol/l do 75-89% przy stężeniu ≥30 nmol/l, co odzwierciedla wysycanie wiązania z DPP-4 wraz ze wzrostem stężenia linagliptyny. W dużych stężeniach, gdy DPP-4 było w pełni wysycone, 70–80% linagliptyny wiązało się z innymi białkami osocza niż DPP-4, stąd 30-20% pozostawało w osoczu w stanie niezwiązanym.
+
+Metabolizm
+Metabolizm odgrywa podrzędną rolę w eliminacji linagliptyny. Wykryto jeden główny metabolit o względnej ekspozycji stanowiącej 13,3% ekspozycji linagliptyny w stanie stacjonarnym, przy czym stwierdzono, że metabolit ten był nieaktywny farmakologicznie i dlatego nie wpływał na aktywność linagliptyny w zakresie hamowania DPP-4 w osoczu.
+
+Wydalanie
+Po doustnym podaniu zdrowym osobom dawki [14C] linagliptyny około 85% podanej radioaktywności wydalane jest z kałem (80%) lub moczem (5%) w ciągu 4 dni od podania dawki. Klirens nerkowy w stanie stacjonarnym wynosi około 70 ml/min.
+
+Wskazania do stosowania
+Linagliptyna wskazana jest  w leczeniu cukrzycy typu 2 w celu poprawy kontroli glikemii u dorosłych pacjentów:
+
+Stosowanie w monoterapii
+U pacjentów, u których kontrola glikemii uzyskana wyłącznie za pomocą diety i ćwiczeń fizycznych jest niewystarczająca i dla których metformina jest nieodpowiednia z powodu nietolerancji lub przeciwwskazana z powodu niewydolności nerek.
+Stosowanie w terapii skojarzonej
+W skojarzeniu z metforminą, kiedy stosowanie wyłącznie metforminy w połączeniu z dietą i ćwiczeniami fizycznymi nie wystarcza do uzyskania odpowiedniej kontroli glikemii.
+
+W skojarzeniu z pochodną sulfonylomocznika i metforminą, kiedy stosowanie terapii dwulekowej z zastosowaniem tych leków w połączeniu z dietą i ćwiczeniami nie wystarcza do uzyskania odpowiedniej kontroli glikemii.
+
+W skojarzeniu z insuliną stosowaną z metforminą lub bez metforminy, gdy ten sposób leczenia w połączeniu z dietą i wysiłkiem fizycznym nie wystarcza do uzyskania odpowiedniej kontroli glikemii.
+Przeciwwskazania
+Nadwrażliwość na substancję czynną lub na którąkolwiek substancję pomocniczą
+
+Działania niepożądane
+U niektórych pacjentów występują reakcje alergiczne (nadwrażliwość; częstość nieznana), które mogą być ciężkie, w tym świszczący oddech i zadyszka (nadreaktywność oskrzeli; częstość nieznana). U niektórych pacjentów występuje wysypka (częstość występowania niezbyt często), pokrzywka (pokrzywka; częstość występowania rzadko) i obrzęk twarzy, warg, języka i gardła, które mogą powodować trudności z oddychaniem lub przełykaniem (obrzęk naczynioruchowy; częstość występowania rzadko). Jeżeli u pacjenta wystąpią jakiekolwiek z wyżej wymienionych oznak choroby, należy przerwać stosowanie linagliptyny i natychmiast skontaktować się z lekarzem. Lekarz może przepisać lek stosowany w leczeniu reakcji alergicznej i przepisać inny lek stosowany w leczeniu cukrzycy. U niektórych pacjentów występowało zapalenie trzustki (zapalenie trzustki; częstość nieznana, częstość nie może być określona na podstawie dostępnych danych). W przypadku wystąpienia ciężkiego i długotrwałego bólu brzucha z wymiotami lub bez wymiotów, należy skontaktować się z lekarzem, ponieważ te objawy mogą wskazywać na zapalenie trzustki.
+
+Dawkowanie
+Dawka linagliptyny wynosi 5 mg raz na dobę. W przypadku dodania linagliptyny do metforminy, dawkowanie metforminy należy utrzymać, a linagliptynę podawać jednocześnie. Podczas stosowania linagliptyny w skojarzeniu z pochodną sulfonylomocznika lub z insuliną, aby zmniejszyć ryzyko wystąpienia hipoglikemii, może być konieczne zmniejszenie dawki pochodnej sulfonylomocznika lub insuliny.
+
+Preparaty
+Preparaty proste
+Trajenta
+
+Preparaty złożone
+Jentadueto (linagliptyna + metformina)
+
+
+
+Bibliografia

@@ -1,0 +1,26 @@
+Hydroksyzyna (łac. Hydroxyzinum) – organiczny związek chemiczny, wielofunkcyjna pochodna piperazyny, lek psychotropowy oraz przeciwuczuleniowy z grupy antyhistaminików I generacji, zsyntetyzowany i wprowadzony do lecznictwa pod nazwą handlową Atarax przez belgijską firmę UCB w roku 1956. Stosowany najczęściej w psychiatrii jako lek uspokajający i silnie hamujący aktywność układu nerwowego.
+Ze względu na swoje właściwości psychotropowe, w wielu krajach (w tym w Polsce) hydroksyzyna jest wydawana z aptek tylko na receptę, jednak w innych (głównie rozwijających się) można ją nabyć bez recepty.
+
+Z chemicznego punktu widzenia jest alkoholem (metabolizm w niemal połowie polega na enzymatycznym utlenieniu grupy alkoholowej -CH2OH na końcu wystającego bocznego łańcucha cząsteczki do grupy karboksylowej -COOH, co daje główny metabolit: cetyryzynę). Ma jedno centrum chiralności a zatem dwa enancjomery, oba są biologicznie czynne.
+
+Jako pochodna piperazyny, hydroksyzyna daje dwa szeregi soli. W handlu i medycynie występuje pod postacią zarówno chlorowodorku o łagodnie zasadowym charakterze, jak i dwuchlorowodorku. W Polsce preparaty tego specyfiku zawierają monochlorowodorek.
+
+Farmakokinetyka
+Hydroksyzyna podana doustnie w formie syropu wchłania się bardzo szybko z przewodu pokarmowego, działanie można odczuwać po ok. 5-10 min. od przyjęcia. Czas biologicznego półtrwania we krwi wynosi przeciętnie 7–10 godzin u dorosłych, jednak wyraźne efekty fizjologiczne są z reguły obserwowane nawet przez czas dwukrotnie dłuższy. U dzieci jest on krótszy wskutek szybszego metabolizmu, wynosi u nich 6–7 godzin. U starszych osób jest wydłużony (podobnie jak w przypadku większości leków metabolizowanych przez wątrobę) nawet do 18–21 godzin.Wyższe stężenia są osiągane w skórze niż w osoczu.
+
+Farmakodynamika
+Hydroksyzyna działa przede wszystkim silnie przeciwhistaminowo, a więc jest odwrotnym agonistą receptora histaminy H1 (stała Ki = ~2 nM). Dodatkowo stosunkowo silnie blokuje też receptory serotoniny 5-HT2A (Ki = ~50 nM). Ponadto posiada też znacznie słabsze działanie blokujące receptory α1-adrenergiczne (Ki = ~300 nM) oraz receptory dopaminy D2 (Ki = 378 nM). Wbrew wieloletnim podejrzeniom, które znalazły odbicie nawet w ulotkach preparatów hydroksyzyny, nie posiada ona żadnych klinicznie istotnych właściwości antycholinergicznych i po zażyciu tego leku nie istnieje jakiekolwiek ryzyko wystąpienia objawów atropinopodobnych, gdyż stała Ki przekracza 10 μM, a takie stężenia są fizycznie niemożliwe do osiągnięcia nawet po przyjęciu dawki letalnej.
+
+Działanie serotoninolityczne hydroksyzyny najprawdopodobniej jest przyczyną jej względnej efektywności przeciwlękowej, co umożliwia względnie efektywne zastosowanie tego leku w zaburzeniach lękowych, ponieważ leki podobne, tyle że posiadające "czyste" właściwości antyhistaminowe i pozbawione podobnego działania na receptory serotoniny, jak np. selektywna antyhistaminergicznie cetyryzyna, nie wykazują działania anksjolitycznego.
+
+Działania niepożądane i interakcje
+Działania niepożądane są podobne do występujących w przypadku stosowania wszystkich innych leków przeciwhistaminowych I generacji. Obejmują głównie nasiloną senność, euforię i hamowanie OUN. Ponadto lek może wywoływać zaburzenia układu krzepnięcia, a nawet sam (w przypadkach nadwrażliwości na lek) może być przyczyną wystąpienia objawów alergicznych. Przez niektórych podejrzewany jest o łagodne działanie kardiotoksyczne.Podany razem, może nasilać działanie depresantów, także tych narkotycznych (etanolu, morfiny i kodeiny).
+
+Nazwy handlowe
+Atarax
+Hydroxyzinum
+
+
+
+Bibliografia
+Farmakologia – Podstawy farmakoterapii, podręcznik dla studentów i lekarzy pod red. Wojciecha Kostowskiego, wyd. II poprawione, PZWL , W-wa 2001.

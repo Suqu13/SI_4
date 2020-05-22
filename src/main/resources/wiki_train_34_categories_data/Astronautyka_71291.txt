@@ -1,0 +1,29 @@
+''' Viking 1''' – bezzałogowa sonda kosmiczna z programu Viking wystrzelona 20 sierpnia 1975 r. przez amerykańską agencję kosmiczną NASA.
+
+Misja
+
+Po wystrzeleniu przy pomocy rakiety Titan IIIE/Centaur i 10-miesięcznym locie w kierunku Marsa, orbiter zaczął przekazywać zdjęcia planety na 5 dni przed wejściem na orbitę, którą osiągnął 19 czerwca 1976. Lot sondy wymagał w początkowej fazie korekt kursu, ponieważ trajektoria nie prowadziła na orbitę Marsa, ale mijała planetę w odległości 67 000 km. Celem takiego doboru pierwotnej trajektorii było uniknięcie zderzenia drugiego stopnia rakiety z powierzchnią Marsa, co mogłoby zakłócić wyniki badań. Lądowanie na Marsie, planowane początkowo na 4 lipca, opóźniono ze względu na wykryte nierówności terenu, do czasu znalezienia bezpieczniejszego miejsca. 20 lipca lądownik Viking 1 oddzielił się od orbitera i wylądował bezpiecznie na powierzchni 11:56:06 czasu uniwersalnego.
+
+
+W pierwszej fazie lądowania, wchodząc w atmosferę, pojazd schowany za osłoną termiczną, wyhamował do prędkości około 250 m/s. Na wysokości 6 km, otworzyły się spadochrony, redukując prędkość do 60 m/s. 1,5 km nad powierzchnią Marsa uruchomione zostały dodatkowe rakiety spowalniające tak, że w momencie lądowania prędkość opadania wynosiła 2,4 m/s.
+
+Rakiety hamujące posiadały 18 dysz rozpraszających gazy wylotowe na dużej powierzchni. Ograniczało to temperaturę spalin, co miało zapobiec ewentualnej sterylizacji gleby w okolicy lądowania.
+
+Lądownik Viking 1 osiadł na równinie Chryse Planitia, czyli Złotej Równinie, której nazwa została zaczerpnięta jeszcze z prac Schiaparellego, w punkcie o współrzędnych 22,697°N szerokości i 48,222°W długości geograficznej.
+
+Transmisja pierwszych zdjęć powierzchni nastąpiła 25 sekund po lądowaniu. Lądownik funkcjonował do 13 listopada 1982, kiedy to wadliwa komenda wysłana przez kontrolę naziemną spowodowała utratę kontaktu. Orbiter zakończył pracę nieco wcześniej- 17 sierpnia 1980 roku po wykonaniu 1485  okrążeń planety. Wszystkie zaplanowane eksperymenty zostały wykonane(zawiódł jedynie sejsmometr). Sukcesem zakończyły się pomiary dylatacji czasu, które okazały się zgodne z przewidywaniami ogólnej teorii względności Einsteina.  
+
+
+Zobacz też
+Viking 2
+program Viking
+Mariner 9
+Marsjańska Twarz
+
+Bibliografia
+Robert Godwin, Mars - Historia podboju Kosmosu, Wydawca: Prószyński Media Sp. z o.o. ISBN 978-83-7839-029-9
+
+
+
+
+

@@ -1,0 +1,174 @@
+Neptun (łac. neptunium, symbol Np) – pierwiastek chemiczny z grupy aktynowców o liczbie atomowej 93. Jest radioaktywnym pierwiastkiem metalicznym, pierwszym przedstawicielem transuranowców. Jego najtrwalszym izotopem jest  o czasie połowicznego rozpadu ok. 2 mln lat, powstający w kilogramowych ilościach jako produkt uboczny pracy reaktorów jądrowych, np. podczas produkcji plutonu. Bardzo małe ilości tego pierwiastka można znaleźć w rudach uranowych.
+
+Historia
+
+W układzie okresowym pierwiastków opublikowanym w 1869 przez Dmitrija Mendelejewa brakowało grupy aktynowców. Najcięższym znanym pierwiastkiem był uran, umieszczony błędnie w VI grupie. Wraz z poznawaniem kolejnych pierwiastków wypełniających puste miejsca w układzie okresowym spodziewano się odkrycia pierwiastka cięższego od uranu. Przewidywania jego właściwości chemicznych były oparte na częściowo błędnym układzie okresowym, w którym tor był umieszczony poniżej hafnu, protaktyn poniżej tantalu, a uran poniżej wolframu. Pierwiastek o numerze 93, nazywany wstępnie eka-renem, powinien znajdować się w grupie manganowców i mieć właściwości chemiczne zbliżone do manganu lub renu. Z tego powodu próby wyizolowania pierwiastka 93 z minerałów były skazane na niepowodzenie, chociaż później, w 1952 roku, neptun został wykryty w śladowych ilościach w rudach uranu.
+
+W roku 1934 Enrico Fermi ogłosił, że w wyniku bombardowania uranu neutronami i późniejszych rozpadów beta udało mu się otrzymać pierwiastek 93. W tym samym roku ukazała się praca Idy Noddack, w której zakwestionowała ona wyniki Fermiego z powodu nieuwzględnienia możliwości istnienia w próbce pierwiastków lżejszych od uranu, jednocześnie sugerując, że jądra atomowe mogą być rozbijane na kilka części, co historycznie miało większe znaczenie, niż sam fakt obalenia odkrycia. Fakt rozpadu ciężkich jąder po przyłączeniu neutronu został potwierdzony w roku 1939 przez Lise Meitner.
+
+Neptun został otrzymany ostatecznie przez Edwina McMillana i Philipa Abelsona w roku 1940, w amerykańskim Lawrence Berkeley National Laboratory na University of California w Berkeley. Zespół wyprodukował izotop neptunu  o  = 2,35 dnia poprzez bombardowanie uranu za pomocą powolnych neutronów:
+Jest to pierwszy otrzymany sztucznie transuranowiec, czyli pierwiastek cięższy od uranu. W układzie okresowym znajduje się bezpośrednio za uranem, co zainspirowało odkrywców do nazwania go „neptun”, przez analogię do Układu Słonecznego, gdzie planeta Neptun jest kolejną planetą po Uranie.
+
+W roku 1942 Arthur Wahl i Glenn Seaborg otrzymali wspólnie , który jest najtrwalszym izotopem neptunu, o okresie półtrwania  = 2,144 mln lat.
+W roku 1950 poprzez bombardowanie deuteronami izotopów ,  i  otrzymano izotopy neptunu ,  i . Kolejne izotopy, ,  i , uzyskano w roku 1958 w wyniku bombardowania deuteronami wysoko wzbogaconego .
+
+Izotopy
+Wszystkie 22 znane izotopy neptunu są promieniotwórcze. Spośród nich za stosunkowo stabilne uważa się trzy:
+'''''', T1/2 = 396,1 dnia. W 99,99740% przypadków przekształca się w  poprzez wychwyt elektronu, a w 0,00260% przypadków ulega rozpadowi alfa do protaktynu .
+'''''', T1/2 = 1,54 lat. W 87,3% przypadków przekształca się w uran  przez wychwyt elektronu, w 12,5% przypadków ulega rozpadowi beta do plutonu , a w 0,16% przypadków w wyniku rozpadu alfa powstaje z niego protaktyn .
+'''''', T1/2 = 2,144 lat. W wyniku rozpadu alfa powstaje z niego protaktyn . Daje początek szeregowi neptunowemu rozpadów promieniotwórczych pierwiastków.
+
+Występowanie w przyrodzie
+Najtrwalszym izotopem neptunu jest  o okresie półtrwania  = 2,144 mln lat, co jest czasem bardzo krótkim w stosunku do wieku Ziemi wynoszącego ok. 4,5 mld lat. Z tej przyczyny pierwotny neptun z okresu powstawania Ziemi uległ praktycznie całkowitemu rozpadowi i nie występuje obecnie w skorupie ziemskiej. Śladowe ilości neptunu  i  są znajdowane w przyrodzie jako produkty rozpadu pochodzące z reakcji jądrowych zachodzących w rudach uranu, np. w wyniku bombardowania  neutronami powstałymi przy spontanicznym rozszczepieniu . Maksymalny stosunek  do uranu w jego rudach osiąga około 10−12:1. Podstawowym źródłem neptunu (podobnie jak innych transuranowców) w biosferze są wybuchy jądrowe w atmosferze.  został wykryty w glebie w pobliżu miejsc testów broni jądrowej oraz w ściekach i osadach z elektrowni atomowych. Na podstawie analizy wyników dotyczących globalnego opadu promieniotwórczego oszacowano, że zostało wytworzone 2500 kg , co jest porównywalne do masy wytworzonego tą samą drogą plutonu, tj. 4200 kg  i 700 kg . Zawartość  na Ziemi wzrasta, co jest efektem wytworzenia i rozprzestrzenienia przez człowieka różnych krócej żyjących izotopów promieniotwórczych, ulegających przemianom jądrowym prowadzącym do neptunu, np.:
+(T1/2 = 14,4 lat) →  (T1/2 = 433 lat) →  (T1/2 = 2,1 mln lat)
+
+Neptun w glebie
+Zawartość neptunu w glebie jest bardzo niska. Stężenie  w skażonym opadem promieniotwórczym obszarze jest mniejsze niż 1% stężenia , co odpowiada promieniowaniu rzędu 10−16 Ci/g. Neptun najczęściej występuje w środowisku w postaci tlenku neptunu(IV) , chociaż mogą być obecne także inne jego związki. Neptun ogólnie jest bardziej mobilny od innych transuranowców, takich jak pluton, ameryk czy kiur, i może przenikać wraz z sączącą się wodą do niższych warstw gleby. Neptun z łatwością przylega do cząstek gleby, co powoduje jego około 5-krotne zatężenie w stosunku do stężenia w wodzie międzywęzłowej gleby. Jeszcze większe stężenia neptunu mogą powstawać w glebach gliniastych. Stężenie neptunu w roślinach, z powodu łatwej przyswajalności, jest takie samo jak w glebie.
+
+Otrzymywanie
+Neptun jest najczęściej uzyskiwany ze zużytych prętów paliwa jądrowego jako produkt uboczny produkcji energii w reaktorach jądrowych. Z jednej tony zużytego paliwa otrzymuje się około 500 g neptunu, prawie wyłącznie izotopu .
+Neptun metaliczny można otrzymać poprzez redukcję fluorku neptunu(III) (NpF3) parami baru lub litu w temperaturze 1200&nbsp;°C:
+2NpF3 + 3Ba → 2 Np + 3BaF2
+W skali wielogramowej neptun został otrzymany przez redukcję NpF3 nadmiarem wapnia, w obecności jodu jako katalizatora.
+
+Właściwości fizyczne
+Neptun jest srebrzystym metalem o gęstości około 20 g/cm³. Temperatura krytyczna wynosi 12&nbsp;000 K. Poniżej temperatury topnienia przechodzi trzy przemiany alotropowe.
+
+Masa krytyczna
+Najwięcej badań nad masą krytyczną neptunu dotyczy izotopu  ze względu na jego powstawanie jako produktu ubocznego pracy reaktorów jądrowych. Znajomość masy krytycznej jest istotna w związku z potencjalnymi zastosowaniami tego izotopu jako materiału rozszczepialnego w broni jądrowej. W zastosowaniach cywilnych znajomość masy krytycznej wykorzystywana jest do planowania bezpiecznego przechowywania odpadów promieniotwórczych zawierających neptun. Ilość neptunu umieszczanego w zbiorniku do przechowywania nie może być zbliżona do masy krytycznej. Istnieją także określone regulacje dotyczące maksymalnej zawartości danego izotopu podczas transportu. W doświadczeniach z próbkami o masie do 6 kg określono, że masa krytyczna neptunu-237 nieotoczonego reflektorem leży w okolicach 60 kg. Przeprowadzone analizy wykazały, że masa krytyczna nieosłoniętego reflektorem neptunu-237 mieści się, zależnie od użytego modelu obliczeń, w zakresie 63–81,9 kg, dla otoczonego wodą – 57,5–75,4&nbsp;kg, a stalą – 38,6–50 &nbsp;kg.
+
+Właściwości chemiczne
+
+Neptun tworzy szereg związków, w których może istnieć na stopniach utlenienia od +3 do +7.
+Wodne roztwory neptunu przybierają charakterystyczne dla danego stopnia utlenienia barwy:
+Np3+ – ciemny fiolet
+Np4+ – żółty
+NpVO2+ – zielony
+NpVIO22+ – różowy
+NpVIIO23+ – ciemna zieleń
+
+Neptun jest pierwiastkiem reaktywnym. Metaliczny neptun w temperaturze 20&nbsp;°C powoli pokrywa się warstewką tlenku , a w podwyższonej temperaturze zachodzi szybkie utlenianie powierzchni metalu, szczególnie w wilgotnej atmosferze. Wodór reaguje z neptunem przy stosunkowo niskiej temperaturze tworząc wodorek. Po podgrzaniu neptun reaguje z fluorowcami, fosforem i siarką. W temperaturze pokojowej łatwo rozpuszcza się w kwasie solnym, a w podwyższonych temperaturach również w . Neptun tworzy związki międzymetaliczne z uranem, plutonem, glinem, borem, kadmem, irydem, palladem i rodem.
+
+Związki chemiczne neptunu
+Wodorki
+W wyniku reakcji neptunu z wodorem otrzymuje się wodorki. Otrzymano i opisano dwa wodorki neptunu, niestechiometryczny  (x = 0–0,7) i . Ustalono, że  ma strukturę regularną, ściennie centrowaną (fcc). Dla  potwierdzono strukturę heksagonalną. Zmierzone gęstości wodorków neptunu wynoszą 10,4 g/cm³ dla  i 9,64 g/cm³ dla . Pojemność cieplna wodorków neptunu nie jest znana, jednak dla (s) oszacowano, że Cp w temperaturze 25&nbsp;°C wynosi 47,279 J/(mol·K).
+
+Właściwości chemiczne wodorków neptunu są słabo opisane. Znany jest fakt rozkładu wodorku neptunu w próżni, powyżej temperatury 300&nbsp;°C, z utworzeniem bardzo drobnego, pierwiastkowego neptunu wykazującego właściwości piroforyczne.
+
+Tlenki
+Pomimo występowania neptunu na pięciu stopniach utlenienia, pierwiastek ten tworzy tylko dwa trwałe bezwodne tlenki:  i ; znany jest też nietrwały .
+Tlenek neptunu(III), 
+Tworzenie się tlenku neptunu(III) zostało zaobserwowane za pomocą spektroskopii fotoelektronów.  tworzy się jako produkt pośredni w powolnym utlenianiu świeżych powierzchni metalicznego neptunu.
+Tlenek neptunu(IV), 
+ jest otrzymywany w wyniku termicznego rozkładu związków neptunu na wszystkich jego stopniach utlenienia. Występuje w postaci drobnego, ciemnobrązowego proszku. Ma strukturę krystaliczną regularną ściennie centrowaną (fcc). Krystalizacji  można dokonać na drodze elektrochemicznej, za pomocą reakcji transportu chemicznego z użyciem  lub w wyniku korozji metalicznego neptunu domieszkowanego .
+
+ jest trwały w szerokim zakresie temperatur i ciśnień. Związek ulega przejściu fazowemu z układu regularnego ściennie centrowanego w układ rombowy w zakresie ciśnień 33–37 GPa (ok. 325–365 tysięcy atm), a po obniżeniu ciśnienia tlenek wraca do swojej pierwotnej struktury krystalicznej. Związek jest trwały w obecności tlenu do ciśnienia rzędu 2,84 MPa (28 atm) i temperatury 364&nbsp;°C. Tlenek neptunu(IV) jest stosowany do wytwarzania , używanego w misjach NASA.  jest także strącany z roztworów zawierających jony neptunu w celu dalszego przetwarzania i transportu.
+
+Tlenek neptunu(V), 
+ ma postać brązowego proszku o jednoskośnej strukturze krystalicznej. W stosunku do tlenku neptunu(IV) jest dosyć nietrwały, rozkłada się na  i  w zakresie temperatur 420–700&nbsp;°C.
+
+Istnieje kilka metod otrzymywania . Do jednej z wcześniejszych należy barbotaż ozonu przez roztwór roztopionego nadchloranu litu () zawierającego jony , w wyniku czego strąca się . Stosuje się też rozkład termiczny tlenków uwodnionych, · i .
+
+Wodorotlenki
+Wodorotlenek neptunu(III), 
+ jest słabo poznany ze względu na łatwość, z jaką utlenia się do Np(IV), np. pod wpływem powietrza. Przypuszcza się, że jego rozpuszczalność znajduje się w zakresie wartości między rozpuszczalnością wodorotlenku uranu(III), a wodorotlenku plutonu(III):
+U(III) > Np(III) > Pu(III) > Am(III) > Cm(III)
+
+Uwodniony tlenek neptunu(IV) i wodorotlenek neptunu(IV), 
+W środowisku naukowym nie ma zgodności co do istnienia stabilnych uwodnionych tlenków neptunu(IV). Niektórzy badacze uważają, że uwodniony  jest produktem fizycznej absorpcji wody, wg innych jest to stabilny związek ·x. Wodorotlenek neptunu(IV) może powstawać w wyniku rozpuszczania tlenku neptunu(IV) lub hydrolizy jego rozpuszczalnych związków:
++ 2 → (aq),
+Np4+ + 4 ⇌ (aq) + 4H+
+
+Wodorotlenek neptunu(V), 
+Wodorotlenek ten budzi zainteresowanie m.in. z powodu jego obecności w odpadach promieniotwórczych.  otrzymuje się poprzez dodanie wody amoniakalnej i NaOH lub LiOH do lekko kwasowych lub zasadowych roztworów zawierających jony Np(V). Świeżo przygotowany  ma kolor zielony i strukturę amorficzną. W 1 M roztworze  produkt ten stopniowo ulega starzeniu, tworząc słabiej rozpuszczalny szarobiały osad. Wobec niższych (0,1 M) stężeń  proces starzenia nie występuje nawet w ciągu kilku miesięcy, zaś wobec 3 M  osad dojrzały powstaje natychmiast.
+
+Wodorotlenek neptunu(VI), 
+Tlenki uwodnione i wodorotlenki neptunu(VI) nie są do końca poznane i konieczne są dalsze badania by potwierdzić, które z syntetyzowanych związków neptunu(VI) są stabilne. Za wzór sumaryczny wodorotlenku neptunu(VI) przyjmuje się na ogół .
+
+Wodorotlenek neptunu(VII)
+Wodorotlenek neptunu(VII) został otrzymany na drodze strącania z kwaśnego roztworu zawierającego jony Np(VII) poprzez dodawanie NaOH lub LiOH do osiągnięcia pH 10. W wyniku tych doświadczeń ustalono wzór wodorotlenku jako . Inne badania oparte na miareczkowaniu wskazują, że związek zawiera tylko jedną grupę wodorotlenkową i ma on wzór . Wodorotlenek neptunu(VII) ma charakter kwasowy i z zasadami tworzy sole, neptuniany, np. neptunian amonu (NH4)2[Np2O7].
+
+Halogenki neptunu
+Fluorki
+Znane są cztery fluorki neptunu: , , , .
+
+Fluorki neptunu(III) i (IV) mogą być otrzymane na drodze reakcji:
++ ½ + 3HF →  + 2&nbsp;&nbsp;&nbsp;(500&nbsp;°C)
++ ¼ + HF →  + ½&nbsp;&nbsp;&nbsp;(500&nbsp;°C)
+
+Czterowartościowy fluorek może być przygotowany także poprzez bezpośrednią reakcję tlenku neptunu(IV) z fluorowodorem:
++ 4HF →  + 2
+ otrzymuje się w reakcji  z LiF i . W wyniku reakcji  z CO pod wpływem światła powstaje biały proszek będący prawdopodobnie mieszaniną  z inną, niezidentyfikowaną substancją.
+
+ jest pomarańczowym ciałem stałym o temperaturze topnienia 54,8&nbsp;°C. Jest związkiem bardzo reaktywnym. Ze względu na swoją lotność może potencjalnie mieć zastosowanie w procesach odzysku neptunu ze zużytego paliwa jądrowego. Jak wszystkie lotne związki promieniotwórcze, stwarza zagrożenie radiologiczne i chemiczne. Spośród znanych metod otrzymywania  należy wymienić następujące:
+
+
+Reakcje  z tlenkiem i fluorkiem neptunu(VI) przebiegają następująco:
+(s) + x(g) → (g) + x(g) + ''(x-1)''(g)
+(g) + x(g) → (g) + ''(x+1)''(g) + ''(x−3)''(g)
+
+
+
+Fluorkowe kompleksy neptunu
+Neptun(IV) (V) (VI) i (VII) tworzy liczne kompleksy fluorkowe. Dobrze zbadane są tego typu związki neptunu(IV) z Li, Na, K, Rb, , Ca, Sr, Ba. Do poznanych kompleksów fluorkowych neptunu(V) należą , , , . Można je otrzymać przez redukcję  fluorkami metali alkalicznych lub fluorowanie mieszaniny związków neptunu(IV) i fluorków jednowartościowych.
+
+Neptun tworzy również tlenofluorki: , ,  i .
+
+Pozostałe halogenki neptunu
+Poza fluorkami znane są halogenki neptunu(III) i (IV).
+ otrzymuje się poprzez:
+redukcję  mieszaniną  i  w temperaturze ok. 400&nbsp;°C
+redukcję  nadmiarem cynku
+redukcję roztworów zawierających neptun na wyższych stopniach utlenienia
+Tetrachlorek neptunu, , można otrzymać poprzez reakcję szczawianu neptunu lub  z  w temperaturze około 500&nbsp;°C lub reakcję  z heksachloropropenem (Cl2C=CCl−CCl3). Związek ten oczyszcza się przez sublimację; z fazy gazowej kondensuje on jako ciemnoczerwony lub pomarańczowy osad o temperaturze topnienia 530&nbsp;°C.
+Wyższych chlorków neptunu nie udało się otrzymać.
+
+Metody otrzymywania :
+3 + 4 → 3 + 2
+bezpośrednia reakcja metalicznego neptunu z bromem
+
+ otrzymuje się poprzez redukcję  nadmiarem cynku.
+
+Metody otrzymywania :
+reakcja  z  w temperaturze 500&nbsp;°C
+bezpośrednia reakcja metalicznego neptunu z nadmiarem jodu
+
+Znane tlenohalogenki neptunu to , NpOCl i NpOI.
+Neptun na stopniach utlenienia (III)–(VI) tworzy halogenkowe kompleksy z litowcami, metalami ziem rzadkich (Ca, Sr, Ba, Ra) i amoniakiem.
+
+Pozostałe proste związki neptunu
+Chalkogenki
+Znanymi siarczkami i tlenosiarczkami neptunu są , , , , , ,  i .
+Znanymi selenkami i tlenoselenkami neptunu są , , , , , ,  i . Znane tellurki i tlenotellurki neptunu to , , , NpTe2−x,  i .
+Związki z azotowcami
+Azotek neptunu(III), NpN, otrzymuje się w reakcjach wodorków neptunu z azotem w temperaturach powyżej 300&nbsp;°C. Fosforek neptunu(III), NpP, otrzymuje się przez przekształcenie metalicznego neptunu w postać proszku poprzez nawodorowanie i późniejsze odwodornienie, a następnie poddanie działaniu fosforowodoru, , w temperaturze 350&nbsp;°C.  otrzymuje się w reakcji czerwonego fosforu z metalicznym neptunem w temperaturze 740&nbsp;°C.  i NpAs otrzymuje się poprzez reakcje par arsenu z metalicznym neptunem.  i  otrzymano w wyniku reakcji transportu chemicznego z użyciem jodu.  i  zostały otrzymane poprzez wygrzewanie obu metali w temperaturze topnienia antymonu. NpBi otrzymano między innymi za pomocą krystalizacji monokryształów ze stanu stałego.
+Węgliki
+Otrzymane zostały następujące węgliki neptunu: , , .
+
+Zastosowania
+Prekursor w produkcji plutonu
+ pod wpływem napromieniowywania neutronami przekształca się w , który ulega rozpadowi beta do :
+Proces ten jest wykorzystywany do produkcji , który znajduje zastosowanie głównie w generatorach termoelektrycznych. Teoretycznie źródłem 238Pu mogłoby być zużyte paliwo jądrowe, jednak wymagałoby to żmudnego procesu oddzielenia go od innych izotopów plutonu.
+
+Materiał rozszczepialny
+Neptun należy do materiałów rozszczepialnych, stąd też teoretycznie może być używany jako paliwo do reaktorów prędkich lub w broni jądrowej. Z tego powodu od 1999 roku Międzynarodowa Agencja Energii Atomowej monitoruje produkcję i badania nad czystym neptunem. Do 2003 r., globalna produkcja neptunu  w cywilnych reaktorach jądrowych wyniosła 54&nbsp;000 kg, co wystarczyłoby do uzyskania około 1000 mas krytycznych tego izotopu.
+
+Radiochemia
+W radiochemii  jest wykorzystywany do konstrukcji detektorów neutronów wysokoenergetycznych o energiach rzędu MeV.
+
+Badanie nadprzewodnictwa
+Związki zawierające neptun oraz pluton znajdują zastosowanie w badaniach dotyczących nadprzewodnictwa. Mimo że pierwiastki z elektronami podpowłoki f wykazują niższe temperatury nadprzewodnictwa, to w stosunku do związków zawierających pierwiastki d-elektronowe, łatwiej jest takie związki otrzymać i zrozumieć zachodzące w nich zjawisko nadprzewodnictwa.
+
+Zagrożenia dla ludzi
+Neptun może dostać się do ciała człowieka poprzez jedzenie, wodę lub, co jest mniej prawdopodobne, poprzez oddychanie, np. jako składnik kurzu. Dawka pochłonięta w wyniku spożycia lub inhalacji jest wydzielana prawie w całości z ciała człowieka w ciągu kilku dni. Do krwiobiegu przedostaje się ok. 0,05% pochłoniętej ilości neptunu. Połowa tej ilości odkłada się w szkielecie, około 10% w wątrobie, około 5% w pozostałych tkankach miękkich, a reszta stopniowo wydalana jest z moczem. Biologiczny okres półtrwania dla szkieletu i wątroby wynosi odpowiednio 50 i 20 lat. Ilość dawki pochłoniętej przez szkielet i wątrobę zależy od wieku organizmu, przy czym ułamek dawki pochłoniętej przez wątrobę zwiększa się wraz z wiekiem. Neptun w szkielecie odkłada się na powierzchni kości i z czasem przenika w głąb tkanki kostnej. Oprócz zagrożenia spowodowanego pochłonięciem dawki, istnieje zagrożenie spowodowane promieniowaniem gamma emitowanym przez neptun-236 i neptun-237 oraz produkt jego rozpadu, protaktyn-233. Głównym zagrożeniem dla zdrowia człowieka jest rak, który może być spowodowany przez promieniowanie emitowane przez neptun odłożony na powierzchni kości lub w wątrobie.
+
+Odpady zawierające neptun
+
+Neptun, jak i inne pierwiastki promieniotwórcze wchodzące w skład odpadów powstających ze zużytego paliwa jądrowego, może być powtórnie przetwarzany, m.in. z wykorzystaniem procesu PUREX, lub zabezpieczany i trwale składowany. Przetwarzanie odpadów zawierających neptun może polegać na neutralizacji kwaśnego wodnego roztworu za pomocą NaOH, w wyniku czego powstaje szlam zawierający pewne ilości związków neptunu. Stężenie neptunu w szlamie zależy od pochodzenia odpadów i konkretnej metody przetwarzania. Gdy stężenie neptunu w odpadach jest na tyle wysokie, by jego odzyskanie miało sens praktyczny i ekonomiczny, neptun poddaje się oczyszczeniu, a następnie przetworzeniu w pluton-238 lub uran.
+
+Jednym ze sposobów usuwania odpadów promieniotwórczych jest składowanie ich w głębokich warstwach geologicznych, na głębokości od kilkudziesięciu do wieluset metrów, w zależności od terenu i rodzaju składowanych odpadów. Jest to najczęściej stosowana metoda w przypadku składowania odpadów o dużej promieniotwórczości. Mimo że odpady takie zawierają zazwyczaj niewielkie ilości neptunu, to jego ilość wzrasta wraz z upływem czasu na skutek rozpadu α ameryku-241 o T1/2 = 432,7 lat. Ze względu na długi okres półtrwania neptunu-237 wynoszący ok. 2 mln lat, wysoką radiotoksyczność, stosunkowo dobrą rozpuszczalność w wodzie, ruchliwość oraz niską sorpcję na skałach, w planowaniu potencjalnych metod i miejsc składowania należy wziąć pod uwagę możliwość przedostania się neptunu do warstw geologicznych. Lokalizacja miejsca składowania odpadów promieniotwórczych powinna charakteryzować się nikłym zagrożeniem uszkodzenia składowiska przez aktywność sejsmiczną lub wody gruntowe i minimalizacją zagrożenia przedostania się odpadów do wód podziemnych w przypadku uszkodzenia składowiska.
+
+Przypisy
+
+
+Bibliografia

@@ -1,0 +1,12 @@
+Doom engine – silnik, który firma id Software stworzyła na potrzeby gry Doom. Został napisany w języku C przez Johna Carmacka. Dodatkowo nad silnikiem pracowali Mike Abrash, John Romero, Dave Taylor i Paul Radek. Opracowany na platformie NeXT Steve`a Jobsa, został przeportowany do środowiska DOS. W 1997 roku kod źródłowy silnika został opublikowany na niekomercyjnej licencji z myślą o wykorzystaniu go pod Linuksem. Dwa lata później kod został uwolniony na licencji GNU General Public License. Doczekał się wielu modyfikacji, m.in. wprowadzenia prawdziwie trójwymiarowych modeli, czy obsługi OpenGL.
+
+Lista gier opartych na Doom engine i jego pochodnych
+Doom
+''''
+Final Doom
+Heretic
+Hexen
+Hexen Deathkings of the Dark Citadel
+Strife
+
+

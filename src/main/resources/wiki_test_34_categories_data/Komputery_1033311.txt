@@ -1,0 +1,22 @@
+S-400''' - rodzina pakietów cyfrowych na tranzystorach germanowych opracowana w Instytucie Maszyn Matematycznych i produkowana przemysłowo przez ELWRO.
+ 
+Wprowadzona z komputerem ZAM-21 i stosowana w komputerach drugiej generacji, urządzeniach zewnętrznych i układach automatyki.
+
+Spełniały podobną funkcje jak układy scalone ale wykonane były z elementów dyskretnych na jednostronnej płytce drukowanej ze złączem krawędziowym.
+
+Dane techniczne
+poziomy logiczne: 0 i -6V
+zakres częstotliwo­ści: 0-400 kHz
+temperatura pracy:­ 5-50 °C
+wilgotność: 40-85%
+odporność na wibracje: do 50 Hz i udary do 7g o częstotliwości do 3 Hz
+zasilanie: 12, -6, -15 V.
+
+Zobacz także
+S-50 - wersja na tranzystorach krzemowych
+Logister - podobne układy, montowane w plastykowych kostkach i zalewane żywicą
+
+
+
+
+

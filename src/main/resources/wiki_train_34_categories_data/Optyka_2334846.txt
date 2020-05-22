@@ -1,0 +1,15 @@
+Term Rydberga – w mechanice kwantowej, rodzaj termu, w którym występuje przejście rydbergowskie. Nazwa pochodzi od nazwiska szwedzkiego fizyka Johannesa Rydberga.
+
+Przejście rydbergowskie następuje w przypadku, gdy wzbudzeniu elektronowemu ulega elektron, który przeskakuje z całkowicie zapełnionego orbitalu, na orbital o wyższej głównej liczbie kwantowej n, niż inne zapełnione orbitale w stanie podstawowym. Tego rodzaju termy mogą sięgać wysokich wartości liczb n, a ich granicę stanowi jonizacja, czyli całkowite oderwanie elektronu od atomu.
+
+Energia termów rydbergowskich jest określona wzorem:
+
+,gdzie:
+R∞ – to stała Rydberga
+A – jest energią jonizacji
+n – główna liczba kwantowa
+δ  – poprawka na defekt kwantowy
+
+Przejścia rydbergowskie dają w widmie podobne serie, jak w przypadku widm atomowych.
+
+Bibliografia

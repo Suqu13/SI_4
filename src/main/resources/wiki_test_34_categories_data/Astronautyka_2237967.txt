@@ -1,0 +1,14 @@
+Poppy 4A (wystrzelony jako Solrad 7B, ang. Solar Radiation 7B – „promieniowanie słoneczne”) – amerykański satelita wywiadu elektronicznego serii Poppy. Zbierał dane o parametrach pracy radzieckich radarów obrony powietrznej i antybalistycznej. Pozostawał utajniony do września 2005. Zbudowany przez Naval Research Laboratory, NRL.
+
+Poppy 4A został wystrzelony 9 marca 1965 wraz z trzema innymi satelitami serii Poppy oraz kilkoma satelitami innego typu. Statek pozostaje na orbicie okołoziemskiej, której trwałość szacuje się na 1000 lat.
+
+Budowa i działanie
+Według NASA satelita prowadził monitoring słonecznego promieniowania rentgenowskiego i wyposażony był w komory jonizacyjne i liczniki Geigera mierzące promieniowanie X z zakresów 0,05-0,3 nm (min. energia promieniowania padającego prostopadle wynosiła 2*10-5 erga/cm²), 0,1-0,8 nm (1*10-4 erga/cm²), 0,8-1,2 nm (1*10-4 erga/cm²),  0,8-2,0 nm (1*10-4 erga/cm²), 4,4-5,5 nm i 4,4-6,0 nm (1*10-2 erga/cm²). Instrumenty mogły zbierać dane przy świetle słonecznym padającym pod kątem do 35°. Z tego powodu, między 25 maja a 17 czerwca 1965, dane nie były zbierane.
+
+Nazewnictwo
+Satelity serii Poppy i jej poprzednika – serii GRAB – miały wiele nazw, które miały zataić prawdziwe ich przeznaczenie. Program GRAB pierwotnie nazwany był Plotkarzem (ang. Tattletale), a później GRAB (grabić, porywać, w tym wypadku informacje). By przeznaczenie satelitów nie było jasne dla ZSRR, projekt nazywano też GREB (słowo pozbawione znaczenia w języku angielskim) i wymyślono dla tego skrótu odpowiednie rozwinięcie: Galactic Radiation Experimental Background (eksperyment tła promieniowania galaktycznego). By jeszcze bardziej zaciemnić przeznaczenie satelitów serii GRAB i Poppy, wysyłano je pod nazwą Solrad (z numerami od 1 do 7). Miało to wskazywać, że będą one prowadzić obserwacje Słońca.
+
+
+
+Bibliografia
+Linki zewnętrzne

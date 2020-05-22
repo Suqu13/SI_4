@@ -1,0 +1,15 @@
+Zasady (polityka) rachunkowości - według ustawy o rachunkowości z dnia 29 września 1994 r. - wybrane i stosowane przez jednostkę rozwiązania dopuszczone ustawą, w tym także określone w MSR 8, zapewniające wymaganą jakość sprawozdań finansowych.
+
+Ustawa o rachunkowości określa je w art. 10'''.
+Jednostka powinna posiadać dokumentację opisującą w języku polskim przyjęte przez nią zasady (politykę) rachunkowości, a w szczególności dotyczące:''
+określenia roku obrotowego i wchodzących w jego skład okresów sprawozdawczych;''
+metod wyceny aktywów i pasywów oraz ustalania wyniku finansowego;''
+sposobu prowadzenia ksiąg rachunkowych, w tym co najmniej:''
+zakładowego planu kont, ustalającego wykaz kont księgi głównej, przyjęte zasady klasyfikacji zdarzeń, zasady prowadzenia kont ksiąg pomocniczych oraz ich powiązania z kontami księgi głównej;''
+wykazu ksiąg rachunkowych, a przy prowadzeniu ksiąg rachunkowych przy użyciu komputera - wykazu zbiorów danych tworzących księgi rachunkowe na komputerowych nośnikach danych z określeniem ich struktury, wzajemnych powiązań oraz ich funkcji w organizacji całości ksiąg rachunkowych i w procesach przetwarzania danych;''
+opisu systemu przetwarzania danych, a przy prowadzeniu ksiąg rachunkowych przy użyciu komputera o opisu systemu informatycznego, zawierającego wykaz programów, procedur lub funkcji, w zależności od struktury oprogramowania, wraz z opisem algorytmów i parametrów oraz programowych zasad ochrony danych, w tym w szczególności metod zabezpieczenia dostępu do danych i systemu ich przetwarzania, a ponadto określenie wersji oprogramowania i daty rozpoczęcia jego eksploatacji;''
+systemu służącego ochronie danych i ich zbiorów, w tym dowodów księgowych, ksiąg rachunkowych i innych dokumentów stanowiących podstawę dokonywania w nich zapisów.''
+Kierownik jednostki ustala w formie pisemnej i aktualizuje dokumentację, o której mowa w ust. 1.''
+W sprawach nieuregulowanych przepisami ustawy, przyjmując zasady (politykę) rachunkowości, jednostki mogą stosować krajowe standardy rachunkowości wydane przez Komitet Standardów Rachunkowości. W przypadku braku odpowiedniego standardu krajowego, jednostki, inne niż wymienione w art. 2 ust. 3, mogą stosować MSR.''
+
+

@@ -1,0 +1,20 @@
+ABS 2''' (ang. Asia Broadcast Satellite 2'') – prywatny komercyjny geostacjonarny satelita telekomunikacyjny, należący do operatora Asia Broadcast Satellite (firmy zarejestrowanej w Hongkongu), świadczący usługi klientom prywatnym i rządowym, w tym wojsku. Będzie pracował na pozycji orbitalnej 75°E. Planowy czas działania satelity wynosi 15 lat.
+__NOTOC__
+Statek został wystrzelony na orbitę wraz z satelitą Athena-Fidus. Oba statki zostały przywiezione do Gujany Francuskiej 11 grudnia 2013 roku na pokładzie samolotu An-124.
+
+Budowa i działanie
+Satelita został zbudowany przez firmę Space Systems/Loral, w oparciu o platformę LS-1300. Zamówiony został 13 października 2010. Budowa, wyniesienie i ubezpieczenie kosztowało około 320 mln USD.
+
+Wielozadaniowy ładunek telekomunikacyjny satelity obejmuje transpondery pasm C (do 32), Ku (do 51) i Ka (do 6). Wiązki pasma C obejmują Europę, Azję i Afrykę, z naciskiem na Bliski Wschód i Afrykę Zachodnią. Wiązka pasma Ka obejmuje Afrykę Północą i Bliski Wschód (od Afganistanu po Somalię). Sześć wiązek pasma Ku pokrywa:
+całą Rosję, Kazachstan i państwa skandynawskie
+Azję Południową i Bliski Wschód
+subkontynent indyjski
+Bliski Wschód (od Afganistanu po Somalię), Turcję, Bałkany, aż po Francję
+południową i środkową Afrykę
+Koreę, Malezję, Indonezję, aż do Papui-Nowej Gwinei
+
+Część przepustowości satelity została wydzierżawiona innym operatorom. Transpondery pasma C wykupiło Singapore Telecommunications, za cenę około 80 mln USD za 2 lata. Będą one dostępne na rynku pod oznaczeniem ST 3'''. Transpondery użytkowane przez koreański KT Telecom będą oznaczane jako Koreasat 8'''. Z 9 transponderów będzie też korzystał rosyjski operator GeoTelecommunications. Przeniesie on na ABS-2 obsługę klientów wcześniej korzystających z satelity ABS-1.
+
+
+
+Bibliografia

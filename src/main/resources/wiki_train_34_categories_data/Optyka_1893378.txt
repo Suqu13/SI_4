@@ -1,0 +1,5 @@
+Spektroskopia fotoakustyczna oparta jest na efekcie fotoakustycznym. Pierwsze prace związane z odkryciem tego zjawiska datuje się na lata osiemdziesiąte XIX wieku. W tym czasie Alexander Graham Bell, John Tyndall i Wilhelm Röntgen jako pierwsi zajmowali się efektem optoakustycznym. Zjawisko to polega na zamianie energii zawartej w wiązce światła na energię kinetyczną cząstek, na które pada światło. W konsekwencji dochodzi do lokalnego zwiększenia temperatury, co powoduje wzrost ciśnienia i generowanie fali akustycznej (zastosowanie periodycznie modulowanej wiązki światła).
+
+Poprzez pomiar dźwięku dla różnych długości fali światła możemy zarejestrować widmo fotoakustyczne próbki. Na jego podstawie jesteśmy w stanie rozróżnić badane substancje (nawet o bardzo skomplikowanej budowie) poprzez porównanie wzorców (ang. fingerprint). Spektroskopia fotoakustyczna ma zastosowanie przy badaniu gazów, cieczy oraz ciał stałych. W przypadku ciał stałych możliwe jest skanowanie punkt po punkcie (mapowanie obiektu), czego efektem jest dwuwymiarowy rozkład amplitudy sygnału akustycznego. Taki pomiar umożliwia na przykład badanie defektów sieci krystalicznej.
+
+

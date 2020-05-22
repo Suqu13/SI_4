@@ -1,0 +1,11 @@
+Skoki Narciarskie 2004''' – druga sportowa gra komputerowa z polskiej serii Skoki Narciarskie dyskontującej popularność skoczka Adama Małysza (jest też na jej okładce).
+
+W grze pojawił się z nieznanych powodów tryb realistyczny, niewiele różniący się od zręcznościowego. Gracz tworzy nick własnego zawodnika, ustawia jego parametry i prowadzi go w kolejnych sezonach ku sukcesom i sławie bądź serii poniżających porażek. Kariera przeznaczona jest dla 1-5 graczy. W grze sezon zawiera (tak jak w rzeczywistości): Turniej Czterech Skoczni, mistrzostwa świata w lotach narciarskich oraz mistrzostwa świata w skokach narciarskich. Każdą z tych imprez można rozegrać osobno.
+
+Podczas najazdu na próg, gracz ustala kąt nachylenia skoczka, próbując przyjąć optymalną pozycję do wybicia, zaś po wylądowaniu chroni zawodnika przed wywrotką, manewrując myszką. Możliwe jest skakanie po 27 skoczniach na całym świecie. W grze wykorzystano silnik graficzny RenderWare. O licencję zostali oparci Adam Małysz i ekipa polskich skoczków. Nazwiska zawodników ze światowej czołówki (2004) nie są prawdziwe. Autorzy dodali do gry łatkę edytującą nazwiska komputerowych zawodników. Gra zasłynęła z dwóch krytycznych błędów. Pierwszy w pierwotnej wersji gry uniemożliwiał poprawne działanie gry po rozegraniu pierwszego konkursu w karierze. Drugi pojawił się wraz z patchem 2.0, który wprawdzie usunął wcześniejszy bug (oraz dodał możliwość grania kariery w Internecie), ale zarazem utworzył drugi - nie można było uruchomić gry bez instalacji sterowników graficznych, przy czym tych nowszych nie wyłapywała.
+
+Podczas konkursu grę komentują Maciej Kurzajewski i Marek Rudziński. 
+
+W grze Skoki Narciarskie 2004'' istnieje możliwość rywalizacji na 39 skoczniach, wykonanych na wzór prawdziwych obiektów.
+
+Linki zewnętrzne

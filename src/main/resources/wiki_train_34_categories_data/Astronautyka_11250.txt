@@ -1,0 +1,54 @@
+
+Salut (Салют) to seria radzieckich stacji kosmicznych, konstruowanych w latach 70. i 80. dwudziestego wieku. Konstrukcja stacji była stosunkowo prosta - składały się z pojedynczego modułu, wynoszonego na orbitę jednym startem rakiety nośnej. Program znano również jako DOS (ros. Dołgowriemiennaja Orbitalnaja Stancija - Długoczasowa Stacja Orbitalna).
+
+Opis stacji
+Pod nazwą Salut wysyłano dwa typy stacji: cywilne Zarja (ros. zorza) oraz wojskowe Ałmaz (ros. diament).
+
+Salut 1 (DOS 1)
+
+Salut 1 był pierwszą stacją orbitalną w historii, wyniesioną na orbitę 19 kwietnia 1971. Jej pierwsza załoga, na pokładzie pojazdu Sojuz 10, nie mogła dostać się na jej pokład ze względu na awarię mechanizmu dokującego. Załoga druga, na pokładzie kapsuły Sojuz 11, spędziła na jej pokładzie 23 dni. Niestety awaria systemu wyrównywania ciśnienia w kapsule doprowadziła do śmierci wszystkich trzech kosmonautów podczas lądowania. Stacja weszła w atmosferę Ziemi 11 października 1971.
+
+Salut 2 (Ałmaz 1)
+
+Salut 2, wystrzelony 3 kwietnia 1973, stanowił w rzeczywistości prototyp ściśle tajnej stacji kosmicznej Ałmaz - oznaczenie Salut nadano, aby ukryć jej prawdziwe przeznaczenie. Wskutek wadliwej pracy trzeciego stopnia rakiety Proton nowa stacja uzyskała zbyt szybką rotację, co praktycznie uniemożliwiło jej wykorzystanie do misji załogowych. Salut 2 obiegał Ziemię przez 55 dni, do 28 maja. 
+
+Stację Salut oznaczoną DOS 3''', której nazwę przejęła stacja Ałmaz, wyniesiono na orbitę 11 maja 1973 roku, trzy dni przed startem amerykańskiej stacji Skylab. Błąd w oprogramowaniu stacji, pozostającej w tym momencie poza zasięgiem radzieckiej kontroli lotu, doprowadził do odpalenia silników korekcyjnych stacji, które kontynuowały pracę aż do całkowitego wyczerpania paliwa. Ponieważ stacja znajdowała się już na orbicie i została wychwycona przez zachodnie radary, władze radzieckie ogłosiły, że pojazd był satelitą o nazwie Kosmos 557'''. Stacja przetrwała na orbicie zaledwie 11 dni i była, podobnie jak poprzednia bezużyteczna.
+
+Salut 3 (Ałmaz 2)
+
+Salut 3 został wystrzelony 25 czerwca 1974. On także należał do wojskowego programu Ałmaz. Po raz pierwszy zastosowano w niej ruchome płaszczyzny z bateriami słonecznymi, automatycznie kierowane ku Słońcu, co pozwoliło na bardziej ekonomiczną gospodarkę paliwem dla silników korekcyjnych. Zwiększono funkcjonalność pomieszczeń wewnętrznych przy nie zmienionej objętości, ponadto wyposażono stację w automatyczny powrotnik (lądownik). Na nową stację posłano dwie załogi. Pierwsza,w składzie Pawel Popowicz i Jurij Artiuchin, dotarła  w statku Sojuz 14 5 lipca i pracowała przez 15 dni; druga wystartowała 26 sierpnia 1974 r. w Sojuzie 15, lecz operacja połączenia nie powiodła się i załoga Giennadij Sarafanow i Lew Diomin po dwóch dniach powróciła na Ziemię. 23 września 1974 r. odzyskano ze stacji lądownik zawierający kasety z filmami. Sama stacja zakończyła żywot 25 stycznia 1975 roku po 214 dniach lotu.  Stacja posłużyła do testów czujników rozpoznawczych i kamer. 24 stycznia 1975 roku przeprowadzono na orbicie testy działka pokładowego Nudelmann o kalibrze 23 mm (niektóre źródła twierdzą, że było to działko Nudelmann NR-30 o kalibrze 30 mm). Kosmonauci uzyskali pozytywne wyniki w strzelaniach na odległości od 500 do 3000 metrów. Podczas prób zniszczono satelitę - cel. Następnego dnia rozpoczęto wprowadzanie stacji w atmosferę.
+
+Salut 4 (DOS 4)
+
+Stację Salut 4 wyniesiono na orbitę 26 grudnia 1974 roku, czyli przed zakończeniem istnienia bazy satelitarnej Salut 3. stacja ta miała zmodyfikowaną konstrukcję. Zamiast 4 płyt z fotoogniwami,zainstalowano na nie tylko 3 płyty, ale o większej rozpiętości. dwie umieszczono naprzeciw siebie, po „bokach” bazy, a trzecią-prostopadle do nich, na grzbiecie bazy. Zastosowano zamocowania wahliwe, umożliwiające oddzielne skierowanie każdej płyty ku Słońcu, bez obracania w tym celu całej stacji.  Uprościło to użytkowanie bazy, a jednocześnie polepszyło zaopatrzenie w energię elektryczną.Stanowiła wierną kopię stacji DOS 3, lecz w przeciwieństwie do niej, misja Saluta 4 zakończyła się sukcesem. Na jej pokładzie przebywały dwie załogi, wyniesione przez kapsuły Sojuz 17 i  Sojuz 18. Druga załoga spędziła na pokładzie 63 dni. Ustanowili tym samym nowy radziecki rekord, poważnie zbliżając się do rekordu trzeciej załogi Skylaba (84 dni). Salut 4 był pierwszą radziecką stacją odwiedzoną przez więcej niż jedną załogę. 17 listopada 1975 roku przycumował do Saluta bezzałogowy statek Sojuz 20, prototyp przyszłych statków towarowych. 16 lutego 1976 r. Sojuz 20 odłączył się od bazy i wylądował na Ziemi. Stacja Salut 4 pozostawała na orbicie ponad dwa lata, zanim spłonęła w atmosferze 3 lutego 1977 r.
+
+Salut 5 (Ałmaz 3)
+
+Stację Salut 5 wyniesiono na orbitę 22 czerwca 1976. Stanowiła trzecią i ostatnią stację programu Ałmaz. Odwiedziły ją dwie załogi - na pokładzie Sojuza 21 i Sojuza 24. 26 lutego 1977 r. od bazy odłączył się lądownik, zawierający materiały badawcze, których rodzaju bliżej nie sprecyzowano, i pomyślnie powrócił na Ziemię. Sama baza Salut 5 zakończyła swe istnienie 8 sierpnia 1977 r.
+
+Salut 6 (DOS 5)
+
+Salut 6, wystrzelony 29 września 1977, mimo zewnętrznego podobieństwa do poprzedników stanowił przełom w projektowaniu stacji kosmicznych. Wyposażony był w drugi port cumowniczy, dzięki któremu stację mogły odwiedzać automatyczne pojazdy transportowe Progress, dostarczające na pokład paliwo i zaopatrzenie. Stację odwiedziło 5 załóg długoterminowych i 11 krótkoterminowych, w tym kosmonauci z krajów Układu Warszawskiego w ramach programu Interkosmos. Już pierwsza załoga stacji ustanowiła rekord długości pobytu na orbicie, przebywając na stacji przez 96 dni. Najdłuższy czas pobytu na pokładzie Saluta 6 to 185 dni. Jednym z kosmonautów, którzy odwiedzili tę stację był pierwszy Polak w kosmosie, Mirosław Hermaszewski, który brał udział w misji Sojuz 30 w 1978 roku. Po zakończeniu załogowych wypraw na pokład stacji przeprowadzono z jej wykorzystaniem test dokowania ciężkiego modułu TKS (oznaczonego jako Kosmos 1267), opracowanego w oparciu o niewykorzystane elementy programu Ałmaz.
+
+Salut 7 (DOS 6)
+
+
+Salut 7, bardzo zbliżony konstrukcyjnie do Saluta 6, wystrzelono 19 kwietnia 1982 roku. Odwiedziło go 6 ekspedycji długoterminowych i 4 krótkoterminowe. Poza eksperymentami prowadzonymi na pokładzie stacji, wykorzystano ją do dalszych testów technik dokowania ciężkich modułów stacji, nazywanych ciężkimi modułami Kosmos. Próby te były niezbędne do budowy (projektowanej) modułowej stacji Mir.
+
+DOS 7
+Kolejny projekt programu Salut, podobny budową do poprzednich dwóch stacji, jednak wyposażony w sześć portów cumowniczych, został wyniesiony w kosmos w 1986 roku i stał się modułem bazowym znacznie większej stacji orbitalnej Mir. Sam moduł DOS 7 ważył 20,4 tony. Stacja była rozbudowywana przez kolejne 10 lat i służyła kosmonautom do 2001 roku.
+
+
+Radzieckie i rosyjskie stacje kosmiczne
+
+
+Zobacz też
+
+Sojuz
+Salut (moneta)
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+Pedro Damiano (ur. ok. 1480, zm. 1544) – portugalski aptekarz i szachista, autor jednego z pierwszych podręczników szachowych. 
+
+W 1512 roku w Rzymie wydał Questo libro e da imparare giocare a scachi (Książka do nauki gry w szachy), która, ośmiokrotnie przedrukowywana, była najpopularniejszą książką szachową w pierwszej połowie XVI wieku. Zawierała 124 strony, z których 89 było poświęcone problemom szachowym. W książce omówiono kilka otwarć szachowych, zawarto praktyczne rady i wskazówki oraz opisano kilka motywów matowych. Jeden z tych motywów dzisiaj znany jest pod nazwą mata Damiano. Również jedno z opisanych otwarć (tzw. "obrona Damiano") nosi nazwę pochodzącą od nazwiska autora książki.
+
+Debiut ten powstaje po posunięciach:
+1.e4 e5 2.Sf3 f6?
+
+i był znany już Lucenie, ale szczegółowo przeanalizował je Pedro Damiano, łącznie z "gambitem Damiano" 3.''' S:e5!''', który zapewnia białym dużą przewagę (zachowują one przewagę także po innych odpowiedziach, np. 3.Gc4 lub 3.d4).
+
+Podręcznik Damiano nie był szczególnie ceniony przez późniejszych szachistów i ekspertów, zawierał jednak podstawowe wskazówki, które do dzisiaj nie straciły aktualności, np.:
+nie wykonuj bezcelowych ruchów;
+nie graj szybko;
+unikaj oczywistych przeoczeń;
+nie próbuj zdobyć piona kosztem osłabienia własnej pozycji;
+próbuj ustawić i utrzymać centralne dwa (lub lepiej cztery) piony na czwartej linii;
+gdy widzisz dobry ruch, poszukaj lepszego;
+gdy masz przewagę materialną, wymieniaj figury.
+
+Bibliografia
+W. Litmanowicz, J. Giżycki, "Szachy od A do Z", tom I, Warszawa 1986, str. 188
+Magazyn Szachista nr 8/2013, str. IV wkładki, Ireneusz Gawle: "Ciężkofigurowe wariacje matowe"
+
+Linki zewnętrzne

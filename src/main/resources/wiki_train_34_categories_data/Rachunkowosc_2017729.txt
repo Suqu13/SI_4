@@ -1,0 +1,23 @@
+OT dowód księgowy (przyjęcie środka trwałego), to dokument przyjęcia nowego środka trwałego. Przekazanie go do eksploatacji. Wprowadza do ewidencji przychód składników rzeczowych aktywów przedsiębiorstwa z zakupu, jak i środków trwałych używanych, wytworzonych we własnym zakresie i ulepszonych. Wskazuje osobę za niego odpowiedzialną, miejsce jego użytkowania, lub przeznaczenie. Wypełniony dokument przyjęcia środka trwałego należy umieścić w dokumentach księgowych.
+
+Dokumenty źródłowe dowodu OT stanowią
+
+przy zakupie - faktura VAT dostawcy, lub rachunek wraz z protokołem odbioru technicznego
+w przypadku ujawnienia środka trwałego podczas inwentaryzacji - zestawienie zbiorcze spisu z natury z wyciągiem z protokołu rozpatrzenia różnic inwentaryzacyjnych przez zakładową komisję inwentaryzacyjną zawierającą wartość inwentarzową ujawnionego środka
+w sytuacji wytworzenia środka trwałego we własnym zakresie - dokumentacja inwestycyjna
+w przypadku nieodpłatnego nabycia - umowa darowizny, lub umowa spadku
+
+Powody sporządzania dowodu OT stanowią
+
+Środek trwały jest kompletny i zdatny do używania.
+Będzie użytkowany przez okres dłuższy niż 1 rok.
+Jest przeznaczony na potrzeby jednostki, działu.
+Ma wartość początkową większą niż 3500 PLN.
+
+Zobacz też
+
+LT - dokument rozchodu środka trwałego
+
+
+
+

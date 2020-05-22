@@ -1,0 +1,11 @@
+
+
+HP-20S to prosty naukowy kalkulator firmy Hewlett-Packard pracujący w trybie algebraicznym. 
+
+Posiada wszystkie typowe funkcje matematyczne, przeliczanie jednostek, statystykę, regresję liniową, tryby  dziesiętny, dwójkowy, ósemkowy i szesnastkowy oraz możliwość prostego programowania. Zachowuje kolejność działań, co jest w przypadku kalkulatorów algebraicznych rzadkością.
+
+Do tej samej linii kalkulatorów należy również algebraiczny model HP-10B, typowo finansowy.
+
+
+
+

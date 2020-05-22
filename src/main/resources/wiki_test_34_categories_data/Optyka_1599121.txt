@@ -1,0 +1,132 @@
+Kepler – teleskop kosmiczny agencji NASA poszukujący ziemiopodobnych planet pozasłonecznych. Został umieszczony na orbicie wokółsłonecznej 7 marca 2009 roku, w ramach 10. misji programu Discovery. Ma aperturę 0,95 m, masę 1052,4 kilogramów w momencie startu i jest wyposażony w największą matrycę CCD do tej pory wyniesioną w kosmos, posiadającą 95 megapikseli. Po przedłużeniu misji (planowanej wstępnie na 3,5 roku), jego obserwacje potrwać miały co najmniej do roku 2016, ale po awariach w roku 2013 uznano, że musi on zakończyć misję bez osiągnięcia swojego celu.
+
+Nazwa teleskopu honoruje szesnastowiecznego astronoma Jana Keplera – odkrywcę trzech praw ruchu planet wokół Słońca.
+
+Całkowity koszt misji szacowany jest na 591 mln USD (2009).
+
+Cele misji
+
+Głównym celem misji jest określenie częstotliwości występowania układów planetarnych w kosmosie i różnorodności ich struktur.
+Ma to być zrealizowane przez obserwowanie dużego zbioru gwiazd i określenie:
+jak często planety skaliste występują w ekosferach różnych typów gwiazd,
+jakie typy planet występują częściej, a jakie rzadziej,
+jak często występują systemy z wieloma planetami i jak wiele planet mogą zawierać,
+jak często występują gorące jowisze i jakie są ich przeciętne parametry,
+wokół jakich gwiazd najczęściej występują systemy planetarne.
+
+Sonda ma obserwować zmiany jasności ponad 100&nbsp;000 tych samych gwiazd przez co najmniej 3,5 roku, w poszukiwaniu okresowych tranzytów planet. Z tego względu nie mogą być one niczym przesłaniane przez cały czas trwania misji. Do obserwacji wybrano region pogranicza gwiazdozbiorów Łabędzia i Lutni.
+
+Dla losowej orientacji orbity w stosunku do kierunku patrzenia, prawdopodobieństwo zaobserwowania tranzytu jest równe stosunkowi średnicy gwiazdy do średnicy orbity planety. Dla układu identycznego do naszego, prawdopodobieństwo zaobserwowania tranzytu Ziemi wynosiłoby około 0,47%, a Wenus około 0,65%. Zakładając, że planety obiegają gwiazdę w tej samej płaszczyźnie, zaobserwowanie jednej znacząco zwiększa prawdopodobieństwo zaobserwowania innych. Przykładowo, odległy obserwator po wykryciu tranzytu Ziemi miałby około 12% szans zaobserwowania również tranzytu Wenus.
+
+Misja Kepler została zaprojektowana tak, aby uzyskać możliwie dużą szansę wykrycia planet podobnych do Ziemi. Ponieważ będzie obserwować 100&nbsp;000 gwiazd, gdyby wokół każdej krążyła taka planeta, Kepler wykryłby ich około 480. Liczba faktycznie wykrytych przez sondę planet będzie zatem dobrym wyznacznikiem częstotliwości występowania takich planet w kosmosie.
+
+Dane zebrane przez sondę będą użyte również do badania gwiazd zmiennych i w asterosejsmologii.
+
+Przyjmując rygorystyczne kryteria wykrywania planet, uwzględniając zmienność gwiazd, biorąc pod uwagę tylko orbity z czterema przejściami planety przed gwiazdą centralną w ciągu 3,5 roku i zakładając, że istnienie planet wokół gwiazd typu słonecznego jest powszechne, autorzy misji spodziewają się wykrycia:
+ok. 50 planet, jeśli ich większość będzie rozmiaru zbliżonego do Ziemi, ale nie większych od niej;
+ok. 185 planet, jeśli ich większość będzie miała 1,3 średnicy Ziemi;
+ok. 640 planet, jeśli ich większość będzie miała 2,2 średnicy Ziemi;
+odsetka 12% systemów planetarnych z więcej niż dwoma planetami.
+Jeśli weźmie się pod uwagę wszystkie orbity od kilku dni do ponad roku, ilość odkrytych planet ulegnie znacznemu zwiększeniu.
+
+Orbita
+
+Sonda Kepler krąży po orbicie heliocentrycznej, w tej samej odległości od Słońca, co Ziemia. Nie znajduje się na orbicie okołoziemskiej, aby uniknąć wywoływanych przez Ziemię zakłóceń elektromagnetycznych i grawitacyjnych. Teleskop z fotometrem, główny instrument naukowy sondy, jest skierowany na punkt w gwiazdozbiorze Łabędzia, wysoko ponad ekliptyką. Dzięki temu obserwacje nie są utrudniane przez blask Słońca, ani przez planetoidy z pasa Kuipera i pasa planetoid.
+
+Budowa
+Głównym wytwórcą sondy była firma Ball Aerospace & Technologies. Masa przy starcie wynosiła 1052,4 kg, w tym masa samego satelity 562,7 kg, fotometru 478 kg, zaś paliwa (kerozyna) 11,7 kg.  
+
+Blok elektroniki sterującej fotometrem składa się 10 obwodów drukowanych złożonych z ponad 20 000 elementów elektronicznych. Jej temperaturą roboczą jest +30&nbsp;°C, podczas gdy położone kilka centymetrów obok elementy CCD pracują w temperaturze -95&nbsp;°C.
+
+4 panele ogniw słonecznych sondy o całkowitej powierzchni 10,2 m² są w stanie wytworzyć maksymalnie 1100 W energii elektrycznej.
+
+Sonda jest stabilizowana trójosiowo, z dokładnością większą od 9 milisekund łuku. Łączność dwukierunkowa odbywa się w paśmie X (2 kbps do sondy, 16 kbps z sondy). Dane przesyłane są w paśmie Ka, z prędkością do 4,33 Mbps.
+
+Fotometr
+
+
+Teleskop zbudowany w układzie Schmidta (korektor aberracji wykonany z czystego krzemu) ma aperturę 95 cm i pole widzenia ok. 12° (105° kwadratowych). Rejestrowane są fale elektromagnetyczne z zakresu od 430 do 890 nm.
+
+Światło teleskopu zbierane jest przez matrycę 42 układów CCD, każdy o wymiarach 50×25 mm (2200×1024 pikseli), mającą łącznie 95 megapikseli. CCD odczytywane są co 3 sekundy, by zapobiec nasyceniu. Z uwagi na charakter pomiarów prowadzonych przez teleskop, nie wykonuje on zdjęć nieba. Ponadto:
+rejestrowane dane dotyczą tylko pikseli, które odnotowały światło gwiazd jaśniejszych od magnitudo 16,
+obraz jest celowo rozmyty do rozdzielczości kątowej 10 sekund łuku w celu poprawy pomiarów fotometrycznych.
+
+Precyzja pomiaru jasności gwiazd typu słonecznego (G2V) przy 6,5-godzinnej ekspozycji ma wynosić 20 ppm. Dla porównania, tranzyt Ziemi obserwowany z dużej odległości powoduje trwającą 13 godzin (przy przejściu przez środek tarczy słonecznej) zmianę jasności Słońca o 84 ppm. 
+
+Dane są integrowane w ciągu 30 minut i raz na miesiąc przekazywane na Ziemię (pojemność pamięci pozwala na zgromadzenie danych z okresu 2 miesięcy).
+
+Sferyczne (promień kuli 2,8 m) lustro teleskopu wykonane zostało przez Corning Glass. Naniesienia warstwy odbijającej dokonała Surface Optics Corporation, a polerowania Brashear LP. Jego specjalna konstrukcja pozwoliła ograniczyć wagę lustra do 17% masy tradycyjnej konstrukcji.
+
+Przebieg misji
+
+2009
+7 marca – nastąpił start na przylądku Canaveral, rakieta: Delta II
+
+12 maja – ogłoszono, że kalibrowanie przyrządów pomiarowych teleskopu zakończyło się sukcesem i rozpoczęła się faza poszukiwania planet.
+
+19 czerwca – przesłano na Ziemię wyniki pomiarów z pierwszego miesiąca, ogłoszono, że 15 czerwca Kepler wszedł w reset procesora (safe mode), jak się później okazało spowodowany prawdopodobnie zbyt niskim napięciem zasilania procesora RAD750.
+
+3 lipca – okazało się, że Kepler 2 lipca doznał drugiego resetu procesora. Normalna operacja teleskopu została przywrócona następnego dnia włącznie z przesłaniem danych pomiarowych na Ziemię.
+
+6 sierpnia – NASA podczas konferencji prasowej ogłosiła wyniki pomiarów przeprowadzonych w czasie wykonywania testów teleskopu, a mianowicie potwierdzenie istnienia poprzednio znanej planety HAT-P-7b. Ogłoszono, że Kepler pracuje wystarczająco dobrze, by wykrywać istnienie planet zbliżonych rozmiarami do Ziemi.
+
+20 sierpnia, 18 września, 19 października – przesłano na Ziemię dane pomiarowe z kolejnych okresów pomiarowych.
+
+4 listopada – ogłoszono listę 7500 gwiazd zmiennych, które są nieużyteczne w tych badaniach. Te gwiazdy zostaną zastąpione nowymi.
+
+18 listopada – podczas przygotowywania do kolejnej transmisji danych na Ziemię doszło do kolejnego, trzeciego restartu (safe mode). Dane pomiarowe nie zostały zagrożone i następnego dnia zostały przesłane na Ziemię.
+
+18 grudnia – przesłano na Ziemię około 110 GB danych pomiarowych z kolejnego okresu pomiarowego.
+
+2010
+4 stycznia – podczas zjazdu Amerykańskiego Towarzystwa Astronomicznego ogłoszono odkrycie 5 nowych planet, którym nadano numery katalogowe: Kepler-4 b, Kepler-5 b, Kepler-6 b, Kepler-7 b oraz Kepler-8 b. Planety krążą wokół gwiazd większych niż Słońce. Ich rok gwiazdowy sięga od 3,2÷4,9 dnia; promienie wynoszą od cztery razy większego od Ziemi dla Kepler 4b, do 1,48 promienia Jowisza; temperatura na powierzchni wynosi od 1200˚C do 1650˚C.
+
+12 stycznia – zauważono anomalie w danych otrzymywanych z jednego modułu składającego się z dwóch matryc CCD, teleskop posiada 21 takich modułów. Usterka ta ogranicza pole widzenia teleskopu o niecałe 5%. Stwierdzono, że usterka ta nie ma wpływu na dane otrzymywane z pozostałego pola widzenia teleskopu.
+
+2 lutego – doszło do kolejnego, czwartego już resetu teleskopu, dane pomiarowe nie zostały uszkodzone i zostały przesłane na Ziemię, a pełna sprawność teleskopu została przywrócona 5 lutego.
+
+15 czerwca – NASA's Kepler Mission udostępniła dane obserwacyjne z 43 dni ponad 156 000 gwiazd tak, by astronomowie z całego świata mogli dokonywać obserwacji sprawdzających, czy obserwowane zmiany jasności kilkuset gwiazd rzeczywiście są spowodowane przez orbitujące wokół gwiazd planety.
+
+26 sierpnia – ogłoszono odkrycie dwóch planet krążących wokół gwiazdy odległej od Ziemi o ok. 2300 lat świetlnych. Gwieździe tej nadano nazwę Kepler-9, a odkrytym planetom nazwy: Kepler-9b i Kepler-9c. Poinformowano również o możliwości istnienia trzeciej, mniejszej planety, co potwierdziły późniejsze obserwacje. Planeta ta otrzymała nazwę Kepler-9d. Jest to pierwszy system wieloplanetarny zawierający planety odkryte metodą tranzytu.
+
+2011
+Styczeń – podczas zjazdu Amerykańskiego Towarzystwa Astronomicznego ogłoszono odkrycie planety Kepler-10b krążącej wokół gwiazdy Kepler-10 w gwiazdozbiorze Smoka, oddalonej o 560 lat świetlnych od Ziemi. Jest to najmniejsza do tej pory planeta odkryta metodą tranzytu, masa równa 4,5 masy Ziemi, promień 1,4 promienia Ziemi, temperatura 1833 K.
+
+2 lutego – ogłoszenie odkrycia systemu planetarnego składającego się z sześciu planet. System ten znajduje się w odległości niemal dwa tysiące lat świetlnych od Ziemi. System Kepler-11 składa się z dużych planet okrążających swoją gwiazdę w małej odległości. Pięć pierwszych planet w tym układzie znajduje się bliżej swojej gwiazdy niż jakakolwiek planeta w naszym Układzie Słonecznym. Gwiazda Kepler-11 jest żółtym karłem.
+
+5 grudnia – ogłoszono odkrycie Keplera-22b, to pierwsza z planet odkrytych przez Teleskop Keplera znajdująca się w tzw. ekosferze, czyli niewykluczone, że znajduje się na niej woda. Planeta ma średnicę 2,4 raza większą od Ziemi. 
+
+12 grudnia – doniesiono o odkryciu planety pozasłonecznej o rozmiarach Ziemi i innej mniejszej, obu w układzie Kepler-20. Po raz pierwszy zaobserwowano tak małe obiekty krążące wokół gwiazdy ciągu głównego (innej niż Słońce).
+
+2012
+26 stycznia – ogłoszono odkrycie 11 kolejnych układów planetarnych, niemal podwajając liczbę potwierdzonych planet odkrytych przez sondę. W dziewięciu z tych układów występuje współmierność okresów obiegów planet (1:2 lub 2:3), prawdopodobnie rezonans orbitalny.
+
+listopad – zakończyła się misja podstawowa teleskopu i rozpoczęła misja przedłużona, która może potrwać ok. 4 lat.
+
+Do 1 stycznia 2013 r. misja miała na swoim koncie odkrycie 105 planet, 2321 kandydatów na planety i 2165 zaćmieniowych układów podwójnych gwiazd.
+
+2013
+12 maja – awaria drugiego z czterech kół reakcyjnych (pierwsze przestało działać w lipcu 2012). Ponieważ do utrzymywania orientacji sondy w przestrzeni niezbędne są trzy koła reakcyjne, uszkodzenie może oznaczać zakończenie zbierania danych.
+
+Do lipca teleskop potwierdził znalezienie 134. planet w 76. układach planetarnych
+
+15 sierpnia – zespół inżynierów NASA zakończył próby przywrócenia teleskopu do pełnej sprawności, przyznając że naprawa przynajmniej jednego z dwóch uszkodzonych kół reakcyjnych nie jest możliwa.
+
+25 listopada – NASA ogłosiła koncepcję nowej misji teleskopu Keplera, nazwanej K2. Przewiduje ona obrócenie teleskopu i wykorzystanie jego symetrii i ciśnienia światła słonecznego do stabilizacji w trzeciej osi. Oznacza ona zmianę celu obserwacji i konieczność okresowego (co kilka miesięcy) obracania teleskopu w nowym kierunku.
+
+2014
+17 kwietnia - dzięki Teleskopowi Kosmicznemu Kepler zostaje odkryta pierwsza planeta pozasłoneczna typu ziemskiego o roboczej nazwie Kepler-186f. Istnienie tej planety stwierdzono za pomocą metody tranzytu dzięki danym z Teleskopu. W chwili odkrycia była to najbardziej przypominająca Ziemię planeta krążąca w ekosferze gwiazdy.
+
+Zobacz też
+COROT
+Teleskop Darwin
+Space Interferometry Mission
+Kosmiczny Teleskop Spitzera
+Terrestrial Planet Finder
+metody poszukiwania planet pozasłonecznych
+
+
+
+Bibliografia
+- podstrona poświęcona sondzie
+Linki zewnętrzne

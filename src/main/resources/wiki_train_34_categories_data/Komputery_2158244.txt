@@ -1,0 +1,54 @@
+Zend Server to linia produktów serwera aplikacji PHP wydawana przez Zend Technologies, utworzona na początku roku 2009 wraz z pomocą techniczną dostępną dla systemu Windows i Linux.  Serwer dostępny jest w dwóch wersjach, Zend Server i Zend Server Community Edition.  Zend Server obsługuje architekturę x86 i x64 i systemy Red Hat Enterprise Linux, CentOS, Fedora Core, Oracle Enterprise Linux, Debian i Ubuntu, a z rodziny Windows Zend Server obsługuje systemy Windows Server 2003/2008, XP, Vista i 7.  Na konferencji Zendcon 2009 Zend przedstawił publiczną betę Zend Server 5.0.
+
+Funkcjonalność
+Zend Server
+Natywna instalacja – Windows MSI, Debian deb, Red Hat yum
+Certyfikowana wersja PHP
+Zend Framework – instalowany i aktualizowany jako składnik serwera
+Integracja z Apache i IIS
+Java connector – integruje funkcjonalność Javy w formie kodu PHP
+Konsola administratora dostępna w przeglądarce
+Interfejs debuggera
+Akceleracja bytecode'u – przechowuje skompilowany kod PHP, odciążając procesor i dysk.
+API cache'owania danych
+Cache'owanie stron
+Monitorowanie aplikacji – monitoruje funkcjonowanie PHP w każdym żądaniu pod kątem:
+błędów funkcji
+błędów baz danych
+powolnego wykonywania funkcji
+powolnego wykonywania zapytań do bazy
+powolnej obsługi żądań
+wysokiego zużycia pamięci
+sprzecznego rozmiaru zwracanych danych
+nieprzechwyconych wyjątków Java
+zdarzeń sprecyzowanych przez użytkownika
+poważnych błędów PHP
+błędów PHP
+Diagnostyka problemów z aplikacją
+Zend Download Server (tylko Linux) - pozwala na pobieranie dużych plików, takich jak filmy bez spowalniania głównego serwera
+Aktualizacja oprogramowania
+
+Zend Server CE
+Zend Server Community Edition zawiera część funkcji dostępnych w pełnej wersji Zend Server i pracuje pod kontrolą systemów Windows, Linux i OS X.
+
+Natywna instalacja – Windows MSI, Debian deb, Red Hat yum
+Certyfikowana wersja PHP
+Zend Framework – instalowany i aktualizowany jako składnik serwera
+Integracja z Apache i IIS
+Java connector – integruje funkcjonalność Java jako kodu PHP
+Konsola administratora dostępna w przeglądarce
+Interfejs debuggera
+Akceleracja bytecode'u – przechowuje skompilowany kod PHP, odciążając procesor i dysk.
+API cache'owania danych
+
+Zend Server Cluster Manager
+Klastrowanie sesji
+Agregacja monitorowania zdarzeń
+Agregacja śledzenia kodu
+Konfiguracja klastra
+Powiadomienia w przypadku dodania lub usunięcia serwera z klastra
+Powiadomienia, gdy synchronizacja węzła serwera zakończy się niepowodzeniem
+
+
+
+Zobacz też

@@ -1,0 +1,19 @@
+
+Classmate PC laptop zaprojektowany wspólnie przez Intel oraz Microsoft.
+
+Intel Classmate PC jest oparty na technologiach firmy Intel, w przeciwieństwie do laptopa OLPC XO-1, opartego na technologiach AMD. Komputer Intela ma nieco mniejszy ekran od XO-1 (przekątna mniejsza o pół cala, tj o 12,5 mm), ma być dostępny z systemem operacyjnym Windows XP lub Mandriva Linux, Rxart Linux. Komputer ma kosztować ponad $200.
+
+Specyfikacja techniczna
+Procesor: Celeron M 900 MHz
+Pamięć RAM: 256 MB
+Pamięć flash: 1 GB
+Wyświetlacz: 7" WVXGA (800×480) LCD
+
+Zobacz też
+Eee PC
+OLPC XO-1 
+Ultra Mobile PC
+
+
+
+Linki zewnętrzne

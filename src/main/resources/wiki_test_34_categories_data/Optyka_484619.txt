@@ -1,0 +1,11 @@
+Fotodioda lawinowa – rodzaj fotodiody, element półprzewodnikowy oparty na złączu p-n z warstwą zaporową. Podobnie jak w zwykłej fotodiodzie, w wyniku zjawiska fotowoltaicznego, oświetlone złącze p-n staje się źródłem siły elektromotorycznej lub fotoprądu. Wydajność takiego źródła jest jednak niewielka. Sytuacja zmienia się jednak diametralnie, gdy to samo złącze zostanie spolaryzowane odpowiednio wysokim napięciem wstecznym (przeciwnie do kierunku przewodzenia diody). W powstałym w wyniku polaryzacji złącza polu elektrycznym uwolnione fotoelektrony są przyspieszane i powodują wybijanie kolejnych elektronów - ich liczba rośnie lawinowo (stąd nazwa diody). Pierwotny fotoprąd zostaje w ten sposób wzmocniony od kilku do kilku milionów razy (zależnie od przyłożonego napięcia).
+
+Fotodiody lawinowe o najwyższym wzmocnieniu pozwalają na wykrywanie pojedynczych fotonów - wymaga to spolaryzowania złącza wysokim napięciem, powyżej napięcia przebicia, typowo powyżej 1000 V. Fotodiody takie są nazywane jednofotonowymi (ang. Single-Photon Avalanche Diode - SPAD). W zwykłych fotodiodach lawinowych (Avalanche Photo-Diode - APD) maksymalne napięcie polaryzacji leży nieznacznie poniżej napięcia przebicia, zaś osiągane wzmocnienie nie przekracza 1000.
+
+Fotodiody lawinowe są półprzewodnikowymi detektorami światła o najwyższej czułości a przy tym są znacznie mniejsze i wygodniejsze w użyciu, niż równie czułe fotopowielacze. Fotodiody lawinowe, szczególnie przy dużym wzmocnieniu, są bardzo czułe na różnice napięcia i temperatury, w związku z czym wymagają precyzyjnych układów zasilających i kompensacji temperatury.
+
+Zobacz też
+fototranzystor
+
+
+

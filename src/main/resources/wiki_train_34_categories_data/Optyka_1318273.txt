@@ -1,0 +1,17 @@
+Polarymetr półcieniowy - rodzaj polarymetru umożliwiający precyzyjny pomiar kąta skręcenia płaszczyzny polaryzacji światła. W zwykłym polarymetrze kąt, pod którym następuje wygaszenie światła, oceniany jest subiektywnie, jako ten kąt ustawienia polaryzatora, przy którym obraz jest najciemniejszy. W polaryzatorze półcieniowym porównywane są różne obszary obrazu. Kąt odczytuje się, gdy zanika granica między obszarami.
+
+W półcieniowym polaryzatorze Laurenta na części analizatora umieszczona jest półfalówka, która dodatkowo skręca płaszczyznę polaryzacji światła spolaryzowanego przez polaryzator. W efekcie, za analizatorem obserwator widzi obraz pokazany na rys. 2''', gdzie niebieski wektor wskazuje kierunek polaryzacji światła przechodzącego przez polaryzator, a czerwony wektor światła, które przeszło przez płytkę półfalową. Oba te wektory dotyczą światła, którego płaszczyznę polaryzacji skręciła substancja aktywna optycznie w kuwecie. Żółtym kolorem został zilustrowany kierunek ustawienia analizatora. Z rysunku widać, że najprecyzyjniej można ustawić pozycję polaryzatora w sytuacji końcowej. Jako położenie odniesienia mogłaby służyć też pozycja druga, gdy połówki są tak samo jasne, ale jak wynika z prawa Webera-Fechnera, trudno jest ocenić małą zmianę jasności przy dużej jasności całego obrazu.
+
+Używane są również inne typy polarymetrów półcieniowych, np. polarymetr Lippicha, w którym zamiast płytki półfalowej użyty jest pryzmat Nicola.
+
+Zobacz też
+polarymetr
+polaryzacja światła
+
+
+
+
+
+
+
+

@@ -1,0 +1,79 @@
+Życie instrukcja obsługi (org. La vie mode d'emploi) – powieść Georges'a Pereca, opublikowana w 1978 roku. Utwór opowiada o mieszkańcach dziesięciopiętrowej kamienicy paryskiej. Został skonstruowany przy użyciu zasad kombinatoryki i reguł szachowych oraz nawiązuje do układania puzzli. Inspirację dla powieści stanowił rysunek Saula Steinberga pt. The Art of Living, przedstawiający pozbawiony fasady nowojorski budynek.
+
+Tytuł
+Perec rozważał różne warianty zatytułowania utworu, m.in. Życie, instrukcja obsługi, Życie: instrukcja obsługi i Życie (instrukcja obsługi)'', ostatecznie decydując się na wersję pozbawioną jakichkolwiek znaków interpunkcyjnych. Tytuł nie ma sugerować, że powieść zawiera instrukcję obsługi życia, lub że samo życie jest taką instrukcją. W intencji autora miał stanowić zetknięcie niepojętości życia z prozaicznymi próbami porządkowania, jaką stanowią instrukcje obsługi.
+
+Fabuła
+Utwór stanowi zapis tego, co dzieje się w każdym z odsłoniętych od ulicy mieszkań dziesięciopiętrowej kamienicy przy Simon-Crubellier nr 11. Właściwy czas akcji obejmuje jedną sekundę z wieczoru (około 20.00, kiedy umiera główny bohater, Bartlebooth) 23 czerwca 1975 roku, jednak dzięki retrospekcjom rozciąga się w sumie na 75 lat. W utworze opowiedziane zostaje 380 osobnych historii. Centralnymi postaciami powieści są: Percival Bartlebooth (ekscentryczny bogacz, malujący obrazy i tworzący z nich puzzle), Serge Valene (malarz, chcący na jednym obrazie uchwycić życie całej kamienicy) oraz  Gaspard Winckler (rzemieślnik pracujący nad układankami Bartlebootha).
+
+Konstrukcja powieści
+Powieść jest podzielona na sześć części, składa się z 99 rozdziałów, poprzedzonych wstępem i zakończonych epilogiem. Autor dołączył do nich plan budynku, w którym toczy się akcja oraz indeks występujących w powieści osób, miejsc, tekstów literackich, filmów itp. Powieść powinna składać się ze 100 rozdziałów, jednak aby uniknąć zbytniej regularności, Perec usunął rozdział 66. Uzyskuje to swoje uzasadnienie w fabule – plan opisywanej kamienicy, składający się z 10 pól na 10 przypominał autorowi herbatnik, pod koniec 65 rozdziału umieścił więc obrazek dziewczynki nadgryzającej róg herbatnika i likwidującej tym samym właściwy rozdział 66. Dalsza numeracja rozdziałów jest więc fałszywa.
+
+Szachy
+Jedną z zasad rządzących konstrukcją powieści jest problem skoczka. Front opisywanej kamienicy Perec potraktował jako szachownicę o stu polach – składa się na nią 10 pięter po 10 elementów – mieszkań i przestrzeni wspólnych (m.in. hol i klatka schodowa). Założeniem Pereca było poświęcić jeden rozdział każdemu z tych elementów, poruszając się po nich ruchem skoczka szachowego, nie odwiedzając żadnego z pomieszczeń dwukrotnie. Na pole startowe wybrana została klatka schodowa przed drzwiami mieszkania Bartlebootha.
+
+Perec zdecydował się na następującą kolejność ruchów po kolejnych mieszkaniach:
+
+
+
+Matematyka
+Aby rozmieścić elementy (osoby, przedmioty, nawiązania itp.) w rozdziałach, Perec posłużył się dwoma schematami – kwadratem grecko-łacińskim rzędu 10 i pseudoqueniną  rzędu 10 (nazywaną też decyną lub fałszywą dizyną).
+
+Kwadrat posłużył mu do wyboru elementów ze skonstruowanej uprzednio listy. Lista ta podzielona była na 40 ułożonych w parach kategorii po 10 elementów każda. Pary kategorii to kolejno:
+pozycja, czynność,
+cytat, cytat 2,
+liczba, rola,
+sektor (pojęcie wprowadzone przez François Le Lionnaisa i oznaczające pozaliterackie użycie języka, np. w instrukcji obsługi lub encyklopedii), sprężyna?,
+ściany, podłoga,
+epoka, miejsce,
+styl, mebel,
+długość rozdziału, rozmaite,
+wiek i płeć, zwierzęta,
+ubiór, tkanina (deseń),
+tkanina (materia), kolory,
+akcesoria, biżuteria,
+lektura, muzyka,
+obrazy, książki,
+napoje, jedzenie,
+mebelki, gry i zabawki,
+uczucia, obrazki,
+powierzchnie, bryły,
+kwiaty, bibeloty,
+brak, fałsz.
+
+Dodatkowo Perec utworzył kategorię "pary", w której znajdowało się 20 ułożonych parami elementów (Laurel–Hardy, Sierp–Młot, Racine–Szekspir, Filemon–Baucis, Zbrodnia–Kara, Duma–Uprzedzenie, Noc–Mgła, Popiół–Diament, Uprawy–Pastwiska, Piękna–Bestia).
+
+W każdym rozdziale powieści miało docelowo znajdować się po jednym elemencie z każdej kategorii (jednak ostatecznie nie każdy rozdział zawiera elementy ze wszystkich kategorii). O tym który element z danej kategorii ma znaleźć się w danym rozdziale Perec decydował na podstawie użycia kwadratu. Użycie kwadratu miało zapewnić takie rozmieszczenie elementów, ażeby każdy z 10 elementów pierwszej kategorii z danej pary znalazł się raz z każdym z 10 elementów drugiej kategorii z pary (np. każdy z elementów kategorii "ściany" musiał wystąpić raz z każdym z elementów kategorii "podłoga"), przy czym zestawy nie mogły się powtarzać.
+
+Aby uniknąć monotonii, Perec postanowił nie posługiwać się dla każdego rozdziału tym samym rozwiązaniem kwadratu (rozwiązany kwadrat podlega permutacjom, kolejność może być dowolnie przestawiana, w tym wypadku oferując liczbę rozwiązań równą 10! x 10!). Każda z par miała być poddana innej permutacji wierszy lub kolumn kwadratu. Do wyboru permutacji Perec posłużył się modyfikacją queniny – rodzajem sekstyny, wymyślonym przez Raymonda Queneau. Quenina opierała się na algorytmie, decydującym o powtórzeniu sześciu rymów z pierwszej strofy w strofach kolejnych w ściśle określonym porządku, tak aby każdy rym występował tylko raz w każdym rzędzie i kolumnie. Porządek ten wyglądał następująco:
+pierwsza strofa: 1, 2, 3, 4, 5, 6
+druga strofa: 6, 1, 5, 2, 4, 3
+trzecia strofa: 3, 6, 4, 1, 2, 5
+czwarta strofa: 5, 3, 2, 6, 1, 4
+piąta strofa: 4, 5, 1, 3, 6, 2
+szósta strofa: 2, 4, 6, 5, 3, 1
+Quenina obejmowała tylko sześć strof i sześć rymów, a więc nie mogła być stosowana dla rzędu 10. Perec poddał więc jej algorytm modyfikacji, uzyskując model odpowiedni dla swoich potrzeb. Za pomocą tego modelu tworzył kolejne permutacje rozwiązanego kwadratu, wykorzystując inną dla kolejnych par kategorii.
+
+Elementy kategorii, które w ten sposób zostały umieszczone w rozdziałach, nie musiały pojawiać się w tekście bezpośrednio, np. element "wchodzić" (z kategorii "pozycja") pojawia się w tekście jako angielskie come in zmienione w nazwisko postaci – Commine, a element "sierp" (franc. faucille) z kategorii "pary" jako "sztuczne rzęsy" (franc. faux cils).
+
+Puzzle
+Powieść miała być w zamierzeniu autora skonstruowana na zasadzie puzzli. Cały utwór stanowi układankę, a jej poszczególnymi elementami, koniecznymi do złożenia całości, są postacie, miejsca, teksty literackie itp., umieszczone w końcowym indeksie, składającym się z 5000 haseł. Dopiero podążanie za indeksem pozwala złożyć w całość niektóre historie, które w całym utworze opowiadane są fragmentarycznie.
+
+Przymusy
+Pisząc książkę, Perec narzucił sobie pewną liczbę "przymusów" – zasad, którymi musiał kierować się podczas pisania. Oprócz tych, które wynikają z algorytmów matematycznych i szachowych, pojawiają się jeszcze m.in. następujące zasady:
+każdy z rozdziałów zawiera aluzję do konkretnego wydarzenia lub faktu, dotyczącego codziennego życia Pereca w momencie pisania tego rozdziału;
+w każdym rozdziale znajdują się współrzędne, umieszczające ten rozdział na 100-polowej szachownicy, stanowiącej plan budynku. Przyjmują one postać dwóch występujących w tekście cyfr – pierwsza stanowi rzędną, a druga – odciętą.
+
+Aluzje i nawiązania
+Powieść zawiera liczne aluzje do innych tekstów kultury. Każdy z rozdziałów zawiera dwa cytaty z innych dzieł literackich (m.in. z Prousta, Borgesa, Manna i Nabokova), a także aluzję do innego utworu Pereca. Pojawiają się także aluzje do różnych dzieł sztuk plastycznych. Ponadto w rozdziale 59, korzystając z homonimów, Perec ukrył w tekście nazwiska członków grupy OuLiPo (np. fragment: Citizen Kane, aurait monnayé ukrywa w sobie nazwisko Raymonda Queneau).
+
+Polskie wydania
+Pierwsze polskie wydanie Życia instrukcji obsługi ukazało się w 2002 roku nakładem Fundacji Literatura Światowa w przekładzie Wawrzyńca Brzozowskiego. Był to debiut translatorski tłumacza, za który otrzymał on nagrodę Literatury na Świecie.
+Drugie wydanie powieści ukazało się w 2009 roku nakładem Korporacji Ha!art w serii Liberatura w poprawionym przekładzie Wawrzyńca Brzozowskiego.
+
+Zobacz też
+100 książek XX wieku według „Le Monde”
+
+
+
+Bibliografia

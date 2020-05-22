@@ -1,0 +1,43 @@
+Cena transferowa, cena transakcyjna – cena stosowana w transakcjach pomiędzy podmiotami powiązanymi. 
+
+Znaczną część transakcji na rynku biznesowym stanowią transakcje między podmiotami powiązanymi, takie jak choćby przepływ towarów handlowych między filiami przedsiębiorstw lub świadczenie usług na rzecz osób prawnych przez ich właścicieli i zarząd.
+
+Ceny transferowe stosowane w tych transakcjach, mogą mieć decydujący wpływ na ostateczny obraz zysków lub strat w poszczególnych częściach grupy, a ostatecznie także na konkurencyjność grupy wobec innych przedsiębiorstw.
+
+Ceny transferowe a podatki
+Stosowanie odpowiedniej polityki cen transferowych, może znacząco wpłynąć na zobowiązania w podatku dochodowym przedsiębiorstw, szczególnie gdy członkami grupy są przedsiębiorstwa z krajów o różnorodnych systemach podatkowych. 
+
+Przykład
+Spółka A sprzedaje w kraju A towar importowany z kraju B, gdzie posiada filię – Spółkę B. Wartość rynkowa towaru dostarczanego przez spółkę B to 250 000 EUR, a cena dla ostatecznego odbiorcy to 500 000 EUR. W kraju A podatek dochodowy wynosi 20%, gdy w kraju B wynosi on 10%.
+
+Jeżeli cena transferowa między spółkami B i A:
+
+a) Zostanie ustalona na 250 000 EUR (wartość rynkowa) – zobowiązanie podatkowe (bez uwzględniania kosztów uzyskania przychodu) wyniesie odpowiednio 50 000 EUR w kraju A (250 000 x 20%) i 25 000 EUR w kraju B (250 000 x 10%), w sumie 75 000 EUR.
+
+b) Zostanie ustalona na 450 000 EUR (powyżej wartości rynkowej) – zobowiązanie podatkowe (bez uwzględniania kosztów uzyskania przychodu) wyniesie zaledwie 10 000 EUR w kraju A (50 000 x 20%) i 45 000 EUR w kraju B (450 000 x 10%), w sumie 55 000 EUR. 
+
+W przedstawionym przykładzie, zastosowanie świadomej polityki cen transferowych może oznaczać dla grupy oszczędność w wysokości 20 000 EUR.
+
+Aby ograniczyć ryzyko przerzucania dochodów za pomocą cen transferowych, państwa nakładające wysokie zobowiązania podatkowe wprowadziły do swoich systemów uregulowania nakładające na przedsiębiorstwa obowiązek ustalania cen transferowych na poziomie zgodnym z cenami rynkowymi. W większości krajów należących do OECD, przedsiębiorstwa są zobowiązane przygotowywać specjalną dokumentację, udowadniającą zgodność danej ceny transferowej z cenami rynkowymi.
+
+Ceny transferowe w polskim prawie podatkowym
+W 2000 z inicjatywy Marka Belki, sprawującego ówcześnie funkcję ministra finansów, wdrożono do polskiego prawa podatkowego przepisy dotyczące cen transferowych. Utworzono także specjalne grupy urzędników, wyspecjalizowanych w wykrywaniu nadużyć związanych z cenami transferowymi.
+
+W przypadku gdy organ podatkowy uzna, że ustalone ceny transferowe są niezgodne z cenami rynkowymi, może dokonać oszacowania faktycznego zysku, jaki osiągnąłby podatnik gdyby stronami transakcji były podmioty niepowiązane. Do najistotniejszych aktów prawa regulujących problematykę cen transferowych osób prawnych zaliczamy: 
+Ustawę o podatku dochodowym od osób prawnych  oraz 
+Rozporządzenie w sprawie szacowania dochodów osób prawnych oraz unikania ich podwójnego opodatkowania
+Uregulowania dla osób fizycznych znajdują się w analogicznych przepisach. 
+
+Polskie przedsiębiorstwa zobowiązane są do przygotowywania dokumentacji podatkowej cen transferowych w przypadku gdy wartość transakcji przekroczy:
+100 000 EUR – jeżeli transakcja nie przekracza 20% kapitału zakładowego,
+30 000 EUR – w przypadku świadczenia usług, sprzedaży lub udostępnienia wartości niematerialnych i prawnych,
+50 000 EUR – w pozostałych przypadkach.
+
+W przypadku, gdy podatnik nie dostarczy dokumentacji w przeciągu 7 dni od daty zażądania jej przez organ podatkowy, w przypadku oszacowania dochodu przez organy podatkowe nadwyżka dochodu oszacowanego nad wykazanym podlega opodatkowaniu stawką sankcyjną w wysokości 50%.
+
+Dokumentacja powinna zostać przygotowana, także gdy transakcje są prowadzone z podmiotami z krajów wymienionych w "Rozporządzeniu Ministra Finansów z dnia 16 maja 2005 r., w sprawie określenia krajów i terytoriów stosujących szkodliwą konkurencję podatkową dla celów podatku dochodowego od osób prawnych". Analogiczne rozporządzenie zostało także wydane odnośnie podatku od osób fizycznych.
+
+
+
+
+

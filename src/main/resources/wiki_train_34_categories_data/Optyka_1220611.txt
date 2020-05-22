@@ -1,0 +1,7 @@
+Wibracyjny dichroizm kołowy (VCD, z ang. vibrational circular dichroism) jest techniką spektroskopową polegającą na pomiarze w zakresie podczerwieni (IR) różnicowej absorpcji między światłem spolaryzowanym kołowo w lewo i w prawo. Podobnie jak elektronowy dichroizm kołowy (CD lub ECD), wibracyjny dichroizm kołowy niesie ze sobą dodatkową informację o stereochemii badanej próbki (wibracyjny dichroizm kołowy jest dla klasycznej spektroskopii w podczerwieni tym samym, czym jest elektronowy dichroizm kołowy dla spektroskopii UV-VIS).
+
+W stosunku do spektroskopii elektronowego dichroizmu kołowego intensywność otrzymywanego sygnału jest kilka rzędów wielkości mniejsza, jednak VCD daje się zastosować do o wiele większego spektrum badanych substancji (głównym tego powodem jest większa liczba możliwych przejść oscylacyjnych niż elektronowych).
+
+Wibracyjny dichroizm kołowy jest idealnym narzędziem do badania stereochemii związków znajdujących się w roztworach, z powodzeniem może być stosowany zarówno dla małych, jak i dużych układów cząsteczkowych. Za jego pomocą możliwe jest wyznaczanie stosunku enancjomerycznego lub nadmiaru enancjomerycznego mieszaniny enancjomerów.
+
+Bibliografia

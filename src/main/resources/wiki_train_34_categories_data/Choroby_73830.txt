@@ -1,0 +1,79 @@
+Migrena – powtarzający się, najczęściej jednostronny, pulsujący ból głowy. Migrena trwa zazwyczaj od 4 do 72 godzin. Charakteryzuje się różnym stopniem nasilenia i częstotliwością występowania. Bóle nasilają się pod wpływem emocji lub wysiłku fizycznego. Występuje światłowstręt (fotofobia), nadmierna wrażliwość na dźwięki (fonofobia) i zapachy (osmofobia), występują też nudności i wymioty. Niekiedy przed wystąpieniem epizodu migrenowego, może pojawić się tzw. aura (występująca w 10% przypadków migren), w postaci parestezji, ubytków w polu widzenia, pojawienia się mroczków, niedowładu, afazji. Badania na bliźniętach wskazują, że wpływ czynników genetycznych wynosi 60–65%.
+
+Epidemiologia
+
+Migrena występuje u 12–28% ludzi w pewnym okresie ich życia.
+Zapadalność roczna wynosi 6–15% u dorosłych mężczyzn i 14–35% u dorosłych kobiet. Około 4–5% dzieci poniżej 12 lat ma migreny, z małą różnicą pomiędzy dziewczynkami i chłopcami. Po okresie dojrzewania następuje gwałtowny wzrost liczby przypadków migreny u dziewcząt, który występuje jeszcze we wczesnym życiu dorosłym. W średnim wieku migrena występuje u około 25% kobiet na rok i mniej niż u 10% mężczyzn. Po menopauzie ataki wśród kobiet gwałtownie się zmniejszają, po siedemdziesiątym roku życia około 5% populacji mężczyzn i kobiet cierpi na migreny.
+
+Patogeneza
+
+Przypuszczalnie migrena jest związana z genetyczną predyspozycją do nadwrażliwych reakcji neuronaczyniowych.
+Podłożem może być nieprawidłowe funkcjonowanie receptorów kanałów jonowych kory mózgowej, neuronów regulujących przepływ mózgowy oraz płytek krwi lub makrofagów, które chemicznie stymulują okołonaczyniowe wewnątrzczaszkowe włókna nerwowe .
+Wydaje się, że rozszerzająca się depresja korowa (ang. cortical spreading depression) – rozchodząca się fala zmniejszonej aktywności bioelektrycznej kory mózgu jest dominującym mechanizmem migreny z aurą . Według innej hipotezy, tzw. naczyniowej, za fazę aury odpowiada skurcz naczyń mózgowych, który w dalszym etapie przechodzi w nadmierne ich rozszerzenie ze zwiększoną przepuszczalnością ścian, doprowadzając do napadu bólowego.
+
+Rodzaje migreny
+Oczna (klasyczna) – przed wystąpieniem bólu zlokalizowanego w okolicy oczodołu, pojawiają się zaburzenia neurologiczne objawiające się połowiczym niedowidzeniem. Występuje też obniżona ostrość wzroku, a nawet całkowita krótkotrwała ślepota. Bardzo często z bólami migrenowymi związane są nudności i wymioty.
+Okoporaźna – występują bóle głowy skojarzone z częściowym lub całkowitym porażeniem mięśni okoruchowych. Prowadzi to do opadnięcia powieki oraz upośledzenia ruchów gałek ocznych, co powoduje podwójne widzenie.
+Porażenna (skojarzona) – występują okresowe pulsujące bóle głowy. Dodatkowo mogą wystąpić ogniskowe objawy mózgowe pod postacią parestezji, afazji lub dyzartrii, niedowładów a także napady padaczki Jacksona i objawy migreny okoporaźnej.
+Stan migrenowy – to napad migreny przedłużający się powyżej 72 godzin. Towarzyszą mu nasilone objawy wegetatywne w postaci uporczywych wymiotów, mogących doprowadzić do istotnych zaburzeń gospodarki wodno-elektrolitowej, zaczerwienienie i pocenie skóry twarzy, występowanie obfitej wydzieliny z nosa oraz łzawienie.
+Śnieg optyczny – przewlekła aura migrenowa, której nie zawsze towarzyszy ból głowy.
+Z aurą – trwająca zazwyczaj do 3 godz. występują porażenia wzroku, paraliże rąk, nudności, trudności w mówieniu, towarzyszy temu ból głowy.
+
+Rozpoznanie
+Według Międzynarodowej klasyfikacji bólów głowy z 2004 roku migrena bez aury jest rozpoznawana gdy: (a) wystąpiło co najmniej 5 napadów spełniających kryteria b–d, (b) napady (ataki) bólów głowy trwające 4–72 godz (nieleczone lub leczone nieskutecznie), (c) ból głowy charakteryzuje się dwoma lub więcej poniższymi cechami: jednostronnym umiejscowienie bólu, pulsującym charakterem, nasilaniem się bólu pod wpływem rutynowej aktywności fizycznej, (d) w czasie bólu głowy występują co najmniej: nudności i (lub) wymioty, fotofobia i fonofobia, (e) brak jest danych wskazujących na inną przyczynę bólu .
+
+Leczenie
+Leki stosowane w napadach migrenowych to: (1) leki działające na nieswoiste ośrodki przeciwbólowe, np niesteroidowe leki przeciwzapalne, (2) nieselektywne i selektywne swoiste leki przeciwmigrenowe działające tylko na ból migrenowy, (3) leki przeciwwymiotne i leki uspokajające. Istnieje możliwość nadużycia leków doraźnych i powstania zespołu wtórnych bólów głowy. Z niewyjaśnionych do końca powodów u pacjentów z migreną często dochodzi do uzależnienia od leków takich jak ergotamina, tryptany, lub NLPZ.
+
+Doraźne leczenie napadów migrenowych
+Selektywni agoniści receptora 5-HT1B/D. Dostępne na receptę wydają się być obecnie najskuteczniejsza grupą leków w przerywaniu napadów migrenowych (tzw. tryptan) – sumatryptan, zolmitriptan, rizatriptan i eletriptan. Sukces sumatryptanu spowodował badanie innych leków z grupy tryptanów. Tryptany są pochodnymi indolu, chemicznie zbliżone do serotoniny (5-hydroksytryptaminy – 5-HT). Mechanizm ich działania polega na pobudzaniu niektórych receptorów serotoninowych, a zwłaszcza 5-HT1B, przez co kurczą naczynia głowy u człowieka. Pobudzają receptory 5-HT1D w szlakach nerwu trójdzielnego, hamując antydromowo uwalnianie substancji bólotwórczych i wazoaktywnych, oraz blokują procesy neurogennego okołonaczyniowego zapalenia, które leży u podstawy objawów napadu. Działając na te receptory tryptany doprowadzają do przerwania napadu, usuwają jego objawy, a więc ból głowy, ale także nudności i wymioty, światłowstręt, złe znoszenie hałasu. Tryptany działają szybko.
+
+Pochodne alkaloidów sporyszu: alkaloidy sporyszu (dihydroergotamina i ergotamina), iprazochrom i oksetoron. Do chwili odkrycia sumatryptanu ergotamina była jedynym swoistym lekiem przeciwmigrenowym. Wprowadzona w 1926 r., nadal jest używana (w 2009), ale wypierana przez tryptany. Nie działa ona wybiórczo i kurczy również naczynia wieńcowe oraz obwodowe, ale obecnie (w 2009) wiadomo, że w napadzie migrenowym wpływa na właściwe receptory serotoninowe, hamuje też zapalenie neurogenne. Mimo że pochodne sporyszu są efektywne, obecnie są rzadziej używane ze względu na efekty uboczne (ergotyzm). Pochodne alkaidów sporyszu mogą powodować wymioty. Istnieją lekarstwa, które łączą ergotaminę z kofeiną.
+Niesteroidowe leki przeciwzapalne (NLPZ), dostępne w większości bez recepty: kwas acetylosalicylowy, paracetamol, metamizol, diklofenak, ibuprofen, ketoprofen, naproksen, kwas mefenamowy, nabumeton, meloksykam).
+
+Profilaktyczne leczenie migreny
+Do leczenia profilaktycznego migreny proponowano dziesiątki różnych leków – większość nie ostała się w miarę upływu czasu, bądź z uwagi na nieskuteczność, bądź też objawy uboczne . Typowe leki używane w profilaktycznym leczeniu migreny to
+
+Dwuhydropochodne ergotaminy (od 1940 r.), np. dwuhydroergotamina (DHE) lub dwuhydroergotoksyna
+Leki przeciwpadaczkowe – od lat 40. (fenytoina, karbamazepina, obecnie kwas walproinowy, topiramat, gabapentyna)
+Leki przeciwserotoninowe (od 1950 r.), np. metysergid, pizotifen, iprazochrom, cyproheptadyna, ketotifen
+Leki przeciwdepresyjne (od 1965 r.), np. amitryptylina, mianseryna
+Beta-blokery (od 1966 r.) – propranolol, metoprolol, atenolol, timolol
+Niesteroidowe leki przeciwzapalne (od 1978 r. jako leki profilaktyczne, np. aspiryna, naproksen, kwas tolfenamowy)
+Blokery wapniowe (od 1980 r.) - tylko flunaryzyna i werapamil
+Inne - ryboflawina oraz toksyna botulinowa typu A (podawana domięśniowo w okolicy czołowej i skroniowej)
+
+Ziołolecznictwo
+Od wieków proponowano zioła do leczenia migreny. Prusiński  wymienia dwa preparaty ziołowe: wrotycz maruna (d. złocień maruna) (Tanacetum parthenium), używany był już przez greckich lekarzy antycznych, oraz wyciąg z lepiężnika różowego (Petasites hybridus).
+
+Dieta eliminacyjna a migrena
+Wpływ sposobu odżywiania na występowanie epizodów migreny był wielokrotnie rozważany w literaturze medycznej [np. Leira & Rodriguez, 1996], niewiele jednak badań przeprowadzono w celu potwierdzenia tych spekulacji. Istnieją doniesienia o korzystnym działaniu diety bogatej w węglowodany i niskobiałkowej [Hasselmark i wsp., 1987] oraz diety niskotłuszczowej [Bic i wsp., 1999] na występowanie epizodów migreny. 
+
+Badania skuteczności diety eliminacyjnej u osób cierpiących na migrenę przeprowadził zespół lekarzy z różnych uczelni medycznych w Anglii i Szkocji, pod kierownictwem prof. A.J.Dowsona z King’s Colledge Hospital w Londynie [Rees i wsp., 2005]. Badanie skutków diety eliminacyjnej przeprowadzono w formie ankiety po 1 i 2 miesiącach od przeprowadzenia testu ELISA i ustalenia indywidualnego składu nowej diety dla każdego z pacjentów. Średnia liczba odstawionych pokarmów wyniosła 4,7. Analiza kwestionariuszy wskazała, że znaczny odsetek badanych odniósł wyraźne korzyści zdrowotne w wyniku zastosowania diety eliminacyjnej.
+
+Leczenie migreny w ciąży
+Podczas ciąży, z uwagi na ochronę rozwijającego się organizmu dziecka, przeciwwskazana jest większość leków stosowanych w profilaktyce i terapii napadów migreny.
+Lekami stosowanymi w przypadku ataku migreny w ciąży są:
+paracetamol
+niesteroidowe leki przeciwzapalne (dopuszcza się w II trymestrze)
+Bezwzględnie przeciwwskazane są alkaloidy sporyszu. Przeciwwskazane są również tryptany, jednakże według najnowszych wytycznych EFNS z 2009 roku dopuszczalne jest stosowanie sumatryptanu i rizatryptanu wyłącznie pod warunkiem, że ryzyko zagrożenia ciąży z powodu napadu migreny i uporczywych wymiotów jest większe niż to wynikające z podania leku.
+W profilaktyce migreny u ciężarnych można zastosować:
+metoprolol 
+magnez
+
+Historia badań
+
+Historia badań nad migreną sięgają czasów antycznych. Pierwsze opisy sporządził Areteusz z Kapadocji (w I wieku n.e.). Opisał po raz pierwszy tzw. heterokranię i podał cechy, wyróżniające tę postać chorobową od innych rodzajów bólu głowy.
+
+
+
+Zobacz też
+
+klasterowy ból głowy
+bóle głowy typu napięciowego
+Ból głowy towarzyszący seksowi
+
+
+
+
+

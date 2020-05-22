@@ -1,0 +1,92 @@
+
+Węgiel (C, łac. carboneum) – pierwiastek chemiczny o liczbie atomowej 6, niemetal z bloku p układu okresowego. Należy do grupy 14. Posiada cztery elektrony walencyjne. Istnieją trzy naturalnie występujące izotopy węgla, 12C oraz 13C są stabilne, natomiast izotop 14C jest promieniotwórczy o czasie połowicznego rozpadu równym około 5700 lat. Węgiel jest jednym z niewielu pierwiastków znanych w starożytności. Jako pierwszy polską nazwę – węgiel – zaproponował Filip Walter.
+
+Znanych jest kilka odmian alotropowych węgla, z czego najbardziej znane to grafit oraz diament. Właściwości fizyczne węgla zależą od odmiany w jakiej występuje. Na przykład diament jest przezroczysty, natomiast grafit jest nieprzezroczysty i czarny. Diament jest jednym z najtwardszych materiałów na ziemi, podczas gdy grafitem można narysować kreskę na papierze. Diament ma bardzo niskie przewodnictwo właściwe, a grafit jest dobrym przewodnikiem elektrycznym. Diament posiada najwyższą przewodność cieplną z wszystkich znanych materiałów w warunkach normalnych. Wszystkie odmiany alotropowe węgla są w warunkach normalnych ciałami stałymi. Innymi odmianami alotropowymi węgla są: fuleren oraz formy poliynowe. Niektórzy uważają też, że jego odmianami alotropowymi są: nanocebulka, nanorurka, nanopianka, karbin, choć są to raczej nazwy struktur supramolekularnych, niż odmiany alotropowe w pełnym tego słowa znaczeniu.
+
+Wszystkie formy występowania węgla są wysoce stabilne, wymagają wysokiej temperatury żeby przereagować nawet z tlenem. Największe ilości nieorganicznego węgla występują w postaci skał wapiennych, dolomitów oraz dwutlenku węgla, natomiast znaczne ilości węgla organicznego znajdują się w paliwach kopalnych. Węgiel tworzy więcej związków niż wszystkie inne pierwiastki chemiczne. Liczba organicznych związków węgla zarejestrowanych w bazie Beilstein w roku 2008 wynosiła 10&nbsp;853&nbsp;341, co jest małą częścią teoretycznych związków jakie można z niego otrzymać.
+
+Węgiel znajduje się na czwartym miejscu najczęściej występujących pierwiastków we Wszechświecie, po wodorze, helu i tlenie. Jest obecny we wszystkich organizmach żywych. W ludzkim ciele jest po tlenie najliczniejszym pierwiastkiem ze względu na masę (ok. 18,5%). Ta ilość w połączeniu z różnorodnością związków organicznych stawia węgiel jako chemiczną podstawę życia.
+
+Charakterystyka
+Różne odmiany alotropowe węgla wykazują bardzo różne właściwości, np. diament jest najtwardszą naturalnie występującą substancją, grafit jest jedną z substancji o najmniejszej twardości. Ponadto węgiel ma powinowactwo do tworzenia wiązań chemicznych z innymi małymi atomami, włączając w to inne atomy węgla oraz tworzenia wielu wiązań kowalencyjnych z tymi atomami w wyniku czego związki zawierające węgiel w swojej strukturze stanowią znaczną cześć wszystkich znanych związków, liczba ich dochodzi do dziesięciu milionów. Węgiel posiada także najwyższe temperatury topnienia oraz sublimacji z wszystkich pierwiastków. Przy ciśnieniu atmosferycznym nie występuje w ogóle topnienie węgla, lecz sublimacja w temperaturach rzędu 3900K - jego punkt potrójny występuje przy ok. 10 MPa (100 bar). Węgiel sublimuje do łuku węglowego w temperaturze ok. 5800K. więc niezależnie od odmian alotropowych pozostaje ciałem stałym w wyższych temperaturach, niż metale o najwyższych temperaturach topnienia (wolfram i ren). Jednakże termodynamicznie węgiel bardzo łatwo się utlenia, znacznie lepiej niż żelazo czy miedź, które są słabymi reduktorami w temperaturze pokojowej.
+
+Związki zawierające węgiel są podstawą życia na Ziemi, a cykl węglowo-azotowo-tlenowy dostarcza część energii wytwarzanej przez Słońce i inne gwiazdy. Pomimo różnorodności związków węgla większość jego form jest stosunkowo słabo reaktywna w warunkach normalnych. Nie reaguje z kwasem siarkowym, kwasem solnym, chlorem ani zasadami. W podwyższonej temperaturze węgiel reaguje z tlenem, tworząc tlenki węgla, oraz redukuje wiele tlenków metali, takich jak tlenek żelaza, do metalu. Ta reakcja egzotermiczna jest wykorzystywana w przemyśle żelazowym i stalowym do kontroli zawartości węgla w stali:
+Fe3O4+ 4C(s) → 3Fe(s) + 4CO(g)
+Z siarką tworzy dwusiarczek węgla, a z parą wodną tlenek węgla i wodór:
+C(s) + H2O(g) → CO(g) + H2(g)
+Węgiel reaguje z niektórymi metalami, tworząc węgliki, takie jak węglik żelaza (cementyt) czy węglik wolframu, który dzięki swojej twardości jest używany w różnego rodzaju narzędziach tnących.
+
+Odmiany alotropowe węgla
+
+Węgiel posiada następujące odmiany alotropowe:
+diament,
+fuleren,
+grafit,
+grafen,
+lonsdaleit.
+Niektórzy uważają też, że jego odmianami alotropowymi są formy poliynowe:
+karbin,
+nanocebulka,
+nanopianka,
+nanorurka,
+choć są to raczej nazwy struktur supramolekularnych, niż odmiany alotropowe w pełnym tego słowa znaczeniu.
+
+Występowanie
+Zawartość węgla w skorupie ziemskiej wynosi 0,018%. Spotykany jest:
+w postaci pierwiastka chemicznego:
+grafit;
+diament;
+fulereny;
+sadza (zanieczyszczony węgiel bezpostaciowy);
+w postaci związków chemicznych:
+nieorganicznych: węglany, węgliki, tlenki;
+organicznych: białka, tłuszcze i cukry, węglowodory, alkohole, estry itp.
+w mieszaninach organicznych związków węgla, jakimi są paliwa kopalne:
+gaz ziemny;
+ropa naftowa;
+węgle kopalne:
+torf;
+węgiel brunatny;
+węgiel kamienny i antracyt.
+
+Obieg węgla
+
+
+W warunkach ziemskich zmiana jednego związku w drugi jest rzadka. Jednak ilość węgla na ziemi jest stała. Dlatego musi istnieć proces, powodujący utrzymanie równej ilości węgla w różnych częściach ziemi. Ścieżki, jakimi "wędruje" węgiel, tworzą obieg węgla w przyrodzie. Np. rośliny pochłaniają dwutlenek węgla z powietrza i używają go do produkcji biomasy w procesie fotosyntezy lub cyklu Calvina. Część biomasy produkowanej przez rośliny zostaje zjedzona przez zwierzęta, podczas gdy część węgla jest wydychana w postaci dwutlenku węgla.
+
+Związki węgla
+Związki organiczne
+
+
+Węgiel ma zdolność do tworzenia bardzo długich łańcuchów zawierających wiązanie C-C. Zdolność ta nosi nazwę katenacji. Wiązanie węgiel-węgiel jest bardzo silne i stabilne.
+
+Ta zdolność pozwala węglowi tworzyć praktycznie nieskończoną ilość związków. Ilość związków zawierających węgiel w swojej strukturze jest większa niż wszystkich pozostałych związków nie zawierających węgla (nie licząc związków zawierających wodór, gdyż praktycznie każdy związek organiczny zawiera atom wodoru).
+
+Najprostszymi związkami organicznymi są węglowodory- związki zawierające w swojej strukturze tylko atomy węgla i wodoru. Długość łańcucha, boczne łańcuchy oraz grupy funkcyjne wpływają na właściwości związku.
+
+
+
+Węgiel występuje w każdym organizmie żywym oraz jest podstawą chemii organicznej. Węglowodory to grupa palnych związków które odgrywaja istotną rolę w przemyśle polimerowym, petrochemicznym oraz paliw kopalnych.
+
+Gdy w związku obok węgla i wodoru występuje tlen, tworzy się wiele ważnych biologicznie grup związków, takich jak cukier, chityna, alkohole, tłuszcze, zapachowe estry, karotenoidy oraz terpeny. Związki zawierające azot tworzą alkaloidy, aminokwasy, zawierające siarkę antybiotyki. Związki zawierające fosfor tworzą DNA, RNA oraz ATP, najważniejszy przenośnika energii w komórce.
+
+Związki nieorganiczne
+Spośród nieorganicznych związków węgla duże znaczenie mają dwutlenek węgla, tlenek węgla, kwas węglowy, węglany oraz węgliki. Powszechnie stosowany jest w stopach z żelazem (stal i żeliwo). W związkach węgiel jest zazwyczaj czterowartościowy, rzadko dwuwartościowy (np. w tlenku węgla oraz związkach kompleksowych). Występuje na rozmaitych stopniach utlenienia w zakresie od -4 do +4.
+
+Do najważniejszych tlenków węgla należą tlenek, dwutlenek i podtlenek.
+
+Znaczenie biologiczne węgla
+Węgiel stanowi podstawę życia na Ziemi, ponieważ tworzy wszystkie związki organiczne.
+
+Zastosowanie węgla
+Węgiel jest jednym z paliw kopalnych i ważnym źródłem nieodnawialnej energii. Uważa się, że spalanie węgla, a także innych kopalnych paliw przyczynia się do powstawania efektu cieplarnianego.
+
+Naturalna zawartość izotopu 14C wykorzystywana jest do tzw. datowania radiowęglowego. W czasie życia w organizmie żywym przyswajane są związki z węglem 14C i odkładane wewnątrz tkanek. Po śmierci węgiel rozpada się. Podczas określania wieku organizmu mierzy się proporcję węgla 14C do całkowitej ilości węgla.
+
+Grafit jest stosowany w poligrafii do produkcji ołówków oraz jako jedna z elektrod w spawalnictwie. Diament jest kamieniem szlachetnym stosowanym w jubilerstwie oraz ze względu na swoją wysoką twardość w urządzeniach pomiarowych, narzędziach do skrawania, zwłaszcza szlifowania i wiercenia. Węgiel bezpostaciowy jest używany w medycynie oraz jako węgiel aktywny do procesów filtracji i oczyszczania.
+
+
+
+
+
+Linki zewnętrzne

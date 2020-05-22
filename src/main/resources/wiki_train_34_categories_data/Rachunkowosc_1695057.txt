@@ -1,0 +1,23 @@
+Przedmiar (dawniej: kosztorys nakładczy, kosztorys ślepy) – opracowanie określające rodzaj, sposób wykonania i ilość robót konkretnego zadania, stworzone przed jego realizacją. Przedmiarowanie stosuje się jako pierwszy etap kosztorysowania w realizacji nowych zadań. Normowe zasady przedmiarowania określone są dla wielu dziedzin, takich jak np. budownictwo, górnictwo, hutnictwo, melioracje i inne, w zestawieniach nakładów rzeczowych, stanowiących bazę normową dla kosztorysowania.
+
+Komplementarnym dopełnieniem dla przedmiaru jest obmiar. Obmiar wykonywany jest dla istniejących obiektów na podstawie odpowiednich pomiarów, których wynik jest podstawą przyjęcia ilości obmiarowej danej pozycji obmiaru. Przedmiar wykonywany jest przed rozpoczęciem ich realizacji. Oznacza to, iż wykonywany może być tylko na podstawie określonej bazy technicznej, tj. dokumentacji technicznej, założeń i danych wyjściowych do projektowania i kosztorysowania, ewentualnego projektu technologii robót, i innych analiz, opracowań oraz dokumentów. Nie ma w tym przypadku możliwości wykonania pomiarów; obiekt fizycznie jeszcze nie istnieje.
+
+Jak wyżej zaznaczono bazę normową stanowią odpowiednie zestawienia nakładów rzeczowych. Są to np.
+KNR: Katalog Nakładów Rzeczowych
+KSNR: Katalog Scalonych Nakładów Rzeczowych
+KNNR: Kosztorysowe Normy Nakładów Rzeczowych
+i inne.
+
+Katalogi określają szczegółowo sposób wyznaczania ilości poszczególnych robót, wyodrębnianych z całości zadania, na podstawie bazy technicznej, i zapisywanej w kolejnej pozycji przedmiarowej. Oprócz ilości robót, w przedmiarze robót podaje się również podstawę dokonania obliczeń, tj. oznaczenia konkretnego katalogu nakładów i numeru tabeli oraz pozycji w tabeli lub innej zastosowanej podstawy przedmiarowania.
+
+Jak na wstępie podano przedmiar, oprócz rodzaju i ilości robót, precyzuje także sposób ich wykonania. Ma on bowiem istotne znaczenie technologiczne i kosztowe. Jest niezbędny w procesie tworzenia kosztorysu oraz planowania realizacji zadania.
+
+Przykładowo dla zadania inwestycyjnego z zakresu budownictwa: jeżeli w projekcie budynku zaprojektowano fundamenty w postaci ław żelbetowych, to nie jest wystarczającym określenie w przedmiarze ilości ław , lecz zgodnie z daną normą przedmiarowania zawartą w katalogu, zarówno dla wyceny robót jak i późniejszej ich realizacji, niezbędne jest uszczegółowienie technologii ich wykonania; w rozpatrywanym przypadku dotyczyć to powinno co najmniej określenia jakie zostanie zastosowane deskowanie (tradycyjne, typu ACRO, inne systemowe, lub inne), sposób betonowania (za pomocą pompy do betonu, pojemnikiem za pomocą żurawia, ręczne z przewozem betonu taczkami, lub inne), a także ewentualne, inne szczegóły technologiczne. Wybór sposobu wykonania danego elementu zależny jest od wielu czynników, nie tylko od projektu ale i skali przedsięwzięcia, możliwości technicznych wykonawcy, warunków lokalnych itd.. Szeroki zakres katalogów w danej dziedzinie (np. budownictwie), umożliwia zwykle wybór spośród możliwych, stosowanych współcześnie metod.Jednak zdarza się, iż specyfika robót wymusi zastosowania zamiast opracowań katalogowych, inne normowania, np. analizę indywidualną, analogię, interpolację, ekstrapolację, różne publikowane poprawki, dodatki, współczynniki normowe, lub inne, co w przedmiarze przy podaniu podstawy normowej winno być zaznaczone.
+
+Przedmiar najczęściej tworzony jest w postaci tabeli, w której umieszcza się kolejne pozycje przedmiaru. Każda pozycja składa się z poszczególnych kolumn tabeli. Uwzględnia się następujące kolumny: liczba porządkowa pozycji, podstawa przedmiaru, opis, jednostka miary, liczba jednostek (ilość przedmiarowa robót). Obecnie dostępne są liczne aplikacje do kosztorysowania, w których kosztorysant tworzy również przedmiar robót. Program taki dostarcza zwykle na potrzeby przedmiarowania szereg udogodnień, np. wzory matematyczne, odpowiednie funkcje dla podstawowych wielkości fizycznych i zależności pomiędzy nimi, przeliczniki jednostek, możliwość definiowania stałych, rzadziej zmiennych, prostych funkcji obliczeniowych, odwołań do wcześniej zdefiniowanych przedmiarów lub ich wybranych i oznaczonych fragmentów itp.. Tak stworzony przedmiar może być następnie automatycznie użyty do tworzenia kosztorysu.
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+RAD6000''' –  komputer odporny na promieniowanie, zmontowany w całości na jednej płycie montażowej, tzw.  Single Board Computer, SBC. Bazuje na 32-bitowym mikroprocesorze o architekturze RISC firmy IBM, wykonanym w technice RSC,  RISC Single Chip, który taktowany zegarem o częstotliwości 33 MHz, osiaga wydajność 35 MIPS.  Komputer ten wyposażony jest w 128 MB pamięci RAM typu ECC oraz system operacyjny VxWorks. Produkowany przez IBM Federal Systems, będący obecnie częścią koncernu BAE Systems. Jest znany głównie jako komputer pokładowy wielu statków kosmicznych NASA.
+
+Zastosowany m.in. w:
+Mars Exploration Rover
+Mars Pathfinder
+Deep Space 1
+Mars Polar Lander
+Kosmiczny Teleskop Spitzera
+STEREO (sondy)
+Dawn (sonda)
+2001 Mars Odyssey
+Phoenix (lądownik)
+Genesis (sonda kosmiczna)
+Stardust
+MESSENGER
+Solar Dynamics Observatory (wraz z RAD750)
+
+
+
+

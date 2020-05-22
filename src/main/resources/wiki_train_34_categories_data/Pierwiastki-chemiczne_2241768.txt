@@ -1,0 +1,23 @@
+Pluton-238''' – jeden z izotopów pierwiastka chemicznego plutonu o czasie połowicznego rozpadu wynoszącym 87,7 lat. Ulega rozpadowi alfa do 234U. 
+Podczas rozpadu jądra plutonu-238 z emitowana jest cząstka alfa o energii około 5,6 MeV.
+
+Jest używany jako źródło energii w radioizotopowych generatorach termoelektrycznych i w radioizotopowych urządzeniach grzewczych (RUG). Jeden gram plutonu-238 generuje moc około 0,5 wata.
+
+Pluton-238 jest pierwszym wytworzonym izotopem plutonu. Został otrzymany przez Glenna Seaborga w 1941 roku poprzez bombardowanie uranu-238 atomami deuteru. Produktem pierwotnym reakcji jest neptun-238, który rozpada się do plutonu-238 (t½ 2,1 dnia). Pluton-238 rozpada się do uranu-234 wchodząc do uranowo-radowego szeregu promieniotwórczego kończącego się na ołowiu-206. Ze względu na długi czas połowicznego rozpadu uranu-234 (246&nbsp;000&nbsp;lat), praktycznie zachodzi tylko rozpad plutonu.
+
+Pluton pochodzący ze zużytego paliwa jądrowego z reaktorów (tzw. pluton o czystości reaktorowej) zawiera ok. 1–2% plutonu-238, który jednak może odpowiadać za znaczną część ciepła generowanego przez ten materiał (pozostałe izotopy emitują mniej energii ze względu na znacznie dłuższy czas połowicznego rozpadu). Ze względu na trudności techniczne, uzyskiwanie czystego plutonu-238 z takiej mieszaniny izotopów jest nieopłacalne.
+
+Czysty pluton-238 jest wytwarzany przez napromieniowanie neutronami termicznymi neptunu-237 (który można wyizolować ze zużytego paliwa jądrowego podczas jego przetwarzania) lub, w nowszym podejściu,  ameryku-241. Po zakończeniu reakcji napromieniowany materiał jest przetwarzany chemicznie w celu wyizolowania plutonu.
+
+Produkcja plutonu-238 związana była z rozwojem broni jądrowej w czasie zimnej wojny. Po jej zakończeniu produkcja plutonu została wstrzymana i korzysta się ze zgromadzonych zapasów. Od 1993 roku cały pluton-238 użyty przez Stany Zjednoczone w sondach kosmicznych (16,5 kg) został zakupiony  w Rosji, jednak także tamtejsze zapasy wyczerpują się. W roku 2009 Departament Energii Stanów Zjednoczonych złożył wniosek o finansowanie ponownego uruchomienia produkcji pluton-238 w USA.
+
+Pluton-238 w programie Apollo
+W programie Apollo paliwem zasilającym radioizotopowy generator termoelektryczny (RTG) eksperymentu ALSEP był pluton-238. Na powierzchnię Księżyca pluton-238 musiał być przewożony w sposób bezpieczny dla astronautów i całego środowiska. Był on dostarczany w grafitowym , umieszczonym w członie zniżania modułu księżycowego. Konstrukcja pojemnika zapewniała, iż pluton-238 nie skazi środowiska nawet w przypadku katastrofy statku kosmicznego na dowolnym etapie misji. Na powierzchni Księżyca pluton-238 był wyjmowany z pojemnika osłonnego i umieszczany w radioizotopowym generatorze termoelektrycznym. 
+
+Podczas misji Apollo 13 doszło do awaryjnego wejścia modułu księżycowego w atmosferę ziemską. Moduł księżycowy nie był przystosowany do przejścia przez atmosferę ziemską i spłonął, natomiast grafitowy pojemnik osłonny z plutonem-238 znajdujący się we wnęce z wyposażeniem eksperymentu ALSEP  modułu księżycowego, nie uległ spaleniu i zatonął w rowie oceanicznym Tonga znajdującym się w południowej części Pacyfiku. Największa głębia rowu wynosi 10 882 metry. Późniejsze badania nie wykazały zwiększonej radioaktywności w tym regionie.
+
+
+
+
+
+

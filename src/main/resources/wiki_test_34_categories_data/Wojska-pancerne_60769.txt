@@ -1,0 +1,95 @@
+PT-91 Twardy – polski czołg podstawowy, który został opracowany w oparciu o czołg T-72M1. Zasadnicze zmiany w stosunku do pierwowzoru dotyczą nowego systemu kierowania ogniem DRAWA, oraz pancerza reaktywnego ERAWA. Czołg PT-91 produkowany był w zakładach Bumar-Łabędy S.A., w dzielnicy Gliwic – Łabędach.
+
+Historia
+Pod koniec lat 80. przeprowadzono w Polsce modernizację czołgów T-55 do standardu T-55AM. Pomyślne przeprowadzenie tej modernizacji stało się impulsem do rozpoczęcia na przełomie 1988 i 1989 roku procesu projektowania zmodernizowanej wersji czołgu T-72M1. Początkowo prace nie były prowadzone zbyt intensywnie, ponieważ jednocześnie toczyły się rozmowy z ZSRR na temat zakupu przez Polskę licencji na produkcję nowszej wersji T-72 (T-72S, czyli T-72M1M1) lub T-80. Fiasko tych rozmów i zmiany polityczne przełomu lat osiemdziesiątych i dziewięćdziesiątych spowodowały zintensyfikowanie prac nad modernizacją T-72 w Polsce.
+
+Pierwszą próbą był opracowany na zlecenie MON czołg o kryptonimie Wilk, ale projekt tej modernizacji został zatrzymany na wczesnym etapie. Jeszcze przed podjęciem decyzji o zakończeniu programu Wilk samodzielne prace nad inną modernizacją (o kryptonimie Twardy) podjęto wspólnie w Ośrodku Badawczo-Rozwojowym Urządzeń Mechanicznych w Gliwicach (OBRUM Gliwice) i Bumarze-Łabędy.
+
+Pierwszym etapem prac było określenie zakresu modernizacji. W wyniku przeprowadzonych analiz za najważniejsze wady T-72M1 uznano:
+niską ruchliwość,
+słabe opancerzenie,
+niedostateczną celność ognia spowodowaną brakiem systemu kierowania ogniem i przestarzałą konstrukcją stosowanej armaty i układu jej stabilizacji,
+niską skuteczność ognia, wynikającą z braku nowoczesnej amunicji przeciwpancernej,
+brak nocnych, pasywnych przyrządów obserwacyjno-celowniczych.
+
+W efekcie postanowiono zmodernizować czołg poprzez:
+wymianę silnika W-46 o mocy 780 KM na opracowany w Zakładach PZL-Wola silniki S-12U o mocy 850 KM (rozwiązaniem docelowym miał być opracowany w tych samych zakładach silnik S-1000 o mocy 1000 KM). Silnik S-12U jest zmodernizowaną wersją silnika W-46 której moc zwiększono poprzez zwiększenie dawki spalanego paliwa,
+wyposażenie zmodernizowanego czołgu w pancerz reaktywny ERAWA, opracowany przez Wojskowy Instytut Techniki Uzbrojenia (modernizację pancerza zasadniczego uznano za niecelową z uwagi na koszty). Poza zwiększeniem odporności czołgu na trafienia pociskami kumulacyjnymi (zmniejszenie przebijalności o 50-70%) i rdzeniowymi (zmniejszenie przebijalności o ok. 30%), dzięki pokryciu kostek pancerza reaktywnego warstwą absorbera fal radarowych zmniejszono zasięg wykrycia czołgu przez radary pola walki o ok. 50%. Zwiększenie przeżywalności czołgu na polu walki miało spowodować wyposażenie go w system ostrzegawczy Obra, który po wykryciu oświetlenia czołgu promieniem laserowym analizuje rodzaj sygnału i w przypadku uznania emisji za wrogą, odpala w kierunku pochodzenia sygnału granaty dymne oraz system przeciwwybuchowy niemieckiej firmy Deugra.  Wymieniono boczne fartuchy, osłaniające układ jezdny, wykonane z gumy na metalowe. Odporność czołgu na wybuchy min miało zwiększyć wzmocnienie dna kadłuba, przekonstruowanie włazu ewakuacyjnego w dnie oraz podwieszenie fotela mechanika-kierowcy do stropu kadłuba (w T72M1 jest mocowany do podłogi). Dodatkowo odporność czołgu na wybuchy min przeciwdennych zwiększyć miał wielosekcyjny pancerz zawieszony z przodu kadłuba.
+wyposażenie czołgu w system kierowania ogniem DRAWA (wymianę armaty uznano za zbyt kosztowną),
+opracowanie nowego pocisku przeciwpancernego przez zakłady Belma,
+wymianę nocnych przyrządów obserwacyjnych aktywnych (TPN-1-49-23 działonowego, TKN-3 dowódcy) na pasywne noktowizyjne (POD-72 dowódcy, PNK-72 Radomka mechanika kierowcy). Działonowy miał dysponować celownikiem nocnym PCN-A (noktowizyjnym) lub TES (termowizyjnym).
+
+W wyniku modernizacji wzrosła masa wozu, jednak dzięki zwiększonej mocy silnika, moc jednostkowa nie spadła. Ruchliwość czołgu nadal jest dość ograniczona, ale jej powiększenie nie jest możliwe bez całkowitej wymiany układu przeniesienia mocy, co w wozach modernizowanych jest bezcelowe. Odporność pancerza jest wyższa od T-72, ale nadal jest dużo niższa od odporności pancerzy laminowanych stosowanych w czołgach III generacji. Celność ognia wzrosła, ale tylko wtedy, gdy prowadzony jest on z postoju. Ogień w ruchu jest nadal niezbyt celny z powodu przestarzałego stabilizatora i armaty.
+
+Pierwsze 10 czołgów PT-91 zostało przekazanych 34 Brygadzie Kawalerii Pancernej z 11 Dywizji Kawalerii Pancernej w styczniu 1995 roku, a następna partia 10 czołgów została uroczyście i oficjalnie przekazana tej jednostce w marcu. Po testach, w następnych egzemplarzach zmodyfikowano sposób montażu pancerza reaktywnego. Większość eksploatowanych przez Wojsko Polskie egzemplarzy czołgu PT-91 powstało przez przebudowę i modernizację czołgów T-72M1. Dostawy dla wojska polskiego zakończono w 2002 roku po dostarczeniu 233 czołgów.
+
+Jednocześnie z modernizacją czołgów T-72 do standardu PT-91, w OBRUM i Bumarze trwały prace nad opracowaniem wersji przeznaczonej na eksport. W odróżnieniu od pojazdów dla Wojska Polskiego, wozy eksportowe miały być produkowane od podstaw, co umożliwiało zastosowanie szerszego zakresu modernizacji. Opracowano między innymi technologię produkcji odlewanego pancerza warstwowego z warstwą niemetaliczną, dzięki czemu wzmocniono opancerzenie zasadnicze czołgu.
+
+Opis
+
+
+
+
+PT-91 Twardy jest czołgiem podstawowym przełomu II i III generacji. Załogę czołgu tworzą dowódca, działonowy i mechanik-kierowca. Kierowca zajmuje miejsce w kadłubie, a dowódca i działonowy w wieży.
+
+W przedniej części kadłuba znajduje się przedział kierowania, środkowej przedział bojowy z wieżą, a w tylnej przedział napędowy.
+
+W przedziale kierowania stanowisko ma mechanik-kierowca. Kierowca obserwuje teren przed wozem za pomocą szerokokątnego peryskopu. W nocy może on być wymieniony na noktowizyjny peryskop nocny PNK-72 Radomka. Rolę tablicy przyrządów pełni blok sterująco-diagnostyczny US-DK-1 monitorujący systemy i układy czołgu.
+
+Działonowy obsługuje system kierowania ogniem DRAWA. W jego skład wchodzi komputer balistyczny, celownik dzienny PCD i nocny PCN-A (noktowizyjny) lub ELOP TES (termowizyjny) oraz dalmierz laserowy TPD-K1M i czujnik danych meteorologicznych. Dowódca obserwuje teren naokoło czołgu przy pomocy dzienno-nocnego przyrządu obserwacyjnego POD-72. 
+
+Opancerzenie
+Kadłub PT-91 jest wykonany ze spawanych płyt stalowych. Wzmocniono go materiałem kompozytowym. Pancerz czołowy kadłuba (analogiczny wobec pancerza T-72M1) jest pancerzem warstwowym o łącznej grubości 230 mm. Uwzględniając nachylenie pancerza, aby przebić go, pocisk musi przebyć ok. 500-600 mm stali i elementu kompozytowego. Odporność pancerza zwiększają płytki pancerza reaktywnego ERAWA. Pancerz boczny i tylny ma grubość ok. 80 mm i chroni przed pociskami działek małokalibrowych. Osłonę układu jezdnego zapewniają boczne fartuchy z blachy stalowej, w przedniej części także wzmocnione pancerzem reaktywnym.
+
+Uzbrojenie
+W wieży znajduje się zasadnicze uzbrojenie wozu: 125 mm armata gładkolufowa 2A46 Rapira-3. Lufa armaty wyposażona jest w osłonę termiczną z lekkiego stopu i przedmuchiwacz (eżektor), usuwający gazy prochowe po wystrzale. Maksymalny kąt podniesienia armaty wynosi +15°, minimalny -5°. Obok armaty umieszczony jest czołgowy karabin maszynowy PKT kalibru 7,62 x 54 mm R. Uzbrojenie jest stabilizowane przez lampowy, elektrohydrauliczny stabilizator 2E28M. Stabilizator ten jest konstrukcją przestarzałą i o niskiej niezawodności. Zastosowanie hydraulicznych napędów armaty sprawia, że w przypadku przebicia pancerza wieży wysokie jest ryzyko poparzenia załogi wieży gorącym płynem hydraulicznym. Nad włazem dowódcy zamocowany jest przeciwlotniczy wkm NSWT kalibru 12,7 x 108 mm. Na bokach wieży mocowane są wyrzutnie granatów dymnych Tellur. Z przodu wieży znajdują się czujniki systemu ostrzegawczego Obra.
+
+Armata 2A46 jest ładowana przez automat ładowania. Zapas amunicji zmagazynowanej w karuzeli automatu ładowania to 22 naboje. Dodatkowe 20 naboi jest przewożone w regałach amunicyjnych umocowanych w wieży i kadłubie. Stosowane są naboje 3WBM3, 3WBM6, 3WBM7, 3WBM8 (przeciwpancerne, podkalibrowe, rdzeniowe z rdzeniem z węglików spiekanych), Ryś (przeciwpancerne, rdzeniowe z rdzeniem wolframowym), 3WBK7, 3WBK10 (kumulacyjne) i 3WOF22 (odłamkowo-burzące). Wszystkie typy pocisków wystrzeliwanych z armaty 2A46 są stabilizowane brzechwowo.
+
+Napęd
+Napęd PT-91 stanowi 12-cylindrowy, czterosuwowy, wysokoprężny, chłodzony cieczą silnik S-12U (jest to rozwinięcie silnika W-2 stosowanego w czołgu T-34). Jest on zbudowany w układzie V i posiada pojemność 38 900 cm³ i masę 980 kg. Moc silnika wynosi 850&nbsp;KM. Moc z silnika na koła napędowe jest przenoszona przy pomocy sterowanego mechanicznie i hydraulicznie mechanicznego układu przeniesienia mocy z dwoma siedmiobiegowymi planetarnymi skrzyniami biegów. Mechanizm przenoszenia mocy umożliwia ruch wozu do tyłu, hamowanie oraz skręcanie.
+
+PT-91 posiada zawieszenie niezależne na wałkach skrętnych. Każde z 12 kół jezdnych jest połączone za pomocą wahacza z wałkiem skrętnym. Napęd z silnika jest przekazywany na znajdujące się w tylnej części pojazdu koła napędowe. Z przodu pojazdu znajdują się koła napinające. Pojazd posiada dwie gąsienice o szerokości 580 mm, które zbudowane są z nakładających się na siebie płytek.
+
+Wersje czołgu
+
+PT-91''' (1991 r.) - system kierowania ogniem (SKO) Drawa-T, system samoosłony Obra-1
+T-72M1Z - czołg T-72M1 zmodernizowany do standardu Twardego; kostki pancerza reaktywnego ERAWA i ERAWA-2 o modułowej konstrukcji (tzw. III generacja), wóz 700 kg lżejszy i z większym prześwitem od PT-91 (ze względu na brak przeróbek dna), inny sprzęt łączności 
+PT-91A (1995 r.) - pierwsza propozycja Twardego na eksport: nowszy SKO SAGEM Savan-15P, silnik S-1000 o mocy 1000 KM
+PT-91Z - wersja eksportowa: SKO firmy SAGEM, silnik S-1000R, pancerz reaktywny ERAWA i ERAWA-2 o modułowej konstrukcji 
+PT-91M "Pendekar" - wersja eksportowa (M dla Malezji) nazwany przez fabrykę Malaj : SKO firmy SAGEM, słowacka armata 2A46MS z nowym systemem stabilizacji, zmieniona konfiguracja pancerza przedniego kadłuba i wieży oraz reaktywnego, system samo-osłony Obra-3, karabin przeciwlotniczy M2HB, nowy powerpack składający się z silnika S-1000R i przekładni Renk ESM-350M, wolant sterowniczy zamiast drążków. Rejimen ke-11 Kor Armor Diraja (11 Pułk Królewskiego Korpusu Pancernego), odbiorca łabędzkiego czołgu osiągnął gotowość bojową 1 września 2010. Jednak przychody z umowy na 370 milionów USD z Siłami Zbrojnymi Malezji nie pokryły nawet kosztów produkcji. Umowa została zrealizowana z kilkuletnim opóźnieniem (dostawy miały być zrealizowane do 2008 r.) ze względu na kłopoty z napędem – silnikiem S1000 o mocy 1000 KM z PZL Wola i skrzynią biegów ESM350 niemieckiego Renka – oraz systemem kierowania ogniem Savan 15 francuskiego Sagema. Bumar w odpowiedzi na niektóre doniesienia prasowe stwierdził, że pod koniec 2006 roku, podczas testów Pojazdu Wzorcowego w Malezji wystąpiły problemy z systemem wykrywania skażeń oraz agregatem zapewniającym działanie instalacji czołgowych przy wyłączonym silniku, które wraz z wprowadzanymi przez odbiorcę malezyjskiego zmianami i modyfikacjami spowodowały przesunięcie terminu zatwierdzenia przygotowanego Pojazdu Wzorcowego. Po usunięciu usterek i wprowadzeniu wymaganych zmian, ostatecznie w marcu 2007 roku Pojazd Wzorcowy został przez odbiorcę zatwierdzony, po czym na jego podstawie została uruchomiona produkcja seryjna czołgów. 1 lipca 2010 Minister Skarbu Państwa oświadczył, że "Aktualnie trwają odbiory ostatniej partii dostarczonych pojazdów. Wozy są sukcesywnie przekazywane klientowi i nie występują żadne problemy techniczne z systemem wykrywania skażeń i agregatem prądotwórczym."
+PT-91P – został przygotowany w 2009 r. na potrzeby ogłoszonego przez Peru przetargu na zakup czołgu podstawowego. Pojazd zaprezentowano w dniach 21-24 maja 2009 r. na 2. Salonie Techniki Obronnej SITDEF 2009 w Limie. Czołg powstał w wyniku przebudowy jednego z fabrycznych PT-91. Wyposażono go w: system kierowania ogniem Drawa TG z termowizorem firmy Galileo i system zarządzania polem walki firmy Teldat, radiostację Radmor RRC9310 i cyfrowy system łączności wewnętrznej Fonet-IP oraz system ostrzegania przed promieniowaniem laserowym typu OBRA - 3 i system wykrywania broni masowego rażenia Cherdes II. 
+
+PT-91/120''' - niezrealizowany projekt tzw. "leopardyzacji" Twardego, nowa wieża, armata i SKO, silnik o większej mocy
+PT-91 Ex - wersja eksportowa, nowy SKO, układ napędowy, zmodernizowana armata, "czarna skrzynka"
+PT-72U/PT-91U/PT-91EU - wersja przeznaczona do walk w terenie zurbanizowanym, czujniki OBRA-3, ZSMU Kobuz zamiast tradycyjnego wkm'u, nowoczesna radiostacja Radmor RRC9310AP, system interkomowy Fonet-IP oraz systemu zarządzania polem walki Trop.
+
+Pojazdy bazowane na PT-91
+MID – maszyna inżynieryjno-drogowa
+PZA Loara – samobieżny zestaw przeciwlotniczy
+PMC-90 – most czołgowy
+WZT-3 – wóz zabezpieczenia technicznego
+WZT-4 – wóz zabezpieczenia technicznego
+
+Użytkownicy
+Polska – 232 sztuki
+Malezja – 48 sztuk PT-91M
+
+Indie zamówiły SKO Drawa, jednak zrezygnowały z przyjęcia wyprodukowanych systemów wybierając tańszą ofertę izraelską z mniej skomplikowanymi SKO.
+
+
+
+Bibliografia
+Linki zewnętrzne
+
+
+
+
+
+
+Bumar Łabędy
+(w języku angielskim)
+
+
+
+

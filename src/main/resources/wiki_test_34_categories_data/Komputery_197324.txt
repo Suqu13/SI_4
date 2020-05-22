@@ -1,0 +1,21 @@
+GAM-1''' to doświadczalny komputer zerowej generacji opracowany przez Zdzisława Pawlaka. Pierwszy komputer powstały w Grupie Aparatów Matematycznych (GAM) Państwowego Instytutu Matematycznego w Warszawie w 1950 r. Nie był jednak nigdy stosowany do obliczeń praktycznych, służył wyłącznie do celów dydaktycznych.
+
+Dane
+arytmetyka binarna
+dwucyfrowe słowo maszynowe 
+pamięć programu na taśmie papierowej
+szybkość: 1 rozkaz/s
+rozkazy: dodawania, dopełnienia, porównania i selekcji.
+technologia: przekaźniki
+
+Bibliografia
+Roman Marciniak, Charakterystyka elektronicznych maszyn cyfrowych konstrukcji krajowej w Magazyn Technologa Przemysłu Lotniczego i Silnikowego nr 4/1969
+
+Uwagi
+Podobny, przekaźnikowy komputer dydaktyczny powstał w 1959 r. w Wojskowej Akademii Technicznej.
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+Odra 1001''' to prototyp lampowego komputera pierwszej generacji wykonany w Zakładach Elektronicznych Elwro w latach 1960-61. Konstrukcja komputera oparta była na niedokończonym projekcie przelicznika S-1, opracowanego przez zespół Jerzego Gradowskiego w Zakładzie Aparatów Matematycznych PAN. Bębnowa pamięć operacyjna była modyfikacją pamięci komputera EMAL-2, konstrukcji Romualda Marczyńskiego.
+
+Była pierwszą Odrą, ale nie uzyskała zadowalającej niezawodności i nie weszła do produkcji. Wykonana została tylko w jednym egzemplarzu. Jej rozwinięciem była Odra 1002.
+
+Dane techniczne
+18 bitowe słowo maszynowe
+pamięć operacyjna: bębnowa (modyfikacja pamięci komputera EMAL-2)
+pojemność pamięci: 2048 słów maszynowych
+urządzenia we-wy:
+czytnik taśmy perforowanej
+dalekopis
+szybkość: 200 dodawań na sekundę.
+Linki zewnętrzne

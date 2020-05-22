@@ -1,0 +1,27 @@
+Promocja jest sytuacją w grze w szachy, w której pion dochodzi do swojej linii przemiany (dla białych - linii 8, dla czarnych - linii 1). Zgodnie z regułami gry w tym samym posunięciu, w którym pion osiąga linię przemiany, gracz musi dokonać promocji piona, to znaczy zamienić go na dowolną figurę tego samego koloru oprócz króla, czyli na wieżę, skoczka, gońca lub hetmana. Dzięki temu gracz może mieć na przykład dwa hetmany lub trzy wieże. W jedenastej partii meczu o mistrzostwo świata pomiędzy Jose Raulem Capablanką a Aleksandrem Alechinem w 1927 roku na szachownicy walczyły cztery hetmany.
+
+W notacji szachowej zapis ruchu zakończonego promocją zawiera literę oznaczającą figurę, na którą pion został promowany, np. e1H, b8S. Czasami używa się "=" na oznaczenie promocji: f8=H.
+
+W partiach towarzyskich często z powodu braku drugiego hetmana ustawia się na szachownicy np. odwróconą wieżę lub inny przedmiot. W oficjalnych meczach lub turniejach jest to niedopuszczalne, w przypadku braku odpowiedniej figury należy, po zatrzymaniu zegara, zwrócić się do sędziego.
+
+
+Słaba promocja
+W zdecydowanej większości przypadków pion jest promowany na hetmana, ponieważ hetman jest najsilniejszą figurą. Jednak zdarzają się sytuacje, w których zastąpienie piona hetmanem jest słabsze niż zastąpienie inną figurą. Promocja na inną figurę niż hetman jest nazywana słabą promocją.
+
+Na diagramie przedstawiono pozycję, która powstała po 39 posunięciach w partii Borys Gulko–Karen Grigorjan, Wilno 1971. Białe przed chwilą poświęciły wieżę, by doprowadzić do tej właśnie pozycji. Teraz mogą odbić wieżę pionem, jednak promocja piona na hetmana zakończy się ich przegraną, ponieważ grozi im natychmiastowy mat (40.exf8H? Hg1#). Jedynym wygrywającym posunięciem białych jest słaba promocja:
+
+'''40. exf8S+!'''
+
+Czarne poddały się wobec mata w następnym posunięciu: 40... Kh8 41. Seg6#.
+
+Zobacz też
+Pouczającym przykładem zastosowania słabej promocji jest pozycja Saavedry.
+
+
+
+Bibliografia
+W.Litmanowicz, J.Giżycki, "Szachy od A do Z", tom II, Warszawa 1987, str. 985
+
+
+
+

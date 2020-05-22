@@ -1,0 +1,70 @@
+Podatek od dochodów kapitałowych (potocznie nazywany w Polsce podatkiem Belki) – rodzaj zryczałtowanego podatku dochodowego od osób fizycznych, który w Polsce regulują art. 30a i 30b ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych.
+
+Podatek od dochodów kapitałowych w Polsce
+Podatek ten został wprowadzony w Polsce w 2002 r. przez ówczesnego ministra finansów w rządzie Leszka Millera, Marka Belkę.
+
+Przedmiot opodatkowania (przychody kapitałowe-pieniężne)
+Za przychody z kapitałów pieniężnych uważa się (art. 17 "Ustawy o pod. doch. od osób fiz."):
+odsetki od pożyczek,
+odsetki od wkładów oszczędnościowych i środków na rachunkach bankowych lub w innych formach oszczędzania, przechowywania lub inwestowania, z wyjątkiem środków pieniężnych związanych z wykonywaną działalnością gospodarczą,
+odsetki (dyskonto) od papierów wartościowych,
+dywidendy i inne przychody z tytułu udziału w zyskach osób prawnych, których podstawą uzyskania są udziały (akcje) w spółce mającej osobowość prawną lub spółdzielni, w tym również:
+dywidendy z akcji złożonych przez członków pracowniczych funduszy emerytalnych na rachunkach ilościowych,
+oprocentowanie udziałów członkowskich z nadwyżki bilansowej (dochodu ogólnego) w spółdzielniach,
+podział majątku likwidowanej spółki (spółdzielni),
+wartość dokonanych na rzecz udziałowców i akcjonariuszy nieodpłatnych lub częściowo odpłatnych świadczeń,
+przychody z tytułu udziału w funduszach kapitałowych,
+należne, choćby nie zostały faktycznie otrzymane, przychody z:
+odpłatnego zbycia udziałów w spółkach mających osobowość prawną oraz papierów wartościowych,
+realizacji praw wynikających z papierów wartościowych, o których mowa w art. 3 pkt 1 lit. b ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi,
+przychody z odpłatnego zbycia prawa poboru, w tym również ze zbycia prawa poboru akcji nowej emisji przez pracowniczy fundusz emerytalny w imieniu członka funduszu,
+przychody członków pracowniczych funduszy emerytalnych z tytułu przeniesienia akcji złożonych na rachunkach ilościowych do aktywów tych funduszy,
+nominalną wartość udziałów (akcji) w spółce mającej osobowość prawną albo wkładów w spółdzielni objętych w zamian za wkład niepieniężny,
+przychody z odpłatnego zbycia pochodnych instrumentów finansowych oraz z realizacji praw z nich wynikających.
+
+Sposób opodatkowania
+Opodatkowanie na zasadach ogólnych
+Dochody kapitałowe ze spółek niebędących osobą prawną, takich jak spółka cywilna, spółka jawna, spółka partnerska, spółka komandytowa i komandytowo-akcyjna, ze wspólnej własności, wspólnego przedsięwzięcia, wspólnego posiadania lub wspólnego użytkowania rzeczy lub praw majątkowych rozlicza się na zasadach ogólnych, tzn. dolicza się do innych źródeł przychodów i rozlicza w ogólnym zeznaniu rocznym wg dwustopniowej skali podatkowej.
+
+Rozliczanie w formie ryczałtowej
+W tej formie rozliczenia podatek jest przekazywany przez płatnika (płatnikiem jest najczęściej podmiot wypłacający odsetki, dywidendę – np. bank czy fundusz inwestycyjny) do urzędu skarbowego, tak więc faktyczny podatnik nie musi obliczać ani wpłacać podatku ponieważ czyni to za niego płatnik. Ryczałtowe rozliczenie oznacza także że nie uwzględnia się przy obliczaniu podatku kosztów uzyskania przychodu.
+
+Art. 30a "Ust. o pod. doch. od osób fiz." wymienia następujące kategorie przychodów, od których pobiera się zryczałtowany '''19% podatek, są to mianowicie przychody (dochody):
+z odsetek od pożyczek, z wyjątkiem gdy udzielanie pożyczek jest przedmiotem działalności gospodarczej,
+z odsetek i dyskonta od papierów wartościowych,
+z odsetek lub innych przychodów od środków pieniężnych zgromadzonych na rachunku podatnika lub w innych formach oszczędzania, przechowywania lub inwestowania, prowadzonych przez podmiot uprawniony na podstawie odrębnych przepisów, z wyjątkiem środków pieniężnych związanych z wykonywaną działalnością gospodarczą,
+z dywidend i innych przychodów z tytułu udziału w zyskach osób prawnych,
+od dochodu z tytułu udziału w funduszach kapitałowych,
+od kwot wypłacanych po śmierci członka otwartego funduszu emerytalnego wskazanej przez niego osobie lub spadkobiercy, w rozumieniu przepisów o organizacji i funkcjonowaniu funduszy emerytalnych,
+od dochodu członka pracowniczego funduszu emerytalnego z tytułu przeniesienia akcji złożonych na rachunku ilościowym do aktywów tego funduszu,
+z tytułu zbycia prawa poboru akcji nowej emisji przez pracowniczy fundusz emerytalny w imieniu członka funduszu,
+od kwot jednorazowo wypłacanych przez otwarty fundusz emerytalny członkowi funduszu, któremu rachunek funduszu otwarto w związku ze śmiercią jego współmałżonka,
+od dochodu oszczędzającego na indywidualnym koncie emerytalnym z tytułu zwrotu, w rozumieniu przepisów o indywidualnych kontach emerytalnych, środków zgromadzonych na tym koncie,
+od dochodu uczestnika pracowniczego programu emerytalnego z tytułu zwrotu środków zgromadzonych w ramach programu, w rozumieniu przepisów o pracowniczych programach emerytalnych.
+
+Rozliczenie w formie dodatkowego zeznania podatkowego
+Od dochodów uzyskanych z odpłatnego zbycia papierów wartościowych (będą to zazwyczaj akcje) lub pochodnych instrumentów finansowych, i z realizacji praw z nich wynikających oraz z odpłatnego zbycia udziałów w spółkach mających osobowość prawną oraz z tytułu objęcia udziałów (akcji) w spółkach mających osobowość prawną albo wkładów w spółdzielniach w zamian za wkład niepieniężny w postaci innej niż przedsiębiorstwo lub jego zorganizowana część, podatek dochodowy wynosi '''19% uzyskanego dochodu.
+
+"Ustawa o pod. doch. od os. fiz." wymienia następujące kategorie dochodów, które podlegają rozliczeniu w tej formie, jest to mianowicie:
+różnica między sumą przychodów uzyskanych z tytułu odpłatnego zbycia papierów wartościowych a kosztami uzyskania przychodów, określonymi na podstawie art. 22 ust. 1f lub ust. 1g, lub art. 23 ust. 1 pkt 38, z zastrzeżeniem art. 24 ust. 13 i 14,
+różnica między sumą przychodów uzyskanych z realizacji praw wynikających z papierów wartościowych, o których mowa w art. 3 pkt 1 lit. b ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, a kosztami uzyskania przychodów, określonymi na podstawie art. 23 ust. 1 pkt 38 a,
+różnica między sumą przychodów uzyskanych z tytułu odpłatnego zbycia pochodnych instrumentów finansowych oraz z realizacji praw z nich wynikających a kosztami uzyskania przychodów, określonymi na podstawie art. 23 ust. 1 pkt 38a,
+różnica między sumą przychodów uzyskanych z tytułu odpłatnego zbycia udziałów w spółkach mających osobowość prawną a kosztami uzyskania przychodów, określonymi na podstawie art. 22 ust. 1f lub art. 23 ust. 1 pkt 38,
+różnica pomiędzy wartością nominalną objętych udziałów (akcji) w spółkach mających osobowość prawną albo wkładów w spółdzielniach w zamian za wkład niepieniężny w innej postaci niż przedsiębiorstwo lub jego zorganizowana część a kosztami uzyskania przychodów określonymi na podstawie art. 22 ust. 1e
+
+Po zakończeniu roku podatkowego podatnik jest obowiązany w odrębnym zeznaniu podatkowym (PIT-38) wykazać dochody uzyskane w roku podatkowym z odpłatnego zbycia papierów wartościowych i dochody z odpłatnego zbycia pochodnych instrumentów finansowych, a także dochody z realizacji praw z nich wynikających oraz z odpłatnego zbycia udziałów w spółkach mających osobowość prawną oraz z tytułu objęcia udziałów (akcji) w spółkach mających osobowość prawną albo wkładów w spółdzielniach w zamian za wkład niepieniężny w postaci innej niż przedsiębiorstwo lub jego zorganizowana część, i obliczyć należny podatek dochodowy.
+
+Unikanie płacenia podatku
+Zgodnie z przepisami ordynacji podatkowej przed 2012 końcówki kwot podatku wynoszące mniej niż 50 groszy pomijało się, zaś te powyżej zaokrąglało się do pełnych jedności złotych. Mogła zaistnieć więc sytuacja, że po naliczeniu podatku (np. na skutek dziennej kapitalizacji odsetek) wynosił on poniżej 50 groszy, a co za tym idzie – zostawał zaokrąglony do zera.
+
+Po nowelizacji ordynacji podatkowej obowiązuje zaokrąglenie do pełnych groszy. Ta zmiana spowodowała wycofanie lokat jednodniowych z oferty banków.
+
+
+
+Linki zewnętrzne
+
+
+
+
+
+

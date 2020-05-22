@@ -1,0 +1,80 @@
+Efekt Lensa-Thirringa – opisany przez ogólną teorię względności. Powstaje, gdy obracające się masywne ciało o dużym momencie bezwładności włóczy układ inercjalny w swoim polu grawitacyjnym. Został przewidziany teoretycznie w 1918 przez dwóch austriackich uczonych – Josefa Lensa i Hansa Thirringa. Swobodnie spadający układ, wzmiankowany tutaj jako (układ inercjalny), którego orientacja określona jest przez żyroskop obraca się lub doznaje wtedy precesji. Lense i Thirring pokazali, że uwzględniając efekty relatywistyczne, przyspieszenie Coriolisa w odległości  od obracającego się masywnego ciała o promieniu  i masie  przy  oraz prędkości  układu inercjalnego ma dodatkową składową:
+
+gdzie
+
+Efekt Lensa-Thirringa został potwierdzony obserwacyjnie.
+
+Wpływ pola grawitacyjnego na układ inercjalny
+Einstein przewidywał istnienie trzech efektów spowodowanych przez pole grawitacyjne oddziałujące na układ inercjalny. Są to:
+rotacyjny efekt włóczenia układów inercjalnych (efekt Lensa-Thirringa), 
+liniowy efekt włóczenia układów inercjalnych – opisuje efekt spowodowany oddziaływaniem masy ulegającej przyspieszeniu na masę pozostającą w spoczynku. Na obiekt pozostający w spoczynku oddziałuje siła, wektor której skierowany jest w kierunku tym samym co wektor przyspieszenia,
+efekt statyczny wzrostu masy – przewiduje, że jeśli dany obiekt jest otoczony przez masywne ciała, to masa bezwładna tego obiektu wzrasta.
+
+Precesja Lensa-Thirringa
+Jeśli w odległości  od masywnego ciała, umieszczony jest żyroskop, to jego spin  precesuje z prędkością kątową
+, gdzie  precesja Thomasa, zależy od prędkości i przyspieszenia żyroskopu , , precesja de Sittera ,zależy od prędkości żyroskopu i potencjału skalarnego pola oraz  precesja Lensa-Thirringa, która zależy tylko od potencjału wektorowego pola. 
+
+Precesję żyroskopu można badać, kiedy żyroskop znajduje się w spoczynku względem dalekiego obserwatora, gdyż precesja Thomasa i de Sittera znikają. Zauważmy też, że:
+
+Opis teoretyczny
+Efekt Lensa-Thirringa może być wyprowadzony na dwa sposoby, bądź tak jak to zrobił A. Einstein, bądź używając metryki Kerra. Przedstawiamy metodę rozwiniętą przez Einsteina. Odpowiednio równanie pola Einsteina na rozmaitości Riemanna oraz równanie linii geodezyjnej są:
+
+gdzie  tensor krzywizny Ricciego,  tensor metryczny,  skalar krzywizny Ricciego,  - tensor energii -pędu, stała grawitacyjna , gdzie  symbole Christoffela. Rozważamy przybliżenie słabego pola i granicę powolnych ruchów. Rozpatrujemy przypadek takiego ośrodka ciągłego, w którym ciśnienie  jest zaniedbywalnie małe, gęstość  materii jest mała i prędkość cząstki próbnej jest mała w porównaniu z prędkością światła ,  oraz, że układ jest inercjalny. Słabe pole grawitacyjne i w przybliżeniu Minkowskiego opisane jest tensorem metrycznym:
+
+,
+gdzie  metryka Minkowskiego-Lorentza,  niewielkie zaburzenie oraz gdzie . Wstawiając wyrażenie na metrykę, otrzymujemy niezerowe symbole Christoffela:
+
+Równanie Einsteina przyjmuje postać
+
+stosując metodę funkcji Greena, otrzymujemy jego rozwiązania,
+gdzie  jest pewną objętością przestrzeni. Rozwiązania różne od zera istnieją wyłącznie dla składowych  oraz dla składowych , (). Składowe  ,  i składowe  są:
+
+dla stacjonarnego, zlokalizowanego rozkładu mas,  otrzymujemy składowe  równania Einsteina:
+
+Przy czym , gdzie  jest potencjałem skalarnym pola grawitacyjnego oraz oraz  są składowymi pola wektorowego ,  jest prędkością źródła pola grawitacyjnego. Ostatecznie równanie linii geodezyjnej przyjmuje postać:
+
+czyli:
+
+Einstein interpretował to równanie ruchu cząstki próbnej, w następujący sposób, mianowicie:
+
+1. Ponieważ masa bezwładna cząstki próbnej jest proporcjonalna do wyrażenia  więc wzrasta, gdy masy ciężkie zbliżają się (statyczny efekt przyrostu masy).
+
+2. Wyrażenie  oznacza, że istnieje oddziaływanie mas przyspieszanych na cząstkę próbną pozostającą w spoczynku (Liniowy efekt włóczenia układu inercjalnego).
+
+3. Wyrażenie  , oznacza, że cząstka próbna zostaje odchylona ze swego toru, jeśli znajdzie się w polu grawiatcyjnym obracającego się obiektu (Efekt Lensa-Thirringa). Wyrażenie to jest odpowiedzialne za włóczenie płaszczyzny orbitalnej i orbitalny moment obrotowy cząstki próbnej (na przykład żyroskop) w kierunku obrotu centralnego ciała masywnego (formuła odkryta przez Lensa i Thirringa).
+
+Te trzy efekty są dlatego trudno mierzalne, że wielkość ich jest rzędu  na co wskazuje obecność stałej .
+
+Precesja żyroskopu
+Wiedząc, że moment kątowy  , pole wektorowe  daleko od stacjonarnego źródła, (lub w przypadku sferoidalnego rozkładu materii)
+Oznaczmy , tak więc moment siły działającej na żyroskop o spinie  jest równy:
+
+żyroskop precesuje względem dalekiego układu inercjalnego (asymptotycznego,  z prędkością kątową:
+
+gdzie  jest momentem kątowym obiektu w centrum. Jest to właśnie efekt Lensa-Thirringa czyli włóczenie układu inercjalnego, którego osie są definiowane przez żyroskop. Siła wywierana na ten żyroskop przez pole wektorowe  jest
+
+Metryka Kerra
+Z punktu widzenia geometrii zadanie OTW polega na znajdowaniu czterowymiarowych rozmaitości  z metryką  o sygnaturze (), spełniających równanie Einsteina:
+Osiowo-symetryczne stacjonarne rozwiązanie równania Einsteina, opisujące pole grawitacyjne wirującej czarnej dziury lub obracającego się masywnego obiektu
+jest rozwiąwaniem znalezionym przez Roya Kerra. Metrykę  o sygnaturze () nazywamy osiowosymetryczną i stacjonarną, Metryka Kerra opisuje geometrię czasoprzestrzeni obracających się ciał masywnych. Metryka Kerra przewiduje istnienie rotacyjnego włóczenia układu inercjalnego:
+gdzie  współrzędne sferyczne,  promień Schwarzschilda oraz 
+
+Czasoprzestrzeń Lensa-Thirringa
+Wprowadzając współrzędne izotropowe element liniowy czasoprzestrzeni Lensa-Thirringa może być zapisany jako:
+
+gdzie współrzędna standardowa  jest zastąpiona nową współrzędną radialną  określoną jako
+przy czym  oraz  jest to analog momentu kątowego wokół osi   jest masą obracającego się ciała centralnego.
+
+Porównanie metryki Kerra i metryki Lensa-Thirringa
+Metryka Kerra we współrzędnych izotropowych jest:
+
+co wskazuje, że obie metryki w przybliżeniu tym się pokrywają.
+
+Potwierdzenie eksperymentalne
+Z historycznego punktu widzenia, propozycja wykonania testów ogólnej teorri względności stosując żyroskopy, została przedstawiona w 1920 przez J.A. Schoutena i A.S. Eddingtona, zaproponowali po raz pierwszy użycie żyroskopu. W 1960 Schiff i Pugh niezależnie, zaproponowali test efektu Lensa-Thirringa przy użyciu żyroskopu umieszczonego na orbicie okołoziemkiej. Przewidywali oni, że po wystarczająco długim czasie swobodnie wirujący żyroskop powinien się odchylić od pierwotnego kierunku. Przyczyną miały być efekty relatywistyczne. Tak więc, żeby zapewnić odpowiednie warunki dla eksperymentu stało się jasne, że musi on zostać przeprowadzony w przestrzeni kosmicznej. W 1976 Van Patten i Everittzaproponowali, żeby celem przyszłej misji kosmicznej stało się zmierzenie tego efektu.
+
+Jednym z celów misji badawczej Gravity Probe B jest przeprowadzenie kilku eksperymentów mających na celu zbadanie relatywistycznych efektów rotacji. Na ostateczne wyniki tej misji należy poczekać do jej zakończenia. Innym z eksperymentów jest użycie satelitów LAGEOS (Laser Geodynamics Satellites) pierwotnie zaprojektowanych do badania ziemskiego potencjału, do badania efektu Lensa-Thirringa. W 2004 I. Ciufolini i E.C. Pavlis ogłosili zarejestrowanie efektu Lensa-Thirringa. Efekt opublikowany w Nature jest zgodny z OTW, nie wiadomo jednak czy metody zastosowane do otrzymania wyników były całkowicie poprawne.
+
+
+
+Linki zewnętrzne

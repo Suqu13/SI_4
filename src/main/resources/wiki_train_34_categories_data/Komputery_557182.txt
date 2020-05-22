@@ -1,0 +1,38 @@
+BlackBerry – smartfon wprowadzony w roku 1999, obsługujący wiadomości e-mail, rozmowy głosowe, wiadomości tekstowe (SMS), faksowanie przez internet, przeglądanie stron WWW oraz inne usługi informacyjne.
+
+BlackBerry jest produktem kanadyjskiej firmy Research In Motion. Urządzenia BlackBerry przesyłają dane bezprzewodowo poprzez sieci operatorów telefonii komórkowych lub Wi-Fi. BlackBerry przyczyniło się do postępu na rynku urządzeń mobilnych, jako pierwsze koncentrując się na wiadomościach e-mail. Zastosowano tu po raz pierwszy metodę push e-mail pozwalającą na stałe połączenie terminala z serwerem BlackBerry i odbieranie poczty w czasie rzeczywistym. Tym co wyróżnia BlackBerry, jest system operacyjny BlackBerry OS  niestosowany przez innych producentów i nieco spartański, jeśli chodzi o rozrywkę, ale przede wszystkim BIS (BlackBerry Internet Service) lub - dla klientów biznesowych - BES (BlackBerry Enterprise Server) - płatne usługi pozwalające korzystać z e-maila oraz (u niektórych operatorów za większą opłatą) dające nielimitowany dostęp do internetu.
+
+Terminale Blackberry działają w większości światowych systemów GSM. Warunkiem pełnej funkcjonalności terminala BlackBerry jest włączona usługa BlackBerry u usługodawcy, czyli operatora telefonii komórkowej. Dzięki niej użytkownik może pobierać i wysyłać dane za pomocą bezpiecznego APN (punktu dostępowego) blackberry.net. Dzięki temu ściąganie poczty nie jest inicjowane przez użytkownika, ale maile „wypychane” są przez serwer i przychodzą na urządzenie samoczynnie, a ich obsługa jest taka sama jak obsługa SMS-ów. Usługa BlackBerry pozwala też na przeglądanie stron WWW i WAP (blackberry internet service tylko WAP) oraz odbieranie wiadomości MMS. Bez włączonej usługi BlackBerry telefon może służyć jedynie do dzwonienia i pisania SMS-ów (da się to wszystko ominąć, np. by korzystać z internetu wystarczy zainstalować inną przeglądarkę). Urządzenie posiada certyfikat bezpieczeństwa NATO RESTRICTED.
+Telefony BlackBerry nie mają wbudowanej funkcji zwykłego radia. Użytkownicy tej marki muszą zadowolić się jedynie muzyką płynącą z radia internetowego. Wiąże się to jednak z szybszym zużyciem baterii i transferu danych. Przy intensywnym pobieraniu danych przez sieć 3G operatora mocno nagrzewa się również tylna część obudowy telefonu.
+
+Usługa BlackBerry jest dostępna w dwóch wersjach: BlackBerry Internet Service (BIS) i Blackberry Enterprise Server (BES). BIS przeznaczona jest głównie dla użytków indywidualnych. Umożliwia obsługę do 10 kont pocztowych typu POP3 lub IMAP4. BES zapewnia obsługę poczty opartej na serwerach korporacyjnych w dużych przedsiębiorstwach (Microsoft Exchange, Novell Groupwise, Lotus Domino). Poza możliwością wysyłania i odbierania maili użytkownik BES-a ma zdalny dostęp ze swego urządzenia do firmowej książki adresowej oraz kalendarza.
+Usługi BlackBerry są również dostępne na niektórych telefonach innych producentów, dla których jest dostępny program pocztowy BlackBerry. Są to:
+AT&T Tilt
+HTC Advantage X7500
+HTC TyTN
+Motorola MPx220 (wybrane modele)
+Nokia 6810
+Nokia 6820
+Nokia 9300
+Nokia 9300i
+Nokia 9500
+Wszystkie telefony Nokia E-Series (poza modelami Nokia E71 i Nokia E66)
+Qtek 9100
+Qtek 9000
+Samsung t719
+Siemens SK65,
+Sony Ericsson P910
+Sony Ericsson P990
+Sony Ericsson M600i
+Sony Ericsson P1i
+
+Terminale BlackBerry charakteryzują się stylistyką podobną do urządzeń PDA, nowością zastosowaną przez producenta jest unikatowa klawiatura z technologią SureType pozwalająca na szybkie pisanie.
+W przypadku zagubienia lub kradzieży terminala istnieje możliwość zdalnego zablokowania i wymazania danych z urządzenia.
+Podczas zaawansowanego kodowania wiadomości wykorzystywany jest algorytm Triple-DES z kluczem o długości 168 bitów lub AES 256, jednak firma RIM udostępnia wybranym podmiotom (np. rządom państw) technologię umożliwiającą dostęp do przesyłanych danych. Urządzenie posiada sprzętowe wspomaganie szyfrowania, aczkolwiek szczegóły tego usprawnienia są pilnie strzeżone przez firmę RIM.
+Na świecie z rozwiązania korzysta około 12 milionów użytkowników (dane ze stycznia 2008 r.). Urządzenia BlackBerry są zaaprobowane i używane przez Biały Dom, Kongres Stanów Zjednoczonych, armię i amerykańskie siły lotnicze, rząd kanadyjski (również lokalny), członków rządów Holandii, Niemiec, Austrii, policję, straż i służby miejskie w wielu krajach europejskich.
+
+Od 2007 roku rządy Francji, Niemiec i Arabii Saudyjskie zakazywały używania aparatów BlackBerry do korespondencji służbowej ze względu na niedostateczne bezpieczeństwo transmisji, a Unia Europejska ich nie wybrała ze względu na brak wspierania aplikacji zewnętrznych i przyszłych technologii.
+
+
+
+Linki zewnętrzne

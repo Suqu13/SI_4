@@ -1,0 +1,9 @@
+Apache Tomcat – kontener aplikacji webowych (ang. „web container”) rozwijany w ramach projektu Apache.
+
+Jako kontener aplikacji jest serwerem, który umożliwia uruchamianie aplikacji internetowych w technologiach Java Servlets i Java Server Pages (JSP). Jest to jeden z bardziej popularnych kontenerów Web. Tomcat jest wykorzystywany w takich serwerach aplikacji JEE (J2EE) jak Apache Geronimo. Jest również bardzo popularnym kontenerem dla samodzielnych aplikacji (nie wymagających pełnego serwera aplikacji) pisanych w środowisku Spring Framework.
+
+Apache Tomcat początkowo rozwijany był jako część projektu Apache Jakarta. W 2005 roku projekt uzyskał status samodzielnego projektu w ramach struktury projektów Apache.
+
+
+
+Linki zewnętrzne

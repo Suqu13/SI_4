@@ -1,0 +1,136 @@
+
+Siarka (S, łac. sulphur) – pierwiastek chemiczny, niemetal z bloku p w układzie okresowym.
+
+Izotopy stabilne siarki to 32S, 33S, 34S i 36S.
+
+Siarka posiada kilka odmian alotropowych, z których trzy najważniejsze to siarka rombowa, jednoskośna i amorficzna.
+
+W zwykłej temperaturze siarka jest mało aktywna. Bardzo łatwo łączy się ona tylko z fluorem, a już trudniej z chlorem. Z innymi pierwiastkami, jak np. z wodorem, łączy się dopiero w podwyższonej temperaturze. Z metalami tworzy po ogrzaniu siarczki, przy czym reakcje te są silnie egzotermiczne, tak że zapoczątkowana reakcja syntezy przebiega dalej samorzutnie nieraz z rozżarzeniem mieszaniny. Na powietrzu, po inicjacji zapłonu, spala się samorzutnie niebieskim płomieniem do dwutlenku siarki (SO2). Dalsze utlenienie, do trójtlenku siarki, zachodzi wydajnie dopiero wobec katalizatora, np. pięciotlenku wanadu.
+
+Ważniejsze związki siarki to kwas siarkowy, kwas siarkawy, siarkowodór oraz ich sole (odpowiednio siarczany i siarczyny, siarczki), dwutlenek siarki i tritlenek siarki. Znane są również: tlenek siarki(I) S2O, tlenek siarki(II) SO i nadtlenek siarki SO4.
+
+Występowanie
+
+W Polsce złoża siarki w stanie rodzimym występują w okolicach Tarnobrzega (Piaseczno, Machów, Jeziórko oraz Osiek),  w rejonie Staszowa (Grzybów) oraz koło Lubaczowa (Horyniec-Zdrój, Basznia). Na świecie natomiast m.in. na Sycylii, w Luizjanie i Teksasie (USA), na Ukrainie, w Japonii, w Turkmenistanie i Uzbekistanie. Polskie złoża siarki rodzimej są związane z występowaniem gipsów i wapieni, z których powstały i zalegają na głębokości od 70 do 370 metrów, tworząc pokłady o miąższości dochodzącej do 13 metrów.
+
+Siarka występuje w osadach wieku trzeciorzędowego (miocen-torton) w postaci wypełnień drobnych przestrzeni. Powstała w wyniku biologicznej redukcji siarczanu wapnia przez mikroorganizmy. Zawartość siarki w skale maksymalnie dochodzić może do 70%, a średnio wynosi 25–30%.
+
+Siarka występuje zarówno w stanie rodzimym, jak i w postaci wielu minerałów. Są to zarówno siarczki, jak i siarczany:
+
+siarczki: piryt, chalkopiryt, markasyt, blenda cynkowa, galena, cynober
+siarczany: gips, anhydryt, baryt, kainit, celestyn, kizeryt
+
+Ponieważ jest ważnym składnikiem białek roślinnych i zwierzęcych, występuje w paliwach kopalnych będących pokładami obumarłych tkanek (szczególnie węgiel kamienny i ropa naftowa).
+
+Siarka pod względem rozpowszechnienia w skorupie ziemskiej zajmuje 16 miejsce. Jej całkowita zawartość w skorupie ziemskiej wynosi 0,026% wagowych.
+
+Wydobycie i produkcja przemysłowa
+Produkcja siarki na świecie szacowana jest na około 60 mln ton rocznie. Siarka otrzymywana jest poprzez odsiarczanie spalin i paliw kopalnych, eksploatację złóż siarki rodzimej oraz poprzez wyprażanie rud siarczkowych (np. pirytu).
+
+Wydobycie siarki rodzimej spadło znacząco ze względu na znaczący wzrost produkcji siarki z odzysku z zasiarczonych złóż gazu ziemnego i ropy naftowej. Obecnie ponad 90% siarki uzyskuje się z odsiarczania spalin i paliw.
+
+Odzysk siarki z ropy naftowej jest osiągany poprzez działanie na  powietrzem według reakcji:
+2 + 3 → 2 + 2
+2 +  → 3S + 2
+Pozostały nieprzetworzony  (do 40%) przechodzi przez szereg reaktorów zawierających katalizatory (m.in. tlenek glinu), by osiągnąć pełny stopień przetworzenia.
+
+Alternatywnie, ogrzewanie pirytu () do 1200&nbsp;°C z powietrzem, daje siarkę i płynny siarczek żelaza  – tzw. metoda Outokumpu (jednak produkcji kwasu siarkowego z pirytów zaniechano od kilkudziesięciu lat). Wolną siarkę otrzymuje się też przez redukcję dwutlenku siarki za pomocą tlenku węgla.
+
+Polska
+
+Obecnie w Polsce w okolicach Tarnobrzega działa jedyna na świecie kopalnia siarki (Kopalnia Siarki Osiek) stosująca metodę Frascha (metoda podziemnego wytopu). Do złoża wtłaczana jest przegrzana woda o temperaturze powyżej 150&nbsp;°C, a stopiona pod jej wpływem siarka wyprowadzana jest na powierzchnię za pomocą sprężonego powietrza. Szacuje się, że do wydobycia 1 tony siarki potrzebne jest 7,5–19 ton wody.
+
+W Polsce znajdują się cztery potwierdzone złoża zasiarczonej ropy naftowej i gazu ziemnego (łącznie 822 tys. ton siarki). Produkcja siarki z tych źródeł prowadzona jest w złożach Zielin, BMB, Cychry i Górzyca (okresowo). Siarkę (w postaci kwasu siarkowego) otrzymuje się przy przeróbce rud miedzi oraz cynku i ołowiu. Proces ten ma jednak niewielki udział w przemyśle siarki i jest stosowany głównie ze względu na ochronę środowiska.
+
+Rozwój chemii siarki
+Starożytność – w Biblii częste wzmianki na temat siarki rodzimej,
+około 800 p.n.e. – Homer wzmiankuje o odymianiu za pomocą spalania siarki,
+około roku 79 n.e. Pliniusz Starszy wzmiankuje o występowaniu i wykorzystaniu siarki,
+X wiek – Muhammad ibn Zakariya al-Razi otrzymuje i bada właściwości kwasu siarkowego,
+1044 – najwcześniejsza, znana receptura prochu (Chiny),
+1128 – udokumentowane użycie prochu przez chińską armię,
+około 1245 – proch zostaje „odkryty” w Europie, niezależnie przez Bertholda Schwarza i Rogera Bacona,
+1661 – efekty zanieczyszczenia  w Londynie opisane przez Johna Evelyna królowi Karolowi II,
+1746 – John Roebuck wprowadza metodę komorową wytwarzania ,
+1777 – Antoine Lavoisier sugeruje, że siarka jest pierwiastkiem,
+1781 – związki siarki zostają wykryte w roślinach (Szczaw, warzucha, chrzan)
+1809 – J. L. Gay-Lussac i Louis Jacques Thénard ustalają, że siarka jest pierwiastkiem (w tym samym roku Humprey Davy wykonał doświadczania (prawdopodobnie na zanieczyszczonych próbkach siarki) stwierdzając, że składnikami siarki jest również wodór i tlen,
+1813 – wykrycie siarki w żółci i krwi zwierząt,
+1822 – ksantogeniany (np. EtOCSSK) zostają odkryte przez W. C. Zeise, który w 1834 jako pierwszy otrzymuje tiole (EtSH),
+1831 – opatentowanie przez P.Philipsa metody kontaktowej otrzymywania ,
+1835 – W. Gregory jako pierwszy otrzymuje  w reakcji (+),
+1839 – Charles Goodyear odkrywa proces wulkanizacji kauczuku,
+1865 – Poszukiwacze ropy naftowej odkrywają w Luizjanie, pod 150 metrową warstwą lotnych piasków, duże złoża siarki,
+1894 – Herman Frasch rozwija proces wydobywania siarki za pomocą przegrzanej wody (metoda Frascha),
+1912 – E. Beekmann udowadnia, za pomocą kriometrii w stopionym jodzie, że romboedryczna siarka występuje w cząsteczkach ,
+1923 – Victor Goldschmidt w swojej klasyfikacji umieszcza siarkę w grupie pierwiastków chalkofilnych (kruszcolubnych),
+1926 – zostają odkryte izotopy  i  przez F. W. Astona, który wcześniej (1920) za pomocą spektrometrii mas wykrył tylko siarkę ,
+1935 – za pomocą metod rentgenograficznych zostaje ustalona struktura siarki rombowej,
+1944 – pierwszy raz siarka zostaje otrzymana z jej gazowych tlenków; W 2005 roku za pomocą odsiarczania spalin i ropy naftowej będzie się otrzymywać 92% światowej produkcji siarki,
+1951 – pierwsze wykrycie sygnałów NMR siarki (),
+1972 – siarka i kwas siarkowy zostaje wykryty przez sondę Wenera 8 w atmosferze planety Wenus,
+1973 – synteza  i  (M. Schmidt, A. Kutoglu),
+1975 – odkryto właściwości metaliczne i nadprzewodzące polimeru 
+lata 90. XX wieku – wytworzenie cienkowarstwowych półprzewodników II-VI
+
+Alotropia siarki
+
+
+
+Siarka jest pierwiastkiem występującym w wielu odmianach alotropowych, zawierających cząsteczki o budowie pierścieniowej, składające się z 6, 7, 8, 9-15, 18 i 20 atomów. Dwie podstawowe odmiany alotropowe siarki to siarka rombowa (siarka-α) i siarka jednoskośna (siarka-β), obie zbudowane z ośmioczłonowych pierścieni S8, różniące się sposobem upakowania w krysztale.
+
+Siarka rombowa jest trwała do temperatury 95,6&nbsp;°C i w tej temperaturze pod ciśnieniem swej własnej pary przekształca się w siarkę jednoskośną. W temperaturze 118,9&nbsp;°C siarka jednoskośna, będąc w równowadze ze swą parą, topi się i przechodzi w ciecz. Pod działaniem ciśnienia punkt przemiany siarki rombowej w jednoskośną przesuwa się w kierunku wyższych temperatur. Powyżej 1200 atm pole siarki jednoskośnej zamyka się i istnieje tylko jedna odmiana siarki stałej, siarka rombowa. Siarka rombowa i jednoskośna mogą istnieć ze sobą w stanie równowagi termodynamicznej. Przejście siarki rombowej w jednoskośną jest przemianą fazową I rzędu.
+
+Powyżej temperatury topnienia siarka tworzy jasnożółtą, ruchliwą ciecz. Wraz z podwyższeniem temperatury ciecz gęstnieje i zabarwia się na kolor ciemnobrązowy. W temperaturze 187&nbsp;°C osiąga ona maksymalną lepkość, która przekracza o pięć rzędów wartość początkową. Przy dalszym ogrzewaniu siarka staje się znów łatwo płynna i osiąga punkt wrzenia w temperaturze 444,6&nbsp;°C.
+
+Przyczyną zróżnicowanych własności fizycznych płynnej siarki są zmiany jej struktury cząsteczkowej. Łatwo płynna siarka nieco powyżej temperatury topnienia, zwana także siarką l, zawiera głównie 6- i 8-atomowe pierścienie. W wyższej temperaturze pierścienie łączą się tworząc struktury polimeryczne, co powoduje wzrost lepkości. Ta odmiana ciekłej siarki jest oznaczana literą „m”. Przy dalszym wzroście temperatury następuje naturalne obniżenie lepkości. Obie ciekłe odmiany siarki różnią się rozpuszczalnością w disiarczku węgla: siarka l jest w nim rozpuszczalna, a siarka m jest w nim nierozpuszczalna.
+
+Gęstość pary siarki w temperaturze bliskiej punktu wrzenia odpowiada zawartości cząsteczek S8 i częściowo S6. W miarę podwyższania temperatury cząsteczka staje się coraz mniejsza. W temperaturze 800&nbsp;°C para siarki składa się już tylko z cząsteczek dwuatomowych S2. Dysocjacja dwuatomowych cząsteczek siarki na pojedyncze atomy wymaga znacznego nakładu energii. Stopień dysocjacji cząsteczek dwuatomowych wynosi 3,7% w temp. 1727&nbsp;°C zaś 72,6% w temp. 2727&nbsp;°C.
+
+Szybko schłodzona ciekła siarka m tworzy siarkę plastyczną, bezpostaciową prawie czarną masę o plastyczności podobnej do plasteliny, zbudowaną z łańcuchów polimerycznych siarki. Rozciągana mechanicznie uzyskuje strukturę włóknistą, a łańcuchy siarkowe układają się w helisy o skoku co osiem atomów siarki. Oprócz tego w strukturze siarki plastycznej występują też domeny krystaliczne siarki romboidalnej. Siarka plastyczna jest formą metastabilną w temperaturze pokojowej i stopniowo krystalizuje. Proces ten trwa zazwyczaj od kilku godzin, do kilku dni.
+
+Jeżeli pary siarki zostaną szybko ochłodzone, to kondensują w postaci drobnego, żółtego proszku, kwiatu siarczanego. Składa się on w znacznej części z siarki bezpostaciowej, która przy podwyższeniu temperatury przechodzi w siarkę krystaliczną. Jest to przemiana ściśle jednokierunkowa. Siarka bezpostaciowa pojawia się także przy wydzielaniu z roztworu w toku niektórych reakcji chemicznych, np:.
+
+Na2S2O3 + H2SO4 → Na2SO4 + SO2 + S + H2O
+
+Siarka koloidalna wstrzyknięta podskórnie wywołuje silne bóle mięśni i podwyższenie temperatury ciała do 39&nbsp;°C; była z powodu tej właściwości stosowana w psychiatrii represyjnej w byłym ZSRR.
+
+Znaczenie biologiczne
+Siarka jest niezbędna do życia. Wchodzi w skład dwóch aminokwasów kodowanych – metioniny i cysteiny oraz wielu innych biologicznie ważnych związków np. witamin. Siarka pierwiastkowa w postaci pyłu działa drażniąco na błony śluzowe oczu i górnych dróg oddechowych. Nie powoduje ona silnych zatruć. Wiele związków siarki jest toksycznych.
+
+Zastosowania siarki
+Siarka pierwiastkowa jest używana jako substrat do produkcji innych związków. Około 90% (2005) siarki jest przetwarzane w Kwas siarkowy (H2SO4):
+2S + 3O2 + 2H2O → 2H2SO4
+Jako że kwas siarkowy ma kluczowe znaczenie dla światowej gospodarki, jego produkcja i konsumpcja jest wskaźnikiem rozwoju przemysłowego danego kraju. Głównym zastosowaniem kwasu siarkowego jest wytwarzanie nawozów fosforowych i procesy ługowania rud.
+
+Nawozy sztuczne
+Siarka jest coraz częściej używana jako składnik nawozów mineralnych. Najważniejszą postacią siarki na nawozy sztuczne jest siarczan wapnia. Pierwiastkowa siarka jest hydrofobowa, stąd tez nie może być bezpośrednio wykorzystywana przez rośliny. Bakterie glebowe przekształcają siarkę w rozpuszczalne pochodne. Siarka również poprawia efektywność wykorzystania innych podstawowych składników odżywczych, zwłaszcza azotu i fosforu. Biologicznie wytwarzane cząsteczki siarki są hydfrofilowe z faktu posiadania biopolimerowej powłoki. Zapotrzebowanie roślin na siarkę jest zbliżone do zapotrzebowania roślin na fosfor.
+
+Chemikalia wysokowartościowe
+Niektóre organiczne związki siarki są używane jako leki, substancje barwiące i agrochemikalia (chemikalia stosowane w rolnictwie). Wiele ważnych leków zawiera w swojej budowie siarkę, jak np. sulfonamidy. Siarka jest składnikiem wielu substancji antybakteryjnych. Większość antybiotyków beta laktamowych, włączając w to penicyliny, cefalosporyny i inne antybiotyki laktamowe zawierają heterocykliczną siarkę.
+Siarczan magnezu, znany jako sól gorzka, może być używany jako środek przeczyszczający, dodatek do kąpieli (mający na celu delikatne złuszczanie naskórka), źródło magnezu dla roślin czy w końcu jako środek osuszający, stosowany w laboratoriach chemicznych.
+
+Środki ochrony roślin
+
+Siarka jest jednym z najstarszych fungicydów i pestycydów. Opylanie siarką, konkretnie drobno zmieloną siarką elementarną, jest często stosowane jako fungicyd w ochronie winorośli, truskawek, wielu warzyw i innych upraw. Metoda ta dobrze chroni przed szeregiem pleśni, takich jak czarna plamistość róż. W rolnictwie ekologicznym siarka jedynym fungicydem używanym w uprawach ekologicznych, który chroni m.in. przed parchem jabłoni.
+Tlenek siarki i inne związki oparte na siarce (np. Sulfaquinoxalina (SQ)) wykorzystywane są jako środki do zwalczania gryzoni.
+
+Inne ważne związki siarki
+Siarka reaguje bezpośrednio z metanem, dając dwusiarczek węgla, CS2, który jest używany do produkcji celofanu i włókna wiskozowego. Jednym z bezpośrednich zastosowań siarki jest proces wulkanizacji gumy, gdzie wielosiarczki wiążą się poprzecznie z polimerami organicznymi. Siarczyny są powszechnie używane do bielenia papieru. Siarczyny są wykorzystywane także jako środki konserwujące suszone owoce. Wiele surfaktantów i detergentów, tak jak laurylosiarczan sodu, jest wytwarzanych z pochodnych siarczanów. Siarczan wapnia, jako gips,jest wydobywany na masową skalę, używając go m.in. do produkcji cementu portlandzkiego i nawozów mineralnych. Siarka jest jednym ze składników prochu.
+
+Metaloproteiny
+Nieorganiczna siarka wchodzi w skład centrów żelazowo-siarkowych, jak i białek zawierających również miedź i nikiel. Najbardziej rozpowszechnione z tych związków są ferrodoksyny, które służą jako przekaźniki elektronów w komórkach. Nitrogenaza, z centrum Fe-Mo-S, jest ważnym enzymem bakteryjnym, który przekształca atmosferyczny azot w amoniak.
+
+
+Zobacz też
+siarka rodzima
+siarka elementarna
+siarka palna
+siarka popiołowa
+siarka nagryzająca
+
+
+
+
+
+Linki zewnętrzne

@@ -1,0 +1,14 @@
+PSPD 90''' (Programowana Stacja Przetwarzania Danych) – 8-bitowy mikrokomputer produkowany w MERA-KFAP w Krakowie w latach 80. XX wieku, bazujący na mikroprocesorze Intel 8080. Szacunkowa liczba instalacji komputera wynosi 3000.
+
+Typowa konfiguracja składała się z (wbudowanych w metalowe biurko): jednostki centralnej, monitora ekranowego opartego na elementach telewizora VELA, napędów dyskietek elastycznych 8-calowych (4 komory, w tym 1 systemowa) i klawiatury.
+
+
+
+Bibliografia
+Instrukcja. Oprogramowanie systemowe SOJK OSJ dla mikrokomputera PSPD-90, Krakowska Fabryka Aparatów Pomiarowych
+Programowana stacja przygotowania i przetwarzania danych typ PSPD-90, Krakowska Fabryka Aparatów Pomiarowych 1981
+Mikrokomputer PSPD-90 jako środowisko tworzenia oprogramowania. Materiały konferencji „Mikroprocesory – stan i perspektywy rozwoju”, Kołobrzeg 1983
+
+
+
+

@@ -1,0 +1,23 @@
+
+Punkt trwałego więdnięcia, współczynnik trwałego więdnięcia, PTW, PWP – zawartość wody w glebie, przy której rośliny trwale więdną. Więdnięcie to ustępuje jedynie, gdy zawartość wody w glebie wzrośnie. Jeśli susza jest długotrwała, prowadzi do śmierci rośliny. Wartość PWP jest zależna od gatunku rośliny i właściwości fizycznych gleby. Dla różnych typów ekologicznych roślin mieści się w granicach od -1 do -4 MPa. Trwałe więdnięcie następuje, gdy potencjał wody w glebie jest niższy od potencjału w roślinie i woda nie może być dalej pobierana.
+
+Wyróżnia się:
+PTWR (WTWR) – punkt (wilgotność) trwałego więdnięcia roślin – 4,2 pF
+CHWR – całkowite hamowanie wzrostu roślin – 3,7 pF
+PHWR – początek hamowania wzrostu roślin - 2,8 pF
+Symbol pF oznacza wartość logarytmu dziesiętnego z wartości ciśnienia ssącego gleby, wyrażanego w centymetrach słupa wody (zob. roztwór glebowy).
+
+Bibliografia
+
+
+
+
+
+
+
+
+
+
+
+
+

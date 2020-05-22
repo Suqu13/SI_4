@@ -1,0 +1,33 @@
+Common Building Blocks (CBB)''' (en. wspólny blok) - standaryzacja notebooków wpowadzona przez firmę Intel w 2005. Polega na ustandaryzowaniu elementów (podzespołów) notebooków w taki sposób, by możliwa była wymiana podzespołów pomiędzy różnymi modelami różnych producentów, w taki sam sposób, jak jest to możliwe w przypadku komputerów stacjonarnych. Od 2006 zostaje powoli przyjmowana przez niektórych producentów (np. Zepto Computers).
+
+Program CBB umożliwia użytkownikowi dobór elementów laptopa w niemalże dowolny sposób wedle własnego życzenia. Możliwy jest wybór/wymiana następujących elementów:
+
+dysk twardy
+klawiatura
+wyświetlacz paneli ciekłokrystalicznych
+napęd optyczny
+akumulator
+zasilacz
+panel notebooka
+procesor
+pamięci RAM
+karty miniPci.
+
+Lista laptopów kompatybilnych z CBB
+Asus S62Fp 
+Asus S62J Asus S62J 
+Asus S96F Asus S96F 
+Asus S96J Asus S96J 
+Compal HGL 30 Compal HGL 30 
+Compal HGL 31 Compal HGL 31 
+Compal HEL 80 Compal HEL 80 
+Compal HEL 81 Compal HEL 81 
+Quanta SW1 Quanta SW1 
+Quanta TW3A Quanta TW3A 
+Quanta TW3M Quanta TW3M 
+
+
+
+
+
+

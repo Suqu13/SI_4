@@ -1,0 +1,19 @@
+Stal kwasoodporna (kwasówka)''' – stal odporna na działanie kwasów o mniejszej mocy od kwasu siarkowego. Kwasoodporność uzyskuje się dzięki stabilizacji austenitu w normalnych warunkach, co można uzyskać dzięki wysokim zawartościom chromu (17–20%) i niklu (8-14%), oraz innych dodatków stopowych, takich jak mangan, tytan, molibden i miedź. Stale kwasoodporne stosowane są po polerowaniu. Jako że w wysokich temperaturach dodatki stopowe mają tendencję do łączenia się z węglem tworząc twarde węgliki, po spawaniu elementów wykonanych ze stali kwasoodpornych wymagana jest ich obróbka cieplna.
+
+Polska Norma PN-XX/H-86020 podaje szereg stali kwasoodpornych, między innymi oznaczane symbolami '''0H18N9, 1H18N12T, H17N13M2T, OH13N28M3TCu, 0H22N24M4TCu.
+
+Stale kwasoodporne wykorzystuje się do budowy zbiorników kwasów oraz instalacji przemysłowych, do ich produkcji i dystrybucji, oraz innych instalacji zawierających kwasy, np. w przemyśle farbiarskim, przy produkcji nawozów sztucznych itp.
+
+W celu zapobieżenia tworzeniu się węglików dodaje się tytan (T w oznaczeniu gatunku stali). Proces ten nazywa się stabilizacją, a takie stale - stabilizowanymi. 
+
+Przykładowe stale kwasoodporne
+AISI 201 -
+AISI 202 -  0H17N4G8,
+AISI 304 - Najpopularniejszy materiał nierdzewny (tzw. nierdzewka), o dobrej odporności na korozję w różnych mediach, dobrze spawalny. Stosowane w urządzeniach przemysłu spożywczego i chemicznego oraz na części wymagające głębokiego tłoczenia, odporne na korozję w środowisku atmosferycznym, wody naturalnej, roztworów alkalicznych, niektórych kwasów organicznych i nieorganicznych. Stosowany, gdy nie ma dużego zagrożenia ze strony działania kwasów. Skład chemiczny: C < 0,03%; Si < 1,0%; Mn < 2,0%; P < 0,045%; S < 0,015%; N < 0,011%; Cr = 18,0%-20,0%; Ni = 10,0%-12,0%
+AISI 321 - Podobny do AISI 304 z dodatkiem tytanu. Wykazuje dużą odporność na korozję międzykrystaliczną. Może być stosowany w zakresie temperatur od 450 - 800&nbsp;°C. Stosowane na wymienniki ciepła, w elementach narażonych na działanie agresywnych środków konserwujących, na urządzenia pracujące w temperaturze 200&nbsp;°C. Skład chemiczny: C < 0,08%; Si < 1,0%; Mn < 2,0%; P < 0,045%; S < 0,015%; Cr = 17,0%-19,0%; Ni = 9,0%-12,0%; Ti < 0,07%.
+AISI 316, 316L, 316 Ti - Najpopularniejszy materiał kwasoodporny (tzw. [kwasówka]). Materiał o podwyższonej odporności na korozję w środowiskach agresywnych. Możliwość pracy w temperaturze 300/400&nbsp;°C. Zastosowanie: przemysł chemiczny, farmaceutyczny, tekstylny, spożywczy, do wyrobu celulozy, farb. Stale z dodatkiem molibdenu, przez to bardziej odporne na korozję wżerową w środowisku z jonami chlorkowymi. Skład chemiczny gatunku AISI 316: C < 0,07%; Si < 1,0%; Mn < 2,0%; P < 0,045%; S < 0,015%; N < 0,011%; Cr = 16,5%-18,5%; Mo = 2,0%-2,5%; Ni = 10,0%-13,0%. Skład chemiczny gatunku AISI 316L: C < 0,03%; Si < 1,0%; Mn < 2,0%; P < 0,045%; S < 0,015%; N < 0,011%; Cr = 16,5%-18,5%; Mo = 2,0%-2,5%; Ni = 10,0%-13,0%. Skład chemiczny gatunku AISI 316 Ti: C < 0,08%; Si < 1,0%; Mn < 2,0%; P < 0,045%; S < 0,015%; Cr = 16,5%-18,5%; Mo = 2,0%-2,5%; Ni = 10,5%-13,5%; Ti < 0,7%.
+
+Zobacz też
+Stal nierdzewna
+
+Linki zewnętrzne

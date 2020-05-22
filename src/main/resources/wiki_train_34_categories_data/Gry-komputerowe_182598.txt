@@ -1,0 +1,19 @@
+Atari DOS, program działający na 8-bitowych komputerach Atari.
+
+Wbrew nazwie, kojarzącej się z MS-DOS-em, AtariDOS nie jest systemem operacyjnym. Jest to doładowywana z dysku część systemu operacyjnego ośmiobitowych komputerów Atari odpowiedzialna za zarządzanie plikami, nie wszystkimi jednak, ale tylko dyskowymi. Z dzisiejszego punktu widzenia nie jest to więc system operacyjny, a jedynie wchodzący w jego skład tzw. filesystem driver.
+
+Istnieje tu pewne – odległe, ale jednak – podobieństwo do koncepcji zastosowanej w systemie Unix, albowiem wszystkie urządzenia systemowe w ośmiobitowym Atari, wliczając w to edytor ekranowy (konsolę), klawiaturę itp., są plikami specjalnymi. Każdy z tych plików specjalnych dysponuje własnym programem obsługi (sterownikiem) – a jednym z nich jest właśnie AtariDOS, który jest sterownikiem pliku specjalnego dającego dostęp do rzeczywistych plików danych (regular files) zgromadzonych na dysku.
+
+AtariDOS dzieli się standardowo na część rezydentną, stanowiącą właściwy sterownik, oraz część nierezydentną, stanowiącą powłokę dla całego systemu operacyjnego. Ta pierwsza część nazywa się DOS.SYS, ta druga DUP.SYS.
+
+Istnieje kilka wersji AtariDOS-u:
+
+AtariDOS 1.0
+AtariDOS 2.0 (dwie odmiany: 2.0s i 2.0d)
+AtariDOS 2.5
+AtariDOS 3.0
+AtariDOS 4.0 (wydany nieoficjalnie)
+AtariDOS XE
+
+
+

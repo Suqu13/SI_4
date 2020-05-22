@@ -1,0 +1,110 @@
+Układ okresowy pierwiastków (tablica Mendelejewa) – zestawienie wszystkich pierwiastków chemicznych w postaci rozbudowanej tabeli, uporządkowanych według ich rosnącej liczby atomowej, grupujące pierwiastki według ich cyklicznie powtarzających się podobieństw właściwości, zgodnie z prawem okresowości Dmitrija Mendelejewa. 
+
+Użyteczność układu okresowego wynika z faktu, że w prostej formie przedstawia on zależność własności chemicznych pierwiastków i pośrednio także ich prostych związków chemicznych od liczby występujących w nich protonów i elektronów. Współczesna, oficjalna wersja układu okresowego, publikowana cyklicznie przez Międzynarodową Unię Chemii Czystej i Stosowanej (IUPAC), definiuje też podział pierwiastków na grupy, okresy i bloki. Oficjalna wersja układu okresowego, opublikowana przez IUPAC 1 maja 2013, zawiera 114 pierwiastków o liczbach atomowych od 1 do 112 oraz 114 i 116. Opublikowano także doniesienia o otrzymaniu kolejnych pierwiastków, o liczbach atomowych 113, 115, 117 i 118. Wyniki te muszą zostać jeszcze potwierdzone i odkrycia te nie są oficjalnie uznawane przez IUPAC.
+
+Sens fizyczny układu okresowego
+Prawo okresowości Mendelejewa, stanowiące podstawę teoretyczną układu, wynika z faktu, że liczba atomowa określa nie tylko liczbę protonów, występujących w jądrze atomów, ale też liczbę elektronów atomów w stanie obojętnym, która ma decydujący wpływ na ich własności chemiczne. 
+
+Elektrony w atomach są umiejscowione na kolejnych powłokach, które mają określoną pojemność, czyli maksymalną liczbę elektronów, jaka może się zmieścić na powłoce. Kolejne powłoki są zajmowane przez elektrony dopiero po całkowitym zapełnieniu powłok leżących poniżej (o mniejszej energii). Zjawisko "zapełniania" powłok wynika z zakazu Pauliego, który w stosunku do atomów stwierdza, że na jednym orbitalu mogą znajdować się najwyżej dwa elektrony różniące się spinem. Elektrony na ostatniej, najbardziej zewnętrznej powłoce, nazywanej powłoką walencyjną, są najsłabiej związane z atomem i mogą odrywać się od niego podczas tworzenia wiązań chemicznych. Powłoka ta może przyjmować też dodatkowe elektrony, a ich energia wiązania ma kluczowe znaczenie przy powstawaniu związków chemicznych. Elektrony niżej leżące rzadziej uczestniczą w reakcjach chemicznych.
+
+W obrębie jednego okresu powłoka walencyjna jest zajmowana przez kolejne elektrony. Po zapełnieniu całej powłoki następuje przejście do nowego okresu i powstanie kolejnej powłoki elektronowej. 
+
+Można więc powiedzieć, że atomy występujące w tych samych okresach mają taką samą liczbę powłok elektronowych, a występujące w tych samych grupach mają taką samą liczbę elektronów na powłokach walencyjnych.
+
+Wygląd współczesnego układu okresowego
+Współczesny wygląd układu okresowego zawdzięczamy Nielsowi Bohrowi, który podzielił go na grupy i okresy. Grupy zazwyczaj wypisuje się w kolumnach, a okresy w rzędach. Grupy dzieli się na grupy główne i grupy poboczne. W grupach głównych okresy występują co osiem kolejnych atomów, co wynika z faktu, że na powłokach elektronowych od drugiej do czwartej mieści się dokładnie 8 elektronów. W grupach pobocznych sprawy mocno się komplikują, gdyż kolejne powłoki elektronowe mają coraz więcej miejsca dla elektronów. W grupach głównych wszystkie elektrony z powłoki walencyjnej zajmują orbitale typu: s i p, w grupach pobocznych orbitale: s i d, a w grupie lantanowców i aktynowców orbitale: s, d i f. Jest to podstawą do podzielenia układu okresowego na bloki: s i p (grupy główne), d (grupy poboczne) oraz f (lantanowce i aktynowce). 
+
+W większości współczesnych, graficznych przedstawień układu okresowego grupy główne są rozdzielone za drugą grupą całym blokiem d, a blok f jest "wyciągnięty" pod połączone bloki s, p i d.
+
+
+
+Uwaga: pierwiastki 113, 115, 117 i 118 nie są jeszcze uznane przez IUPAC.
+
+Układ okresowy a własności chemiczne atomów
+
+Współczesny układ okresowy (z rozdzielonymi blokami s, p, d i f) jest dobrym sposobem na przedstawienie zależności własności chemicznych od miejsca w układzie.
+
+Pierwsze dwie grupy główne (oprócz wodoru) grupują atomy o bardzo silnych własnościach metalicznych, zaś trzy przedostatnie (grupy V, VI i VII) grupują atomy o mniej lub bardziej wyraźnych własnościach niemetalicznych. Wreszcie grupa VIII to gazy szlachetne. 
+
+Przechodząc w obrębie jednej grupy w dół (w kierunku coraz wyższej liczby atomowej) następuje we wszystkich grupach wzrost własności metalicznych, co w obrębie grup od V do VIII przejawia się spadkiem typowych własności niemetalicznych. 
+
+Stąd "najbardziej metaliczny" jest pierwiastek występujący na samym dole grupy I - frans, a "najbardziej niemetaliczny" jest atom na samej górze grupy VII - fluor.
+
+Wszystkie atomy grup pobocznych, a także lantanowce i aktynowce, to typowe metale. Ich własności również wykazują podobieństwa w obrębie tych samych grup, ale są to już bardziej subtelne cechy niż proste rozdzielenie na własności metaliczne i niemetaliczne.
+
+Historia powstania układu okresowego
+Oryginalny układ okresowy został stworzony bez żadnej znajomości wewnętrznej struktury atomów, nie miał więc teoretycznego uzasadnienia.
+
+Prawdopodobnie pierwszą osobą, która zauważyła, że pierwiastki ułożone według rosnących mas atomowych (pojęcie liczby atomowej nie było wówczas znane) wykazują pewną regularność własności, był niemiecki chemik Johann Wolfgang Döbereiner, który w 1817 roku zestawił grupy składające się z trzech pierwiastków o podobnych własnościach chemicznych i cyklicznie wzrastających masach atomowych.
+
+Jeśli uznać, że układ okresowy to lista pierwiastków, ułożona względem ich mas atomowych i jednocześnie poukładanych w okresy, to palma pierwszeństwa należy się geologowi francuskiemu Antoine Beguyer de Chancourtois. Chancourtois opublikował w 1863 roku rysunek swojego "bębna pierwiastków" (inaczej "śruby tellurycznej"; tellus (łac.) – ziemia). Narysował on na bębnie spiralnie wznoszący się łańcuch nazw pierwiastków. Średnica bębna była tak dobrana, że łańcuch tworzył pełen obrót spirali co osiem pierwiastków. Dzięki temu, patrząc wzdłuż linii prostopadłych do podstawy bębna na jego powierzchni bocznej widziało się zawsze pierwiastki o podobnych własnościach chemicznych. "Wynalazek" bębna chemicznego jednak nikogo nie zainteresował i wydawał się zwykłym dziwactwem.
+
+Większy odzew uzyskało opublikowanie przez Johna Newlandsa jasno sformułowanego prawa okresowości w 1864 roku. Newlands stwierdził, że jeśli utworzyć listę pierwiastków według wzrastających mas atomowych (od wodoru do wapnia) to ich własności powtarzają się w cyklu co osiem pierwiastków. Nazwał to prawem oktawy, na zasadzie skojarzenia z oktawami muzycznymi. Nie potrafił tylko wyjaśnić, co ma wspólnego muzyka z pierwiastkami.
+
+Współcześni Döbereinera, Chancourtois i Newlandsa wyśmiewali zwykle takie próby, bo wyglądały one na zabawę i kojarzyły się z numerologią. Wydawało im się, że równie dobrze można by doszukiwać się jakichś powtarzalności w liście pierwiastków ułożonych np. alfabetycznie.
+
+
+Za twórcę układu okresowego uważa się powszechnie Rosjanina Dmitrija Mendelejewa. Uczony ten nie musiał się przejmować poglądami swoich współczesnych i dlatego dość swobodnie próbował układać pierwiastki w tabele, oparte na porządkowaniu ich w oparciu o ich masy atomowe. Po kilku latach takich prób odważył się on opublikować pierwszy układ okresowy, w którym zebrane już było ponad 90 pierwiastków (rok 1869). 
+
+Przełomowym pomysłem Mendelejewa było pozostawienie pustych miejsc tam gdzie występowały duże różnice między masami atomowymi znanych ówcześnie pierwiastków i jednocześnie zakłócona była regularność ich własności chemicznych. Tak skonstruowany układ okresowy był już trudny do zignorowania przez innych chemików, gdyż umożliwiał przewidywanie masy atomowej i własności jeszcze nie odkrytych pierwiastków. Mendelejew przewidział istnienie 8 pierwiastków, z których trzy odkryto jeszcze za jego życia (german, gal i skand) i miały one taką masę atomową i własności, jak wynikało to z jego układu okresowego.
+
+Mendelejew, układając układ okresowy, nie posiadał żadnej wiedzy na temat kwantowej budowy materii, a w szczególności zakazu Pauliego, który stanowi dla układu okresowego i chemii jako takiej podstawowe prawo fizyczne. Tablica pierwiastków została zestawiona przez niego wyłącznie na podstawie znajomości własności fizykochemicznych materii. Wkrótce okazało się, że konstrukcja ta nie tylko dostarcza dogodnego sposobu patrzenia na pierwiastki chemiczne, ale także pozwala na przewidywanie istnienia nowych pierwiastków.
+
+Równolegle, a być może nawet wcześniej niż Mendelejew, Niemiec Julius Lothar Meyer stworzył bardzo podobny układ pierwiastków, jednak nie wpadł na pomysł pozostawienia w nim pustych miejsc i stąd jego układ był błędnie poprzesuwany w kilku miejscach. Układ ten został wprawdzie już opublikowany w 1864 r., ale było to tylko wewnętrzne wydawnictwo uniwersyteckie, przeznaczone jako pomoc mnemotechniczna dla studentów chemii. Meyer czuł, że w jego układzie jest coś więcej niż tylko pomoc mnemotechniczna. W 1869 roku sporządził on bardziej rozbudowany układ okresowy, zawierający wszystkie znane mu pierwiastki. Ze strachu, że zostanie wyśmiany przez innych chemików, Meyer pokazał ten układ najbliższym swoim współpracownikom. Ci namówili go do publikacji. W trakcie jej pisania ukazała się jednak publikacja Mendelejewa, więc Meyer już swojej nie mógł posłać do druku.
+
+Aż do początków XX wieku większość chemików miała do układu okresowego stosunek ambiwalentny, ponieważ nie było racjonalnego uzasadnienia prawa okresowości. Pod koniec życia, zwłaszcza po sporze wokół masy atomowej telluru, nawet sam Mendelejew zwątpił w swoje odkrycie. Tellur, wbrew prawu okresowości, posiada bowiem wyższą masę atomową niż jod, choć ze względu na własności powinien mieć niższą. Mendelejew nie mógł wiedzieć, że wynika to z naturalnego składu izotopowego obu pierwiastków. Ponadto w układzie okresowym Mendelejewa brak było miejsca na gazy szlachetne, (krypton, ksenon i neon), które odkryto w latach 90. XIX w. Problem ten rozwiązał jednak w prosty sposób odkrywca tych gazów - William Ramsay, który dodał do układu grupę "0". 
+
+Dopiero odkrycie jądra atomu przez Ernesta Rutherforda w 1911 roku i opublikowanie w 1913 roku przez jego ucznia, Henry'ego Moseleya, tabeli liczby protonów, neutronów i elektronów w kolejnych pierwiastkach oraz zaproponowanie koncepcji orbit i sfer elektronowych przez Bohra, a szczególnie sformułowanie zakazu Pauliego dało układowi okresowemu logiczne uzasadnienie oraz wyjaśniło pochodzenie własności chemicznych pierwiastków.
+
+Graficzne sposoby przedstawiania układu
+
+Oprócz dwóch najczęściej stosowanych form układ okresowego (krótkiej i wydłużonej), wymyślono wiele różnych sposób jego przedstawiania. Już w 1908 Paul Walden w biografii Mendelejewa Berichte der Deutschen Chemischen Gesellschaft doniósł, że zostało opublikowanych ponad sto różnych grafik, ilustrujących układ okresowy.
+Alternatywne formy powstały głównie w celach dydaktycznych, aby zaakcentować związki pomiędzy własnościami chemicznymi lub fizycznymi pierwiastków, które nie są widoczne w postaci standardowej.
+
+tablica Mendelejewa – oryginalna tablica Mendelejewa była w zasadzie prostą tabelą z listą pierwiastków wg wzrastającej masy atomowej i przypisaniem do określonego okresu; czasami przez tablicę Mendelejewa rozumie się tzw. krótką formę układu okresowego, która została prawdopodobnie sporządzona we współczesnej wersji po raz pierwszy przez Ramsaya;
+tablica Wernera – wprowadzona przez Alfreda Wernera w 1905 r. jest długą formą układu, z wydzielonymi blokami s, p i d; sam Werner stworzył ją, aby wyraźniej rozdzielić grupy główne i poboczne, nie mając świadomości, że podzielił pierwiastki na bloki uzasadnione kształtem ich orbitali walencyjnych;
+układ Bohra – współczesny wygląd układu okresowego w oparciu o tablicę Wernera; tym razem Bohr nieświadomie podzielił układ według elektroujemności pierwiastków, co wykorzystał Linus Pauling;
+tabela rozciągnięta, z wydzielonym blokiem f, zasugerowana przez Glenna T. Seaborga w 1969, uwzględniająca koncepcje Nielsa Bohra i Jörgena Thomsena;
+tabela spiralna z 1960 r., opracowana przez Theodora Benfeya – nawiązująca nieco do układu De Chancourtois;
+tabela dla fizyków, zaproponowana przez Timmothy’ego Stowe'a; trójwymiarowa grafika, w której trzy osie reprezentują odpowiednio główną liczbę kwantową n, poboczną liczbę kwantową l oraz magnetyczną liczbę kwantową m;
+tabela w formie trójkąta, opracowana przez Emila Zmaczyńskiego i Thomasa Bayley’a;
+Galaktyka chemiczna - eliptyczna spirala, której autorem jest Philip J. Steward, będąca najnowszą wersją postaci spiralnej układu okresowego, znanej chemikom żyjącym jeszcze przed Mendelejewem, zainspirowana grafiką namalowaną przez artystę Edgara Longmana w 1951; według autora tego konceptu "łączy pierwiastki chemiczne z drogami gwiezdnymi w celach zilustrowania powiązań chemii z budową Wszechświata, pobudzenia wyobraźni i wskrzeszenia podziwu dla naturalnego porządku, który jest obecny w otaczającym człowieka Wszechświecie";
+tabela wymyślona po raz drugi w 1970 przez młodego studenta Alberta Tarantolę, aktualnie profesora Sorbony, lecz oficjalnie opublikowana wiele lat później; klasyfikuje pierwiastki chemiczne w oparciu o poziomy energetyczne atomów, pozwalając na bezpośrednie odczytanie konfiguracji elektronowej; pierwszym jej pomysłodawcą był Charles Janet w 1929;
+tabela dla homeopatów standardowa i spiralna.
+
+
+
+W sztuce i publikacjach
+Edward G. Mazurs w książce Graphical Representations of the Periodic System During One Hundred Years podał wiele historycznych szczegółów, związanych z układem okresowym.
+
+Przed wejściem do Wydziału Technologii Chemii i Żywności Politechniki w Bratysławie znajduje się pomnik, przedstawiający Mendelejewa oraz układ okresowy.
+
+Na stronie zwanej potocznie zoo układów okresowych, można obejrzeć ponad 50 różnych postaci graficznych układów okresowych, od najstarszych, opracowanych przez samego Mendelejewa, do najnowszych, a także tablicę w języku chińskim oraz układ okresowy w formie słonia.
+
+Galeria różnych form układu okresowego
+
+Plik:Periodic system Benfey format.svg|Postać spiralna Benfeya
+Plik:Periodic system Stowe format.svg|Postać dla fizyków Stowe'a
+Plik:Periodic system Zmaczynski&Bayley.svg|Postać trójkątna Zmaczyńskiego i Bayleya
+Plik:Periodic system Tarantola format.svg|Postać Tarantoli
+Plik:Periodic system extended format.svg|Postać rozszerzona 
+Plik:Periodic system Loop format.svg|Postać pętli Hyde'a
+Plik:Periodic system Alexander format.svg|Postać Alexandra
+Plik:Periodic system Pyramid format.svg|Postać piramidalna
+Plik:Periodic system homeopathic theory format.svg|Postać standardowa dla homeopatów
+Plik:Periodic table (spiral format).SVG|Postać spiralna dla homeopatów
+Plik:Circular form of periodic table.svg|Postać okrągła Mohda Abubakra z Indii 
+Plik:ADOMAH periodic table - electron orbitals.svg|Postać "ADOMAH" 
+
+
+
+
+Zobacz też
+
+Lista pierwiastków chemicznych
+Nazewnictwo pierwiastków chemicznych
+Rozszerzony układ okresowy pierwiastków
+Klasyfikacja lantanowców i aktynowców
+Homeopatyczny układ okresowy pierwiastków
+
+Linki zewnętrzne

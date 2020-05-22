@@ -1,0 +1,22 @@
+Dźwignia operacyjna – jest miarą wpływu zmian wartości przychodów netto ze sprzedaży na zysk operacyjny przedsiębiorstwa. Zysk operacyjny przedsiębiorstwa jest różnicą pomiędzy przychodami netto ze sprzedaży a kosztami operacyjnymi, obejmującymi zarówno koszty stałe, jak i koszty zmienne.
+
+Koszty stałe nie zależą od skali działalności przedsiębiorstwa, czyli kształtują się w poszczególnych okresach (w krótkim i średnim terminie) na niezmiennym poziomie, niezależnie od zmian wielkości przychodów netto ze sprzedaży. W przeciwieństwie do nich koszty zmienne zwiększają się wraz ze wzrostem działalności produkcyjnej, usługowej czy handlowej. Do kosztów zmiennych w przypadku działalności produkcyjnej można zaliczyć m.in. koszty surowców, materiałów, energii zużytych w procesie produkcyjnym. Z kolei kosztami stałymi mogą być m.in. czynsze dzierżawne, pensje pracowników (w części nie powiązanej z wielkością produkcji), stałe opłaty licencyjne lub koszty konserwacji.
+
+Można wykazać, że wyższy udział kosztów stałych w kosztach operacyjnych ogółem (wynikający z wyższego udziału aktywów trwałych w aktywach ogółem), przy innych warunkach niezmienionych, powoduje osiągnięcie wyższej dźwigni operacyjnej przez przedsiębiorstwo. Oznacza to wyższą wrażliwość zysków operacyjnych na zmiany wielkości przychodów netto ze sprzedaży (procentowy wzrost lub spadek zysku operacyjnego jest wyższy niż procentowy wzrost lub spadek przychodów netto ze sprzedaży).  
+
+Efekt dźwigni operacyjnej można wyrazić następującą formułą:
+
+Δ Zysku operacyjnego = Δ Przychodów ze sprzedaży netto * DOL
+
+gdzie:
+DOL to stopień dźwigni operacyjnej (ang. Degree of Operational Leverage), który określamy wzorem:
+DOL = (Przychody ze sprzedaży netto - Koszty zmienne) / (Przychody ze sprzedaży netto - Koszty zmienne - Koszty stałe) 
+
+Stopień dźwigni operacyjnej równy np. 3 oznacza, że wzrost przychodów ze sprzedaży o 1% powoduje wzrost zysku operacyjnego o 3%. Natomiast spadek przychodów ze sprzedaży o 1% skutkuje spadkiem wyniku operacyjnego o 3%.
+
+Zobacz też
+dźwignia finansowa
+dźwignia łączna
+
+
+Bibliografia

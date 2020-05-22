@@ -1,0 +1,22 @@
+Poślizg
+Budowa maszyn
+W budowie maszyn zjawisko występujące, gdy dwie stykające się powierzchnie poruszają się względem siebie. Poślizg może być pożądany (np. w sprzęgłach poślizgowych, hamulcach ciernych) lub szkodliwy (np. w przekładniach pasowych). Szczególnym przypadkiem poślizgu jest poślizg toczonego koła.
+
+Silniki elektryczne
+W silniku elektrycznym asynchronicznym poślizg opisuje różnicę między prędkością obrotową wirnika '''' a prędkością synchroniczną '''' (prędkość wirowania pola magnetycznego), wynikającą z liczby par biegunów i częstotliwości prądu zasilającego:
+Pojazdy i przekładnie pasowe
+W transporcie poślizg określa różnicę pomiędzy prędkością obwodową koła jezdnego lub pasowego a prędkością liniową pojazdu pasa. Jest definiowany przez współczynnik poślizgu s:
+gdzie
+– prędkość liniowa pojazdu
+– prędkość obwodowa koła
+– prędkość kątowa koła
+– promień koła
+Dla wartości współczynnika s = 1 koła są zablokowane, natomiast dla s = 0 pojazd porusza się bez poślizgu.
+
+Zobacz też
+Poślizg (krystalografia)
+Poślizg (droga)
+
+
+
+

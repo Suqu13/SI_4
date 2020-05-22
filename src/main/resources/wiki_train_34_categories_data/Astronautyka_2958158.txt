@@ -1,0 +1,10 @@
+
+
+Pulsed Inductive Thruster (PIT) – rodzaj silnika jonowego, do stosowania w napędach statków kosmicznych. PIT do przyspieszania materiału pędnego wykorzystuje oddziaływania prostopadłych pól elektrycznych i magnetycznych. 
+
+Zasada działania
+Dysza uwalnia niewielką ilość gazu (zwykle amoniaku lub argonu), który rozchodzi się w poprzek płaskiej, spiralnej cewki Ruhmkorffa o średnicy około 1 metra. Następnie, z zespołu kondensatorów uwolniony zostaje do cewki, trwający 10 mikrosekund, impuls prądu elektrycznego, generujący radialne pole magnetyczne. To indukuje w gazie kołowe pole elektryczne, jonizuje gaz i sprawia, że jony zaczynają krążyć w kierunku przeciwnym co pierwotny impuls prądu. Ponieważ ich ruch jest prostopadły do pola magnetycznego, jony są przyspieszane na zewnątrz (w przestrzeń).
+
+W przeciwieństwie do elektrostatycznych silników jonowych, PIT nie wymaga stosowania podatnych na erozję elektrod, a wzrost mocy może być łatwo osiągnięty poprzez zwiększenie liczby impulsów prądu.
+
+Bibliografia

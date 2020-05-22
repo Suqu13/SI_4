@@ -1,0 +1,28 @@
+Dubn (Db, łac. dubnium), wcześniej o nazwie unnilpentium (Unp) – pierwiastek chemiczny, metal przejściowy. Nazwa pochodzi od miejscowości Dubna pod Moskwą, gdzie mieści się Zjednoczony Instytut Badań Jądrowych (ZIBJ), w którym dokonano syntezy wielu pierwiastków transuranowych.
+
+Historia
+Doniesienie o otrzymaniu izotopów 260Db i 261Db przedstawił w 1968 roku zespół pod kierunkiem Gieorgija Florowa z ZIBJ. Eksperyment polegał na bombardowaniu ameryku-243 jądrami neonu-22:
++  →  + 4 n oraz  + 5 n
+Dowodem na otrzymanie izotopów  i  miało być zarejestrowanie promieniowania α pochodzącego z ich rozpadu, o energiach odpowiednio 9400 keV i 9700 keV. Doświadczenie to nie zostało uznane przez Grupę Roboczą Transfermowców (Transfermium Working Group) powołaną przez IUPAC i IUPAP za jednoznacznie dowodzące otrzymania pierwiastka 105. Kolejne eksperymenty w ZIBJ, opublikowane w lutym i maju 1970 potwierdzały prawdopodobne otrzymanie pierwiastka 105, jednak w dalszym ciągu nie były to wyniki jednoznaczne. Dopiero powtórzenie bombardowania neonem-22 tarczy z ameryku-243 zawierającej 100-krotnie mniej zanieczyszczeń ołowiem niż pierwotnie (opublikowane w czerwcu 1970) zostało uznane prze GRT za przekonywające.
+
+W międzyczasie jednak, w kwietniu 1970, grupa kierowana przez Alberta Ghiorso w Uniwersytecie Kalifornijskim w Berkeley opublikowała wyniki bombardowania kalifornu-249 jonami azotu-15:
++  →  + 4 n
+które nie wzbudziło zastrzeżeń ze strony GRT. Dubn-260 został później otrzymany tą samą metodą w Oak Ridge National Laboratory.
+
+Ponadto grupa z Dubnej w maju 1970 opisała wykrycie związku DbCl5, a w roku 1976 DbBr5. Dowodziło to, że otrzymano pierwiastek z grupy 15 układu okresowego, a nie z grupy 14, który wytworzyłby czterochlorek, podobnie jak hafn, tworzący HfCl4. Poprawność przeprowadzonej analizy teoretycznej tych doświadczeń została potwierdzona dopiero w roku 1987.
+
+Ostatecznie GRT uznała, że dwa równie przekonywające doświadczenia zostały przeprowadzone przez laboratoria w Dubnej i Berkeley praktycznie równocześnie i grupy te należy uznać za współodkrywców pierwiastka 105.
+
+Obecnie znanych jest 12 izotopów, z których najtrwalszy jest 268Db o czasie życia około 16 godzin.
+
+Nazwa
+Grupa Florowa zaproponowała dla nowego pierwiastka nazwę nielsbohr dla uczczenia Nielsa Bohra. Amerykanie używali natomiast nazwy hahn (w polszczyźnie funkcjonowała forma han), zaproponowanej przez Ghiorso od nazwiska Otto Hahna. Ponadto przez pewien czas IUPAC sugerował nazwę joliot (zob. Irène Joliot-Curie i Frédéric Joliot-Curie). Ostatecznie w uznaniu zasług laboratorium w Dubnej komisja IUPAC zaproponowała obecną nazwę i w roku 1997 została ona zatwierdzona (natomiast nazwę bohr nadano pierwiastkowi 107).
+
+Właściwości
+Pierwiastek ten nie występuje naturalnie na Ziemi, nie stwierdzono go także poza nią. Jego właściwości chemiczne badano z wykorzystaniem pojedynczych atomów i okazały się one typowe dla pierwiastków piątej grupy układu okresowego, zbliżone do własności tantalu. Dubn tworzy związki na piątym stopniu utlenienia, takie jak DbCl5, DbOCl3.
+
+Przypisy
+
+
+
+

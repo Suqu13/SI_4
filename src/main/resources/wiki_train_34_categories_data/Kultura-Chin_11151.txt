@@ -1,0 +1,60 @@
+
+Standardowy język mandaryński (nazywany często językiem mandaryńskim lub standardowym językiem chińskim) – oficjalny standard mówionego języka chińskiego, używany jako język urzędowy w Chińskiej Republice Ludowej, Republice Chińskiej, jednym z czterech oficjalnych języków Singapuru, a także jednym z sześciu oficjalnych języków Organizacji Narodów Zjednoczonych. Faktycznie jest tylko jednym z języków mandaryńskich. Oparty jest na dialekcie pekińskim, ale nie jest z nim tożsamy. W poszczególnych państwach język ten nosi różne nazwy: w ChRL jest nazywany putonghua (chin. trad. 普通話, chin. upr. 普通话, pinyin: pǔtōnghuà – "mowa powszechna"), na Tajwanie – guoyu (chin. trad. 國語, uproszcz. 国语, pinyin: guóyǔ – "język państwowy"), w Singapurze – huayu (chiń. trad. 標準華語, uproszcz. 标准华语, biāozhǔn huáyǔ – "standardowy język chiński").
+
+Standardowy język mandaryński wykształcił się w cesarskich Chinach jako lingua franca biurokracji. Stąd też pochodzi określenie "mandaryński", będące tłumaczeniem chińskiego terminu 官話 guānhuà – "mowa urzędników", czyli mandarynów, jak dawniej nazywano na Zachodzie urzędników chińskich (we współczesnej chińszczyźnie guanhua oznacza jednak zbiorczo wszystkie języki mandaryńskie, a nie język standardowy). W naturalny sposób dialekt stolicy – od czasów dynastii Ming był nią Pekin – był traktowany jako wzór do naśladowania, jednak do języka standardowego nie przeniknęły niektóre jego szczególne cechy (np. intensywna rotyzacja).
+
+Fonetyka
+Oto tabela spółgłosek występujących w języku mandaryńskim
+
+
+
+¹: Według niektórych lingwistów jest to dźwięczna spółgłoska szczelinowa []
+
+W języku mandaryńskim występują następujące samogłoski:
+
+// (z alofonem []), // (z alofonem []), // (z alofonem []), // (z alofonem []), // (z alofonami [] i []), //, // ( z alofonem []) i //.
+
+W języku mandaryńskim istnieją 4 tony:
+wysoki (陰平/阴平/yīnpíng) – kontur 55
+wznoszący (陽平/阳平/ yángpíng) – kontur 35
+opadająco-wznoszący (上聲/上声/ shǎngshēng) – kontur 214
+opadający (去聲/去声/ qùshēng) – kontur 51
+
+
+
+Typologia
+Klasyfikacja typologiczna standardowego języka mandaryńskiego jest problematyczna. Najczęściej zaliczany on jest do języków analitycznych (izolujących), ponieważ – podobnie jak w klasycznym języku chińskim o funkcji gramatycznej i składniowej danego wyrazu decyduje często jego pozycja w zdaniu oraz wyrazy pomocnicze, nie mające samodzielnego znaczenia (tzw. partykuły strukturalne). Z drugiej strony współczesny standardowy język mandaryński posiada już też pewne cechy języka aglutynacyjnego, m.in. funkcjonują w nim przyrostki, mogące – na równi z pozycją w zdaniu i wspomnianymi "pustymi" leksykalnie wyrazami – decydować o funkcji wyrazu.
+
+Przykład budowy zdania
+
+我的朋友们都要吃鸡蛋。
+
+Wǒ de péngyǒumen dōu yào chī jīdàn.
+
+Ja possessivus przyjaciel+l.mn.'' wszyscy chcieć jeść jajko (dosł. kura-jajko).
+
+Wszyscy moi przyjaciele chcą zjeść (kurze) jajko.
+
+
+W powyższym przykładzie partykuła 的 (de), oznaczająca przynależność, wraz z zaimkiem osobowym 我 (wǒ = "ja") tworzy znaczenie zaimka dzierżawczego "mój". Jest to konstrukcja typowa dla języków analitycznych.
+
+Przyrostek 们 (men), oznaczający liczbę mnogą dołączony jest do rzeczownika 朋友 (péngyǒu = "przyjaciel"). Brak jest fleksji. Jest to konstrukcja typowa dla języków aglutynacyjnych.
+
+Podstawowe zwroty
+你好 - Nǐ hǎo – Witaj
+我叫 - Wǒ jiào [tu wstawić swoje imię] – Nazywam się [tu wstawić swoje imię]
+我的名字是 - Wǒ de míngzì shì [tu wstawić swoje imię] - Moje imię jest [tu wstawić swoje imię]
+你叫什么名字 - Nǐ jiào shénme míngzi? – Jak się nazywasz?
+见到你很高兴 - Jiàn dào nǐ hěn gāoxìng - Miło mi Cię poznać.
+再见 - Zàijiàn - Do widzenia
+
+Zobacz też
+
+język chiński
+języki mandaryńskie
+dialekt pekiński
+Mandaryn
+
+
+
+Linki zewnętrzne

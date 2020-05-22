@@ -1,0 +1,25 @@
+Bosman 8''' to ośmiobitowy mikrokomputer opracowany na Politechnice Gdańskiej w 1986&nbsp;r. i produkowany w latach 1988-89 w Zakładzie Produkcji Doświadczalnej Sprzętu Elektronicznego w gdańskim Unimorze. Komputer współpracował z terminalem AN-2001 lub ANG-3001. Wyprodukowano tysiąc sztuk.
+
+Dane techniczne
+procesor: Z80A 3,5 MHz
+RAM: 512 kB
+ROM: 16 kB
+napędy dyskietek w obudowie jednostki centralnej:
+2 x 3” 2 x 200 kB, lub
+1 x 5 1/4"
+łącza: monitor, stacja, Centronics, V.24
+dźwięk: 1 kanał, wbudowany głośnik
+klawiatura: 78 klawiszy 
+obraz monochromatyczny: 
+80 x 25 znaków – tryb znakowy
+512 x 256 punktów – tryb graficzny
+monitory: Neptun 156, M4902 , M4801.
+zasilanie: +5v, +12v, -12v
+
+Oprogramowanie
+system operacyjny: CPM/R (zgodny z CP/M 2.2); podstawowa część systemu zapisana w ROM-ie; programy usługowe na dyskietce.
+
+Cena
+komputera ze stacją dysków w 1988 roku: 1 300 000 zł.
+
+Bibliografia

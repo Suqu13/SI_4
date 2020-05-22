@@ -1,0 +1,8 @@
+
+
+Monochromator – przyrząd optyczny rozszczepiający światło w celu otrzymania jedynie niewielkiego fragmentu z jego widma. Monochromatory mogą służyć do określania współczynnika pochłaniania światła przez filtry oraz do badań, w których używane jest światło monochromatyczne - np. w fotoluminescencji.
+
+Elementami rozszczepiającymi światło w monochromatorze są pryzmaty lub siatki dyfrakcyjne. Monochromator jest częścią spektrofotometru.
+
+Zobacz też
+spektrofotometria

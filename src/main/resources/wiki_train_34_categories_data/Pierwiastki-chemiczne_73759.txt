@@ -1,0 +1,51 @@
+Ozon (stgr. ὄζον [ódzōn] – pachnący), tritlen (O3) – alotropowa odmiana tlenu składająca się z trójatomowych cząsteczek.
+
+Posiada silne własności aseptyczne i toksyczne. Stosowany jest przy dezynfekcji wody oraz pełni ważną rolę w pochłanianiu części nadfioletu dochodzącego ze Słońca do Ziemi (patrz dziura ozonowa).
+
+Budowa
+Homoatomowa cząsteczka ozonu zbudowana jest z trzech atomów tlenu związanych wiązaniami o długości 1,28 Å pod kątem 116,8° w stanie gazowym oraz 117,9° w stanie stałym. Może występować w dwóch stanach elektronowych: trypletowym i singletowym. Pierwsza z tych form ma charakter dwurodnika, druga zaś 1,3-dipola. Najprostszym modelem teoretycznym, pozwalającym jakościowo opisać strukturę elektronową ozonu jest przedstawienie go w formie dwóch struktur rezonansowych.
+Właściwości chemiczne i fizyczne
+W warunkach normalnych ozon jest niebieskim gazem, o większej gęstości od powietrza. W temperaturze od  do  jest fioletową cieczą. Ozon tworzy się w momencie wyładowań elektrycznych.
+
+Powietrze po burzy ma zapach ozonu (powstaje w temperaturze łuku elektrycznego podczas uderzeń piorunów). W stanie wolnym występuje w atmosferze, powstaje w górnych warstwach atmosfery pod wpływem nadfioletu w wyniku rozpadu cząsteczek O2 pod wpływem światła i dalszego łączenia się ich, według równań:
+O2 _'hν'_͕2O
+O2 + O → O3
+
+oraz zgodnie z reakcją
+3O2 → 2O3
+
+Jest gazem niepalnym, ma natomiast zdolność, podobnie, jak ditlen – O2, podtrzymywać proces spalania. Dobrze rozpuszcza się w wodzie. Jest nietrwały termicznie i rozpada się stopniowo do tlenu już w temperaturze pokojowej. W stanie ciekłym ma skłonność do rozkładu wybuchowego przy kontakcie ze śladowymi ilościami substancji organicznych i reduktorów, a także w wyniku wszelkich gwałtownych zmian fizycznych, np. wstrząsu, raptownego ogrzania lub ochłodzenia itp. Zanotowano też wybuch zestalonego ozonu. Wybuchy ozonu są bardzo silne i prowadzą często do całkowitego zniszczenia aparatury nawet przy pracy z kilkoma gramami substancji.
+
+Jest silnym utleniaczem, zdolnym np. do utlenienia siarkowodoru do kwasu siarkowego:
+
+3H2S + 4O3  → 3H2SO4
+
+Historia
+Ozon w 1840 roku odkrył i nazwał Christian Friedrich Schönbein. Jako pierwszy opisał też jego właściwości. Wzór O3 ustalony został w roku 1865 przez Jacquesa-Louisa Soreta. Pierwsze skroplenie ozonu w mieszaninie z tlenem opisali P.  Hautefille i J. Chappuis w roku 1882. W roku 1887 Karol Olszewski opisał skroplenie ozonu za pomocą schłodzenia w ciekłym tlenie i oszacował jego temperaturę wrzenia na −106 °C, natomiast nie zdołał uzyskać ozonu w stanie krystalicznym. Stały ozon uzyskali E. H. Riesenfeld i G.-M. Schwab (1922) w wyniku bardzo powolnego schładzania w ciekłym wodorze (−253 °C), jednak określili oni błędną temperaturę topnienia −251 °C, którą w następnym roku skorygował na −194 °C G.-M. Schwab w swojej rozprawie doktorskiej. Współcześnie akceptowaną wartość −193 °C ustalili w roku 1954 Callaway Brown, Abraham W. Berger i Charles K. Hersh. W 1845 J.Ch.G. Marignac i A. de La Rive ustalili, że ozon jest odmianą tlenu.
+
+Badania właściwości czystego ozonu w fazach skondensowanych są utrudnione ze względu na jego dużą niestabilność. Po silnych eksplozjach badacze zarzucali dalsze doświadczenia z tą substancją. Było tak np. w wypadku Karola Olszewskiego, który jako pierwszy opisał wybuch skroplonego ozonu.
+
+Zastosowania
+Wykorzystywany jest do wyjaławiania wody pitnej (ozonowanie), pomieszczeń (szczególnie w szpitalach: lampa ozonowa), utleniania paliwa rakietowego, a także jako reagent w ozonolizie.
+
+Ozon jest jednym z najskuteczniejszych znanych środków dezynfekcyjnych. Działanie bakteriobójcze wykazuje w stężeniu ok. 13 μg/dm'3'''. Nie jest on jednak pozbawiony wad. Jako uboczne produkty ozonowania powstają aldehydy i ozonki. Ponadto wadą ozonu jest jego nietrwałość, a co za tym idzie, ryzyko wtórnego skażenia uprzednio zdezynfekowanej wody. Stąd konieczność dodatkowego chlorowania wody.
+
+Typowy środek dezynfekcyjny do uzdatniania wody – chlor, podczas wstępnego procesu chlorowania wody z zawartymi w niej związkami organicznymi, powoduje powstawanie produktów ubocznych, które są umiarkowanie toksyczne dla ludzi, m.in. chloroform i chlorofenole. Trzeba jednak podkreślić, że substancje te tworzą się w bardzo małej ilości i ich szkodliwość jest znacznie mniejsza, niż składników wody nieuzdatnianej, jednak mogą wyraźnie obniżyć jej właściwości organoleptyczne.
+
+Dla porównania, działanie bakteriobójcze ozonu jest około 50 razy skuteczniejsze i 3000 razy szybsze niż chloru. Ozon ma jednak stosunkowo krótki czas rozkładu, przez co ozonowana woda pozostaje aseptyczna przez krótki czas (tzn. nie można jej bezpiecznie przesyłać długimi rurociągami). Dlatego ozon nie może całkowicie wyeliminować chloru z procesu uzdatniania wody, jednakże może go w istotny sposób ograniczyć, w ilości niezbędnej do utrzymania w sterylności wszystkich nitek sieci wodociągowej po przejściu wody przez stację uzdatniania. Zabieg taki wyraźnie poprawia właściwości organoleptyczne spożywanej wody (brak wyczuwalnego zapachu i smaku chloru oraz mętnego zabarwienia).
+
+Znaczenie biologiczne
+W atmosferze spełnia funkcję filtra pochłaniającego nadfiolet, który emitowany jest przez Słońce. Pochłanianie to polega na reakcji rozszczepienia cząsteczki ozonu na tlen i rodnik tlenowy, która jest odwróceniem reakcji syntezy ozonu. Przerzedzenie warstwy ozonowej nazywa się dziurą ozonową.
+
+Działanie toksyczne na organizm
+Ozon jest gazem drażniącym, powoduje uszkodzenie błon biologicznych przez reakcje rodnikowe z ich składnikami. Po dostaniu się do komórek może hamować działanie enzymów komórkowych, wstrzymując oddychanie wewnątrzkomórkowe. Pierwszymi objawami podrażnienia ozonem (obserwowanym w stężeniach 0,2 μg/dm'3''') są kaszel, drapanie w gardle, senność i bóle głowy. W większych stężeniach może prowadzić do wzrostu ciśnienia tętniczego, przyspieszenia tętna i obrzęku płuc prowadzącego do zgonu (w stężeniach 9-20 μg/dm'3'''). Najwyższe dopuszczalne stężenie ozonu w miejscu pracy wynosi 0,1 μg/dm'3''' (według PN–Z–04007–2:1994 NDS wynosi 0,15 mg/m3).
+
+Zobacz też
+tetratlen
+ozon przygruntowy
+ozonoliza
+
+Przypisy
+
+
+Bibliografia

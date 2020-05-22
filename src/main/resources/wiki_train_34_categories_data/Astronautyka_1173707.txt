@@ -1,0 +1,106 @@
+Atlas Agena D – podrodzina rakiet nośnych Atlas tworzona przez trzy rakiety: Atlas LV-3A Agena D, Atlas SLV-3 Agena D, Atlas SLV-3A Agena D.
+
+Atlas LV-3A Agena D
+
+
+Atlas LV-3A Agena D – wojskowa amerykańska rakieta nośna wywodząca się z rakiet IRBM Atlas i RM-81 Agena. Była modyfikacją rakiety Atlas Agena A, w której poprawiono osiągi pierwszego i drugiego członu.
+
+Prócz sond Mariner 3 i Mariner 4, wynosiła jedynie ładunki wojskowe, z których większość pozostaje nadal utajniona.
+
+Chronologia startów
+12 lipca 1963, 20:45 GMT; s/n 201D-4702; miejsce startu: Point Arguello (LC2-3), USAŁadunek: Corona 67; Uwagi: start udany
+6 września 1963, 19:30 GMT; s/n 212D-4701; miejsce startu: Point Arguello (LC2-3), USAŁadunek: KH-7 02; Uwagi: start udany
+17 października 1963, 02:37 GMT; s/n 197D-1801; miejsce startu: Cape Canaveral Air Force Station (LC13), USAŁadunek: Vela 1A, Vela 1B, ERS 12; Uwagi: start udany
+25 października 1963, 18:59 GMT; s/n 224D-4703; miejsce startu: Point Arguello (LC2-3), USAŁadunek: KH-7 03; Uwagi: start udany
+18 grudnia 1963, 21:45 GMT; s/n 227D-4802; miejsce startu: Point Arguello (LC2-3), USAŁadunek: KH-7 04; Uwagi: start udany
+25 lutego 1964, 18:59 GMT; s/n 285D-4803; miejsce startu: Point Arguello (LC2-3), USAŁadunek: KH-7 05; Uwagi: start udany
+11 marca 1964, 20:14 GMT; s/n 296D-4804; miejsce startu: Point Arguello (LC2-3), USAŁadunek: KH-7 06; Uwagi: start udany
+23 marca 1964, 16:19 GMT; s/n 351D-4805; miejsce startu: Point Arguello (LC2-3), USAŁadunek: KH-7 07; Uwagi: start udany
+19 maja 1964, 19:21 GMT; s/n 350D-4806; miejsce startu: Point Arguello (LC2-3), USAŁadunek: KH-7 08; Uwagi: start udany
+6 lipca 1964, 18:51 GMT; s/n 352D-4807; miejsce startu: Point Arguello (LC2-3), USAŁadunek: KH-7 09, Hitchhiker 5; Uwagi: start udany
+17 lipca 1964, 08:22 GMT; s/n 216D-1802; miejsce startu: Cape Canaveral Air Force Station (LC13), USAŁadunek: Vela 2A, Vela 2B, ERS 13; Uwagi: start udany
+23 października 1964, 18:30 GMT; s/n 353D-?; miejsce startu: Baza Sił Powietrznych Vandenberg (PALC2-3), USAŁadunek: KH-7 13, Hitchhiker 7; Uwagi: start udany
+5 listopada 1964, 19:22 GMT; s/n 289D-6931; miejsce startu: Cape Canaveral Air Force Station (LC13), USAŁadunek: Mariner 3; Uwagi: start nieudany - awaria rakiety nośnej uniemożliwiła lot do Marsa
+28 listopada 1964, 14:22 GMT; s/n 288D-6932; miejsce startu: Cape Canaveral Air Force Station (LC12), USAŁadunek: Mariner 4; Uwagi: start udany
+29 lipca 1965, 08:27 GMT; s/n 225D-1803; miejsce startu: Cape Canaveral Air Force Station (LC13), USAŁadunek: Vela 3A, Vela 3B, ERS 17; Uwagi: start udany
+
+Atlas SLV-3 Agena D
+
+Atlas SLV-3 Agena D – wojskowa amerykańska rakieta nośna wywodząca się z rakiet IRBM Atlas i RM-81 Agena. Standaryzowana, z członem Agena D.
+
+Wynosiła głównie tajne ładunki wojskowe oraz kilka misji naukowych (Lunar Orbiter). Brała również udział w programie Gemini – wynosiła bezzałogowe moduły dokujące.
+
+Chronologia startów
+14 sierpnia 1964, 22:00 GMT; s/n 7101-4808; miejsce startu: Baza Sił Powietrznych Vandenberg (PALC2-4), USAŁadunek: KH-7 10; P-11 4202; Uwagi: start udany
+23 września 1964, 20:06 GMT; s/n 7102-?; miejsce startu: Baza Sił Powietrznych Vandenberg (PALC2-4), USAŁadunek: KH-7 11; Uwagi: start udany
+8 października 1964, ? GMT; s/n 7103-?; miejsce startu: Baza Sił Powietrznych Vandenberg (PALC2-4), USAŁadunek: KH-7 12; Uwagi: start nieudany
+4 grudnia 1964, 18:57 GMT; s/n 7105-7105; miejsce startu: Baza Sił Powietrznych Vandenberg (PALC2-4), USAŁadunek: KH-7 14; Uwagi: start udany
+23 stycznia 1965, 20:09 GMT; s/n 7106-7106; miejsce startu: Baza Sił Powietrznych Vandenberg (PALC2-3), USAŁadunek: KH-7 15; Uwagi: start udany
+12 marca 1965, 19:25 GMT; s/n 7104-7104; miejsce startu: Baza Sił Powietrznych Vandenberg (PALC2-3), USAŁadunek: KH-7 16; Uwagi: start udany
+3 kwietnia 1965, 21:24 GMT; s/n 7401-?; miejsce startu: Baza Sił Powietrznych Vandenberg (PALC2-4), USAŁadunek: Space Nuclear Auxiliary Power Shot, SECOR 4; Uwagi: start udany
+28 kwietnia 1965, 20:17 GMT; s/n 7107-7107; miejsce startu: Baza Sił Powietrznych Vandenberg (PALC2-4), USAŁadunek: KH-7 17, EHH B1; Uwagi: start udany
+27 maja 1965, 19:30 GMT; s/n 7108-7108; miejsce startu: Baza Sił Powietrznych Vandenberg (PALC2-4), USAŁadunek: KH-7 18; Uwagi: start udany
+25 czerwca 1965, 19:30 GMT; s/n 7109-7109; miejsce startu: Baza Sił Powietrznych Vandenberg (PALC2-4), USAŁadunek: KH-7 19, EHH B2; Uwagi: start udany
+12 lipca 1965, 19:00 GMT; s/n 7112-?; miejsce startu: Baza Sił Powietrznych Vandenberg (PALC2-4), USAŁadunek: KH-7 20; Uwagi: start nieudany
+3 sierpnia 1965, 19:12 GMT; s/n 7111-7111; miejsce startu: Baza Sił Powietrznych Vandenberg (PALC2-4), USAŁadunek: KH-7 21, EHH B3; Uwagi: start udany
+30 września 1965, 19:20 GMT; s/n 7110-7110; miejsce startu: Baza Sił Powietrznych Vandenberg (PALC2-4), USAŁadunek: KH-7 22; Uwagi: start udany
+25 października 1965, 15:00 GMT; s/n 5301-5002; miejsce startu: Cape Canaveral Air Force Station (LC14), USAŁadunek: GATV 5002; Uwagi: start nieudany - rakieta eksplodowała 6 minut po starcie. Czekająca na start misja Gemini 6 została odwołana
+8 listopada 1965, 19:26 GMT; s/n 7113-7113; miejsce startu: Baza Sił Powietrznych Vandenberg (PALC2-4), USAŁadunek: KH-7 23, OPS 6232; Uwagi: start udany
+19 stycznia 1966, 20:10 GMT; s/n 7114-7114; miejsce startu: Baza Sił Powietrznych Vandenberg (PALC2-4), USAŁadunek: KH-7 24, OPS 3179; Uwagi: start udany
+15 lutego 1966, 20:30 GMT; s/n 7115-7115; miejsce startu: Baza Sił Powietrznych Vandenberg (PALC2-4), USAŁadunek: KH-7 25, Bluebell 2C, Bluebell 2S; Uwagi: start udany
+16 marca 1966, 15:00 GMT; s/n 5302-5003; miejsce startu: Cape Canaveral Air Force Station (LC14), USAŁadunek: GATV 5003; Uwagi: start udany
+18 marca 1966, 20:30 GMT; s/n 7116-7116; miejsce startu: Baza Sił Powietrznych Vandenberg (PALC2-4), USAŁadunek: KH-7 26, OPS 0974; Uwagi: start udany
+8 kwietnia 1966, 19:35 GMT; s/n 5001-6703; miejsce startu: Cape Canaveral Air Force Station (LC12), USAŁadunek: OAO-1; Uwagi: start udany
+19 kwietnia 1966, 19:12 GMT; s/n 7117-7117; miejsce startu: Baza Sił Powietrznych Vandenberg (PALC2-4), USAŁadunek: KH-7 27; Uwagi: start udany
+14 maja 1966, 18:30 GMT; s/n 7118-7118; miejsce startu: Baza Sił Powietrznych Vandenberg (PALC2-4), USAŁadunek: KH-7 28, EHH B4; Uwagi: start udany
+17 maja 1966, 15:15 GMT; s/n 5303-5004; miejsce startu: Cape Canaveral Air Force Station (LC14), USAŁadunek: GATV 5004; Uwagi: start nieudany – start przebiegał normalnie do około 120. sekundy lotu (10 sekund przed wyłączeniem się silników dodatkowych). Wtedy to dysza silnika dodatkowego nr 2 przechyliła się do skrajnej pozycji korygującej nachylenie rakiety. Korekcja automatyczna nie odniosła skutku. Rakieta odzyskała pozycję stabilną po odłączeniu silników dodatkowych, jednak miała już wtedy przechył 216° i leciała w kierunku Przylądka Kennedy'ego z nachyleniem 13° poniżej linii horyzontu. Utracono łączność z rakietą, która kontynuowała lot według normalnej sekwencji, ale po nieprawidłowej trajektorii. Spadła do Atlantyku około 145 km od Florydy, po ok. 7,5 minutach lotu. Dochodzenie wskazało jako przyczynę niepowodzenia awarię elektryczną w obwodach serwomechanizmu. Czekająca na start misja Gemini 9 została przełożona.
+3 czerwca 1966, 19:25 GMT; s/n 7119-7119; miejsce startu: Baza Sił Powietrznych Vandenberg (PALC2-4), USAŁadunek: KH-7 29, OPS 1856; Uwagi: start udany
+9 czerwca 1966, 20:10 GMT; s/n 7201-1351; miejsce startu: Baza Sił Powietrznych Vandenberg (PALC1-2), USAŁadunek: MIDAS 10, SECOR 6, ERS 16; Uwagi: start udany
+12 lipca 1966, 17:57 GMT; s/n 7120-7120; miejsce startu: Baza Sił Powietrznych Vandenberg (SLC4E), USAŁadunek: KH-7 30; Uwagi: start udany
+18 lipca 1966, 20:39 GMT; s/n 5305-5005; miejsce startu: Cape Canaveral Air Force Station (LC14), USAŁadunek: GATV 5005; Uwagi: start udany
+10 sierpnia 1966, 19:26 GMT; s/n 5801-6630; miejsce startu: Cape Canaveral Air Force Station (LC13), USAŁadunek: Lunar Orbiter 1; Uwagi: start udany
+16 sierpnia 1966, 18:30 GMT; s/n 7121-7121; miejsce startu: Baza Sił Powietrznych Vandenberg (SLC4E), USAŁadunek: KH-7 31, OPS 6810; Uwagi: start udany
+19 sierpnia 1966, 19:26 GMT; s/n 7202-1352; miejsce startu: Baza Sił Powietrznych Vandenberg (SLC3E), USAŁadunek: MIDAS 11, SECOR 7, ERS 15; Uwagi: start udany
+12 września 1966, 13:05 GMT; s/n 5306-5006; miejsce startu: Cape Canaveral Air Force Station (LC14), USAŁadunek: GATV 5006; Uwagi: start udany
+16 września 1966, 17:59 GMT; s/n 7123-7123; miejsce startu: Baza Sił Powietrznych Vandenberg (SLC4E), USAŁadunek: KH-7 32, EHH B5; Uwagi: start udany
+5 października 1966, 22:00 GMT; s/n 7203-1353; miejsce startu: Baza Sił Powietrznych Vandenberg (SLC3E), USAŁadunek: MIDAS 12, SECOR 8; Uwagi: start udany
+12 października 1966, 19:15 GMT; s/n 7122-7122; miejsce startu: Baza Sił Powietrznych Vandenberg (SLC4E), USAŁadunek: KH-7 33, OPS 5345; Uwagi: start udany
+2 listopada 1966, 20:23 GMT; s/n 7124-7124; miejsce startu: Baza Sił Powietrznych Vandenberg (SLC4E), USAŁadunek: KH-7 34, OPS 5424; Uwagi: start udany
+6 listopada 1966, 23:21 GMT; s/n 5802-6631; miejsce startu: Cape Canaveral Air Force Station (LC13), USAŁadunek: Lunar Orbiter 2; Uwagi: start udany
+11 września 1966, 19:07 GMT; s/n 5307-5001R; miejsce startu: Cape Canaveral Air Force Station (LC14), USAŁadunek: GATV 5001R; Uwagi: start udany
+5 grudnia 1966, 21:09 GMT; s/n 7125-7125; miejsce startu: Baza Sił Powietrznych Vandenberg (SLC4E), USAŁadunek: KH-7 35; Uwagi: start udany
+7 grudnia 1966, 02:12 GMT; s/n 5101-6151; miejsce startu: Cape Canaveral Air Force Station (LC12), USAŁadunek: ATS-1; Uwagi: start udany
+2 lutego 1967, 20:00 GMT; s/n 7126-7126; miejsce startu: Baza Sił Powietrznych Vandenberg (SLC4E), USAŁadunek: KH-7 36; Uwagi: start udany
+5 lutego 1967, 01:17 GMT; s/n 5803-6632; miejsce startu: Cape Canaveral Air Force Station (LC13), USAŁadunek: Lunar Orbiter 3; Uwagi: start udany
+6 kwietnia 1967, 03:23 GMT; s/n 5102-6152; miejsce startu: Cape Canaveral Air Force Station (LC12), USAŁadunek: ATS-2, Research Payload Module 481; Uwagi: start częściowo nieudany – osiągnięto nieużyteczną orbitę
+4 maja 1967, 22:25 GMT; s/n 5804-6633; miejsce startu: Cape Canaveral Air Force Station (LC13), USAŁadunek: Lunar Orbiter 4; Uwagi: start udany
+22 maja 1967, 18:30 GMT; s/n 7127-7127; miejsce startu: Baza Sił Powietrznych Vandenberg (SLC4E), USAŁadunek: KH-7 37, OPS 5557; Uwagi: start udany
+4 czerwca 1967, 18:10 GMT; s/n 7128-4837; miejsce startu: Baza Sił Powietrznych Vandenberg (SLC4E), USAŁadunek: KH-7 38; Uwagi: start udany
+14 czerwca 1967, 06:01 GMT; s/n 5401-6933; miejsce startu: Cape Canaveral Air Force Station (LC12), USAŁadunek: Mariner 5; Uwagi: start udany
+1 sierpnia 1967, 22:33 GMT; s/n 5805-6634; miejsce startu: Cape Canaveral Air Force Station (LC13), USAŁadunek: Lunar Orbiter 5; Uwagi: start udany
+5 listopada 1967, 23:37 GMT; s/n 5103-6153; miejsce startu: Cape Canaveral Air Force Station (LC12), USAŁadunek: ATS-3; Uwagi: start udany
+
+Atlas SLV-3A Agena D
+
+Atlas SLV-3A Agena D – wojskowa amerykańska rakieta nośna wywodząca się z rakiet IRBM Atlas i RM-81 Agena. Była modyfikacją rakiety Atlas Agena D.
+
+Wynosiła tajne ładunki wojskowe.
+
+Chronologia startów
+4 marca 1968, 13:06 GMT; s/n 5602A-6503; miejsce startu: Cape Canaveral Air Force Station (LC13), USAŁadunek: OGO-5; Uwagi: start udany
+6 sierpnia 1968, 11:16 GMT; s/n 5501A-2801; miejsce startu: Cape Canaveral Air Force Station (LC13), USAŁadunek: Canyon 1; Uwagi: start udany
+13 kwietnia 1969, 02:24 GMT; s/n 5502A-2802; miejsce startu: Cape Canaveral Air Force Station (LC13), USAŁadunek: Canyon 2; Uwagi: start udany
+19 czerwca 1970, 11:37 GMT; s/n 5201A-1551; miejsce startu: Cape Canaveral Air Force Station (LC13), USAŁadunek: Rhyolite 1; Uwagi: start udany
+1 września 1970, 01:00 GMT; s/n 5203A-2803; miejsce startu: Cape Canaveral Air Force Station (LC13), USAŁadunek: Canyon 3; Uwagi: start udany
+4 grudnia 1971, 22:30 GMT; s/n 5503A-2804; miejsce startu: Cape Canaveral Air Force Station (LC13), USAŁadunek: Canyon 4; Uwagi: start nieudany
+20 grudnia 1972, 22:20 GMT; s/n 5204A-2805; miejsce startu: Cape Canaveral Air Force Station (LC13), USAŁadunek: Canyon 5; Uwagi: start udany
+6 marca 1973, 09:30 GMT; s/n 5202A-1552; miejsce startu: Cape Canaveral Air Force Station (LC13), USAŁadunek: Rhyolite 2; Uwagi: start udany
+18 czerwca 1975, 09:00 GMT; s/n 5506A-2806; miejsce startu: Cape Canaveral Air Force Station (LC13), USAŁadunek: Canyon 6; Uwagi: start udany
+23 maja 1977, 18:13 GMT; s/n 5507A-2807; miejsce startu: Cape Canaveral Air Force Station (LC13), USAŁadunek: Canyon 7; Uwagi: start udany
+11 grudnia 1977, 22:45 GMT; s/n 5504A-1553; miejsce startu: Cape Canaveral Air Force Station (LC13), USAŁadunek: Rhyolite 3; Uwagi: start udany
+7 kwietnia 1978, 00:45 GMT; s/n 5505A-1554; miejsce startu: Cape Canaveral Air Force Station (LC13), USAŁadunek: Rhyolite 4; Uwagi: start udany
+
+Bibliografia
+- LV-3A
+- SLV-3
+- SLV-3A

@@ -1,0 +1,150 @@
+World of Tanks – gra komputerowa z gatunku MMO wyprodukowana i wydana w 2011 roku przez Wargaming.net, koncentrująca się na bitwach pancernych. W grze znajduje się ponad 300 czołgów, samobieżnych dział polowych oraz niszczycieli czołgów z okresu od dwudziestolecia międzywojennego aż po wczesną zimną wojnę, pochodzących ze Stanów Zjednoczonych, ZSRR, III Rzeszy, Francji, Wielkiej Brytanii, Chin i Japonii. World of Tanks oparte jest na modelu płatności free-to-play. 
+
+W lutym 2013 roku liczba zarejestrowanych graczy przekroczyła 50 milionów. Gra wpisana jest w księdze rekordów Guinnessa jako rekordzista w kategorii „największej liczby graczy zalogowanych jednocześnie na jednym serwerze gry MMO” (21 stycznia 2013 na jednym z serwerów rosyjskich zalogowanych było 190 541 graczy). Wcześniejszy rekord również należał do gry – 23 stycznia 2011 na serwerze było 91 311 osób.
+
+Rozgrywka
+Na początku gracz otrzymuje do swojej dyspozycji po jednym czołgu każdej ze stron. W miarę zdobywania doświadczenia i kredytów może on kupować ulepszenia do danego czołgu oraz rozwijać drzewo technologiczne, które pozwala na odblokowanie kolejnych pojazdów. Ulepszenia pojazdu obejmują silnik, wieżę, podwozie, działo oraz radio, co pozwala na eksperymenty i zwiększenie potencjału bojowego. Wszystkie modyfikacje mają swoje historyczne uzasadnienie – istniały jako prototypy lub zostały wprowadzone w rzeczywistości. Gra posiada również system awansowania załogi – bardziej doświadczona załoga będzie sprawdzała się lepiej na placu boju, załoga z wyszkoleniem 100% będzie szybciej ładowała, naprawiała itp. w porównaniu do załogi 50 lub 75%. Gracz ma także możliwość załadowania sprzętu do swojego czołgu – zaczynając od siatek maskujących, które zmniejszają ryzyko zauważenia czołgu przez wroga, a kończąc na nowoczesnych systemach naprowadzania, które zwiększają szybkość celowania działa, lub dosyłacz, którego nie można załadować w czołgach z ładowaniem bębenkowym, a tylko w pojazdach z ładowaniem pocisków pojedynczo. Istnieje także sprzęt eksploatacyjny, na przykład apteczka, która leczy rannego członka załogi, czy zestaw naprawczy, który naprawia uszkodzony lub zniszczony moduł czołgu do pełnej wartości PZ modułu, w odróżnieniu od automatycznej naprawy, która moduł ciężko uszkodzony naprawia jedynie do stanu lekko uszkodzonego.
+
+Moduły
+Na czołg składają się moduły: wieża, działo, silnik, gąsienice, radio, które można w zakładce Badania odkryć, bądź zakupić. Podczas bitwy w lewym dolnym rogu jest sylwetka czołgu, moduły, oprócz standardowych, które możemy znaleźć w zakładce badania znajdują się tam moduły: magazyn amunicyjny, zbiorniki z paliwem i urządzenia obserwacyjne. Gdy sylwetka modułu zmienia kolor na pomarańczowy oznacza to, że dana część jest uszkodzona, a jeśli na czerwono, moduł jest zniszczony. Moduły zniszczone są z biegiem czasu naprawiane automatycznie i wtedy stają się jedynie uszkodzone. Jeżeli gracz użyje małego zestawu naprawczego, moduł wybrany przez użytkownika zostanie przywrócony do stanu początkowego, a jeśli dużego, wszystkie uszkodzone lub zniszczone zostaną naprawione do stanu fabrycznego. Naprawa będzie trwała szybciej z lepiej wyszkoloną załogą, czy z zamontowanym dodatkowym sprzętem (jak skrzynka z narzędziami, która przyspiesza naprawę o 25%). Zniszczonego magazynu amunicyjnego się nie da naprawić, ponieważ po zniszczeniu, magazyn wybucha. Wybuchu amunicji czołg nie może przetrwać. Pusty magazyn nie wybucha.
+
+Załoga
+Każdy czołg posiada załogę. W garażu załoga znajduje się po lewej stronie ekranu i jest tam również pokazany poziom wyszkolenia załogi. W każdym pojeździe jest określona liczba czołgistów, minimalnie dwóch (wyjątkiem są czołgi Karl oraz T-62 SPORT, które posiadają jednego załoganta). Dowódca przekazuje maksymalnie 10% (jeśli dowódca ma 90% daje 9% bonusu itd.) swojego doświadczenia każdemu z czołgistów przez co na przykład dowódca ma 100% a reszta ma 110% ogólnego doświadczenia załogi. Od wersji 0.8.11 umożliwiono łatwiejsze przenoszenie, trenowanie, wysyłanie do koszar obsady czołgu.
+
+Umiejętności i atuty
+Po wyszkoleniu czołgisty na 100% w ogólnej kwalifikacji można mu wybrać dodatkowe umiejętności/atuty, które dają  mu dodatkowe korzyści np. po wybraniu umiejętności "Naprawa" daje premię do szybkości naprawy zniszczonych modułów. Niektóre umiejętności działają po rozpoczęciu szkolenia, a inne dopiero po ukończeniu. Umiejętności oraz atuty są dzielone na grupy: wspólne, dowódcy, celowniczego, strzelca, radiooperatora, ładowniczego i kierowcy-mechanika. Jeden czołgista może posiadać różne specjalizacje np. dowódca może posiadać również specjalizację radiooperatora dzięki czemu dowódca może posiadać także umiejętność/atut radiooperatora. Zaznaczone jest to obok stopnia, imienia i nazwiska załoganta.
+
+Sprzęt
+Eksploatacyjny
+Jest to sprzęt jednorazowy, który zakupuje się w zakładce „obsługa”. Zazwyczaj ten sprzęt dzieli się na sprzęt mały (np. „mała apteczka”), za kwotę 3 000 kredytów i duży (np. „duży zestaw naprawczy”), za złoto lub kredyty. Po bitwie w której został on użyty, należy zakupić nowy, jeżeli chce się z niego ponownie skorzystać.
+
+Stały
+Sprzęt, który zakupuje się za sporą kwotę, np. pół miliona kredytów, dzieli się na:
+Usuwalny – oporządzenie to można zdjąć bez opłat i przenieść na inny pojazd.
+Nieusuwalny – sprzęt ten można za opłatą 10 sztuk złota zdjąć lub zniszczyć.
+System zniszczeń
+Gracz nie może zniszczyć wszystkiego w grze – jest to spowodowane ograniczeniami technicznymi. Jednak niektóre obiekty takie jak na przykład żywopłoty, drzewa, latarnie, słupy telegraficzne oraz niektóre budynki można swobodnie niszczyć. System uszkodzeń czołgów jest wielopoziomowy i zależy od wielu parametrów, takich jak kąt uderzenia pocisku, grubość pancerza itd. Obliczanie możliwości penetracji, obrażeń, uszkodzeń modułów, zachodzi za pomocą wartości procentowych, przykładowo jest 50% na uszkodzenie modułów, a 20-15% na zapalenie się silnika. Przykładowo trafienie w silnik czasem spowoduje jego unieruchomienie, a uszkodzenie wieży skutkuje brakiem możliwości jej obrotu. Istnieje funkcja naprawy, dzięki której po pewnym czasie uszkodzone elementy zostaną zreperowane, ale będą miały zmniejszone możliwości. Dla przykładu: jeżeli silnik zostanie uszkodzony, po naprawie będzie pracował tylko na połowie mocy, uszkodzone działo będzie miało mniejszą celność, uszkodzone radio spowoduje zmniejszony zakres komunikacji, uszkodzona wieża będzie wolniej się obracać itp.. Od wersji 9.0 po wystrzeleniu amunicji, wieża odskakuje zależnie od typu i ilości amunicji.
+Tryby rozgrywki
+World of Tanks aktualnie oferuje siedem trybów rozgrywki: 
+bitwa losowa – gracze zostają podzieleni na dwa 15-osobowe zespoły, które mają za zadanie zajęcie bazy wroga lub zniszczenie wszystkich pojazdów przeciwnej drużyny; istnieje możliwość grania wraz ze znajomymi w plutonach dwu- lub trzyosobowych,
+wojna klanów (beta) – tryb pozwalający na walki do zespołów liczących do 100 graczy, polegający na zdobywaniu terytoriów na mapie świata; zespoły zaczynają w lokacjach startowych, w miarę postępów otrzymują dostęp do kolejnych terytoriów,
+kompania – tryb zbliżony do bitew losowych, z tą różnicą, że skład obu drużyn (kompanii) nie jest losowany a dobierany przez założyciela kompanii,
+szturm – jeden zespół atakuje, podczas gdy drugi ma za cel obronić bazę,
+bitwa spotkaniowa – dwa zespoły mają za cel zdobyć bazę umiejscowioną na środku mapy,
+bitwa zespołowa – tryb polegający na bitwie dwóch zespołów składających się z maksymalnie siedmiu graczy; system dobierania zespołów oparty jest na poziomie doświadczenia graczy, co pozwala na grę z graczami o podobnym poziomie gry. Bitwy te są ograniczone do poziomu VIII. 
+bitwa historyczna – bitwa polegająca na starciu pojazdów dwóch nacji z ograniczeniami co do dostępnych pojazdów, amunicji i modułów usprawiedliwionych historycznie. Bitwy te nie polegają na starciu 15/15 lecz innej, odgórnie określonej, liczbie pojazdów. Nie są natomiast określane liczby konkretnych pojazdów na bitwę.
+tryb futbolowy - z okazji Mistrzostw Świata w Brazylii 12 czerwca zostały wprowadzone: nowa mapa i czołg, który otrzyma każdy gracz zarejestrowany przed tym terminem.
+twierdze - tryb polegający na budowaniu twierdz przez klany. Do udziału w tym trybie klan musi mieć powyżej 20 członków. W tym trybie dostępna jest  nowa waluta: surowce przemysłowe, za pomocą których można budować fortyfikacje dające sporo korzyści. Surowce przemysłowe można zdobywać w bitwach znanych jako Potyczki, gdzie walczą tylko członkowie klanu. Po zbudowaniu odpowiednich budynków dostępne będą Rezerwy i bojowy sprzęt eksploatacyjny. Rezerwy to ograniczone czasowo wydarzenia dające wszystkim klanowiczom korzyści takie jak: zwiększona ilość zdobywanych kredytów, zwiększona ilość zdobywanego doświadczenia i zwiększona ilość zdobywanego wolnego doświadczenia. Są one wybierane przez dowódcę lub zastępcę dowódcy klanu. Bojowy sprzęt eksploatacyjny to sprzęt, którego będzie można używać podczas bitew o twierdze, przy ataku lub obronie. Są to np. miny, bombowce i wsparcie artyleryjskie. Do udziału w obronie lub ataku twierdz, można wynająć do pięciu ,,Legionistów", którzy nie są członkami klanu.
+
+Planowane tryby gry:
+bitwa garażowa – gracze mogą użyć kilku czołgów w jednej bitwie (jeden po drugim),
+wojna klanów (release) – pełna wersja wojen klanów; gracze z serwerów europejskiego, rosyjskiego i amerykańskiego będą mogli toczyć bitwy na jednej wspólnej mapie świata.
+
+Jednostki
+W grze występuje pięć klas pojazdów – czołgi lekkie, średnie i ciężkie, niszczyciele czołgów oraz samobieżne działa polowe. Każdy pojazd przypisany jest do jednego z 10 poziomów (ang. tier), który określa stopień zaawansowania pojazdu. Rozpoczynając, gracz ma do dyspozycji wyłącznie pojazdy pierwszego poziomu, a dostęp do kolejnych modeli, zorganizowanych w drzewa technologiczne (oddzielne dla każdego państwa), uzyskuje wydając na nie zdobyte w trakcie gry punkty doświadczenia i kredyty niezbędne do zakupu. Dodatkowo istnieje niewielka liczba pojazdów nieznajdujących się w żadnej gałązce technologii (tzw. „czołgi premium”), które można otrzymać za złote monety (te z kolei nabywane są za realne pieniądze) lub kupić na stronie za pieniądze rzeczywiste, bądź przyznawane są okolicznościowo (m.in. za udział w beta testach, zakup pudełkowej wersji gry, w ramach promocji dla nowych graczy, wygranie kampanii wojen klanów lub prezenty z okazji świąt lub ważnych dat). Pojazdy te często są konstrukcjami zagranicznymi (zdobycznymi bądź pochodzących od wojsk sojuszniczych) lub prototypowymi.
+
+Klany
+Gra oferuje możliwość stworzenia klanu, dołączenia do niego oraz rywalizacji pomiędzy innymi o zdobyte tereny na mapie świata. Do jednego klanu może dołączyć aż stu graczy (nie licząc jego założyciela). Dzięki klanowi można rozdawać zdobyte złoto z podbitych terenów między innych graczy, czy też można stoczyć walkę o nie na globalnym terenie.
+
+Plutony
+Gracze od wersji 8.5 mają możliwość wspólnej gry do trzech graczy na raz w jednej bitwie bez posiadania konta premium, wcześniej mogło w ten sposób grać jedynie dwóch użytkowników bez konta premium, oraz bez ograniczeń co do poziomu czołgów. Dzięki temu gracze należący do plutonu mają możliwość gry razem w jednej drużynie podczas bitwy losowej. Pluton umożliwia zdobycie osiągnięcia pt. „Braterstwo broni” oraz ,,Ostateczne poświecenie
+„Braterstwo broni” - Każdy członek plutonu musi zniszczyć przynajmniej 3 pojazdy wroga i przeżyć. Odznaczenie przyznawane jest wszystkim członkom plutonu.
+„Ostateczne poświecenie - Pluton musi zniszczyć przynajmniej 12 pojazdów nieprzyjaciela. Odznaczenie przyznawane jest wszystkim członkom plutonu.
+
+Produkcja i rozwój
+
+Rok 2009
+24 lipca gra została zapowiedziana przez studio Wargaming.net. 
+We wrześniu rozpoczęły się testy rosyjskiej wersji alfa. Wersja ta zawierała tylko pięć pojazdów i jedną mapę. 
+Rok 2010
+30 stycznia ukazała się pierwsza wersja beta, która zawierała więcej pojazdów oraz trzy mapy. 
+24 czerwca ruszyła otwarta rosyjska wersja beta 0.4.5, w której znalazło się 60 czołgów i 7 map. 
+8 lipca uruchomiono europejską zamkniętą wersję beta. 
+12 sierpnia rosyjska wersja gry została oficjalnie wydana.
+27 września ukazał się patch umożliwiający rozgrywkę w języku polskim i niemieckim
+22 października wydano wersję 0.5.5.1, poza licznymi poprawkami dodano dwie nowe mapy.
+9 listopada ukazała się wersja 0.6.1.5, w której dodano pojazdy amerykańskie, dwie nowe mapy oraz naprawiono liczne problemy z grą. 
+23 grudnia ukazała się wersja 0.6.2.7, w której dodano nowy tryb rozgrywki „Bitwa kompanii czołgów” (Tank Company Battle), czat głosowy, dwie nowe mapy, nowe osiągnięcia, obsługę dynamicznych cieni, nowe średnie czołgi i artylerię, możliwość własnego ustawienia klawiszy akcji oraz poprawiono zbalansowanie jednostek. 
+29 grudnia wydano specjalny świąteczny patch 0.6.2.8, w którym dodano świąteczny wygląd hangarów, choinki zamiast flag na punktach kontrolnych oraz naprawiono kilka błędów.
+
+Rok 2011
+5 stycznia ukazała się aktualizacja umożliwiająca grę w języku francuskim, portugalskim, włoskim i hiszpańskim.
+27 stycznia gra stała się otwartą wersją beta, dostępną dla każdego.
+1 marca ukazała się wersja 0.6.3.8, w której usunięto świąteczny wystrój map i garaży, poprawiono parametry pojazdów, dodano nową mapę, interfejs dla bitew klanowych oraz nowe czołgi premium dostępne w przedsprzedaży gry.
+3 marca ukazał się patch umożliwiający grę w języku łotewskim, chorwackim, węgierskim oraz serbskim.
+23 marca ukazała się wersja 0.6.3.9, w której naprawiono błędy związane z użyciem pamięci komputera, bitwami klanowymi oraz systemem kar.
+7 kwietnia ukazała się wersja 0.6.3.10, w której dodano nowy czołg premium – M4A2E4 Sherman.
+12 kwietnia gra została oficjalnie wydana, konta osób biorących udział w testowaniu gry zostały zresetowane, natomiast następnego dnia wydano wersję 0.6.3.11, która została przystosowana do systemu mikropłatności
+17 maja ukazała się wersja 0.6.4, w której dodano siedem nowych pojazdów, dwie mapy oraz wprowadzono szereg zmian m.in. w mechanice gry.
+7 czerwca ukazała się łatka umożliwiająca grę w języku holenderskim, duńskim, rumuńskim, tureckim, fińskim, szwedzkim, estońskim oraz litewskim.
+29 czerwca ukazała się wersja 0.6.5, w której dodano dwie nowe mapy, przeprojektowano dwie już istniejące mapy, dodano amerykańskie niszczyciele czołgów oraz dwa czołgi premium – amerykański M22 Locust i radziecki T-127, ponadto dokonano usprawnień w mechanice gry.
+10 sierpnia ukazała się wersja 0.6.6, w której dodano nową mapę oraz siedem nowych czołgów niemieckich między innymi E-50, E-75 i E-100.
+15 września ukazała się wersja 0.6.7, w której dodano sześć nowych czołgów (w tym T-50-2, VK 28.01 oraz chiński Typ 59), jedną nową mapę oraz dokonano usprawnień w mechanice gry.
+19 grudnia ukazała się wersja 0.7.0, w której dodano między innymi technologię multiklastrową, system kamuflaży dla pojazdów, system skarg, testowy system nagrywania i odtwarzania bitew; ponadto pojawiły się dwie nowe mapy oraz naprawiono drobne błędy.
+
+Rok 2012
+5 stycznia ukazała się wersja 0.7.1 wprowadzająca do gry pojazdy francuskie; ponadto dodano dla wszystkich działek automatycznych i półautomatycznych wielopociskowy system automatycznego ładowania oraz dokonano poprawek dotyczących mechaniki gry.
+24 stycznia ukazała się łatka 0.7.1b, która naprawiała błąd związany z tzw. mgłą wojny w trybie Wojen Klanów. 
+13 marca ukazała się aktualizacja 0.7.1.1 zmieniająca format zapisu i organizacji danych w systemie gry oraz dodająca oddzielny folder na mody tworzone przez graczy.
+30 marca ukazała się wersja 0.7.2 wprowadzająca dwie nowe mapy, 22 nowe umiejętności załogi, nowe amerykańskie niszczyciele czołgów, zmiany w amerykańskiej linii czołgów ciężkich, nowe kamuflaże; równocześnie dokonano poprawek w mechanice gry.
+8 maja ukazała się wersja 0.7.3 wprowadzająca dwie nowe mapy, przebudowująca sowieckie drzewko pojazdów oraz dokonująca poprawek i usprawnień w mechanice gry.
+21 czerwca ukazała się wersja 0.7.4 wprowadzająca dwie nowe mapy, dwa nowe tryby gry, nowe francuskie samobieżne działa polowe i niszczyciele czołgów oraz kilka nowych czołgów premium.
+1 sierpnia ukazała się wersja 0.7.5 wprowadzająca zmiany w mechanice gry, dodająca trzy nowe mapy, dwa nowe czołgi premium, 6 nowych niszczycieli czołgów, 3 nowe czołgi średnie oraz 1 lekki czołg.
+27 września została wydana aktualizacja 0.8 dodająca cztery nowe radzieckie niszczyciele czołgów i brytyjski czołg premium oraz wprowadzająca zmiany w postaci udoskonalonej fizyki gry, grafiki, dźwięków oraz specyfikacji pojazdów.
+31 października na europejskim serwerze ukazała się aktualizacja 0.8.1 dodająca m.in. drzewo czołgów brytyjskich, trzy nowe czołgi premium, oraz wiele poprawek związanych z mechaniką i optymalizacją gry.
+12 grudnia została wydana aktualizacja 0.8.2 dodająca nowe pojazdy amerykańskie wyposażone w automaty ładujące, trzy pojazdy premium oraz wprowadzająca zmiany na czterech mapach.
+
+Rok 2013
+16 stycznia wydana została wersja 0.8.3 dodająca drzewo pojazdów chińskich.
+6 marca wydana została wersja 0.8.4 dodająca m.in. brytyjskie niszczyciele czołgów oraz nowe niemieckie czołgi lekkie.
+20 marca europejski serwer został podzielony na dwa klastry – EU1 i EU2. Usunięto z mechanizmu losującego mapę Smocza Rzeka.
+24 kwietnia wprowadzona została wersja 0.8.5, w której dodano m.in. sześć czołgów niemieckich i trzy radzieckie oraz dodatkową mapę.
+19 czerwca wydano wersję 0.8.6. W niej dodano kolejną nową mapę, 10 nowych czołgów oraz zmieniono nieco mechanikę gry. Od tej wersji działa samobieżne są do X poziomu technologicznego, wcześniej były do VIII.
+23 lipca wydano wersję 0.8.7. Aktualizacja wprowadza nową linię brytyjskich dział samobieżnych, dodano nowy radziecki czołg lekki, niemiecki niszczyciel czołgów; została dodana nowa mapa, nowe brytyjskie działo samobieżne dostępne dla graczy z kontem premium oraz wprowadzono parę poprawek i usprawnień do gry. Usunięto czołg T-50-2.
+12 września wydana została wersja 0.8.8, dodająca nową gałąź radzieckich czołgów średnich (4 czołgi) oraz dwa nowe czołgi (średni i ciężki) w niemieckim drzewie technologicznym. Zachodzą w nim również zmiany, jak zrebalansowanie czołgu średniego VK 30.01 H – stanie się on czołgiem ciężkim o niższym poziomie. Aktualizacja wprowadziła mapę z terenem leśnym i skalistym. Dodano również księgę misji, po których wykonaniu dostaje się określoną nagrodę opisaną po wejściu w zakładkę „Misje i Wydarzenia” – tam można zobaczyć szczegółowy opis danej misji.
+30 października wydano wersję 0.8.9 zwaną „Armored Spearhead”, dodającą nową gałąź niszczycieli czołgów niemieckich, chińskie czołgi premium 112 i T-34-3, nową mapę Północny Wschód oraz zoptymalizowanie map i dodanie trybu spotkaniowego do mapy Erlenberg. Zmieniony został wygląd wyboru opcji bitwy, a zmiany uwzględniły także ikony w górnej części ekranu, pojawiające się podczas bitwy. Dodano również nowy tryb gry zwany bitwami zespołowymi.
+23 grudnia wydano wersję 0.8.10, w której dodano drzewko japońskie, chińskiego Type 64 i japońskiego Chi-Nu Kai. Do dyspozycji graczy oddano również mapę Ukryta Wioska. Zmieniono mapy El Halluf i Karelia. Dodano 2 czołgi rosyjskie IX poziomu: Object 430 II i X poziomu: Object 430.
+
+Rok 2014
+14 lutego wydano wersję 0.8.11, w której dodano 3 nowe mapy: Windstorm, Winter Himmelsdorf i Ruinberg on fire. Dodano nowe medale i odznaczenia. Zmniejszono obrażenia dział kalibrów od 150mm do 155mm o 100 PZ. Dodano możliwość włączenia pokazywania śladów gąsienic. Zmieniono silnik w czołgu AMX 50 Foch(155). Wprowadzono bitwy narodowe. Nie wprowadzono nowych pojazdów. Umożliwiono łatwiejszą konfigurację załogi. Zmieniono fizykę podwozia. Po podpaleniu pojazdu pojawia się w u dołu ekranu ikona ognia oznaczająca zapłon czołgu. 
+16 kwietnia wprowadzono wersję 9.0, w której dodano tryb bitew historycznych, usunięto bitwy narodowe, wydano modele HD czołgów: T-54, T-34-85, Tortoise, Centurion 7/1, Churchill VII, M4 Sherman, M18 Hellcat, M103, PzKpfW VI Tiger, PzKpfW VIII Maus, PzKpfW V Panther. Zmodyfikowano mapę Malinówka. Drastycznie zmieniono wygląd garażu zarówno normalnego, jak i dla posiadaczy konta premium, wygląd miał przypominać hale naprawcze. Dodano nowe czołgi na potrzeby bitew historycznych: Pz. IV A, Pz. IV D, Pz. IV H, StuG III B, StuG III G. W bitwach historycznych dostępne są na razie tylko 3 bitwy: Bitwa o Kursk, Operacja ,,Wiosenne Przebudzenie" i Bitwa o Ardeny.'' Pierwsza jest na mapie Prochorowka, pozostałe dwie na mapie Erlenberg. Nie wprowadzono silnika Havok.
+11 czerwca wydano wersję 0.9.1, w której dodano nową mapę: Charków. Zmieniono mapy: Koło podbiegunowe, Komaryn, Tundra.'' Do bitew historycznych dodano bitwy: Oblężenie Tobruku i Front Briańsk, a usunięto Bitwę o Kursk i Bitwę o Ardeny. Zmieniono mobilność czołgów oraz ich opory dla gruntu: VK 28.01 oraz MT-25.
+12 czerwca wprowadzono z okazji Mistrzostw Świata w Brazylii tryb futbolowy, w którym dodano nową mapę, na której jest boisko do gry w piłkę nożną na zmodyfikowanej mapie Himmelsdorf.'' Gracze otrzymali również czołg T-62A SPORT specjalnie przystosowany do  tego trybu.
+31 lipca wydano aktualizację 0.9.2, w której wprowadzono tryb Twierdze, w bitwach treningowych będzie można być obserwatorem, który może oglądać bitwę z pozycji dowolnego gracza z obu drużyn. Doszły 4 czołgi w wersji HD: IS, SU-100, StuG III Ausf. G, Churchill I. Gracze będą mieli również możliwość zdobyć 9 nowych medali lub osiągnięć:
+Brutalna siła
+Partyzant
+Pięta Achillesowa
+Infiltrator
+Stróż
+Sprawdzony w bitwie
+Zdobywca
+Najemnik
+Medal Rotmistrowa
+Zrebalansowano oraz zmieniono czołgi:
+Waffenträger auf E100,
+Waffenträger auf Pz. IV,
+VK 45.02 (P) Ausf. B,
+FV215b (183),
+M46 Patton,
+SU-122-54.
+Zmieniono mapy:
+Lotnisko
+Święta Dolina
+Urwisko
+Piaszczysta Rzeka
+Gra World of Tanks otrzymała nagrodę „Best New Concept” przyznaną na targach E3 w 2010 roku jako najlepszej nowej koncepcji oraz nagrodę dla najlepszej gry online na Konferencji Rosyjskich Deweloperów Gier w 2010 roku. W 2012 gra otrzymała nagrodę European Games Award jako najchętniej wybierana gra z gatunku MMO, a firma Wargaming.net zdobyła tytuł Najlepszego Europejskiego Wydawcy oraz Golden Joystick dla najlepszej gry MMO. Gra została wpisana do Księgi Rekordów Guinnesa za największą ilość zalogowanych w tym samym momencie graczy.
+
+Przypisy
+
+
+Linki zewnętrzne
+Oficjalna strona gry (ang. • niem. • fr. • hiszp. • pol. • cz.)
+
+
+
+
+
+
+
+
+

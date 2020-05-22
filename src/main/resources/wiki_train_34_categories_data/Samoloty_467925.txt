@@ -1,0 +1,16 @@
+Bell X-9 Shrike – wyprodukowany przez Bell Aircraft Corporation amerykański prototypowy pocisk rakietowy klasy powietrze-ziemia napędzany silnikiem na paliwo płynne. Platforma testowa dla pocisku z głowicą nuklearną GAM-63 Rascal.
+
+Historia
+W maju 1947 roku firma Bell Aircraft Corporation otrzymała zamówienia na opracowanie pocisku rakietowego klasy powietrze-ziemia  ASM-A-2 Rascal później oznaczonego jako B-63''' lub GAM-63''' uzbrojonego w głowicę nuklearną. Przedmiotem zamówienia była platforma testowa w postaci pomniejszonej wersji pocisku oznaczona jako RTV-A-4 Shrike. Budowa pocisku Shrike miała na celu zbadanie jego własności aerodynamicznych, radiowego systemu sterowania, układu napędowego, oraz ogólnych procedur jego obsługi i wystrzeliwania. Pierwszy lot testowy RTV-A-4'' bez napędu, miał miejsce w kwietniu 1949 roku, a pierwsza zakończona niepowodzeniem próba z silnikiem w maju roku następnego. Dopiero w listopadzie 1950 roku udało się wykonać pierwszego w pełni udanego wystrzelenia pocisku.
+
+Konstrukcja
+RTV-A-4'' był napędzany dwukomorowym silnikiem rakietowym na paliwo płynne. Początkowo była to jednostka napędowa wyprodukowana przez Aerojet, ale wkrótce zmieniono ją na docelową Bell XLR65-BA-1''. Pocisk był wystrzeliwany ze specjalnej wyrzutni w kształcie trapezu zamontowanej w komorze bombowej zmodyfikowanego samolotu EB-50D i naprowadzany przy pomocy fal radiowych z nadajnika zamontowanego na pokładzie samolotu nosiciela. Sterowanie pociskiem odbywało się przy pomocy czterech tylnych powierzchni sterowych i dodatkowych mniejszych umieszczonych w pobliżu dziobu rakiety. Zasięg pocisku wynosił 80 km, a prędkość przekraczała 1,5 Ma. Po zakończeniu pracy silnika uruchamiano spadochron, który zapewniał łagodne lądowanie RTV-A-4'' umożliwiające odzyskanie aparatury pomiarowej.
+
+W 1951 roku zmieniono nazewnictwo pocisków i zgodnie z nową nomenklaturą RTV-A-4'' oznaczono jako X-9'''. Program lotów testowych kontynuowano do stycznia 1953 roku. Po zakończeniu badań rozważano uruchomienie produkcji seryjnej rakiet Shrike jako pocisków bojowych, które miały być wprowadzone na uzbrojenie tymczasowo, do momentu zakończenia prac nad większym B-63/GAM-63 Rascal. Zrezygnowano jednak z tego rozwiązania ze względu na zbyt małą ładowność X-9''. Łącznie wyprodukowano 31 pocisków RTV-A-4/X-9''.
+
+Żaden z pocisków nie zachował się w całości. Jedynymi ocalałymi elementami X-9'' są fragmenty statecznika pionowego.
+
+
+
+
+

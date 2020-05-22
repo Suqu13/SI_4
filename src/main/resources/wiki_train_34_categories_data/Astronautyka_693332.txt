@@ -1,0 +1,15 @@
+Transit 4A – amerykański technologiczny satelita wojskowy, który testował system nawigacji dla okrętów podwodnych US Navy przenoszących pociski balistyczne typu UGM-27 Polaris. Na pokładzie umieszczono pierwszy, eksperymentalny radioizotopowy generator termoelektryczny, SNAP-3A, w ramach testów nowych źródeł energii. Wraz ze statkiem wyniesiono również satelity Solrad 3 i Injun 1. 
+
+Misję finansowało Navy Research Laboratory (NRL) z ramienia US Navy. Statek zbudowało NRL i Johns Hopkins University.
+
+Satelita pozostaje na orbicie okołoziemskiej, której żywotność szacuje się na 600 lat.
+
+
+
+Budowa i działanie
+Statek miał kształt cylindryczny. Ścianę boczną stanowił dwudziestodwuścian. Prawie całą powierzchnię pokrywały ogniwa słoneczne ładujące akumulatory NiCd. Statek posiadał system zmniejszający prędkość obrotową (do 10 obr./min.) - wypuszczał dwa ciężarki umieszczone na długim drucie, które po zmniejszeniu ruchu wirowego, były odrzucane. Posiadał pamięć stałą. Dane mógł przesyłać również w czasie rzeczywistym.
+
+SNAP-3A
+SNAP-3A (ang. Systems for Nuclear Auxiliary Power - system dodatkowego zasilania jadrowego) to pierwszy przetestowany w kosmosie, prototypowy radioizotopowy generator termoelektryczny; ważył 2 kg i wytwarzał 2,7 W energii elektrycznej bezpośrednio z rozpadu promieniotwórczego 238Pu.
+
+Bibliografia

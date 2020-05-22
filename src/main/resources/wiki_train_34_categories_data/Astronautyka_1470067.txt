@@ -1,0 +1,6 @@
+Silnik plazmowy - zwany także magneto-plazmowym, silnik odrzutowy, w którym substancją roboczą jest plazma o wysokim stopniu jonizacji. W silniku plazmowym stosowane jest elektromagnetyczne przyspieszanie plazmy, co umożliwia uzyskanie znacznie większej siły ciągu niż w wypadku silników konwencjonalnych przy takim samym zużyciu paliwa. Źródłem energii, potrzebnej do wytworzenia i ogrzania plazmy, mogą być reakcje jądrowe zachodzące w reaktorze lub elektryczne źródła energii. Ogrzana plazma zostaje przyspieszona i wyrzucona przez specjalną dyszę. Silniki mają być wykorzystywane w rakietach i promach kosmicznych. Obecnie trwają testy, pierwszy lot z użyciem tego silnika miał się odbyć w 2011 roku z Międzynarodowej Stacji Kosmicznej. Mają pozwolić na uzyskiwanie prędkości kilkuset tysięcy km/h, dzięki czemu lot na Marsa trwał będzie tylko 39 dni. 
+
+Zobacz też
+VASIMR - Silnik plazmowy o zmiennym impulsie właściwym
+
+

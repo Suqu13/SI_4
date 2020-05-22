@@ -1,0 +1,13 @@
+Anton - superkomputer zbudowany w D. E. Shaw Research w 2008 roku do symulacji dynamiki białek i innych makromolekuł. Potrafi wiernie symulować układy 100 tys. atomów z wydajnością 5,5 mikrosekundy/dobę.
+
+Jego nazwa honoruje holenderskiego przyrodnika Antonie van Leeuwenhoek, który jako pierwszy zaobserwował bakterie pod mikroskopem.
+
+Budowa
+Anton jest zbudowany z 512 wielordzeniowych procesorów ASIC, połączonych w sieć o topologii trójwymiarowego torusa. Każdy procesor posiada własną pamięć DRAM i komunikuje się ze swoimi 6 sąsiadami przez łącza o przepustowości 600Gbit/s i opóźnieniu 50ns.
+
+Każdy z 512 procesorów zawiera dwa podsystemy. Główny podsystem HTIS służy do symulacji oddziaływań elektrostatycznych i van der Waalsa. Składa się z 32 rdzeni połączonych w tablicę systoliczną. Pozostałe obliczenia, w tym wyliczanie sił wiązań chemicznych i wykonywanie FFT do oddziaływań dalekiego zasięgu, są wykonywane przez elastyczny podsystem, zawierający cztery uniwersalne rdzenie Tensilica (wyposażone w pamięć cache) i osiem programowalnych rdzeni SIMD.
+
+
+
+Linki zewnętrzne
+Artykuł na stronach Kopalni Wiedzy.

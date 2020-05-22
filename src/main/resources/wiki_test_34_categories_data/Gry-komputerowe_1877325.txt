@@ -1,0 +1,11 @@
+MiNT ("MiNT is Now TOS") – darmowy alternatywny system operacyjny dla Atari ST i jego następców. Razem z innymi darmowymi komponentami jak fVDI (sterowniki urządzeń), XaAES (widżet GUI) i TeraDesk (menedżer plików), MiNT tworzy darmowy zamiennik systemu operacyjnego TOS z pełną wielozadaniowością.
+
+Pierwotnie MiNT został wydany przez Erica Smitha jako "MiNT is Not TOS" (gra słowna od "GNU's Not Unix"). Atari zaadoptowało MiNT jako oficjalne alternatywne jądro wraz z wydaniem Atari Falcon, zmieniając znaczenie akronimu MiNT w "MiNT is Now TOS". Atari dostarczało MiNT z AES-em w wersji 4.0 (wersja wielozadaniowa GEM-u) pod nazwą MultiTOS. Po odejściu z rynku komputerowego, rozwój MiNT-a był kontynuowany przez wolontariuszy. Aktualnie oficjalna nazwa została zmieniona i system nosi nazwę "FreeMiNT", stało się to na prośbę Erica Smitha. Powodem tego była potrzeba odróżnienia wersji systemu dostarczanego przez Atari.
+
+Zobacz też
+SpareMiNT
+MagiC
+Atari TOS
+EmuTOS
+
+Linki zewnętrzne

@@ -1,0 +1,28 @@
+Nokia Lumia 1520''' - fablet z serii Lumia produkowany przez fińską firmę Nokia, zaprezentowany w październiku 2013 roku podczas Nokia World w Abu Zabi. Działa pod kontrolą systemu operacyjnego Windows Phone 8..
+
+Specyfikacja
+Aparat
+W Lumii 1520 zastosowano optykę ZEISSA z matrycą 1/2,5 cala o rozmiarze 20 megapikseli, przesłonie f/2.4 wspomaganą przez autofocus, podwójną diodę LED, technologię PureView oraz optyczną stabilizację obrazu. Aparat jest sterowany dwustopniowym spustem migawki, dysponuje również 2 krotnym bezstratnym zbliżeniem cyfrowym. Rozdzielczość wykonanych zdjęć to 4992 na 3744 pikseli. Filmy nagrywane tym telefonem mają jakość 1080p (Full HD).
+
+Wygląd
+Telefon wykonano z poliwęglanu, a także hartowanego szkła (Gorilla Glass 2) pod którym znajduje się ekran. Głośnik słuchawkowy, czujnik zbliżeniowy, czujnik oświetlenia zewnętrznego, kamerę umieszczono nad wyświetlaczem. Pod nim znajdują się trzy pojemnościowe przyciski charakterystyczne dla systemu Windows Phone, czyli wstecz, start i szukaj oraz główny mikrofon. Na lewym boku usytuowano sloty na kartę micro SD oraz nano SIM, a z prawej strony klawisz służący do regulacji głośności, przycisk blokady ekranu (włącznik) oraz dwustopniowy spust migawki. Na dole obudowy umieszczono port micro USB. Gniazdo mini jack ulokowano na górnej krawędzi. Z tyłu telefonu zainstalowano aparat cyfrowy, diodę LED, mikrofon, głośnik oraz styki kontaktowe.
+
+Podzespoły
+Urządzenie napędza czterordzeniowy Quallcomm Snapdragon 800 taktowany zegarem o częstotliwości 2,2 GHz. Procesor jest wspomagany 2 GB pamięci operacyjnej (RAM). Pamięć dostępna dla użytkownika to około 32 GB oraz bezpłatne 7GB pamięci w chmurze. Możliwe jest jej rozszerzenie przez kartę micro SD o pojemności do 64 GB. Ekran zastosowany w tym telefonie ma przekątną 6 cali. Został wykonany w technologii IPS LCD z wykorzystaniem autorskich funkcji SuperSensitive i ClearBlack..  Jego rozdzielczość to 1920 na 1080 pikseli. Smartfon wyposażono w moduły Bluetooth i WiFi. Obsługuje również łączność LTE. Zastosowana bateria litowo-jonowa ma pojemność 3400 mAh. Możliwe jest jej bezprzewodowe ładowanie przez użycie odpowiedniej ładowarki (Qi)..
+
+Oprogramowanie
+Nokia Lumia 1520 pracuje pod kontrolą systemu Microsoft Windows Phone 8 z dodatkiem Lumia Black. Preinstalowane są programy takie jak: Kalkulator, Zegar, Kalendarz, Budzik, Przypomnienia, Spis telefonów, Zadania, Pokój rodzinny, Kącik dziecięcy, OneNote, Sieci społecznościowe w książce telefonicznej, Portfel. Dodatkowo smartfon wyposażono w podstawowe oprogramowanie biurowe - Excel, Word, PowerPoint i Lync oraz nawigację HERE Maps oraz inne aplikacje wykorzystujące połączenie GPS i rozszerzoną rzeczywistość np. Nokia Miasto w Obiektywie. Dodatek Lumia Black umożliwia korzystanie z kliku autorskich rozwiązań Nokii - Glance, Camera, Storyteller czy Beamer. Użytkownik może dodatkowo pobierać aplikacje i gry ze sklepu Windows Phone Store. Aktualizacje systemu możliwe są bezprzewodowo w trybie OTA (Over the Air)
+
+Zobacz też
+Microsoft
+Nokia Lumia 920
+Nokia Lumia 1020
+Nokia Lumia 1320
+
+
+
+
+
+
+
+

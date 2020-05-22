@@ -1,0 +1,44 @@
+Azotowanie – obróbka cieplno-chemiczna stopów żelaza polegająca na dyfuzyjnym nasyceniu powierzchni metalu azotem. W efekcie azotowania tworzy się warstwa wierzchnia, której struktura i skład fazowy zależy od temperatury, czasu, składu chemicznego przedmiotu i atmosfery. Azotowaniu poddaje się materiały o specjalnie dobranym składzie chemicznym. W przypadku stali, są to stale do azotowania. Zawierają dodatek pierwiastków azotkotwórczych Cr, V lub Mo. Azotowanie stosuję się w celu podwyższenia właściwości tribologicznych lub odporności na korozję.
+
+Utworzona warstwa wierzchnia może poprawić następujące właściwości:
+odporności na zużycie ścierne
+twardość
+odporność zmęczeniową
+odporności na korozję
+
+W przeciwieństwie do nawęglania, przy azotowaniu strefa powierzchniowa utwardza się bez dodatkowej obróbki cieplnej. Azotowaniu poddaje się stale uprzednio ulepszone cieplnie, gdzie temperatura odpuszczania powinna być nieznacznie wyższa niż temperatura samego azotowania.
+
+Strukturę fazową azotowanej warstwy wierzchniej można odczytać z układu równowagi fazowej żelazo-azot. Fazami tworzącymi się w procesie azotowania są:
+ferryt azotowy
+austenit azotowy
+azotki γ (Fe4N)
+azotki ε (Fe2N)
+
+Azotowanie gazowe
+Do azotowania używa się stali węglowej, niskostopowej i stopowej. Jako medium w procesie tym stosuje się środowisko gazowe z wykorzystaniem amoniaku. Sama operacja bazuje na zapewnieniu w trakcie procesu odpowiedniej termodynamicznej aktywności atmosfery azotującej, określanej umownie poprzez wartość potencjału azotowego.
+W czasie tego typu obróbki zachodzą trzy podstawowe procesy:
+dysocjacja amoniaku – polegająca na rozkładzie cząsteczek podgrzanego do temperatury 500 °C gazu i wydzielenia aktywnych atomów pierwiastka dyfundującego – azotu, wg równania: 2NH3 ⇌ N2 + 3H2,
+absorpcja – polegająca na wchłanianiu (rozpuszczaniu) w metalu powstałego azotu, który następnie reaguje z żelazem, tworząc azotek,
+dyfuzja – polegająca na przemieszczaniu się obcych atomów w sieci przestrzennej obrabianego metalu.
+
+Po azotowaniu, azotki metali, głównie żelaza, a także innych metali stopu, w szczególności aluminium i chromu, tworzą cienką, nie przekraczającą 0,6 mm, oraz bardzo twardą i odporną na ścieranie, warstwę na powierzchni stali. Azotowanie jest procesem długotrwałym; trwa od 10 do 100 godzin. Twardość powierzchni azotowanej dochodzi do 1100 HV i zachowana jest w podwyższonych temperaturach dochodzących do 550 °C.
+
+Inne technologie azotowania
+Azotowanie gazowe jest najszerzej stosowaną metodą azotowania. Wśród innych metod wyróżnić można:
+azotowanie plazmowe (jarzeniowe)
+azotowanie w złożach fluidalnych
+azotowanie w proszkach
+azotowanie jonowe (ang. Plasma Diffusion Treatmeant) umożliwia nasycenie metali np. stopów żelaza azotem w temperaturach 300–600 °C i czasie 0,5–30 godzin. Umożliwia ono także wytworzenie jednofazowej struktury dyfuzyjnej lub złożonej kombinacji strefy dyfuzyjnej z azotku gamma (Fe4N) i epsilon (Fe2N). Proces azotowania jonowego przeprowadza się w specjalnym urządzeniu wyposażonym w komorę roboczą, w której przy napięciu 400–1000 V (prąd stały) i ciśnieniu (0,1–10)×133,3 Pa wprowadzona się do komory mieszaninę: azotu z wodoru, czysty azot lub amoniak. W trakcie wyładowania jarzeniowego gazy ulega dysocjacji, wzbudzeniu i jonizacji. Największa koncentracja jonów występuję tuż przy powierzchni detalu. Przedmiot stanowi katodę, natomiast obudowa komory roboczej anodę. Niejednorodny rozkład pola elektrycznego w komorze pieca prowadzi do powstawania stref o szczególnej intensywności procesów rekombinacji promienistej, tzw. poświaty katodowej. Przy powierzchni katody występuję obszar spadku katodowego, w którym jony ulegają największemu przyśpieszeniu. Rozpędzone jony ulegają płytkiej implantacji, ok. 0,5 nm. W efekcie zderzeń jonów z powierzchnią dochodzi do nagrzewania się obrabianego elementu. Sprzyja to dyfuzji azotu w głąb metalu. Jony o wysokiej energii kinetycznej mogą spowodować rozpylenie powierzchni, polegające na wybijaniu atomów bombardowanego metalu. Efekt ten jest wykorzystywany do oczyszczenia i uaktywnienia powierzchni przed procesem azotowania. Warstwy składające się z fazy gamma uzyskuje się w atmosferach nie zawierających związków węgla, a grubość ich jest mała, do 0,008 mm. Twardość warstw złożonych z azotku gamma waha się w granicach 1200–400 HV. Warstwy typu epsilon wytwarza się przez dodatek do atmosfery ok. 0,5% atomowych węgla. Przeważnie twardość ich wynosi 1300–1500 HV, przy niewielkiej kruchości. Azotowanie jonowe pozwala na uzyskanie równomiernej grubości warstwy. Istnieją trudności w obrabianiu detali o skomplikowanym kształcie, ponieważ krawędzie zaburzają rozkład pola elektrycznego wokół elementu, przez co warunki azotowania ulegają zmianie. Zapobiega się temu przez stosowanie specjalnych ekranów.
+
+Zobacz też
+nawęglanie
+węgloazotowanie
+azotowanie a nawęglanie
+
+Bibliografia
+Metaloznawstwo, Karol Przybyłowicz, WNT, Warszawa 1992, 2003, ISBN 83-204-2822-X.
+
+
+
+
+

@@ -1,0 +1,32 @@
+Galinstan – niskotopliwy stop eutektyczny galu, indu i cyny płynny w temperaturze pokojowej, zestala się w temperaturze około −20&nbsp;°C. Dzięki temu że jest nietoksyczny, znajduje zastosowanie zamiast rtęci lub stopu sodowo-potasowego (NaK). Nazwa pochodzi z sylab łacińskich nazw metali składowych: galium, indium, stannum.
+
+Skład chemiczny
+68,5% – gal
+21,5% – ind
+10% – cyna
+
+Właściwości fizyczne
+
+
+
+Temperatura wrzenia: > 1300&nbsp;°C
+Temperatura topnienia: −19&nbsp;°C
+Prężność pary nasyconej: −8&nbsp;Tr (w temp. 500&nbsp;°C)
+Rozpuszczalność: nie rozpuszcza się w wodzie i rozpuszczalnikach organicznych
+Lepkość: 0,0024&nbsp;Pa·s (w temp. 20&nbsp;°C)
+Gęstość: 6,44&nbsp;g/cm³
+Przewodność cieplna: 6,5&nbsp;W/m·K
+Rezystywność: 3.46x106 S/m (w temp. 20&nbsp;°C)
+
+Galinstan w przeciwieństwie do rtęci zwilża skórę i szkło i jest od niej lżejszy, dlatego też nie zawsze może być użyty jako jej zamiennik. Komercyjnie wykorzystuje się go w termometrach, ale by mógł właściwie spełniać swoją rolę, wewnętrzną warstwę szklanej rurki pokrywa się tlenkiem galu. Ponadto nie nadaje się do użycia jako chłodziwo reaktora atomowego z powodu pochłaniania przez ind neutronów termicznych.
+
+Zastosowania
+lustra teleskopów astronomicznych
+termometry
+chłodziwo w układach chłodzenia cieczą w komputerach
+
+
+
+
+
+

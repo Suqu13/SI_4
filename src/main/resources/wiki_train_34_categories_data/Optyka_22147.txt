@@ -1,0 +1,115 @@
+Współczynnik załamania ośrodka jest miarą zmiany prędkości rozchodzenia się fali w danym ośrodku w stosunku do prędkości w innym ośrodku (pewnym ośrodku odniesienia). Dokładniej jest on równy stosunkowi prędkości fazowej fali w ośrodku odniesienia do prędkości fazowej fali w danym ośrodku
+gdzie
+– prędkość fali w ośrodku, w którym fala rozchodzi się na początku,
+– prędkość fali w ośrodku, w którym rozchodzi się po załamaniu.
+Współczynnik załamania, jak sugeruje nazwa, istotny jest w zjawisku załamania, gdy fala rozchodząca się w ośrodku odniesienia pada na granicę z danym ośrodkiem i dalej rozchodzi się w tym ośrodku. Współczynnik ten wiąże się bezpośrednio z kątem padania i kątem załamania. Związek ten wyraża prawo Snelliusa
+gdzie
+α – kąt padania promienia fali na granicę ośrodków (kąt między kierunkiem promienia a normalną do powierzchni granicznej ośrodków),
+β – kąt załamania (kąt między kierunkiem promienia załamanego w danym ośrodku a normalną do powierzchni).
+Wzór wynikający z prawa Snelliusa jest wykorzystywany do doświadczalnego wyznaczania współczynnika załamania.
+
+Współczynnik załamania pośrednio ma wpływ na inne zjawiska na granicy dwóch ośrodków. Zależy od niego np. współczynnik odbicia.
+
+Współczynnik załamania można określać dla dowolnej fali, najczęściej jednak jest stosowany do światła i fal dźwiękowych.
+
+Współczynnik załamania światła
+Rozdział ten dotyczy nie tylko światła widzialnego, ale również innych fal elektromagnetycznych.
+
+Bezwzględny współczynnik załamania światła
+Ośrodkiem odniesienia przy określaniu współczynnika załamania światła jest próżnia. Gdy mowa jest o współczynniku załamania światła, chodzi o współczynnik załamania względem próżni (nazywany czasem bezwzględnym współczynnikiem załamania światła):
+gdzie
+c – prędkość światła w próżni (wynosi około 3×108 m/s),
+v – prędkość światła w danym ośrodku.
+
+W praktyce często ma miejsce sytuacja, gdy światło biegnące w powietrzu załamuje się w innym ośrodku przezroczystym. Ze względu na to, że prędkość światła w powietrzu jest bliska prędkości światła w próżni, współczynnikiem załamania nazywa się ten współczynnik względem powietrza.
+
+Współczynnik załamania może być wyznaczony bezpośrednio z prędkości fazowej światła w danym ośrodku, co prowadzi do wzoru
+,
+
+gdzie
+εr – względna przenikalność elektryczna ośrodka
+μr – względna przenikalność magnetyczna.
+
+Dla większości materiałów, przy częstościach optycznych, μr jest bliskie 1, więc w przybliżeniu zachodzi:
+.
+
+Zazwyczaj ta liczba jest większa od jedności: im większa wartość, tym mniejszą prędkość fazową osiąga światło w danym ośrodku. Jednakże, dla pewnych częstości (w okolicach rezonansów absorpcyjnych i dla promieniowania X lub tzw. metamateriałach n może być mniejsze od jedności. Ma to swoje praktyczne zastosowanie w soczewkach złożonych (dla promieni X), płaskich soczewkach etc.). Współczynnik załamania mniejszy od 1 oznacza prędkość większą od prędkości światła w próżni. Nie przeczy to teorii względności, która mówi, że prędkość przenoszenia informacji nie może być większa niż c, bowiem współczynnik załamania określa jedynie prędkość fazową.
+
+Prędkość fazowa jest definiowana jako prędkość, z jaką porusza się miejsce fali o danej fazie fali. Prędkość grupowa jest prędkością, z jaką porusza się obwiednia fali, czyli jest to prędkość, z jaką porusza się zmiana amplitudy fali. Jeśli fala nie jest zbyt zaburzona w trakcie swojego ruchu, można przyjąć, że prędkość grupowa jest prędkością przenoszenia energii, a co za tym idzie, informacji. Jednak dla silnej dyspersji również prędkość grupowa może być większa od prędkości światła w próżni i to również jest zgodne z teorią względności.
+
+Czasem można spotkać "grupowy współczynnik załamania" lub "współczynnik grupowy" definiowany jako
+gdzie
+vg – prędkość grupowa.
+
+Współczynnik grupowy można zapisać, korzystając z zależności współczynnika załamania od długości fali jako
+gdzie
+– długość fali w próżni.
+
+W mikroskali zmniejszanie prędkości fazowej można tłumaczyć zaburzaniem rozkładu ładunków każdego atomu przez pole elektryczne fali elektromagnetycznej. W pierwszym przybliżeniu zaburzenie to jest proporcjonalne do przenikalności elektrycznej. Ładunki (elektrony) zostaną zatem wprawione w drgania. Drgania te są opóźnione względem fazy fali, która te drgania wywołała. Drgające ładunki emitują własną falę elektromagnetyczną o tej samej długości co fala przechodząca, jednak nieco opóźnioną w fazie. Makroskopowa suma wszystkich wkładów od wszystkich ładunków w materiale to fala o tej samej częstości co fala padająca, jednak o mniejszej długości, co prowadzi do zmniejszenia prędkości fazowej fali.
+
+
+
+Względny współczynnik załamania
+Względny współczynnik załamania światła ośrodka 1 względem ośrodka 2 jest opisywany wzorem
+gdzie
+– prędkość światła w ośrodku 1,
+– prędkość światła w ośrodku 2.
+Jeżeli znane są bezwzględne współczynniki załamania obu ośrodków, współczynnik załamania ośrodka 1 względem ośrodka 2 można wyznaczyć ze wzoru
+Ujemny współczynnik załamania
+Ostatnie badania pokazały, że istnieje ujemny współczynnik załamania, który występuje tylko, jeśli części rzeczywiste  i  są jednocześnie ujemne, co jest warunkiem koniecznym, ale nie wystarczającym. Zjawisko takie w naturze nie występuje, ale można je wywołać w tzw. metamateriałach, dzięki którym można skonstruować idealne soczewki, a także w których występują "egzotyczne" zjawiska jak np. odwrócenie prawa Snella.
+
+Dyspersja i absorpcja
+W rzeczywistych ośrodkach polaryzacja elektrostatyczna nie zawsze nadąża za zmianami zewnętrznego pola. W związku z tym występują w nich straty dielektryczne, które można opisać za pomocą zespolonej przenikalności elektrycznej zależnej od częstotliwości. Rzeczywiste ośrodki nie są również idealnymi izolatorami (mają niezerową przewodność). Obie te cechy można uwzględnić wprowadzając zespolony współczynnik złamania:
+gdzie:
+n – współczynnik załamania określający prędkość fazową,
+κ – współczynnik ekstynkcji określający absorpcję dla światła przenikającego materiał. Obie części są zależne od częstotliwości fali.
+
+Zależność n (czyli prędkości fazowej) od częstości (długości) fali nazywana jest dyspersją. Dyspersja jest przyczyną dla której pryzmat rozszczepia światło, powstaje tęcza, ma miejsce aberracja chromatyczna w przyrządach optycznych. W zakresach częstotliwości, gdzie dana substancja nie absorbuje promieniowania, współczynnik załamania zazwyczaj wzrasta z częstością fali (dyspersja normalna). W okolicach pików absorpcyjnych zachowaniem współczynnika załamania rządzi relacja Kramersa-Kroniga, a współczynnik może maleć ze wzrostem częstości (dyspersja anomalna).
+
+Jako, że współczynnik załamania zależy od długości fali, przyjęte jest podawanie, dla jakiej długości fali dany współczynnik został zmierzony. Zazwyczaj podaje się go dla różnych dobrze określonych linii widmowych, np. nD jest współczynnikiem zmierzonym dla linii Fraunhofera "D" – środkiem pomiędzy żółtymi liniami widma sodu. Długość tej fali wynosi 589,29 nm.
+
+Równanie Semelliera jest doświadczanym prawem dobrze opisującym dyspersję, a współczynniki Semelliera są często podawane w tablicach zamiast współczynnika załamania.
+
+Jak wspomniano wyżej, niezerowa przewodność materiału jest przyczyną absorpcji. Dobre dielektryki (jak np. szkła) mają bardzo niską przewodność dla niskich częstości drgań pola elektrycznego, jednak przy częstościach optycznych (rzędu setek THz) jej wartość możne znacznie wzrosnąć, co wpływa na zmniejszenie przezroczystości dla tych długości fali. Innymi słowy, ciała przezroczyste dla jednych długości fal, mogą być zupełnie nieprzezroczyste dla innych długości fal. Np. dla głębokiej podczerwieni stosuje się przyrządy optyczne wykonane z germanu, całkowicie nieprzezroczyste dla światła widzialnego.
+
+Część rzeczywista i urojona współczynnika złamania są powiązane relacjami Kramersa-Kroniga. Dzięki temu, znając widmo absorpcyjne materiału można określić zespolony współczynnik załamania.
+
+Anizotropia
+
+Współczynnik załamania niektórych ośrodków może być różny w zależności od polaryzacji i kierunku propagacji fali przez ośrodek. To zjawisko nazywa się anizotropią i jest przyczyną dwójłomności kryształów. Szczegółowym opisem zajmuje się optyka kryształów. W najogólniejszym przypadku przenikalność elektryczna jest tensorem II rzędu (macierzą 3 na 3) a zatem i współczynnik załamania ma postać tensora II rzędu. Tensor ten przyjmuje postać diagonalną tylko w układzie głównych osi optycznych kryształu a na przekątnej macierzy znajdują się współczynniki załamania dla światła spolaryzowanego wzdłuż każdej z tych osi.
+
+W materiałach magnetycznych i optycznie aktywnych osie główne są zespolone (tj. odpowiadają polaryzacji eliptycznej), jak również tensor przenikalności elektrycznej jest zespolony hermitowski (dla materiałów bezstratnych). Takie ośrodki łamią symetrię względem czasu a kryształy, w których występuje zjawisko magnetooptyczne, są używane do konstruowania rotatorów Faradaya.
+
+Nieliniowość
+Silne pole elektryczne światła o dużym natężeniu może spowodować zmiany współczynnika załamania ośrodka, w trakcie gdy światło przechodzi przez ośrodek. Zjawiska takie opisuje optyka nieliniowa. Jeśli współczynnik zmienia się proporcjonalnie do kwadratu natężenia pola elektrycznego (liniowo z natężeniem światła), zjawisko takie nazywa się efektem Kerra i jest przyczyną dalszych zjawisk, jak samoogniskowanie i samomodulacja fazy, a jeśli współczynnik zmienia się liniowo z natężeniem pola (ma to miejsce tylko w kryształach, które nie mają środka symetrii), zwany jest efektem Pockelsa.
+
+Niejednorodność
+
+Jeśli współczynnik załamania ośrodka nie jest stały, ale zmienia się w sposób ciągły, mówi się, że ośrodek charakteryzuje się gradientem współczynnika załamania. Światło przechodząc przez taki ośrodek może zmieniać kierunek, "zaginać się" lub skupiać. Ten ostatni efekt jest wykorzystywany do produkcji światłowodów gradientowych oraz soczewek światłowodowych.
+
+Współczynnik załamania powietrza zmienia się wraz z temperaturą i wysokością. Jeśli spowodowana tym niejednorodność jest odpowiednio wysoka, może to powodować wrażenie falowania obrazu widzianego np. nad rozgrzanym asfaltem lub piaskiem (tzw.miraż dolny), a także powstawanie fatamorgany.
+
+Zastosowania
+Współczynnik załamania jest najważniejszym parametrem elementów układu optycznego. Od niego zależy moc optyczna soczewki czy dyspersja pryzmatu.
+
+Ponieważ współczynnik załamania jest jedną z podstawowych własności fizycznych substancji, jest wykorzystywany do identyfikowania substancji, określania jej czystości czy pomiaru jej stężenia. W ten sposób bada się ciała stałe (szkła, kryształy i kamienie szlachetne), gazy i ciecze. Często w oparciu o współczynnik załamania bada się stężenie substancji w roztworach ciekłych. Przyrządem używanym do pomiaru współczynnika załamania jest refraktometr.
+
+Przykłady
+Przykłady współczynników załamania światła o długości 580 nm dla różnych materiałów względem próżni:
+
+
+
+
+
+Linki zewnętrzne
+Zobacz też
+
+prawo Gladstone'a-Dale'a
+całkowite wewnętrzne odbicie
+metamateriał
+dwójłomność
+refrakcja
+droga optyczna
+zasada Fermata
+
+

@@ -1,0 +1,28 @@
+
+
+Żagiel magnetyczny – hipotetyczna metoda napędu statków kosmicznych, która będzie używać statycznego pola magnetycznego do odwrócenia naładowanych cząstek emitowanych przez Słońce jako wiatr plazmowy (słoneczny), a przy tym nadawać impuls do przyspieszania statków kosmicznych. Żagiel magnetyczny mógłby także wykorzystywać magnetosferyczną siłę ciągu planety bądź Słońca. 
+
+Zasady działania i budowa
+Wiatr słoneczny jest nikłym strumieniem cząstek wypływających ze Słońca. W pobliżu orbity Ziemi, zawiera kilka milionów protonów i elektronów na metr sześcienny, osiągającą średnią prędkość od 400 do 600 km/s w pobliżu Ziemi. Magnetyczny żagiel wprowadza pole magnetyczne wewnątrz przepływu plazmy, prostopadle do ruchu naładowanych cząstek, które mogą odwrócić cząstki z ich pierwotnej trajektorii. Pęd cząstki jest następnie przenoszona do żagla, co prowadzi do nacisku na żagiel, wskutek czego satelita zaczyna być wprawiana w ruch. Jedną z zalet magnetycznych czy słonecznych żagli nad napędami chemicznymi jest to, że nie mają one problemu związanego ze zużyciem lub wyczerpaniem paliwa reakcyjnego. 
+
+W typowej konstrukcji żagla magnetycznego, pole magnetyczne generowane jest przez pętlę z nadprzewodzącego drutu. 
+
+Do podróży w wietrze słonecznym w odległości 1 jednostki astronomicznej, natężenie pola wymaga do oparcia się ciśnieniu dynamicznemu wiatru słonecznego wynoszącemu 50 nT. Robert Zubrin zaproponował projekt żagla słonecznego w postaci bańki przestrzennej o średnicy 100 km, gdzie jony wiatru słonecznego byłyby odchylane za pomocą obręczy o promieniu 50 km. Minimalna waga takiej cewki jest ograniczona przez wytrzymałość materiału oszacowaną na około 40 ton, generującą nacisk o sile 70N. Nie zostało wyjaśnione w jaki sposób owa cewka miałaby być chłodzona.
+
+Siła ciągu żagli słonecznych i magnetycznych spada kwadratowo od ich odległości od Słońca. 
+
+Kiedy żagiel magnetyczny odczuwa bliskość planet z silnym polem magnetycznym takich jak Ziemia czy gazowe olbrzymy, może generować większą siłę ciągu przez oddziaływanie z polem magnetycznym danej planety niż dzięki wiatrowi słonecznemu, więc może to być bardziej efektywne i opłacalne rozwiązanie, niż użycie do tego celu konwencjonalnych rozwiązań.
+
+Mini-magnetosferyczny napęd plazmowy
+W celu zmniejszenia rozmiarów i wagi magnesu w żaglu magnetycznym, może okazać się możliwe napompowanie pola magnetycznego za pomocą plazmy w ten sam sposób, jak plazma wokół Ziemi rozciąga się w polu magnetycznym Ziemi w magnetosferze. W tym urządzeniu, zwanym mini-magnetosferycznym napędem plazmowym (mini-magnetospheric plasma propulsion - M2P2), prądy biegną przez plazmę zwiększając i częściowo zastępując prądy w cewce. Ma to być szczególnie przydatne w większych odległościach od Słońca, w których wzrastałaby efektywność żagla M2P2, kompensując zmniejszenie ciśnienia dynamicznego wiatru słonecznego. Oryginalny projekt NASA opracowywany przez zespół Roberta M. Winglee'a z NASA Institute for Advanced Concepts, proponował budowę statku kosmicznego zawierającego elektromagnesy mogące zmieniać swoje pole magnetyczne, do którego wstrzykiwana byłaby plazma. Ciśnienie plazmy rozciągałoby pole magnetyczne i nadmuchiwałoby bańkę plazmy wokół statku kosmicznego. Obecnie plazma w tym przypadku zwiększa i częściowo zastępuje prąd w cewkach. Następnie plazma generowałaby rodzaj miniaturowej magnetosfery wokół statku kosmicznego, podobnej do ziemskiej magnetosfery. Protony i elektrony, które tworzą wiatr słoneczny, odchylane byłyby przez magnetosferę i reakcja ta nadawałaby ciąg statkowi kosmicznemu.
+
+Rozszerzenie pola magnetycznego za pomocą wstrzyknięcia plazmy zostało z powodzeniem przetestowane w dużej komorze próżniowej na Ziemi, ale doświadczenie nie było częścią eksperymentu.
+
+Żagiel magnetyczny w fikcji
+Żagiel magnetyczny po raz pierwszy pojawił się 1967 r. w opowiadaniu science-fiction Poula Andersona To Outlive Eternity, zalążku powieści przezeń napisanej i wydanej w 1970 r. Tau Zero. Motyw pojawia się również w powieściach science-fiction Michaela Flynna, szczególnie w The Wreck of the River of Stars '' (2003). 
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+WB Electronics SOFAR –  bezzałogowy statek powietrzny (UAV - Unmanned Aerial Vehicle) opracowany wspólnie przez izraelską firmę Top I Vision i polską WB Electronics przeznaczony do bliskiego rozpoznania.
+
+Historia
+Aparat powstał jako wspólne przedsięwzięcie obydwu firm. Firma Top I Vision produkuje go pod nazwą Casper 250. Obydwie firmy mają takie same prawa do dokumentacji, praw autorskich i produkcji aparatu.
+Konstrukcja
+Aparat zbudowany jest w całości z kompozytów, napędzany silnikiem elektrycznym. Z uwagi na swoje niewielkie rozmiary start aparatu może odbywać się z ręki, możliwe jest również zastosowanie przenośnej wyrzutni używającej naciąganej gumy. SOFAR może wykonywać swoje misje w pełni autonomicznie przy użyciu autopilota po wczesniejszym zaprogramowaniu trasy jak również może być ręcznie sterowany przez operatora znajdującego się w naziemnej stacji kontroli lotu również operacja lądowania może odbywać się w trybie automatycznym i ręcznym. W skład wyposażenia rozpoznawczego wchodzą wymienne głowice obserwacyjne zapewniające aparatowi możliwość operowania zarówno w dzień i w nocy. Głowica z kamerą światła dziennego 3CCD o rozdzielczości 600 tys. pikseli, optycznym zoomem x 15, kamera na podczerwień o rozdzielczości obrazu 324 x 256 pikseli i cyfrowym zoomem x 2 lub cyfrowy aparat fotograficzny o rozdzielczości od 3 do 5 mln pikseli. 
+
+
+Bibliografia
+Linki zewnętrzne

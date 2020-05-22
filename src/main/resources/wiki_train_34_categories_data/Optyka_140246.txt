@@ -1,0 +1,74 @@
+SPM (ang. Scanning Probe Microscope – mikroskop ze skanującą sondą) to ogólna nazwa całej rodziny mikroskopów, których zasada działania polega na:
+skanowaniu, czyli przemiataniu pola widzenia mikroskopu liniami, każda linia jest następnie mierzona punkt po punkcie – obraz tworzony na podstawie tych pojedynczych punktów pomiarowych
+wybór punktu pomiarowego następuje poprzez poruszanie nad próbką sondy (próbnika) – zasadniczy pomiar określonej właściwości badanej próbki jest dokonywany za pomocą tej sondy.
+
+Skanowanie z reguły realizowane jest za pomocą tzw. skanera lub skanerów piezoelektrycznych skonstruowanych najczęściej w ten sposób, że próbka może poruszać się względem głowicy mikroskopu z sondą (lub głowica względem próbki) w 3 wymiarach. Poruszanie poziome zapewnia wybór kolejnych linii obrazu (współrzędna y) oraz skanowanie linii (kolejne punkty – współrzędna x). Skaner pionowy – z reguły o większej rozdzielczości – zapewnia uzyskiwanie zmiany pionowego położenia sondy względem próbki (współrzędna z).
+
+Odmiany SPM
+W zależności od:
+sposobu realizacji pomiaru,
+rodzaju mierzonej właściwości,
+środowiska pomiaru,
+wyróżnia się szereg odmian SPM (brakuje literatury polskiej stąd są częste problemy z terminologią):
+Skaningowy mikroskop tunelowy ('''', STM, historycznie pierwszy SPM) – pomiar przepływu prądu elektrycznego pomiędzy metalową sondą a przewodzącą próbką; zasadniczo pomiar odbywa się w próżni
+Mikroskop sił atomowych, skaningowy mikroskop atomowy ('''', AFM) – pomiar odchylenia miniaturowej "dźwigienki"-ramienia (ang. ) z umocowaną sondą (ang. , odbicie promienia lasera od końcówki sondy – wykrywany ruch góra-dół) w wyniku kontaktu z powierzchnią lub oddziaływania van der Waalsa itp.; wersja podstawowa nazywana jest TAFM (topograficzny AFM); pomiar odbywa się na wolnym powietrzu (może być próżnia), można wykonywać pomiary w roztworach lub środowisku agresywnych gazów, także w podwyższonych temperaturach, również w trakcie przebiegających reakcji chemicznych
+Mikroskop sił bocznych (, LFM) – reaguje na siły van der Waalsa itp. ale także na lepkość powierzchni (czteropolowy czujnik światła lasera – ruch góra-dół i prawo-lewo)
+Mikroskop siły tarcia (, FFM) – zbliżony do LFM
+Skaningowy mikroskop fazowy (, PDM, pozwala odróżniać powierzchnie elastyczne i nieelastyczne poprzez wykrywanie przesunięcia fazowego pomiędzy impulsem wymuszającym a odpowiedzią układu)
+(, FFM, podobnie jak PDM)
+Mikroskop siły elektrostatycznej () – pomiar ładunku/potencjału powierzchni próbki (np. badanie układów scalonych w trakcie ich działania)
+Mikroskop sił magnetycznych (, MFM) – wykrywanie domen magnetycznych i ich namagnesowania (np. badanie powierzchni dysków komputerowych)
+Skaningowy mikroskop termiczny (, TSM, określa temperaturę i przewodnosc cieplną próbki dzięki użyciu ramienia sondy zbudowanego z dwu warstw różniących się rozszerzalnością cieplną – na tej samej zasadzie co bimetal w żelazku)
+Skaningowy mikroskop pojemnościowy (, CSM, określa pojemność elektryczną układu próbka-próbnik – stąd można wyznaczyć przenikalność elektryczną próbki)
+Środowiskowy AFM (, praca w cieczy – ang. Liquid Cell AFM, LC AFM – lub kontrolowanej atmosferze i temperaturze – nawet do kilkuset °C)
+Elektrochemiczny AFM (Skaningowy Mikroskop Elektrochemiczny, , ECAFM, równolegle z pomiarem AFM w cieczy można wykonywać pomiar potencjału elektrycznego, pH itp.)
+Mikroskop optyczny bliskiego pola (, NSOM lub , SNOM) – pomiar intensywności światła przechodzącego przez próbkę lub odbitego od niej – źródłem światła jest odpowiednio uformowany tzw. lejek świetlny (ang. light funnel), czyli próbnik pełniący rolę światłowodu – dzięki odpowiedniej budowie uzyskuje się ok. 10-krotne zwiększenie rozdzielczości w porównaniu z możliwą do uzyskania w klasycznych mikroskopach optycznych (zamiast 500 nm rzędu 50 nm) – funkcję skanowania obrazu (x-y-z) wykonuje standardowy układ sterowania mikroskopu AFM. Zaletą takiego mikroskopu jest uzyskiwanie takich samych obrazów kolorowych jak to jest w przypadku mikroskopu optycznego, ale o większej rozdzielczości – w przypadku innych rodzajów mikroskopów SPM, a także mikroskopów elektronowych SEM () i TEM (), barwy są czysto umowne.
+
+Tryby działania SPM
+Mikroskopy SPM działają w kilku podstawowych trybach:
+tryb stałej siły (ang. Constant Force Mode, lub stałego sygnału dowolnego typu) – układ ujemnego sprzężenia zwrotnego wbudowany w urządzenie sterujące (ang. controller) zapewnia bardzo dużą szybkość działania bez dodatkowej ingerencji sterującego pomiarem komputera i oprogramowania – informacja uzyskana układu sterowania pozwala na zrekonstruowanie obrazu
+tryb stałej wysokości (ang. Constant Height Mode) – pomiar dokonywany jest przez skanowanie bez zmiany wysokości, a obraz jest konstruowany dzięki interpretacji zmiennego sygnału
+tryb kontaktowy (ang. Contact Mode, np. CM AFM, z wyjątkiem mikroskopu STM i innych gdzie pomiar jest wykonywany przez pomiar prądu lub potencjału elektrycznego) – sonda jest prowadzona przy dużym nacisku na próbkę – tylko dla twardych powierzchni, może być niszczący
+tryb bez kontaktu (ang. Non-Contact Mode, np. NC AFM) nadaje się do dowolnych próbek
+tryb z przerywanym kontaktem (ang. Intermittent Contact Mode, np. IC AFM; Tapping Mode, TM AFM) – próbnik w każdym punkcie obrazu jest najpierw odsuwany daleko od próbki a następnie zbliżany – wymaga długich i ostrych próbników, może być stosowany do powierzchni o bardzo zróżnicowanej topografii i dużych różnicach wysokości pomiędzy sąsiednimi punktami próbki.
+tryb pomiaru krzywej siła-odległość (ang. Force-Curve Mode) – zamiast pomiaru obrazu wykonuje się badanie zależności siły (w AFM; innego sygnału w innych wersjach) od odległości próbnika od próbki – wykorzystuje się to w celu badania fizykochemicznych właściwości próbek lub określonych układów.
+tzw. Spektroskopia Skaningowa (tunelowa, atomowa itd.) – zamiast pojedynczej (lub kilku) wartości mierzonej w każdym punkcie próbki, mierzy się całą serię wartości (z reguły kilkadziesiąt) w pewnym zakresie odległości od próbki (jak powyżej w trybie pomiaru krzywej siła-odległość). Najczęściej pomiary można wykonywać na standardowych mikroskopach, wymagane jest jednak odpowiednie oprogramowanie sterujące i analizujące obraz
+
+Mikroskopy AFM wykorzystuje się również często do badań in-situ (łac.) – np. do bezpośredniej obserwacji procesu formowania cząstek koloidalnych w roztworze.
+
+Analiza obrazu SPM
+Czynniki wpływające na tworzenie obrazu
+Podstawową rzeczą przy stosowaniu mikroskopów SPM jest interpretacja danych otrzymywanych bezpośrednio z aparatury – należy pamiętać o tym, że bezpośrednio zbierane dane nie mają charakteru współrzędnych (x, y, z) punktów obrazu – nawet w przypadku położenia poziomego (x, y). Jest wiele czynników, które wpływają na obserwowane wartości, spośród których najważniejsze to:
+skończony rozmiar poprzeczny próbników SPM (w dodatku rosnący wraz z odległością do próbki) oraz możliwość "sondowania" jedynie pod pewnymi określonymi kątami – nie można "zaglądnąć" we wszystkie miejsca próbki: wąskie szczeliny, obszary pomiędzy blisko położonymi obszarami o znacznej wysokości względem płaszczyzny próbki a szczególnie np. "pod" lub "między" cząstki umieszczone na powierzchni – można obserwować jedynie ich górne części.
+niedoskonałość budowy i kształtu próbnika (sondy) SPM – niezgodność kształtu z założeniami nowego próbnika (inny kształt geometryczny, czasami kilka wierzchołków zamiast jednego) a także jego zużywanie się (erozja, odłamywanie) i kontaminacja (zanieczyszczanie) w trakcie pracy mikroskopu
+w przypadku próbek o dużych różnicach wysokości pomiędzy bliskimi punktami próbek (ang. ): ze względu na zasięg sił stosowanych w pomiarach sąsiednie punkty próbki często wpływają na obraz silniej niż miejsce nad którym próbnik się znajduje
+w przypadku pomiarów, które nie są prowadzone w wysokiej próżni (ang. ), obecność pary wodnej powoduje formowanie menisku wody, którym może silnie wpływać na wynik pomiaru
+nieliniowość i histereza skanerów piezoelektrycznych (pozycjonowanie próbka-próbnik)
+szumy oraz zewnętrzne drgania
+
+Artefakty
+Te wszystkie czynniki wpływają na to, że na obrazach SPM pojawiają się tzw. artefakty () czyli obiekty, które w rzeczywistości nie istnieją, fragmenty obrazu które "wyglądają" (niekoniecznie w sensie optycznym!) w rzeczywistości inaczej.
+
+Najłatwiejsze do zaobserwowania artefakty to np. sferyczne cząstki koloidalne osadzone na gładkim podłożu (np. mice) wyglądające jak zaokrąglone i pochylone piramidki. Kształt tych "piramidek" jest wynikiem połączenia w obrazie cech powierzchni (kulista górna część cząstek koloidu "unosząca się" nad płaską powierzchnią podłoża) oraz cech próbnika (typowo: odwrócona piramida z zaokrąglonym czubkiem) – krzywizna zaokrąglonej części zaobserwowanej "piramidki" ma wówczas promień krzywizny równy sumie promieni krzywizny cząstki koloidu i czubka próbnika (ang. ). Dolna część pochylonych "piramidek" odzwierciedla zasadniczą cechę budowy typowego próbnika (odwrócona i lekko pochylona piramida) oraz zaokrąglenie wynikające z kulistego kształtu cząstki koloidu.
+
+Jak można rozpoznać tego typu artefakty związane z kształtem próbnika? W przypadku gdy wszystkie obiekty na obrazie wyglądają na w jakiś sposób zdeformowane, ale deformacja ma dokładnie ten sam charakter – np. "piramidki" są identycznie zorientowane (np. pochylenie i krawędzie zawsze pod tym samym kątem).
+
+Podobnie jest z np. obserwowaniem "podwójnych" obrazów – jest to wynik defektu próbnika posiadającego podwójny "szczyt" – w wyniku błędnego wykonania, pęknięcia lub kontaminacji.
+
+Dość często przy dużych stromych obiektach na płaskiej powierzchni obserwuje się (wszędzie takie same) zagłębienia – mogą one być związane z histerezą skanera piezoelektrycznego lub boczną deformacją ramienia próbnika spowodowaną bocznym oddziaływaniem próbnika z obiektem.
+
+Korekta obrazu
+Aby rozwiązać te i inne problemy stosuje się wiele metod:
+usuwanie szumów poprzez wygładzanie – np. gaussowskie, FFT, falki (), korekta przesuniętych linii skanowania)
+korekta kształtu obrazu uwzględniająca nieliniowość i histerezę skanerów
+znając w miarę dokładny kształt próbnika można przeprowadzić częściową rekonstrukcję powierzchni próbki (przy uwzględnieniu ograniczeń związanych z samą metodą), poprzez tzw. dokonwolucję (ang. )
+kalibracja próbnika (sondy) za pomocą tego samego SPM pozwala uwzględnić różnice w porównaniu do założonego kształtu i ustawienia oraz kontaminację – stosując znaną próbkę (np. siatka dyfrakcyjna, specjalnie trawione płytki kalibracyjne, kuliste cząstki koloidalne na gładkiej powierzchni) wykonuje się obraz SPM, a potem poprzez porównanie otrzymanego obrazu z (w przybliżeniu) rzeczywistym wyglądem próbki dokonuje się rekonstrukcji kształtu próbnika
+kalibracja próbnika na podstawie obrazu z mikroskopu elektronowego (możliwa jedynie po pomiarze) – próbnika nie da się już wykorzystać, nie można zaobserwować różnic w ustawieniu próbnika w stosunku do założonego, nie można monitorować zużywania próbnika ani jego kontaminacji
+dość często łączy się kilka trybów lub kilka pomiarów w tym samym trybie działania mikroskopów AFM w celu uzyskania dodatkowych informacji – np. co najmniej dwukrotny pomiar w mikroskopie MFM przeprowadzony na różnych wysokościach nad próbką umożliwia rozdzielenie informacji o topografii próbki (góry/doliny) od informacji na temat jej budowy magnetycznej: oddziaływanie magnetyczna maleje z odległością dużo słabiej niż siły van der Waalsa – znając charakter zmienności obu sił od odległości możemy poprzez rozwiązanie prostego układu równań otrzymać obie informacje.
+tworzenie menisku wody ma niewielki wpływ na obraz mierzony w trybie kontaktowym
+
+Linki zewnętrzne
+
+
+
+

@@ -1,0 +1,30 @@
+Radon (Rn, łac. radon) – pierwiastek chemiczny z grupy gazów szlachetnych w układzie okresowym.
+
+Został odkryty w 1900 roku przez Friedricha Dorna. Początkowo był nazywany "emanacją" (symbol Em), proponowano dla niego także nazwę "niton" (Nt). Niektóre jego izotopy nosiły własne nazwy, pochodzące od pierwiastków z których powstały, jak 222Rn – "radon", 220Rn – "toron" (symbol Tn) lub 219Rn – "aktynon" (An). Dopiero po roku 1923 przyjęto jako obowiązującą nazwę najtrwalszego izotopu.
+
+Właściwości fizyczne
+Radon jest bezbarwnym, bezwonnym radioaktywnym gazem szlachetnym. Występuje naturalnie, jako produkt rozpadu radu, który z kolei powstaje z obecnego w przyrodzie w sporych ilościach uranu. Jego najstabilniejszy izotop, 222Rn, ma okres połowicznego rozpadu 3,8 dnia i jest stosowany w radioterapii.
+
+Gęstość radonu wynosi 9,73&nbsp;kg/m³ – jest on 8 razy cięższy niż średnia gęstość gazów atmosferycznych.  W temperaturze pokojowej jest bezbarwny, ale schłodzony do punktu zamarzania (−71&nbsp;°C), nabiera barwy żółtej, a poniżej −180&nbsp;°C staje się pomarańczowo-czerwony. Emituje również intensywną poświatę, będącą efektem jego radioaktywności.
+
+Promieniotwórczość
+Radon w czasie rozpadu emituje promieniowanie alfa (oraz w mniejszym stopniu beta) o małej przenikliwości, ale o dużej zdolności jonizującej (wysoka energia, duża masa cząstki).
+222Rn jest izotopem naturalnym, pochodzącym bezpośrednio z rozpadu 226Ra (o okresie połowicznego zaniku 1600 lat). Ten ostatni z kolei jest długożyciowym produktem przemian radioaktywnych zachodzących w naturalnym szeregu promieniotwórczym, którego pierwszym członem jest naturalny izotop uranu: 238U. Zawartość uranu w skorupie ziemskiej wynosi średnio 2ppm (0,0002%), więc stosunkowo dużo. Dlatego też zawartość Rn-222 w powietrzu atmosferycznym w warstwie przypowierzchniowej jest znacząca. Średnie stężenie 222Rn w powietrzu w Polsce wynosi ok. 10 Bq/m³. Radon stanowi 40–50% dawki promieniowania, jaką otrzymuje mieszkaniec Polski od źródeł naturalnych. Radon może stanowić zagrożenie dla zdrowia człowieka, bowiem gromadzi się w budynkach mieszkalnych, zwłaszcza w piwnicach, przedostając się tam z gruntu w wyniku różnicy ciśnień (efekt kominowy). Dotyczy to zwłaszcza podłoża granitowego, zawierającego większe ilości uranu w swoim składzie niż np. skały osadowe. Aktualnie w Polsce obowiązuje limit stężenia radonu w nowych budynkach mieszkalnych wynoszący 200 Bq/m3. Szkodliwość radonu jest wynikiem stosunkowo szybkiego jego rozpadu, prowadzącego do powstania kilku krótkożyciowych pochodnych, również radioaktywnych, emitujących promieniowania alfa. Ich zatrzymanie w płucach będzie powodować uszkodzenia radiacyjne, prowadzące do rozwoju choroby nowotworowej.
+
+Radon a zdrowie
+Radon jest pierwiastkiem stosowanym w medycynie  – naturalnie występujące wody radonowe stosuje się do kąpieli w rehabilitacji chorób narządów ruchu, zarówno tych pourazowych jak i reumatycznych. Kąpiele radonowe stosowane są też dla leczenia cukrzycy, chorób stawów, chorób tarczycy oraz schorzeń ginekologicznych i andrologicznych.
+
+Przedawkowanie radonu lub stała praca przy kopalinach, gdzie są silne emanacje radonu, wpływa niekorzystnie na zdrowie. Szkodliwe efekty działania radonu polegają na uszkadzaniu struktury chemicznej kwasu DNA przez wysokoenergetyczne, krótkotrwałe produkty rozpadu radonu 222Rn, co może powodować chorobę popromienną.
+
+Właściwości chemiczne
+Właściwości radonu są stosunkowo słabo znane, ze względu na jego wysoką radioaktywność. Radon należy do grupy gazów szlachetnych, które z definicji powinny być chemicznie obojętne. Mimo to znanych jest kilka jego związków na różnych stopniach utlenienia. Są to m.in. fluorki RnF2, RnF4, RnF6 oraz chlorek RnCl4. Ze względu na nietrwałość samego radonu nie mają one żadnych zastosowań.
+
+Izotopy radonu
+Naturalnie występują cztery izotopy radonu, które powstają w wyniku rozpadu uranu 238U (218Rn i 222Rn), 235U (219Rn) i toru 232Th (220Rn). Spośród nich izotop 222Rn ma zdecydowanie najdłuższy czas trwania – 3,8 dnia (pozostałe 
+
+
+
+Zobacz też
+wody radonowe
+
+Linki zewnętrzne

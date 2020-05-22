@@ -1,0 +1,22 @@
+Giambattista Lolli (ur. 1698, zm. 4 kwietnia 1769) – włoski szachista i teoretyk szachowy, jeden z czołowych przedstawicieli modeńskiej szkoły szachowej, przyjaciel Ercole Del Rio i Domenico Lorenzo Ponzianiego.
+
+W roku 1763 wydał – po części wspólnie z Del Rio – Spostrzeżenia nad teorią i praktyką gry w szachy. W książce tej, rozwijając poglądy Del Rio, poddał krytyce niektóre tezy Philidora, ponadto, w rozdziale poświęconym końcówkom, zamieścił – rywalizując ze Stammą – duży zbiór zadań szachowych. Wielokrotnie wznawiane dzieło Lolliego, rozwinięte potem przez Ponzianiego, odegrało istotną rolę w rozwoju gry w szachy.
+
+Poniżej przykładowe zadanie szachowe autorstwa Lolliego:
+
+Rozwiązanie:
+W:e5! d2 (jeśli 1. d7? Wd5!)
+Wd5! K:d5
+d7 d1H
+d8H+ K (dowolnie)
+H:d1
+
+Bibliografia
+W. Litmanowicz, J. Giżycki, "Szachy od A do Z", tom I, Warszawa 1986, str. 532
+
+
+
+
+
+
+

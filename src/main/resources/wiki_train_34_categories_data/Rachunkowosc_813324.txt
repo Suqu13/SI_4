@@ -1,0 +1,59 @@
+Prawo podatkowe – ogół przepisów regulujących zasady powstawania, ustalania oraz wygasania zobowiązań podatkowych oraz obowiązki podatników, płatników i inkasentów poszczególnych podatków. Prawo podatkowe stanowi także o obowiązujących procedurach, które winny być przestrzegane przez organy podatkowe oraz strony w trakcie postępowania podatkowego i wykonywania innych czynności zmierzających do ustalenia prawidłowej wysokości zobowiązania podatkowego i skutecznego poboru podatku.  
+
+Prawo podatkowe jest jedną z podgałęzi prawa finansowego, przez część przedstawicieli doktryny prawa uważana za odrębny dział.
+
+Pojęcie prawa podatkowego w Polsce
+W Polsce prawo podatkowe tworzą:
+Konstytucja RP z 2 kwietnia 1997 r. stanowiąca w art. 84, iż: "Każdy jest obowiązany do ponoszenia ciężarów i świadczeń publicznych, w tym podatków, określonych w ustawie", ustawy podatkowe i przepisy wykonawcze wydane na ich podstawie. Ustawami podatkowymi są:
+Ordynacja podatkowa (t.j. Dz.U. Nr 8, poz. 60 z dn. 15.01.2005) normująca zagadnienia zobowiązań podatkowych, informacji podatkowych, postępowania podatkowego, kontroli podatkowej i czynności sprawdzających oraz tajemnicy skarbowej. Ordynacja jest ustawą z zakresu prawa postępowania.
+Ustawy materialnego prawa podatkowego bezpośrednio regulujące prawa i obowiązki podmiotów prawa w zakresie każdego z podatków, m.in.:
+Ustawa o podatku od towarów i usług
+
+Klasyfikacja podatków
+Kryterium: przedmiot opodatkowania
+przychodowe – od całości wpływów z prowadzonej działalności,
+dochodowe – od nadwyżki przychodów nad kosztami ich uzyskania (PIT, CIT),
+majątkowe – od posiadania majątku w całości lub jego składników (podatek od nieruchomości, podatek od spadków i darownizn),
+konsumpcyjne – od wydatków w formie "podatkowej" części ceny (VAT, akcyza).
+Kryterium: wymiar i pobór podatków, przerzucalność świadczenia podatkowego, zdolność świadczenia:
+pośrednie – podatek wymierzany jest podmiotowi, który w rzeczywistości go "nie uiszcza" (podatek od towarów i usług, akcyza)
+bezpośrednie – podatek jest wymierzany podmiotowi i on ponosi zarazem jego ciężar (PIT, CIT)
+Kryterium: podział wpływów z podatków między poszczególne budżety
+państwowe
+samorządowe
+Kryterium: rodzaj obciążonego elementu konstrukcyjnego podatku
+osobowe
+rzeczowe
+Kryterium: rodzaj stawki podatkowej
+kwotowe
+proporcjonalne (stałe)
+procentowe (wyszczególniona zostaje skala podatkowa)
+progresywne (przyspieszona, liniowa, opóźniona (PIT))
+degresywne
+regresywne.
+
+Przerzucalność podatkowa
+To przesuwanie ciężaru podatku przez podatnika na inne podmioty. Może być różna w zależności od wielkości przerzuconego ciężaru: 
+częściowa
+całkowita
+nadmierna
+
+Przerzucalność występuje, gdy ustawa podnosi stawki podatkowe lub ustala nowy podatek. procedury przerzucania nie są korzystne m.in. z punktu zasady sprawiedliwości podatkowej.
+
+Przerzucalność można podzielić ze względu na kogo zostaną przerzucone podatki:
+w przód – wzrost cen sprzedawanych wyrobów, wzrost podatków, wzrost cen, przerzucenie na nabywców
+wstecz – na dostawców, względnie na pracowników danej firmy
+właściwą – nie założona z góry przez ustawodawcę
+niewłaściwą – założona z góry przez ustawodawcę
+
+Bibliografia
+Andrzej Borodo: Polskie prawo finansowe. Zarys ogólny.'' Toruń 2005, ISBN 83-7285-253-7.
+Andrzej Gomułowicz, Jerzy Małecki: Polskie prawo finansowe.'' Lexis Nexis, 2006, ISBN 83-7334-585-X.
+Zbigniew Ofiarski: Prawo finansowe.'' C.H. Beck, ISBN 83-7483-506-0.
+
+Linki zewnętrzne
+ustawa z dnia 29 sierpnia 1997 r. — Ordynacja podatkowa ()
+
+
+
+

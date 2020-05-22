@@ -1,0 +1,194 @@
+Tytan (Ti, łac. titanium) – pierwiastek chemiczny z grupy metali przejściowych w układzie okresowym o liczbie atomowej 22.
+
+Jest lekki, ma wysoką wytrzymałość mechaniczną, odporny na korozję (w tym również wody morskiej i chloru), metal o szarawym kolorze. Tytan jest dodawany jako dodatek stopowy do żelaza, aluminium, wanadu, molibdenu i innych. Stopy tytanu są wykorzystywane w przemyśle lotniczym (silniki odrzutowe, promy kosmiczne), militarnym, procesach metalurgicznych, motoryzacyjnym, medycznym (protezy dentystyczne, ortopedyczne klamry), sportów ekstremalnych i innych. Został odkryty w Wielkiej Brytanii przez Williama Gregora w 1791. Nazwę pochodzącą od bóstw z mitologii greckiej zawdzięcza Martinowi Heinrichowi Klaprothowi.
+
+Występuje w skorupie ziemskiej w ilościach rzędu 0,61%, w postaci minerałów: ilmenitu, rutylu i tytanitu, które są szeroko rozpowszechnione na całej Ziemi. Metaliczny tytan otrzymujemy przez przerób rud w procesie Krolla. Jego najbardziej rozpowszechniony związek – dwutlenek tytanu znajduje zastosowanie w produkcji białych pigmentów. Inne związki zawierające tytan to czterochlorek tytanu używany do zasłon dymnych oraz jako katalizator i trójchlorek tytanu, który znajduje zastosowanie jako katalizator w produkcji polipropylenu.
+
+Dwie najbardziej użyteczne własności tytanu to jego odporność na korozję oraz najwyższy stosunek wytrzymałości mechanicznej do jego ciężaru. Znane są dwie odmiany alotropowe pierwiastka. Posiada pięć trwałych izotopów o masach atomowych od 46 do 50. Właściwości fizykochemiczne tytanu są podobne do cyrkonu.
+
+Historia
+Tytan został odkryty w Kornwalii w Wielkiej Brytanii w 1791 przez pastora i geologa amatora Williama Gregora. Zauważył on obecność nowego pierwiastka w ilmenicie – czarnym piasku, który znalazł w strumieniu nieopodal swojej parafii. Piasek ten był przyciągany przez magnes. Dokładniejsza jego analiza wykazała obecność dwóch substancji: tlenku żelaza (wyjaśniając przyciąganie magnesem) oraz 45,25% białego metalicznego tlenku, którego nie mógł zidentyfikować.
+Gregor, zdając sobie sprawę, że niezidentyfikowany tlenek zawierał metal, który nie pasował do właściwości jakiegokolwiek znanego pierwiastka, poinformował o swoim odkryciu Królewskie Towarzystwo Geologiczne w Kornwalii i niemieckie czasopismo naukowe Annalen Crell.
+
+
+Tlenek tytanu został odnaleziony niezależnie od Gregora w 1795 przez niemieckiego chemika Martina Heinricha Klaprotha w rutylu na Węgrzech. Klaproth stwierdził, że ruda zawiera nowy pierwiastek i postanowił nazwać go tytanem zaczerpując nazwę z mitologii greckiej. Po usłyszeniu o odkryciu Gregora nowej substancji, nabył jej próbki i potwierdził odkrycie tytanu.
+
+Przez wiele lat próbowano otrzymać czysty tytan, jednak nie udawało się tego dokonać zwyczajnymi sposobami poprzez ogrzewanie tlenku w obecności węgla, ponieważ tworzył się węglik tytanu zamiast spodziewanej redukcji tlenku do metalu. Dopiero w 1910 Matthew A. Hunter otrzymał czysty (99,9%) metaliczny tytan poprzez ogrzewanie TiCl4 z sodem w bombie stalowej w temperaturze 700–800&nbsp;°C. Do 1946 tytan nie był używany nigdzie poza laboratorium, dopóki William Justin Kroll nie opracował opłacalnego sposobu otrzymywania metalicznego tytanu poprzez redukcje czterochlorku tytanu magnezem. Technologia ta została nazwana procesem Krolla. Pomimo badań nad tańszym i wydajniejszym sposobem otrzymywania tytanu, proces Krolla jest do dzisiaj używany do komercyjnego pozyskiwania metalu.
+
+
+
+Tytan o bardzo wysokiej czystości został otrzymany przez Anton Eduard van Arkela i Jan Hendrik de Boera w procesie jodkowym w 1925. Rafinację tytanu prowadzi się w próżni w zamkniętym reaktorze. Pary jodu reagują z technicznym tytanem tworząc czterojodek tytanu, który następnie ulega rozkładowi na ogrzanym oporowo cienkim drucie wolframowym, pogrubiając go w miarę trwania procesu.
+
+W latach 50. i 60. XX w. Związek Radziecki zapoczątkował wykorzystywanie tytanu do celów militarnych (m.in. w okrętach podwodnych K-278 Komsomolec i projektu 705).
+We wczesnych latach 50. XX w. tytan był szeroko stosowany w lotnictwie wojskowym, szczególnie w odrzutowcach o wysokich parametrach silnika zaczynając od F100 Super Sabre i Lockheed A-12.
+W Stanach Zjednoczonych Departament Obrony zdał sobie sprawę ze strategicznego znaczenia tytanu i rozpoczął magazynowanie tego metalu przez całą zimną wojnę.
+
+W 2006 Agencja Obrony Stanów Zjednoczonych przyznała 5,7 mln $ konsorcjum dwóch spółek, aby opracowały nowy proces otrzymywania tytanu sproszkowanego.
+
+Właściwości
+Fizyczne
+Pierwiastek metaliczny, tytan, jest znany ze swojej wysokiej wytrzymałości mechanicznej w stosunku do niskiego ciężaru. Jest stosunkowo lekki (gęstość 4507 kg/m³), o dużej wytrzymałości mechanicznej, przy wysokiej czystości jest ciągliwy (zwłaszcza w atmosferze redukcyjnej). Charakteryzuje się wysoką temperaturą topnienia: 1649&nbsp;°C. Jest błyszczący, posiada biały, metaliczny kolor.
+
+Handlowy tytan o czystości 99,2% posiada wytrzymałość na rozciąganie 434&nbsp;MPa, porównywalną z rozciągalnością stali, jednak jest lżejszy od nich o 45%. Tytan jest cięższy od aluminium o 60%, ale charakteryzuje się ponad dwukrotnie większą wytrzymałością mechaniczną niż najpopularniejszy stop Al: 6061-T6. Pewne stopy tytanu (np. Beta C) posiadają wytrzymałość na rozciąganie ponad 1380 MPa (spada ona przy podgrzaniu powyżej temperatury 430&nbsp;°C).
+
+Ma wysoką twardość (jednak nie tak wysoką jak niektóre hartowane stale), trudno się obrabia mechanicznie.
+
+Metal ma dwie odmiany alotropowe: Ti-α – krystalizujący w układzie heksagonalnym do temperatury 882&nbsp;°C; powyżej tej temperatury występuje Ti-β – krystalizujący w układzie regularnym przestrzennie centrowanym. Pojemność cieplna Ti-α gwałtownie wzrasta wraz z podgrzewaniem, po przekroczeniu temperatury 882&nbsp;°C i przemianie w Ti-β pojemność cieplna kształtuje się na stałym poziomie.
+
+Jest paramagnetykiem oraz wykazuje stosunkowo niską przewodność elektryczną i cieplną.
+
+Eksperymenty wykazały znaczną promieniotwórczość wzbudzoną tytanu na skutek zbombardowania jego jąder deuteronami. Produktami tej reakcji są pozytony i twarde promieniowanie gamma.
+
+Chemiczne
+
+Najbardziej znana właściwość chemiczna tytanu to jego doskonała odporność na korozję, prawie taka sama jak platyny. Jest on także odporny na działanie rozcieńczonych kwasów np. siarkowego, solnego i większości kwasów organicznych, chloru gazowego oraz roztworów zasadowych czy morskiej wody. Czysty tytan roztwarzają stężone kwasy. Jest jednym z nielicznych pierwiastków, które gwałtownie reagują z czystym azotem. Reakcja przebiega powyżej temperatury 800&nbsp;°C, z wytworzeniem azotku tytanu.
+
+Wykres Pourbaix dla tytanu ukazuje bardzo wysoką reaktywność termodynamiczną przy niskiej aktywności z wodą i tlenem.
+
+Na skutek kontaktu tytanu z tlenem na jego powierzchni tworzy się pasywacyjna warstwa tlenku tytanu o grubości ok. 2 nm (po czterech latach osiąga grubość 25 nm). Warstwa ta dodatkowo zwiększa odporność na korozję.
+
+Występowanie
+
+
+Tytan zawsze występuje w rudach innych pierwiastków. Jest dziewiąty pod względem występowania na Ziemi (0,63%) i siódmy jako metal. Najczęściej występuje w skałach magmowych oraz skałach osadowych. Na przykład na 801 skał przebadanych przez United States Geological Survey, tytan zawarty był w 784. Jego udział w ziemiach wynosi w przybliżeniu 0,5–1,5%.
+
+Jest szeroko rozpowszechniony, występuje głównie pod postacią minerałów: anatazytu, brukitu, ilmenitu, perowskitu, rutylu, tytanitu (sfen) oraz w wielu rudach żelaza. Z powyższych minerałów tylko ilmenit i rutyl mają znaczenie ekonomiczne (pod warunkiem eksploatacji rudy o odpowiednio wysokiej zawartości tytanu). Znaczące złoża tytanu (ilmenitu) znajdują się w zachodniej Australii, Kanadzie, Nowej Zelandii, Norwegii i Ukrainie. Duże ilości rutylu są eksploatowane w Ameryce Północnej i Republice Południowej Afryki. Roczna produkcja wynosi 90 000 ton metalu i 4,3 milionów ton dwutlenku tytanu. Całkowite zasoby tytanu na Ziemi szacuje się na ponad 600 milionów ton.
+
+Tytan jest zawarty w meteorytach, jego obecność zauważono na Słońcu i gwiazdach typu M (najchłodniejszy typ gwiazd o temperaturze powierzchni około 3200&nbsp;°C). Skały dostarczone przez Apollo 17 z Księżyca zawierają 12,1% tytanu.
+
+Produkcja
+
+
+Otrzymywanie metalicznego tytanu zachodzi w pięciu głównych etapach:
+przeróbka rud tytanu;
+otrzymywanie czterochlorku tytanu TiCl4;
+proces Krolla – redukcja TiCl4 magnezem;
+oczyszczanie tytanu – proces jodkowy;
+topienie tytanu.
+
+Ponieważ tytan reaguje z tlenem przy wysokich temperaturach (610&nbsp;°C), nie może być otrzymywany przez redukcję dwutlenku tytanu. Dlatego do celów handlowych stosuje się kosztowny proces Krolla (stosunkowo wysoka wartość rynkowa tytanu jest spowodowana głównie zastosowaniem w tym procesie innego drogiego metalu – magnezu). Przemysłowa produkcja czterochlorku tytanu polega na chlorowaniu przy jednoczesnej redukcji zbrykietowanego z węglem surowca tytanowego (rutylu lub ilmenitu) w szybowym piecu elektrycznym.
+
+Reakcje zachodzące podczas procesu Krolla:
+2TiFeO3 + 7Cl2 + 6C (900&nbsp;°C) → 2TiCl4 + 2FeCl3 + 6CO
+TiCl4 + 2Mg (1100&nbsp;°C) → 2MgCl2 + Ti
+
+Techniczny tytan otrzymany w procesie Krolla powinien być rafinowany. Zasada procesu pozwalającego na otrzymanie czystego tytanu polega na rozkładzie termicznym czterojodku tytanu.
+TiI4 → Ti + 2I2
+W wysokich temperaturach (około 1400&nbsp;°C) i przy określonym ciśnieniu reakcja ta przebiega w kierunku dysocjacji czterojodku tytanu, natomiast niskie temperatury sprzyjają jego tworzeniu. Zaletą tego procesu jest otrzymanie czystego tytanu nie zawierającego domieszek (tlen, azot, węgiel) obniżających jego własności mechaniczne.
+
+Proces topienia tytanu stanowi poważny problem. Trudności sprawiają wysoka temperatura topienia tytanu (1668&nbsp;°C) i jego duża aktywność chemiczna w tej temperaturze. Dodatkową niedogodność stanowi fakt, że stopiony tytan reaguje niemal ze wszystkimi materiałami ogniotrwałymi. Jedynie dwutlenek toru, rekrystalizowany tlenek wapnia i grafit są odporne na jego działanie. Topienie tytanu odbywa się w piecach łukowych, indukcyjnych, plazmowych oraz elektronowych. Te ostatnie wydają się najbardziej perspektywiczne.
+
+Związki chemiczne tytanu
+Tytan w związkach chemicznych występuje najczęściej na IV stopniu utlenienia, rzadziej na stopniu III.
+
+
+Dwutlenek tytanu (TiO2) jest najpopularniejszym związkiem tytanu. Znajduje on bardzo szerokie zastosowanie:
+przemysł metalurgiczny – do produkcji elektrod, stopów, radioelementów ceramicznych;
+przemysł barw i lakierów – bardzo dobra intensywność kolorów;
+przemysł papierniczy – wysoka jakość białego papieru;
+przemysł włókien szklanych – zastosowanie dzięki nietoksyczności, małej reaktywności chemicznej;
+przemysł wyrobów gumowych – do produkcji naturalnego i sztucznego kauczuku.
+przemysł spożywczy – barwnik, oznaczony jako E171
+
+Azotek tytanu (TiN) nanosi się na narzędzia tnące, formujące i ślizgowe. Warstwa TiN o grubości od 0,5 do kilku mikrometrów daje wzrost twardości powierzchniowej do 2400 HV. Czas pracy narzędzi ulega znacznemu wydłużeniu (do kilkunastu razy). Natryskiwane plazmowo powłoki z TiN nanoszone są na elementy robocze łopatek turbin, silników i narzędzi skrawających.
+
+Czterochlorek tytanu (TiCl4) jest bezbarwną cieczą, używaną w procesie produkcji dwutlenku tytanu do farb lub redukowany magnezem bezpośrednio do tytanu. Tytan tworzy również trójchlorek tytanu TiCl3, który jest używany jak czynnik redukcyjny.
+
+Węglik tytanu (TiC) ma szereg niepospolitych właściwości, tj. wysoką twardość (ok. 90 HRC), niski współczynnik tarcia, wysoką temperaturę topienia, dobrą odporność korozyjną i cieplną (zachowuje własności skrawalne do ok. 1000&nbsp;°C). Stosowany jest w przemyśle narzędziowym, kosmicznym i energetyce atomowej. Węglik tytanu znalazł też zastosowanie w kompozytach diamentowo-węglikowych przeznaczonych na ostrza skrawające.
+
+Tytaniany cechuje wysoka przenikalność elektryczna. Tytanian wapnia (CaTiO3) i tytanian magnezu (MgTiO3) znalazły zastosowanie w ceramice kondensatorowej. Tytanian baru (BaTiO3) ma właściwości piezoelektryczne i ferroelekryczne. Stosowany jest w urządzeniach ultradźwiękowych, mikrofonach i urządzeniach do zapalania gazu w kuchenkach. Tytanian strontu (SrTiO3) stosowany jest do produkcji szkła o dużym współczynniku załamania światła: do wyrobu soczewek, pryzmatów i biżuterii. Tytanian sodu (Na2TiO3) wchodzi w skład mas do pokrywania prętów spawalniczych.
+
+Izotopy
+Występujący w przyrodzie tytan posiada pięć stabilnych izotopów: 46Ti, 47Ti, 48Ti, 49Ti oraz 50Ti, przy czym 48Ti stanowi 73,8% składu izotopowego. Jedenaście znanych izotopów charakteryzuje promieniotwórczość. Najbardziej stabilnym z radioaktywnych izotopów jest 44Ti o okresie połowicznego rozpadu wynoszącym 63 lata, dalej 45Ti o czasie rozpadu 184,8&nbsp;minut, 51Ti z czasem połowicznego rozpadu wynoszącym 5,76&nbsp;minut, oraz 52Ti o czasie 1,7&nbsp;minuty. Czas połowicznego rozpadu pozostałych izotopów jest krótszy niż 33 sekundy, a dla większości czas ten jest krótszy niż 0,5 sekundy. Izotopy tytanu mają masę atomową od 39,99 (40Ti) do 57,966 u (58Ti).
+
+Znaczenie biologiczne
+
+Tytan jest nietoksyczny nawet w dużych dawkach i nie ma żadnego wpływu na organizm ludzki. Szacuje się, że każdego dnia człowiek spożywa 0,8 mg tytanu, ale większość nie jest przyswajana przez organizm. Ma tendencje do akumulacji w tkankach zawierających krzemionkę. Większość roślin zawiera około 1 ppm tytanu, natomiast skrzyp i pokrzywa może zawierać nawet do 80 ppm.
+
+Tytan pod postacią proszku lub wiórów może ulec zapaleniu, a rozpylony w powietrzu grozi wybuchem. Woda i dwutlenek węgla są nieefektywne w przypadku palenia się tytanu; jedynie skuteczne w takim przypadku są suche materiały przeciwpożarowe (klasa D materiałów przeciwpożarowych).
+
+Tytan może zapalić się kiedy świeża, nieutleniona powierzchnia pozostanie w kontakcie z ciekłym tlenem. Do zapalenia może dojść przy uderzeniu twardym przedmiotem lub przy odkształceniu mechanicznym po powstaniu pęknięcia. Takie zachowanie tytanu powoduje ograniczenie dla jego stosowania z ciekłym tlenem (np. w przemyśle lotniczym i kosmonautycznym).
+
+Większość soli tytanu jest nieszkodliwych, ale jego związki z chlorem, takie jak: TiCl2, TiCl3 i TiCl4 posiadają niebezpieczne własności. Dwuchlorek pod postacią czarnych kryształów ulega samozapaleniu, natomiast czterochlorek jest lotnym dymiącym się płynem. Wszystkie chlorki tytanu są żrące.
+
+Zastosowanie tytanu
+Pigmenty i powłoki
+
+Około 95% z wydobytych z Ziemi rud tytanowych jest przeznaczonych na otrzymywanie dwutlenku tytanu TiO2 z racji jego intensywnej białej barwy. Najczęściej stosuje się go jako pigment w farbach, papierze, paście do zębów oraz chirurgii plastycznej. Używany również jako dodatek do cementu, w kamieniach szlachetnych oraz jako dodatek wzmacniający kompozyty grafitowe stosowane do wędek oraz kijów golfowych.
+
+Proszek TiO2 jest chemicznie obojętny, jest nieprzezroczysty. W stanie wolnym występuje pod postacią minerałów: anatazu, brukitu i rutylu.
+Farba wytworzona z dwutlenku tytanu jest odporna na niskie temperatury oraz na działanie środowiska morskiego. Czysty dwutlenek tytanu ma bardzo wysoki wskaźnik załamywania światła i rozszczepia światło silniej niż diament.
+
+Jest wykorzystywany jako filtr oczyszczający powietrze, stosowany również jako błona naniesiona na okna chroniąca przed działaniem promieni UV.
+
+Stale mikrostopowe o podwyższonej wytrzymałości
+
+Są to stale posiadające zmniejszoną zawartość węgla, a także obniżony poziom zanieczyszczeń (siarka, fosfor), o podwyższonej zawartości manganu, w których przez dodawanie niewielkich ilości dodatków stopowych, takich jak: tytan, niob i wanad uzyskuje się znaczny wzrost własności wytrzymałościowych. Działanie tytanu związane jest z tworzeniem z azotem i węglem bardzo stabilnych węglików i azotków. Jego dodatek do stali w ilości 0,01–0,02% powoduje wydzielenie podczas walcowania na granicach ziaren austenitu przede wszystkim azotku tytanu, który nie pozwala na rozrost ziaren austenitu nawet w temperaturze 1200&nbsp;°C. Tytan również wpływa pozytywnie na spawalność blach.
+
+Stale zawierające oprócz niobu dodatek tytanu w ilości około 0,015% o wytrzymałości blisko 500 MPa stosowane są na rurociągi pracujące w warunkach arktycznych (obniżenie progu kruchości w niskich temperaturach).
+
+Stale maraging [SM]
+Stale maraging zawierają 20–25% Ni z dodatkami 1,3–1,6% Ti, 0,15–0,30% Al, 0,3–0,5% Nb. Tytan w tych stopach stanowi składnik umacniający, dzięki tworzeniu w czasie starzenia licznych dyspersyjnych wydzieleń (Ni3Ti, NiTi i inne). Stale SM stosuje się w budowie statków kosmicznych, w lotnictwie (produkcja foteli wyrzucanych, podwozi samolotów, konstrukcja samolotu myśliwskiego Mirage F1), w przemyśle zbrojeniowym (lufy dział szybkostrzelnych, lufy broni palnej), budowie maszyn i urządzeń (elementy turbin parowych), korbowody (Ferrari F355/360M/550M, Porsche 911 GT3, Honda NSX), wały napędowe samochodów wyścigowych, elementy wagonów kolejowych, cienkościenne naczynia ciśnieniowe o średnicy do 4m oraz kotły i rury o dużych średnicach pracujące w podwyższonych temperaturach i pod ciśnieniem do 2GPa.
+
+Jedną z najistotniejszych własności tytanu jest jego odporność na działanie wody morskiej. Wykorzystane to zostało do budowy rurociągów transportujących wodę używaną do chłodzenia rafinerii i zakładów chemicznych pracujących w pobliżu morza. Z końcem lat 90. XX w. na świecie zainstalowanych było blisko 100 milionów metrów bieżących rurociągów wykonanych z tytanu.
+
+Tytan stosuje się też do produkcji pomp wody morskiej, śrub okrętowych i zaworów, a dzięki swym paramagnetycznym właściwościom do budowy „niemagnetycznych” statków badawczych, używanych do pomiarów geofizycznych.
+
+Stopy tytanu ze względu na swą odporność na korozję, jak i możliwość przenoszenia dużych ciśnień (praca na głębokości do 3700&nbsp;m), uważane są za najbardziej perspektywiczny materiał na kadłuby okrętów podwodnych i batyskafów.
+
+Architektura i zastosowania konsumenckie
+
+
+Tytan znajduje zastosowanie w przemyśle motoryzacyjnym, a w szczególności w branży samochodów sportowych i motocykli, gdzie przywiązuje się dużą wagę do redukcji masy pojazdu przy utrzymaniu wysokiej wytrzymałości mechanicznej. Tytan jest jeszcze zbyt drogim metalem, aby był używany w najpopularniejszych samochodach (o niewygórowanej cenie). Przykładem zastosowania elementów tytanowych są rury wydechowe w późnych wersjach w Chevrolet Corvette, tłumiki w motocyklach sportowych i inne.
+
+Parker Pen Company (firma produkująca długopisy i pióra) wypuściła w 1970 serię T-1 wiecznych piór z tytanu, a rok później na rynku pokazały się tytanowe pióra kulkowe. Produkcję zaprzestano w 1972 z powodu zbyt dużej ceny tytanu. Obecnie pióra z serii T-1 są bardzo cenione i zbierane przez kolekcjonerów.
+
+Od 1999 dostępne są młotki z obuchem tytanowym. Ich lekka waga umożliwia zastosowanie dłuższego trzonka, dzięki czemu wbijanie gwoździ staje się szybsze i skuteczniejsze oraz mniej męczące. Tytan niweluje wstrząsy przenoszone z narzędzia na wbijającego; generuje zaledwie 3% odskok obucha, podczas gdy stalowy młotek generował aż 29% odskok.
+
+Tytan i jego stopy wykorzystywane są do produkcji sprzętu sportowego. Stosuje się je wszędzie tam, gdzie konieczne jest uzyskanie dużej wytrzymałości przy minimalnej masie wyrobu. Najpopularniejsze wyroby tytanowe to: sprzęt alpinistyczny, ramy rowerowe (doskonale tłumiące drgania, sprężyste i odporne na zmęczenie), rakiety tenisowe, wyczynowe sanki, narty, kije golfowe, kije hokejowe, kije do krykieta, osłony hełmów do rugby czy sprzęt wędkarski. Stopy tytanu można znaleźć w oprawkach okularów (lekkie, wytrzymałe i nie powodujące alergii skórnej, ale o wysokiej cenie) czy w podkowach głównie dla koni wyścigowych oraz sporadycznie zaprzęgowych. Stopy tytanu stosuje się do produkcji osprzętu w żeglarstwie (okucia, bloki, elementy kabestanów, olinowanie stałe).
+
+Tytan bywa stosowany w rozwiązaniach architektonicznych. Przykładem mogą być Muzeum Guggenheima w Bilbao i Cerritos Millennium Library (pierwsze budynki w Ameryce Północnej i Europie pokryte panelami tytanowymi).
+
+Tytan wykorzystywany jest przez artystów do tworzenia rzeźb (czterdziestometrowy pomnik Jurija Gagarina w Moskwie), detali dekoracyjnych oraz w elementach mebli.
+
+Tytan znajduje zastosowanie w produkcji broni palnej, gdzie zastępuje stal i stopy aluminium (np. bęben rewolweru).
+
+Inżynieria biomedyczna
+
+Właściwości biologiczne i fizykochemiczne tytanu spowodowały znaczący przełom w biomedycynie. Tytan stosowany jest w protetyce dentystycznej. Posiada kilkakrotnie niższe niż tradycyjne materiały protetyczne przewodnictwo cieplne, dużą twardość, wytrzymałość mechaniczną oraz trwałość. Poza tym nie wywołuje reakcji alergicznych i jest odporny na korozje.
+Do leczenia złamań kości stosuje się stopy tytanu z Al, Nb i Ta oraz tytanu z Al i Nb. Na przykład tzw. klamry Blounta, których żywotność wynosi około 20 lat, wykonane są ze stopu tytanu (43–47%) z niklem (53–57%) charakteryzującego się pamięcią kształtu. Innym zastosowaniem stopów Ni-Ti są płytki implantacyjne oraz urządzenia do leczenia zgryzu u dzieci. Tytan wykorzystywany jest również w produkcji narzędzi chirurgicznych, wózków inwalidzkich oraz kul.
+
+Ponieważ tytan nie jest ferromagnetykiem pacjenci z implantami tytanowymi mogą być bezpiecznie badani tomografem MRI (obrazowanie rezonansu magnetycznego). Przygotowując tytan do wszczepienia należy go oczyścić w strumieniu plazmy, który po skończonym procesie ulega natychmiastowemu utlenieniu.
+
+Metal ten zyskuje coraz większą popularność w piercingu jako materiał na (kolczyki, ćwieki itp.) a jego kolor można odpowiednio zmieniać poprzez anodowanie.
+
+Lotnictwo
+
+Stopy tytanu stanowią perspektywiczny materiał dla samolotów przyszłości. Z uwagi na największy współczynnik wytrzymałości do ciężaru właściwego, wysoką odporność na korozję i wysoką temperaturę topnienia wykorzystywane są w przemyśle lotnicznym, morskim, kosmicznym oraz w pociskach. 2/3 produkowanego tytanu zużywane jest, jako stop z aluminium, wanadem i innymi dodatkami, w silnikach lotniczych i pokryciach samolotów. Stopy tytanu używane są do produkcji większości elementów głowic wirników w śmigłowcach.
+
+SR-71 „Blackbird” był jednym z pierwszych samolotów wykonanym w dużym stopniu ze stopów tytanu, torując jednocześnie drogę do zastosowań tytanu w samolotach pasażerskich. Szacuje się, że w Boeingu 777 znajduje się 58 ton tytanu, 43 ton w 747, 18 ton w 737, 24 ton w Airbusie A340, 17 ton w A330 i 12 ton w A320. A380 zawiera 77 ton tytanu, w tym około 11 ton w silnikach. W konstrukcji Ił-86 znajduje się ponad 20 ton stopów tytanu.
+
+W naddźwiękowym samolocie Tupolew Tu-144 znaleźć można kilka tysięcy części z tytanu i jego stopów. Tytan stosowany był do budowy silnika Concorde. Zastąpienie stopów aluminium stopami tytanu umożliwia zmniejszenie całkowitej masy samolotu o 20–25%. Stop 6AL-4V znalazł się w około połowie wszystkich zastosowań tytanu związanych z przemysłem lotniczym.
+
+Biżuteria
+Ze względu na trwałość, w ostatnich latach, tytan staje się coraz popularniejszym materiałem używanym w jubilerstwie, podczas gdy do niedawna był uznawany za metal zbyt trudny do obróbki i kształtowania skomplikowanych i precyzyjnych wzorów. Jednym z najszybciej rosnących segmentów rynku jubilerskiego są obrączki ślubne i zaręczynowe wykonane z tytanu oraz koperty i bransolety zegarków ręcznych.
+Główną zaletą wyrobów tytanowych jest fakt, iż nie wywołują reakcji alergicznej oraz nie ulegają zniszczeniu (pociemnieniu) w środowiskach wodnych (np. basenach).
+
+Uwagi
+
+
+Przypisy
+
+
+Bibliografia
+Kaczyński J., Tytan, Wydawnictwo Naukowo Techniczne, Warszawa 1961.
+Bylica A., Sieniawski J., Tytan i jego stopy, PWN, 1985.
+Cieszewski B., Przetakiewicz W., Nowoczesne materiały w technice, wydawnictwo Bellona, 1993.
+Froes F.H., Titanium Products and Applications, JOM, 1987, no.3, 10-11.
+Dobrzański L.A., Podstawy nauki o materiałach i metaloznawstwie, Wydawnictwo Naukowo Techniczne, Warszawa 2002.
+Dobrzański L.A., Metalowe materiały inżynierskie, Wydawnictwo Naukowo Techniczne, Warszawa 2004.
+
+
+
+
+

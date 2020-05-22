@@ -1,0 +1,161 @@
+Stopy z pamięcią kształtu – materiały inteligentne, w których zachodzi odwracalna, termosprężysta przemiana martenzytyczna lub zmiana orientacji krystalicznej martenzytu pod wpływem zewnętrznego pola magnetycznego.
+
+Ogólne informacje
+Wyróżnia się dwa główne typy efektów pamięci kształtu ze względu na zjawisko je indukujące:
+odwracalna przemiana martenzytyczna indukowana cieplnie
+zmiana orientacji krystalicznej martenzytu indukowana zewnętrznym polem magnetycznym (MFIS).
+
+Najczęściej wykorzystywanymi materiałami z pierwszej grupy są stopy Ni-Ti, Cu-Al i Cu-Zn-Al. Określa się je wspólnym mianem termosprężystych stopów z pamięcią kształtu (TSMA). Z drugiej grupy najczęściej wykorzystywany jest stop Ni-Mn-Ga. Tego typu materiały nazywa się magnetycznymi stopami z pamięcią kształtu (MSMA) lub ferromagnetycznymi stopami z pamięcią kształtu (FSMA).
+
+Historia
+W 1932 roku szwedzki naukowiec Arne Őlander publikuje pracę dotyczącą niezrozumiałego sprężystego zachowania stopu Au-Cd w temperaturze pokojowej. Równolegle i niezależnie Scheil badał pseudosprężystość w stopach Fe-Ni.
+W 1938 roku Greninger i Mooradian jako pierwsi dokonują obserwacji tworzenia się martenzytu termosprężystego w stopie Cu-Zn.
+W 1949 roku Kurdjumov i Khandros publikują pierwszy artykuł w całości poświęcony efektowi pamięci kształtu.
+W 1951 roku Chang i Read prezentują pierwszy poprawny opis mechanizmu zjawiska pseudosprężystości zachodzącego w stopach Au-Cd.
+W 1952 roku Reynolds i Bever odkrywają pseudosprężyste zachowanie w stopach Cu-Zn (niezależnie potwierdzone przez Hornbogena i Wassermanna w 1956 roku).
+W 1953 roku Burkhart i Read odkrywają efekt pseudosprężystości w stopach In-Tl (niezależnie potwierdzone przez Basinskiego i Christiana w 1954 roku).
+W 1958 roku Rachinger odkrył zachowanie pseudosprężyste w stopie Cu-Al-Ni.
+W 1963 roku William J. Buehler i Frederick Wang okrywają efekt pamięci kształtu w stopach Ni-Ti. Jak miało się później okazać, owe odkrycie stało się kamieniem milowym stopów z pamięcią kształtu.
+W 1971 roku pierwszy raz wykorzystano stop Ni-Ti do celów komercyjnych. W tym samym roku Wayman odkrył zjawisko pamięci kształtu w stopie Fe3Pt.
+W 1982 roku Sato zaobserwował efekt pamięci kształtu w stopach Fe-Mn-Si.
+W 1984 roku Maki odkrył efekt pamięci kształtu w stopach Fe-Ni-Co-Ti. Webster obserwuje magnetyczny efekt pamięci kształtu w stopie Ni2MnGa.
+W 1996 roku Ullakko pierwszy obserwuje zmianę orientacji krystalicznej martenzytu indukowanej zewnętrznym polem magnetycznym.
+
+Obecnie największe zastosowanie mają stopy z pamięcią kształtu na bazie niklu (głównie nitinol), miedzi (CuZnX oraz CuAlX), żelaza.
+
+Przykłady stopów
+W tabeli zestawiono przykładowe stopy wykazujące efekt pamięci kształtu z ich uśrednionymi własnościami:
+
+
+Zastosowanie termosprężystych stopów z pamięcią kształtu
+Technika
+Zastosowanie w technice stopów z pamięcią kształtu można podzielić na kilka głównych grup:
+trwałe połączenia mechaniczne i elektryczne
+silniki cieplne
+roboty
+czujniki temperatury
+układy regulacyjne
+układy pracujące w niskich temperaturach
+układy tłumiące drgania i hałas
+wykorzystujące efekt pseudosprężystości
+zastępujące bimetale.
+
+Połączenia
+złącza rur
+Złączka w kształcie tulei zostaje odkształcona w stanie martenzytycznym przez rozparcie dla zwiększenia jej średnicy. Przechowywana jest w ciekłym azocie. W odkształconą tuleję wsuwane są końce łączonych rur. Przeprowadza się nagrzewanie do temperatury otoczenia. Ten zakres temperatur powinien w stopie z pamięcią kształtu wypadać między temperaturą As, a Af. Następuje przemiana fazowa objawiająca się skurczem złączki. Uzyskuje się trwałe i szczelne połączenie pozbawione wad metalurgicznych. Metoda eliminuje potrzebę wykorzystania technologii takich jak spawanie, czy lutowanie. Złączki znalazły zastosowanie głównie w przemyśle lotniczym oraz stoczniowym.
+złącza elektryczne i optyczne
+Wtyk jest oziębiany, aby był w stanie martenzytycznym. Wprowadzany jest do gniazda i podgrzewany do temperatury otoczenia. Przemiana fazowa uniemożliwia jego rozłączenie. Dodatkowo na gniazdo nasuwa się pierścień ochronny, również wykonany z materiału z pamięcią kształtu. Zaletą złącz jest odporność na wstrząsy, duża wytrzymałość mechaniczna, stabilny opór elektryczny złącza.
+zaciski i nity
+Nit o odgiętych końcówkach jest oziębiany do stanu martenzytycznego. Następnie mechanicznie końcówka jest prostowana. Tak przygotowany element wsuwa się do miejsca połączenia. Po wsunięciu do łączonych elementów nit jest podgrzewany w wyniku czego końcówki z powrotem odginają się.
+
+Czujniki temperatury
+termoregulatory
+Stopy z pamięcią kształtu znalazły zastosowanie jako czujniki temperatury oraz układy czynnie reagujące. Zadaniem takiego mechanizmu jest reagowanie na zadany przedział temperaturowy, od skrajnie wysokiego do niskiego. Większość histerez materiałów z pamięcią kształtu jest zbyt duża, aby istniała możliwość bezpośredniego ich zastosowania. Z tego powodu opracowano mechanizm składający się z dwu sprężyn. Jedna z nich jest wykonana z materiału z pamięcią kształtu, a druga najczęściej ze stali (mechanizm oporowy). W przypadku wzrostu temperatury powyżej górnej granicy układ wyłącza się w wyniku nacisku sprężyny wykazującej efekt pamięci kształtu. Spadek temperatury poniżej dolnej granicy powoduje, że układ zostaje włączony w wyniku nacisku stalowej sprężyny. Takie rozwiązanie znalazło zastosowanie głównie w przemyśle grzewczym (grzejniki, klimatyzatory itp.).
+zawór odcinający dopływ gazu w przypadku pożaru
+Technologia zaworu opiera się na działaniu sprężyny śrubowej wykonanej ze stopu z pamięcią kształtu. W przypadku wzrostu temperatury sprężyna wywiera nacisk na zawór kulisty odcinając dopływ gazu. Takie zawory montowane są głównie przed licznikiem gazowym lub innymi urządzeniami gazowymi. Przy spadku temperatury zawór nie otwiera się samoczynnie. Ze względów bezpieczeństwa wymagana jest ingerencja człowieka.
+
+Samoczynne otwieranie okien/drzwi
+Urządzenie spełniające owe czynności jest zawias zaopatrzony w stalową sprężynę utrzymującą okno w stanie zamkniętym oraz w sprężynę wykonaną z materiału z pamięcią kształtu. Stop jest tak dobrany, aby występowanie stanu martenzytycznego wypadało w temperaturze, w której okno jest zamknięte, a sprężyna ściśnięta. Przy wzroście temperatury materiał wykazujący efekt pamięci kształtu pokonuje opór stawiany przez stalową sprężynę i pozwala otworzyć okno. Przy spadku temperatury okno samoczynnie zamyka się. Na podobnej zasadzie zaprojektowano drzwi ewakuacyjne, które otwierają się w przypadku wybuchu pożaru.
+
+Elementy pojazdów
+termostat samochodowy
+
+Klasyczne zawory zawierają czujniki kontrolujące w postaci cieczy lub wosku. Termostaty wykorzystujące efekt pamięci kształtu pełnią funkcję czujnika temperatury i regulatora przepływu cieczy chłodzącej. Ich zastosowanie pozwala uniknąć problemów z wyciekiem cieczy lub wosku. Nie potrzebne jest również konstruowanie osobnych mechanizmów uruchamiających. Dzięki temu termostat ma prostszą, lżejszą i zwartą konstrukcję.
+sprzęgło wentylatora
+
+Wykorzystuje się śrubową sprężynę wykazującą efekt pamięci kształtu. Pracuje ona przeciwko czterem sprężynom płytkowym zrobionym ze stali. Element z pamięcią kształtu uruchamia sprzęgło, co w konsekwencji wprowadza wentylator chłodzący w ruch. Dzieje się to w momencie przekroczenia danej temperatury, która powoduje w sprężynie odwrotną przemianę martenzytyczną. Zastosowanie takiej sprężyny pozwala wprowadzić różnicę prędkości obrotowej wentylatora w zależności od temperatury. Sprzęgło pracujące w takim trybie jest mniej hałaśliwe i oszczędza paliwo.
+regulacja dopływu paliwa do gaźnika
+
+W konwencjonalnych gaźnikach dysza wyregulowana jest dla temperatury otoczenia. Ze wzrostem temperatury spada lepkość paliwa i przy niezmiennym położeniu igły w dyszy rośnie też ilość wtłaczanego paliwa. Zastosowanie dyszy z dwukierunkowym efektem pamięci kształtu umożliwia zmianę i dostosowanie średnicy w zależności od danej temperatury. W przypadku wzrostu temperatury dysza w wyniku zajścia przemiany martenzytycznej zmniejsza swą średnicę. Uzyskuje się dzięki temu obniżenie ilości wydzielanych spalin i oszczędzenie paliwa.
+
+Roboty
+
+Standardowe elementy mechaniczne zostały zastąpione przez układ materiałów z pamięcią kształtu. Wykorzystuje się ich oporowe nagrzewanie. Problemem konstrukcyjnym jest szybkie odprowadzanie ciepła w celu wykonania przeciwnej reakcji. Zastosowanie stopów z pamięcią kształtu pozwala dodatkowo regulować dużo więcej parametrów pracy (np. dłoń robota ma możliwość precyzyjnej kontroli uścisku elementów).
+
+Silnik cieplny
+
+W tego typu silniku cieplnym wykorzystuje się bezpośrednią przemianę energii cieplnej w mechaniczną. Idea urządzenia jest prosta. Na drut wykonany ze stopu wykazującego efekt pamięci kształtu w stanie martenzytycznym zawiesza się dany ciężar. Podczas nagrzewania zachodzi przemiana fazowa w austenit, co objawia się skurczem drutu. Układ wykonana pracę zależną od przyłożonego ciężaru i wielkości skurczu materiału. Efekt wykorzystuje się cyklicznie. Ogólnie silniki cieplne bazujące na pamięci kształtu charakteryzują się słabą sprawnością (rzędu kilku %). Najlepszy z nich wykazywał sprawność do 20% i brak wyraźnego pogorszenia efektu pamięci kształtu po 17·106 cyklach. Największy silnik cieplny wykorzystujący efekt pamięci kształtu charakteryzował się mocą 665 W oraz sprawnością około 5%.
+
+Tłumienie drgań
+Materiały wykazujące efekt pamięci kształtu mają duży współczynnik tłumienia drgań i hałasu w stanie martenzytycznym. Wartość tłumienia jest zależna od temperatury i od amplitudy odkształceń. Im temperatura jest niżej od Ms, tym materiał charakteryzuje się lepszym tłumieniem. Tak samo jest w przypadku, gdy rośnie amplituda drgań. Znajdują zastosowanie jako powłoki i podkładki absorbujące.
+
+Wykorzystanie pseudosprężystości
+Stopy wykazujące efekt pseudosprężystości mogą być wykorzystane jako magazyny energii. Dzięki nim możliwe jest odzyskanie dużych wartości odkształceń. Przy przemianie martenzytycznej występuje stała wartość naprężeń, dlatego stopy mogą odkształcać już przy nieznacznych zmianach naprężeń. W branży motoryzacyjnej zaproponowano użycie układu, który magazynowałby część energii powstałej w wyniku hamowania pojazdu, a następnie jej uwolnienie i spożytkowanie przy ruszaniu.
+
+Medycyna
+Zastosowanie w medycynie stopów z pamięcią kształtu jest utrudnione ze względu na wysokie wymogi stawiane tym materiałom. Przede wszystkim nie mogą mieć one negatywnego wpływu na użytkującego ich pacjenta. W przypadku materiałów z pamięcią kształtu pracujących w ciele człowieka jednym z najważniejszych aspektów jest tzw. metaloza. Problemem konstrukcyjnym jest dostosowanie temperatury przemiany fazowej do temperatury organizmu ludzkiego (również z uwzględnieniem ewentualnych wzrostów temperatury w wyniku chorób). Najczęściej implant wykazujący efekt pamięci kształtu wprowadza się w stanie austenitycznym do ciała pacjenta. Ciepło potrzebne do zajścia przemiany martenzytycznej doprowadza się zewnętrznie lub pochodzi z ciała człowieka.
+
+Osteosynteza
+
+
+Elementy do osteosyntezy wykonane z materiałów wykazujących efekt pamięci kształtu:
+klamry
+Stopy z pamięcią kształtu znajdują zastosowanie jako klamry Blounta. Wymiana tradycyjnych materiałów na SMA pozwala uzyskać ścisłe i mocne połączenie złamanych kości. Wykorzystuje się je przede wszystkim do usztywnienia dolnego stawu skokowego. Klamry do leczenia złamanych żeber wykonane z materiałów z pamięcią kształtu wykazują brak odsprężynowania w stosunku do materiałów konwencjonalnych.
+płytki
+W przypadku trudniejszych złamań kości w celu ich unieruchomienia stosuje się płytki do osteosyntezy. Taką płytkę mocuje się z dwóch stron złamanej kości za pomocą śrub. Produkuje się elementy ze skośnymi otworami lub uskokami w celu uzyskania równomiernych naprężeń ściskających. Płytka w stanie martenzytycznym jest rozciągana i przykręcana do złamania. Następnie nagrzewa się ją, co objawia się skurczem materiału. Szczelina złamania zostaje zlikwidowana o pewną charakterystyczną wielkość. Gdy obie części się zetkną przerywa się proces nagrzewania, a płytka pozostaje w takim stanie niezmieniona. W przypadku płytek do osteosyntezy szczęki są one odkształcane przez zginanie w stanie martenzytycznym. Następnie element zostaje przykręcony śrubami do obu części złamanej kości z pozostawioną szczeliną. Nagrzewa się go. Przemiana fazowa powoduje prostowanie płytki i zanik szczeliny. Gdy kości się zespolą, przerywa się nagrzewanie.
+gwoździe
+Do leczenia gładkich zamkniętych złamań stosuje się najczęściej gwoździe wbijane do szpiku. W cylindryczny otwór w szpiku kostnym wbija się gwóźdź o delikatnie większej średnicy. Tradycyjne materiały wymagały użycia dużej siły i pojawiały się problemy z wyciągnięciem implantu. Gwoździe wykonane ze stopów z pamięcią kształtu mogą być wprowadzone i usunięte dużo łagodniej. Element wykazujący efekt pamięci kształtu jest tak dobrana, aby zwiększała swoją średnicę przy nagrzewaniu, a zmniejszała, gdy jest ochłodzona poniżej temperatury ludzkiego ciała. Przed wprowadzeniem implantu ochładza się go, co pozwala bez problemu wprowadzić zmniejszony materiał. Następnie nagrzewa się go ciepłą wodą. Przemiana fazowa powoduje powiększenie tulejki i usztywnienie złamania. Przy wyciąganiu element znowu jest ochładzany i wyciągany.
+
+Leczenie schorzeń kręgosłupa
+pręty Harringtona w leczeniu skoliozy
+
+Jednąz metod leczenia skoliozy jest operacja chirurgiczna z wykorzystaniem prętów Harringtona. Do prętów przytwierdzone są haki, mocowane do kręgów powyżej i poniżej wykrzywienia, które mają ulec korekcji. Kręgosłup jest prostowany przez działanie sił rozciągających przy pomocy zewnętrznego urządzenia i pręta, po którym przesuwają się haki umocowane do kręgów. Rozciąganie tkanek powoduje stopniową relaksację siły, która stopniowo maleje. Przywrócenie początkowej siły prostującej kręgosłup wymaga powtórnej operacji. Zastosowanie materiałów z pamięcią kształtu pozwala uniknąć tej niedogodności. Pręt wykonany z takiego stopu skraca się poprzez wygięcie. Podobnie jak tradycyjne pręty operacyjnie jest mocowany do kręgosłupa. Po pewnym czasie pręt jest nagrzewany diatermicznie przy wykorzystaniu prądów wirowych indukowanych w pręcie. Temperatura nagrzania prętów jest zwykle wyższa o kilka stopni od temperatury ludzkiego ciała. W wyniku tej operacji pręt odzyskuje swój dawny kształt bez potrzeby chirurgicznego zabiegu.
+
+tulejki dystansowe do lokalnego usztywniania
+
+Tulejki dystansowe służą do głównie do usztywniania kręgów lędźwiowych. Odkształcona tulejka jest wprowadzana poprzez spłaszczenie w wyżłobiony otwór w kręgu (obszar między kręgami). Nagrzanie elementu powoduje przemianę fazową, objawiającą się zwiększeniem wysokości i wywieraniem nacisku na sąsiednie kręgi. W efekcie materiał wstrzymuje względne przemieszczenie poszczególnych kręgów.
+
+Filtr skrzepów krwi
+
+Filtr wykonany z materiału wykazującego efekt pamięci kształtu wprowadza się do głównej żyły. Jego zadaniem jest wychwytywanie skrzepów krwi powstałych w wyniku urazów. Element w stanie martenzytycznym jest odkształcany w celu uzyskania prostego kształtu. W takiej postaci zostaje wprowadzony do żyły. W temperaturze ludzkiego ciała zachodzi przemiana fazowa i materiał przyjmuje kształt okrągłej siatki. Wielkość oczek siatki zazwyczaj ma 2 mm.
+
+Transplantologia
+
+mięśnie sztucznego serca
+Mięśnie sztucznego serca wykonane ze stopu wykazującego efekt pamięci kształtu to proteza w postaci splotu drutu, okalającego komorę sztucznego serca. Pod wpływem impulsów ciepła prądu elektrycznego indukowany jest cykliczny skurcz serca.
+
+mikropompa dla sztucznej nerki
+Pompa składa się z mieszka wykonanego z materiału wykazującego dwukierunkowy efekt pamięci kształtu. Dodatkowo po bokach znajdują się dwa zawory ze stopu wykazującego jednokierunkowy efekt pamięci kształtu. Pompa nagrzewania jest prądem elektrycznym. Proces powoduje skurcz, a w konsekwencji wytłoczenie z mieszka danego medium. Ochłodzenie pompy wywołuje odwrotna przemianę i wydłużenie mieszka.
+
+
+
+Ortodoncja
+
+druty łukowe
+Druty łukowe wykonane z materiału z pamięcią kształtu są przytwierdzane do zębów w celu korekcji wadliwego zgryzu. Druty w stanie martenzytycznym są spłaszczane poprzez walcowanie. Uzyskują tym sposobem stan pseudosprężystości. Stopniowo dostosowują się do zmian zgryzu pacjenta. Druty wykonane z materiałów z pamięcią kształtu charakteryzują się dużo mniejszym modułem sprężystości, niż klasyczne wykonane ze stali. Z tego powodu przy tej samej wartości ugięcia druty wykazujące efekt pamięci kształtu oddziałują ze znacznie mniejszą siłą. Wywierana siła jest dodatkowo stabilniejsza. Wykorzystanie drutów z pamięcią kształtu skraca czas zabiegu i leczenia.
+
+Zastosowanie magnetycznych stopów z pamięcią kształtu
+Technika
+Stopy wykazujące magnetyczną pamięć kształtu są nowym gatunkiem materiałów. Z tego powodu ich praktyczne zastosowanie nie jest zbyt rozbudowane. Materiałami MSM próbuje się głównie zastąpić już wykorzystywane elementy bazujące na zjawiskach tj. piezoelektryczność, magnetostrykcja, czy termosprężysty efekt pamięci kształtu.
+
+
+
+Urządzenia wykonawcze
+
+Siłownik bazujący na efekcie pamięci kształtu składa się z elementu wykazującego magnetyczny efekt pamięci kształtu, rdzenia ferromagnetycznego oraz cewki okalającej rdzeń (rys. 1.). Gdy na element MSM nie działa zewnętrzne pole magnetyczne to wtedy orientacja krystalograficzna martenzytu jest zgodna z kierunkiem wstępnego obciążania materiału. Zastosowanie zewnętrzne pole magnetyczne prostopadłego do elementu powoduje jego wydłużenie prostopadłe do działającego pola. Zanika pola magnetycznego objawia się powrotem materiału do pierwotnego kształtu z pomocą sprężyny. Układ może pracować z dużą częstotliwością. Przy wysokich częstotliwościach pracy uciążliwe zaczynają być indukujące się prądy wirowe. Testy zmęczeniowe wykazały trwałość takie układu do 200 milionów cykli. Obecnie wykorzystywane stopy wykorzystujące magnetyczny efekt pamięci kształtu charakteryzują się mniejszą częstotliwością pracy, niż konkurencyjne układy wykonane z materiałów magnetostrykcyjnych i piezoelektrycznych. Wydajność pracy materiałów MSM nieznacznie ustępują termosprężystym stopom z pamięcią kształtu.
+
+Czujniki
+Idea czujników opierających się na magnetycznym efekcie pamięci kształtu polega na zaobserwowaniu zmian orientacji bliźniaków w strukturze materiału pod wpływem odkształcenia. Reorganizacja struktury powoduje znaczną zmianę własności magnetycznych czujnika. Dla materiałów znajdujących się w stałym polu magnetycznym zaobserwowano zmianę gęstości strumienia magnetycznego pod wpływem naprężenia.
+
+Zbiorniki energii
+Zmiana gęstości strumienia magnetycznego wywołanego zewnętrznym naprężeniem może zostać spożytkowana na wygenerowanie napięcia lub może posłużyć do zakumulowania energii. Zmiana kształtu spowodowana przyłożonym naprężeniem jest odwracalny w przypadku zastosowania zewnętrznego pola magnetycznego. Z tego powodu możliwe jest zastosowanie cyklicznych zmian orientacji bliźniaków w strukturze materiału. Stopy MSM są wstanie zakumulować więcej energii, niż konkurencyjne materiały piezoelektryczne i magnetostrykcyjne.
+
+Konferencje
+International Conferences on Martensitic Transformations (ICOMAT) – od 1976
+International Conferences on Ferromagnetic Shape Memory Alloys (ICFSMA) – od 2007
+Shape Memory and Superelastic Technologies Conferences (SMST) – od 1994
+European Symposia on Martensitic Transformations and Shape Memory Alloys (ESOMAT) – od 1989
+
+Przypisy
+
+
+Bibliografia
+Z. Bojarski, H. Morawiec: Metale z pamięcią kształtu. Warszawa: Wydawnictwo Naukowe PWN, 1989. ISBN 83-01-09346-3.
+A. Ziółkowski:  (PDF)
+
+
+
+
+
+
+

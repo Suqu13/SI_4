@@ -1,0 +1,28 @@
+Stopy lutownicze to stopy metali wykorzystywane podczas lutowania. Najczęściej są to stopy cyny i stopy ołowiu 
+
+Zgodnie z unijną dyrektywą RoHS od 1 lipca 2006 w stopach lutowniczych (poza określonymi wyjątkami) nie może się znajdować ołów, który dotychczas stanowił 20-60% ich zawartości ze względu na istnienie stopu eutektycznego o temperaturze topnienia 183ºC. Najczęściej używano następujących stopów:
+Sn63Pb37 (183 °C)
+Sn62Pb36Ag2 (179 °C)
+Sn48,5Pb48,5Bi3
+
+Obecnie w produkcji sprzętu elektronicznego stosuje się stopy bezołowiowe, w których skład wchodzi cyna z niewielkimi dodatkami srebra, miedzi, bizmutu, antymonu. Temperatura topnienia stopów używanych przy lutowaniu bezołowiowym wynosi 215-230 °C. Najczęściej używa się następujących stopów:
+SnAg3,5 (221 °C)
+SnAg2,0 (221-226 °C)
+SnCu0,7 (227 °C)
+SnAg3,5Bi3,0 (206-213 °C)
+SnBi7,5Ag2,0 (207-212 °C)
+SnAg3,8Cu0,7 (217 °C)
+SnAg2,6Cu0,8Sb0,5 (216-222 °C)
+
+Zobacz też
+lutowanie
+lutowanie bezołowiowe
+temperatura topnienia
+kalafonia
+tinol
+topnik
+zimny lut
+
+
+
+

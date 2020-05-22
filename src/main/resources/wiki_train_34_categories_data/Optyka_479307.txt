@@ -1,0 +1,45 @@
+Doświadczenie Michelsona-Morleya – eksperyment zaliczany obecnie do najważniejszych doświadczeń w historii fizyki. Miał na celu wykazanie ruchu Ziemi względem hipotetycznego eteru poprzez porównanie prędkości światła w różnych kierunkach względem kierunku ruchu Ziemi. Doświadczenie zostało przeprowadzone po raz pierwszy w 1881 roku przez Alberta Abrahama Michelsona i powtórzone przez niego wraz z Edwardem Morleyem w roku 1887.
+
+Dało ono wynik negatywny (tj. wykazało niezależność prędkości światła od prędkości Ziemi w przestrzeni), co stało się doświadczalnym potwierdzeniem stałości prędkości światła w każdym układzie odniesienia i ostatecznie wykluczyło istnienie eteru.
+
+Powód przeprowadzenia eksperymentu
+
+Fizyka w XIX w. zakładała, że fale rozprzestrzeniają się tylko w ośrodkach sprężystych (przykładowo dźwięk – w powietrzu). Światło, według tej koncepcji, jako fala elektromagnetyczna też powinno rozprzestrzeniać się w jakimś sprężystym ośrodku, który nazywano eterem. Eter miałby wypełniać całą przestrzeń, pozostawać w spoczynku względem Wszechświata i wyznaczać absolutny układ odniesienia. Prędkość światła powinna być stała względem tego ośrodka, a dla obserwatorów poruszających względem eteru – inna i równa różnicy wektorowej prędkości światła w ośrodku i prędkości obserwatora względem ośrodka.
+
+Ziemia wraz ze Słońcem porusza się względem Wszechświata, na to nakłada się jej ruch wokół Słońca z prędkością 30 km/s, zatem powinna poruszać się względem eteru.
+
+James Clerk Maxwell zauważył, że mierząc prędkość światła w różnych okresach roku lub doby można by wyznaczyć prędkość ruchu Ziemi względem eteru, ale nie wierzył w możliwość wykonania doświadczenia z wystarczająco dużą dokładnością.
+
+Doświadczenie Michelsona
+[[Plik:Interferometre Michelson.svg|250px|thumb|Ilustracja doświadczenia Michelsona-Morleya
+A - źródło światła monochromatycznego
+B - półprzepuszczalna płytka
+C - zwierciadła
+D - ekran]]
+
+Doświadczenie weryfikujące koncepcję Maxwella obmyślił i przeprowadził w roku 1881 amerykański fizyk, Albert Michelson. Uznał, że do określenia prędkości wiatru eteru nie potrzeba wyznaczać prędkości światła, wystarczy porównać prędkość światła w różnych kierunkach. Skonstruował przyrząd nazwany później interferometrem Michelsona.
+
+W interferometrze wiązka światła zostaje podzielona półprzezroczystą płytką na dwie prostopadłe wiązki, które po odbiciu od zwierciadeł i powtórnym przejściu przez płytkę trafiają do teleskopu, w którym widać jasne i ciemne prążki jako wynik interferencji obu wiązek. Obraz interferencji zależy od różnicy czasu przebiegu obu wiązek między płytką a zwierciadłami, bo w pozostałej części drogi światła obie wiązki biegną tą samą drogą. Gdyby czas przebycia światła między płytką a zwierciadłem 1 zmienił się o inną wartość niż czas dla drugiej drogi, to układ prążków interferencyjnych przesunąłby się. W ten sposób można wyznaczyć nawet niewielkie różnice w prędkości rozchodzenia się światła.
+
+Gdyby istniał wiatr eteru, wystarczyłoby obrócić interferometr, a układ prążków powinien przesuwać się. Michelson, jako dokładny obserwator, oszacował, że dokładność pomiaru urządzenia jest 4 razy większa od przesunięcia prążków, jakie powinien uzyskać dla prędkości ruchu Ziemi wokół Słońca.
+
+Ku swojemu zaskoczeniu nie wykrył ruchu prążków. Wynik doświadczenia był zdumiewający dla ówczesnych fizyków, powszechnie wątpiono w prawdziwość i dokładność pomiaru.
+
+Drugie doświadczenie
+Dla potwierdzenia swoich obserwacji Michelson postanowił powtórzyć swoje doświadczenie. Wraz z Edwardem Morleyem opracowali i skonstruowali aparaturę, w której zwiększyli dziesięciokrotnie długość drogi światła, zwiększając w ten sposób dokładność pomiaru. By zapobiec nawet najmniejszym drganiom zwierciadeł, układ interferometru pływał w korytach wypełnionych rtęcią. Pomimo takiej precyzji i przeprowadzenia wielu powtórzeń pomiarów w wielu kierunkach, przez rok nie zauważono zmian w układzie prążków interferencyjnych.
+
+Na początku XX w. doświadczenie było wielokrotnie powtarzane w różnych warunkach i zawsze z takim samym skutkiem.
+
+Wyjaśnienie
+Jedną z hipotez przedstawił Hendrik Antoon Lorentz. Zaproponował, że ruch ciał względem eteru skraca długość ciała o czynnik  (gdzie v – prędkość ciała, a c – prędkość światła). Rozwinięcie tej koncepcji znane jest obecnie jako transformacja Lorentza.
+
+Wynik eksperymentu próbowano wyjaśnić założeniem, że eter w pobliżu Ziemi jest przez nią unoszony, w efekcie czego – nieruchomy względem niej, podczas gdy dalej od niej pozostaje ruchomy. Jednak takie zachowanie eteru powinno spowodować charakterystyczne krążenie gwiazd widzianych z Ziemi po elipsach, czego nie obserwuje się.
+
+Ostatecznie zrezygnowano z wyjaśnienia doświadczenia Michelsona-Morleya na gruncie koncepcji eteru. Jest ono natomiast zgodne z ogłoszoną przez A. Einsteina w 1905 roku szczególną teorią względności, według której prędkość światła w próżni jest jednakowa we wszystkich inercjalnych układach odniesienia wprost z definicji.
+
+
+
+
+
+
+

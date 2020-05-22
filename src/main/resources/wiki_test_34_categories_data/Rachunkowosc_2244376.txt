@@ -1,0 +1,18 @@
+Ekonomika zdrowia dziedzina ekonomii zajmująca się gospodarowaniem zasobami w systemie opieki zdrowotnej. W szerszym znaczeniu jest to dziedzina obejmująca zarządzanie niedostatkiem środków finansowych w stosunku do nieograniczonego zapotrzebowania na rynku usług zdrowotnych. W Polsce rozwój ekonomiki zdrowia nastąpił w latach 70. XX wieku - kiedy w krajach rozwiniętych wzrosły koszty związane z opieką zdrowotną. Do podejmowania działań w obszarze ochrony zdrowia niezbędne są narzędzia - ekonomiczne analizy i oceny.
+
+Do najbardziej powszechnych analiz stosowanych w ekonomice zdrowia należą:
+CEA - cost-effectiveness analysis, analiza kosztów-efektywności
+CBA - cost- benefit analysis, analiza kosztów i korzyści
+CUA - cost- utility analysis, analiza kosztów i użyteczności uwzględniająca także jakość i preferencje wynikające z programów zdrowotnych
+Cost of illness, analiza kosztów choroby, ocena ekonomicznych skutków występowania danego stanu zdrowia.
+
+W podejmowaniu decyzji ekonomicznych stosowana jest również ocena technologii medycznych - Health Technology Assessment( w Polsce działa Agencja Oceny Technologii Medycznych, jednostka podległa Ministerstwu Zdrowia) oraz techniki oceny metod leczniczych EBM - Evidence Based Medicine. Mniej znane są EBLM - Evidence Based Laboratory Medicine i EBHD - Evidence Based Hospital Design. Wymienione analizy mają służyć racjonalnemu wydatkowaniu środków na ochronę zdrowia. 
+
+
+Bibliografia
+Getzen T. Ekonomika Zdrowia. Wydawnictwo Naukowe PWN, Warszawa 2000
+
+
+
+
+

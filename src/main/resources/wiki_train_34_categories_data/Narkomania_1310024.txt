@@ -1,0 +1,34 @@
+Klozapina (Clozapinum) – organiczny związek chemiczny, pochodna dibenzodiazepiny. Jest pierwszym opracowanym atypowym lekiem przeciwpsychotycznym. Nie wywołuje objawów pozapiramidowych, a po leczeniu nią nie stwierdzono późnych dyskinez. Klozapina jest lekiem trzeciego rzutu ze względu na potencjalnie śmiertelne działania niepożądane, które mogą wystąpić: agranulocytozę i zapalenie mięśnia sercowego.
+
+Historia
+Klozapina została zsyntetyzowana w laboratoriach firmy farmaceutycznej Sandoz w 1961 roku. W kolejnych latach przeprowadzano próby kliniczne, w efekcie których w 1972 roku lek wprowadzono do lecznictwa w Szwajcarii i Austrii. W 1975 roku lek wprowadzono do obrotu na terenie Niemiec i Finlandii. W tym samym czasie przeprowadzano badania nad klozapiną w Stanach Zjednoczonych. Wśród powikłań zgłaszano przypadki agranulocytozy prowadzącej do śmierci. Sandoz dobrowolnie wycofał lek z obrotu w 1975 roku. Przez wiele kolejnych lat lek był niedostępny na rynku farmaceutycznym, jednak w ośrodkach badawczych nadal przeprowadzano doświadczenia. Badania wykazywały wysoką skuteczność leczenia schizofrenii lekoopornej. W 1989 roku FDA zezwoliła na stosowanie klozapiny wyłącznie w leczeniu psychoz lekoopornych. Stopniowo lek wprowadzono ponownie do lecznictwa w wielu krajach.
+
+Mechanizm działania
+Klozapina jako atypowy neuroleptyk jest antagonistą receptorów dopaminergicznych i serotoninergicznych. Wiąże się z receptorami dopaminowymi D1-D5, przy czym jej powinowactwo do D4 jest 10 razy wyższe od powinowactwa do D2. Jest częściowym agonistą receptora 5-HT1A, czemu przypisuje się jej korzystne działanie na objawy afektywne i funkcje poznawcze. Udowodniono bezpośrednie działanie klozapiny na receptor GABAB.
+
+Klozapina jest antagonistą receptorów muskarynowych M1, M2, M3 i M5. Jest też agonistą receptorów M4, mających wysoką ekspresję w śliniankach. Wyjaśnia to częściowo ślinotok, występujący w trakcie leczenia klozapiną.
+
+Wskazania
+Klozapina jest stosowana głównie w leczeniu lekoopornej schizofrenii, która oznacza niezadowalającą odpowiedź objawów na co najmniej dwa różne leki przeciwpsychotyczne. Klozapina jest wyraźnie bardziej skuteczna w zwalczaniu objawów schizofrenii niż starsze typowe leki przeciwpsychotyczne, przynosząc najlepsze efekty u osób, które słabo odpowiedziały na inne leczenie. Chociaż zmniejsza częstość nawrotów, a tolerancja pacjentów na lek jest lepsza, to nie przekłada się to na znaczącą poprawę w zakresie ogólnego funkcjonowania. Małe dawki klozapiny są stosowane w leczeniu parkinsonizmu. Jest też podawana w leczeniu objawów psychotycznych powstałych po stosowaniu lewodopy w chorobie Parkinsona.
+
+Udokumentowane interakcje klozapiny istotne klinicznie
+
+
+Połączenie terapii klozapina z następującymi lekami powoduje zmniejszenie stężenia klozapiny:
+cyprofloksacyna
+fenobarbital
+fenytoina
+nikotyna
+ryfampicyna
+leki zobojętniające kwas solny np. inhibitory pompy protonowej
+
+Działania niepożądane
+Najczęstsze działania uboczne wiążą się z działaniem antycholinergicznym: suchość w jamie ustnej, senność, zatwardzenia. Klozapina obniża również próg drgawkowy. Często występuje ślinotok i przyrost masy ciała.
+
+Konieczne środki ostrożności przy stosowaniu leku
+Ze względu na niebezpieczeństwo pojawienia się leukopenii i agranulocytozy konieczne jest stałe monitorowanie obrazu krwi. Do standardu należy wykonywanie badania co tydzień przez pierwsze 18 tygodni zażywania leku, a potem co miesiąc przez cały okres trwania terapii. Spadek leukocytów poniżej 2000–3000, a neutrofilów poniżej 1500, wymaga natychmiastowego odstawienia leku.
+
+
+
+Bibliografia
+Indeks leków Medycyny Praktycznej

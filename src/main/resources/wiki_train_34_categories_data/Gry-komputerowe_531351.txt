@@ -1,0 +1,42 @@
+Battlefield Vietnam – gra komputerowa z gatunku first person shooter stworzona przez Digital Illusions CE, a wydana przez Electronic Arts. Jest to następca gry Battlefield 1942'' jednakże nie jest to pełnoprawna kontynuacja.
+
+Gra przenosi nas w lata 60. i 70. XX. wieku na tereny Wietnamu w czasach wojny wietnamskiej.
+
+Cele gry
+Cele gry są identyczne jak w swoim pierwowzorze, grze Battlefield 1942''. W grze uczestniczą dwie drużyny, każda zaczyna z określoną liczbą punktów (tickets) i punktami do "odradzania się" (spawn points), zwykle przy flagach (rzadziej w tunelach). Gra polega na doprowadzeniu do zmniejszeniu liczby punktów przeciwnej drużyny do zera poprzez zabijanie przeciwników lub przejmowanie jego flag.
+
+Po zabiciu żołnierza następuje kilkanaście sekund przerwy, po czym zabity żołnierz odradza się we wskazanym przez siebie spawnpoincie, posiadanym w danej chwili przez jego drużynę. Gdy wszystkie flagi przeciwnika są przejęte oraz nie ma już innych punktów odrodzeń przeciwników następuje natychmiastowe zwycięstwo (punkty natychmiast spadają do zera).
+
+Flagi
+Przejęcia flag trwają x sekund, w zależności od istotności. Najważniejsze bazy (np. startowe) przejmuje się minutę i 40 sekund, najmniej istotne - 27 sekund. Gdy flagę przejmuje kilka osób czas oczekiwania dzieli się przez liczbę przejmujących. Połowę czasu przejmowania flagi trwa neutralizacja punktu. W tym czasie mogą odradzać się w nim przeciwnicy. Po neutralizacji flaga staje się niczyja i żadna drużyna nie może się przy niej odrodzić do czasu całkowitego przejęcia.
+
+Ilość flag wpływa na ilość punktów przeciwnika. W zależności od mapy, drużyna traci punkty, kiedy drużyna przeciwna zdobędzie co najmniej połowę flag (np. 4 z 7), lub niemal wszystkie flagi (np. 6 z 7). Dopiero wtedy przegrywająca drużyna (z jedną flagą) traci punkty.
+
+Połączenie taktycznego działania systemu flag i klasycznej "strzelanki" czyni z gry Battlefield Vietnam odmienną pozycję wśród gier wojennych, w których jedynym celem jest pozbycie się przeciwników.
+
+Muzyka
+W grze można usłyszeć najbardziej znane utworzy lat 60. i 70., które wprowadzają w klimat wojny w Wietnamie. Wszystkie pojazdy wyposażone są w radio, w którym można odtwarzać poniższe utwory – jest to zgodne z założeniem, że gra tworzona była w celu jak największej grywalności, a nie maksymalnego realizmu.
+
+Utwór muzyczny z menu gry jest oparty na utworze White Rabbit Jefferson Airplane, niedostępnym jednak w liście piosenek w radiu.
+
+Utwory soundtracka gry Battlefield Vietnam:
+
+The Box Tops – The Letter
+Count Five – Psychotic Reaction
+Bobby Fuller Four – I Fought the Law
+Canned Heat – On the Road Again
+Creedence Clearwater Revival – Fortunate Son
+Deep Purple – Hush
+Edwin Starr – War
+Rare Earth – Get Ready
+Jefferson Airplane – Somebody to Love
+The Kinks – All Day And All Of The Night
+The Trashmen – Surfin Bird
+Martha Reeves and the Vandellas – Nowhere to Run
+Jefferson Airplane – White Rabbit
+The Troggs – Wild Thing
+Budapest Symphony Orchestra – The Ride of the Valkyries
+The Guess Who – Shakin All Over
+The Kinks – You Really Got Me
+
+Linki zewnętrzne

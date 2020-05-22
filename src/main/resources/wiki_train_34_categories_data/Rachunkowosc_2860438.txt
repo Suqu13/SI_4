@@ -1,0 +1,9 @@
+Podatek u źródła – podatek pobierany w przypadku płatności transgranicznych, w których podmiot otrzymujący przychód (podatnik) ma inną rezydencję podatkową niż podmiot dokonujący wypłaty (rezydent w kraju położenia źródła przychodu).
+
+W przypadku podatku u źródła podatnikiem jest podmiot otrzymujący wypłatę (np. wynagrodzenie z tytułu usług, płatności licencyjne, odsetki z tytułu pożyczki), jednak obliczenie, pobór i zapłata podatku do urzędu skarbowego są dokonywane przez podmiot dokonujący wypłaty, określany jako płatnik podatku. Płatnik pobiera więc podatek ciążący na podatniku (na dochodach podatnika z tytułu usług, licencji, odsetek itp.), który otrzymuje kwotę wynagrodzenia netto, czyli pomniejszoną o kwotę podatku zatrzymanego u źródła (ang. withholding tax, WHT).
+
+Przykładowo, jeżeli stawka podatku u źródła wynosi 10% od należności licencyjnych uiszczanych przez polskiego rezydenta podatkowego na rzecz licencjodawcy będącego rezydentem USA, to podmiot amerykański otrzyma 90% kwoty wynagrodzenia z tytułu licencji. Podatek w wysokości 10% kwoty wynagrodzenia zostanie potrącony przez podmiot polski (płatnika podatku) i odprowadzony do polskiego urzędu skarbowego jako podatek u źródła z tytułu wynagrodzenia uzyskanego przez rezydenta amerykańskiego na terytorium Polski (kraju źródła przychodu).
+
+Stawki podatku u źródła mogą być określane przez ustawodawstwo wewnętrzne danego państwa lub też poprzez postanowienia bilateralnych umów międzynarodowych o unikaniu podwójnego opodatkowania.
+
+

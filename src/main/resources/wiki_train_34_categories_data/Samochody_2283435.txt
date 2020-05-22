@@ -1,0 +1,25 @@
+Toyota Gaia - samochód osobowy typu MPV produkowany przez japońską firmę Toyota w latach 1998 - 2004 z przeznaczeniem na rynek rodzimy. Dostępny wyłącznie jako 5-drzwiowy minivan. Do napędu używano benzynowych silników R4 dwóch litrów oraz turbodiesla R4 2.2. Moc przenoszona była na oś przednią (opcjonalnie AWD) poprzez 4--biegową automatyczną skrzynię biegów. Samochód został zastąpiony przez model Isis.
+
+Dane techniczne ('02 R4 2.0)
+Silnik
+R4 2,0 l (1988 cm³), 4 zawory na cylinder, DOHC
+Układ zasilania: wtrysk bezpośredni
+Średnica cylindra × skok tłoka: 86,00 mm × 86,00 mm 
+Stopień sprężania: 9,8:0
+Moc maksymalna: 152 KM (112 kW) przy 6000 obr/min
+Maksymalny moment obrotowy: 200 N•m przy 4000 obr/min
+
+Dane techniczne ('02 R4 2.2)
+Silnik
+R4 2,2 l (2184 cm³), 2 zawory na cylinder, SOHC, turbo
+Układ zasilania: wtrysk
+Średnica cylindra × skok tłoka: 86,00 mm × 94,00 mm  
+Stopień sprężania: 22,6:0
+Moc maksymalna: 94 KM (69 kW) przy 4000 obr/min
+Maksymalny moment obrotowy: 206 N•m przy 2200 obr/min
+
+
+
+
+
+Bibliografia

@@ -1,0 +1,23 @@
+Aktywność optyczna, skręcalność optyczna, lub czynność optyczna – właściwość niektórych związków chemicznych polegająca na zdolności skręcania płaszczyzny polaryzacji światła spolaryzowanego. Skręcalność optyczna jest rodzajem dwójłomności, powiązanym zjawiskiem związanym z absorpcją światła jest dichroizm kołowy.
+
+Warunkiem koniecznym występowania aktywności optycznej cząsteczek jest ich chiralność, czyli istnienie w formie dwóch nienakładalnych enancjomerów. Nie wszystkie cząsteczki chiralne wykazują jednak aktywność optyczną. Aby ją wykazywać w zauważalnym stopniu, chiralne cząsteczki muszą posiadać silnie spolaryzowane wiązania chemiczne blisko centrum chiralności lub posiadać przy tym centrum znacząco różne podstawniki.
+  
+Skręcalność optyczna jest funkcją długości fali światła (zjawisko to określa się jako dyspersję skręcalności optycznej). Znane są cząsteczki, które dla jednej długości fali skręcają światło w lewo, a dla innej w prawo, a jeszcze dla innej długości w ogóle nie skręcają. Określona konfiguracja przestrzenna cząsteczek nie przekłada się więc bezpośrednio na określoną aktywność optyczną. Z budowy przestrzennej cząsteczki nie da się z całkowitą pewnością bezpośrednio wywnioskować, w którą stronę będzie ona skręcać światło.
+
+Konfiguracja absolutna
+Tzw. konfiguracja absolutna cząsteczki może być określona bezpośrednio tylko w wyniku badań metodą rentgenografii strukturalnej lub pośrednio – poprzez przeprowadzenie jej syntezy asymetrycznej z substratów o wcześniej ustalonej konfiguracji absolutnej. Nie da się jej natomiast wywieść wprost z samych badań skręcalności światła. W wielu grupach organicznych związków chemicznych zbierany przez lata materiał porównawczy pozwala jednak z dużą precyzją przewidzieć konfigurację absolutną na podstawie kierunku skręcania światła. Np: w chemii steroidów istnieje tzw. reguła oktantów pozwalająca powiązać absolutną konfigurację cząsteczki z jej aktywnością optyczną. Podobne reguły znane są także dla aminokwasów i węglowodanów.
+
+Skręcalność optyczną wykazuje wiele związków organicznych jak i nieorganicznych. Większość związków wykazujących tę cechę ma zazwyczaj jeden lub więcej atomów, do których są przyłączone co najmniej trzy różne podstawniki nie leżące na jednej płaszczyźnie. Atomy takie nazywa się centrami chiralności. Istnieją jednak także związki chemiczne, w których tego rodzaju atomy nie występują, ale są one chiralne jako całość np. na skutek budowy spiralnej, lub gdy posiadają sztywne ugrupowania cykliczne. Z drugiej strony występowanie niesymetrycznych atomów w cząsteczce nie gwarantuje ich chiralności (np:  diasteroizomery).
+
+W przypadku związków organicznych, centrami chiralności są zwykle atomy węgla, które posiadają cztery różne podstawniki. Dokładne wzajemne ustawienie tych podstawników względem siebie w przestrzeni jest nazywane konfiguracją absolutną. Konfigurację tę oznacza się literami R i S stawianymi przed systematyczną nazwą związku. Zasady ustalania tej konfiguracji są jednoznacznie precyzyjne, dzięki czemu można z samej nazwy związku odtworzyć dokładnie jej konfigurację przestrzenną.
+ 
+Często spotykane w biochemii oznaczanie typów enancjomerów (+) i (–) wynika bezpośrednio z tego, jak  skręcają one monochroamtyczne światło spolaryzowane o długości odpowiadającej tzw. pierwszej linii sodowej, natomiast nic nie mówi o ich konfiguracji absolutnej. Enancjomery (+) skręcają to światło w prawo, zaś (–) w lewo.
+
+Enancjomery (+) i (–) skręcają płaszczyznę polaryzacji światła zawsze dokładnie o taki sam kąt, ale w przeciwną stronę, dlatego ich równomolowa mieszanina wykazuje skręcalność zerową i nazywa się mieszaniną racemiczną. Pomiar aktywności optycznej jest często stosowany do określenia czystości enancjomerycznej (patrz nadmiar enancjomeryczny). Jest to jednak możliwe dopiero wtedy, gdy zna się wartość skręcalności optycznej dla czystych enancjomerów.
+
+Wszystkie chiralne związki organiczne produkowane przez organizmy żywe istnieją tylko w postaci jednego z dwóch możliwych enancjomerów. Pomiar aktywności optycznej jest więc bardzo prostą metodą umożliwiającą rozróżnienie ich od sztucznie syntetyzowanych mieszanin racemicznych, aczkolwiek postępy w syntezie asymetrycznej umożliwiają współcześnie otrzymywanie wielu czystych enancjomerów, zupełnie nieodróżnialnych od ich naturalnych pierwowzorów.
+
+Ilościowo aktywność optyczna określana jest przez takie parametry jak skręcalność właściwa, krzywa ORD, dichroizm kołowy.
+
+
+

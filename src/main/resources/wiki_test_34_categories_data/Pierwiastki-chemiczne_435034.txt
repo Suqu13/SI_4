@@ -1,0 +1,16 @@
+Efekt izotopowy – występowanie różnic we własnościach fizycznych i chemicznych różnych izotopów tego samego pierwiastka chemicznego oraz związków chemicznych, posiadających dokładnie tę samą strukturę ale zawierających różne izotopy tego samego pierwiastka.
+
+Przykładem tego efektu są różnice we właściwościach fizycznych "zwykłej" wody (H2O) i ciężkiej wody (D2O). Ciężka woda posiada nieco większą gęstość i nieco wyższe temperatury przemian fazowych (topnienie i wrzenie) od "zwykłej wody". Ma ona także nieco inną przenikalność elektryczną.  Podobne różnice występują w mniejszym lub większym stopniu w przypadku większości związków chemicznych różniących się składem izotopowym. 
+
+Odkryto także różnice w temperaturze krytycznej nadprzewodników zależne od składu izotopowego substancji. Po raz pierwszy zaobserwowano je dla rtęci, dla izotopu 198 temperatura krytyczna wynosi 4,156 K, a dla naturalnej rtęci o średniej masie atomowej 200,6 wynosi 4,177 K.
+
+Różnica mas izotopów powoduje też występowanie niewielkich różnic w reaktywności chemicznej różnych izotopów. Nie ma ona wpływu na kierunek reakcji chemicznych, w których one uczestniczą, ale wpływa na szybkość tych reakcji. Zjawisko to nazywa się kinetycznym efektem izotopowym i wykorzystuje się go w badaniu mechanizmów reakcji chemicznych. Występowanie lub nie kinetycznego efektu izotopowego dla związku "znakowanego" w określonym jego miejscu izotopem dowodzi, czy oznakowany fragment cząsteczki istotnie uczestniczy w reakcji, czy też fragment ten nie ulega w jej trakcie wymianie. Kinetyczny efekt izotopowy ułatwia też ustalenie rzeczywistego, wewnętrznego rzędu reakcji chemicznej.
+
+Matematycznie różnice izotopowe opisuje położenia termów oraz poziomów struktury multipletowej i nadsubtelnej dla różnych izotopów tego samego pierwiastka są różne. Jądra atomowe tych izotopów różnią się liczbą neutronów i co za tym idzie masą, promieniem, gęstością ładunku i rozkładem potencjału. 
+
+Na efekt izotopowy składają się trzy zjawiska: 
+normalny efekt masy,
+specyficzny efekt masy,
+efekt objętościowy.
+
+Bibliografia

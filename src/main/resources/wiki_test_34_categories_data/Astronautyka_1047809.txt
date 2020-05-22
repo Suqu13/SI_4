@@ -1,0 +1,9 @@
+BSat-3A − geostacjonarny satelita telekomunikacyjny do bezpośredniego przekazu sygnałów telewizyjnych do odbiorników domowych, będący własnością japońskiej firmy B-SAT. Znajduje się nad południkiem 110°E. Zasięgiem działania obejmuje głównie Japonię. Planowany czas działania statku to co najmniej 13 lat.
+
+Satelita dokonuje dystrybucji sygnałów telewizyjnych za pomocą 12 transponderów pasma Ku, o mocy 130 W każdy. Cztery transpondery są rezerwowe.
+
+Statek zbudowany został w oparciu o platformę A2100 A. Stabilizowany trójosiowo. Ogniwa słoneczne na końcu misji będą wytwarzały do 2,8 kW energii elektrycznej.
+
+
+
+Bibliografia

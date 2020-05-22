@@ -1,0 +1,53 @@
+
+
+Grafen – płaska struktura złożona z atomów węgla, połączonych w sześciokąty. Materiał ten kształtem przypomina plaster miodu, a ponieważ ma jednoatomową grubość, uważa się go za strukturę dwuwymiarową. Grafen jest przedmiotem zainteresowania przemysłu ze względu na różne właściwości, w tym elektryczne i mechaniczne.
+
+Opis teoretyczny grafenu powstał już w 1947 w pracy Wallace’a. Jednak w tym samym okresie opublikowano szereg innych prac, w których dowodzono, że grafen, jak i inne materiały dwuwymiarowe, nie może istnieć w przyrodzie. Na początku lat 80. ubiegłego wieku pojawiały się artykuły wskazujące, że grafen można wytworzyć. W 2004 roku nastąpił przełom – równolegle grupy z Georgii  i Manchesteru pokazały, że wytworzony przez nich grafen ma unikalne własności, które zostały przewidziane wcześniej. Po tych publikacjach nastąpiło gwałtowne przyspieszenie prac nad grafenem – zarówno pod kątem czysto badawczym, jak i w poszukiwaniu coraz lepszych metod wytwarzania tego materiału.
+
+Za badania grafenu Andriej Gejm i Konstantin Nowosiołow z uniwersytetu w Manchesterze otrzymali w 2010 Nagrodę Nobla w dziedzinie fizyki.
+
+Właściwości
+Bardzo dobry przewodnik ciepła oraz elektryczności – zmierzona przewodność cieplna wynosi od 4840±440 do 5300±480 W/mK (dla porównania srebro – 429 W/mK).
+Niewielka rezystywność
+Bardzo wysoka ruchliwość elektronów w temperaturze pokojowej – przy założeniu rozpraszania jedynie na fononach: μ ≈ 200 000 cm²/Vs (dla porównania krzem – 1500 cm²/Vs, arsenek galu – 8500 cm²/Vs).
+Prędkość przepływu elektronów, wynosząca 1/300 prędkości światła, umożliwia badanie efektów relatywistycznych dla elektronu poruszającego się w przewodniku.
+Warstwa o grubości jednego atomu pochłania 2,3% białego światła (dokładnie πα, gdzie α to stała struktury subtelnej).
+Jego wytrzymałość na rozciąganie wynosi 130 GPa, w porównaniu do ok. 0,4 GPa dla stali konstrukcyjnej lub kevlaru.
+Membrana z utlenionego grafenu nie przepuszcza gazów, nawet atomów helu, a równocześnie jest całkowicie przenikalna dla wody. Daje to możliwość zastosowania do filtracji w temperaturze pokojowej, np. w celu zwiększenia stężenia alkoholu bez użycia klasycznej destylacji czy wymrażania lub taniej produkcji wody pitnej z wody morskiej.
+
+Grafen jest materiałem zbudowanym z atomów węgla połączonych wiązaniami o hybrydyzacji sp². 
+
+Grafen jest półprzewodnikiem z zerową () przerwą energetyczną lub półmetalem. Znaczy to, że pasmo walencyjne i pasmo przewodnictwa są ze sobą złączone, ale nie przenikają się, tworząc tzw. stożek Diraca. Struktura pasmowa w grafenie jest więc odmienna od większości znanych kryształów. Półprzewodniki są kryształami o małej przerwie energetycznej (w grafenie zerowa), natomiast w metalach pasma walencyjne i przewodnictwa przenikają się (w grafenie stykają się). .
+
+Ważną cechą grafenu jest też liniowa zależność dyspersyjna energii od pędu. W klasycznych materiałach energia wyraża się przez kwadrat pędu (energia kinetyczna określana jest jako mv²/2 lub tożsamościowym wzorem p²/2m). W kryształach struktura pasmowa wyraża zależność energii od pędu (na osi „x” jest pęd określony przez wektor falowy „k” a na osi pionowej jest energia). W grafenie zależność energii od pędu nie jest określona wzorem p²/2m a pc’, gdzie c’ jest wartością stałą. Taka zależność występuje w nielicznych kryształach oraz w przypadku światła (E=pc).
+
+Omawiane właściwości powodują, że elektrony w grafenie są bezmasowymi fermionami Diraca. W praktyce przekłada się to na wysokie parametry przewodnictwa cieplnego i elektrycznego, a także na szereg kwantowych efektów (anomalny kwantowy efekt Halla, rezonansowy efekt Ramana, chiralność, pseudospin, tunelowanie Kleina).
+
+Jednym z efektów związanych z liniową zależnością dyspersyjną jest unikalna absorpcja grafenu. Pochłanianie światła zachodzi wtedy, gdy elektron z pasma walencyjnego może pochłonąć foton (efekt fotoelektryczny). Jest to możliwe, jeśli różnica energii między danym punktem z pasma walencyjnego i przewodnictwa jest taka sama jak energia fotonu. W grafenie w okolicy tzw. punktu K jest liniowa zależność dyspersyjna i zamknięta przerwa energetyczna. Powoduje to, że każda długość fali światła (każdy kolor)  w zakresie od bliskiej podczerwieni do ultrafioletu może być zaabsorbowana przez grafen, ponieważ zawsze znajdzie się taki elektron, który będzie mógł pochłonąć dany foton. Ponadto prawdopodobieństwo zaabsorbowania każdej długości fali światła jest takie samo.
+
+Dla ultrafioletu efekt nie zachodzi, ponieważ równanie E=pc’ nie jest spełnione w tym obszarze energii. Dla podczerwieni energie są bardzo małe i wektor falowy (pęd) staje się bardzo bliski punktowi K, co powoduje szereg efektów kwantowych zaburzających absorpcję. Zatem dla światła widzialnego absorpcja dla różnych długości fali jest taka sama. Należy przy tym pamiętać, że grafen jest jednowarstwowym materiałem, co powoduje, że pochłania tylko bardzo małą część światła padającego (2,3%). Stąd mówi się, że materiał ten jest bardzo przezroczysty, a jednocześnie mocno absorbuje światło (jak na tak cienki materiał).
+
+Zastosowanie
+Materiał ten ma szansę w wielu zastosowaniach zastąpić krzem. Naukowcy amerykańskiego Massachusetts Institute of Technology (MIT) zbudowali eksperymentalny grafenowy mnożnik częstotliwości, co oznacza, że jest w stanie odebrać przychodzący sygnał elektryczny pewnej częstotliwości i wyprodukować sygnał wychodzący, stanowiący wielokrotność tej częstotliwości. W tym przypadku układ stworzony przez MIT podwoił częstotliwość sygnału elektromagnetycznego. Testy przeprowadzone przez IBM wykazały, że tranzystor wytworzony w procesie technologicznym 240 nm jest w stanie osiągnąć częstotliwość do 100 GHz.
+
+Przejrzystość i znakomite przewodnictwo sprawiają, że grafen nadaje się do wytwarzania przejrzystych, zwijanych w rolkę wyświetlaczy dotykowych oraz do produkcji energii odnawialnej z baterii słonecznych i magazynowania jej w wysokowydajnych akumulatorach czy superkondensatorach. Czujniki z grafenu potrafią zarejestrować obecność pojedynczej cząsteczki szkodliwej substancji, znajdując zastosowanie np. w monitoringu i ochronie środowiska. 
+
+Otrzymywanie
+Grafen wytwarzany jest wieloma technikami, a każda z nich ma inne potencjalne zastosowanie w nauce i przemyśle.
+Odrywanie mechaniczne przy użyciu taśmy klejącej z wysokiej jakości grafitu służy głównie do zastosowań czysto badawczych. Tak otrzymany grafen ma bardzo wysokie parametry ruchliwości, jednak nie może być wytwarzany na masową skalę ze względu na ogromne koszty. Do niedawna tak otrzymywany grafen był wręcz najdroższym materiałem na świecie. Jednak w nauce nie są potrzebne duże rozmiary próbek, a tego rodzaju grafen można wytwarzać w każdym laboratorium.
+
+Inną techniką wytwarzania grafenu jest osadzanie z fazy gazowej (CVD, z ang. chemical vapor deposition) na metalach. Proces ten zapoczątkowali Koreańczycy, a obecnie jest wykorzystywany w wielu laboratoriach na świecie. Dzięki tej metodzie grafen stał się znacznie tańszym materiałem – koszt produkcji grafenu na miedzi jest znacząco niższy, niż grafenu otrzymywanego z grafitu. Jednocześnie grafen na miedzi ma znacząco niższą jakość niż grafen otrzymywany z grafitu i nie może być zastosowany do produkcji urządzeń elektronicznych. Można go jednak stosować do budowy ekranów dotykowych, gdzie jakość (liczba defektów, wielkość domen i jednorodność) nie jest tak bardzo istotna.
+
+Kolejną metodą jest wytwarzanie grafenu na węgliku krzemu. Metoda wytwarzania węgla przez rozkład termiczny SiC pozwala na otrzymywanie dużych powierzchni wysokiej jakości grafenu. Koszt podłoża SiC jest jednak bardzo wysoki. Na grafenie wyhodowanym na SiC powstał pierwszy grafenowy układ scalony.
+
+W 2011 roku Instytut Technologii Materiałów Elektronicznych oraz Wydział Fizyki Uniwersytetu Warszawskiego poinformowały o wspólnym opracowaniu technologii pozyskiwania dużych fragmentów grafenu o najlepszej dotąd jakości.
+
+Przypisy
+
+
+Zobacz też
+grafan
+grafit
+
+Linki zewnętrzne
+

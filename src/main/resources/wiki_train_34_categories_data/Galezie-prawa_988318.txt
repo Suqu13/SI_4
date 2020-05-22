@@ -1,0 +1,3 @@
+Data uregulowania - określony termin płatności, w czasie którego musi zostać dokonana dana płatność z tytułu zawartej transakcji pomiędzy kupcem a sprzedawcą. Ta data uregulowania określonego zobowiązania jest tożsama bądź nieco późniejsza w stosunku do daty zerwania albo zakończenia danej transakcji handlowej.
+
+

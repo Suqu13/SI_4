@@ -1,0 +1,10 @@
+
+
+
+Motion capture (mocap) – technika stosowana w filmach i grach komputerowych, polegająca na „przechwytywaniu” trójwymiarowych ruchów aktorów i zapisywaniu przez komputer. Dzięki niej zarejestrowane postaci poruszają się bardzo naturalnie i realistycznie, a przechwycone dane są gotowe do dalszej obróbki. Technologia ta nie zastępuje w pełni pracy animatora, wnosi jednak znaczące wsparcie do procesu animacji. Aby stworzyć animacje za pomocą tej techniki potrzebne są kamery oraz markery (czujniki). Aktor zakłada na siebie czarną kamizelkę po czym mocuje się markery. Jeśli kamery są już rozstawione można przystąpić do pracy. Kiedy człowiek się poruszy jego ruchy przekierowywane są do komputera i podlegają dalszej obróbce (między innymi czyszczeniu animacji). Motion capture jest niejako rozwinięciem idei rotoskopu.
+
+Nowszą i bardziej zaawansowaną techniką jest performance capture, która poza ruchem ciała przechwytuje także mimikę aktora, co pozwala na stworzenie realistycznych trójwymiarowych modeli twarzy. W sesjach performance capture najczęściej udział biorą aktorzy, których głosami przemawiają animowane postaci, co pozwala na nagranie dialogów w trakcie sesji, zamiast późniejszego dogrywania ich w studiu dźwiękowym. Przykładem performance capture mogą być Na’vi z filmu Avatar czy Gollum z ekranizacji powieści J. R. R. Tolkiena w reżyserii Petera Jacksona. Gry komputerowe wykorzystujące tę technikę to m.in. Tomb Raider, L.A. Noire i ''''.
+
+Jednym z sławnych aktorów w tej technologii jest Andy Serkis.
+
+Linki zewnętrzne

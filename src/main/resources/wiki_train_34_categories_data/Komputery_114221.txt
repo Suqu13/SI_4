@@ -1,0 +1,21 @@
+
+
+Cray-1''' był superkomputerem zaprojektowanym w Cray Research przez zespół, w skład którego wchodził Seymour Cray (twórca technologii rejestrów wektorowych). Pierwszy system Cray-1 został zainstalowany w Los Alamos National Laboratory w 1976.
+
+Opis
+Komputer Cray-1A wraz z freonowym systemem chłodzenia ważył 5,5 tony. Jednym ze środków uzyskania wielkich szybkości jest skracanie do minimum połączeń kablowych. Cel ten narzucił przestrzenną strukturę komputera: został zbudowany z sekcji połączonych w kształt podkowy; najdłuższy przewód w systemie miał 122 cm. Komputer wykorzystywał procesor wektorowy i zawierał 200 000 specjalizowanych układów ECL. CRAY-1A posiadał 12,5-nanosekundowy okres zegara (80 MHz), 8 rejestrów wektorowych zawierających po 64 słowa, oraz 1 milion 64-bitowych słów szybkiej pamięci (8 MB RAM). Mógł wykonywać ponad 80 milionów operacji zmiennopozycyjnych na sekundę (80 MFLOPS). W późniejszym okresie ustanowił rekord szybkości na poziomie 133 MFLOPS.  Skonfigurowany z 1 milionem słów RAM, maszyna i jej systemy zasilające pobierały około 115 kW mocy; systemy chłodzące oraz pamięć dyskowa podwajały tę liczbę.
+
+W 1978 został wydany pierwszy standardowy pakiet oprogramowania dla Cray-1 zawierający trzy główne produkty:
+Cray Operating System (COS) (w późniejszym okresie mógł być uruchomiony UniCOS, odmiana Uniksa firmy Cray),
+Cray Assembler Language (CAL)
+Cray FORTRAN (CFT) - pierwszy automatycznie wektoryzujący kompilator języka Fortran
+
+Historia
+National Center for Atmospheric Research (NCAR) stał się pierwszym oficjalnym klientem Cray Research's w lipcu 1977, system kosztował 8,86 miliona USD (7,9 miliona USD za komputer plus 1 milion USD za system dyskowy). Komputer zakupiony przez NCAR został wycofany z eksploatacji w styczniu 1989. Na świecie zostało sprzedanych około 80 komputerów Cray-1, kosztujących od 5 do 8 milionów USD.
+
+Cray-1 został zastąpiony w 1982 przez 500 MFLOPS-owy Cray X-MP, pierwszy wieloprocesorowy komputer firmy Cray. W 1985 roku zaawansowany technicznie Cray-2, o szczytowej wydajności 1,9 GFLOPS, zastąpił pierwsze dwa modele. Osiągnął on jednak ograniczony sukces komercyjny ze względu na problemy w utrzymaniu wysokiej wydajności w rzeczywistych aplikacjach. Z tego powodu został stworzony Cray Y-MP, bardziej konserwatywnie zaprojektowany ewolucyjny następca modeli Cray-1 i Cray X-MP. Pierwszego Craya Y-MP uruchomiono w roku 1988.
+
+Linki zewnętrzne (anglojęzyczne)
+ – pierwsze trzy rozdziały(from the copy at s collection, digitized and HTML'ized by Ed Thelen)
+
+

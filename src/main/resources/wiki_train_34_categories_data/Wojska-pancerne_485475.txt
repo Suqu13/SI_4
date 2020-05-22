@@ -1,0 +1,33 @@
+'''8,8 cm KwK 36''' (Kampfwagenkanone 36 – działo czołgowe wzór 36) to niemiecka armata czołgowa z okresu II wojny światowej stanowiąca główne uzbrojenie czołgu PzKpfw VI Tiger.
+
+Konstrukcja
+Pod wieloma względami konstrukcja KwK 36 jest praktycznie identyczna do armat przeciwlotniczych Flak 18/Flak 36, armata KwK mogła używać amunicji przeznaczonej do dział Flak 18/36, wszystkie te armaty miały te same właściwości balistyczne i długość lufy wynoszącą 56 kalibrów. Zamek KwK był typu półautomatycznego, po oddanym strzale pusta łuska po pocisku była automatycznie wyrzucana, a zamek pozostawał otwarty.
+
+KwK 36 była jedną z najlepszych armat przeciwpancernych produkowanych w okresie II wojny światowej. Była bronią niezwykle celną, o bardzo płaskiej trajektorii lotu pocisku – oznaczało to, że nawet jeśli odległość do celu została źle oceniona, to wystrzelony pocisk i tak najprawdopodobniej trafiał w cel. Podczas brytyjskich prób przeprowadzonych w czasie wojny na zdobycznej broni, testujący armatę artylerzyści potrafili trafić pięć razy z rzędu w cel wielkości 16 na 18 cali (40 na 50 cm) z odległości 1200 jardów (1080 m).
+
+Amunicja
+Wszystkie podane grubości przebijanego pancerza odnoszą się do płyty pancernej o nachyleniu 30°.
+
+Pzgr. 39
+Pocisk przeciwpancerny z czepcem i czepcem balistycznym z dodatkowym ładunkiem wybuchowym i smugaczem.
+masa pocisku: 10,2 kg
+prędkość wylotowa: 773 m/s
+masa ładunku wybuchowego: 0,06 kg
+
+
+Pzgr. 40
+Pocisk przeciwpancerny z rdzeniem wolframowym.
+masa pocisku: 7,3 kg
+prędkość wylotowa: 930 m/s
+
+
+Gr. 39
+Pocisk kumulacyjny.
+masa pocisku: 7,65 kg 
+prędkość wylotowa: 600 m/s
+
+
+Linki zewnętrzne
+http://www.fprado.com/armorsite/tiger1-03.htm 
+
+Bibliografia

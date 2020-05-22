@@ -1,0 +1,10 @@
+
+
+''' WikiReader ''' – kieszonkowy czytnik tekstu typu PDA, tajwańskiej firmy Openmoko Inc, przeznaczony do przeglądania tekstowych wersji stron Wolnej Encyklopedii Wikipedia w trybie offline.
+
+To niewielkie, zasilane dwoma ogniwami typu AAA urządzenie, ma możliwość przechowywania w swojej pamięci do 3 milionów stron zapisanych na karcie pamięci microSD, dzięki czemu istnieje możliwość bieżącej aktualizacji bazy danych. Monochromatyczny wyświetlacz LCD wyposażony został w funkcję ekranu dotykowego, dzięki której możliwe było umieszczenie na nim standardowej klawiatury QWERTY.
+
+W chwili obecnej bezpłatna aktualizacja bazy danych WikiReadera możliwa jest jedynie przez stronę domową urządzenia. W przyszłości możliwe będzie odpłatne zamówienie drogą pocztową karty SD z aktualizacją. Usługa ma być świadczona kilka razy do roku w zamian za niewielki abonament.
+
+Bibliografia
+Linki zewnętrzne

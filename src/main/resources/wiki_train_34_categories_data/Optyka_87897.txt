@@ -1,0 +1,20 @@
+
+Zasada Fermata w optyce jest szczególnym przypadkiem zasady najmniejszego działania. 
+Zasadę tę sformułował Pierre de Fermat. Treść jej w ujęciu Fermata miała następujące brzmienie:
+
+Promień świetlny poruszający się (w dowolnym ośrodku) od punktu A do punktu B przebywa zawsze lokalnie minimalną drogę optyczną, czyli taką, na której przebycie potrzeba czasu najkrótszego.'' 
+
+
+Obecnie wiadomo, że sformułowanie to nie jest ścisłe. Światło w istocie porusza się po takiej drodze optycznej, która jest stacjonarna, co oznacza, że czas jej pokonania nie zmienia się przy niewielkiej zmianie kierunku biegu promienia. W klasycznych zagadnieniach (załamanie, odbicie od płaskiej powierzchni) jest to droga pokonywana w minimalnym czasie. Ale w przypadku soczewkowania grawitacyjnego światło porusza się po drodze maksymalnej, podczas gdy przy odbiciu od zwierciadła eliptycznego droga promienia osiąga punkt siodłowy (zmiana w jednym kierunku powoduje wzrost czasu pokonania drogi a w kierunku prostopadłym do pierwszego – zmniejszenie).
+
+Na podstawie zasady Fermata można wyprowadzić prawo odbicia i załamania.
+
+Przykład: wyprowadzenie prawa załamania:'''
+
+Światło biegnie z punktu A do punktu B. Chcemy odnaleźć krzywą, po której się ono porusza. Załóżmy, że mamy dwa ośrodki optyczne o bezwzględnym współczynniku załamania  i . Wtedy prędkość światła w każdym z tych ośrodków wynosi odpowiednio:
+ i  (rysunek). Oznaczmy przez x punkt, w którym światło przechodzi przez granicę dwóch ośrodków (najszybszą drogą dotarcia do tego punktu w jednorodnym ośrodku jest linia prosta). Czas potrzebny na przebycie tej drogi to:
+
+gdzie a jest odległością między punktami A i B mierzoną w poziomie wzdłuż granicy ośrodków. Stacjonarność rozwiązania wymaga zerowania się pierwszej pochodnej czasu po x
+
+Zatem: 
+

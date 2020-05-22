@@ -1,0 +1,69 @@
+Glin (w technice: aluminium; Al, łac. aluminium) – pierwiastek chemiczny, metal z bloku p układu okresowego.
+
+Jedynym izotopem stabilnym jest 27Al.
+
+Glin jest trzecim najpowszechniej występującym pierwiastkiem w skorupie ziemskiej.
+Od jego symbolu (oraz symbolu krzemu) wywodzi się dawna nazwa najbardziej zewnętrznej warstwy globu – sial.
+
+Historia
+Sole i tlenki glinu znane były od zarania dziejów. Uwodniony, mieszany siarczan tego pierwiastka, ałun, był używany jako środek antyseptyczny przez starożytnych Greków. Istnienie tego pierwiastka i nazwę zasugerował Louis-Bernard Guyton de Morveau w 1761 r. W 1807 podobną sugestię wyraził sir Humphry Davy, który zaproponował współczesną nazwę (aluminium). Istnieją kontrowersje na temat tego kto pierwszy wyodrębnił ten pierwiastek w stanie czystym. Według jednych źródeł był to Friedrich Wöhler w 1827 r. wg innych Hans Christian Ørsted w 1825 r. Amerykanin Charles Martin Hall i Francuz Paul-Louis Toussaint Héroult w 1886 opracowali produkcję glinu na skale przemysłową. Niezależnie od siebie opracowali metodę otrzymywania aluminium w procesie elektrolizy stopionej mieszaniny kriolitu i boksytu, obecnie znanym jako proces Halla-Heroulta.
+
+Właściwości chemiczne
+Glin występuje na III stopniu utlenienia, bardzo rzadko również na I i II. W stanie czystym powoli utlenia się na powietrzu, ulegając pasywacji.
+
+Podgrzewany reaguje z tlenem obecnym w powietrzu tworząc tlenek. Glin łatwo roztwarza się w mocnych zasadach, takich jak NaOH lub KOH wypierając wodór i przechodząc w tetrahydroksoglinian sodu:
+2Al + 2NaOH + 6H2O → 2Na[Al(OH)4] + 3H2↑.
+W kwasie solnym i w rozcieńczonym kwasie siarkowym roztwarza się wypierając wodór, natomiast reakcja ze stężonym kwasem siarkowym i rozcieńczonym kwasem azotowym przebiega inaczej – wydziela się odpowiednio dwutlenek siarki i dwutlenek azotu. W stężonym kwasie azotowym glin ulega pasywacji.
+
+Właściwości fizyczne
+Jest srebrzystobiałym metalem o niskiej gęstości, bardzo dobrej kowalności i dużej plastyczności. Jest łatwy w odlewaniu i obróbce, podczas której nie tworzy iskier. Wykazuje dobre przewodnictwo elektryczne, jest niemagnetyczny. W postaci czystej jego właściwości mechaniczne są słabe, które jednak można znacząco poprawić poprzez niewielkie ilości dodatków stopowych. Cienkie powłoki naparowanego glinu są trwałymi, bardzo dobrymi zwierciadłami dla światła widzialnego i promieniowania cieplnego (czysty glin odbija do 99% światła widzialnego i do 95% podczerwieni).
+
+Zastosowanie
+Stopy aluminium
+
+Ze względu na swoje właściwości, takie jak mała gęstość i odporność na korozję, stopy glinu z miedzią i magnezem zwane duraluminium znalazły wiele zastosowań i są używane do wyrobu szerokiej grupy produktów – od części karoserii i silników samochodów, przez poszycia i elementy konstrukcyjne samolotów, po części statków kosmicznych. Tak zwane aluminium utwardzane dyspersyjnie jest wykorzystywane w produkcji koszulek elementów paliwowych i konstrukcyjnych rdzeni niektórych badawczych reaktorów jądrowych.  Stopów aluminium z manganem i magnezem używa się do produkcji puszek do napojów (stopy 3004 lub 3104 na ścianki oraz 5182 na wieczka).
+
+Czysty glin
+Próżniowe napylenie glinu na powierzchnię szkła lub przezroczystych tworzyw sztucznych wykorzystywane jest do produkcji luster.
+
+Pył glinowy
+Sproszkowany glin używany jest w hutnictwie do otrzymywania metali z ich tlenków w procesie aluminotermii. Stosowana w tym procesie mieszanina glinu oraz tlenków metali jest znana pod nazwą termit. Termitu używa się do produkcji broni, oraz do spawania rur i szyn kolejowych.
+Pył glinowy jest często składnikiem farb metalicznych odpowiedzialnym za charakterystyczny połysk.
+
+W syntezie chemicznej pył aluminium stosowany jest w reakcjach uwodorniania i jako zamiennik cynku w reakcji Reformatskiego.
+
+Stosowany jest również w przemyśle spożywczym, jako barwnik metaliczny. Używany jest przy srebrnych dekoracjach ciast i tortów. Parlament Europejski uznał, że dodawanie aluminium powinno być zakazane, ponieważ istnieją przesłanki, że ma związek z chorobą Alzheimera, choć do tej pory nie udało się tego jednoznacznie udowodnić.
+
+Folia aluminiowa
+Folie aluminiowe o różnej grubości stosowane są do pakowania (m.in. żywności) oraz do różnorodnych celów w technikach laboratoryjnych. Folia aluminiowa jest także wykorzystywana jako tzw. lustro lub ekran cieplny (odbijający promieniowanie podczerwone) do zapobiegania utraty ciepła. W tym celu stosuje się albo samą folię aluminiową (np. o grubości 0,05 mm), albo połączoną trwale z materiałem termoizolacyjnym.
+
+Związki
+
+Najważniejsze związki glinu to tlenek glinu i amfoteryczny wodorotlenek glinu. Glin tworzy też wodorek, a tetrahydroglinian litu LiAlH4 jest powszechnie stosowanym w chemii organicznej silnym środkiem redukującym. Duże znaczenie przemysłowe mają też aluminoksany, a zwłaszcza MAO (metylowy aluminoksan), z którego produkuje się sita molekularne, oraz powszechnie wykorzystuje jako stałe podłoże dla wielu katalizatorów. Glina i kaolin powszechnie wykorzystywane przy produkcji ceramiki to złożone mieszaniny glino-krzemianów.
+
+Znaczenie biologiczne
+Znaczenie dla fauny
+Wodorowęglan glinu Al(HCO3)3, ortofosforan glinu AlPO4 oraz krzemian glinu Al2(SiO3)3 są stosowane jako leki przy nadkwasocie.
+
+Glin jest całkowicie asymilowany przez wątrobę i nie wydalany na zewnątrz, nie wykazując przy tym typowych cech toksycznych. Dlatego też większość źródeł zalicza go do metali obojętnych i z tego względu w pewnych określonych warunkach dopuszczony jest do użytkowania w gastronomii. Jednak w przypadku termicznej obróbki żywności, przy bezpośrednim kontakcie z wodą, glin wykazuje wysoką rozpuszczalność i w nadmiernych ilościach przenika do pożywienia. Z tego powodu w Polsce już w latach 80. systematycznie wycofywano z użytku naczynia aluminiowe i obecnie jego znaczenie jest marginalne. Nadmiar glinu nadmiernie obciąża wątrobę, a przyjmowanie dużych dawek tego pierwiastka, zwłaszcza w okresie dzieciństwa, skutkuje upośledzeniem funkcji i mniejszą wydajnością tego organu w późniejszych latach. Ponadto należy wspomnieć, że glin łatwo asymiluje się ze związkami wapnia łatwo przyswajalnego do związków trudno przyswajalnych. Dlatego też należy ograniczać jego spożycie w okresie wzrostu i rozwoju układu kostnego. Nie jest również wskazane, aby w nadmiarze spożywały go osoby w trakcie leczenia złamań i cierpiące na odwapnienie kości.
+
+Znaczenie dla flory i gleb
+Glin, podobnie jak krzem, nie jest pierwiastkiem niezbędnym dla życia roślin. Mało tego, w dużych ilościach może być toksyczny zarówno dla roślin jak i dla zwierząt zjadających roślinę zawierającą glin. Obecność glinu w glebie związana jest z obecnością jonów H+. Aby pozbyć się glinu z gleby, najczęściej stosuje się równolegle neutralizacje pH oraz sadzenie roślin, które pobierają glin z gruntu w większych ilościach.
+
+Wytwarzanie
+Aluminium wytwarzane jest z boksytu w następujących po sobie procesach:
+proces Bayera
+proces elektrolizy Halla-Héroulta
+
+
+
+
+
+
+
+
+
+
+
+
+

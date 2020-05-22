@@ -1,0 +1,30 @@
+
+
+EGNOS (ang. European Geostationary Navigation Overlay Service) – budowany przez Europejską Agencję Kosmiczną, Komisję Europejską i EUROCONTROL europejski system satelitarny wspomagający (ang. SBAS – Satellite Based Augmentation System) systemy GPS i GLONASS, a w przyszłości Galileo. Najważniejsze zadania to transmisja poprawek różnicowych i informowanie o awariach systemu GPS. System znacznie zwiększy dokładność i wiarygodność pozycji uzyskiwanej z GPS, co będzie miało szczególne znaczenie dla lotnictwa. Odpowiednikami EGNOS w Ameryce Północnej jest WAAS (Wide Area Augmentation System), w Indiach – GAGAN (GPS-Aided Geosynchronous Augmented Navigation System – ma zostać uruchomiony do 2013 roku), a w Japonii – MSAS (Multi-functional Satellite Augmentation System).
+
+Segment kosmiczny składa się z trzech satelitów geostacjonarnych obejmujących zasięgiem całą Europę. Segment naziemny składa się z 40 stacji referencyjnych i retransmitujących oraz 6 stacji kontrolnych i kontrolno testowych:
+'''34''' stacje pomiarowo-obserwacyjne (Ranging and Integrity Monitoring Stations – RIMS) odczytują depesze nawigacyjne z satelitów GPS (w tym jedna w Warszawie),
+'''6''' stacji transmitujących (Navigation Land Earth Station – NLES) wysyła poprawki do satelitów, które następnie przekazują je do użytkowników,
+4 stacje kontrolne (Mission Control Center – MCC) przetwarzają dane i obliczają poprawki różnicowe,
+2 stacje kontrolno-testowe: DVP (Development Verification Platform) i ASQF (Application Specific Qualification Facility) w Torrejón obok Madrytu oraz PACF (Performance Assessment and Check-out Facility) w Tuluzie.
+
+
+Budowa systemu zakończyła się w 2006 roku, wraz z oddaniem go do użytku publicznego. 1 października 2009 roku oficjalnie uruchomiono usługę otwartą EGNOS (ang. EGNOS Open Service). W roku 2010 uruchomiony zostanie również serwis „bezpieczeństwa życia” (safety-of-life) przeznaczona do zastosowań, gdzie awarie systemu GPS mogą mieć wpływ na ludzkie życie lub zdrowie (np. w lotnictwie). Będzie m.in. informować o spadku dokładności lub awarii systemu GPS najpóźniej po 6 sekundach. Również w 2010 roku uruchomiona zostanie usługa komercyjna, która będzie wyróżniała się zwiększoną dokładnością.
+
+Teoretycznie EGNOS powinien zwiększać dokładność wyznaczania pozycji do około 3-4 metrów. Jak wykazały badania przeprowadzone w Centrum Badań Kosmicznych PAN, w Polsce wartość ta jest niższa, gdyż system nie nadaje poprawek dla części satelitów widocznych nad Polską. Sytuację tę ma zmienić zwiększenie liczby satelitów nadających sygnał EGNOS. W ramach dwóch kontraktów Komisji Europejskiej z firmą SES Astra pierwszy zostanie wystrzelony w trzecim kwartale 2011 roku, a drugi – w pierwszym kwartale 2013 roku. Będą one umieszczone na orbitach geostacjonarnych położonych nad południkami 5°E oraz 31,5°E. 
+
+
+26 kwietnia 2013 Komisja Europejska opublikowała nową wersję dokumentacji otwartej usługi EGNOS (Open Service Definition Document 2.0). Nowa dokumentacja jest aktualizacją wersji 1.1 opublikowanej w październiku 2009 r. Zawiera ona zaktualizowany zasięg działania serwisu oraz zaktualizowane dane dotyczące dokładności i dostępności serwisu m.in. na stacji monitorującej (RIMS) w Warszawie. Dokładność wynosi 0,9 m (współrzędne X, Y) oraz 1,4 m (Z) na poziomie prawdopodobieństwa 95% i przy 99,98% dostępności usługi. Dzięki poprawkom wyliczanym na poszczególnych stacjach referencyjnych i retransmitujących poprawki przez satelity geostacjonarne dokładność wyznaczania pozycji powinna wzrosnąć do około 1-3 metrów. W przyszłości swoim zasięgiem system ma objąć, poza Europą zachodnią i środkową również Europę wschodnią oraz południową i północną Afrykę. 
+
+
+
+Zobacz też
+ASG-EUPOS
+
+Linki zewnętrzne
+, Centrum Badań Kosmicznych PAN
+
+
+
+
+

@@ -1,0 +1,125 @@
+Rachunek kosztów docelowych (ang. Target costing) – system strategicznego zarządzania kosztami, którego celem jest osiągnięcie zamierzonego zysku w całym cyklu życia produktu. Charakteryzuje go orientacja na klienta, orientacja na przyszłość, interdyscyplinarny charakter. Decydującą rolę pełni faza projektowania produktu. Koszty są analizowane w całym cyklu życia produktu. Powstał w latach 60 – tych XX wieku w Japonii. Po raz pierwszy został wykorzystany w firmie Toyota.
+
+Metody ustalania kosztów docelowych
+market into company
+Ważnym elementem tego podejścia jest przeprowadzenie bardzo dokładnych badań marketingowych rynku na etapie projektowania produktu, ponieważ to właśnie docelowi odbiorcy mają decydujący wpływ na ustalenie maksymalnej ceny sprzedaży nowego produktu. Po ustaleniu potencjalnej ceny sprzedaży odejmuje się od niej zysk jednostkowy oczekiwany przez przedsiębiorstwo i w ten sposób oblicza się poziom kosztu docelowego.
+
+out of company
+Podejście to nie uwzględnia potrzeb rynkowych. Kalkulacji kosztu docelowego dokonuje się poprzez analizę wewnętrznych uwarunkowań przedsiębiorstwa. Analiza obejmuje przede wszystkim możliwości technologiczne, zdolności wytwórcze, doświadczenie pracowników, sprawność procesów produkcji a także know-how. Koszt docelowy ustala się jako planowany koszt produktu możliwy do osiągnięcia w warunkach dostępnej technostruktury.
+
+into and out of company
+Jest to podejście integrujące zasady dwóch poprzednich. Koszt docelowy określa się na podstawie badań rynku przy jednoczesnym uwzględnieniu uwarunkowań technicznych przedsiębiorstwa. Ustalony w ten sposób target cost jest najbardziej prawdopodobny do zrealizowania, dlatego też podejście to jest najczęściej wykorzystywane w praktyce.
+
+out of competitor
+W tym podejściu koszt docelowy ustalany jest na podstawie analizy kosztów ponoszonych przez konkurencję dla podobnych produktów. Bardzo często do tego celu wykorzystuje się benchmarking.
+
+out of standard cost
+Podejście to do ustalenia kosztów docelowych wykorzystuje koszty standardowe przedsiębiorstwa, określone na podstawie wcześniej realizowanych projektów. Jest ono charakterystyczne dla produktów standardowych, ale często jest stosowane w działalności pomocniczej (transport, zarządzanie logistyczne).
+
+Schemat zastosowania rachunku kosztów docelowych
+Etap I Ustalenie docelowej ceny sprzedaży
+Etap II Ustalenie docelowego zysku
+Etap III Obliczenie dopuszczalnego kosztu produktu
+Etap IV Określenie docelowego kosztu produktu
+Etap V Wyznaczenie kosztów docelowych poszczególnych komponentów produktu
+
+Etap I
+Na tym etapie bardzo ważne jest przeprowadzenie dogłębnych badań i analiz rynku, potrzeb i wymagań docelowych konsumentów, ich skłonności do zapłaty (cena jaką konsumenci będą skłonni zapłacić za produkt o konkretnych parametrach). Istotne jest też zidentyfikowanie podobnych produktów konkurencyjnych występujących na rynku. Produkty te staną się benchmarkiem dla tworzonego nowego produktu. Należy się także zastanowić jaki jest cel przedsiębiorstwa związany z udziałem w rynku. Jeśli priorytetem przedsiębiorstwa jest szybkie opanowanie rynku, to konieczne będzie obniżanie ceny, natomiast jeśli przedsiębiorstwo liczy na wyższy zysk to cenę będzie podwyższać.
+
+W zależności od tego czy wprowadzany na rynek produkt jest zupełną nowością, czy posiada substytuty oraz czy jest on modyfikacją produktu już istniejącego, stosowane są różne metody ustalenia docelowej ceny. Są to metody bazujące na:
+
+funkcjach
+cechach fizycznych
+cenach konkurentów
+
+W przypadku metody bazującej na funkcjach cena docelowa obliczana jest poprzez dodanie/odjęcie od ceny podobnego produktu wartości funkcji dodawanych/odejmowanych od niego.
+
+W przypadku metody bazującej na cechach fizycznych pod uwagę bierze się cechy fizyczne odróżniające nowy produkt od już istniejącego. Cena docelowa powstaje poprzez skorygowanie ceny wyliczonej przy pomocy poprzedniej metody o wartość wynikającą ze zmiany cech fizycznych.
+
+W przypadku metody bazującej na cenach konkurentów najpierw wylicza się stosunek miar porównywanych cech (miara danej cechy w produkcie do miary danej cechy w produkcie konkurencyjnym). Następnie cenę sprzedaży podobnego produktu konkurencyjnego mnoży się przez wyliczony stosunek. W ten sposób otrzymuje się docelową cenę dla nowego produktu.
+
+Etap II
+Następnym etapem jest wyznaczenie docelowego zysku, który pozwoli osiągnąć rentowność sprzedaży oczekiwaną przez przedsiębiorstwo. W tym przypadku również należy wziąć pod uwagę czy wprowadzany produkt jest nowością czy tylko modyfikacją już istniejącego na rynku produktu.
+
+Gdy wprowadzany produkt jest nowością, docelowy zysk szacuje się na podstawie wskaźnika rentowności wyznaczonego dla przedsiębiorstwa lub na podstawie średniego poziomu marży zysku dla sektora/gałęzi przemysłu w której działa przedsiębiorstwo.
+
+ROS = Zysk docelowy/przychody ze sprzedaży
+
+Zysk docelowy = ROS*Przychody ze sprzedaży
+
+Gdzie:
+
+Przychody ze sprzedaży = Docelowa cena* planowana ilość sprzedanych produktów w całym cyklu życia produktu
+ROS – rentowność sprzedaży
+
+Gdy wprowadzany produkt jest modyfikacją produktu istniejącego, zysk docelowy ustala się na podstawie wskaźnika rentowności sprzedaży  obliczonego poprzednim sposobem skorygowanego o dodatkowe koszty (np. koszty badań i rozwoju)
+
+Zysk docelowy = ROS (skorygowany)*Przychody ze sprzedaży
+
+Etap III
+Koszt dopuszczalny jest różnicą docelowej ceny i docelowego zysku.
+
+Koszt dopuszczalny = Docelowa cena – Docelowy zysk
+
+Informuje on o maksymalnej wielkości kosztu jednostkowego produktu, która zagwarantuje poziom rentowności, który przedsiębiorstwo chce osiągnąć. Przekroczenie tego kosztu jest niedopuszczalne i niezgodne z ideą rachunku kosztów docelowych.
+
+Koszt dopuszczalny uwzględnia jedynie oczekiwania rynku i zamiary przedsiębiorstwa co do rentowności, nie bierze pod uwagę możliwości produkcyjnych przedsiębiorstwa.
+
+Etap IV
+Koszt docelowy ustala się biorąc pod uwagę wyliczony koszt dopuszczalny oraz koszt bieżący produktu. Koszt bieżący uwzględnia dostępne zasoby oraz zdolności produkcyjne przedsiębiorstwa.
+
+W przypadku gdy koszt dopuszczalny jest wyższy od kosztu bieżącego produktu, kosztem docelowym staje się koszt bieżący. Natomiast jeżeli to koszt bieżący jest wyższy od kosztu dopuszczalnego (którego nie można przekroczyć), powstaje kwota o którą musimy obniżyć koszt bieżący aby osiągnąć koszt docelowy (którym w tym przypadku jest koszt dopuszczalny).
+
+Kwotę kosztów, którą należy zredukować można podzielić na dwie części:
+Osiągalną (osiągalną bieżąco)
+Nieosiągalną ( osiągalną w dłuższym okresie, strategiczną)
+
+Pierwszą część kosztów można obniżyć w fazie projektowania i planowania produkcji. Najbardziej skutecznym narzędziem obniżania tych kosztów jest analiza wartości. Inne narzędzia, które można wykorzystać do redukcji tych kosztów to zarządzanie przez jakość (TQM) oraz komputerowe wspomaganie projektowania (CAD).
+
+Część nieosiągalną (strategiczną) można zniwelować w fazie produkcji głównie za pomocą metody kaizen costing ( ciągłego doskonalenia).
+
+Jeżeli nie będzie możliwe zniwelowanie różnicy pomiędzy kosztem bieżącym produktu i kosztem docelowym  to należy zrezygnować z wprowadzenia produktu na rynek, lub zaakceptować niższy poziom zysku docelowego.
+
+Etap V
+Etap ten polega na wyznaczeniu kosztów docelowych poszczególnych komponentów produktu. Istnieją dwie metody dekomponowania kosztu docelowego:
+
+Dezagregacja w przekroju poszczególnych komponentów
+Dezagregacja z uwzględnieniem funkcji spełnianych przez wyrób
+
+Dezagregacja w przekroju poszczególnych komponentów polega na podziale kosztów docelowych według dotychczasowej struktury kosztów poszczególnych elementów.
+
+Druga metoda jest znacznie bardziej skomplikowana. Do wyznaczenia kosztu docelowego poszczególnych funkcji produktu wykorzystuje się wzór macierzowy:
+
+Gdzie:
+
+– waga przypisana i-tej funkcji użytkowej produktu
+
+– wektor kolumnowy wag m-funkcji użytkowych produktu (mx1)
+
+– wektor kolumnowy kosztów docelowych poszczególnych funkcji użytkowych produktu (mx1)
+
+– koszt docelowy i-tej funkcji produktu
+
+Następnie koszt docelowy dzieli się na podstawowe podzespoły produktu przy użycia wzoru:
+
+Gdzie:
+
+– wektor kolumnowy kosztów docelowych n-podzespołów produktu (nx1)
+
+– koszt docelowy j-tego podzespołu
+
+– macierz współczynników określających, w jakim stopniu poszczególne podzespoły przyczyniają się do realizacji poszczególnych funkcji produktu (nxm)
+
+– udział j-tego podzespołu w realizacji i-tej funkcji
+
+Dodatkowy etap – kalkulacja kosztów docelowych dla łańcucha dostawców
+Czasami w praktyce występuje jeszcze jeden etap. Na większą skalę prowadzi on do zwiększenia efektywności i konkurencyjności wielu przedsiębiorstw będących siecią dostawców.
+
+Wygląda to tak, że pierwsze przedsiębiorstwo stosując target costing ustala koszt docelowy komponentu – docelową cenę zakupu od dostawcy, która jest jednocześnie ceną sprzedaży dla tego dostawcy. Dostawca, również stosując target costing, także ustala koszt docelowy dla swojego produktu, który narzuca swoim poddostawcom jako ich cenę sprzedaży. Oni także mogą stosować target costing i redukować swoje koszty. Procedura się powtarza, tworzą się łańcuchy dostawców, którzy redukują swoje koszty i zwiększają dzięki temu swoją konkurencyjność i efektywność.
+
+Bibliografia
+"Rachunek kosztów docelowych jako narzędzie współczesnej rachunkowości zarządczej", Marek Gałązka 
+"Target costing – nowoczesny model rachunku kosztów", Łukasz Szydełko, Akademia Ekonomiczna we Wrocławiu, konferencja: Rachunek kosztów i ubezpieczenia, Iwonicz Zdrój 2004 
+"Target costing: japońskie metody zarządzania kosztami, czyli target costing w teorii i praktyce", Marcin Dłubak 
+
+

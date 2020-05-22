@@ -1,0 +1,4 @@
+Źrenica wyjściowa to parametr przyrządu optycznego, określający średnicę krążka światła wydostającego się z przyrządu i wpadającego do oka obserwatora. Ustalenie jego wartości polega na pomiarze lub obliczeniach - źrenica wyjściowa jest równa ilorazowi średnicy obiektywu do powiększenia przyrządu optycznego.
+
+
+

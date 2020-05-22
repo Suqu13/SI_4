@@ -1,0 +1,17 @@
+Timex Sinclair 2048''' – komputer osobisty TS-2048 wyposażony w procesor Zilog Z80A taktowany zegarem 3,5 MHz, w wersji portugalskiej został wprowadzony na rynek w roku 1984. Komputer pozwalał wyświetlać tekst w rozdzielczości 32 x 24, natomiast obraz w rozdzielczości 256x192 w 15 kolorach, posiadał również tryb rozszerzony o rozdzielczości 512x192 (monochromatyczny) oraz tryb multicolor, w którym możliwe było definiowanie kolorów w polach 1x8 pikseli, a nie 8x8 jak w ZX Spectrum.
+
+TS 2048 był drugą nieudaną próbą wprowadzenia ZX Spectrum na rynek amerykański. Komputer nigdy nie został wyprodukowany do sprzedaży, jednak pod zmienioną nazwą, jako Timex Computer 2048''', był później wytwarzany w oddziale Timex w Portugalii. Wersja ta zawierała wszystkie rozwiązania prototypu i była prawie całkowicie kompatybilna z oryginalnym ZX Spectrum 48k, jednak pewne modyfikacje ROM, zastosowanie układu ULA i zmieniona szyna krawędziowa stanowiły pewne trudności z osiągnięciem pełnej kompatybilności. Komputery Timex Computer 2048 były sprzedawane tylko w Portugalii i w Polsce.
+
+Parametry techniczne
+Pamięć ROM: 16 kB
+Pamięć RAM: 48 kB
+Koprocesory: ULA
+Porty: port rozszerzenia, magnetofon, wyjście TV, monitor RGB, Kempston
+Klawiatura: plastikowa, (zapożyczona z klawiatury od maszyny do pisania Brother ML)
+Zasilanie: zasilacz zewnętrzny 9 V
+System operacyjny: Sinclair BASIC
+
+
+
+
+

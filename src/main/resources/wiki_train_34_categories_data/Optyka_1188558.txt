@@ -1,0 +1,18 @@
+
+Przetwornik obrazu, wzmacniacz obrazu – jeden z podstawowych elementów noktowizora; rodzaj lampy elektronowej, której zadaniem jest zamiana pojedynczych fotonów wpadających do wnętrza lampy przez obiektyw na lawinę elektronów kierowanych potem na ekran i wzbudzających na nim świecenie odtwarzające obraz widziany przez obiektyw.
+
+Wzmacniacze obrazu uczulone mogą być na różne zakresy widma elektromagnetycznego, od bliskiej podczerwieni aż po światło widzialne i w zależności od swych parametrów znajdować mogą różne zastosowania, tak w wojsku, jak w technikach cywilnych, do obserwowania otoczenia w ciemności, jeśli tylko pozwala na to nawet szczątkowa poświata pochodząca od Księżyca i gwiazd albo jeśli obserwator dysponuje szperaczem (reflektorem) oświetlającym otoczenie w zakresie podczerwieni.
+
+Budowa i zasada działania
+Schemat wzmacniacza obrazu widoczny jest na rysunku obok.
+Dzięki wykorzystaniu zjawiska fotoelektrycznego zewnętrznego, znajdująca się za soczewkami obiektywu fotokatoda (na rysunku obok po lewej jego stronie, koloru jasnopopielatego), np. z arsenku galu, reaguje na padające na nią pojedyncze fotony emisją pojedynczych elektronów, które następnie przyspieszane są w polu elektrostatycznym wytworzonym przez przyłożenie wysokiego napięcia stałego rzędu kilku kilowoltów (na rysunku 5&nbsp;kV) pomiędzy fotokatodę a katodę wtórną (na rysunku pośrodku, koloru czerwonego). Pole przyspieszające nadaje elektronom znaczną energię, dzięki której uderzając w katodę wtórną wybija z niej lawinę kolejnych elektronów. Lawina ta kierowana jest poprzez kolejne pole przyspieszające (na rysunku, różnica potencjałów wynosi 300 V) w kierunku pokrytego luminoforem ekranu (na rysunku po prawej, koloru zielonego). Uderzanie elektronów w luminofor powoduje emisję światła. W rezultacie, trudne do zauważenia pojedyncze fotony z wejścia (obiektywu) lampy, po znacznym wzmocnieniu, reprezentowane są na wyjściu (ekranie) przez łatwo dostrzegalną  poświatę; obraz z ekranu może być następnie przetworzony przez układ soczewek okularu, ułatwiający obserwację i rozróżnienie szczegółów obrazu.
+
+Taka konstrukcja nie pozwala na rozróżnianie prawdziwych barw obserwowanych obiektów, wszystkie mają na ekranie jednakowy (zwykle zielony) kolor, a szczegóły mogą być rozróżniane tylko na podstawie ich jasności. Wzmacniacze obrazu są bardzo czułe, skierowanie niezasłoniętego obiektywu w stronę nawet tak stosunkowo słabych źródeł światła, jak księżyc lub świecący w kierunku obiektywu odległy reflektor może spowodować trwałe uszkodzenie wzmacniacza obrazu. We współczesnych noktowizorach stosuje się automatyczne układy odłączające napięcia przyspieszające przy skierowaniu noktowizora na zbyt silne źródło światła.
+
+Zobacz też
+termowizor
+fotopowielacz
+celownik noktowizyjny
+płytka mikrokanalikowa
+
+Linki zewnętrzne

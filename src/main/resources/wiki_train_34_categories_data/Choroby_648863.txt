@@ -1,0 +1,119 @@
+
+Rak gruczołu krokowego (prostaty) ''' – choroba nowotworowa gruczołu krokowego, występująca u 11% mężczyzn z rozpoznanym nowotworem i będąca przyczyną 9% zgonów z powodu chorób nowotworowych u mężczyzn.
+
+Histologicznie najczęściej jest gruczolakorakiem (powyżej 75% przypadków) i częstość jej występowania zwiększa się z wiekiem, i tak u mężczyzn po 75 roku życia stwierdza się go w badaniach sekcyjnych w 80–90% przypadków, w większości jednak są to przypadki tak zwanego raka utajonego, który nie powoduje poważnych implikacji klinicznych i nie jest przyczyną zgonu. W zdecydowanej większości przypadków jest to rak silnie hormonozależny, jego wzrost pobudzają androgeny (ściślej testosteron i 5α-Dihydrotestosteron). 
+
+Etiologia
+Czynnikami rozwoju raka gruczołu krokowego są:
+Predyspozycje dziedziczne: wystąpienie choroby u jednego krewnego I stopnia zwiększa ryzyko zachorowania dwukrotnie, wystąpienie raka u dwóch i więcej krewnych zwiększa to ryzyko nawet 10-krotnie. Raki o podłożu dziedzicznym rozwijają się wcześnie, nawet przed 55 rokiem życia.
+Czynniki rasowe: najczęściej chorują osoby rasy czarnej, najrzadziej przedstawiciele rasy żółtej w Azji południowo-wschodniej.
+Dieta z dużą ilością nasyconych tłuszczów, białka, cholesterolu, natomiast z niską ilością selenu, witaminy E i witaminy D sprzyja rozwojowi raka gruczołu krokowego. Działanie ochronne przypisuje się diecie z dużą zawartością warzyw i owoców, produktów zbożowych (ogólnie dieta niskotłuszczowa), soi czy siemienia lnianego poprzez fitoestrogeny. Spożycie 30 g zmielonego siemienia dziennie spowodowało po miesiącu spadek o połowę tempa podziałów komórek nowotworowych.
+
+Znaczenie w rozwoju raka prostaty może mieć prawdopodobnie wirus XMRV. Ekspresję jego białek wykazano w 23% raków prostaty u ludzi.
+
+Przebieg kliniczny
+Początkowo przez wiele lat rak rozwija się bezobjawowo. Uważa się, że w 3/4 przypadków jego rozwój rozpoczyna się w strefie obwodowej gruczołu krokowego (jest ona dostępna w trakcie badania per rectum). W miarę powiększania swojej objętości, powoduje objawy uciskowe sugerujące objawy łagodnego rozrostu gruczołu krokowego, takie jak częstomocz, utrudnienie oddawania moczu i słaby strumień moczu, nagłe uczucie parcia na mocz i konieczność pilnego jego oddania. U mężczyzn poniżej 55 roku życia rak może się rozwijać bez ewidentnych cech przerostu gruczołu, czyli praktycznie bezobjawowo. 
+W dalszym rozwoju przekracza barierę torebki narządu naciekając otaczające tkanki: pęcherzyki nasienne, moczowody oraz tkanki miękkie i kości miednicy małej.
+
+Rak gruczołu krokowego daje przerzuty drogą:
+naczyń krwionośnych — głównie do kości: kręgosłupa, miednicy, mostka, żeber, górne części kości udowych; rzadziej daje przerzuty do narządów miąższowych (wątroba, płuco, mózg);
+drogą naczyń chłonnych do otaczających węzłów chłonnych (zasłonowych biodrowych i w późniejszym stadium zaawansowania — okołoaortalnych i pachwinowych).
+
+Diagnostyka
+W diagnostyce raka gruczołu krokowego można wymienić podstawową triadę diagnostyczną:
+badanie per rectum — które w 75% przypadków pozwala na stwierdzenie twardych guzków zlokalizowanych w obrębie prostaty (w późniejszych okresach stwierdza się "deskowato" twardą prostatę w obrębie jednego lub obu płatów);
+PSA — swoisty antygen sterczowy, którego poziom w surowicy krwi, przekraczając 4&nbsp;ng/l, może sugerować obecność raka (u młodszych mężczyzn poniżej 65 roku życia wartości powyżej 2&nbsp;ng/l powinny być przyczyną dalszej diagnostyki);
+transrektalna ultrasonografia z biopsją gruczołu krokowego z następczą oceną pobranego materiału według skali Gleasona oceniającej cechy architektoniki uzyskanych komórek; rozróżnia się 10 stopni skali Gleasona, gdzie stopnie 2–4 odpowiadają komórkom dobrze zróżnicowanym, 5–7 średnio zróżnicowanym, 8–10 komórkom źle zróżnicowanym; im wyższy stopień skali Gleasona, tym rokowanie gorsze;
+oraz badania uzupełniające: tomografia komputerowa, NMR, PET, limfadenectomia zaotrzewnowa pozwalają na ocenę zaawansowania procesu i kwalifikację do skali TNM określającej stopień zaawansowania raka i warunkującą wybór metody leczenia.
+
+Klasyfikacja TNM
+T — guz pierwotny
+Tx — nie można wypowiedzieć się co do guza pierwotnego
+T0''' — brak guza pierwotnego
+T1''' — guz niewyczuwalny per rectum i niewidoczny w badaniach obrazowych
+T1a — stwierdzony przypadkowo w badaniach histopatologicznych i zajmuje mniej niż 5% ocenianej tkanki
+T1b — jak wyżej, ale zajmuje ponad 5% ocenianej tkanki
+T1c — stwierdzony w biopsji z powodu podwyższenia PSA
+T2''' — guz ograniczony do gruczołu krokowego
+T2a — zajmuje mniej niż połowę 1 płata
+T2b — zajmuje więcej niż połowę jednego płata
+T2c — zajmuje oba płaty
+T3''' — guz naciekający poza torebkę gruczołu krokowego
+T3a — guz nacieka poza torebkę gruczołu krokowego po jednej lub obu stronach
+T3b — guz nacieka pęcherzyki nasienne
+T4''' — guz nieruchomy, naciekający inne narządy niż pęcherzyki nasienne (szyja pęcherza moczowego, odbytnica, mięśnie dźwigacze odbytu, ściana miednicy)
+
+N — regionalne węzły chłonne
+Nx — niemożliwa ocena węzłów chłonnych
+N0''' — brak przerzutów do regionalnych węzłów chłonnych
+N1''' — obecne przerzuty w regionalnych węzłach chłonnych
+
+M — obecność odległych (poza węzły chłonne regionalne) przerzutów
+Mx — niemożliwa ocena odległych przerzutów
+M0''' — nie ma odległych przerzutów
+M1''' — obecne odległe przerzuty
+M1a — przerzuty do węzłów chłonnych innych niż regionalne
+M1b — przerzuty do kości
+M1c — inna lokalizacja przerzutów
+
+Leczenie
+stadium T1–T2'''
+Prostatektomia radykalna, czyli zabieg całkowitego wycięcia gruczołu krokowego i pęcherzyków nasiennych z dostępu nadłonowego, kroczowego lub laparoskopowo.
+
+Ten typ leczenia proponuje się u osób z przewidywanym co najmniej 10-letnim okresem przeżycia, czyli zwykle poniżej 75 roku życia. 
+
+Powikłaniem tej metody jest:
+praktycznie w 50% zaburzenia erekcji wskutek uszkodzenia naczyń i nerwów;
+nietrzymanie moczu (5-8%);
+zwężenie zespolenia pęcherzowo-cewkowego (7%);
+przetoka moczowa;
+śródoperacyjna utrata krwi.
+
+stadium T3'''
+Jako uzupełnienie leczenia operacyjnego (lub u osób z przewidywanym krótkim czasem przeżycia, lub po wznowie po leczeniu operacyjnym) stosowana jest radioterapia.
+
+Powikłania:
+zapalenie pęcherza moczowego;
+zwężenie dróg moczowych;
+nietrzymanie moczu;
+zapalenie odbytnicy;
+przewlekła biegunka;
+zaburzenia erekcji (rzadziej niż w przypadku leczenia operacyjnego).
+
+stadium T4'''
+Leczenie hormonalne polegające na wytworzeniu blokady androgenowej, czyli zablokowaniu wpływu androgenów na komórki raka gruczołu krokowego, co hamuje ich proliferację i przyspiesza ich apoptozę. Jest to typowy przykład leczenia paliatywnego, które nie ma wpływu na długość przeżycia, zmniejsza jedynie objawy zaawansowanej choroby i poprawia komfort życia.
+
+Blokadę hormonalną można uzyskać dwoma sposobami:
+kastracja – obecnie metoda rzadko stosowana;
+stosowanie analogów ganadoliberyn czyli agonistów LHRH.
+
+Działania niepożądane tej metody:
+impotencja;
+osteoporoza;
+ginekomastia;
+depresja;
+uderzenia gorąca, wypadanie włosów, zwiększenie ilości tkanki tłuszczowej;
+niedokrwistość.
+
+stadium T4M1'''
+Chemioterapia - w przypadku zaawansowanej choroby z przerzutami oraz w trakcie progresji choroby pomimo stosowanej hormonoterapii (tzw. stadium hormonooporności) jest zalecane u pacjentów w dobrym stanie ogólnym leczenie docetakselem z premedykacja prednizonem. Leczenie takie według badań klinicznych pozwoliło średnio wydłużyć przeżycie pacjenta o około 3 miesiące oraz znacząco poprawić jakość życia (zmniejszenie nasilenia bólu, poprawienie stanu sprawności). Oczywiście jak każda chemioterapia wiąże się z możliwością wystąpienia działań niepożądanych. Od niedawna pojawiła się też możliwość leczenia pacjentów u których leczenie docetakselem nie było skuteczne lub też efekt jego stosowania był krótkotrwały - dostępny w leczeniu 2 linii hormonoopornego raka prostaty z przerzutami po niepowodzeniu leczenia docetakselem jest cabazitaxel, który według badania klinicznego pozwolił średnio przedłużyć życie w tej grupie chorych o około 2,4 miesiąca oraz zmniejszyć nasilenie bólu. Pojawiły się tez doniesienia mówiące o tym, że po zastosowaniu chemioterapii u części pacjentów widać efekty ponownego stosowania leczenia hormonalnego (powrót hormonowrażliwości).
+
+Szczególne postępowanie
+Brachyterapia z zastosowaniem izotopu jodu-125 i palladu-103 jako źródła promieniowania. Szczególnie polecana w następującym stadium zaawansowania:
+T1c – T2a, skala Gleasona  – metoda wysokoskoncentrowanych ultradźwięków), stosowana w terapii raka stercza od połowy lat 90. Ponad 30 krajów zaaprobowało HIFU jako jedną z alternatywnych metod leczenia raka prostaty.
+
+Działanie metody HIFU opiera się na wykorzystaniu fal ultradźwiękowych (takich samych jak w aparatach USG) do niszczenia tkanki nowotworowej. W trakcie zabiegu sonda, składająca się z głowicy obrazującej oraz głowicy terapeutycznej, jest umieszczona w odbycie pacjenta. Dzięki skupieniu wiązki ultradźwięków na punktowym obszarze guza w określonym miejscu dochodzi do zniszczenia tkanki nowotworowej. HIFU powoduje martwicę tkanki w wyniku ablacji (efekt cieplny powoduje koagulację tkanki) oraz poprzez działanie mechaniczne (pęcherzyki gazu wewnątrz komórki powodują wzrost ciśnienia w jej wnętrzu).
+
+Proces planowania zabiegu oraz sam zabieg są wysoce skomputeryzowane, co niweluje ryzyko błędu ludzkiego i gwarantuje dużą precyzję postępowania. Pozwala to również na dużą personalizację leczenia. Zabieg z wykorzystaniem ultradźwięków trwa ok. 2-3 godzin, a długość pobytu w szpitalu nie przekracza zazwyczaj 3 dni. Zabieg jest minimalnie inwazyjny, co umożliwia pacjentowi szybki powrót do normalnego trybu życia.
+
+Niezaprzeczalną zaletą technologii HIFU jest łagodny profil powikłań oraz stosunkowo nieduże ryzyko ich wystąpienia - jak pokazują najnowsze doniesienia naukowe, wykorzystanie HIFU w terapii raka stercza daje możliwość znaczącej redukcji liczby powikłań. Zastosowanie ultradźwięków w terapii raka prostaty daje również istotną szansę na zachowanie dotychczasowej jakości życia, w tym funkcji seksualnej, po leczeniu. Istnieje możliwość powtórzenia zabiegu w przypadku nawrotu choroby.
+
+Metoda HIFU jest z powodzeniem stosowana w wielu centrach medycznych na całym świecie, również w Polsce (Osielsko oraz Grodzisk Mazowiecki). Wyniki odległe (obserwacja 10-letnia) pokazują wysoki odsetek przeżyć całkowitych (80%), przeżyć specyficznych dla raka prostaty (98%) oraz przeżyć wolnych od przerzutów (94%).
+
+Dieta wysokotłuszczowa
+Kwasy tłuszczowe omega-6 (obecne zwłaszcza w oleju roślinnym z soi, kukurydzy, słonecznika i innych olejach z nasion, w margarynie), np. kwas linolowy, stymulują wzrost nowotworów prostaty, przyśpieszają postęp histopatologiczny i zmniejszają przeżywalność pacjentów z rakiem prostaty przy niedostatku tłuszczów wielonienasyconych omega 3, podczas gdy tłuszcze wielonienasycone omega 3 (w oleju rybnym, ale również w lnianym i rzepakowym) mają odwrotne, pozytywne działanie.
+
+
+
+Bibliografia
+Linki zewnętrzne

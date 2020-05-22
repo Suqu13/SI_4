@@ -1,0 +1,120 @@
+
+ – nazwa serii gier konsolowych firmy Nintendo, tworzonych od 1996 przez Satoshiego Tajiri. Początkowo wydana na przenośną konsolę Game Boy, seria stała się drugą najbardziej dochodową i udaną grą firmy Nintendo, zaraz po serii Mario. Po sukcesie gier, świat Pokémonów został także zaadaptowany do anime, filmów, mangi, zabawek, książek itp. Do 28 maja 2010 r. sprzedaż wszystkich gier z serii osiągnęła ponad 200 milionów egzemplarzy. Nazwa Pokémon jest latynizacją japońskiej nazwy . Termin Pokémony odnosi się również do 718 fikcyjnych gatunków stworzeń, które pojawiły się w grach na Nintendo 3DS, Pokémon X i Y. W języku polskim nie została wydana żadna z gier Pokémon, jednak oglądać można było większość z powstałych serii anime (sezony 7, 8 i 9 nie zostały wyemitowane), a także odcinek specjalny oraz osiem filmów z polskim dubbingiem i cztery z lektorem.
+
+
+
+Anime
+
+Produkowana w Japonii seria anime tworzona jest od 1997 roku. Od tego czasu powstało ponad 800 odcinków podzielonych na sezony. Tworzone są również filmy pełnometrażowe oraz odcinki specjalne.
+
+Głównym bohaterem serialu jest Ash Ketchum, który wyrusza w podróż, aby zdobyć tytuł Mistrza Pokémon. W trakcie podróży spotka nowych przyjaciół (Misty, Brock, Tracey, May, Max, Dawn, Iris, Cilan, Clemont, Bonnie, Serena), przysporzy sobie wrogów (Zespół R, Zespół G, Zespół Magma, Zespół Aqua i Zespół Plasma), stoczy wiele pojedynków z lokalnymi mistrzami Pokémonów, aby zdobyć odznaki, które pozwolą dostać mu się do finałów i ważniejszych turniejów. Pierwszym Pokémonem Asha jest Pikachu, którego dostaje od profesora Oaka. Od profesora dostał także Pokédex (urządzenie, w którym skatalogowana jest cała zebrana przez profesora Oaka wiedza o Pokémonach). Pokémony, łapane przez trenerów, są najczęściej przechowywane w Pokéballach (choć istnieją również inne Balle). Ich właściciele mają obowiązek opiekować się nimi. Każdy Pokémon należy do jednego z osiemnastu typów, zna ataki, które stosuje podczas bitwy między trenerami Pokémonów, ma własne statystyki (atak, obrona, szybkość, specjalny atak, specjalna obrona) itp.
+
+
+
+Typy i generacje
+Każdy Pokémon posiada typ, który określa moce i możliwości, jakie posiada, określając w ten sposób jego dalszy rozwój i ewolucję. Istnieją Pokémony posiadające dwa typy. W sumie istnieje osiemnaście typów.
+
+Podział Pokémonów
+normalne, zwyczajne (normal), np. Ditto, Meowth, Skitty, Buneary, Arceus, Persian, Eevee
+wodne (water), np. Squirtle, Staryu, Totodile, Mudkip, Kyogre, Mantyke, Lapras, Magikarp, Feebas, Politoed
+lodowe (ice), np. Articuno, Jynx, Glalie, Lapras, Delibird, Froslass, Mamoswine, Swinub, Piloswine
+ogniste (fire), np. Charmander, Combusken, Ninetales, Ho-Oh, Moltres, Heatran, Entei, Blaziken
+ziemne (ground), np. Sandshrew, Sandslash, Dugtrio, Gliscor, Trapinch,
+robaki (bug), np. Weedle, Cascoon, Scyther, Caterpie, Ariados
+trawiaste (grass), np. Bulbasaur, Chikorita, Treecko, Celebi, Torterra, Shaymin
+latające (flying), np. Pidgeot, Spearow, Farfetch’d, Staraptor
+elektryczne (electric), np. Zapdos, Voltorb, Pikachu, Raikou
+stalowe (steel), np. Magnemite, Metang, Aggron, Registeel (dopiero od II generacji)
+kamienne (rock), np. Regirock, Golem, Geodude, Onix, Groudon, Armaldo
+walczące (fighting), np. Hitmonlee, Primeape, Machamp
+trujące (poison), np. Weezing, Arbok, Nidoran♂, Nidoking
+psychiczne (psychic), np. Abra, Mewtwo, Espeon, Mew, Jynx, Alakazam
+mroczne (dark), np. Umbreon, Sneasel, Mightyena, Darkrai (dopiero od II generacji)
+duchy (ghost), np. Gastly, Gengar, Haunter, Mismagius, Spiritomb
+smocze (dragon), np. Dragonite, Kingdra, Giratina, Garchomp, Dialga, Palkia, Zekrom, Reshiram
+wróżki (fairy) np. Sylveon, Flabébé, Mawile (dopiero od VI generacji)
+Pokémony stalowe i mroczne oraz ataki w tych typach są dopiero od drugiej generacji. Tak więc pokemony takie jak Magnemite i jego ewolucja – Magneton, w grach Red, Blue, Yellow i Green nie są elektryczno-stalowe, lecz tylko elektryczne. Od II do IV generacji istniał też typ ???, jednak dotyczył on praktycznie tylko ataków i jajek Pokémonów i został on wycofany w V generacji..  Od VI generacji istnieje także nowy typ - Fairy (wróżki). W ten sposób np. Marill stał się Pokémonem wodno-wróżkowym, a Gardevoir - psychiczno-wróżkowym. 
+
+Generacje
+Generacja Pokémonów to seria tych stworów, dodawana co jakiś czas masowo, zsynchronizowana z grą. Obecnie istnieje sześć generacji Pokémonów. Generacje Pokémonów (ilość stworów w generacji):
+pierwsza (151), np.: Lapras, Charmeleon, Pikachu, Caterpie, Tauros, Tangela, Raticate, Magnemite, Ponyta, Magmar, Haunter, Magikarp
+druga (100), np.: Hoothoot, Ho-Oh, Celebi, Mareep, Marill, Cyndaquil, Pichu, Elekid, Yanma, Xatu, Larvitar, Delibird
+trzecia (135), np.: Breloom, Latias, Jirachi, Metagross, Poochyena, Groudon, Lombre, Ralts, Seviper, Nosepass, Rayquaza, Chimecho
+czwarta (107), np.: Munchlax, Lucario, Weavile, Bonsly i Mime Jr., Dialga, Piplup, Darkrai, Lumineon, Riolu, Tangrowth, Rhyperior, Manaphy
+piąta (156), np.: Zorua, Zoroark, Snivy, Dewott, Reshiram, Zekrom, Minccino, Trubbish, Gothitelle, Unfezant, Genesect, Boldore
+szósta (69), np.: Xerneas, Yveltal, Chespin, Sylveon, Pancham, Gogoat, Helioptile, Furfrou, Honedge, Tyrunt, Trevenant
+
+W szóstej generacji powstał również nowy system zmiany formy Pokémonów nazwany Mega Ewolucją. W ten sposób kilkanaście pokemonów poprzednich generacji (np. Charizard, Mewtwo, Abomasnow) otrzymało nowe, silniejsze formy.
+Twórca Pokémonów
+
+Pokémony zostały stworzone przez Japończyka Satoshiego Tajiriego. Urodził się 28 sierpnia 1965 roku na przedmieściach Tokio, gdzie jako dziecko mieszkał. Jego pasją było zbieranie owadów. Ususzonym owadom młody zbieracz nadawał imiona. Jednak według wszystkich nie był on zwykłym kolekcjonerem. Nie był to jednak koniec roli kolekcji owadów Tajiriego w dalszej historii jego życia. Gdy każdy dostał pasujący do niego pseudonim, chłopak wystawiał je do walki ze sobą. Organizował małe turnieje i konkursy. W ten sposób Tajiri wymyślił Pokémony. Tajiri nie ukończył nawet college’u i miał problemy ze znalezieniem jakiejkolwiek pracy. Fascynował się wtedy przenośnymi konsolami, anime oraz mangą. Jednym z jego przyjaciół był Ken Sugimori, który stworzył podobizny większości Pokémonów. Szefom Nintendo nie do końca przypadł do gustu dziwny i kontrowersyjny projekt nieznanego dotąd praktycznie nikomu Tajiriego. W fazie produkcyjnej postanowił, że nazwie głównego bohatera swoim imieniem, a przeciwnika tego bohatera imieniem pochodzącym od Shigeru Miyamoto, jego przyjaciela.
+
+Gry
+Generacje Pokémonów powiązane są w oczywisty sposób z generacjami konsoli, dlatego też pierwszą grą z serii w roli głównej była gra Pokémon Green (w Japonii nazywana Pocket Monsters Green) na GameBoy Pocket, która ukazała się wyłącznie w japońskiej wersji językowej. Po jej sukcesie wydano kolejne wersje: Pokémon Red i Pokémon Blue oraz wydanie, w którym na początku gry otrzymujemy Pikachu, Pokémon Yellow. Te z kolei ukazały się również w języku angielskim. Wspomniane cztery pozycje, z powodu platformy, na której zostały wydane, nie były zaawansowane technicznie, lecz dzięki ich wysokiej grywalności, Nintendo nie odnotowało strat finansowych.
+
+Po niebywałym sukcesie poprzednich gier, korporacja wydała dwie gry na konsolę Game Boy Color: Pokémon Silver i Pokémon Gold, wprowadzające Pokémony drugiej generacji, następnie wersję Pokémon Crystal.
+
+Wkrótce przyszła kolej na następną serię gier z Pokémonami trzeciej generacji, wydanych na Game Boy Advance: Pokémon Ruby i Pokémon Sapphire oraz ulepszoną wersję Pokémon Emerald, a także odświeżone wersje gier pierwszej generacji – Pokémon FireRed i Pokémon LeafGreen.
+
+Obecnie na rynku istnieją trzy klasyczne gry na Nintendo DS, zawierające Pokémony czwartej generacji – Pokémon Diamond i Pokémon Pearl oraz Pokémon Platinum. Pokémon Platinum zostało wydane po angielsku 22 marca (21 marca w Nowym Jorku). Pojawiły się też odświeżone wersje Gold i Silver – Pokémon HeartGold i SoulSilver Powstały też cztery nowe gry określane mianem gier „piątej generacji”, Pokémon Black i Pokémon White oraz ich sequele - Pokémon Black 2 i Pokémon White 2
+
+12 października 2013 roku wydano gry Pokémon X i Pokémon Y, przeznaczone na konsolę Nintendo 3DS. 21 listopada 2014 zostaną wydane najnowsze gry Pokémon Omega Ruby i Alpha Sapphire, będące remeke'ami gier Pokémon Ruby i Pokémon Sapphire.''
+
+W międzyczasie pojawiły się gry, które pozwalały na kierowanie Pokémonem. '''' przeznaczone dla Game Boy Advance oraz '''', '''' i '''' pod Nintendo DS. W Japonii została w kwietniu 2009 wydana gra  na Nintendo DS.
+
+Lista gier
+Game Boy
+Pokémon Red i Blue (Pokémon Green)
+Pokémon Yellow
+Game Boy Color
+Pokémon Gold i Silver
+Pokémon Crystal
+Game Boy Advance
+Pokémon Ruby i Sapphire
+Pokémon FireRed i LeafGreen
+Pokémon Emerald
+Nintendo DS
+Pokémon Diamond i Pearl
+Pokémon Platinum
+Pokémon HeartGold i SoulSilver
+Pokémon Black i White
+Pokémon Black 2 i White 2''
+Nintendo 3DS
+Pokémon X i Y
+Pokémon Omega Ruby i Alpha Sapphire
+Gry spoza głównej serii:
+Pokémon Puzzle Challenge (Game Boy Color)
+Pokémon Pinball (Game Boy Color)
+Pokémon Trading Card Game (Game Boy Color)
+Pokémon Stadium (Nintendo 64)
+Pokémon Stadium 2'' (Nintendo 64)
+Pokémon Snap (Nintendo 64)
+Pokémon Puzzle Leauge (Nintendo 64)
+Pokémon Colosseum (GameCube)
+'''' (Game Boy Advance)
+'''' (Nintendo DS)
+Pokémon Ranger (Nintendo DS)
+Pokémon Battle Revolution (Nintendo Wii)
+Pokémon Mystery Dungeon Darkness Exploration Team (Nintendo DS)
+Pokémon Mystery Dungeon Time Exploration Team (Nintendo DS)
+'''' (Nintendo DS)
+Pokémon Mystery Dungeon Explorers of Sky (Nintendo DS)
+Melee! Pokemon Scramble (Nintendo Wii)
+'''' (Nintendo DS)
+Pokémon Rumble (Nintendo Wii)
+PokéPark Wii (Nintendo Wii)
+PokePark 2 Wii (Nintendo Wii)
+Pokémon Conquest (Nintendo DS)
+Super Pokémon Rumble (Nintendo 3DS)
+Pokémon Rumble U (Wii U)
+
+Manga
+
+Najpopularniejszą adaptacją gier Pokemon zaraz po anime jest manga Pokemon Adventures. Twórcą jest Hidenori Kusaka. Fabuła mangi ściśle wiąże się z fabułami kolejnych gier.
+
+Zobacz też
+Lista Pokémonów
+
+
+
+Linki zewnętrzne

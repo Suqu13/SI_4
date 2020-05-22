@@ -1,0 +1,15 @@
+Gruntz – komputerowa gra logiczna stworzona i wydana w 1999 roku przez amerykańską firmę Monolith Productions.
+
+Rozgrywka
+Gracz kontroluje myszką maksymalnie 15 goblinoidalnych stworzeń zbudowanych z gliny – Grunty. Sterowanie w grze jest typowe dla strategicznych gier czasu rzeczywistego – poprzez kliknięcie prawym klawiszem myszy gracz nakazuje Gruntom przemieszczać się lub atakować, natomiast lewym nakazuje im wykonywać ruchy specjalne.
+
+Gracz wyposaża Grunty w 22 różne narzędzia, służące przede wszystkim do atakowania wroga. Wiele z nich oprócz możliwości ataku posiada jeszcze inne zastosowania. Miecz przykładowo służy tylko do atakowania wrogów, jednakże jest jedną z najsilniejszych broni w grze. Skrzydła nie zadają dużych obrażeń, ale w zamian ich posiadacz może przelatywać nad różnymi przeszkodami, takimi jak dziury w ziemi czy kolce. W kampanii gracz dostaje broń w określonym momencie, natomiast w pojedynczej bitwie otrzymuje nowe rodzaje broni przez cały czas.
+
+Jeśli gracz ma mniej skuteczną broń od przeciwnika, a chce przejść bezpiecznie, to możliwe jest użycie zabawki. Grunty uwielbiają się bawić, więc gdy gracz da wrogiemu Gruntowi zabawkę, ten zapomina na określony czas o wojnie, jaka się toczy dookoła niego i zaczyna się niewinnie bawić. Grunty są jednak niezdarne, więc po krótkim czasie niszczą zabawkę i wracają do gry. Wśród zabawek jest mniejszy wybór niż wśród broni, ponieważ istnieje ich tylko 10 – oprócz tego otrzymywane są rzadziej.
+
+W Gruntz dostępne są też „dopalacze” i „klątwy”. Dopalacze są przedmiotami, które dają podnoszącemu je Gruntowi specjalną właściwość albo umiejętność – na przykład niewidzialność bądź szybsze poruszanie się. Klątwy natomiast po zdobyciu utrudniają grę przeciwnikom – wywołują na przykład wstrząs obrazu na monitorze. Klątwy są dostępne jedynie w bitwach i zastosowanie mają wyłącznie w trybie gry wieloosobowej.
+
+W grze dostępne są 2 tryby rozgrywki. Pierwszy to kampania, w której zadaniem gracza jest przeprowadzenie Gruntów przez osiem światów (każdy świat składa się z 4 poziomów), pokonując różne pułapki lub napotkane zagadki. Drugi tryb to bitwy, czyli pojedyncze, niezwiązane z fabułą potyczki. Zadaniem jest zniszczyć pozostałe 3 klany Gruntów poprzez wejście do wrogiego fortu. Gra wyposażona jest w tryb gry wieloosobowej, umożliwiający rozgrywkę z maksymalnie 4 graczami przez internet lub sieć LAN.
+Do gry dołączony został edytor, w którym gracz sam może tworzyć własne plansze.
+
+Linki zewnętrzne

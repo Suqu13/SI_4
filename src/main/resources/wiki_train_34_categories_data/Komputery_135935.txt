@@ -1,0 +1,48 @@
+SSI – Single System Image (jednolity obraz systemu) – rodzaj klastra komputerowego, w którym użytkownik widzi węzły klastra jako jeden system. Przykładem takich systemów są m.in. OpenSSI, MOSIX, openMosix. Koncepcja przeważnie kojarzona z Rozproszonym Systemem Operacyjnym, ale pojedynczy jednolity obraz systemu może być stosowany z bardziej przyziemnych powodów, jak na przykład zarządzanie procesami, które może być osiągnięte poprzez stosowanie dodatkowej warstwy oprogramowania, ponad obrazami konwencjonalnych systemów uruchamianych na poszczególnych węzłach.http://books.google.com/books?id=EIVdVtGHv-0C&pg=PA177&dq=%22distributed+operating+system%22+%22single+system+image%22&lr=&as_brr=3&cd=14#v=onepage&q=%22distributed%20operating%20system%22%20%22single%20system%20image%22&f=falseZainteresowanie SSI wynika z założenia, że tego typu klastry mogą być łatwiejsze w użytku i administrowaniu, niż bardziej wyspecjalizowane.
+Różne systemy SSI mogą udostępniać bardziej lub mniej złożoną formę iluzji pojedynczego systemu.
+
+Możliwości systemów SSI
+Różne systemy SSI, w zależności od ich przeznaczenia, udostępniają wybrane funkcjonalności.
+
+Migracja Procesów
+Wiele systemów SSI udostępnia mechanizmy migracji procesów. Proces może zostać uruchomiony na jednym węźle i zostać przeniesiony na inny, na przykład w wyniku działania mechanizmów balansowania zasobów albo powodów związanych z ich administrowaniem, na przykład. Jednocześnie z przeniesieniem procesu na inny węzeł, przykładowo IPC, mogą zostać przeniesione z nim również zasoby.
+
+Mechanizm punktów kontrolnych procesów
+Niektóre systemy SSI dopuszczają stosowanie checkpointing- mechanizmu punktów kontrolnych w uruchomionym procesie, pozwalając na zapisywanie jego aktualnego stanu z możliwością ponownego przywołania go w przyszłości.
+Checkpointing może być rozważany jako rodzaj migracji procesu pomiędzy węzłami, poprzez wykonanie jego obrazu w ramach mechanizmu punktów kontrolnych na jednym węźle i odtworzenia jego stany na innym węźle. Alternatywnie Checkpointing może być rozważany jako migracja na dysk.
+
+Jednolita przestrzeń procesu
+Wybrane systemy SSI wprowadzają iluzję jakoby wszystkie procesy były uruchomione na jednej maszynie, dzięki czemu narzędzia zarządzania procesami (np. "ps", "kill" na systemach typu Unix) działają na wszystkich procesach w klastrze.
+
+Jednolity system plików
+Większość systemów SSI wprowadza Jednolity Systemu Plików. Może być to osiągnięte poprzez stosowanie serwerów NFS, współdzielonych pamięci masowych lub nawet replikację plików.
+
+Zaletą jednolitego systemu plików jest to, że procesy uruchomione na dowolnym węźle posiadają dostęp do wszystkich danych bez ograniczeń. Jeśli klaster udostępnia migrację procesów, jednolity system plików umożliwia bezpośredni dostęp do plików przechowywanych w węźle, gdzie proces był uruchomiony przed migracją.
+
+Wybrane systemy umożliwiają równoległe z jednolitym systemem plików stosowanie struktur nieujednoliconych, właściwych dla danego węzła, np. HP TruCluster udostępnia "context dependent symbolic link" (CDSL) który wskazuje na różne pliki w zależności od tego który węzeł próbuje uzyskać do nich dostęp.  To może być niezbędne w przypadku zarządzania klastrami heterogenicznymi, gdzie nie wszystkie węzły posiadają tę samą konfigurację.
+
+Jednolita przestrzeń I/O
+Niektóre systemy SSI umożliwiają dostęp do urządzeń wejścia/wyjścia (np. taśmy, dyski, linie transmisyjne itp) właściwych dla danych węzłów, przez inne węzły. Mogą występować pewne ograniczenia w typie dostępu do danego urządzenia (Na przykład OpenSSI nie może węzłom montować dysków innych węzłów).
+
+Jednolita przestrzeń IPC
+Różne systemy SSI pozwalają procesom z różnych węzłów komunikować się za pomocą mechanizmów komunikacji między procesowej ( inter-process communications mechanisms ) , tak jakby były one uruchomione na tej samej maszynie. W niektórych systemy SSI dotyczy to nawet współdzielonej pamięci (shared memory) (może być osiągnięte z Software Distributed shared memory).
+
+W większości przypadków komunikacja między procesowa (IPC) będzie wolniejsza niż pomiędzy procesami uruchomionymi na tej samej maszynie, zwłaszcza w przypadku współdzielonej pamięci, dlatego w celu redukcji tego zjawiska, niektóre systemy SSI stosują nawet specjalne urządzenia.
+
+Adresy IP klastra
+Niektóre systemy SSI wprowadzają adresy klastra "cluster address", pojedyncze adresy widoczne poza klastrem, które mogą być wykorzystywane do komunikowania się z klastrem tak jakby był na tej samej maszynie. To może być wykorzystywane przy load balancing'u i jego odwołaniach przychodzących, które można przekierować do mniej obciążonych węzłów, lub przy redundancji, podczas przenoszenia węzła z jednej maszyny na drugą, podczas opuszczania lub przyłączania się węzła do klastra, co często jest powodem do crashu systemu.
+
+Przykłady systemów klastrów SSI
+
+
+
+Zobacz też
+Computer clusters
+Diskless Shared Root Cluster
+
+Notatki
+
+
+
+
+

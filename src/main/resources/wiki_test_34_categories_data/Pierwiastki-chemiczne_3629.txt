@@ -1,0 +1,109 @@
+Miedź (Cu, łac. cuprum) – pierwiastek chemiczny, z grupy metali przejściowych układu okresowego. Nazwa miedzi po łacinie (a za nią także w wielu innych językach, w tym angielskim) pochodzi od Cypru, gdzie w starożytności wydobywano ten metal. Początkowo nazywano go metalem cypryjskim (łac. cyprum aes), a następnie cuprum.'' Posiada 26 izotopów z przedziału mas 55-80. Trwałe są dwa: 63 i 65.
+
+Właściwości
+Fizyczne
+
+Miedź ma gęstość 8,96 g/cm³ i temperaturę topnienia 1084,45&nbsp;°C. Po wytopie i oczyszczeniu jest miękkim metalem o bardzo dobrym przewodnictwie cieplnym i elektrycznym. Miedź, wraz ze srebrem i złotem, leżą w 11 grupie układu okresowego oraz posiadają wspólne pewne właściwości: posiadają jeden elektron na orbitalu s powłoki walencyjnej ponad zapełnioną powłoką elektronową d oraz odznaczają się wysoką plastycznością i przewodnictwem elektrycznym. Wypełnione powłoki d w tych pierwiastkach nie wnoszą zbyt dużego wkładu w oddziaływania międzyatomowe, które w wiązaniach metalicznych są zdominowane przez elektrony powłok s. W przeciwieństwie do metali z niepełnymi powłokami d, wiązanie metaliczne w miedzi nie ma charakteru kowalencyjnego i jest względnie słabe. Wyjaśnia to niską twardość i wysoką plastyczność pojedynczych kryształów miedzi. Miedź można przerabiać plastycznie na zimno i na gorąco, ale w przypadku przeróbki na zimno następuje utwardzenie metalu (w wyniku zgniotu), które usuwa się przez wyżarzenie rekrystalizujące (w temp. 400-600&nbsp;°C). Przeróbkę plastyczną na gorąco przeprowadza się w temp. 650-800&nbsp;°C. W skali makroskopowej, wytworzenie podłużnych wad sieci krystalicznej, jak granice pomiędzy ziarnami czy zaburzenia przepływu pod przyłożoną siłą, zwiększa twardość miedzi. Z tego powodu, miedź dostępna handlowo jest w drobno ziarnistej polikrystalicznej formie, posiadająca większą odporność mechaniczną niż forma monokrystaliczna.
+
+Niska twardość miedzi częściowo tłumaczy jej wysoką przewodność elektryczną (59,6×106 S/m) i wysoką przewodność cieplną, które są drugie pod względem wielkości wśród czystych metali w temperaturze pokojowej.
+Jest to spowodowane tym, że oporność w przenoszeniu elektronów w metalach pochodzi głównie od rozpraszania elektronów na wibracjach cieplnych sieci krystalicznej, które w metalach miękkich są stosunkowo słabe. Maksymalna dopuszczalna gęstość prądu dla miedzi w powietrzu wynosi w przybliżeniu 3,1×106 A/m2 pola przekroju poprzecznego, powyżej tej wartości zaczyna się nadmiernie nagrzewać. Tak jak w przypadku innych metali, jeśli miedź jest w kontakcie z innymi metalami, zachodzi korozja galwaniczna.
+Wraz z osmem (niebieskawy), cezem (żółty) i złotem (żółty), miedź jest jednym z czterech metali, których naturalny kolor jest inny niż szary lub srebrny. Czysta miedź jest pomarańczowoczerwona, na powietrzu ciemnieje wskutek utleniania. Charakterystyczny kolor miedzi pochodzi od przejść elektronów pomiędzy wypełnionymi powłokami 3d a półpustymi 4s – różnice energetyczne pomiędzy tymi powłokami odpowiadają energii światła pomarańczowego. Ten sam mechanizm jest odpowiedzialny za żółty kolor złota.
+
+Chemiczne
+
+Czysta miedź zawiera 0,01-1,0% zanieczyszczeń, zależnie od rodzaju wytwarzania, przetwarzania i oczyszczania. Za zanieczyszczenia uważa się takie pierwiastki jak: Bi, Pb, Sb, As, Fe, Ni, Sn, Zn oraz S. Jest dość odporna chemicznie, zalicza się do metali półszlachetnych. Nie ulega działaniu kwasów w warunkach nieutleniających, natomiast w warunkach utleniających roztwarza się bez wydzielania wodoru:
+3Cu + 8HNO3 (rozcieńczony) → 3Cu(NO3)2 + 2NO↑ + 4H2O
+Cu + 4HNO3 (stężony) → Cu(NO3)2 + 2NO2↑ + 2H2O
+
+Miedź tworzy dużą różnorodność związków na I i II stopniu utlenienia (wg dawnej nomenklatury nazywane odpowiednio miedziawymi lub miedziowymi), znane są też nieliczne związki na stopniu utlenienia +III. Nie reaguje z wodą, ale na powietrzu pokrywa się cienką warstwą CuO, w wyniku czego ciemnieje i przybiera barwę określaną jako czerwona lub czerwonobrązowa. W przeciwieństwie do utleniania żelaza w wilgotnym powietrzu, utworzona warstwa tlenkowa zapobiega dalszej korozji głębszych warstw. Zielona warstwa patyny (węglan hydroksomiedzi(II)) może być zauważona na starych konstrukcjach miedzianych, takich jak dachy kryte miedzią (często dachy starszych kościołów), czy na Statui Wolności, będącej największym na świecie pomnikiem stworzonym z udziałem techniki repusowania. Siarkowodór i siarczki reagują z miedzią tworząc na powierzchni różne siarczki miedzi. Miedź może również ulec korozji jeśli narażona jest na kontakt z powietrzem zawierającym związki siarki. Amoniakalne roztwory zawierające tlen dają rozpuszczalne w wodzie kompleksy miedzi, podobnie jak tlen i kwas solny tworząc chlorki miedzi i zakwaszony nadtlenek wodoru tworząc sole miedzi(II). Chlorek miedzi(II) i miedź ulegają komproporcjonowaniu tworząc chlorek miedzi(I).
+
+Miedź metaliczna w postaci pyłu jest bardzo łatwopalna i szkodliwa dla środowiska.
+
+Charakterystyka niektórych związków
+Pięciowodny siarczan miedzi(II) CuSO4· 5H2O (występujący naturalnie jako minerał chalkantyt) ma własności odkażające, a bezwodny ma silne własności higroskopijne i niekiedy stosowany jest do osuszania rozpuszczalników. Kompleksy miedzi są trwałe, jednak dość łatwo jest zmieniać stopień utlenienia miedzi w takich kompleksach i dlatego są one często stosowane jak katalizatory reakcji redoks. Związki miedzi(I) są trudno rozpuszczalne w wodzie, natomiast wodne roztwory soli miedzi(II) z reguły mają barwę niebieską lub niebiesko-zieloną.
+
+Występowanie
+
+Występuje w skorupie ziemskiej w ilościach 55 ppm. W naturze występuje w postaci rud oraz w postaci czystej jako minerał – miedź rodzima. Miedź rodzima jest rzadko spotykana.
+Głównym źródłem tego metalu są minerały:
+Siarczki: chalkopiryt CuFeS2, chalkozyn Cu2S, bornit Cu5FeS4;
+Węglany: azuryt Cu3(CO3)2(OH)2, malachit Cu2CO3(OH)2.
+
+Wydobycie, zasoby i konsumpcja miedzi na świecie
+
+
+Ze względu na duże zapotrzebowanie i stosunkowo małe zasoby naturalne miedź stanowi materiał strategiczny. Większość miedzi wydobywa się jako siarczek w kopalniach odkrywkowych ze złóż porfiru miedziowego zawierającego do 1% miedzi. W światowym wydobyciu rud miedzi w przeliczeniu na czysty składnik, wynoszącym w 2010 r. łącznie 16,2 mln ton, przodowały: Chile (5,52 mln ton), Peru (1,28 mln ton), Chiny (1,15 mln ton) USA (1,12 mln ton), Australia (900 tys. ton), Indonezja (840 tys. ton), Zambia (770 tys. ton), Rosja (750 tys. ton), Kanada (480 tys. ton), Polska (430 tys. ton) i Kazachstan (400 tys. ton).
+
+Do krajów posiadających największe szacowane zasoby miedzi należą: Chile (150 mln ton), Peru (90 mln ton), Australia (80 mln ton), Meksyk (38 mln ton), Stany Zjednoczone (35 mln ton), Chiny, Indonezja i Rosja (30 mln ton) oraz Polska, której znane zasoby są szacowane na 26 mln ton. Głównym ośrodkiem przemysłu miedziowego w Polsce jest Legnicko-Głogowski Okręg Miedziowy
+
+W roku 2009 ogólnoświatowa konsumpcja miedzi wynosiła około 22,1 mln ton. Źródłami miedzi była miedź wydobywana w kopalniach (w 2009 roku było to ponad 15 mln ton) oraz miedź pozyskiwana z recyklingu, który w 2008 roku dostarczył około 35% ogółu konsumowanej miedzi. Do największych konsumentów miedzi należą (2009): Chiny (7,87 mln ton), Europa Zachodnia (3,13 mln ton), Ameryka Północna (2,47 mln ton), Japonia (1,22 mln ton), Indie (0,92 mln ton) oraz Korea Południowa (0,76 mln ton). Gałęziami przemysłu, gdzie zużywa się (2009) wytwarzaną miedź jest budownictwo (7,26 mln ton, w tym do budowy instalacji elektrycznych wodociągowych, odpowiednio 5,27 i 1,33 mln ton), infrastruktura (3,26 mln ton, w tym do budowania infrastruktury elektrycznej i telekomunikacyjnej, odpowiednio 2,54 i 0,72 mln ton) oraz budowa maszyn (11,57 mln ton, w tym przemysłowe, ogólnie pojętego transportu, chłodzące, elektroniczne, odpowiednio 2,74; 2,56; 1,33; 0,77 mln ton).
+
+Otrzymywanie
+Rudy miedzi zawierają nieznaczne ilości miedzi. W celu oddzielenia siarczków miedzi od skały płonnej, stosowana jest flotacja. Otrzymane w ten sposób koncentraty miedzi przerabiane są w piecach hutniczych (np. piec zawiesinowy firmy Outotec), a produktem wytopu są anody miedziowe. Anody te poddawane są elektrorafinacji. Produktem huty są katody, które w zależności od przeznaczenia przetapiane są na wlewki różnego kształtu i wielkości.
+
+Recykling
+Miedź, tak jak aluminium jest w 100% recyklingowana bez jakiejkolwiek straty jakości. W objętości, miedź jest trzecim po żelazie i aluminium najczęściej odzyskiwanym metalem. Szacuje się, że w użyciu jest 80% kiedykolwiek wydobytej miedzi. Recykling w latach 2002-2008 dostarczał około 35% zużywanej miedzi. Ze względu na charakter surowca przewiduje się, że w ciągu następnych lat udział recyklingu w ogólnej produkcji miedzi będzie rósł.
+Proces odzyskiwania miedzi przebiega w ten sam sposób, jak w procesie jej otrzymywania, z wyjątkiem tego, że wymaga mniejszej ilości etapów. Wysokiej czystości złom jest topiony w piecu, a następnie redukowany i wylewany w postaci kęsów i sztabek; niskiej czystości złom jest poddawany elektrorafinacji w kąpieli kwasu siarkowego.
+
+Zastosowanie
+Miedź obok żelaza odegrała wyjątkową rolę w rozwoju cywilizacji ludzkiej. Epoka brązu zawdzięcza swoją nazwę jednemu ze stopów miedzi. Pierwiastek ten znany jest od starożytności, od kiedy to był podstawowym składnikiem brązów.
+Głównym zastosowaniem miedzi jest produkcja kabli elektrycznych (60%), pokryć dachów i instalacji wodociągowych (20%) i maszyn przemysłowych (15%). Miedź głównie używana jest jako metal, ale gdy wymagana jest większa twardość, wtedy łącząc z innymi metalami tworzy się stopy (5% całkowitego zużycia), takie jak brąz czy mosiądz. Mała część miedzi jest używana w produkcji związków będących dodatkami do żywności i fungicydami w rolnictwie oraz stosowana jako barwnik szkła czy katalizator.
+
+Urządzenia elektryczne
+Właściwości elektryczne miedzi są wykorzystywane w przewodach miedzianych i urządzeniach jak elektromagnesy. Układy scalone i obwody drukowane zawierają miedź, ze względu na jej bardzo dobrą przewodność elektryczną; radiatory i wymienniki ciepła wytwarzane są z miedzi, ze względu na wyższe rozpraszanie ciepła, w stosunku do powszechnie używanego aluminium. Miedź jest używana także do budowy lamp elektronowych, monitorów CRT i magnetronów jako falowodów promieniowania mikrofalowego.
+
+Stopy
+Metal jest dodawany do wielu stopów, zarówno do stali jak i do stopów aluminium. Jest też dodawany do srebra i złota poprawiając znacznie ich własności mechaniczne. Miedź z cyną, cynkiem, molibdenem i innymi metalami przejściowymi tworzy cały zestaw stopów zwanych ogólnie brązami. Najbardziej znane z nich to: udający złoto tombak i posiadający bardzo dobre własności mechaniczne oraz znaczną odporność na korozję mosiądz. Stopy miedzi stosuje się do wyrobu kosztownej armatury, elementów precyzyjnych urządzeń mechanicznych i w jubilerstwie.
+
+Budownictwo i przemysł
+
+Ze względu na odporność metalu na wodę, miedź była używana już od czasów starożytnych jako materiał pokryć dachowych. Zielony kolor starszych budynków pochodzi od zachodzącej przez długi czas reakcji, w której miedź jest utleniana najpierw do tlenku miedzi(II), następnie przechodzi w siarczek miedzi (I) lub (II), by w końcu utworzyć węglan miedzi(II), nazywany patyną, która jest wysoko odporna na korozję. Piorunochrony są wyrabiane z miedzi w celu skutecznego uziemiania piorunów. Miedź ze względu na swoje właściwości idealnie nadaje się do lutowania i spawania w łuku gazowo-metalowym.
+
+Zastosowania biostatyczne
+Metaliczna miedź (podobnie jak metaliczne srebro) wykazuje silne właściwości antybakteryjne. Miedź od dawna jest używana jako biostatyczna powierzchnia pokrycia statków, chroniąca przed skorupiakami i omułkami. Pierwotnie była używana czysta miedź, lecz obecnie wyparł ją metal Muntza, będący formą mosiądzu o składzie 60% miedzi i 40% cynku. Podobne zastosowanie miedź znalazła w akwakulturze do konstrukcji sieci i innych elementów narażonych na obrastanie organizmami roślinnymi i zwierzęcymi. Jej biostatyczne właściwości usprawiedliwiają użycie miedzi jako materiału do wyrobu klamek do drzwi (ograniczenie ilości przenoszonych bakterii) i rur wodociągowych.
+Opublikowane w 2011 roku badania potwierdzają, że stosowanie powierzchni pokrywanych miedzią redukuje ilość patogenów znajdujących się na powierzchniach w salach OIOM o 97%. Te same badania mówią o tym, że bakterie znajdujące się na salach OIOM są odpowiedzialne za 35-80% infekcji wśród leczonych tam pacjentów.
+
+Znaczenie biologiczne miedzi
+Miedź występuje powszechnie w wielu organizmach roślinnych i zwierzęcych. Jako mikroelement jest niezbędna dla życia wielu organizmów, biorąc udział m.in. w fotosyntezie i oddychaniu, jednak niektóre giną już przy bardzo niskich jej stężeniach. Dotyczy to np. skrętnicy, choć inne glony też są stosunkowo wrażliwe na obecność jonów miedziowych w wodzie, przez co sole miedzi mogą być stosowane jako algicydy.
+
+Miedź jest mikroelementem występującym w centrach aktywnych wielu enzymów. Znajduje się tam, ze względu na łatwość pobierania i oddawania elektronu w czasie zmiany stopnia utlenienia. Potrzebna jest do tworzenia się krwinek czerwonych, wchodzi w skład hemocyjaniny, wpływa pozytywnie na błonę otaczającą komórki nerwowe, bierze udział w przesyłaniu impulsów nerwowych. Wchodzi w skład dysmutazy ponadtlenkowej, enzymu o działaniu przeciwutleniającym, chroniącego błony komórkowe przed wolnymi rodnikami. Ponadto bierze udział w tworzeniu tkanki łącznej (wiązania krzyżowe w cząsteczkach kolagenu i elastyny katalizowane przez oksydazę lizylową) i syntezie prostaglandyn, związków zwanych hormonami miejscowymi, wpływających między innymi na czynność serca i ciśnienie tętnicze krwi. U fotoautotrofów wchodzi w skład plastocyjaniny.
+
+Jej minimalne dzienne spożycie wynosi 0,5 ppm. Genetycznie uwarunkowany defekt metabolizmu miedzi prowadzi do wystąpienia schorzenia zwyrodnienia wątrobowo-soczewkowego choroby Wilsona. Niedobór miedzi może stać się przyczyną niedokrwistości, ponieważ zbyt mała ilość tego pierwiastka powoduje gorsze wchłanianie żelaza i zmniejszenie liczby czerwonych krwinek.
+
+Wchłanianie miedzi (podobnie jak jonów innych metali) w przewodzie pokarmowym jest blokowane przez białka mleka i jaj oraz warzywa krzyżowe zawierające duże ilości związków siarki (np. kapusta, cebula, por, czosnek, gorczyca). Spożywanie tych produktów łącznie z pokarmem o dużej zawartości miedzi znacząco zmniejsza wchłanianie tego pierwiastka przez organizm. Owoce morza obok miedzi zawierają bardzo dużo cynku, który całkowicie blokuje wchłanianie miedzi.
+
+Spożywanie nadmiaru miedzi prowadzić może do zaburzeń pokarmowych i uszkodzenia wątroby. Może to mieć miejsce w przypadku spożywania wody pitnej o niskiej twardości lub niskim pH dostarczanej miedzianą instalacją wodociągową (woda taka wypłukuje miedź z instalacji). Szacuje się, że bezpieczne dzienne spożycie miedzi waha się w przedziale 2-3 mg, okazyjnie do 10 mg na dzień (dla dorosłych). Dawka śmiertelna miedzi zawarta jest w około 30 g siarczanu miedzi. Objawy zatrucia są podobne do zatrucia arszenikiem. W przypadku podejrzenia zatrucia podaje się albuminę jako mleko lub białko jaj.
+
+Źródła miedzi w pokarmach
+
+wątroba – wątroby zwierzęce zawierają bardzo duże ilości mikroelementów i witamin, wątróbka cielęca zawiera 15 mg na 100 g, zawartość miedzi w wątrobie jest zróżnicowana w zależności od jej pochodzenia (od 25% zalecanego dziennego spożycia (RDA) w drobiowej do około 750% w wątrobie cielęcej),
+ostrygi – 1-8 mg miedzi na 100 g ostryg. W zależności od gatunku, miejsca połowu i sposobu hodowli zawierają 37-500% RDA,
+drożdże piekarskie – około 5 mg na 100 g drożdży (ok. 250% RDA),
+ziarna sezamu i tahini – ziarna sezamu zawierają 7,75 mg miedzi na 100 g ziaren (204% RDA). Jedna łyżka tahini dostarcza 0,24 mg miedzi (ok. 12% RDA),
+kakao i czekolada – kakao zawiera około 3,8 mg miedzi na 100 g produktu (189% RDA), tym samym zawartość miedzi w czekoladzie zależy od zawartości kakao,
+kalmary i homary – kalmary dostarczają około 2,1 mg miedzi na 100 g (106% RDA), natomiast homary 1,9 mg (97% RDA),
+ziarna słonecznika – ziarna zawierają 1,8 mg miedzi na 100 g ziaren (92% RDA),
+suszone pomidory – zawierają 1,4 mg na 100 g produktu (71% RDA),
+ziarna dyni – zawierają 1,4 mg na 100 g produktu (71% RDA).
+
+Innymi produktami spożywczymi o dużej zawartości miedzi są (RDA w 100 g produktu): ziarna soi (54% RDA), siemię lniane (61% RDA), grzyby shiitake (45% RDA), otręby pszenne (50% RDA), ziarna arbuza (34% RDA), suszone śliwki (31% RDA) i papryka (30% RDA).
+
+Często pod uwagę należy brać fakt, że w wodzie z instalacji miedzianych większe ilości miedzi znajdują się w wodzie ciepłej, niż w zimnej. Jest to istotne przy przygotowywaniu posiłków dla dzieci, dla których dzienne dawki miedzi są mniejsze niż dla dorosłych.
+
+Zobacz też
+
+choroba wodorowa miedzi
+miedziankit – materiał wybuchowy stosowany w górnictwie rud miedzi
+
+
+
+
+
+
+
+
+
+
+
+
+

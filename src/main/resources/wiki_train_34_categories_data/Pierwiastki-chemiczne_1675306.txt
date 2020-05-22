@@ -1,0 +1,15 @@
+Naborowywanie, w tym m.in. borowanie dyfuzyjne – metoda obróbki cieplno-chemicznej stali. Polega na nasycaniu borem powierzchniowej warstwy przedmiotów stalowych. Jej skutkiem jest zwiększenie odporności na działanie kwasu solnego i innych kwasów, nadanie właściwości antykorozyjnych, twardości (odporności na ścieranie), doprowadzanie do nierozpuszczalności w stopionych metalach (Cynk oraz Glin) oraz zwiększenie żaroodporności stali (do 800°C). Obróbkę tę stosuje się zazwyczaj wobec narzędzi nie poddawanych obciążeniom dynamicznym, gdyż nadaje ona większą odporność, niż procesy azotowania i nawęglania, ale jej wadą jest zwiększenie kruchości stali. Naborowywanie przeprowadza się w temperaturze około 1000 °C, w ośrodkach ciekłych lub stałych, które wydzielają bor.
+
+Występuje kilka metod borowania:
+borowanie w ośrodkach stałych – w tym w proszkach i pastach
+borowanie w ośrodkach ciekłych – z pododmianą borowania elektrolitycznego
+borowanie w ośrodkach gazowych – w tym metody borowania jonowego
+
+Po borowaniu dopuszcza się dalszą obróbkę cieplną obiektów. Najczęściej jest to hartowanie z odpuszczaniem lub hartowanie izotermiczne przeprowadzane w środowiskach zapobiegających utlenieniu się naborkowanej warstwy.
+
+Bibliografia
+Metaloznawstwo, Karol Przybyłowicz, WNT, Warszawa 1992, 2003, ISBN 83-204-2822-X
+Teoria i praktyka borowania stali, Karol Przybyłowicz, Wydawnictwo Politechniki Świętokrzyskiej, Kielce 2001, ISBN 0239497927
+
+
+

@@ -1,0 +1,15 @@
+Saldo (łac. solidus) – stan konta księgowego w rachunkowości przedsiębiorstw wykazywany w danym dniu jako różnica między sumami zapisów strony "Wn" (Winien) i strony "Ma" konta. Saldo konta księgowego pozwala ustalić stan składnika ewidencjonowanego na tym koncie (np. stan zapasów magazynowych, stan gotówki w kasie, salda rozrachunków z kontrahentami). W zależności od rodzaju konta, saldo może występować po stronie "Winien" lub "Ma" (niektóre konta dopuszczają występowanie salda tylko po jednej stronie, np. konta ewidencjonujące koszty działalności podstawowej, środki trwałe, umorzenie środków trwałych).
+
+Przykład
+Ewidencjonowanie zapisów konta: Środki pieniężne w gotówce (kasa)''
+
+
+Saldo konta na dzień 07-01-2007: ΣWn - ΣMa = 2120,00 - 1850,00 = (Wn) 270,00
+
+Zobacz też
+
+konto księgowe
+
+
+
+

@@ -1,0 +1,12 @@
+Kąt widzenia – kąt płaski, mierzony w stopniach, który zawarty jest w danej płaszczyźnie pomiędzy skrajnymi promieniami przechodzącymi przez dany układ optyczny. W przypadku urządzeń optycznych jak np. lornetka, często definiowany jest jako szerokość obszaru widzianego. W przypadku ludzkiego wzroku częściej mówi się o polu widzenia.
+
+Fotografia
+W fotografii, kąt widzenia obiektywu jest to kąt zawarty pomiędzy najbardziej skrajnymi promieniami światła dostającymi się do aparatu, które są rejestrowane przez aparat, a wpływ na niego ma rodzaj użytego obiektywu fotograficznego.
+
+
+
+Poniższa tabelka zawiera wartości kątów ukośnych, horyzontalnych i wertykalnych dla danych ogniskowych obiektywu dla standardowych w aparatach analogowych wymiarów klatki 36 mm × 24 mm.
+
+
+
+

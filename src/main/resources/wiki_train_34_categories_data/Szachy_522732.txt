@@ -1,0 +1,13 @@
+Gambit Blumenfelda – otwarcie szachowe oznaczone symbolem ECO E10 i charakteryzujące się posunięciami:
+
+1.d4 Sf6 2.c4 e6 3.Sf3 c5 4.d5 b5!?'''
+
+Wyjściowa pozycja gambitu Blumenfelda przypomina więc, po włączeniu posunięć Sf3 i e6, gambit wołżański. O ile jednak w gambicie wołżańskim czarne dążą do ciężkofigurowej kontrgry na skrzydle hetmańskim o tyle w gambicie Blumenfelda główną ideą jest zajęcie pionami centrum: po ruchach 5.d:e6 f:e6 6.c:b5 d5! z szansami na uzyskanie przewagi – taki przebieg miał początek pierwszej partii granej tym debiutem (Tarrasch-Alechin, Pieszczany 1922). Z biegiem czasu wykazano jednak, że posunięcie 5.Gg5! daje niewielką przewagę białym.
+
+Dlatego we współczesnych turniejach gambit Blumenfelda jest stosunkowo rzadko spotykany, zamiast niego czarne ruchem 4...e:d5 przechodzą do obrony Benoni. Nazwa gambitu pochodzi od rosyjskiego teoretyka, Benjamina Blumenfelda, który na początku lat 20. ubiegłego wieku poświęcił mu szereg opracowań teoretycznych.
+
+Wybrana literatura
+Jan Przewoźnik, Malcolm Pein (1991), The Blumenfeld Gambit, Pergamon Chess, ISBN 0-08-037132-9
+Jerzy Konikowski,  Jan Przewoźnik (1991), Blumenfeld-Gambit. 1. Aufl. Ed. Mädler im Rau-Verl., Düsseldorf, ISBN 3-7919-0328-4
+
+Linki zewnętrzne

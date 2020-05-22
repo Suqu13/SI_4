@@ -1,0 +1,36 @@
+Atacama Large Millimeter/submillimeter Array (ALMA)''' – największy na świecie interferometr radiowy, znajdujący się na płaskowyżu Chajnantor w Chilijskich Andach na wysokości ok. 5000 m n.p.m. W jego skład wchodzi 66 precyzyjnie wykonanych radioteleskopów o średnicach czasz 12 i 7 metrów. Prowadzą one obserwacje w zakresie fal milimetrowych i submilimetrowych. Interferometr powstał we współpracy międzynarodowej krajów Europy, Ameryki Północnej i Azji Wschodniej, przy współudziale Chile.
+
+ALMA jest teleskopem o rewolucyjnej konstrukcji, pracującym w zakresie od 31,3 GHz do 950 GHz. Charakteryzuje się dużo wyższą czułością i zdolnością rozdzielczą od istniejących teleskopów pracujących w zakresie fal submilimetrowych, takich jak Teleskop Jamesa Clerka Maxwella, czy sieci radioteleskopów, takich jak Submillimeter Array (SMA) oraz IRAM Plateau de Bure. Promieniowanie o tej długości fali pochodzi często z najchłodniejszych i najodleglejszych obiektów kosmosu. Są to między innymi obłoki gazu i pyłu, w których rodzą się nowe gwiazdy, oraz odległe galaktyki na granicy obserwowalnego Wszechświata. Kosmos w tych długościach fal nie był do tej pory dokładnie zbadany, ponieważ do wykonania wartościowych obserwacji potrzeba obserwatorium w miejscu, które nie tylko gwarantuje dobre warunki pogodowe dla obserwacji, ale również bardzo niską wilgotność powietrza. 
+
+Budowa
+
+
+W latach 80. XX wieku w Europie, USA i Japonii powstały trzy osobne projekty budowy dużego radiointerferometru. W latach 90. połączono je w jeden wspólny projekt. 
+
+Budowę obserwatorium ALMA rozpoczęto w 2003 roku. Pierwszy radioteleskop na teren obserwatorium dostarczono w 2007 r. Teleskopy zbudowane zostały przez partnerów projektu z Europy, Ameryki Północnej i Azji Wschodniej. W Europie i Ameryce powstało w sumie pięćdziesiąt anten o średnicy 12 m, które tworzą podstawową część sieci. W Azji Wschodniej zbudowano szesnaście anten (cztery o średnicy 12 m i dwanaście o średnicy 7 m), które tworzą tzw. Atacama Compact Array (ACA), uzupełniającą podstawową sieć. 
+
+Pierwsze obserwacje naukowe z wykorzystaniem kilkunastu radioteleskopów rozpoczęły się w 2011 r., mimo że konstrukcja kompleksu jeszcze trwała. Uroczyste otwarcie odbyło się 13 marca 2013 roku, a całkowity koszt budowy wyniósł ok. 1,4 miliarda dolarów. Na początku października 2013 dotarła ostatnia z 66 anten. Ta ostatnia 12–metrowa antena została dostarczona przez europejskie konsorcjum AEM, w skład którego wchodzą firmy Thales Alenia Space, European Industrial Engineering oraz MT–Mechatronics. To również sukces ESO, dla którego był to największy dotychczas kontrakt realizowany przez zewnętrznego dostawcę. Dostarczenie ostatniej anteny pozwoliło obserwatorium ALMA na osiągnięcie pełni możliwości operacyjnych i rozpoczęcie nowej epoki dla obserwacji astronomicznych w zakresie fal milimetrowych i submilimetrowych.
+
+Centra Regionalne ALMA
+Centra Regionalne ALMA (ARC) powstały w Europie, Ameryce Północnej i Azji. Ich podstawowym zadaniem jest:
+niesienie pomocy w przygotowaniu wniosku obserwacyjnego;
+dostarczanie danych użytkownikowi teleskopu;
+pomoc przy kalibracji danych;
+utrzymywanie archiwum danych z teleskopu ALMA.
+
+Europejska siedziba ARC mieści się w Garching (ESO/Niemcy). Dodatkowo powołano siedem Centrów Lokalnych (ang. ARC Nodes) w Bolonii, Bonn, Grenoble, Lejdzie, Manchesterze, Ondrejovie i Onsali.
+
+Szczegóły projektu
+Podstawową sieć radioteleskopów tworzy 50 anten o średnicy czaszy 12 m. Dodatkowo powstała mniejsza sieć tzw. Atacama Compact Array (ACA), która składa się z czterech anten o średnicy 12 m i dwunastu anten o średnicy 7 m. Całość ustawiona jest na wysokości 5000 m na płaskowyżu Chajnantor w Chilijskich Andach.
+Teleskop ALMA prowadzi obserwacje w zakresie od 31,3 GHz do 950 GHz.
+W zależności od rodzaju prowadzonych obserwacji można zmieniać konfigurację sieci radioteleskopów. Najmniejsza odległość pomiędzy radioteleskopami w sieci wynosi 150 m, a największa 16 km.
+Rozdzielczość kątowa teleskopu ALMA wynosi będzie: 0,2" λ [mm] / długość bazy [km].
+Sygnały z anten są łączone razem i przetwarzane za pomocą wyspecjalizowanego superkomputera: korelatora ALMA – jednego z najpotężniejszych komputerów na świecie, zbudowanego z ponad 134 milionów procesorów.
+Do redukcji danych zebranych przez teleskop ALMA jest wykorzystywane specjalnie w tym celu napisane oprogramowanie tzw. pakiet CASA (Common Astronomy Software Applications).
+
+
+
+Bibliografia
+Bartosz Dąbrowski, ALMA - nowa era odkryć, Urania - Postępy Astronomii, 2/2013
+
+Linki zewnętrzne

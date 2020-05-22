@@ -1,0 +1,65 @@
+Jif'at (hebr. יִפְעַת; ang. Yifat) - kibuc położony w Samorządzie Regionu Doliny Jezreel, w Dystrykcie Północnym, w Izraelu. Członek Ruchu Kibuców (HaTenoa'a HaKibbutzit).
+
+Położenie
+Kibuc jest położony na wysokości 108 metrów n.p.m., na północnej granicy intensywnie użytkowanej rolniczo Doliny Jezreel z masywem górskim Hare Naceret, który ciągnie się na wschód od osady w kierunku do miasta Nazaret w Dolnej Galilei. Z tych wzgórz spływa przepływający na północ od kibucu strumień Cvi, natomiast na południu jest strumień Jif'at. Okoliczny teren łagodnie opada w kierunku południowo zachodnim. W jego otoczeniu znajdują się miasto Migdal ha-Emek, kibuce Sarid, Gevat i Ramat David, moszaw Nahalal, oraz wieś komunalna Timrat.
+
+Podział administracyjny
+Jif'at jest położony w Samorządzie Regionu Doliny Jezreel, w Poddystrykcie Jezreel, w Dystrykcie Północnym Izraela.
+
+Demografia
+Większość mieszkańców kibucu jest Żydami, jednak nie wszyscy identyfikują się z judaizmem. Tutejsza populacja jest świecka:
+
+
+
+ImageSize  = width:500 height:270
+PlotArea   = left:50 right:40 top:20 bottom:40
+TimeAxis   = orientation:vertical 
+AlignBars  = justify 
+Colors = 
+  id:gray1 value:gray(0.9)
+DateFormat = yyyy
+Period     = from:0 till:866
+ScaleMajor = unit:year increment:100 start:0 gridcolor:gray1
+TextData =
+  pos:(250,20) textcolor:black fontsize:S
+  text:Ludność Jif'at
+PlotData =
+  bar:1961 color:gray1 width:1 
+   from:0 till:754  width:15  text:754 textcolor:red  fontsize:8px
+  bar:1972 color:gray1 width:1 
+   from:0 till:735  width:15  text:735 textcolor:red  fontsize:8px
+  bar:1983 color:gray1 width:1 
+   from:0 till:831  width:15  text:831 textcolor:red  fontsize:8px
+  bar:1995 color:gray1 width:1 
+   from:0 till:747  width:15  text:747 textcolor:red  fontsize:8px
+  bar:2001 color:gray1 width:1 
+   from:0 till:707  width:15  text:707 textcolor:red  fontsize:8px
+  bar:2010 color:gray1 width:1 
+   from:0 till:866  width:15  text:866 textcolor:red  fontsize:8px
+
+
+
+Historia
+W 1951 roku doszło do wewnętrznego rozłamu w sąsiednich kibucach Gevat i Ramat David, w wyniku którego część lewicowych mieszkańców odeszła i następnie w dniu 15 lipca 1954 roku założyła nowy kibuc. Początkowo nazywał się on Ichud HaSzaron - Gevat (hebr. איחוד השרון - גבת), a następnie zmieniono na obecną, która nawiązuje do biblijnego miasta Jafia. Był to jeden z pierwszych kibuców w kraju, który zdecydował się przyjmować wolontariuszy z Niemiec. W 2004 roku kibuc przeszedł przez proces prywatyzacji, zachowując kolektywną organizację instytucji kultury, edukacji i ochrony zdrowia. W 2010 roku rozpoczęto budowę nowego osiedla mieszkaniowego, które jest położone w południowo wschodniej części osady.
+
+Kultura i sport
+W kibucu znajduje się ośrodek kultury z biblioteką. Jest tu Muzeum Pionierów Osadnictwa upamiętniające historię osadnictwa żydowskiego w regionie, oraz Muzeum Obory przedstawiające historię rozwoju hodowli bydła. Z obiektów sportowych jest basen pływacki, sala sportowa oraz boiska.
+
+Edukacja i religia
+W kibucu jest przedszkole oraz regionalna szkoła średnia HaEmek HaMa'aravi. Dzieci są także dowożone do szkoły podstawowej w sąsiednim kibucu Sarid. Jest tu także szkoła języka hebrajskiego (ulpan) dla nowych imigrantów i osób, które rozważają imigrację do Ziemi Izraela. Kibuc posiada własną synagogę i mykwę.
+
+Gospodarka
+Gospodarka kibucu opiera się na intensywnym rolnictwie, sadownictwie, szklarniach i hodowli drobiu. Uprawy polowe koncentrują się na bawełnie. Sady zajmują około 750 hektarów i obejmują awokado i migdałowce. Jest tutaj gaj drzewek oliwnych i winorośli. Jest tu także zakład produkujący maszyny rolnicze.
+
+Infrastruktura
+W kibucu znajduje się przychodnia zdrowia, poczta, sklep wielobranżowy, pralnia, stacja benzynowa i warsztat mechaniczny.
+
+Transport
+Z kibucu wyjeżdża się na zachód na drogę nr 73, którą jadąc na zachód dojeżdża się do kibuców Gevat i Ramat David, lub jadąc na południowy wschód dojeżdża się do kibucu Sarid i dalej do skrzyżowania z drogą nr 7255 prowadzącą na północ do miasta Migdal ha-Emek.
+
+Uwagi
+
+
+
+
+Linki zewnętrzne

@@ -1,0 +1,292 @@
+
+To jest lista okrętów austro-węgierskich służących w austro-węgierskiej marynarce wojennej.
+
+Drednoty
+
+typ Tegetthoff
+„Viribus Unitis” (1911)
+„Tegetthoff” (1912)
+„Prinz Eugen” (1912)
+„Szent István (1914)
+typ Ersatz Monarch (projektowany)
+
+Przeddrednoty
+
+
+Pancerniki typu Habsburg
+„Habsburg” (1900)
+„Arpad” (1901)
+„Babenberg” (1902)
+Pancerniki typu Erzherzog Karl
+„Erzherzog Karl” (1903)
+„Erzherzog Friedrich” (1904)
+„Erzherzog Ferdinand Max” (1905)
+typ Radetzky
+„Erzherzog Franz Ferdinand” (1908)
+„Radetzky” (1909)
+„Zrinyi” (1910)
+
+Pancerniki obrony wybrzeża
+typ Monarch
+„Budapest” (1895)
+„Monarch” (1895)
+„Wien” (1896)
+typ Kronprinz
+„Kronprinz Erzherzog Rudolf” (1887)
+„Kronprinzessin Erzherzogin Stephanie” (1887)
+
+Krążowniki pancernopokładowe
+Krążowniki pancernopokładowe typu Kaiser Franz Joseph
+SMS „Kaiser Franz Joseph I” (1892)
+SMS „Kaiserin Elisabeth” (1892)
+Krążowniki pancernopokładowe typu Panther
+SMS „Panther” (1885)
+SMS „Leopard” (1885) 
+Krążowniki pancernopokładowe typu Tiger
+SMS "Tiger" / "Lacroma" (1887)
+Krążowniki pancerne
+SMS „Kaiserin und Konigen Maria Theresia” (1893)
+SMS „Kaiser Karl VI” (1900)
+SMS „Sankt Georg” (1903)
+
+Lekkie krążowniki
+
+Krążowniki typu Zenta
+SMS „Aspern” (1899)
+SMS „Szigetvár” (1899)
+SMS „Zenta” (1899)
+Rapidkreuzer
+SMS „Admiral Spaun” (1910)
+SMS „Saida” (1914)
+SMS „Helgoland” (1914)
+SMS „Novara” (1915)
+
+Niszczyciele
+Niszczyciele typu Magnet – 1 okręt (1896)
+SMS "Magnet" 
+Niszczyciele typu Blitz – 6 okrętów (1888-1896)
+SMS "Blitz " 
+SMS "Komet" 
+SMS "Planet" 
+SMS "Trabant" 
+SMS "Satellit" 
+SMS "Meteor" 
+Niszczyciele typu Huszar – 12 okrętów (1906-1910)
+SMS "Huszár " 
+SMS "Ulan" 
+SMS "Streiter" 
+SMS "Wildfang" 
+SMS "Scharfschütze" 
+SMS "Uskoke" 
+SMS "Turul" 
+SMS "Pandúr" 
+SMS "Csikós" 
+SMS "Réka" 
+SMS "Dinara" 
+SMS "Velebit" 
+SMS "Huszár II" 
+Niszczyciele typu Warasdiner – 1 okrętów (1912)
+SMS "Warasdiner"
+Niszczyciele typu Tatra – 10 okrętów (1912-1917)
+SMS "Tátra" 
+SMS "Balaton" 
+SMS "Csepel" 
+SMS "Lika" 
+SMS "Triglav" 
+SMS "Orjen" 
+SMS "Triglav II"
+SMS "Lika II"
+SMS "Dukla"
+SMS "Uzsok"
+
+
+Torpedowce
+Torpedowce typu "Tb I" - 6 okrętów (1909-1910)
+"SM Tb I"
+"SM Tb II"
+"SM Tb III"
+"SM Tb IV"
+"SM Tb V"
+"SM Tb VI"
+Torpedowce typu "Tb VII" - 6 okrętów (1910)
+"SM Tb VII"
+"SM Tb VIII"
+"SM Tb IX"
+"SM Tb X"
+"SM Tb XI"
+"SM Tb XII"
+Torpedowce typu "Phyton" - 6 okrętów (1895-1899)
+SM Tb 13 "Phyton" 
+SM Tb 14 "Kigyo"
+SM Tb 15 "Boa"
+SM Tb 16 "Cobra"
+SM Tb 17 "Viper"
+SM Tb 18 "Natter"
+Torpedowce typu "Flamingo" - 12 okrętów (1888-1892)
+SM Tb 19 "Kibitz"
+SM Tb 20 "Kukuk"
+SM Tb 21 "Star"
+SM Tb 22 "Krähe"
+SM Tb 23 "Rabe"
+SM Tb 24 "Elster"
+SM Tb 25 "Gaukler"
+SM Tb 26 "Flamingo"
+SM Tb 27 "Secretär"
+SM Tb 28 "Weihe"
+SM Tb 29 "Marabu"
+SM Tb 30 "Harpie"
+Torpedowce typu "Tb 31" - 10 okrętów (1886-1894)
+SM Tb 31 "Sperber"
+SM Tb 32 "Habicht"
+SM Tb 33 "Bussard"
+SM Tb 34 "Condor"
+SM Tb 35 "Geier"
+SM Tb 36 "Uhu"
+SM Tb 37 "Würger"
+SM Tb 38 "Kranich"
+SM Tb 39 "Reiher"
+SM Tb 40 "Ibis"
+Torpedowce typu "Tb 41" - 2 okręty (1886)
+SM Tb 41 "Adler"
+SM Tb 42 "Falke"
+Torpedowce typu "Tb XXXIII" - 7 okrętów (1887-1891)
+SM Tb 43 "XXXIII"
+SM Tb 44 "XXXIV"
+SM Tb 45 "XXXV"
+SM Tb 46 "XXXVI"
+SM Tb 47 "XXXVII"
+SM Tb 48 "XXXVIII"
+SM Tb 49 "XXXIX"
+Torpedowce typu "Kaiman" - 24 okręty (1905-1910)
+SM Tb 50E "Kaiman" 
+SM Tb 51T "Anaconda" 
+SM Tb 52T "Alligator" 
+SM Tb 53T "Krokodil" 
+SM Tb 54T "Wal" 
+SM Tb 55T "Seehund" 
+SM Tb 56T "Delphin" 
+SM Tb 57T "Narwal" 
+SM Tb 58T "Hai" 
+SM Tb 59T "Möve" 
+SM Tb 60T "Schwalbe" 
+SM Tb 61T "Pinguin" 
+SM Tb 62T "Drache" 
+SM Tb 63T "Greif" 
+SM Tb 64F "Triton" 
+SM Tb 65F "Hydra" 
+SM Tb 66F "Skorpion" 
+SM Tb 67F "Phönix" 
+SM Tb 68F "Krake" 
+SM Tb 69F "Polyp" 
+SM Tb 70F "Echse" 
+SM Tb 71F "Molch" 
+SM Tb 72F "Kormoran" 
+SM Tb 73F "Alk" 
+Torpedowce typu "Tb 74 T" - 8 okrętów (1915-1916)
+SM "Tb 74 T" 
+SM "Tb 75 T" 
+SM "Tb 76 T" 
+SM "Tb 77 T" 
+SM "Tb 78 T" 
+SM "Tb 79 T" 
+SM "Tb 80 T" 
+SM "Tb 81 T" 
+Torpedowce typu "Tb 82 F" - 16 okrętów  (1915-1916)
+SM "Tb 82 F"
+SM "Tb 83 F"
+SM "Tb 84 F"
+SM "Tb 85 F"
+SM "Tb 86 F"
+SM "Tb 87 F"
+SM "Tb 88 F"
+SM "Tb 89 F"
+SM "Tb 90 F"
+SM "Tb 91 F"
+SM "Tb 92 F"
+SM "Tb 93 F"
+SM "Tb 94 F"
+SM "Tb 95 F"
+SM "Tb 96 F"
+Torpedowce typu "Tb 98 M" - 3 okręty  (1915-1916)
+SM "Tb 98 M" 
+SM "Tb 99 M" 
+SM "Tb 100 M"
+
+Okręty Podwodne
+Okręty podwodne typu "U-1" - 2 okręty  (1909)
+SM "U-1"
+SM "U-2"
+Okręty podwodne typu "U-3" - 2 okręty  (1909)
+SM "U-3"
+SM "U-4"
+Okręty podwodne typu "U-5" - 3 okręty  (1910 - 1914)
+SM "U-5"
+SM "U-6"
+SM "U-12"
+Okręty podwodne typu "U-10" - 5 okrętów  (1915)
+SM "U-10"
+SM "U-11"
+SM "U-15"
+SM "U-16"
+SM "U-17"
+Okręty podwodne typu "U-14" - 1 okręt  (1915)
+SM "U-14"
+Okręty podwodne typu "U-20" - 4 okręty  (1917)
+SM "U-20"
+SM "U-21"
+SM "U-22"
+SM "U-23"
+Okręty podwodne typu "U-27" - 8 okrętów  (1917-1918)
+SM "U-27"
+SM "U-28"
+SM "U-29"
+SM "U-30"
+SM "U-31"
+SM "U-32"
+SM "U-40"
+SM "U-41"
+Okręty podwodne typu "U-43" - 2 okręty  (1917)
+SM "U-43"
+SM "U-47"
+Okręty podwodne typu "U-48" (nieukończone)
+SM "U-48"
+SM "U-49"
+SM "U-58"
+SM "U-59"
+Okręty podwodne typu "U-50" (nieukończone)
+SM "U-50"
+SM "U-51"
+SM "U-56"
+SM "U-57"
+Okręty podwodne typu "U-52" (nieukończone)
+SM "U-52"
+SM "U-53"
+SM "U-54"
+SM "U-55"
+Okręty podwodne typu "U-101" (nieukończone)
+SM "U-101"
+SM "U-102"
+SM "U-103"
+SM "U-104"
+SM "U-105"
+SM "U-106"
+SM "U-107"
+SM "U-108"
+SM "U-109"
+
+Uzbrojone fregaty i okręty bateryjne
+typ Drache
+SMS „Drache” (1861)
+SMS „Salamander” (1861)
+typ Erzherzog Ferdinand Max
+SMS „Erzherzog Ferdinand Max” (1865)
+SMS „Habsburg” (1865)
+typ Kaiser
+SMS „Kaiser Max” (1875)
+SMS „Juan de Austria” (1875)
+SMS „Prinz Eugen” (1877)
+SMS „Lissa” (1869)
+SMS „Custozza” (1871)
+„Erzherzog Albrecht” (1872)
+
+Linki zewnętrzne

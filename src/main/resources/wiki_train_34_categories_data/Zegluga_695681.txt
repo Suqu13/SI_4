@@ -1,0 +1,13 @@
+Alarm okrętowy - obsadzenie przez załogę wyznaczonych stanowisk i wykonywanie czynności zgodnie z odpowiednim rozkładem okrętowym na sygnał nadany na rozkaz dowódcy okrętu lub oficera wachtowego (oficera dyżurnego). Wyróżnia się następujące rodzaje alarmu okrętowego:
+bojowy;
+powietrzny;
+o skażeniach;
+manewrowy;
+awaryjny;
+człowiek za burtą;
+ćwiczebny.
+
+Zobacz też
+alarm - alarm w żegludze
+
+

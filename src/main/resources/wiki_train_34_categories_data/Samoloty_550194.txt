@@ -1,0 +1,44 @@
+Su-47 Berkut (ros. "Orzeł przedni", oznaczony początkowo S-32 lub S-37) – współczesny rosyjski eksperymentalny samolot myśliwski - demonstrator technologii opracowany w biurze konstrukcyjnym OKB Suchoj. Jego cechą charakterystyczną jest nietypowy układ aerodynamiczny - skrzydła o ujemnym skosie, relatywnie małe usterzenie poziome ogona oraz dodatkowe usterzenie poziome z przodu (canardy).  
+
+Historia
+Projekt zapoczątkowany został w roku 1983 jako perspektywiczna modyfikacja myśliwca Su-27 dla rosyjskich sił powietrznych WWS i nazwany S-37 (nie należy mylić z Su-37). W skutek braków w finansowaniu nie zanotował on znaczących postępów i w zaledwie 5 lat później został najpierw przerwany, a następnie przejęty przez marynarkę wojenną. Ta, widząc w S-37 obiecujący samolot stacjonujący na krążownikach lotniskowcowych nakazała zmianę priorytetów oraz przemianowała go na Su-27KM. Po upadku Związku Radzieckiego program został wstrzymany po raz kolejny, jednakże tym razem biuro konstrukcyjne Suchoja zdecydowało się na dokończenie samolotu własnym nakładem i ostatecznie w roku 1999 zaprezentowała go jako Su-47 "Berkut" podczas moskiewskich targów lotniczych MAKS 1999.
+
+Powstały 4 prototyp maszyny, z czego jeden pozostał nieukończony.
+
+Konstrukcja
+Głównym założeniem konstruktorów Su-47 była wysoka manewrowość maszyny przy prędkościach subsonicznych, dająca przewagę w bliskiej walce powietrznej i umożliwiająca uniknięcie rakiet nieprzyjaciela. Zapewnić miał ją szereg rozwiązań charakterystycznych dla okresu w jakim powstawał, podobnie jak jego poprzednik - Su-37 - posiada zarówno ogonowe usterzenie poziome jak i dodatkowe przednie stabilizatory (canardy), planowano także zastosowanie silników AL-41F z wektoryzacją ciągu. To, co zdecydowanie odróżnia go od pozostałych maszyn to ujemny skos skrzydeł. Rozwiązanie to niesie za sobą wiele zalet takich jak:
+zwiększenie siły nośnej 
+zmniejszeniu oporu
+poprawa charakterystyk przepadania
+zwiększenie manewrowości i stabilności w zakresie dużych kątów natarcia
+niższa prędkość minimalna
+mniejsze zużycie paliwa (a co za tym idzie wydłużenie zasięgu)
+Wadą natomiast jest występowanie znacznych sił skręcających skrzydła, czemu zaradzono częściowo poprzez zastosowanie wytrzymałej struktury z materiałów kompozytowych (ok 13% samolotu wykonane zostało z kompozytów). Pomimo to prędkość maksymalna samolotu musiała zostać ograniczona do 1,6 Ma. Skrzydła wyposażono w klapolotki zajmujące większą część krawędzi spływu oraz niewielkie lotki.
+
+W celu przyśpieszenia i obniżenia kosztów opracowania wiele elementów płatowca, takich jak przednia część kadłuba, część kokpitu wraz z owiewką, podwozie czy usterzenie pionowe zapożyczonych zostało z samolotów Su-27 i Su-33. Stąd też ukończony samolot zbliżony jest do nich swymi rozmiarami. Starano się ograniczyć sygnaturę radarową maszyny (stealth) minimalizując ilość wystających elementów i połączeń między segmentami (na potrzeby samolotu opracowano nową technikę wytwarzania większych elementów poszycia). Uzbrojenie ukryte miało być w integralnej komorze uzbrojenia w dolnej części kadłuba, otwierającej się jedynie na krótki czas w momencie odpalenia. Ponadto w razie potrzeby przewidywano możliwość wykorzystania 6-8 zewnętrznych węzłów podwieszeń, kosztem zwiększonej wykrywalności. Jako uzbrojenie strzeleckie przewidywano najprawdopodobniej działko 30mm GSh-30-1 zabudowane wewnątrz kadłuba. Jako samolot doświadczalny nie został on jednak nigdy oficjalnie uzbrojony, nie posiadał także radaru, w jego miejscu znajdowało się jedynie obciążenie symulujące jego obecność. Znaczne rozmiary osłony radioprzezroczystej pozwalają przypuszczać, że planowano zastosowanie radaru o dużej antenie.
+
+W odróżnieniu od samolotów rodziny Su-27 ogon samolotu zamiast jednego "żądła" umieszczonego centralnie między silnikami posiada dwa rozmieszczone symetrycznie po zewnętrznych stronach dysz. Dłuższe z nich (umieszczone po stronie prawej) zawiera spadochron hamujący pozwalający skrócić dobieg maszyny podczas lądowania, krótsze zaś skrywa w sobie radar obserwacji tylnej półsfery.
+
+Kokpit zgodnie z zapewnieniami producenta zaprojektowano mając na względzie przede wszystkim komfort pracy pilota. Do jego dyspozycji oddano duże kolorowe wyświetlacze LCD, umieszczony z prawej strony kabiny joystick o krótkim skoku i tensometryczną przepustnicę (Dźwignie Sterowania Silnikami). Fotel odchylono do tyłu o 30 stopni, co ułatwiać ma znoszenie długotrwałych przeciążeń. Ze względu na zaprojektowaną niestabilność samolotu konieczne było zastosowanie systemu systemu sterowania aktywnego "Fly-by-wire"  
+
+Dalsze wykorzystanie
+Projekt Su-47 został ostatecznie zamknięty, jednakże doświadczenia zebrane podczas prac nad nim prowadzonych wykorzystane zostały przy opracowywaniu myśliwca Su-35 oraz w programie najnowszego myśliwca 5 generacji PAK-FA.
+
+
+Plik:S-37 4.jpg|
+Plik:S-37 5.jpg|
+Plik:Sukhoi_Su-47_outline.svg|
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+Komputer szeregowy – komputer z arytmometrem jednobitowym,
+przetwarzającym dane po jednym bicie na takt zegara.
+
+Komunikacja między elementami maszyny (pamięcią, procesorem, rejestrami itp) odbywa się szeregowo. 
+
+Posiadały pamięć operacyjną o dostępie cyklicznym z krążącą informacją na akustycznych liniach opóźniających (rtęciową, magnetostrykcyjną) albo bębnową, rzadko inną.
+
+Pamięci o dostępie cyklicznym, mogły pracować tylko z jedną częstotliwością, z którą synchronizowany był zegar komputera.
+Przy pamięciach na akustycznych liniach opóźniających, synchronizowano fazę impulsów wejściowych z wyjściowymi, dla jednej linii opóźniającej, zmieniając częstotliwość zegara.
+Pamięć bębnowa posiadała wydzieloną ścieżkę zegarową, z której odczytywano sygnał zegara.
+
+Posiadały prostszą budowę od komputerów równoległych okupioną mniejszą wydajnością.
+
+Prędkość ograniczało zastosowanie pamięci o dostępie cyklicznym, np po zmianie jej na pamięć o dostępie swobodnym w komputerze ZAM-2 spodziewano się pięciokrotnego wzrostu wydajności.
+
+Przykłady:
+XYZ - komputer lampowy z pamięcią rtęciową
+EMAL-2 - komputer bezlampowy z pamięcią bębnową
+UMC-10 - komputer tranzystorowy z pamięcią ferrytową
+MKJ-25 - minikomputer na układach scalonych TTL z pamięcią ferrytową.
+
+
+
+

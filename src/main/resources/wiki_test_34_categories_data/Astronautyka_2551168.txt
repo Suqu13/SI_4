@@ -1,0 +1,19 @@
+
+
+S-IC (wym. Es one see): pierwszy stopień rakiety Saturn V, produkowany przez zakłady Boeing w latach 1961-1973. Jak większość pierwszych stopni rakietowych i w przeciwieństwie do stopni S-II i S-IVB, napędzany był mieszaniną węglowodorów, w ilości 645 ton, o składzie bardzo zbliżonym do nafty, a utleniaczem był ciekły tlen, w ilości 1700 ton.
+
+Dane techniczne
+S-IC miał średnicę 10,06 m i długość 42,01 m. Wyposażony był w 2 zbiorniki: dolny na naftę (poj. 7700 hl) i górny na ciekły tlen (poj. 12040 hl). Przedział napędowy stanowił zestaw pięciu silników F-1, rozmieszczonych na kształt krzyża, najmocniejszych silników rakietowych jakie dotąd powstały. Podobnie jak w członie S-II, 4 silniki F-1 w S-IC mogły zmieniać kąt nachylenia by ułatwić sterowanie, a silnik centralny na ok. 30 sekund przed wypaleniem paliwa wyłączał się wcześniej niż pozostałe (tzw. Inboard Cutoff). Zestaw ten zapewniał ciąg 34 meganiutonów. Jedną z zewnętrznych cech były owiewki, umieszczone wokół działu silnikowego. W tych owiewkach również umieszczono specjalne ładunki odpalane po separacji S-IC od reszty rakiety.
+S-IC prosto z zakładów Boeinga dostarczany był do Centrum Kennedy'ego wraz z członem przejściowym, umożliwiającym połączenie z stopniem S-II, a także odłączenie od niego i oddalenie na bezpieczną odległość, by S-II mógł wykonać sekwencję zapłonu. Zużyty S-IC kontynuował lot na trajektorii balistycznej, a potem spadał do Atlantyku, człon przejściowy odłączał się od S-II minutę po odłączeniu S-IC.
+
+Użycie
+Wyprodukowano w sumie 15 egzemplarzy S-IC zdolnych do lotu, z czego użyto 13. Pozostałe 2 można podziwiać na wystawach.
+Pierwszy lot testowy: listopad 1967, lot Apollo 4.
+Pierwszy lot załogowy: grudzień 1968, lot Apollo 8.
+Ostatni lot: maj 1973, lot Skylab 1.
+Ostatni lot załogowy: grudzień 1972, lot Apollo 17.
+
+
+
+
+

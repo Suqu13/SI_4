@@ -1,0 +1,74 @@
+Dassault Mirage 5''' – francuski samolot wojskowy, powstały jako wersja szturmowa myśliwca Dassault Mirage IIIE. 
+
+Samolot wydłużono o 51 cm w stosunku do Mirage IIIE, aby zmieścić dodatkowy wewnętrzny zbiornik paliwa, usunięto jednocześnie dopplerowski radar nawigacyjny, w ten sposób samolot zabierał o 470 l. paliwa więcej. Udźwig uzbrojenia zwiększono do 4000 kg, dodano dwa punkty podwieszania uzbrojenia po zewnętrznych stronach kadłuba. Pierwszym odbiorcą modelu Mirage 5 miały być Siły Powietrzne Izraela, które zakupiły 30 maszyn z wykorzystaną opcją na 20 sztuk, tych jednak nigdy nie dostarczono w wyniku embarga po wojnie sześciodniowej. Z polecenia prezydenta de Gaulla 50 samolotów zmagazynowano w bazie Châteaudun, w 1972 roku Francja odkupiła te Mirage 5J formując z nich trzy eskadry Mirage 5F Armée de l'air, osiem sztuk sprzedano później Chile. Izrael zdołał jednak zbudować własne myśliwce, identyczny z Mirage 5 - IAI Nesher. Samoloty zmontowano na podstawie planów i części dostarczonych przez Dassault w tajemnicy przed krajami arabskimi. Na jego bazie w połowie lat 70. skonstruowano IAI Kfir, który korzystał już głównie z podzespołów izraelskich i amerykańskich.
+
+Dassault odniósł znaczny sukces eksportowy sprzedając Mirage 5 do 11 krajów, największymi użytkownikami samolotu była Belgia, produkująca je na licencji oraz Libia i Egipt. W czasie wojny Jom Kippur w 1973 Egipt wykorzystał tylko niewielką liczbę maszyn wypożyczonych od Libii (po przeciwnej stronie Izrael posiadał około 50 Nesherów, które uzyskały 50-100 zestrzeleń), zakup Mirage dla Egiptu po 1973 roku sfinansowała Arabia Saudyjska. Paradoksalnie w 1977 doszło do konfliktu granicznego między Libią i Egiptem, w którym maszyny te były wykorzystywane przez obie strony. Podczas wojny falklandzkiej Argentyna utraciła 11 z 30 posiadanych w 1982 roku IAI Dagger, 10 zakupionych tuż przed wybuchem wojny peruwiańskich Mirage 5P nie zdążyło wziąć udziału w walce.
+
+Ostatnim użytkownikiem samolotu jest Pakistan, który ma na wyposażeniu ok. 75 sztuk Mirage 5 oraz Argetyna, która używa ok. 5 Mirage 5P MARA, Egipt prawdopodobnie wykorzystuje eskadrę Mirage 5. Ekwador posiada 6 lotnych Mirage 50M, otrzymanych bezpłatnie od Wenezueli, służących do szkolenia pilotów Atlas Cheetah.
+
+Wersje samolotu
+
+Mirage 5''' – szturmowa wersja Mirage III. Oblatano go 19.05. 1967, jednomiejscowa wersja F (J) dla Francji oraz 10 wersji eksportowych pozbawionych radaru:
+Mirage 5J – wersja bazowa powstała na zamówienie Izraela, samolot szturmowy pozbawiony radaru, ale o udźwigu zwiększonym o 1000kg i zapasie paliwa większym o 32% w porównaniu do Mirage IIIC, zbudowane samoloty przemianowano na Mirage 5F.
+Mirage 5F – jednomiejscowy myśliwiec szturmowy, zbudowano 50 sztuk dla Francji, które były de facto objętymi embargiem Mirage 5J dla Izraela oraz 8 nowych 5F po sprzedaży takiej samej liczby Chile w celu konwersji na Mirage 50FC.
+Mirage 5F ROSE II – 20 zmodernizowanych przez Sagem Mirage 5F/DF odkupionych od Francji jako nocne myśliwce szturmowe, radar FIAR Grifo M3, HUD, HOTAS, GPS, system lotu wg rzeźby terenu, komputer pokładowy, wielofunkcyjny wyświetlacz i system obserwacji w podczerwieni zamontowany w nosie.
+Mirage 5F ROSE III – 14 Mirage 5F odkupionych od Francji zmodernizowanych przez Sagem jak ROSE II, ale przenoszące precyzyjną amunicje.
+Mirage 5AD – pierwsza wersja dla Abu Dabi, zbudowano 12 sztuk.
+Mirage 5COA – wersja dla Kolumbii, zbudowano 14 sztuk.
+Mirage 5COAM – zmodernizowane przez IAI kolumbijskie 5COA, dodatkowe stateczniki, instalacja do tankowania i radar z IAI Kfir.
+Mirage 5D – pozbawiona radaru wersja wyeksportowana do Libii, 53 sztuki.
+Mirage 5E2 – wersja dla Egiptu, nawigacji inercyjna INS Sagem Uliss 81, dalmierz laserowy Thomson-CSF TMV630, zbudowano 16 sztuk.
+Mirage 5G – wersja jednomiejscowa Mirage 5 dla Gabonu, zbudowano 3 sztuki.
+Mirage 5G2 – zmodernizowana wersja dla Gabonu, zmodernizowano 2 5G oraz 2 5M nie dostarczone do Zairu.
+Mirage 5M – wersja eksportowa dla Zairu, pozbawiona radaru, zbudowano 14 sztuk, dostarczono tylko 8.
+Mirage 5P – wersja eksportowa dla Peru, pozbawiona radaru, zbudowano 22 sztuk.
+Mirage 5PA – wersja eksportowa dla Pakistanu, pozbawiona radaru, zbudowano 28 sztuk.
+Mirage 5V – wersja dla Wenezueli, zbudowano 6 sztuk.
+Mirage 5E – nieprodukcyjne określenie wersji Mirage 5 wyposażonych w radar (7 wersji).
+Mirage 5DE – wersja Mirage 5D z radarem wyeksportowana do Libii, 32 sztuki.
+Mirage 5EAD – wersja z radarem Cyrano wyeksportowana do emiratu Abu Dabi, 14 sztuk.
+Mirage 5SDE - wersja z radarem Cyrano IV wyeksportowana do Egiptu, 51 sztuk, wszystkie opłaciła Arabia Saudyjska.
+Mirage 5P3 - wersja dla Peru z radarem Cyrano IV, zbudowano 10 sztuk.
+Mirage 5P4 - wersja dla Peru z radarem Agave, zbudowano 2 sztuki, inne maszyny zmodernizowano.
+Mirage 5PA2 – wersja szturmowa dla Pakistanu, z radarem Cyrano IVM, zbudowano 18 sztuk.
+Mirage 5PA3 – wersja morska dla Pakistanu, przenosząca pociski Exocet, radar Agave, zbudowano 12 sztuk.
+Mirage 5D – nieprodukcyjne określenie dwumiejswocowych wersji treningowych, pozbawionych radaru (11 wersji).
+Mirage 5R – nieprodukcyjne określenie wersji rozpoznawczej Mirage 5 (4 wersje eksportowe).
+Mirage 5COR – wersja rozpoznawcza dla Kolumbii, zbudowano 2 sztuki.
+Mirage 5DR – wersja rozpoznawcza dla Libii, zbudowano 10 sztuk.
+Mirage 5RAD – wersja rozpoznawcza dla Abu Dabi, zbudowano 3 sztuki. 
+Mirage 5SDR – wersja rozpoznawcza dla Egiptu, zbudowano 6 sztuk.
+Mirage 50 – ulepszona wersja myśliwsko-szturmowa, silnik Atar 9K-50 (70,7 kN). Oblatana została 15.05. 1975.
+Mirage 50C – wersja dla Chile z radarem Agave, zbudowano 6 sztuk.
+Mirage 50FC – francuskie Mirage 5F z nowym silnikiem, ale bez radaru dla Chile, przebudowano 8 sztuk.
+Mirage 50DC – wersja dwumiejscowa dla Chile, zbudowano 3 sztuki.
+Mirage 50CN Pantera – 13 Mirage 50C/FC i 2 Mirage 50DC należące do Chile zmodernizowane w latach 90. z pomocą Izreala, identycznie jak wersja 5COAM.
+Mirage 50EV – zmodernizowana wersja dla Wenezueli, dodany radar Cyrano IVM, sonda do tankowania w locie od Mirage F1, zbudowano 6 nowych, 3 przebudowane 5M niedostarczone do Zairu oraz 6 zmodernizowanych 5V/IIIEV. Szósty 50EV był ostatnim wyprodukowanym w 1991 Mirage III/5/50 i 1422 samolotem pierwszej generacji Mirage.
+Mirage 50M – wenezuelskie Mirage zmodernizowane przez Dassault w latach 90.
+Mirage 50DV – dwumiejscowa wersja 50EV dla Wenezueli, 1 nowy i 2 zmodernizowane IIIDV.
+
+Warianty licencyjne
+Mirage 5BA – wariant Mirage 5 dla Belgii z awioniką z USA, bez radaru, 62 z 63 sztuk zbudowane przez SABCA.
+Mirage 5MA Elkan – zmodernizowane Mirage 5BA sprzedane Chile.
+Mirage 5BD – dwumiejscowa wersja Mirage 5BA dla Belgii, 15 z 16 sztuk zbudowane przez SABCA.
+Mirage 5MD Elkan – zmodernizowane Mirage 5BD sprzedane Chile.
+Mirage 5BR – wersja rozpoznawcza Mirage 5BA, oparta na Mirage 5R, 23 z 27 sztuk zbudowane przez SABCA.
+
+Użytkownicy
+Użytkownicy Dassault Mirage III/5/50
+
+Podobne konstrukcje
+Mirage III
+Atlas Cheetah
+IAI Nesher
+IAI Kfir
+
+
+
+
+
+
+
+
+
+

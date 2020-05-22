@@ -1,0 +1,14 @@
+
+
+KMOS (skrót od K-band Multi-Object Spectrograph) – wieloobiektowy spektrograf, zamontowany na należącym do ESO Teleskopie Głównym nr 1 Bardzo Dużego Teleskopu (VLT) w Obserwatorium Paranal w Chile. Jest przeznaczony do badania procesów fizycznych, które napędzają powstawanie i ewolucję młodych galaktyk we wczesnym Wszechświecie.
+
+Instrument o masie 2,5 tony jest przystosowany do jednoczesnej obserwacji 24 obiektów w świetle podczerwonym oraz badania struktury każdego z nich. Jest wyposażony w niezależne automatyczne ramiona, które ustawiają się tak, aby jednocześnie uchwycić promieniowanie pochodzące z 24 galaktyk. Obraz każdego z obserwowanych obiektów jest dzielony na 196 elementów (14 na 14 pikseli), co zapewnia zbieranie światła z odrębnych części galaktyki; sygnały są następnie rejestrowane przez bardzo czułe detektory podczerwieni i dzielone na składowe pasma widma („kolory”). Dzięki tej metodzie, nazywanej spektroskopią całego pola (ang. integral-field spectroscopy), możliwe jest jednoczesne badanie właściwości różnych części obiektu, np. galaktyki. Technika ta pozwala opisać sposób rotacji obiektu, wyznaczyć masę, ustalić skład chemiczny i właściwości fizyczne poszczególnych części obiektu.
+
+W celu zapewnienia bardzo dużej precyzji pomiarów i czułości działania poszczególnych elementów aparatury KMOS, większość mechanizmów pracuje w temperaturze minus 140&nbsp;°C.
+
+KMOS został wybudowany przez konsorcjum uniwersytetów i instytutów z Wielkiej Brytanii i Niemiec, we współpracy z ESO.
+
+Przypisy
+
+
+Linki zewnętrzne

@@ -1,0 +1,33 @@
+Program 35 (P 35)''' - seria pierwszych amerykańskich wojskowych satelitów meteorologicznych. Przodek współczesnej serii satelitów DMSP.
+
+Historia
+W sierpniu 1960, pierwsze udane zdjęcia z satelitów programu CORONA, przekonały wojskowych oficjeli w USA o istotności znajomości pogody nad terytorium ZSRR, co umożliwiały wyłącznie sztuczne satelity. Ponieważ cywilny program satelitów meteorologicznych TIROS nie mógł jeszcze spełnić wymagań wojska, dyrektor Narodowego Biura Rozpoznania zatwierdził program przejściowy o nazwie Program II. 
+
+Satelity tego programu miały być wystrzeliwane rakietami typu Blue Scout i działać przez około rok, aż do przejęcia ich zadań przez program TIROS. Program II oficjalnie rozpoczęto 1 sierpnia 1961. Pułkownik Thomas Haig zgodził się objąć szefostwo nad programem pod trzema warunkami:
+Umowy zawierane z wykonawcami będą zwierały ustalone ceny i ścisłe plany realizacji zamówień
+Będzie mógł swobodnie dobierać personel do kierowanego przezeń programu 
+Nie będzie wymogu zatrudniania cywilnej firmy ds. kierownictwa inżynieryjnego i technicznego
+
+Wobec ciągłych opóźnień w programie TIROS, Program II został przekształcony w Program 35''.
+
+Ponieważ obsługa satelitów pogodowych poprzez system instalacji naziemnych przewidzianych dla satelitów CORONA nastręczał wielu trudności, Haig zdecydował o utworzeniu dwóch dedykowanych stacji naziemnych i osobnego centrum kontroli obsługiwanego wyłącznie przez personel Sił Powietrznych Stanów Zjednoczonych. W dziesięć miesięcy później, system rozpoczął działalność.
+
+Po tym, jak rakiety rodziny Blue Scout okazały się zawodne, Haig zaproponował użycie zmodyfikowanego pocisku balistycznego IRBM Thor z dodatkowym drugim stopniem i częściami z kilku innych rakiet nośnych, aby stworzyć nową rakietę. Doprowadziło to w końcu do serii DMSP wojskowych satelitów meteorologicznych. 
+
+Zespół Haiga bardzo angażował się w inżynieryjne i badawcze aspekty programu. W czasie ich prac skonstruowano system magnetycznej kontroli ruchu obrotowego satelitów; wymyślono i zbudowano kilka pomysłów obniżających koszt stacji naziemnych; opracowano prostsze oprogramowanie śledzące. Prace biura Haiga stanowiły podstawę pracy i działania współczesnego programu wojskowych satelitów pogodowych, Defense Meteorological Satellite Program (DMSP). 
+
+Satelity
+Do serii należały:
+P 35-1 (FTV 3501) - wystrzelony 24 maja 1962 z Point Arguello rakietą Scout X-2. Start nieudany
+P 35-2 (FTV 3502) - wystrzelony 23 sierpnia 1962 
+P 35-3 (OPS 0240) - wystrzelony 19 lutego 1963 
+P 35-4 (OPS 1298) - wystrzelony 26 kwietnia 1963 z Point Arguello rakietą Scout X-2M. Start nieudany. Oznczenie COSPAR/SATCAT: 1963-F06/F00236
+P 35-5 (OPS 1610) - wystrzelony 27 września 1963, o godz. 11:17:49 GMT, z Point Arguello rakietą Scout X-2. Start nieudany. Ważył ok. 40 kg
+P 35-6 (OPS 3367A) - wystrzelony 19 stycznia 1964 
+P 35-7 (OPS 3367B) - wystrzelony 19 stycznia 1964 
+P 35-8 (OPS 4467A) - wystrzelony 18 czerwca 1964 
+P 35-9 (OPS 4467B) - wystrzelony 18 czerwca 1964 
+
+Encyclopedia Astronautica zalicza satelity od 6 do 9 do bliżej nieokreślonego programu AFP-43'''.
+
+Bibliografia

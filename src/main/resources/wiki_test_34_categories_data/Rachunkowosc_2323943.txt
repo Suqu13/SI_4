@@ -1,0 +1,48 @@
+Cykl operacyjny przedsiębiorstwa (handlowego) – działalność podstawowa przedsiębiorstwa handlowego polega na obrocie towarowym. Przepływ towarów oraz towarzyszących im dokumentów księgowych wygląda następująco:
+
+DOSTAWCY TOWARÓW → MAGAZYN (kartoteka towarów, stany i obroty) → ODBIORCY TOWARÓW
+
+Kolejne etapy cyklu operacyjnego w jednostce handlowej, który obejmuje nie tylko ruch towarów w procesach zaopatrzenia i sprzedaży, ale też rozliczenia finansowe, przedstawiają się następująco:
+Zakup towarów i powstanie zobowiązań wobec dostawców
+Magazynowanie towarów
+Zbieranie zamówień na towary od odbiorców
+Sprzedaż i wysyłka towarów oraz powstanie należności z tytułu sprzedaży
+Uzyskanie środków pieniężnych od odbiorców
+Dokonanie zapłaty za towary kupione od odbiorców
+
+Cykl ten może przebiegać nieco inaczej, np. zapłata za towary może nastąpić natychmiast w momencie dokonania zakupu lub sprzedaży.
+
+Funkcjonowanie jednostki handlowej można przedstawić jeszcze dokładniej, gdy wyodrębni się trzy cykle wewnętrzne:
+
+Cykl rozliczania zakupów towarów
+Cykl rozliczania sprzedaży towarów
+Cykl administracyjny, który dotyczy ewidencji księgowej i przepływów pieniężnych
+
+Cykl rozliczania zakupów dotyczy procesów zaopatrzenia, a cykl rozliczania sprzedaży obejmuje procesy sprzedaży i dystrybucji. W cyklu administracyjnym są natomiast rozliczane wszystkie inne, poza towarami, zasoby organizacji, jak czas pracy zatrudnionych osób, rzeczywisty majątek trwały, wartości niematerialne i prawne, majątek finansowy itp.
+
+Cykl operacyjny przedsiębiorstwa (wytwórczego) - działalność podstawowa przedsiębiorstwa produkcyjnego polega na przetwarzaniu zakupionych od dostawców towarów (surowców) w produkty (wyroby gotowe), przeznaczone na sprzedaż. Głównym zadaniem systemu zarządzania, takiego przedsiębiorstwa, jest zapewnienie ewidencji materiałów, pół-fabrykantów i wyrobów gotowych oraz obsługa wszystkich dokumentów związanych z ich przepływem w procesach zaopatrzenia, wytwarzania i sprzedaży. Przepływ środków rzeczowych i towarzyszących im dokumentów księgowych w przedsiębiorstwie produkcyjnym wygląda następująco:
+
+DOSTAWCY TOWARÓW → MAGAZYN MATERIAŁÓW → WYDZIAŁY PRODUKCYJNE → MAGAZYN PRODUKTÓW → ODBIORCY TOWARÓW
+
+Cykl operacyjny w przedsiębiorstwie wytwórczym, który obejmuje również rozliczenia finansowe, przebiega z reguły w następujących etapach:
+Zakup materiałów i powstanie zobowiązań wobec dostawców
+Magazynowanie materiałów
+Przetworzenie materiałów w produkty (wyroby gotowe)
+Magazynowanie produktów (wyrobów gotowych)
+Zbieranie zamówień na produkty
+Sprzedaż i wysyłka produktów oraz powstanie należności z tytułu sprzedaży
+Uzyskanie środków pieniężnych od odbiorców produktów
+Dokonanie zapłaty za materiały kupione od odbiorców
+
+Podobnie jak w przypadku jednostki handlowej, funkcjonowanie przedsiębiorstwa produkcyjnego można opisać dokładniej, gdy wyodrębni się cykle wewnętrzne:
+Cykl planowania i rozliczania zakupu materiałów
+Cykl planowania i rozliczania produkcji
+Cykl planowania i rozliczania sprzedaży wyrobów gotowych
+Cykl administracyjny
+
+Bibliografia
+
+Dariusz Wędzki, M. Sierpińska, Zarządzanie płynnością finansową w przedsiębiorstwie PWN,Warszawa 2005
+$Arkadiusz Januszewski, Funkcjonalność informatycznych systemów zarządzania PWN,Warszawa 2008
+
+

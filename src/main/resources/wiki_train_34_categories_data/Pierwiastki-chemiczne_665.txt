@@ -1,0 +1,67 @@
+
+
+Brązy – stopy miedzi z cyną lub innymi metalami i ewentualnie innymi pierwiastkami, w których zawartość miedzi zawiera się w granicach 80–90% wagowych (stopy miedzi, które nie noszą nazwy „brąz”, to mosiądze – stopy miedzi i cynku – oraz miedzionikiel – stop miedzi z niklem). Składy brązów specyfikuje Polska Norma PN-xx/H-87050.
+
+Brąz w starożytności
+Nazwa brąz wywodzi się od łacińskiego słowa aes brundusinum tzn. kruszec brindyzyjski, ponieważ to właśnie Brundisium (współcześnie Brindisi) wyspecjalizowało się w obróbce tego stopu. W starożytności brąz był stopem miedzi w stosunku 90% miedzi do 10% cyny, używanym do wytwarzania przedmiotów codziennego użytku, lub w proporcji 86% miedzi do 14% cyny do wytwarzania ozdób. Starożytni Egipcjanie wytwarzali brąz w stosunku 91% miedzi do 9% cyny. Główne złoża miedzi występowały w zachodniej Anatolii, na terenach Kaukaskich, na Cyprze i Krecie, na Płw. Iberyjskim i Bałkańskim, na Wyspach Brytyjskich, w Alpach.
+Cyna występowała w zachodniej Anatolii, w Banacie, nad Soławą, na Kaukazie i Wyspach Brytyjskich.
+Na terenie Europy miedź eksploatowano ze złóż dostępnych na powierzchni lub prymitywnymi metodami górniczymi. By wydobyć miedź drążono lej w podłożu skalistym. Wyjątkiem są stokowe wychodnie żył, gdzie w głąb stoku drążono skośne lub poziome sztolnie. Po wydobyciu ruda była poddawana wstępnej obróbce na miejscu (sortowanie, wstępne oczyszczanie, rozcieranie na małe kawałki). Bezwartościowych domieszek pozbywano się płucząc rozdrobnioną rudę w drewnianych nieckach. Następnie rudę prażono i wytapiano w dymarkach.
+Cynę uzyskiwano najczęściej z aluwialnych rozsypisk. Kolejne etapy produkcji – wytwarzanie przedmiotów brązowych – odbywały się poza miejscem wydobycia. Przedmioty z brązu odlewano, wlewając stop do form kamiennych, a także stosowano technikę na wosk tracony; znano także obróbkę plastyczną w postaci kucia, wyciągania, trybowania i cyzelowania.
+
+Pełen proces wytwarzania przedmiotów z brązu był domeną specjalistów. Umiejętności starożytnych metalurgów oraz ekonomiczne i symboliczne znaczenie ich wytworów nadawały im szczególny status, co wyraża się występowaniem na cmentarzyskach pochówków wyposażonych w zestawy narzędzi odlewniczych.
+
+Brąz współcześnie
+Brązy posiadają dobre własności wytrzymałościowe, są łatwo obrabialne. Brązy wysokostopowe poddają się także hartowaniu. Posiadają dobre właściwości przeciwcierne, są odporne na wysoką temperaturę i korozję. Zastosowanie brązów jest ograniczone ze względu na ich wysoką cenę.
+
+Brązy dzieli się na brązy do obróbki plastycznej, dostarczane w formie wyrobów hutniczych – blach, pasów, taśm, prętów, drutów i rur oraz brązy odlewnicze, dostarczane w postaci sztab lub kęsów.
+
+Własności fizyczne
+Gęstość: 7,5–9,3 g/cm³
+Temperatura topnienia: 940–1084&nbsp;°C
+Współczynnik rozszerzalności liniowej w zakresie 20–100&nbsp;°C: 8–20
+Skurcz odlewniczy: 1,5–2,5%
+
+Rodzaje brązów
+Brązy do obróbki plastycznej
+Pośród brązów do obróbki plastycznej wyróżnia się:
+
+Brąz cynowy
+Zawiera od 1% do 9% cyny: Ma barwę szarą, której intensywność wzrasta wraz z zawartością cyny. Mogą zawierać także inne dodatki stopowe, takie jak cynk (2,7% do 5%), ołów (1,5% do 4,5%) oraz domieszki fosforu (0,1% do 0,3%) z zanieczyszczeniami nie przekraczającymi 0,3%. Symbole brązów cynowych to B2 (CuSn2), B4 (CuSn4), B6 (CuSn6), B43 (CuSn4Zn3), B443 (CuSn4Zn4Pb3), B444 (CuSn4Zn4Pb4). Brązy cynowe używane są na elementy sprężyste, trudno ścieralne, a przy większej zawartości ołowiu na tuleje i panwie łożyskowe, monety, elementy pracujące w wodzie morskiej, armaturę.
+Brąz aluminiowy
+
+Zawiera od 4% do 11% aluminium: Może zawierać także inne dodatki stopowe, takie jak żelazo (2,0% do 5,5%), mangan (1,5% do 4,5%) oraz nikiel (3,5% do 5,5%), z zanieczyszczeniami nie przekraczającymi 1,7%. Symbole brązów aluminiowych to BA5 (CuAl5), BA8 (CuAl8), BA93 (CuAl9Fe3), BA1032 (CuAl10Fe3Mn2), BA1044 (CuAl10Fe4Ni4), BA92 (CuAl9Mn4). Cechują się dobrymi własnościami wytrzymałościowymi. Brązy aluminiowe stosowane są na części do przemysłu chemicznego, elementy pracujące w wodzie morskiej, monety, styki ślizgowe, części łożysk, wały, śruby, sita.
+
+Brąz berylowy
+Zawiera od 1,6% do 2,1% berylu: Może zawierać także inne dodatki stopowe, takie jak nikiel w połączeniu z kobaltem (0,2% do 0,4%) oraz tytan (0,1% do 0,25%), z zanieczyszczeniami nie przekraczającymi 0,5%. Symbole brązów berylowych to BB2 (CuBe2Ni (Co)), BB1T (CuBe1,7NiTi), BB2T (CuBe2NiTi). Brązy berylowe stosowane są na sprężyny, elementy aparatury chemicznej, elementy żaroodporne, np. gniazda zaworów, narzędzia nieiskrzące.
+
+Brąz krzemowy
+BK31 (CuSi3Mn1): Zawiera 2,7% do 3,5 krzemu i 1,0% do 1,5% manganu, przy zanieczyszczeniach nie przekraczających 1,0%. Stosowany jest na siatki, elementy sprężyste, elementy w przemyśle chemicznym, elementy odporne na ścieranie, konstrukcje spawane.
+
+Brąz manganowy
+BM123 (CuMn12Ni3): zawiera 11,5% do 13% manganu i 2,5% do 3,5% niklu przy dopuszczalnych zanieczyszczeniach do 1%. Stosowany na oporniki wysokiej jakości.
+
+Brązy odlewnicze
+Pośród brązów odlewniczych wyróżnia się:
+brąz cynowy – B10 (CuSn10)
+brąz cynowo-fosforowy – B101 (CuSn10P)
+brąz cynowo-cynkowy – B102 (CuSn10Zn2)
+brąz cynowo-ołowiowy – B1010 (CuSn10Pb10) i B520 (CuSn5Pb20)
+brąz cynowo-cynkowo-ołowiowy B555 (CuSn5Zn5Pb5), B663 (CuSn6ZnPb3) i B476 (CuSn4Zn7Pb6).
+brąz aluminiowo-żelazowy – BA93 (CuAl9Fe3)
+brąz aluminiowo-żelazowo-manganowy – BA1032 (CuAl10Fe3Mn2)
+brąz krzemowo-cynkowo-manganowy – BK331 (CuSi3Zn3Mn).
+
+Brązy odlewnicze stosuje się do odlewania części i elementów do zastosowań podobnych jak w przypadku brązów do obróbki plastycznej oraz do odlewania pomników.
+
+Inne
+Stopem zaliczanym do brązów jest także spiż. Ponadto brązami nazywa się potocznie lub fachowo szereg innych metali i stopów metali kolorowych, nawet tych o znacznie mniejszym udziale miedzi lub nawet jej całkowitym braku, np. pigmenty metaliczne stosowane w poligrafii.
+
+
+
+Zobacz też
+
+
+stopy metali
+
+
+

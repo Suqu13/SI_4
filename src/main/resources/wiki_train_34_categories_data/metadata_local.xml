@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="local">
+  <dcvalue element="has" qualifier="files" language="*">yes</dcvalue>
+  <dcvalue element="branding" qualifier="none">CLARIN-PL</dcvalue>
+</dublin_core>

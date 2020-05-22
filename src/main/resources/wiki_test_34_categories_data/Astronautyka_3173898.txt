@@ -1,0 +1,25 @@
+
+Sentinel (pol. strażnik, wartownik) – seria europejskich misji kosmicznych o charakterze teledetekcyjnym. Wspólną nazwą „Sentinel” objęte są zarówno całe satelity (np. Sentinel-1), jak i pojedyncze instrumenty satelitarne (np. Sentinel-4). Misje Sentinel są częścią programu Copernicus, zainicjowanego i finansowanego przez Unię Europejską. Nadzór technologiczny nad budową satelitów i instrumentów Sentinel sprawuje Europejska Agencja Kosmiczna (ESA).
+
+W odróżnieniu do wcześniejszych misji ESA (ERS-1, ERS-2 i Envisat), misje Sentinel nie mają charakteru naukowego (eksperymentalnego), lecz operacyjny. Ich zadaniem jest systematyczne i rutynowe dostarczanie danych teledetekcyjnych dla darmowych usług świadczonych obywatelom Unii Europejskiej poprzez szereg inicjatyw rozwijanych w ramach programu Copernicus. Pierwsze usługi były związane z monitorowaniem pokrycia terenu oraz wsparciem zarządzania kryzysowego. Kolejne znajdują się w fazie pre-operacyjnej lub w fazie rozwoju.
+
+Organizacja misji
+Misje Sentinel-1, -2, -3 realizowane będą jako mini-konstelacje, tzn. na wspólną orbitę trafią pary identycznych satelitów oznaczonych jako „A” i „B”. Satelity znajdą się dokładnie po przeciwnej stronie orbity, czyli w odległości kątowej 180 stopni.
+
+Misje Sentinel-4 to para bliźniaczych instrumentów, które zostaną zainstalowane na pokładzie europejskich satelitów meteorologicznych Meteosat trzeciej generacji. Trafią na orbitę geostacjonarną, z punktem podsatelitarnym na przecięciu równika z południkiem zerowym.
+
+Misje Sentinel-5 to trzy identyczne instrumenty, które zostaną zainstalowane na pokładzie okołobiegunowych satelitów meteorologicznych MetOp drugiej generacji. Ponieważ wystrzelenie pierwszego z satelitów MetOp drugiej generacji zostanie wykonane nie wcześniej niż w roku 2021, Unia Europejska i ESA podjęły decyzje o realizacji misji Sentinel-5P („P” od prekursor), która ma skrócić czas oczekiwania na dane Sentinel-5.
+
+Zestawienie misji
+Poniższa tabela zestawia podstawowe informacje dotyczące misji Sentinel. Dla satelitów poruszających się po orbicie heliosynchronicznej podany został czas przecięcia płaszczyzny równika (ECT, equatorial crossing time) podczas zstępującej fazy lotu. „GEO” oznacza orbitę geostacjonarną.
+
+ 
+ 
+
+Instrumenty:  
+MSI – Multi-Spectral Imager, MWR – Micro-Wave Radiometer, OLCI – Ocean and Land Colour Imager, SAR-C – Synthetic Aperture Radar C-band, SLSTR – Sea and Land Surface Temperature Radiometer, SRAL – Synthetic aperture Radar Altimeter, TROPOMI – Tropospheric Monitoring Instrument, UVNS – Ultra-violet Visible and Near-infrared Sounder, UVN – Ultra-violet Visible and Near-infrared sounder. 
+
+
+
+
+

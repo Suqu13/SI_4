@@ -1,0 +1,20 @@
+Solver  – funkcja w kalkulatorach naukowych lub programach komputerowych umożliwiająca rozwiązywanie równań.
+__NOTOC__
+Opis działania
+Po wprowadzeniu równania i podaniu wartości liczbowych wszystkich parametrów program wyznacza wartość zmiennej. W niektórych przypadkach, gdy nie istnieje wzór odwrotny (nie ma możliwości przekształcenia równania), kalkulator lub program komputerowy z solverem jest jedyną drogą obliczenia szukanej wartości. Bardziej zaawansowane solvery wykorzystywane są w problemach optymalizacyjnych.
+Realizacje
+Proste wersje komputerowych solverów są standardowo dostępne m.in. w arkuszach kalkulacyjnych (np. MS Excel, czy też OOo Calc). Bardziej zaawansowane solvery takie jak: CPLEX, czy też solvery Frontline'a występują jako samodzielne programy lub jako dodatki do innych programów obliczeniowych, np. arkuszy kalkulacyjnych lub MATLABa.
+
+Przykład
+Dane jest równanie postaci:
+
+gdzie q jest liczbą z przedziału od 1 do e. 
+
+Nie jest możliwe przekształcenie tego równania w taki sposób, aby otrzymać explicite wzór na zmienną x. Dlatego solver jest sposobem na znalezienie rozwiązania. Dla q równego 2,5 rozwiązanie wynosi w przybliżeniu 5,315, dla 2,7 rozwiązanie wynosi ok. 73,427. Wartość x dąży do nieskończoności, gdy q dąży do liczby e.
+
+Innym przykładem zastosowania solvera jest wyznaczenie pierwiastków wielomianów wyższych stopni.
+
+
+
+
+

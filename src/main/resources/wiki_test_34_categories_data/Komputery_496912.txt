@@ -1,0 +1,42 @@
+
+
+
+
+
+XO-1''' – laptop edukacyjny zaprojektowany w ramach programu „Laptop za 100 dolarów” ($100 Laptop). Zadaniem tego programu było wyprodukowanie niedrogiego laptopa, w który można by wyposażyć każde dziecko na świecie i w ten sposób umożliwić im dostęp do zasobów wiedzy oraz oświaty.
+
+Chociaż XO-1 nie osiągnął jeszcze wszystkich celów, jakie zakładali na początku jego twórcy (dużo mniejsza liczba zamówień i dużo wyższa cena za sztukę), to wywarł istotny wpływ na szybki rozwoju rynku małych laptopów, zwanych netbookami.
+
+Charakterystyka
+Laptopy mają wytrzymałą konstrukcję i żywe kolory aby były łatwe do zlokalizowania. Użyty system operacyjny to okrojona wersja systemu Linux Fedora 7, z środowiskiem graficznym Sugar. Są oparte na wysoce energooszczędnym procesorze i chipsecie Geode produkowanym przez AMD. Bezprzewodowa sieć kratowa Ad-hoc może zostać wykorzystana dla umożliwienia wielu laptopom dostępu do Internetu.
+
+W komputerze nie ma dysku twardego, zamiast niego funkcję pamięci masowej pełni 1GB pamięci SLC NAND flash.
+
+28 maja 2006 udostępniono specyfikację techniczną tego komputera.
+
+Masowa produkcja laptopa ruszyła 6 listopada 2007 w zakładach Quanta Computer.
+
+One Laptop Per Child
+Przedsięwzięciem kieruje organizacja One Laptop Per Child (pl. Laptop dla każdego dziecka, w skrócie OLPC). OLPC ma swoją siedzibę w Delaware w USA i jest organizacją non-profit utworzoną przez członków wydziału MIT Media Lab, która ma zaprojektować, wyprodukować i rozprowadzać te laptopy.
+
+Utworzenie OLPC zostało oficjalnie ogłoszone przez przewodniczącego i współzałożyciela MIT Media Lab Nicholasa Negroponte w styczniu 2005 podczas Światowego Forum Ekonomicznego w Davos w Szwajcarii.
+
+Cena komputera miała się kształtować na poziomie ok. 135 dolarów amerykańskich za sztukę by w 2008 roku osiągnąć cenę 100 dolarów. W chwili obecnej (wrzesień 2007), ze względu na wzrost cen niklu i krzemu, cena ta wynosi 188 dolarów amerykańskich. Laptopy będą sprzedawane rządom różnych krajów, a one będą je przekazywać dzieciom w szkołach na zasadzie jeden laptop dla jednego dziecka.
+
+Komercyjna wersja XO nie jest planowana, jednak poprzez stronę laptopgiving.org zachęca się do przekazywania dotacji. Od 12 listopada do 31 grudnia 2007 mieszkańcy Stanów Zjednoczonych i Kanady mogli wziąć udział w akcji ''„Give 1 Get 1”'' (Daj jeden, dostań jeden) podczas której kupując jedną sztukę, sponsorowało się drugą, która miała zostać przekazana dziecku w kraju rozwijającym się.
+
+Podobna akcja rozpoczyna się 17 listopada 2008 w Europie. Mieszkańcy państw Unii Europejskiej oraz Szwajcarii, Rosji i Turcji będą mogli nabyć laptopa w sklepie internetowym Amazon.com za cenę około 399 dolarów. Cena uwzględnia koszt drugiego laptopa przekazanego dziecku w kraju rozwijającym się. Do ceny nie będzie doliczany podatek VAT.
+
+W chwili obecnej (listopad 2008) OLPC przekazuje laptopy do Ghany, Urugwaju, Peru i Kolumbii.
+
+Kontrowersje
+W listopadzie 2007 nigeryjska firma Lagos Analysis Corp złożyła pozew sądowy przeciwko fundacji OLPC z żądaniem odszkodowania w wysokości 20 mln USD za rzekome naruszenie patentu na wielojęzyczną klawiaturę, wykorzystywaną w laptopie. Zaistniała sytuacja może uniemożliwić dostarczenie laptopów dzieciom z Nigerii.
+
+
+
+Zobacz też
+
+Classmate PC
+Eee PC
+
+Linki zewnętrzne

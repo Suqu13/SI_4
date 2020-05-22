@@ -1,0 +1,31 @@
+
+
+Samsung Omnia - seria smartfonów, zaprojektowana i produkowana przez firmę Samsung. Telefony "Omnia" wyposażone są głównie w system Windows Mobile/Phone 7. "Omnia" stworzona została z początku głównie do konkurowania z amerykańskimi IPhone
+
+Urządzenia
+W jej skład wchodzą telefony:
+I900 Omnia (czerwiec 2008)
+B7300 Omnia Lite (2009)
+B7320 Omnia PRO (2009)
+B7330 Omnia PRO (wrzesień 2009)
+B7610 Omnia PRO (2009)
+I8000 Omnia II (2009)
+I8910 Omnia HD (2009)
+B7350 Omnia PRO 4''' (2010)
+B6520 Omnia PRO 5''' (2010)
+I8700 Omnia 7''' (październik 2010)
+I8350 Omnia W (wrzesień 2011)
+
+Historia
+Model GT-i900 Omnia był jednym z pierwszych smartfonów firmy Samsung. I900 wyposażony był w 3.2" wyświetlacz dotykowy TFT. Pracował pod kontrolą systemu Windows Mobile 6.1 Professional, miał procesor Marvell PXA312 o taktowaniu 624&nbsp;MHz.
+
+Kilka miesięcy po I900, w lutym 2009 na rynku znalazł się model I8910 - Omnia HD. Nowy model miał zupełnie inny wygląd od poprzednika, a z tyłu posiadał aparat o rozdzielczości 8&nbsp;Mpx. Omnia HD była wyposażona w system Symbian 9.4 (Series 60 w wersji 5.0). I8910 HD miała procesor ARM Cortex-A8 - wersję o taktowaniu 600&nbsp;MHz. Nowością był również wyświetlacz AMOLED, 3.7", o rozdzielczości 360x640 pikseli.
+
+W czerwcu 2009 roku pojawił następca i900 - GT-i8000 Omnia II. Model ten posiadał wyświetlacz wykonany w technologii AMOLED tak, jak  Omnia HD, ale o rozdzielczości WVGA. I8000 miał procesor Samsung S3C6410 o taktowaniu 800&nbsp;MHz. I8000 pracowała pod kontrolą systemu Windows Mobile w wersji 6.5 Professional (ew. 6.5.3). W ostatnim kwartale 2010 roku, Omnia II po prawie półtora roku doczekała się następcy - modelu GT-i8700 Omnia 7.
+
+Zobacz też
+Galaxy - najliczniejsza seria smartfonów Samsunga
+Wave - seria smartfonów Samsunga
+Corby - seria telefonów i niskobudżetowych smartfonów Samsunga
+
+Linki zewnętrzne

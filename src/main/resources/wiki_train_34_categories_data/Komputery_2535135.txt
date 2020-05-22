@@ -1,0 +1,22 @@
+
+Macintosh 512K (nazywany też Grubym Makiem, z ang. Fat Mac) – drugi komputer z serii Macintosh, który jest ulepszonym komputerem i następcą Macintosh 128K. Jest taki sam jak poprzednik, jednak ilość pamięci RAM jest czterokrotnie większa w stosunku do 128K, i to od tego powiększenia wzięła się nazwa Fat Mac.
+
+Wyposażenie
+Procesor i pamięć
+Tak jak poprzednik, 512K ma procesor Motorola 68000 o częstotliwości 8&nbsp;MHz połączonej z 512-kilobajtową DRAM 16-bitową szyną danych. W tym modelu nie można zainstalować pamięci RAM o pojemności większej niż 512 kilobajtów. Komputer posiada też 64&nbsp;KB ROM (łącznie 576&nbsp;KB pamięci).
+
+Oprogramowanie
+Aplikacje MacWrite i MacPaint były dystrybuowane razem z komputerem. Po wydaniu tego komputera utworzono wiele innych programów, np. MacDraw, MacProject, Macintosh Pascal i inne. Microsoft Excel także miał wersję dla Macintosha wymagającą co najmniej 512&nbsp;KB pamięci RAM.
+
+System operacyjny
+Oryginalny 512K obsługuje Mac OS w wersji do 4.1 (fabrycznie instalowaną wersją jest 3.2). Można zainstalować wersję 5.0 po zainstalowaniu dysku twardego Hard Disk 20. Za pomocą zestawu uaktualniającego do komputera Macintosh 512Ke można zainstalować nawet System 6.0.8.
+
+Następca
+Bezpośrednim następcą 512K jest 512K enhanced (w skrócie 512Ke), który ma 800&nbsp;KB stację dyskietek. Z wyjątkiem nowego numeru modelu M0001E i stacją dyskietek nie różni się od 512K. Apple oferował również sprzęt, dzięki któremu można rozbudować 512K do 512Ke.
+
+Emulatory
+Mini vMac
+
+
+
+Bibliografia

@@ -1,0 +1,5 @@
+Promień zwyczajny, w kryształach dwójłomnych jest to promień powstały z rozdzielenia promienia światła padającego na taki kryształ. Charakteryzuję się izotropową (równą w różnych kierunkach) prędkością rozchodzenia się w krysztale. Spełnia on prawo Snelliusa przy przechodzeniu przez powierzchnię kryształu, leży w płaszczyźnie padania światła. Polaryzacja tego promienia jest prostopadła do płaszczyzny głównej (płaszczyzny przechodzącej przez dany promień światła i przecinającą go oś optyczną). Oznacza się go przez  (ang. ordinary).
+
+Promień ten wydaje się więc zachowywać jak zwyczajny promień światła - stąd jego nazwa. Nie jest tak dla promienia nadzwyczajnego.
+
+

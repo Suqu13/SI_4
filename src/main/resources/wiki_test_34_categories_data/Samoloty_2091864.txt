@@ -1,0 +1,74 @@
+Vultee BT-13 Valiant – amerykański samolot szkolenia podstawowego z okresu II wojny światowej, produkowany przez Vultee Aircraft. Kolejny wariant BT-13 w United States Army Air Corps/United States Army Air Forces był znany jako BT-15 Valiant, podczas gdy identyczna wersja dla US Navy oznaczana była SNV i używana do szkolenia pilotów US Navy, US Marine Corps i US Coast Guard.
+
+Projekt i rozwój
+Vultee BT-13 był samolotem szkolno-treningowym używanym do szkolenia podstawowego (basic training) większości amerykańskich pilotów podczas II wojny światowej. Był to drugi z trzech etapów szkoleń pilotów. Po szkoleniu wstępnym, szkolący przenosił się do bardziej złożonych maszyn na podstawowe szkolenie w powietrzu. BT-13 miał mocniejszy silnik, był szybszy i cięższy od samolotu z pierwszej fazy. Wymagało to od nowych pilotów korzystania z dwóch sposób łączności radiowej z ziemią, zapoznania się z działaniem klap lądowania i dwoma zmiennymi pozycjami skoku śmigła. BT-13 nie miały jednak chowanego podwozia, ani systemu hydraulicznego. Duże klapy obsługiwane były przez system cięgien na linkach. Piloci nadali maszynie przydomek "Vultee Vibrator" ("wibrujący Vultee").
+
+Po zakończeniu produkcji silników Pratt & Whitney R-985 w latach 1941–1942, niektóre z maszyn wyposażono w silniki Wright o podobnej wielkości i mocy. Samoloty napędzane silnikiem Wrighta otrzymały oznaczenie BT-15'''.
+
+US Navy przyjęła samoloty z silnikiem Pratt & Whitney, jako samolot szkolenia podstawowego pod nazwą SNV. Seria BT-13 była najliczniej produkowaną serią podstawowych samolotów szkolnych (BT od ang. Basic Trainer).
+
+W 1938 roku szef projektantów Vultee Aircraft – Richard Palmer, rozpoczął prace projektowe nad myśliwcem. W tym czasie USAAC ogłosiło konkurs na zaawansowany samolot szkolny. Zwycięzca mógł liczyć na duże zamówienia. Palmer zaczął dostosowywać swój projekt do wymagań konkursowych i tak powstał prototyp, który otrzymał oznaczenie V-51'''.
+
+
+
+Samolot został oblatany w marcu 1939 r. Był to metalowy dolnopłat, stery były pokryte tkaniną. Prototyp napędzał silnik gwiazdowy Pratt & Whitney R-1340-G-S3H1 Wasp o mocy 600 KM (447 kW) z dwupłatowym metalowym śmigłem o zmiennym skoku. Innymi cechami była zamykana kabina dla ucznia i instruktora, zbiorniki paliwa umieszczone w skrzydłach, układ hydrauliczny sterujący klapami i chowane podwozie główne.
+
+V-51''' został zgłoszony do konkursu USAAC jako BC-51''' w maju 1939 roku. USAAC wybrało projekt konkurencji – North American BC-2, ale zakupiono także prototyp BC-51''' i przemianowano go na BC-3'''. Pomimo przegrania konkursu, Palmer nie zrezygnował z ubiegania się o zamówienie. Udoskonalił projekt VF-51''' do VF-54''', starając się sprostać oczekiwaniom rynku eksportowego dla takich właśnie maszyn. VF-54''' różnił się od VF-51''' tylko silnikiem o mniejszej mocy. Samolot nie był jednak ostatecznie eksportowany.
+
+Z VF-54''' powstał VF-54A. Zamiast chowanych przednich kół, zastosowano klasyczne, stałe podwozie. Zmieniono także silnik na gwiazdową jednostkę Pratt & Whitney R-985-T3B Wasp Jr mocy 450 KM (336 kW) i tak narodził się Vultee BT-13 Valiant.
+
+USAAC został powiadomiony o poprawie samolotu, wskutek czego w sierpniu 1939 roku został zamówiony jako BT-13'''. Pierwsze zamówienie opiewało na 300 samolotów z silnikami Pratt & Whitney R-985-25. Pierwsze maszyny trafiły do jednostek szkolnych USAAC w czerwcu 1940 roku.
+
+Powstało 7037 maszyn BT-13A, które różniły się od pierwotnej wersji zastosowanym silnikiem oraz brakiem owiewki podwozia. Wersja B różniła się od A tylko nową, 24-woltową instalacją elektryczną, w miejsce 12-woltowej montowanej w wersji A. Powstało 1125 maszyn wersji B.
+
+Następnym wariantem był BT-15''', który otrzymał gwiazdowy silnik Wright R-975-11, w miejsce wycofywanego z produkcji agregatu R-985 formy Pratt & Whitney. Powstało 1263 samolotów tej wersji.
+
+US Navy zaczęła okazywać zainteresowanie BT-13 i zamówiono 1350 BT-13A znanych jako SNV-1'''. Ponadto około 650 BT-13B przeznaczonych dla marynarki otrzymało oznaczenie SNV-2'''.
+
+Piloci maszyny nadali jej przydomek "Vibrator", ponieważ miała ona tendencję do dość gwałtownych drgań, gdy zbliżała się do prędkości przeciągnięcia. BT-13''' i jego następcy wyróżniały się dużą zwrotnością, co pomagało pilotom w opanowaniu sztuki latania.
+
+Po II wojnie światowej prawie wszystkie zostały sprzedane jako nadwyżki za kilkaset dolarów za sztukę. Wiele z nich kupiono tylko i wyłącznie dla pozyskania silników, które wykorzystywano w innych maszynach. Obecnie w rękach prywatnych znajduje się kilka maszyn, żadne z nich nie są używane ani przez wojsko ani jednostki rządowe.
+
+Wersje
+BC-3
+Vultee Model V-51 z chowanym podwoziem i silnikiem Pratt & Whitney R-1340-45 o mocy 600 KM, wyprodukowany jeden, później nierozwijany.
+BT-13
+Vultee Model V-54 ze stałym podwoziem i silnikiem Pratt & Whitney R-985-25 o mocy 450 KM, zbudowano 300 egzemplarzy tej wersji.
+BT-13A
+Jak BT-13, ale wyposażony w 450-konny motor Pratt & Whitney 985-R-1. Poczyniono także kilka drobnych zmian konstrukcyjnych. Powstało 6407 maszyn tego wariantu.
+BT-13B
+Jak BT-13A, ale z 24-V układem elektryczny, 1125 zbudowanych.
+BT-15
+Jak BT-13A z silnikiem Wright R-975-11, generującym 240 KM, powstały 1693 BT-15'''.
+BT-16
+Jeden BT-13 został przebudowany w 1942 roku przez Vidal z całkowicie plastikowym kadłubem. Znany także pod nazwą XBT-16'''.
+SNV-1
+BT-13A dla US Navy, 1350 przeniesionych z USAAF.
+SNV-2
+BT-13B dla US Navy, 650 przeniesionych z USAAF.
+T-13A
+Pozostałe w służbie BT-13A zostały w 1948 roku przechrzczone na T-13'''.
+
+Użytkownicy
+Kolumbijskie Siły Powietrzne (BT-15)
+Indonezyjskie Siły Powietrzne
+Siły Powietrzne Izraela
+Siły Powietrzne Paragwaju – 10 BT-13A zostało wypożyczonych w latach 1942–1943. Dwa BT-13 zostały zakupione w Argentynie w 1947 roku.
+Paragwajska Marynarka Wojenna – trzy BT-13 podarowane przez Argentynę w latach 60.
+Radzieckie Siły Powietrzne
+United States Air Force
+United States Army Air Forces
+United States Navy
+
+Vultee Valiant w kulturze
+Jedną z ciekawszych powojennych przeróbek było przekształcenie BT-13 na samoloty japońskie dla potrzeb filmowych. W 1960 roku Twentieth Century Fox zakupiło i przekształciło BT-13 na imitacje japońskich samolotów, które wykorzystywane były podczas kręcenia filmu Tora! Tora! Tora!'', opowiadającym o japońskim ataku na Pearl Harbor w 1941. Samoloty torpedowe Nakajima B5N Kate i bombowce nurkujące Aichi D3A Val pojawiające się w tym filmie, były w rzeczywistości zmodyfikowanymi BT-13 (myśliwce Mitsubishi A6M Zero grane były przez North American T-6 Texan). Po filmie, samoloty te zostały sprzedane prywatnym właścicielom. Kilka z maszyn pojawiło się także w późniejszej produkcji Pearl Harbor.
+
+Eksponaty muzealne
+Mid-Atlantic Air Museum – Reading, Pensylwania - BT-13A Valiant z 1942 roku
+Castle Air Museum – Atwater, Kalifornia
+Kalamazoo Air Zoo – Kalamazoo, Michigan
+Combat Air Museum – Topeka, Kansas
+Estrella WarBirds Museum – Paso Robles, Kalifornia
+
+Linki zewnętrzne
+

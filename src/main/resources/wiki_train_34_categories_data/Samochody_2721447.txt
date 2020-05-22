@@ -1,0 +1,20 @@
+Solaris InterUrbino 12,8''' – drugi autobus międzymiastowy i szkolny klasy maxi z rodziny InterUrbino, produkowany od 2012 roku przez firmę Solaris Bus & Coach S.A.
+
+Historia modelu
+Po raz pierwszy pojazd został pokazany 5 czerwca 2012 roku w Paryżu w trakcie targów transportu publicznego Transport Publics 2012. Wraz z jego debiutem zaprezentowano odświeżoną stylistykę pierwszego modelu rodziny – Solaris InterUrbino 12. Opracowali ją styliści z berlińskiego studioFT. Wprowadzono nowy kształt nadkoli z charakterystycznym wznoszącym się liniowo przetłoczeniem, zaś w dolnym rogu tylnych szyb w pobliżu ściany tylnej znalazły się łukowate wstawki bazujące na kształcie trójkąta. Linia przedniej szyby zachodzi już nie tylko do prawego boku, ale także asymetrycznie do lewego.
+
+W obu autobusach stosowane są te same silniki i skrzynie biegów. Standardowy układ napędowy posiada, pochodzący z Fiat Powertrain Technologies, silnik Iveco N60 ENT 220 EEV o mocy 220 kW oraz manualną 6-stopniową skrzynię biegów Eaton FSO 8406. W opcji pojazd może być wyposażony w dwie wersje silnika Cummins: ISB6,7E5 300, o mocy maksymalnej 293 KM (215,4 kW) lub Cummins ISB6.7 EV 300B. Są one łączone odpowiednio z mechaniczną skrzynia biegów ZF 6S1010BO o sześciu przełożeniach oraz z automatyczną skrzynią biegów Allison Torqmatic. Ofertę uzupełniają silniki DAF PR265 U1 (Euro 5) oraz DAF PR265 U2 (EEV) z automatycznymi skrzyniami biegów ZF EcoLife 6AP 1700B lub Voith DIWA 5.
+
+Podobnie jak w pierwszym modelu szkielet nadwozia oraz oblachowanie zewnętrzne wykonano ze stali odpornej na korozję. To ostatnie również z paneli aluminiowych. Instalacja elektryczna jest oparta o magistralę CAN-Bus. Bagażnik podpodłogowy ma powiększoną pojemność do 6,2 m³. W podwoziu zamontowano niezależną oś przednią ZF RL 75 E ze stabilizatorem oraz tylną oś napędową ZF A 132. Układ hamulcowy jest wspomagany przez systemem EBS2, zaś autobus może być dodatkowo wyposażony w retarder lub hamulec górski. Standardowe zawieszenie na zaworach mechanicznych ma możliwość podnoszenia o około 60 mm. Zaś opcjonalnie montowane zawieszenie ECAS II z funkcją przyklęku z prawej strony, umożliwia podnoszenie i opuszczanie autobusu (tzw. przyklęk) o około 70 mm oraz podnoszenie o około 60 mm.
+
+Środkowe drzwi mogą być pojedyncze lub podwójne, te ostatnie z możliwością zainstalowania specjalnej windy dla osób poruszających się na wózkach inwalidzkich. Półki bagażowe we wnętrzu wykonane są z przezroczystego materiału i mają bardzo dużą powierzchnię, co pozwala na przewiezienie większego bagażu podręcznego.
+
+Instalacja elektryczna, oparta o magistralę CAN-Bus, jest wyposażona w oświetlenie LED, ma w opcji doświetlanie zakrętów.
+
+Obok klasycznego zestawu wykończenia przestrzeni pasażerskiej oferowana jest również wersja premium. Obejmuje ona m.in. podświetlany sufit, zintegrowane półki na bagaż wykonane z przezroczystych materiałów i indywidualny panel oświetlenia oraz wentylacji przy każdym fotelu.
+
+Na tym modelu nie kończy się rodzina InterUrbino. Projektowane są również dłuższe wersje, o długościach sięgających do 15 metrów, z trzema osiami jezdnymi.
+
+
+
+Linki zewnętrzne

@@ -1,0 +1,55 @@
+ 
+ 
+
+Lockheed F-94 Starfire – pierwszy amerykański odrzutowy myśliwiec przechwytujący zaprojektowany do użycia we wszystkich warunkach atmosferycznych ("all-weather interceptor"), a więc także w nocy.
+
+Historia
+ 
+Samolot został zaprojektowany w 1948 w celu zastąpienia szybko starzejących się w obliczu rozwoju technologii silników odrzutowych starszych, tłokowych samolotów myśliwskich Northrop P-61 Black Widow i North American P-82 Twin Mustang, podstawowym zadaniem nowego myśliwca miało być zmniejszenie zagrożenia jakie przedstawiały radzieckie bombowce Tu-4.  F-94 bazował na wcześniejszym TF-80C (T-33 Shooting Star) – dwumiejscowej wersji treningowej F-80 Shooting Star z dodany uzbrojeniem, radarem i systemem kierowania ogniem.
+
+System kierowania ogniem, Hughes E-1, składał się z radaru AN/APG-33 oraz celownika Sperry A-1C.  kadłub TF-80C został przedłużony aby zmieścił się w nim radar i dodatkowe urządzenia elektroniczne, modyfikacja istniejącego już samolotu była na tyle prosta, że kontrakt na nowy myśliwiec podpisano na początku 1949, a pierwszy lot F-94 odbył się już w 16 kwietnia tego roku.
+
+Dodatkowa masa ekwipunku elektronicznego i uzbrojenia wymusiła użycie silnika o większej mocy, Allison J33 został zastąpiony  Allison J33-A-33 z dopalaczem (F-94 był pierwszym amerykańskim produkcyjnym samolotem z dopalaczem), użycie większego silnika i zajęcie część kadłuba przez elektronikę zmniejszyło z kolei pojemność wewnętrznych zbiorników z paliwem co pociągnęło za sobą konieczność instalacji dodatkowych zbiorników na końcówkach skrzydeł.
+
+Pierwszym modelem produkcyjnym był F-94A uzbrojony w cztery karabiny maszynowe Browning M2 12,7 mm zamontowane w kadłubie.  Samolot mógł także przenosić podczepione pod skrzydłami dwie bomby 1000-funtowe (450 kg).  Wyprodukowano 109 samolotów w tej wersji.  Wersja F-94B weszła do służby w styczniu 1951, została wyposażona w bardziej niezawodną elektronikę i silnik, a także w nowy wówczas system ILS, zbudowano 356 samolotów w tej wersji.
+
+Następny model, pierwszy oficjalnie noszący nazwę "Starfire", F-94C, różnił się od swoich poprzedników na tyle, że początkowo otrzymał on nawet oznaczenie F-97''' ale ostatecznie zdecydowano traktować ten samolot jako tylko wersję rozwojową F-94.  Początkowo Siły Powietrzne Stanów Zjednoczonych nie były w ogóle zainteresowane tym samolotem i jego rozwój był finansowany prywatnie przez Lockheeda.  Aby poprawić osiągi samolotu użyto w nim nowego, znacznie cieńszego skrzydła, silnik J33 został zastąpiony znacznie potężniejszym Rolls-Royce Tay, a system kontroli ognia został zastąpiony nowym Hughes E-5 z radarem  AN/APG-40 umieszczonym w znacznie powiększonym nosie samolotu.  Zrezygnowano także z działek które zostały zastąpione rakietami FFAR o kalibrze 2,75 cala (70 mm) umieszczonymi w nosie samolotu wokół radaru,
+
+Proponowano także budowę wersji myśliwsko-bombowej "Gwiezdnego ognia" F-94D i zbudowano jeden prototyp tego samolotu ale nie wszedł on do produkcji. Samolot ten został użyty do testów działka M61 Vulcan, w które w późniejszym czasie było uzbrojonych wiele amerykańskich samolotów.
+
+Służba
+ 
+Pierwsza seria myśliwców została wysłana do Korei gdzie wzięły udział w wojnie koreańskiej zestrzeliwując łącznie cztery myśliwce nieprzyjaciela.  W samoloty te został także wyposażony 59 Myśliwski Dywizjon Przechwytujący stacjonujący w Goose Bay.  Jedna eskadra dywizjonu służyła w bazie w Thule jako dodatkowa linia obrony systemu DEW-Line (Distant Early warning – system wczesnego ostrzegania) znajdującego się na Grenlandii.
+
+F-94B służyło w USAF do 1954 po czym zostały przeniesione do jednostek powietrznych Gwardii Narodowej (Air National Guard).  W służbie ANG niektóre samoloty zostały wyposażone w dodatkowe 4 karabiny maszynowe - po dwa pod każdym skrzydłem.
+
+Pierwsze F-94C zostały dostarczone do dywizjonów w czerwcu 1951, a do maja 1954 zbudowano 387 sztuk tego samolotu.  Podstawową wadą tej konstrukcji były montowane w dziobie rakiety FFAR które w momencie oddawania strzału oślepiały na chwilę własną załogę.  W służbie z reguły nie montowano w ogóle rakiet w nosie samolotu, ale używano podczepianych pod skrzydła wyrzutni zawierających pod 12 rakiet.  F-94C zostały wycofane z dywizjonów USAF w 1959, a z jednostek ANG rok później.
+Wersje
+YF-94'''
+Dwa T-33A zmodyfikowane jako prototypy YF-94.
+F-94A
+Dwumiejscowy myśliwiec przechwytujący "all-weather interceptor"
+YF-94B
+Prototyp drugiej serrii produkcyjnej
+F-94B
+Druga seria produkcyjna.
+YF-94C
+2 prototypy trzeciej serii produkcyjnej
+F-94C
+Trzecia wersja produkcyjna
+F-94D
+Prototyp wersji myśliwsko-bombowej.
+
+Współcześnie istniejące F-94
+Pierwszym YF-94A (numer seryjny 48-35) znajduje się w muzeum w Edwards Air Force Base w Kalifornii
+F-94C znajduje się w muzeum New England Air Museum
+
+Bibliografia
+1. Lockheed F-94 Starfire, "Lotnictwo" nr 1(2011) s.78-89 ISSN 1732-5323
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+Risc PC to seria komputerów firmy Acorn, wprowadzona na rynek w roku 1994. Zastąpiła wcześniejszą serię Archimedes. Specjalizowane układy scalone: VIDC20 (grafika) i IOMD (układ wejścia-wyjścia) zastąpiły starsze VIDC, MEMC i IOC. Komputer oferował dwie podstawki SIMM dla pamięci RAM (maksymalnie 256 MB) i jedną dla VRAM (1 lub 2 MB). Na płycie głównej znajdowały się dwa sloty dla kart procesorowych, drugi często wykorzystywany na kartę z procesorem x86 dla emulacji PC (nigdy nie powstała wieloprocesorowa wersja RISC OS). Komputer był zamknięty w oryginalnej obudowie, którą można było rozbudowywać poprzez nadstawki, określane jako slice, z miejscami na dodatkowe urządzenia wewnętrzne.
+
+Modele
+Poniższe komputery były sprzedawane w różnych konfiguracjach – różne ilości pamięci, twarde dyski itd.''
+Risc PC 600''' (kwiecień 1994) – procesor ARM 610 30 MHz, RISC OS 3.50 
+Risc PC 700''' (lipiec 1995) – procesor ARM 710 40 MHz, RISC OS 3.60, dźwięk 16-bitowy, VRAM w standardzie (poprzednio opcja)
+StrongARM Risc PC (wrzesień 1996) – procesor StrongARM SA-110 202 MHz (od września 1997 233 MHz), RISC OS 3.70
+Acorn A7000''' (lipiec 1995) – uproszczona, tańsza wersja serii Risc PC. Zbudowana na bazie chipu ARM 7500, będącego procesorem ARM7, układem VIDC20 i IOMD w jednej obudowie. Układ jest taktowany zegarem 32 MHz i wlutowany w płytę główną. Komputer nie ma slotu na VRAM i slotu na drugą kartę procesorową oraz ma typową, nierozszerzalną obudowę.
+Acorn A7000+''' (maj 1997) – chip ARM 7500FE (48 MHz, FPU), RISC OS 3.71
+
+Bibliografia

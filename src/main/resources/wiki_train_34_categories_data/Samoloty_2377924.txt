@@ -1,0 +1,43 @@
+Airbus A330MRTT (Multi Role Tanker Transport) – latająca cysterna i wojskowy samolot transportowy powstały na bazie samolotu pasażerskiego Airbus A330-200.
+
+Historia
+Głównym impulsem do stworzenia samolotu było zapotrzebowanie wielu państw na nowe samoloty tankujące oraz monopol Boeinga, który wcześniej rozpoczął prace rozwojowe nad modelem Boeing KC-767, opartego na cywilnym Boeingu 767-200ER, który miał stać się następcą 50-letnich KC-135 Stratotanker i wykorzystywanych poza USA KC-707.
+
+W 2001 roku Airbus pracował już nad A310 MRTT dla wykorzystujących te samoloty do celów transportowych Niemiec i Kanady, kiedy Japonia zdecydowała o wyborze Boeinga KC-767J. Większy i bardzo popularny w Japonii samolot Boeinga górował nad oferowanymi wtedy A310. W 2002 roku Włochy zamówiły 4 KC-767A jako następcę swoich KC-707.
+
+Airbus zdecydował o budowie nowej, konkurencyjnej cysterny na bazie swojego najmłodszego i najlepiej sprzedającego się w swojej klasie szerokokadłubowego A330-200. Od tego momentu Airbus oferował znacznie większy samolot, który mógł zabrać o 20 t paliwa więcej od swojego konkurenta i za którym przemawiała bardziej nowoczesna konstrukcja. Airbus został wybrany w konkursach na samoloty tankujące w latach 2004-2009, rywalizując z Boeingiem kolejno w Wielkiej Brytanii (2004), Australii (2005), Zjednoczonych Emiratach Arabskich (2007), Arabii Saudyjskiej (2008) i USA (2008) oraz rywalizując z Ił-78 w Indiach (2009). Ten ostatni zakup nie został sfinalizowany, wbrew opinii tamtejszych wojskowych, ponieważ strony nie doszły do porozumienia co do kosztów. Także USAF anulował wybór A330 MRTT (przemianowany już wtedy na Northrop Grumman KC-45A), który wygrał oryginalny konkurs KC-X. W tym przypadku zdecydowały protesty Boeinga, jego pracowników i wspierających go polityków. Ostatecznie przetarg w 2011 na 179 cystern dla USAF po rozpatrzeniu nadesłanych ofert wygrał Boeing, a jego samolot oznaczono KC-46. Airbus startował wtedy w imieniu amerykańskiej filii EADS, ponieważ Northrop Grumman wycofał się w proteście przeciwko nowym kryteriom z 2009, które miały faworyzować mniejszy samolot. Na potrzeby rozwoju KC-45 Airbus ukończył jeden A330, który po skasowaniu programu pozostał na stanie producenta i w 2012 był oferowany Australii.
+
+31 października 2012 roku komisja indyjska ponownie wybrała Airbusa jako preferowanego dostawcę sześciu tankowców w powtórzonym konkursie wartym potencjalnie 1,5 mld USD, tańszy w zakupie Ił-78 okazał się droższy w szacowanym okresie eksploatacji, Boeing wycofał się w 2011. W październiku 2013 Paryż ogłosił, że zakupi 14 A330 MRTT (później liczbę zmniejszono do 12) dla zastąpienia floty 11 C-135FR, 3 KC-135R oraz 2 transportowych A340 i 3 A310, wyboru dokonano już w 2011 roku bez przeprowadzania przetargu. Do 2019 roku Francja ma otrzymać dwa pierwsze tankowce. W marcu 2014 Singapur potwierdził zainteresowanie zakupem 6 Airbusów A330 MRTT.
+
+19 stycznia 2011 podczas próbnego tankowania portugalskiego F-16 nad Oceanem Atlantyckim odpadł od KC-30 wyprodukowanego dla RAAF sztywny wysięgnik podający paliwo. Pierwszy samolot dla RAAF dostarczono 30 maja 2011, pierwotnie planowano rozpocząć dostawy w 2008 roku. 10 wrześnie 2012 roku podczas lotu nad Hiszpanią, tym razem od maszyny dla ZEA odpadł sztywny bum i spadł na niezamieszkane tereny.
+
+W czerwcu 2014 para saudyjskich A330 MRTT uczestniczyły operacyjnie w misji przebazowania ośmiu myśliwców F-15S wojsk lotniczych, w drodze na ćwiczenia Red Flag Nellis w Newadzie.
+
+Opis konstrukcji
+Samolot w wersji bazowej po opuszczeniu francuskich zakładów Airbusa w Tuluzie jest przebudowywany przez Airbus Military w hiszpańskich zakładach koncernu w Getafe. Pierwszy samolot dla RAFu zaprezentowano 27 sierpnia 2010. Typ A330 MRTT uzyskał certyfikat w październiku 2010 roku. Pierwszy samolot dla Australii na tankowiec przebudowały w kwietniu 2011 działające na zlecenie EADS Iberia Maintenance w Madrycie. Cztery kolejne samoloty przebudowano w Australii przez Qantas Defence Services w Brisbane.  W zależności od konfiguracji samolot jest doposażony w dwa zasobniki Cobham 905E do podawania paliwa przewodem giętkim, montowane pod skrzydłami oraz opcjonalnie trzeci zasobnik typu Cobham 805E znajdujący się na końcu kadłuba. Substytucyjna instalacja to sztywny centralny podkadłubowy podajnik paliwa (ang. boom) oznaczony przez producenta ARBS (skrót od ang. Aerial Refuelling Boom System), samolot wyposażono też w instalację umożliwiająca pobierania paliwa od innych cystern ze sztywnym przewodem. Systemy tankujące są obsługiwane przez operatora siedzącego w kokpicie, wykorzystując sterowanie zbliżone do fly-by-wire i kamery. Francja będzie pierwszym krajem, który oprócz standardowej wersji, w drugiej transzy otrzyma samoloty w wersji combi z bocznymi drzwiami ładunkowymi, umożliwiającymi załadunek palet na górny pokład oraz aparaturę do łączności satelitarnej i wymiany danych między samolotami myśliwskimi.
+
+Wersje
+A330 MRTT
+Wersja bazowa, Airbus A330-200 przebudowany przez Airbus Military na latającą cysternę, standardowo wyposażony w dwa zasobniki Cobham 905E z przewodami giętkimi i centralny sztywny boom ARBS. Dla samolotów ZEA wybrano silniki Rolls-Royce Trent 700, saudyjskie General Electric CF6-80.
+KC-30A
+Oznaczenie dla A330 MRTT nadane przez Królewskie Australijskie Siły Powietrzne, wyposażone w silniki General Electric CF6-80E. Konwersje czterech z pięciu A330 na KC-30 wykonano w Australii przez Qantas Defence Services w Brisbane. Zaplanowano 5 sztuk.
+KC-45A
+Oznaczenie nadane przez United States Air Force, wyposażony w dwa przewody elastyczne i centralny sztywny boom. Wybrana w 2008 wspólna oferta EADS/Northrop Grumman w ramach programu KC-X dotyczyła 179 tankowców, wybór anulowano. Samoloty miały być produkowane w nowych zakładach w Mobile, Alabama.
+Voyager KC2
+Oznaczenie Royal Air Force dla A330 MRTT z silnikami Rolls-Royce Trent 772B-60 oraz z dwoma elastycznymi przewodami do tankowania w zasobnikach podskrzydłowych typu Cobham 905E o wydajności 450 galonów (1703 l) na minutę. Jedyne dotychczas MRTT zamówione bez przewodu sztywnego. Zaplanowano 7 sztuk.
+Voyager KC3
+Identyczny do Voyager KC2, ale z trzecim elastycznym przewodem Cobham 805E umieszczonym na końcu kadłuba o wydajności 700 galonów (2650 l) na minutę. Zaplanowano 7 sztuk, ale dwa z nich bez zamontowanej trzeciej instalacji.
+
+Użytkownicy
+Airbus Defence & Space zdobył zamówienia na 28 samolotów, dostarczono 18 sztuk.
+Royal Australian Air Force są pierwszym użytkownikiem samolotu, dostarczono 5 KC-30A, pierwszy 1 czerwca 2011, ostatni 3 grudnia 2012, pierwotnie dostawy miały rozpocząć się w listopadzie 2008. Samoloty należą do RAAF 33 Squadron w RAAF Base Amberley. Samoloty osiągnęły wstępną gotowość operacyjną 26 lutego 2013.
+Królewskie Saudyjskie Siły Powietrzne zamówiły sześć samolotów: po trzy w 2008 i w 2009. Pierwszy samolot dostarczono na przełomie 2012 i 2013 samolot przejęto oficjalnie do służby 25 lutego 2013 w bazie koło Rijadu, z dwu letnim opóźnieniem. Do końca 2013 dostarczono trzy sztuki. W 2014 przekazano jedną sztukę, samoloty osiągnęły gotowość operacyjną w 2014 roku.
+Royal Air Force będą korzystały z 14 samolotów oznaczonych jako Voyager, zastąpią one Lockheed L-1011 i Vickers VC-10. Samoloty, wybrane w ramach programu Future Strategic Tanker Aircraft (FSTA), są własnością konsorcjum AirTanker (EADS - samoloty, Rolls-Royce - silniki, Thales UK - awionika, Cobham - systemy tankowania, VT Aerospace - zarządzanie), Lufthansa Technik będzie odpowiadać za utrzymywanie sprawności samolotów. Kontrakt podpisano w marcu 2008. Do końca 2012 roku dostarczono trzy Voyagery KC2, w 2013 dalsze trzy. Samoloty rozpoczęły służbę 9 kwietnia 2012, stacjonują w bazie RAF Brize Norton. 5 stycznia 2013 Voyager wylądował na Cyprze, po raz pierwszy transportująć pasażerów.
+Siły Powietrzne Zjednoczonych Emiratów Arabskich zamówiły 3 maszyny, pierwszy dostarczono 6 lutego 2013, drugi 16 maja, ostatni 5 sierpnia.
+
+
+
+
+
+
+Linki zewnętrzne

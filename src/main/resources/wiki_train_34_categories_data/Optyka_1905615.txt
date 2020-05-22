@@ -1,0 +1,9 @@
+Pantone (Color) Matching System (PMS)''' to system identyfikacji kolorów opracowany przez firmę Pantone inc. z USA.
+
+Kolory oznaczane są numerem (np. 2352) z oznaczeniami dodatkowymi takimi jak fluorescencja, metaliczność itp. Podstawowa skala opisuje 1761 kolorów. Powstają one przez zmieszanie 18 pigmentów (w tym białego i czarnego). Stąd ich odwzorowanie na skalach CMYK i RGB nie jest oczywiste.
+
+W 2001 roku opracowano Pantone Goe System, w którym kolorom w skali Pantone przypisano ich odpowiedniki w skalach RGB i Lab.
+
+
+
+Linki zewnętrzne

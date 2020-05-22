@@ -1,0 +1,15 @@
+Licencja Artystyczna (lub Twórcza, ang. Artistic License) to licencja oprogramowania używana głównie dla Perla, PHP i modułów CPAN oraz projektu Parrot, najczęściej alternatywnie do Powszechnej Licencji Publicznej GNU (GNU GPL), czyli jako licencja Perla.
+
+Autorem tekstu licencji jest Larry Wall.
+
+Pierwsze brzmienie licencji (tzw. Pierwotna Licencja Artystyczna) zawierało niejasności, które nie pozwoliły na uznanie jej przez projekt GNU za zgodną z licencjami Wolnego Oprogramowania, dlatego powstała tzw. Wyjaśniona Licencja Artystyczna, pozbawiona tej wady - podobnie jak ich nowsza wersja, Licencja Artystyczna 2.0''.
+
+W myśl Licencji Artystycznej wszelkie modyfikacje oryginalnego kodu muszą spełnić jeden z poniższych warunków:
+zostać udostępnione do dyspozycji jego autorom 
+wyraźnie zmienić nazwę i odpowiednie narzędzia tak, aby nie wchodziły w konflikt z oryginalną gałęzią
+pozwolić i zachęcać użytkowników zmienionej wersji do swobodnego udostępniania
+
+Krytyka Licencji Artystycznej
+Pomimo że obecnie Licencja Artystyczna jest uznawana za licencję Wolnego Oprogramowania, jest często krytykowana za niejednoznaczność, wewnętrzną sprzeczność oraz stopień skomplikowania utrudniający zrozumienie.
+
+Linki zewnętrzne

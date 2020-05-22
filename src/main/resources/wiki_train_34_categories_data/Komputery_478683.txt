@@ -1,0 +1,11 @@
+
+
+HP-14B to prosty algebraiczny kalkulator finansowy firmy Hewlett-Packard. Wyposażony jest w wyświetlacz typu Dot Matrix.
+
+Możliwości tego kalkulatora są nieco większe niż HP-10B, dodatkowo posiada np. obliczanie zwrotu inwestycji (Return on Investment). Obsługuje sporo funkcji statystycznych i regresję.
+
+W odróżnieniu od HP-17B nie posiada solvera, nie potrafi współpracować z drukarkami termicznymi HP-82240, nie ma funkcji obliczających obligacje.
+
+Z punktu widzenia kolekcjonera jest to kalkulator dość nietypowy - nie stanowi on uzupełnienia żadnej linii modeli tej firmy. Zawarte w nim elementy obsługi są częściowo zaczerpnięte z prostszych modeli (np. HP-10B, HP-20S), zaś sposób wyświetlania wyników i wyboru opcji jest analogiczny do HP-32S. Najbardziej poszukiwane są egzemplarze z limitowanej edycji z okazji 50-lecia istnienia firmy. Było ich bardzo mało, posiadały okolicznościowe logo i osiągają obecnie na rynku wtórnym spore ceny.
+
+Linki zewnętrzne

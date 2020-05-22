@@ -1,0 +1,50 @@
+Odmiany alotropowe żelaza – znane są cztery alotropowe odmiany żelaza trwałe pod ciśnieniem atmosferycznym:
+żelazo alfa (α)
+żelazo beta (β)
+żelazo  gamma (γ)
+żelazo delta (δ)
+oraz jedna forma wysokociśnieniowa, żelazo epsilon (ε).
+
+Odmiany alotropowe żelaza występujące przy ciśnieniu atmosferycznym są istotne w przypadku metalurgii i inżynierii materiałowej ze względu na różnice w rozpuszczalności węgla. Odmiana alotropowa występująca w przypadku wysokiego ciśnienia nadaje się do opisu wewnętrznego jądra Ziemi, które jak się uważa składa się zasadniczo z krystalicznego żelaza o strukturze ε i niklu.
+
+Odmiany alotropowe przy ciśnieniu atmosferycznym
+
+
+Żelazo δ
+
+
+Forma trwała w temperaturze od 1392 °C do temperatury topnienia. Ma sieć regularną przestrzenie centrowaną, identycznie jak żelazo α. Jest paramagnetyczne. Nazywane jest również ferrytem wysokotemperaturowym. Krzepnięcie żelaza następuje przy stałej temperaturze 1538 °C. W tej temperaturze cała ciecz zamienia się w kryształy żelaza. W temperaturze 1495 °C można w żelazie δ rozpuścić 0,09% C. Temperatura równowagi Ae4 (1392 °C) określa dolną granicę istnienia ferrytu wysokotemperaturowego. Perioda identyczności a dla żelaza δ wynosi 0,293 nm. Zaczyna się odchodzić od wyróżniania tej fazy osobną literą grecką. W większości najnowszej literatury można spotkać się tylko z żelazem α i γ.
+
+Żelazo γ
+
+
+Forma trwała w zakresie temperatur od 911 °C do 1392 °C. Ma sieć regularną ściennie centrowaną. Jest paramagnetyczne. W temperaturze 1392 °C następuje przemiana alotropowa. Objawia się ona przebudową struktury regularnej przestrzennie centrowanej w strukturę regularną ściennie centrowaną. Żelazo γ istnieje do temperatury Ae3 (911 °C). W temperaturze 1148 °C można maksymalnie rozpuścić 2,11%C. Perioda identyczności a dla żelaza δ wynosi 0,365 nm.
+
+Żelazo β
+Żelazo β jest to stare określenie na żelazo α wykazujące właściwości paramagnetyczne. Zakres temperaturowy istnienia żelaza β zawiera się w przedziale od temperatury Curie żelaza A2 (768 °C) do 911 °C. Żelazo β jest pod względem krystalograficznym identyczne jak żelazo α. Wyróżniają je tylko dwa aspekty. W żelazie α występują domeny magnetyczne oraz obie odmiany mają niewiele różniące się wymiary period identyczności w tej samej sieci krystalicznej w funkcji temperatury. Z tego powodu żelaza β nie uważa się za odrębną fazę.
+
+Żelazo α
+
+Forma trwała w temperaturze poniżej 911 °C. Ma sieć regularną przestrzenie centrowaną. Jest ferromagnetyczne w temperaturze poniżej 768 °C. W temperaturze otoczenia żelazo α jest stabilne i można w nim maksymalnie rozpuścić 0,008%C. W temperaturze 727 °C można w żelazie α rozpuścić 0,0218%C. Perioda identyczności wynosi 0,286 nm.
+
+Odmiany alotropowe przy wysokim ciśnieniu
+
+Żelazo ε
+Forma żelaza o sieci krystalicznej heksagonalnej, która jest stabilna tylko przy wysokich ciśnieniach. Przy spadku ciśnienia żelazo ε z powrotem przemienia się w żelazo α. Żelazo ε charakteryzuje się większą gęstością od żelaza α.
+
+Na wykresie fazowym punkt potrójny pomiędzy żelazem α, γ i ε został teoretycznie wyznaczony w temperaturze 497 °C i ciśnieniu 11 GPa. Badania wykazały, że punkt ten znajduje się w nieco niższej temperaturze, która wyniosła 477 °C.
+
+W roku 1971 przedstawiono tezę, że przemiana żelaza α w ε jest specyficznym przykładem przemiany martenzytycznej.
+
+Przypisy
+
+
+Zobacz też
+Alotropia
+Żelazo
+
+
+
+
+
+

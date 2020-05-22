@@ -1,0 +1,55 @@
+
+Stal szybkotnąca HSS (ang. high speed steel) - stal stopowa narzędziowa używana do wytwarzania narzędzi do wysokowydajnej obróbki skrawaniem (prędkości skrawania dochodzą do 50m/s) takich jaki noży tokarskie, frezy, wiertła. Wymaga się od nich wysokiej twardości, odporności na ścieranie oraz stałości kształtu, aż do temperatury 600 °C. Własności te uzyskuje się za poprzez efekt twardości wtórnej który jest uzyskiwany przez wydzielanie węglików wtórnych.
+
+Skład chemiczny stali szybkotnących:'''
+węgiel 0,75-1,4%,
+wolfram do 18%
+molibden do 10%
+wanad do 4%
+chrom do 4% (odpowiada za własności antykorozyjne stali)
+kobalt do 10%
+Powyższe pierwiastki stopowe dodaje się przede wszystkim w celu wytworzenia odpowiedniej ilości stabilnych węglików
+
+Polska Norma PN-EN ISO 4957:2002 stale szybkotnące oznacza się w sposób następujący:
+
+HS[%W]-[%Mo]-[%V]-[%Co] np HS6-5-2-5 - Stal szybkotnąca o zawierająca 6% wolframu, 5% molibdenu, 2% wanadu oraz 5% kobaltu.
+
+Obróbka cieplna stali szybkotnących:
+Wyżarzanie.
+Wyżarzanie odprężające w temperaturze 600–650 °C w celu usunięcia potencjalnych naprężeń wewnętrznych w stali.
+Końcowa obróbka skrawaniem w celu nadania kształtu.
+Hartowanie.
+Nagrzewanie z dwoma (opcjonalnie z trzema, dla elementów o dużych gabarytach) przystankami temperaturowymi 550 °C, 950 °C (1050 °C) po 15 minut na każdym przystanku.
+Wygrzewanie w temperaturze o 50-70 °C niższej od temperatury solidus (zwykle nie więcej niż 1250 °C) przez 80-150 sekund. Tak wysoka temperatura jest wymagana w celu rozpuszczenia jak największej ilości węglików w austenicie, aby został on nasycony pierwiastkami stopowymi i węglem dla zwiększenia hartowności, a jednocześnie pozostawienie pewnej ilości węglików nie rozpuszczonych, które zahamują rozrost ziarn austenitu.
+Studzenie do temperatury 80 °C.
+Po hartowaniu stop składa się z: 
+martenzytu nieodpuszczonego
+nierozpuszczonych węglików pierwotnych 
+austenitu szczątkowego (około 25%).
+I odpuszczanie.
+Nagrzewanie z temperatury 80 °C do 550–600 °C.
+Wygrzewanie w temperaturze 550–600 °C przez 2 h.
+Studzenie na powietrzu do temperatury pokojowej.
+W czasie odpuszczania dochodzi do:
+wydzielenia drobnodyspersyjnych węglików wtórnych z martenzytu nieodpuszczonego, proces ten zaczyna się w temperaturze około 200 °C
+odpuszczenia martenzytu
+zahartowania części austenitu szczątkowego.
+Po I odpuszczaniu stop składa się z:
+martenzytu odpuszczonego
+martenzytu nieodpuszczonego (25%) (jest to austenit szczątkowy który zahartował się podczas odpuszczania)
+węglików pierwotnych 
+węglików wtórnych
+austenitu szczątkowego (około 3%).
+II Odpuszczanie.
+Nagrzewanie z temperatury pokojowej do 520–570 °C (stal przegrzewana jest o około 20-30 °C poza maksymalne umocnienie wynikające z efektu twardości wtórnej, aby uzyskać nieco większą maksymalną temperaturę pracy narzędzia kosztem minimalnej utraty twardości).
+Wygrzewanie w temperaturze 520–570 °C przez 2 h (temperatura ostatniego odpuszczania jest maksymalną temperaturą pracy narzędzia).
+Studzenie na powietrzu do temperatury pokojowej.
+Po II odpuszczaniu stop składa się z:
+martenzytu odpuszczonego
+węglików pierwotnych 
+węglików wtórnych
+minimalnej ilości austenitu szczątkowego oraz martenzytu nieodpuszczonego.
+
+
+
+

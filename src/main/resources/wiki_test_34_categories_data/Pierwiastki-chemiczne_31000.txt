@@ -1,0 +1,27 @@
+Lutet (Lu, łac. lutetium) – pierwiastek chemiczny z grupy lantanowców w układzie okresowym. Nazwa pochodzi od łacińskiej nazwy Paryża. Dawna nazwa to kasjop (Cp)''.
+
+Zgodnie z terminologią IUPAC lutet jest zaliczany do lantanowców. Także zgodnie z terminologią IUPAC należy on do bloku d, przez co jest jedynym lantanowcem z okresu 6, który nie należy do bloku f. Poprzez przynależność do bloku d, należy on do grupy skandowców.
+
+Pierwiastek został odkryty 1905 r. przez Carla Auera von Welsbacha.
+
+Występowanie
+Lutet występuje w skorupie ziemskiej w ilości 0,51 ppm. Najważniejszymi minerałami lutetu są:
+monacyt (Ce,La,Th,Nd,Y,Pr,Lu)PO4 – tzw. piasek monacytowy
+bastnazyt (Ce,La,Nd,Y,Pr,Lu)CO3F – minerał dużo rzadszy.
+
+Właściwości fizyczne
+Atom lutetu posiada 71 elektronów o konfiguracji &#91;Xe&#93;&nbsp;4f145d16s2. Wchodząc w reakcję chemiczną atom traci dwa zewnętrzne elektrony i jeden elektron podpowłoki 5d, co jest nietypowe ponieważ reakcje innych lantanowców wykorzystują elektrony podpowłoki f. Atom lutetu jest najmniejszy spośród atomów lantanowców ze względu na kontrakcję lantanowców, co skutkuje tym, że lutet ma największą gęstość, temperaturę topnienia i twardość spośród lantanowców. Niektóre z tych właściwości mogą być wyjaśnione poprzez przynależność pierwiastka do bloku d układu okresowego, co daje mu częściowo właściwości cięższych metali przejściowych. Czasami lutet bywa, z tego względu klasyfikowany jako metal przejściowy, mimo, że IUPAC sklasyfikował go jako lantanowca.
+
+Zastosowanie
+Izotop lutetu 177Lu jest stosowany w połączeniu z analogami somatostatyny do leczenia nowotworów pochodzenia neuroendokrynnego .
+
+Zobacz też
+Klasyfikacja lantanowców i aktynowców
+
+
+
+
+
+
+
+

@@ -1,0 +1,6 @@
+ATLAS – komputer zaprojektowany na Uniwersytecie Cambridge w 1958 r., produkowany przez firmę Ferranti. Obejmował kilka modeli maszyn, np. TITAN.
+
+Był to pierwszy komputer, w którym zastosowano stronicowanie, przestrzeń adresów wirtualnych składała się z 220 (106) słów, podzielonych na ok. 2000 bloków po 512 słów, od 32 do 96 stron w zależności od modelu. Jako nośnikiem danych posługiwano się taśmą magnetyczną ze wstępnym adresowaniem, umożliwiającym zapis selektywny danych. Komunikacja operatora z systemem komputerowym odbywała się za pomocą języka opisu prac (system wsadowy).
+
+
+

@@ -1,0 +1,27 @@
+Modulator – układ elektroniczny lub optoelektroniczny, który realizuje proces modulacji. Modulator jest urządzeniem o dwóch wejściach: jedno dla sygnału, który nazywa się sygnałem nośnym lub falą nośną (najczęściej, choć niekoniecznie jest to sygnał o wielkiej częstotliwości) oraz drugie wejście dla sygnału modulującego (najczęściej sygnału malej częstotliwości), który bywa również nazywany sygnałem informacyjnym. Na wyjściu modulatora pojawia się sygnał zmodulowany. 
+
+W zależności od funkcji (rodzaju modulacji) można wyróżnić:
+modulator amplitudy
+modulator częstotliwości
+modulator fazy
+modulator szerokości impulsów
+modulator położenia impulsów
+modulator kluczujący
+
+Przykłady
+Modulator amplitudy zrealizowany przy pomocy operacji mnożenia. Sygnałem nośnym może być fala sinusoidalna o częstotliwości radiowej, a sygnałem modulującym może być sygnał foniczny, jak mowa i muzyka. Taki modulator ma zastosowanie w transmisji radiowej. Sygnał modulujący może mieć też postać pojedynczego tonu o częstotliwości akustycznej. Taki rodzaj sygnału jest wykorzystywany w telegrafii przez krótkofalowców.
+
+Modulator kluczujący komutujący na swoje wyjście jeden z dwóch sygnałów o różnych częstotliwościach w zależności od informacji binarnej (0 lub 1) zawartej w sygnale informacyjnym. Taki modulator był wykorzystywany w latach 80. XX wieku do zapisu kodu programów komputerowych na magnetofonach kasetowych.
+
+Zobacz też
+modulacja
+nadajnik
+tranzystor
+dioda
+
+Bibliografia
+L. Knoch, T. Ekiert, "Modulacja i detekcja", WkiŁ, Warszawa 1979
+S. Hahn, "Teoria modulacji i detekcji", Wyd. Politechniki Warszawskiej, Warszawa 1990
+
+
+

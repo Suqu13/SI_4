@@ -1,0 +1,83 @@
+Arypiprazol (ATC N 05 AX 12) – organiczny związek chemiczny, lek neuroleptyczny drugiej generacji stosowany w leczeniu schizofrenii i epizodów maniakalnych w przebiegu choroby afektywnej dwubiegunowej typu I, oraz w zapobieganiu nowym epizodom maniakalnym u pacjentów, u których występują głównie epizody maniakalne i którzy odpowiadają na leczenie arypiprazolem. Lek został wynaleziony przez Otsuka Pharmaceutical Co., dystrybutorem leku w Stanach Zjednoczonych i Europie jest Bristol-Myers Squibb a w Polsce firma Lundbeck.
+
+Mechanizm działania
+Działa jako częściowy agonista receptorów dopaminergicznych D2 i serotninergicznych 5-HT1A. Jest również antagonistą receptora serotoninergicznego 5-HT2A oraz receptora dopaminergicznego  D3.
+
+Wskazania do stosowania
+leczenie schizofrenii u dorosłych i młodzieży powyżej 15. roku życia
+leczenie epizodów maniakalnych o nasileniu umiarkowanym do ciężkiego w przebiegu choroby afektywnej dwubiegunowej typu 1
+zapobieganie nowym epizodom maniakalnym u pacjentów, u których występują głównie epizody maniakalne.
+
+Przeciwwskazania
+nadwrażliwość na arypiprazol.
+
+Środki ostrożności
+Preparatu zarejestrowanego do obrotu na terenie Polski, przeznaczonego do podania domięśniowego nie wolno podawać dożylnie lub podskórnie.
+Ze względu na ryzyko zachowań samobójczych, szczególnie ostrożnie stosować u pacjentów z grup dużego ryzyka.
+Ostrożnie stosować u pacjentów z:
+zawałem serca lub chorobą niedokrwienną w wywiadzie
+niewydolnością serca lub zaburzeniami przewodzenia
+chorobą naczyń mózgu,
+stanami predysponującymi do niedociśnienia (odwodnienie, zmniejszenie objętości krwi krążącej i leczenie lekami przeciwnadciśnieniowymi)
+nadciśnieniem
+wydłużeniem odstępu QT w wywiadzie rodzinnym
+ryzykiem wystąpienia zachłystowego zapalenia płuc
+ciężką niewydolnością wątroby
+napadami drgawek
+cukrzycą lub czynnikami jej wystąpienia.
+Jeśli wystąpią objawy świadczące o złośliwym zespole neuroleptycznym należy przerwać leczenie wszystkimi przeciwpsychotycznymi produktami leczniczymi.
+Arypiprazol należy stosować z zachowaniem ostrożności u pacjentów, u których w przeszłości występowały napady drgawek.
+Z powodu zwiększonej śmiertelności oraz ryzyka występowania niepożądanych zdarzeń naczyniowo-mózgowych arypiprazol nie jest wskazany w leczeniu pacjentów w podeszłym wieku z psychozą związaną z demencją.
+Jedyny preparat doustny zarejestrowany w Polsce zawiera laktozę i nie powinien być stosowany u pacjentów z rzadką, wrodzoną nietolerancją galaktozy, niedoborem laktazy typu Lapp lub zaburzeniami wchłaniania glukozy-galaktozy.
+Arypiprazol nie może być stosowany w ciąży, chyba że spodziewane korzyści wyraźnie przewyższają potencjalne ryzyko dla płodu. Pacjentki nie powinny karmić piersią podczas jego stosowania.
+Pacjenci powinni zachować szczególną ostrożność podczas prowadzenia pojazdów i obsługiwania urządzeń mechanicznych do czasu oceny indywidualnej reakcji na lek.
+
+Interakcje
+Ze względu na antagonistyczne działanie na receptor adrenergiczny α1, arypiprazol może nasilać działanie niektórych leków przeciwnadciśnieniowych. Ostrożnie stosować z lekami, które powodują wydłużenie odstępu QT lub zaburzenia elektrolitowe. Podczas jednoczesnego stosowania arypiprazolu i silnych inhibitorów CYP2D6 (chinidyna, fluoksetyna, paroksetyna) lub silnych inhibitorów CYP3A4 (ketokonazol, itrakonazol, inhibitory proteazy HIV) dawkę arypiprazolu należy zmniejszyć o około połowę. Dawkę arypiprazolu należy podwoić, gdy jednocześnie podaje się go z silnymi induktorami CYP3A4 (karbamazepina, ryfampicyna, ryfabutyna, fenytoina, fenobarbital, prymidon, efawirenz, newirapina i ziele dziurawca). Arypiprazol nie jest metabolizowany przez enzymy z grupy CYP1A, dlatego nie jest konieczne stosowanie specjalnych dawek u palaczy tytoniu.
+
+Działania niepożądane
+bezsenność, niepokój, lęk, senność
+akatyzja, depresja
+nudności, wymioty, niestrawność, zaparcia
+ból głowy
+zaburzenia pozapiramidowe, drżenie
+nieostre widzenie
+zwiększone wydzielanie śliny, suchość w jamie ustnej
+tachykardia, ortostatyczne spadki ciśnienia
+złośliwy zespół neuroleptyczny
+późne dyskinezy
+zwiększona śmiertelność u pacjentów z otępieniem, hiperglikemią i cukrzycą w podeszłym wieku.
+
+Dawkowanie
+Maksymalna dawka dobowa arypiprazolu wynosi 30 mg (we wszystkich postaciach).
+
+Postać leku w formie tabletek
+Dorośli:
+Schizofrenia: zalecana dawka początkowa to 10 lub 15&nbsp;mg/dobę z dawką podtrzymującą 15&nbsp;mg/dobę. Lek należy podawać raz na dobę o stałej porze, niezależnie od posiłków.
+Epizody maniakalne: zalecaną dawką początkową jest 15&nbsp;mg podawane w schemacie raz na dobę, niezależnie od posiłków jako monoterapia lub w leczeniu skojarzonym. U niektórych pacjentów może być korzystne zastosowanie większej dawki.
+
+Młodzież powyżej 15. roku życia:
+Schizofrenia:  10&nbsp;mg/dobę podawane w schemacie raz na dobę, niezależnie od posiłków. Leczenie powinno być rozpoczęte od dawki 2&nbsp;mg przez 2 dni, stopniowo zwiększanej do 5&nbsp;mg przez kolejne 2 dni, aż do osiągnięcia zalecanej dawki dobowej wynoszącej 10&nbsp;mg. W przypadkach gdzie zwiększenie dawki jest właściwe, kolejne zwiększone dawki należy podawać, zwiększając jednorazowo o 5&nbsp;mg.
+
+Postać leku w formie iniekcji domięśniowej
+Preparat stosuje się w mięsień naramienny lub głęboko w mięsień pośladkowy wielki z ominięciem obszarów otłuszczonych.
+
+Dawka początkowa wynosi 9,75 mg w pojedynczym wstrzyknięciu. Skuteczna dawka wynosi 5,25-15 mg podana jako pojedyncze wstrzyknięcie. Nie należy podawać więcej niż 3 wstrzyknięcia na dobę.
+
+Leczenie arypiprazolem w postaci roztworu do wstrzykiwań należy odstawić tak szybko, jak jest to klinicznie uzasadnione i należy rozpocząć stosowanie doustnego arypiprazolu.
+
+Preparaty
+Dostępne w Polsce preparaty:
+Abilify – Otsuka Pharmaceutical Europe Ltd. – roztwór doustny 1mg/ml; 1 butelka 50, 150 lub 480ml
+Abilify – Otsuka Pharmaceutical Europe Ltd. – roztwór do wstrzykiwań 7,5mg/ml; 1 fiolka 1,3ml
+Abilify – Otsuka Pharmaceutical Europe Ltd. – tabletki 5, 10, 15 lub 30mg; 14, 28, 49, 56 lub 98 szt.
+Abilify – Otsuka Pharmaceutical Europe Ltd. – tabletki ulegające rozpadowi w jamie ustnej 10, 15 lub 30mg; 14, 28, 49 szt.
+
+Synteza
+Arypiprazol można otrzymać w wyniku trzech kolejnych reakcji alkilowania wychodząc z 2,3-dichloroaniliny:
+
+
+
+
+Bibliografia
+Zalecenia w sprawie stosowania leków przeciwpsychotycznych II generacji. Medycyna Praktyczna – Psychiatria, 1(2) 2008

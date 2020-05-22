@@ -1,0 +1,22 @@
+Elwro 800''' – komputer i seria (rodzina) modeli komputerów oraz systemów komputerowych, opracowanych w latach osiemdziesiątych XX wieku przez Elwro. Wykonano egzemplarze prototypowe i wystawiennicze, lecz nie wdrożono tego modelu do seryjnej produkcji. Po raz pierwszy zaprezentowany został w 1985 roku na Międzynarodowych Targach Poznańskich, gdzie został nagrodzony złotym medalem. System miał zastąpić komputer Elwro 600. Kolejnym opracowaniem Elwro był komputer Elwro 801AT.
+
+Koncepcja i budowa
+Zakładano, że w ramach systemów komputerowych serii Elwro 800, będzie istniała możliwość budowy systemów:
+jednomodułowych (8-bitowych, bądź 16-bitowych) – w pełni funkcjonalny, pojedynczy mikrokomputer,
+jednoprocesorowych, wielomodułowych (kolejne moduły oparte na procesorach sterujących oraz sterownikach biernych)
+wieloprocesorowych, wielomodułowych (maksymalnie do 16),
+heterogeniczych systemów wieloprocesorowych.
+Z założenia system umożliwiać miał łatwą rozbudowę zakupionego systemu komputerowego o kolejne moduły zwiększające jego możliwości, w przypadku gdy osiągnięte podczas eksploatacji obciążenie systemu narzucało taką konieczność.
+
+Jak wyżej zaznaczono komputer miał budowę modułową umożliwiającą zestawianie konkretnych egzemplarzy o różnych możliwościach technicznych z dostosowaniem do potrzeb użytkownika. Architektura komputera oparta była bądź o 8-bitowy procesor 8080A, bądź 16-bitowy procesor 8086. Konfiguracja jednoprocesorowa, oparta na module 16-bitowym z procesorem 8086, stanowiła odpowiednik (klon) komputera klasy IBM PC/XT, dając możliwość stosowania całego oprogramowania dostępnego dla tego systemu komputerowego. Opracowane zestawy komputerowe wyposażone były w klawiaturę typu typu MST 8524, oraz drukarkę produkcji Mera-Błonie typu D-100. W trybie tekstowym na ekranie wyświetlanych było po 80 znaków (kolumn) w 25 wierszach, natomiast w trybie graficznym zapewniono rozdzielczość 640 lub 800x 200 punktów w 16 kolorach. Mógł współpracować między innymi z monitorami serii MERA 7900, np. MERA 7953N.
+
+Dane techniczne
+
+
+Zobacz też
+Elwro (komputer)
+Elwro 800 Junior
+
+
+
+Bibliografia

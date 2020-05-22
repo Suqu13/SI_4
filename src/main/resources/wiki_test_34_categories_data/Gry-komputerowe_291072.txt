@@ -1,0 +1,6 @@
+Airline Tycoon – pierwsza część serii gier komputerowych produkcji niemieckiej firmy Spellbound Entertainment. Gracz wciela się w rolę właściciela linii lotniczej. Do jego obowiązków należy m.in. planowanie lotów, zatrudnianie pracowników czy dbanie o wizerunek firmy.
+
+Grafika i dźwięk
+Grafika w grze jest komiksowa i w pełni dwuwymiarowa. Kwestie mówione wypowiadane są przez aktorów, a muzyka jest w formacie MIDI. Nie ma możliwości ustawienia innego niż standardowy (640x480) trybu graficznego.
+
+Linki zewnętrzne

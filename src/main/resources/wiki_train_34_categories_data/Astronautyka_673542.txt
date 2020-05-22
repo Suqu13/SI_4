@@ -1,0 +1,12 @@
+
+
+
+MetOp (ang. Meteorogical Operation) – seria trzech satelitów meteorologicznych umieszczanych na orbitach polarnych przez ESA co kilka lat. Do tej pory wystrzelono dwa satelity: Metop-A w 2006 i Metop-B w 2012 r. Trzeci (Metop-C) ma się znaleźć na orbicie w 2017 r.
+
+W latach 80. ESA planowała budowę interdyscyplinarnego satelity, mającego obserwować Ziemię z orbity polarnej. Miał on zostać wystrzelony pod koniec XX wieku. Na pewnym etapie prac stwierdzono, że korzystniejsze będzie umieszczenie przyrządów meteorologicznych na osobnym satelicie. Zdecydowano, że taki satelita, MetOp, będzie wkładem Zjednoczonej Europy w system satelitarny Światowej Organizacji Meteorologicznej, jako zastępstwo satelitów amerykańskiej agencji NOAA. Aby zapewnić kontynuację pomiarów, na takich satelitach planowano umieścić przyrządy takie, jak na zastępowanych satelitach agencji NOAA. Pozostałe przyrządy, nie związane ściśle z meteorologią, zaplanowano wysłać na osobnym satelicie, Envisat.
+
+Satelity MetOp należą do Systemu Polarnego Europejskiej Organizacji Wykorzystywania Satelitów Meteorologicznych (EUMETSAT), EUMETSAT Polar System (EPS). Satelity są wkładem Zjednoczonej Europy we wspólne przedsięwzięcie ESA i NOAA. Zakłada ono, że satelity pogodowe NOAA (systemu POES) i Metop będą miały uzupełniające i niedublujące się orbity, które umożliwią powiększenie obszaru obserwacji pogodowych i ich większą efektywność. Orbity statków ESA (system Metop) i NOAA (system POES) są synchroniczne ze Słońcem, to znaczy statki pojawiają się nad danym obszarem Ziemi o tej samej porze dnia. Statki Metop będą przelatywać w godzinach rannych, a statki POES w godzinach popołudniowych.
+
+Koszt całego programu (trzech satelitów, rakiet, obsługi naziemnej) wynosi 2,4 mld euro. Organizacja EUMETSAT wyłożyła 1,85 mld euro, a ESA 550 mln euro (głównie na budowę satelitów).
+
+Bibliografia

@@ -1,0 +1,21 @@
+
+GamePort – port w komputerach PC przeznaczony do podłączania manipulatorów gier, takich jak joystick, czy gamepad. Umożliwia również podłączenie instrumentów muzycznych poprzez zewnętrzny kontroler MIDI. Używany głównie w latach 90. XX wieku oraz w pierwszych latach XXI wieku. Zazwyczaj umieszczany był na kartach dźwiękowych montowanych na złączach ISA i PCI. Obecnie GamePort został całkowicie wyparty przez port USB.
+
+Microsoft wstrzymał obsługę GamePortu wraz z wydaniem systemu Windows Vista.
+
+Budowa złącza
+GamePort umożliwia podłączenie dwóch manipulatorów analogowych (zazwyczaj potrzeba do tego przejściówki/rozdzielacza). Każdy z nich mógł podawać analogowo (płynnie) informacje o współrzędnych wychylenia w osi X oraz Y oraz o wciśnięciu dwóch przycisków B1 i B2. W początkowych latach istnienia złącza było to rozwiązanie bardzo innowacyjne, gdyż występujące wówczas porty manipulatorów w mini komputerach i konsolach wykrywały jedynie wychylenie w postaci zerojedynkowej i dysponowały jednym przyciskiem FIRE. W późniejszych latach pojawiły się gry (głównie symulatory lotu) oraz joysticki wykorzystujące wszystkie 4 przyciski i oba dwuwymiarowe wskaźniki wychylenia (np. jeden sterował samolotem, a drugi ruchem głowy wirtualnego pilota – tzw. hat).
+Poniższa tabela przedstawia budowę gniazda żeńskiego typu D-Sub DA-15 wraz z opisem pinów.
+
+
+Zobacz też
+Port drukarki (LPT)
+Port szeregowy (RS-232)
+Złącza typu D-Sub
+
+
+
+
+
+
+

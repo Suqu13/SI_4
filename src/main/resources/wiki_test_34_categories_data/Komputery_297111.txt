@@ -1,0 +1,7 @@
+i5''' (eServer i5) – rodzina średnich (midrange) serwerów IBM bazujących dawniej na procesorach PowerPC, a obecnie na Power5+ i pracujących pod kontrolą systemów i5/OS, AIX lub Linux. Jest sukcesorem rodziny AS/400/iSeries i jest przeznaczony dla małego i średniego biznesu. Na rynek został wprowadzony w 2004 r.
+
+W ramach systemu możliwa jest eksploatacja zintegrowanego w systemie serwera IXS lub zintegrowania z i5 serwera xSeries podłączonego za pomoca IXA lub iSCSII. Zarówno serwer w postaci IXS oraz xSeries to systemy oparte na architekturze Intel x86 pozwalającej uruchamiać dodatkowo systemy z rodziny Windows.
+
+Dostępnych jest dla niego ponad 20 tys. aplikacji napisanych w większości za pomocą języków RPG i COBOL. Dostępne są także na tę platformę inne języki programowania m.in. C (język programowania), C++, Pascal (język programowania) oraz środowisko programistyczne Java.
+
+

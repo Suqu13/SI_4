@@ -1,0 +1,8 @@
+
+Wide Field Camera 3''' (WFC3) – kamera CCD zainstalowana w Kosmicznym Teleskopie Hubble'a. Została zamontowana na miejsce kamery Wide Field and Planetary Camera 2 (WFPC2) 14 maja 2009 przez załogę misji STS-125 wahadłowca Atlantis.
+
+Kamera WFC3 posiada dwa czujniki CCD pokrywające zakres ultrafioletu (od 200 nm) i światła widzialnego (każdy o rozdzielczości 2048 × 4096 pikseli) oraz jeden detektor podczerwieni (1024&nbsp;×&nbsp;1024&nbsp;pikseli), który może rejestrować promieniowanie o długości fali do 1700 nm.
+
+
+
+Linki zewnętrzne

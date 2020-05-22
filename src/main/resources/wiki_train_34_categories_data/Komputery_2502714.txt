@@ -1,0 +1,34 @@
+Nokia Lumia 710''' – jeden z pierwszych smartfonów Nokia oparty na systemie operacyjnym Microsoft Windows Phone. W Europie jego premiera miała miejsce w listopadzie 2011 roku, natomiast w USA jest dostępny od stycznia 2012. Pierwszymi użytkownikami tego telefonu byli jednak mieszkańcy Rosji, Indii, Singapuru i Hongkongu.
+
+Telefon przedstawia nowy kierunek rozwoju fińskiej marki i odejście tym samym od systemu Symbian. W przeciągu kilku lat ma zostać on zastąpiony przez Windows Phone 7.
+
+Nokia Lumia 710 to tańsza wersja Lumii 800 przeznaczony dla klasy średniej. Specyfikacja techniczna obydwu telefonów jest zbliżona, jednak zdecydowanie różnią się designem.
+
+Wygląd zewnętrzny
+Cechą charakterystyczną Lumii 710 są wymienne tylne kolorowe obudowy. Na polskim rynku, klienci Nokia mają dostęp do 5 kolorów obudów:
+biały
+czarny
+czarno-różowy
+czarno-niebieski
+biało-niebieski
+
+Zastosowane technologie
+Smartfon z systemem operacyjnym Microsoftu został wyposażony w procesor 1,4 GHz, 512 MB pamięci RAM oraz 8 GB pamięci wewnętrznej. Posiada 3,7-calowy, pojemnościowy ekran TFT ClearBlack o rozdzielczości 800 x 480 pikseli z pokrywą Gorilla Glass. W Nokia Lumia 710 zainstalowano odbiornik GPS z funkcją A-GPS oraz aparat fotograficzny o rozdzielczości 5 megapikseli z opcją autofocus i możliwością nagrywania filmów 720p (30 klatek/s).
+
+Aplikacje
+Aplikacje zainstalowane standardowo na smartfonie Nokia Lumia 710:
+Nokia Drive – czyli odpowiednik Nokia Maps z modułem nawigacji samochodowej przygotowany pod system WP7.
+Nokia Muzyka – dostęp do jednego z największych sklepów z muzyką na świecie.
+Mix Radio – dostęp do setek kanałów muzycznych za pośrednictwem streamingu. Umożliwia stworzenie do 4 własnych playlist w oparciu o wybranych artystów lub gatunki muzyczne.
+Transfer – aplikacja do prostego przenoszenia kontaktów i danych użytkownika między systemami operacyjnymi iOS, Android i Symbian dzięki technologii Bluetooth
+Metro UI – interfejs użytkownika, którego podstawą są kafelki („ang. „tiles”). Można je w dowolny sposób dodawać, usuwać i przesuwać.
+Microsoft Office – pakiet narzędzi biurowych takich jak: Word, Excel, PowerPoint i OneNote.
+Windows Live SkyDrive – wirtualny dysk o pojemności 25 GB.
+Internet Explorer – mobilna wersja popularnej przeglądarki internetowej w wersji 9, która wykorzystuje technologię HTML 5.
+Windows Phone Store – sklep z grami i aplikacjami.
+XBOX Live - plik z twoimi grami sterowanymi przez system XBOX
+Marketplace - sklep z grami i aplikacjami
+Popularne aplikacje - aplikacja wyszukująca najpopularniejsze ostatnimi czasy aplikacje
+
+Linki zewnętrzne
+(Specyfikacja)

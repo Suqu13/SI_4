@@ -1,0 +1,48 @@
+Podatek liniowy (również: podatek płaski) (ang. flat tax) – jest metodą obliczania wymiaru podatku, w myśl której wysokość należnego podatku jest wprost proporcjonalna do wielkości podstawy opodatkowania.
+
+Koncepcja podatku liniowego jest formułowana najczęściej w odniesieniu do podatku dochodowego od osób fizycznych lub podatku dochodowego od osób prawnych. W takim przypadku wymiar podatku liniowego jest obliczany w oparciu o jedną stawkę opodatkowania, co oznacza, że wszyscy podatnicy płacą taką samą część (np. 19%) swoich dochodów w formie podatku.
+
+W węższym znaczeniu podatek liniowy to wyłącznie brak progresji podatkowej, a więc wzrostu stawki podatkowej wraz ze wzrostem podstawy opodatkowania. W takim sensie liniowa metoda obliczania wymiaru podatku może współistnieć w jednym systemie podatkowym obok kwoty wolnej od podatku oraz ulg podatkowych.
+
+W szerszym znaczeniu podatek liniowy oznacza uproszczenie systemu podatku dochodowego, w tym zniesienie kwoty wolnej od podatku oraz ulg podatkowych. Wówczas całość wymiaru podatku zależy wyłącznie od jednej stawki opodatkowania oraz wielkości podstawy opodatkowania (np. dochodu). Jest to najbardziej klasyczne ujęcie podatku liniowego. W tym ujęciu funkcja wartości należnego podatku od wartości dochodu jest funkcją liniową dla dochodu większego od 0.
+
+Zasadność podatku liniowego
+Zasadność wprowadzenia podatku liniowego jest szeroko omawiana. Zwolennicy podatku liniowego utrzymują, że ten jest bardziej sprawiedliwy od podatku progresywnego, gdyż każdy płaci taki sam procent swojego dochodu. Przeciwnicy wskazują, że zebranie przez rząd takiej samej sumy pieniędzy jak w przypadku podatku progresywnego wymaga, aby mniejszy wkład finansowy bogatszej części społeczeństwa został zrównoważony przez większy wkład części biedniejszej. Zwolennicy na ten argument odpowiadają, że wprowadzenie jednolitej stawki dla każdego będzie stanowiło dodatkowy bodziec rozwojowy, dający wyższy wzrost PKB, co z kolei w dłuższej perspektywie da większe wpływy do budżetu nawet przy procentowo niższej stawce podatku.
+Podatek liniowy, którego kwota uzależniona jest od dochodu podatnika jest również krytykowany przez zwolenników, np. podatku pogłównego. Twierdzą oni, że sprawiedliwie jest dopiero wtedy, kiedy każdy płaci taką samą kwotę.
+
+Spór dochodzi do momentu, gdy potrzeba zdefiniowania pojęcia „sprawiedliwości”. Dla jednych sprawiedliwa jest równa stawka dla wszystkich, bez żadnych przywilejów u jakiejkolwiek grupy społecznej. Drudzy zwracają uwagę, że krańcowa użyteczność z dochodu jest malejąca (kolejne zarobione 100 PLN jest mniej warte dla milionera, niż dla osoby biednej), z tego powodu opodatkowywanie każdej kolejnej zarobionej jednostki pieniądza w tym samym stopniu, bez uwzględnienia dochodu osoby, jest niesprawiedliwe. Wielu zwolenników podatku liniowego uwzględnia ten tok myślenia, postulując zniesienie opodatkowania dla najniżej usytuowanych (przy jednoczesnym zachowaniu podatku liniowego dla osób przekraczających próg podatkowy) lub podniesienie kwoty wolnej od podatku. Z drugiej strony wyższy procentowo podatek dla osoby bogatej może być rozumiany jako swoista „kara” dla lepiej zarabiającego, co osłabia motywację do generowania wyższego dochodu.
+
+Wprowadzenie podatku liniowego, paradoksalnie, może prowadzić także do podwyższenia kwoty płaconej przez osoby bogate. Przykładem tu może być debata na temat podatków jaka miała miejsce w Wielkiej Brytanii (2007). Przytoczony tam był przykład menadżera funduszu hedgingowego, który z racji pochodzenia dochodów (podatek od dochodów kapitałowych) odprowadzał procentowo niższy podatek od swoich milionowych przychodów, niż zwykła sprzątaczka płacąca PIT.
+
+Kryzys finansowy sprawił, że wielu ekonomistów zaczęło się krytycznie przyglądać podatkowi liniowemu. Kryzys uderzył szczególnie mocno w państwa posiadające podatek liniowy takie jak Estonia, Łotwa i Litwa, a także Ukraina i Słowacja. Międzynarodowy Fundusz Walutowy już w 2005 roku w swoich analizach zwrócił uwagę, że podatek liniowy na Słowacji nie spełnił pokładanych w nim nadziei.
+W lipcu 2009 doradca ekonomiczny MFW Anna-Marie Gulde zaproponowała Łotwie zrezygnowanie z podatku liniowego na rzecz podatku progresywnego.
+
+W USA najwyższa stawka podatkowa wynosiła co najmniej 70% w latach 1936–1980, w tym co najmniej 91% w latach 1950–1963. Tak wysokie stawki praktycznie ustanawiają limit zarobków, co spowodowało zmniejszenie rozwarstwienia dochodów.
+
+Podatek liniowy na świecie
+Podatek liniowy został wprowadzony w wielu krajach Europy: obowiązuje m.in. w Estonii, na Łotwie, na Litwie, w Rosji, na Ukrainie, w Rumunii, w Bułgarii, w Serbii, w Czarnogórze, w Macedonii, w Albanii i w Gruzji. Stawka opodatkowania waha się między 10% a 35%.
+
+W wielu krajach Europy nawet znaczące partie liberalne opowiadają się za utrzymaniem progresywnej skali podatku dochodowego, choć często postulują łagodzenie progresji stawki.
+
+Jest kwestią sporną wśród ekonomistów, czy wprowadzenie podatku liniowego wpłynęło w spośób znaczący na poprawę sytuacji gospodarczej państw, które to uczyniły, zwłaszcza w obliczu istnienia innych barier rozwoju gospodarczego jak np. niski poziom wykształcenia i w związku z tym niska dostępność wykwalifikowanych zasobów pracy, oraz pozapodatkowe bariery rozwoju gospodarczego, takie jak przerost biurokracji, nieefektywne prawo czy braki w infrastrukturze.
+
+Skomplikowany system podatków progresywnych istnieje natomiast np. w Szwecji, w której państwo finansuje nawet drogie zabiegi dentystyczne oraz funduje wysokie stypendia znaczącej części studentów państwowych uczelni.
+
+Również w Stanach Zjednoczonych obowiązuje progresywna skala (federalnego) podatku dochodowego. Obecnie funkcjonują stawki 10% dla osób, których roczny dochód nie przekracza 8&nbsp;375 dolarów (dla osób niezamężnych, roku 2010), poprzez kolejne 15%, 25%, 28%, 33% aż do 35% dla osób zarabiających ponad 373&nbsp;650 dolarów.
+
+Wprowadzenie podatku liniowego proponowała w 1985 roku Partia Zielonych w Belgii ze stawką 50%, przy czym z płacenia podatków mieli być zwolnieni ludzie o dochodach niższych niż 10&nbsp;000 ówczesnych franków belgijskich.
+
+Podatek liniowy w Polsce
+W Polsce od 2008 roku obowiązuje 19% stawka podatku od przedsiębiorstw CIT, od 2009 praktycznie obowiązywał podatek liniowy PIT, ponieważ wyższą stawkę podatku płaciło tylko 1% podatników, w 2013 wprowadzono oficjalnie 19% stawkę liniową. Podatek progresywny dochodów osób fizycznych wprowadzono w latach 90., ale od 2004 roku podatek liniowy mogą płacić osoby fizyczne prowadzące pozarolniczą działalność gospodarczą.
+
+Podatek liniowy stał się przedmiotem szerokiej dyskusji publicznej w czasie wyborów parlamentarnych w 2005 roku. Dwie wiodące wówczas w sondażach przedwyborczych partie – Prawo i Sprawiedliwość oraz Platforma Obywatelska – toczyły spór medialny o zasadność wprowadzenia liniowej skali opodatkowania dochodów osób fizycznych.
+
+Niektórzy zwolennicy podatku liniowego w Polsce podkreślają, że celem jego wprowadzenia jest przyspieszenie wzrostu gospodarczego i zmniejszenie dystansu do zamożnych krajów Europy, natomiast skale progresywne są właściwsze dla gospodarek rozwiniętych, gdzie linearyzacja skali podatkowej nie daje tak silnych bodźców rozwojowych dla gospodarki, jak to ma miejsce w przypadku gospodarek rozwijających się.
+
+Zobacz też
+podatek degresywny
+
+
+
+Bibliografia
+Grzegorz Gołębiowski, , "Studia BAS" Nr 14/2008, Biuro Analiz Sejmowych Kancelarii Sejmu.

@@ -1,0 +1,53 @@
+Stopy TiAl – to międzymetaliczne stopy (intermetale) tytanu z glinem przeznaczone do pracy w podwyższonych temperaturach (500-800 °C). Charakteryzują się niewielką gęstością, są żaroodporne i żarowytrzymałe.
+
+Historia powstania
+Stopy na osnowie międzymetalicznych faz tytanu z glinem α2-Ti3Al oraz γ-TiAl zaczęto badać w latach 50. XX wieku. Impulsem do badań była potrzeba opracowania lekkich i wytrzymałych materiałów dla lotnictwa i kosmonautyki. Materiały te miały zastąpić stopy tytanu oraz stopy na bazie niklu używane w konstrukcji silników odrzutowych. Poważnymi ograniczeniami dla stopów tytanu były i są, mała żaroodporność powyżej 500 °C, zmniejszenie wytrzymałości mechanicznej wraz z temperaturą, zwiększenie kruchości w wyniku rozpuszczania tlenu i azotu w materiale (środowiskowo indukowana kruchość) oraz tendencja do tzw. „pożaru tytanowego”. Zaletami stopów TiAl miały być, mała gęstość 3,8–4,2 g/cm³, wysoki moduł Younga (sztywność) w niskich i wysokich temperaturach, dobra wytrzymałość mechaniczna, odporność na pełzanie oraz żaroodporność (dzięki wysokiej zawartości glinu). Szacowano, że zastępując stopami TiAl żaroodporne stopy niklu uda się zmniejszyć masę części z nich wykonanych o 20–50%. Znaczący postęp w badaniach nastąpił dopiero w latach 70. i był on związany z pracami powadzonymi w USA dla potrzeb wojska. Badano równolegle dwie grupy materiałów, stopy na osnowie fazy α2-Ti3Al oraz stopy na osnowie fazy γ-TiAl.
+
+Rodzaje stopów TiAl
+Stopy na osnowie faz α2-Ti3Al oraz O-Ti2AlNb
+Faza α2-Ti3Al posiada strukturę heksagonalną gęstego upakowania typu D019. Jest stabilna do temperatury około 1150 °C. Powyżej tej temperatury ulega przemianie w fazę α-Ti. Zawartość glinu w tej fazie zmienia się wraz z temperaturą w granicach od 20 do około 38% atomowych. W początkowym okresie badano głownie stopy na osnowie fazy α2-Ti3Al. W wyniku tych prac stwierdzono, że najbardziej obiecującym dodatkiem stopowym jest niob (poprawia on znacząco plastyczność w temperaturze pokojowej). Pierwsza generacja stopów na osnowie fazy α2-Ti3Al zawierała 10 – 12% At. Nb. Jako typowy materiał pierwszej generacji należy wymienić stop Super-Alpha 2TM o składzie Ti-25Al-10Nb-3V-1Mo. Materiały pierwszej generacji, miały większą sztywność oraz wytrzymałość mechaniczną od stopów tytanu jednakże były od nich bardziej kruche. Nie posiadały również zadowalającej żaroodporności (nie tworzyły na swej powierzchni ochronnej zgorzeliny Al2O3). Problemy z tzw. środowiskowo indukowana kruchością doprowadziły do zarzucenia prac nad tymi materiałami.
+
+Pod koniec lat 80. XX wieku, odkryto nową fazę – Ti2AlNb. Fazę tę określa się jako często jako O-Ti2AlNb. Pierwsza litera „O” oznacza rodzaj struktury – ortorombowa. Zastąpienie fazy α2-Ti3Al fazą Ti2AlNb w stopach TiAl spowodowało wzrost ich gęstości. Został, on jednak skompensowany przez poprawę innych właściwości jak np. podwyższenie plastyczności w temperaturze pokojowej (~3%); niski współczynnik rozszerzalności cieplnej α~9.5×10-6 (700 °C); dobra zgodność z SiC, umożliwiająca tworzenie kompozytów (włókna SiC + stop TiAl-Nb). Materiały te znajdują się ciągle w stadium badań i nie są do chwili obecnej (rok 2010) produkowane komercyjnie.
+
+Stopy na osnowie fazy γ-TiAl
+Faza γ-TiAl posiada strukturę tetragonalną płasko centrowaną typu L10. Jest stabilna do około 1480 °C (dla składu Ti-50%Al), powyżej tej temperatury ulega stopieniu. Zawartość glinu w tej fazie wynosi od 48 do około 56% atomowych i zmienia się wraz z temperaturą. Techniczne stopy na osnowie fazy γ-TiAl zawierają 45–48% at. glinu. Na skutek przemiany eutektoidalnej zachodzącej w temperaturze około 1107 °C posiadają one mikrostrukturę dwufazową γ-TiAl/α2-Ti3Al. W zależności od składu chemicznego stopu, oraz warunków obróbki cieplnej uzyskuje się dwa rodzaje mikrostruktury, mikrostrukturę podwójną (ang. dupplex) lub mikrostrukturę płytkową (ang. lamellar, full lamellar).
+
+
+
+
+
+Optymalizacja składu chemicznego oraz mikrostruktury tych materiałów doprowadziła do powstania ich trzech generacji (skład w procentach atomowych).
+
+I generacja – Ti-48Al-1V-0.3C
+II generacja – Ti-(45-48)Al-(1-3)X-(2-5)Y-(4NbAl3, oprócz faz γ-TiAl oraz α2-Ti3Al Pod koniec lat 90-tch ubiegłego wieku w niemieckim instytucie badawczym Helmholtz-Zentrum Geesthacht – Zentrum für Material- und Küstenforschung w Hamburgu opracowano nowy materiał o składzie Ti-45Al-8Nb-0.2B,C. Materiał ten posiada dobre własności mechaniczne zarówno w niskich jak i wysokich temperaturach. Maksymalna temperatura pracy tego stopu jest ograniczona własnościami mechanicznymi i korozyjnymi do 700-750 °C. Daje się on formować poprzez kucie i oraz obróbkę plastyczną na gorąco.
+
+Stopy II i III generacji posiadały na tyle dobre właściwości, że zdecydowano się na ich komercjalizacje. Materiały te produkuje się w skali półtechnicznej (kilkadziesiąt do kilkuset kg), głównie w celach badawczych. Największą przeszkodą w uruchomieniu produkcji na skalę przemysłową są problemy z utrzymaniem niskiej zawartości tlenu i azotu w materiale. Podwyższona zawartość tych pierwiastków powoduje wzrost kruchości stopów.
+
+Oprócz przeszkód technicznych, w rozwoju technologii pewną rolę odegrały też problemy polityczno-ekonomiczne. Zakończenie zimnej wojny, osłabiło zainteresowanie tymi materiałami ze strony wojska, a ograniczenia w finansowaniu i rozwoju badań kosmicznych oraz zmiany przepisów w sportach motorowych (głównie wyścigach samochodowych) ograniczają stosowanie stopów TiAl w konstrukcji silników spalinowych.
+
+Żaroodporność stopów TiAl
+Mimo wielu lat badań nie rozwiązano problemu słabej żaroodporności stopów TiAl w temperaturach powyżej 750 °C. Polepszeniu żaroodporności prawie zawsze towarzyszyło pogorszenie właściwości mechanicznych. Poprawę żaroodporności stopów γ-TiAl/α2-Ti3Al uzyskano na przykład poprzez:
+Rozdrobnienie ich mikrostruktury (podwójna→płytkowa) dzięki odpowiedniej obróbce cieplnej lub deformacji powierzchni, co ułatwia tworzenie warstwy fazy Z pod zgorzeliną.
+Dodatek pierwiastków takich jak Nb, Ta, W, zmniejszających szybkość wzrostu mieszanej zgorzeliny, TiO2/Al2O3 oraz sprzyjających tworzeniu barierowej warstw azotków pod zgorzeliną tlenkową.
+Dodatek 2–3% srebra i/lub 10–20% chromu, usuwający ze stopu fazę α2-Ti3Al, zapobiegający tworzeniu się azotków oraz ułatwiający tworzenie warstwy fazy Z pod zgorzeliną (Ag)
+Wzbogacenie powierzchni materiału pierwiastkami VII grupy (F, Cl, Br, I).
+Zastosowanie powłok ochronnych γ-TiAl-Cr (10–20% Cr), γ-TiAl-Ag (1–5% Ag).
+
+Produkcja i zastosowanie stopów TiAl
+Początkowo zakładano, że głównym obszarem zastosowań materiałów TiAl będzie produkcja części do silników odrzutowych np. łopatek wysokociśnieniowej części kompresora, łopatek niskociśnieniowej części turbiny, obudowy kompresora, dyfuzora. W badaniach tych brały udział firmy Pratt & Whitney, General Electric, Howmet Castings oraz Rolls Royce. Części wykonywano metodą odlewania, kucia oraz skrawania. Pomimo początkowych sukcesów, nie zdecydowano się na produkcje seryjną części. Głównymi przyczynami były niejednorodności mikrostruktury w odlewach i odkuwkach oraz utrata wytrzymałości podczas dłuższego ich użytkowania. W kolejnych latach do badań dołączyły MTU Aero Engines, Plansee Group, Thysen, GfE – Metalle und Materialien GmbH, Mitsubishi, NASA, ABB i ALSTOM Power. Wypróbowywano nowe metody produkcji i obróbki takie jak, metalurgie proszkową, topienie łukowe w próżni (VAR), prasowanie izostatyczne na gorąco (HIP) oraz wytłaczanie na gorąco. Dotychczas stopy TiAl wdrożono do produkcji seryjnej turbin do turbokompresorów, zaworów silnikowych oraz tzw. tarcz (ang. target) do magnetronów. W latach 1998–2003 firma Mitsubishi wyprodukowała około 20000 samochodów Lancer wyposażonych w turbiny wykonane ze stopu Ti-46.5Al-6.5Nb.
+
+Zobacz też
+układ glin-miedź
+
+Przypisy
+
+
+Linki zewnętrzne
+– strona Helmholtz-Zentrum Geesthacht – Zentrum für Material- und Küstenforschung poświęcona materiałom TiAl
+– strona europejskiego projektu badawczego dotyczącego materiałów TiAl
+– strona międzynarodowego projektu badawczego dotyczącego materiałów TiA
+– raport NASA dotyczący właściwości mechanicznych materiałów TiAl
+
+
+
+

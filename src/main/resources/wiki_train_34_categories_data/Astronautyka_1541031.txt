@@ -1,0 +1,55 @@
+Duga (ros. Дуга), zwany też Okiem Moskwy – nieużywana obecnie instalacja radzieckiego strategicznego radaru pozahoryzontalnego (OTH) pracującego w zakresie fal krótkich, znajdująca się m.in. nieopodal Czarnobyla na Ukrainie w obwodzie kijowskim. Znana wśród krótkofalowców i profesjonalnych użytkowników fal krótkich jako Russian Woodpecker. System ten otrzymał kod NATO Steel Yard. Instalacja służyła do wykrywania nadlatujących nad terytorium ZSRR pocisków balistycznych m.in. USA z głowicami nuklearnymi, jako jeden z ważnych elementów systemu wczesnego ostrzegania przed atakiem na ZSRR. Radar typu Duga-2 oznaczony był kodem 5N77.
+
+Historia
+ZSRR rozpoczął prace nad budową radaru pozahoryzontalnego pod koniec lat 50 XX wieku. W okolicy Mikołajowa powstał pierwszy, eksperymentalny, radziecki radar pozahoryzontalny o kryptonimie Duga-1. W 1964 roku za jego pomocą wykryto start własnej rakiety z kosmodromu Bajkonur, co potwierdziło zdolności tej aparatury. W 1970 roku w jego miejscu powstała następnie udoskonalona wersja eksperymentalna o kryptonimie Duga-2. Radar został zaprojektowany w NIIDAR, a zbudowany w fabryce maszyn w Dniepropietrowsku. Jego głównym konstruktorem był Franc Kuzminskij. Duga rozpoczął pracę 7 listopada 1971. Decyzję o budowie systemu Duga w Czarnobylu podjęto w 1969 roku. Stacja rozpoczęła pracę w lipcu 1976 roku. 26 kwietnia 1986 radar został wyłączony, aby ochronić jego elektronikę przed uszkodzeniem, które mogło być wywołane podwyższonym promieniowaniem związanym z katastrofą nuklearną w Elektrowni Atomowej w Czarnobylu. Ostateczne zamknięcie obiektu nastąpiło w sierpniu 1988, gdy okazało się, że z powodu wysokiego promieniowania obiekt nie będzie działać.
+
+30 czerwca 1982 wszedł do służby radar zlokalizowany w okolicach Komsomolska nad Amurem. 14 listopada 1989 decyzją ministra obrony został wycofany ze służby w związku z pożarem i redukcją wojsk.
+
+W 1995 roku zakończył pracę radar w Kalinówce. W 1998 władze Ukrainy podjęły decyzję o likwidacji obiektu. Wyburzanie rozpoczęto w 1999 a 26 maja 2001 wyburzono jego ostatnie maszty.
+
+Lokalizacja
+
+
+Mikołajów
+W okolicach Mikołajowa znajdowały się eksperymentalne instalacje Duga-1 oraz Duga-2. Nadajnik został zbudowany w pobliżu wsi Łucz na południowy wschód od Mikołajowa. Antena była dobrze widoczna ze wsi Posad-Pokrowske.
+Radar mikołajowski skierowany był w stronę wyspy Guam na Pacyfiku poprzez terytorium Chin.
+
+Czarnobyl
+W okolicach Czarnobyla znajdował się główny węzeł sieci Duga o oznaczeniu RŁU-1. Część odbiorcza znajdowała się ok. 9 km od byłej elektrowni na południe, z lekkim odchyleniem na zachód. Pozostałości konstrukcji są wyraźnie widoczne na fotografiach satelitarnych rejonu Czarnobyla. Po drugiej stronie Czarnobyla, na północny wschód od elektrowni, na południe od Homla pod miejscowością Lubecz znajdowała się druga, nieistniejąca już konstrukcja oddalona od pierwszej o około 58 km. Pozostały po niej fundamenty anteny i zabudowania. Ta konstrukcja była częścią nadawczą radaru. Cały obiekt był ściśle tajny i pilnie strzeżony przez jednostki specnazu. Obszar w promieniu ok. 5 km od anteny był zamknięty, a na mapach sztabowych obiekt został oznaczony jako obóz pionierski, podobnie jak większość tego typu obiektów. Sam obiekt był oficjalnie nazywany centrum radiowym telekomunikacji. Pomiędzy tym obiektem a terenem elektrowni znajdowało się stanowisko dywizjonu rakietowego obrony powietrznej S-75 "Dźwina" lub S-75M "Wołchow". Część nadawcza była obsługiwana przez jednostkę wojskową A3330 a odbiorcza przez 74939.
+
+Instalacja koło Czarnobyla wymagała około 1000 osób obsługi. W rejonie kompleksu zbudowano dla personelu i ich rodzin zamknięte miasteczko Charnobyl-2. Personel stacji nadawczej mieszkał w specjalnie wybudowanym miasteczku Lubecz-1, które dzisiaj stoi opuszczone.
+
+Wiązka sygnału obejmowała terytorium Stanów Zjednoczonych od północno-wschodniej strony i przebiegała przez biegun północny.
+
+Komsomolsk nad Amurem
+Drugi węzeł Duga o oznaczeniu RŁU-2 znajdował się w okolicy Komsomolska nad Amurem. Obsługa stacji odbiorczej mieszkała we wsi Wielka Kartel. Część odbiorcza była obsługiwana przez jednostkę wojskową 55419 stacjonującą w Wielkiej Karteli.
+Radar komsomolski obejmował swoim zasięgiem północno-zachodnią część USA wraz z Alaską.
+
+Konstrukcja anten
+Wszystkie anteny radarów Duga były zbudowane w postaci ściany masztów. Dwa skrajne maszty służyły jako naciągi reflektorów antenowych, a pozostałe, środkowe, służyły jako konstrukcja nośna dipoli.
+
+Mikołajów
+Antena odbiorcza pod Kalinówką zbudowana była z 32 masztów i 330 dipoli (po 11 na maszcie), nadawcza zbudowana była z 15 masztów i 104 dipoli (po 8 na maszcie). Antena nadawcza miała szerokość 210 m i wysokość 85 m, odbiorcza odpowiednio 300 m i 135 m. Budynek części nadawczej miał 90 m szerokości i znajdowało się w nim 26 dwupiętrowych nadajników.
+Instalacja miała za zadanie wykrywać rakiety balistyczne w odległości 6000-10000 km oraz inne obiekty latające w odległości 1500-3000 km.
+
+Czarnobyl
+W Czarnobylu-2 postawiono dwa zespoły anten odbiorczych, każdy nastrojony na inne pasmo KF. Mniejszy zespół składał się 12 masztów wysokości 90 m (85 m) – na zakres 14 do 30 MHz; większy – z 17 masztów wysokości 150 m (135 m), na zakres 4 do 14 MHz. Oba położone były jeden obok drugiego na przestrzeni około 900 m. Każdy z masztów podtrzymywał 21 szerokopasmowych anten o konstrukcji zbliżonej do dipola Nadienienki. W tylnej części konstrukcji znajdowała się siatka, pełniąca rolę reflektora fal. Konieczność zastosowania dwóch anten podyktowana była rozszerzeniem zakresu częstotliwości, aby uniknąć utrudnień propagacyjnych związanych z zakłóceniami jonosfery przez zorze polarne.
+
+Pozostałe konstrukcje Duga, których wiązka nie przebiegała przez strefę polarną, zbudowane były z pojedynczych anten. W bezpośrednim sąsiedztwie anten pod ziemią znajdowały się urządzenia odbiorcze i centrum dowodzenia.
+
+Na południowy zachód od głównego zespołu anten ścianowych znajdowała się konstrukcja antenowa typu CDAA, zbudowana na planie koła z dwoma koncentrycznymi pierścieniami anten, nastrojonymi na te same zakresy co anteny ścianowe, oraz z częściowo zagłębionym w ziemi, centralnie położonym budynkiem z aparaturą i anteną centralną. Konstrukcja ta odgrywała rolę pomocniczą, weryfikując odczyt z anten ścianowych oraz służyła do prac eksperymentalnych.
+
+Masa całej konstrukcji w Czarnobylu-2 to ok. 13000-14000 ton. Koszt budowy radaru szacuje się na 0,5 do 1,5 mld dolarów.
+
+Na terenie kompleksu znajdowała się niezbędna infrastruktura towarzysząca, w tym środki łączności.
+
+Rosyjski dzięcioł
+
+Sygnał emitowany z radaru zakłócał transmisje innych nadajników. Był dobrze słyszalny w Europie. Krótkofalowcy nazwali ten sygnał rosyjskim dzięciołem z powodu charakterystycznego rytmu przypominającego stukanie dzięcioła.
+Pierwszy raz sygnał wykryto 27 marca 1976 w fińskiej stacji monitorującej w Laajasalo – Yleisradio (YLE). Ustalono, że pochodził on z okolic Mikołajowa.
+
+W 1988 amerykańska Federalna Komisja Komunikacji (FCC) kontynuowała badania nad sygnałem "rosyjskiego dzięcioła". Sygnał miał szerokość pasma od 0,02 do 0,8 MHz, nadawany był typowo przez 7 minut. Moc sygnału oszacowano na co najmniej 10 MW EIRP.
+
+
+
+Linki zewnętrzne

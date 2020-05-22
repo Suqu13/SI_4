@@ -1,0 +1,65 @@
+
+S.T.A.L.K.E.R.: Zew Prypeci (ukr. S.T.A.L.K.E.R.: Поклик Прип'яті, S.T.A.L.K.E.R.: Pokłyk Pryp’jati; ang. S.T.A.L.K.E.R.: Call of Pripyat) – kontynuacja gry '''' stworzona przez ukraińskie studio GSC Game World i wydana przez Namco Bandai w 2009 roku.
+
+Zapowiedź
+1 kwietnia 2009 roku GSC Game World ogłosiło, że prowadzone są prace nad kolejną grą z serii S.T.A.L.K.E.R. Ze względu na datę publikacji wielu graczy oraz pism komputerowych sądziło, że jest to dość oryginalny primaaprilisowy żart, jednak GSC Game World oficjalnie potwierdziło tę informację.
+
+Fabuła
+Fabuła gry S.T.A.L.K.E.R.: Zew Prypeci dzieje się tuż po wydarzeniach z ''''. Gracz wciela się w majora Diegtiarowa – agenta SBU, którego zadaniem jest poznać przyczynę katastrofy śmigłowców wysłanych w celu wzięcia elektrowni jądrowej w Czarnobylu pod stałą kontrolę.
+
+Intro
+W przeciwieństwie do poprzednich części gry, intro jest dość skromne. Są to kolejne obrazki, omawiane przez narratora. Z intra gracz dowiaduje się o historii Zony i wydarzeniach poprzedzających rozgrywkę.
+
+26 kwietnia 1986 o godzinie 1:23 czasu lokalnego, reaktor nr. 4 w elektrowni jądrowej w Czarnobylu uległ zniszczeniu w wyniku szeregu eksplozji. Radioaktywna chmura przeszła nad europejską częścią ZSRR, Europą Wschodnią, Skandynawią i w końcu dotarła do Ameryki. Konsekwencje katastrofy okazały się tak poważne, iż rząd ZSRR musiał rozpocząć ewakuację okolicznych miasteczek i wiosek. Wokół elektrowni utworzono Strefę Zamkniętą o promieniu 30 km, aby powstrzymać mieszkańców przed powrotem na skażony teren. Pomimo katastrofy, elektrownia w Czarnobylu funkcjonuje nadal. Jej istnienie na niezamieszkanym terenie pozwoliło Radzie Ministrów ZSRR założyć w Strefie Zamkniętej sieć tajnych laboratoriów.
+
+11 czerwca 2006 – W Strefie Zamkniętej zapłonęło oślepiające światło, rozświetlając parujące chmury. Po chwili zupełnej ciszy grom z jasnego nieba zatrząsł ziemią. Większość sił rządowych strzegących terenu zginęła na miejscu.
+
+Rok 2008 – Naukowcy wciąż nie są w stanie wyjaśnić, co zaszło. Rzadkie ekspedycje do Zony zwykle kończą się tragicznie, a ocalali opowiadają historie o zmutowanych zwierzętach.
+
+Do roku 2010 na teren Zony trafiło według różnych źródeł od 100 do 300 nieznanych osób. Nazywają się stalkerami i utrzymują się ze zbierania tworów zwanych artefaktami, które sprzedają za znaczne pieniądze.
+
+Rok 2011 – Pomimo kordonu wojskowego, fenomen stalkerów rośnie w siłę. Podróżują oni głównie po obrzeżach Zony i nie zapuszczają się na nieznany teren w centrum. Nieliczne próby zapuszczenia się w głąb Zony spełzły na niczym.
+
+Rok 2012 – Stalker o imieniu Striełok rozwikłał tajemnicę Mózgozwęglacza, stworzonego przez ludzi emitera psionicznego, który przez lata blokował wejście do centrum Zony. Po jego wyłączeniu wszyscy stalkerzy ruszyli do Zony. Niektórzy z nadzieją znalezienia żyły artefaktów, inni w poszukiwaniu Spełniacza Życzeń. Odkrywszy tajną drogę prowadzącą do centrum Zony, rząd Ukrainy decyduje się wysłać wojsko z operacją na wysoką skalę pod kryptonimem Tor Wodny, mającą na celu wzięcie elektrowni jądrowej w Czarnobylu pod stałą kontrolę. Zgodnie z planem operacji, pierwsza ekspedycja wojskowa zostaje wysłana na zwiad powietrzny miejsc pokrytych anomaliami, w celu sporządzenia szczegółowych map terenu, po czym zostaje wysłany w głąb Zony ciężkozbrojny powietrzny oddział wojskowy. Pomimo drobiazgowych przygotowań operacja skończyła się porażką i żaden ze śmigłowców nie wrócił do bazy. Aby poznać przyczynę niepowodzenia operacji, rząd wysyła do centrum Zony swojego agenta – Majora Diegtiarowa, pracującego dla ukraińskiej służby bezpieczeństwa (SBU). Przebrany za stalkera, wyposażony w karabin, racje żywnościowe na dwa tygodnie i radio, rozpoczyna podróż do centrum Zony. Od teraz jego losy spoczywają w rękach gracza.
+
+Losy Ogończy
+Wątkiem głównym w grze jest poszukiwanie przyczyn katastrofy śmigłowców przez majora Diegtiarowa. W trakcie gry, podczas badania wraków helikopterów, rozmów ze stalkerami, pułkownikiem Kowalskim i porucznikiem Sokołowem, gracz poznaje szczegóły losów wszystkich śmigłowców.
+
+Wszystkie śmigłowce wystartowały na 90 sekund przed emisją. Do Elektrowni w Czarnobylu planowano dolecieć w 12 i pół minuty, jednak już po 9 minutach utracono łączność z Ogończą 4, a chwilę później wszystkie helikoptery się rozbiły:
+
+Rozgrywka
+
+
+Gra ma cechy zarówno first-person shooterów, jak i komputerowych gier fabularnych. Widok wirtualnego świata jest oglądany z perspektywy pierwszej osoby. Gracz może wchodzić w interakcję z bohaterami niezależnymi, którzy mogą dostarczyć mu przydatnych podczas gry informacji, zlecić misję lub zaoferować różnego rodzaju usługi.
+
+Gdy postać gracza zostanie zaatakowana, uderzy się lub oparzy, spada jej poziom zdrowia. Może je uzupełnić za pomocą apteczek, artefaktów lub leczniczych pancerzy i hełmów.
+
+Kiedy gracz się porusza, spada jego poziom energii. Im bardziej jest obciążony lub głodny tym szybciej się męczy, co powoduje spowolnienie lub brak możliwości ruchu. Limit obciążenia wynosi 50 kg. Po przekroczeniu granicy 60 kg nie można się poruszać.
+
+W grze zauważalne są zmiany atmosferyczne. Dzień w Zonie trwa 24 minuty. 1 minuta to 6 sekund. Powszechną walutą w Zonie są ruble.
+
+Zmiany i nowości w grze
+Foto-realistycznie odwzorowana strefa zamknięta – miasto Prypeć, stacja kolejowa w Janowie, opuszczona fabryka „Jupiter”, wysiedlona wioska Kopaczi i wiele więcej innych miejsc, odtworzonych na podstawie ich prawdziwych odpowiedników.
+Zupełnie nowa fabuła i masa postaci unikalnych.
+Udoskonalone i rozszerzone zadania poboczne, które nie są już generowane automatycznie. Każde z nich posiada odrębny wątek fabularny.
+Przywrócone stare mutanty: Chimera i Burer. Ulepszone zachowanie i nowe umiejętności mutantów.
+Nowe środowisko A-Life, stworzone na podstawie najbardziej lubianych przez graczy elementów z dwóch poprzednich gier.
+Emisje znacznie wpływają na świat Zony.
+Dodano do gry możliwość snu. 
+Nowy interfejs. 
+Możliwość zastąpienia broni bocznej (pistoletu) drugą bronią główną.
+Możliwość kontynuacji gry w trybie freeplay po jej ukończeniu. 
+Stalkerzy sami eliminują zagrożenie ze strony mutantów, omijają anomalie i szukają artefaktów.
+Mutanty omijają pociski wystrzelone w swoją stronę i starają się uciec w wypadku, gdy stwierdzą, że nie mają szans na wygraną.
+Brak możliwości przeszukiwania zwłok mutantów.
+Unikatowe anomalie, stworzone specjalnie z myślą o zadaniach fabularnych.
+Stan broni i kombinezonów wyświetlany jest tuż obok nich.
+Gra wykorzystuje silnik X-Ray w wersji 1.6. 
+
+Polskie wydanie
+W przeciwieństwie do dwóch poprzednich części wydanych przez CD Projekt, wydawcą gry S.T.A.L.K.E.R.: Zew Prypeci w Polsce jest Cenega Poland. W celu zachowania ciągłości serii, polski wydawca zdecydował się zachować specyficzną dla serii S.T.A.L.K.E.R.'' formę tłumaczenia, wykorzystując znanego z poprzednich części lektora Mirosława Uttę.
+
+
+
+Linki zewnętrzne
+

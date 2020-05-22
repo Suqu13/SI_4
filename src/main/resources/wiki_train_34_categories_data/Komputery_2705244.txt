@@ -1,0 +1,43 @@
+
+TCO (Tjänstemännens Centralorganisation) – norma będąca certyfikatem jakości, przyznawanym głównie dla monitorów komputerowych oraz elektronicznych urządzeń biurowych, oceniających ich zgodność m. in. pod względem: emisji promieniowania, ergonomii, energooszczędności i ekologii. Definiuje następujące parametry: czytelność i stabilność obrazu, odporność na zakłócenia zewnętrzne, emisję promieniowania, energooszczędność oraz bezpieczeństwo elektryczne. Certyfikacja jest prowadzona przez szwedzką konfederację zawodową TCO Development (Unia Pracodawców), będącą spółką zależną od Tjänstemännens Centralorganisation Organization (TCO), bezpośrednio odpowiedzialnej za rozwój i przyznawanie certyfikatów zgodności. Norma jest głównie znana z certyfikacji monitorów komputerowych (TCO 95, 99, 03, 5.0, 6.0, 7.0). Jest także przyznawana dla: drukarek (TCO 99), mebli biurowych (TCO 04) i telefonów komórkowych (TCO 01).
+
+Certyfikacja TCO Development
+Norma TCO jest ukierunkowana głownie na jakość i trwałość produktów IT. Certyfikacja przez TCO Development - organizację, która globalnie zajmuje się jakością produktów od 1992, a siedziba mieści się w Sztokholmie w Szwecji oraz Ameryce Północnej i Azji. Producenci IT często wybierają certyfikację TCO dla produktów IT jako część strategii utrzymania wysokiej jakości. Produkty otrzymujące certyfikat, spełniają szeroki zakres kryteriów z zakresu środowiska, społecznej i ekonomicznej odpowiedzialności. Wszystkie produkty otrzymujące certyfikat, są wcześniej testowane i przebadane przez niezależne laboratorium badawcze w celu sprawdzenia zgodności z zespołem norm. Certyfikacja produktów objętych normami TCO jest dostępna dla następujących kategorii produktów:
+Wyświetlacze komputerowe (w szczególności monitory komputerowe)
+Laptopy
+Komputery All-in-One
+Tablety 
+Projektory 
+Telefony
+
+Kryteria
+Aby dany produkt otrzymał certyfikację powinny zostać spełnione następujące kluczowe kryteria:
+Wydajność energetyczna (obowiązująca norma Energy Star)
+Zmniejszenie występowania niebezpiecznych substancji (kadm, rtęć, ołów i chrom sześciowartościowy)
+Ergonomika i przystosowanie produktu przyjaznego w użytkowaniu (kąty widzenia, ostrość i kontrast, właściwości akustyczne)
+Bezpieczeństwo promieniowania i emisji elektromagnetycznej (testowanie produktów pod względem bezpieczeństwa podzespołów elektrycznych i emisji elektro-magnetycznej)
+Design oraz recycling (bezpieczeństwo utylizacji produktu)
+Żywotność produktu (wydłużone normy czasowe dla bezawaryjnej pracy)
+Pakowanie (opakowanie nie powinno zawierać niebezpiecznych substancji i powinno być bezpieczne dla transportu produktu)
+System zarządzania środowiskiem (ISO 14001 i EMAS)
+Testowanie dodatków (wszystkie dodatkowe części dołączane, są testowane wg. tych samych parametrów co produkt)
+Odpowiedzialność społeczna za warunki pracy (programy CSR włączając EICC i SA8000 oraz audyt warunków pracy) 
+
+Wersje
+Większość monitorów spełnia normy TCO. Ze względu na rok i poziom norm występują różne wersje norm TCO (poczynając od najstarszych):
+TCO 95
+TCO 99
+TCO 0.3
+TCO 5.0
+TCO 6.0
+Zobacz też
+VESA
+Energy Star
+ISO
+
+
+
+Literatura
+Erik Boivie: Global standard. How computer displays worldwide got the TCO logo.'' Premiss Forlag, 2007. ISBN 978-9185343430 
+
+Linki zewnętrzne

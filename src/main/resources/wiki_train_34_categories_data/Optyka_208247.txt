@@ -1,0 +1,13 @@
+Pole obrazowe obiektywu – pole rzutowania obrazu przez obiektyw, w którym możliwe jest naświetlenie materiału światłoczułego. 
+
+Ze względu na budowę obiektywu fotograficznego pole obrazowe dzieli się na trzy części:
+środkową, w której jasność i ostrość obrazu jest jednakowa, ta cześć nazywana jest również polem krycia;
+pierwszy pierścień, w którym pogarsza się ostrość;
+drugi pierścień, w którym pogarsza się ostrość i jasność.
+W fotografii używa się przede wszystkim pierwszej części pola obrazowego. Pierścienie powodują między innymi efekt winietowania.
+
+Wielkość pola odwzorowania nie jest stała i zależy od ustawionej przysłony. Najmniejsze pole odwzorowania występuje przy ustawieniu na nieskończoność.
+
+Pole obrazowe jest szczególnie ważne w fotografii wielkoformatowej, w której ruchy elementów aparatu wielkoformatowego zależą nie tylko od konstrukcji samej kamery ale i od odpowiednio dużego pola krycia. Z tego powodu producenci obiektywów do kamer wielkoformatowych w specyfikacji obiektywu podają poza ogniskową i kątem widzenia również średnicę pola obrazowego.
+
+

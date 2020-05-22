@@ -1,0 +1,68 @@
+Autobusy standardowe VÖV – zunifikowane autobusy liniowe opracowane i produkowane w latach 1968-ok. 1992, głównie w RFN według wytycznych ówczesnego zachodnioniemieckiego Związku Publicznych Zakładów Komunikacyjnych (Verband Öffentlicher Verkehrsbetriebe, w skrócie: VÖV), poprzednika dzisiejszego Związku Niemieckich Przedsiębiorstw Komunikacyjncyh (Verband Deutscher Verkehrsunternehmen, w skrócie: VDV).
+
+Autobusy te produkowane były przez różnych producentów ale miały te same parametry ujęte w specjalnym katalogu (Lastenheft). .
+Pomysłodawcą opracowania zunifikowanego autobusu miejskiego dla (zachodnio)niemieckich przedsiębiorstw komunikacyjnych były zakłady komunikacyjne w Hamburgu – Hamburger Hochbahn AG, które w 1959 zaproponowały skonstruowanie standardowego pojazdu, co pozwoliłoby na ujednolicenie taboru, a co za tym idzie, obniżyło koszty produkcji dzięki produkcji masowej, oraz koszty eksploatacji i napraw dzięki użyciu tych samych elementów oraz uproszczeniu i ujednoliceniu konstrukcji autobusów różnych producentów. Wspólnie z VÖV utworzyły one grupę roboczą "Arbeitskreis Standard-Linienbus", która zajęła się zagadnieniem konstrukcji takiego autobusu. Pomysł narodził się w okresie, kiedy w latach 50. transport publiczny zaczął przegrywać z transportem indywidualnym i baczniej przyglądano się kosztom eksploatacji autobusów.
+
+Autobus standardowy VÖV-I i StÜLB
+
+Katalog wymagań stawianych nowemu pojazdowi wymieniał m.in. następujące cechy standardowego auotbusu: długość 11 m i napęd z umieszczonego na zwisie tylnym silnika o mocy co najmniej 150 KM (a później 200 KM). Określono wymiary pojazdu, wysokość podłogi i stopni wejściowych, wymiary drzwi i okien, ich odstępy, liczbę i ustawienie siedzeń oraz wygląd stanowiska kierowcy identyczne w każdym autobusie. Dodatkowo stworzono wymagania dla wersji autobusu międzymiastowego o długości 11,7 m. Produkcji autobusu standardowego podjęli się Büssing, Magirus-Deutz, MAN i Mercedes-Benz a nawet dwaj producenci zagraniczni Gräf & Stift (Austria, na rynek własny), Ikarus (Węgry, mała seria dla Hamburga).
+
+
+Image:Man_bus_1_sst.jpg|przegubowy miejski autobus generacji VÖV-I MAN
+Image:Mercedes-Benz O 305 Heppenheim 100 1915.JPG|miejski autobus generacji VÖV-I Mercedes-Benz (typ O 305)
+
+
+Prototypy standardowego liniowego autobusu (stąd skrót SL na oznaczenie tego modelu) zaprezentowali w 1967 r.: Daimler-Benz (model O 305), Magirus (model 150 S 11 N) i Büssing (model Präfekt 13 VÖV).
+Weszły one do produkcji seryjnej w 1968 r. (przy czym Büssing zmienił oznaczenie swojego modelu na die Präfekt 13 Standard). Optycznie pojazdy były do siebie podobne, najbardziej różniły się atrapami ściany przedniej różnie zaprojektowanymi przez każdego z producentów w indywidualny sposób. Podwozia i silniki powyższych producentów wykorzystali też konkurenci: Kässbohrer produkujący autobusy marki Setra i G. Auwärter, producent marki Neoplan, do stworzenia własnych autobusów pierwszej generacji VÖV – lecz bez powodzenia. Pozostali oni więc przy produkcji autobusów miejskich nie odpowiadających wytycznym VÖV.
+MAN zaprezentował swój model na targach IAA w 1969 r. ale za to od razu w dwu wersjach: ze ścianą przednią zgodnie ze standardem VÖV (z wygiętą poziomo szybą) oraz ze ścianą przednią dla modelu podmiejskiego (StÜLB) ze zwykłą szybą przedniego okna. Do produkcji seryjnej wszedł model 750 HO-SL z przodem według standardu VÖV.
+W 1971 r. MAN przejął zakłady Büssing i chwilowo produkowane w nich autobusy nosiły oznaczenie MAN-Büssing, potem już tylko MAN. Produkowano tu typy SL 195, potem SL 200. Po włączeniu zakładów Magirus-Deutz do koncernu IVECO na rynek trafiły też standardowe autosbusy marki IVECO. W roku 1971 węgierski Ikarus w kooperacji z Ferrostahl AG oraz Gesellschaft für Verkehrsberatung und Verfahrenstechnik GVV (firmą-córką hamburskiego przewoźnika metra HVV, zajmująca się przewozami autobusowymi), zbudował prototyp autobusu miejskiego Ikarus 190, zbliżony do niemieckich konstrukcji. Był on przeznaczony na rynek RFN co było ewenementem w państwach z obozu RWPG. W sumie Ikarus sprzedał w ciągu kilku lat do Hamburga 154 autobusy.
+
+Oprócz modelu solo powstał też model przegubowy z silnikiem z tyłu pojazdu (SG = Standardgelenkbus). Mercedes oznaczył go jako O 305 G, MAN miał w ofercie kilka wariantów: SG 192, SG 220, SG 240 – różniących się długością, silnikiem i napędem (oferowano autobusy "pchacze" z silnikiem umieszczonym z tyłu i napędzaną trzecią osią oraz autobusy "ciągniki" z napędem na oś środkową). Drugi człon dla autobusów przegubowych MAN-a produkowała fabryka Göppel stąd różniły się one od siebie np. umiejscowieniem drzwi.
+W niektórych autobusach SL i SG MAN stosował zaokrąglone boczne tylne szyby a w innych nie.
+
+Specjalna grupa pod nazwą Standard-Überlandomnibus, w skrócie StÜLB opracowała standardowy model podmiejski. Był on dłuższy od modelu miejskiego (11,7 m), miał więcej miejsc siedzących, wąskie drzwi przednie (rzadziej też o normalnej szerokości) i najczęściej nie miał z boku kasety na tablice kierunkowe nad oknami. Model ten miał zaokrągloną ścianę przednią, zwaną ścianą StÜLB. Mercedes oferował go pod oznaczeniem O 307, MAN oznaczył go jako SÜ 240. Rzadziej sprzedawano model podmiejski przegubowy np. MAN SL 192 Ü 18 o dłg. 18 metrów i krótszy SG 220 Ü.
+
+Ściana przednia modelu podmiejskiego bardziej spodobała się użytkownikom i producenci zaczęli ją stosować wymiennie z przodem VÖV w modelu miejskim (MAN od 1972 r., Mercedes od 1974 r.). W końcu w przypadku autobusów MAN przód StÜLB wyparł w ostatnich latach produkcji modele z przodem VÖV. Mercedes do końca oferował pojazdy z przodem VÖV, choć w coraz mniejszych ilościach. Niektóre zakłady od początku zamawiały autobusy miejskie tylko z przodem "podmiejskim" – np. BVG w Berlinie Zachodnim.
+
+Na bazie Mercedesa powstał autobus półtorapokładowy jednak nie zyskał on takiego poklasku jak podobne modele z czasów przed standardem VÖV.
+Dla zakładu komunikacji miejskiej w Berlinie Zachodnim BVG opracowano model piętrowego autobusu na bazie standardowego. Był on produkowany przez MAN (model SD 200, podwozie) i karosowany przez berlińskie firmy, głównie Waggon-Union.
+
+Autobusy standardowe I generacji (VÖV I) szybko trafiły do zakładów komunikacyjnych RFN i są nierozłącznym elementem krajobrazu zachodnioniemieckich miast lat 70. i 80. XX w. Część z nich trafiła na eksport, m.in. piętrusy MAN do zakładów w Bagdadzie.
+Pod koniec lat 70. i na początku lat 80. wyprodukowano nieliczne egzemplarze z próbnym napędem metanolowym. MAN skonsturował też w 1983 r. oparciu o model przegubowy autobus trójczłonowy długości 24 m – typ SGG 280. Dla Solingen powstały też trolejbusy przegubowe MAN SG 200 HO.
+Nieuchronnie jednak zbliżał się czas kiedy konstrukcję z lat 60. miała wyprzeć nowa generacja pojazdów. Prace nad opracowaniem modelu standardowego II generacji rozpoczęto już pod koniec lat 70.
+Autobusy I generacji zaczęto wycofywać na przełomie lat 80/90. kiedy do niemieckich zakładów komunikacyjnych trafiły pierwsze pojazdy niskopodłogowe. Wiele z nich zostało sprzedanych do prywatnych operatorów również zagranicę głównie w Europie Środkowej i Wschodniej.
+
+
+Image:Man_bus_3_sst.jpg|miejski MAN SL 200
+Image:Man_dd_sst.jpg|piętrowy MAN SD 200)
+Image:O_bahn_adelaide_sst.jpg|Mercedes-Benz na linii autobusu prowadzonego w Adelaide, Australia)
+Image:Mercedes-Benz O 307 in Weinheim 100 3584.jpg|podmiejski Mercedes-Benz O 307)
+
+
+Autobus standardowy VÖV-II (S80) i Ü80
+
+Model II generacji standardu VÖV (VÖV-II / SL II) roboczo zwany też S80(autobusem miejskim lat 80tych),powstał w 1979 roku.Miał kanciaste nadwozie z szerokim pasem między oknami a krawędzią dachu (żartobliwie nazywane "pudełkiem na buty"). Moc silnika zwiększono do min. 240 KM. Po przetestowaniu prototypowych serii podjęto w połowie lat 80. seryjną produkcję. Oprócz MAN (model SL 202) i Mercedes-Benz (model O 405) produkcję autobusu standardowego drugiej generacji podjął też Neoplan (model N 416 SLII) mimo że ten ostatni nie porzucił planów budowy własnego autobusu miejskiego, najlepiej niskopodłogowego. Ostatni wielki producent, Kässbohrer, produkował miejską wersję autobusu własnej konstrukcji (niestandardowego) typu S 215 SL i przegubowy SG 219 SL
+Berliński Waggon-Union znowu produkował autobus piętrowy dla Berlina (MAN SD 202).
+Wersje przegubowe pojazdów sprzedawano pod oznaczeniami: O 405 G (Mercedes-Benz) i SG 242/292/312 i SG 242H (MAN). Neoplan dopiero od drugiej połowy lat 80. oferował autobus przegubowy (N 421 SGIII) niskopodłogowy w I członie z wysoką podłogą w II członie – typ N 421 SGIII.
+Wreszcie też opracowano model minibusu, którego brakowało na rynku: Neoplan jako pierwszy producent zaoferował w 1983 r. krótką wersję pojazdu standardowego (typ N 407). Na wystawie motoryzacyjnej IAA we wrześniu 1985 również Mercedes-Benz pokazał swój pierwszy midibus (typ O 402), krótszego i węższego od standardowego O 405 lecz zbudowanego z wykorzystaniem wielu komponentów większych pojazdów – nadwozie dostarczał Göppel. MAN miał w ofercie typ SM 152 i SM 192, który tak jak produkt konkurenta był produkowany przy współpracy z Göppel w Augsburgu.
+Również w przypadku II generacji powstały trolejbusy dla Solingen – tym razem jednak nie przegubowe ale solo 3-osiowe: MAN SL 172 HO.
+Model podmiejski II standardowej generacji, Ü80, został opracowany przed modelem miejskim, od którego różnił się głównie pojedynczymi drzwiami przednimi i większą liczbą miejsc siedzących a w przypadku Mercedesa (typ O 407) kształtem wyświetlacza nad przednią szybą. Modele innych producentów nie odniosły zresztą sukcesu.
+MAN początkowo nadal produkował starszy model (I generacji) czyli SÜ 240. W końcu opracował model II generacji – typ SÜ 242, który jednak nie stał się popularny. Do produkcji masowej wprowadzono za to model ÜL 242 / 272, bazujący na wersji miejskiej, ale różniący się znacznie wyglądem (nadwozie oparte było o autokar). Neoplan opracował model N416 Ü ale znacznie lepiej sprzedawały się inne modele tej marki. Czwarty producent, Kässbohrer, zbudował tylko 6 sztuk autobusu Setra Ü80 ale zarzucono pomysł produkcji seryjnej. Zamiast tego produkowano model niestandardowy własnej konstrukcji SL 215, który okazał się najlepiej sprzedającym podmiejskim autobusem w RFN i pozostawił w tyle modele standardowe. Tak więc projekt Ü80 nie sprawdził się – nie powtórzył sukcesu modelu miejskiego.
+
+Od połowy lat 90. autobusy II generacji standardowej wychodzą z użycia, zastępowane przez pojazdy niskopodłogowe.
+ 
+Autobusy II generacji podobnie jak pojazdy I generacji trafiały też zagranicę – nowe bądź używane.
+
+
+Image:Man_melbourne_sst.jpg|MAN miejski II generacji VÖV w Melbourne, Australia)
+Image:BRN bus MB O407 100 0355.jpg|Mercedes-Benz podmiejski (typ O 407)
+Image:Mercedes_voev_ii_sst.jpg|Mercedes-Benz podmiejski prototyp Ü 80
+
+
+Zobacz też
+Autobus
+
+
+
+
+

@@ -1,0 +1,15 @@
+Stopy niklu  - stopy metali,  w których dominujący lub znaczny udział ma nikiel.
+
+Najczęściej stosowanymi stopami niklu są:
+Monel – o symbolu NiCu30Fe2Mn1, zawierający 30% miedzi, 2% żelaza i 1% manganu. Metal plastyczny, nadający się od obróbki plastycznej na zimno i gorąco, jednocześnie posiadający bardzo dobre własności wytrzymałościowe i wysoką odporność na korozję. Stosowany na elementy maszyn pracujących w styczności z agresywnymi substancjami np. łopatki turbin parowych
+Platynid (FeNi29Co17Pr) i Fernico (FeNi42Mn1Pr). Stopy wytwarzane metodami metalurgii próżniowej (oznaczenie Pr). W zasadzie są stalami specjalnymi, lecz ze względu na ich unikalność zalicza się je do stopów niklu. Posiadają współczynnik rozszerzalności liniowej równy szkłu. Dzięki temu stosowane są na oprawy elementów szklanych pracujących w podwyższonych temperaturach, np. lamp elektronowych i odpowiedzialnych żarówek.
+Inwar (FeNi35Mn1) - stal specjalna posiadająca w zakresie do 100 °C współczynnik rozszerzalności liniowej bliski zeru. Stop stosowany do produkcji odpowiedzialnych przyrządów pomiarowych.
+Elinvar (FeNi36Cr12W4Mo2) – stal specjalna posiadająca bardzo dobre właściwości sprężyste i bardzo niewielki współczynnik rozszerzalności liniowej. Stosowany na sprężyny zegarowe.
+Permalloy – stop niklowo–żelazowy, bez domieszek węgla. Stosowany na materiały ferromagnetyczne.
+Alumel (NiAl12Mn2Si1) i chromel (NiCr10) – stopy stosowane na termopary.
+Nichrom (NiCr9Pr i NiCr20Pr) – Stopy wytwarzane metodami metalurgii próżniowej, charakteryzujące się dużą odpornością, a jednocześnie żaroodpornością. Stosowane na grzejne elementy oporowe. Stosowane także na elementy silników lotniczych pomp do substancji agresywnych i pracujących w wysokich temperaturach itp.
+Nikiel stopowy dla zastosowań w elektronice zawierający od 1% do 5% manganu, 4% wanadu i domieszki magnezu – stosowany do produkcji elementów lamp elektronowych.
+Nikiel stopowy na elektrody świec zapłonowych NiMn5, zawierający około 5 manganu.
+Nitinol (NiTi49-51) stop z pamięcią kształtu. Posiada bardzo szerokie zastowowanie (m.in. biomedycyna)
+
+

@@ -1,0 +1,18 @@
+Stopy łożyskowe – stopy metali wykorzystywane do wylewania panewek łożysk ślizgowych  charakteryzujące się zazwyczaj następującymi cechami:
+niewielką rozszerzalnością cieplną w zakresie temperatur pracy łożyska
+dobrą przewodnością termiczną
+odpornością na ścieranie
+małym współczynnikiem tarcia
+zdolnością pochłaniania niewielkich obcych cząsteczek i możliwością dopasowywania się do powierzchni czopa
+odpornością na kwasy znajdujące się w niektórych smarach.
+średnia odpornością na korozję.
+
+Rodzaje stopów łożyskowych
+Powyższe właściwości można osiągnąć dzięki dobraniu specyficznego składu stopu. Najczęściej są to stopy cynowe, stopy cynowo-ołowiowe, stopy bezcynowe na osnowie ołowiowej, brązy cynowe, brązy ołowiowe, stopy aluminium. Dokładny ich skład określają normy.
+Do najważniejszych stopów łożyskowych należą:
+Stopy cynowe – zawierające 80–90% cyny, 4–13% antymonu i 3–6% miedzi. Struktura stopu składa się z twardej osnowy tworzonej przez igłowate kryształy stopu CuSn, z miękkimi wtrąceniami stopu SnSb. Polska Norma PN-82/H-87111 specyfikuje dwa stopy tego typu, Ł89 (SnSb8Cu3 oraz Ł83 (SnSb11Cu6). Łożyskowe stopy cynowe używane są na łożyska do dużych silników wysokoprężnych.
+Stopy cynowo-ołowiowe – zawierające orientacyjnie 5–20% cyny, 60–85% ołowiu, 5–17% antymonu i do 3% miedzi oraz domieszki niklu, arsenu i kadmu. Polska Norma specyfikuje Ł16 (PbSn16Sb16Cu2), Ł10As (PbSn10Sb14Cu3As) i Ł6 (PbSn6Sb6). Stopy te są tańsze od cynowych, lecz posiadają gorsze własności wytrzymałościowe i cieplne. Stosowane są na łożyska słabiej obciążone i mniej odpowiedzialne.
+
+Do budowy łożysk ślizgowych obecnie powszechnie wykorzystuje się intermetale. Mają one lepsze właściwości w stosunku do dawniej stosowanych łożysk na osnowie ołowiu (babbity) itp. Ważną rolę pełni w nich  tzw. przegroda niklowa zapobiegająca migracji poszczególnych składników intermetalu do innych jego segmentów.
+
+

@@ -1,0 +1,11 @@
+Starzenie stopu – obróbka cieplna, której poddawany jest wcześniej przesycony stop metali (zazwyczaj stop żelaza). Proces ten powoduje poprawę właściwości wytrzymałościowych i twardości oraz pogorszenie plastyczności.
+
+Polega na nagrzaniu stopu przesyconego do temperatury poniżej granicznej rozpuszczalności drugiego składnika, wygrzaniu w tej temperaturze i powolnym chłodzeniu. Podczas procesu z roztworu przesyconego wydziela się składnik znajdujący się w nadmiarze w postaci faz drobnodyspersyjnych. 
+
+Jeżeli proces starzenia zachodzi w temperaturze pokojowej, to nosi nazwę starzenia samorzutnego lub naturalnego. 
+
+Połączone procesy przesycania i starzenia określa się wspólną nazwą "utwardzanie wydzieleniowe". Utwardzaniu wydzieleniowemu poddawane są stopy charakteryzujące się zmienną rozpuszczalnością jednego ze składników w stanie stałym i ma zastosowanie do umacniania metali nieżelaznych oraz stopowych stali austenitycznych i ferrytycznych.
+
+Jeżeli celem utwardzania dyspersyjnego jest uzyskanie maksymalnej twardości i wytrzymałości, należy zwrócić szczególną uwagę na dobór odpowiedniej temperatury starzenia, gdyż przeprowadzenie operacji w zbyt wysokiej temperaturze powoduje tzw. przestarzenie czyli następuje utrata koherencji fazy wydzielonej z osnową oraz koagulacja wydzielonych cząstek. Jest to przyczyną zmniejszenia twardości i wytrzymałości.
+
+Bibliografia

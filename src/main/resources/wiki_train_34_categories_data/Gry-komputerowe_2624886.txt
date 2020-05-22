@@ -1,0 +1,13 @@
+Lightweight Java Game Library (skrót LWJGL) – wolna biblioteka programistyczna przeznaczona dla twórców gier komputerowych napisana w języku Java.
+
+LWJGL daje dostęp z poziomu Javy do wolnych bibliotek często stosowanych w programowaniu gier komputerowych, takich jak OpenGL (biblioteka graficzna), OpenAL (biblioteka audio), OpenCL. Umożliwia także obsługę kontrolerów takich jak gamepady, kierownice i dżojstiki w sposób niezależny od platformy.
+
+Zobacz też
+Minecraft, StarMade - gry sandboksowe oparte na bibliotece LWJGL.
+
+Linki zewnętrzne
+.
+
+
+
+

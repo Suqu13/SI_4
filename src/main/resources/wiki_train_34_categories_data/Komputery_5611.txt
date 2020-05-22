@@ -1,0 +1,19 @@
+Serwer plików  file server – serwer, który udostępnia  w sieci komputerowej określone zasoby plikowe komputera.
+
+Udostępnianie może być zrealizowane poprzez:
+protokół komunikacyjny np.:
+FTP – i wtedy jest to serwer FTP,
+HTTP – i wtedy jest to serwer WWW,
+
+sieciowy system plików np.:
+NFS
+Coda
+Andrew FS
+
+Zobacz też
+
+NCP  NetWare Core Protocol
+SMB  Server Message Block
+Host
+
+

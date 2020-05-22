@@ -1,0 +1,39 @@
+
+
+System zdalnie sterowanego manipulatora promu kosmicznego (ang. Shuttle Remote Manipulator System, SRMS) lub Canadarm – robotyczne ramię stosowane na pokładzie wahadłowców NASA w celu wyjmowania ładunku (satelitów lub modułów stacji) z ładowni promu, a następnie ich wypuszczenia na orbitę okołoziemską. Używane było również do zdejmowania ładunku z orbity i ponownego umieszczenia w ładowni promu. Taka procedura miała miejsce podczas misji STS-32, której celem było przechwycenie satelity LDEF.
+
+Dane techniczne
+Canadarm miał długość całkowitą 15,24 metrów, 38 centymetrów średnicy oraz sześć stopni swobody. Masa ramienia wynosiła 410 kg. W stanie spoczynku było oparte na trzech podporach z zatrzaskowymi zamkami, umocowanymi do podłużnicy przy lewej burcie komory towarowej. Teoretycznie możliwe było wyposażenie wahadłowca w drugie ramię zamocowane przy prawej burcie ładowni symetrycznie do pierwszego. Istniała również możliwość odstrzelenia manipulatora w przypadku awarii uniemożliwiającej zamknięcie pokrywy ładowni. Posiadał on sześć ruchomych miejsc, dzięki czemu ruchy ramienia były podobne do ruchów ludzkiej ręki. Chwytak ramienia działał na podobnej zasadzie jak przesłona w obiektywie aparatu fotograficznego. Początkowo Canadarm mógł obsługiwać ładunki o masie około 330 kilogramów, ale modernizacja w latach 90. zwiększyła jego udźwig dziesięciokrotnie. Takie możliwości cechują manipulator jedynie na orbicie, w warunkach nieważkości na Ziemi Canadarm jest na tyle słaby, że nie zdołałby podnieść sam siebie.
+
+Został zaprojektowany, zbudowany i przetestowany we współpracy z NASA przez kanadyjską firmę SPAR Aerospace.
+
+Użycie
+Canadarm po raz pierwszy został użyty w 1981 roku na pokładzie promu Columbia podczas misji STS-2.
+Szacuje się, że był użyty w ponad 50-ciu misjach wahadłowców. Wyprodukowano 5 ramion SRMS, prócz ramienia dla promu Columbia były jeszcze ramiona dla promów (w nawiasach numer misji podczas których użyto manipulatora po raz pierwszy):
+Challenger (STS-7), zniszczony w 1986 w katastrofie promu, miał posłużyć do uwolnienia, a następnie przechwycenia satelity astronomicznego Spartan.
+Discovery (STS-41-D),
+Atlantis (STS-61-B),
+Endeavour (STS-49).
+
+Za pomocą SRMS na orbitę trafiły m.in. Kosmiczny Teleskop Hubble’a, Ulysses, Solar Max (naprawa w czasie misji STS-41-C), Chandra, TDRS, Lacrosse oraz moduły Międzynarodowej Stacji Kosmicznej (ISS). Po instalacji ramienia Canadarm2 na ISS w wielu misjach wahadłowców do rozbudowy stacji wykorzystywana była współpraca obu ramion (tzw. Canadian Handshake czyli „kanadyjski uścisk dłoni”).
+
+Po katastrofie misji STS-107 w 2003 roku, NASA zaleciła, aby od misji STS-114 do końca programu STS wahadłowce prócz ramienia Canadarm miały również instrument OBSS, czyli specjalną końcówkę z kamerą, która umożliwiała sprawdzenie osłon termicznych promu w przestrzeni kosmicznej. 
+
+Koniec służby
+Ramiona Canadarm znajdujące się na promach Discovery i Atlantis oraz końcówki OBSS można do dziś oglądać w muzeum. OBSS z wahadłowca Endeavour został przymocowany do kratownicy ISS, a ramię wymontowano z ładowni promu i przywieziono do siedziby CSA.
+
+Canadarm w kulturze popularnej
+W filmie Iron Sky Królewskie Kanadyjskie Siły Powietrzne wykorzystywały zmilitaryzowaną wersję Canadarma o nazwie Canadarm 3'' do walki przeciwko nazistom w walce o Ziemię.
+
+Zobacz też
+
+robotyka
+Canadarm2
+
+
+
+
+
+
+
+

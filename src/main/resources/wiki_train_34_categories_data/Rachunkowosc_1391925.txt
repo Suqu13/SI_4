@@ -1,0 +1,15 @@
+Rozliczenia międzyokresowe kosztów – termin w rachunkowości określający koszty związane z zawarciem udokumentowanej transakcji w jednym okresie a dotyczące innego okresu lub wielu okresów.
+
+Rozliczenia międzyokresowe kosztów dzieli się na:
+
+rozliczenia międzyokresowe czynne, prezentowane po stronie aktywów,
+rozliczenia międzyokresowe bierne, prezentowane po stronie pasywów.
+
+Rozliczenia międzyokresowe czynne występują w przypadku gdy transakcja została zawarta i udokumentowana (otrzymano fakturę) w jednym okresie (np. miesiącu), a dotyczy także innych okresów. Do rozliczeń międzyokresowych czynnych zalicza się m.in.: ubezpieczenia, prenumeraty, abonamenty itp.
+
+Przykład
+Przedsiębiorstwo wykupuje prenumeratę czasopisma fachowego na okres od listopada jednego roku do października następnego roku. Faktura w wysokości 1200 zł otrzymana jest w momencie podpisania umowy prenumeraty. Faktura księgowana jest na rozliczenia międzyokresowe czynne i w każdym kolejnym miesiącu 1/12 otrzymanej faktury księgowana jest w koszty okresu.
+
+Rozliczenia międzyokresowe bierne występują w przypadku gdy firma poniosła koszt danego okresu, ale nie otrzymała jeszcze faktury na ten koszt. Przykładem może być np zużycie wody, odczytywane na podstawie licznika, na które faktura przychodzi raz na kwartał na koniec okresu.
+
+

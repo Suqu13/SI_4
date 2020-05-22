@@ -1,0 +1,37 @@
+Ranger 3''' – amerykańska bezzałogowa sonda kosmiczna. Razem ze statkami Ranger 4 i Ranger 5 stanowił drugą serię sond programu Ranger, tzw. Block II. Z powodu serii defektów, planowane zderzenie Rangera 3 z powierzchnią Księżyca nie doszło do skutku. Sonda weszła na orbitę heliocentryczną. Statek sam w sobie stanowił test urządzeń i rozwiązań dla przyszłych lotów międzyplanetarnych i księżycowych.
+
+Plan misji
+Po wystrzeleniu w przestrzeń kosmiczną sonda miała lecieć w kierunku Księżyca, wykonując po drodze jedną korektę trajektorii, a następnie uderzyć w powierzchnię Srebrnego Globu. W trakcie lotu miały zostać wykonane pomiary promieniowania gamma i odbijalności fal radarowych od powierzchni Księżyca. Na odpowiedniej wysokości miała się odłączyć kapsuła z sejsmometrem oraz miał się odpalić jej silnik hamujący, by złagodzić uderzenie. Sonda miała przesłać zdjęcia powierzchni Księżyca wykonane w ciągu 10 minut przed uderzeniem w jego powierzchnię, a sejsmometr miał przesyłać dane o ewentualnej aktywności sejsmicznej Księżyca.
+
+Przebieg misji
+Ranger 3 został wystrzelony 26 stycznia 1962 roku. Z powodu usterki w systemie kierowania rakiety nośnej, sonda otrzymała zbyt dużą, o 2%, prędkość. O fiasku misji zdecydowały jednak błędne komendy, które spowodowały obrót statku w niewłaściwym kierunku. To zaś sprawiło, że jego antena straciła kontakt z Ziemią i nie można było wykonać manewru korekty trajektorii. Statek nie przesłał żadnych zdjęć również z przyczyn technicznych - błędnego sygnału, jaki pojawił się w obwodach sondy. Podczas lotu, statek przez ponad 40 godzin przesyłał dane zbierane przez detektor promieniowania gamma. 28 stycznia, o 23:23 GMT, mijając Księżyc w odległości 36 793 km, Ranger 3 wszedł na orbitę okołosłoneczną i nie zwrócił już żadnych danych.
+
+Budowa i działanie
+
+
+Sonda została zbudowana przez Jet Propulsion Laboratory, część amerykańskiej NASA. Miała wysokość 3,1 m i ważyła 329,8 kg. Na jej szczycie znajdowała się kapsuła o śr. 0,65 m, osłonięta drewnem balsą i wyposażona w silnik na paliwo jednoskładnikowe. Sześciokątna podstawa sondy miała średnicę 1,5 m i pokryta była chromem i złotem. U spodu sondy zamontowano antenę dużego zysku.
+
+Również u spodu zamontowano dwa rozkładane panele ogniw słonecznych. W pozycji rozłożonej miały one rozpiętość 5,2 m, od końca jednego do końca drugiego. Prąd elektryczny generowało 8680 ogniw. Prąd zaś ładował akumulator AgZn. Miał on masę 11,5 kg i pojemność 1 kWh. Moc znamionowa wynosiła 135 W.
+
+Kontrolę nad statkiem sprawował komputer pokładowy, programator oraz system przyjmujący polecenia z Ziemi. Położenie statku kontrolowały wykrywacze Słońca i Ziemi, żyroskopy oraz silniczki korekcyjne. System telemetrii składał się z dwóch nadajników pracujących na częstotliwości 960 MHz. Jeden miał moc 3 W, a drugi 50 mW. Korzystały one z anteny dużego zysku i anteny dookólnej.
+
+Kontrolę temperatury statku zapewniało białe malowanie fragmentów sondy oraz dobrze odbijające pokrycia ze złota, chromu i srebra.
+
+Ładunek
+
+
+Kamera telewizyjna typu widikon - zaprojektowana do wykonania i przekazania zdjęć powierzchni Księżyca z odległości od 4000 do 47 km. Czas ekspozycji powierzchni fotorezystora wynosił 20 ms, co miało zapobiec rozmazaniom obrazu. Operacja skanowania i kasowania systemu elektronicznego widikonu trwała 13 sekund. Skanowanie jednego obrazu trwało 10 sekund. Każda ramka składała się z 200 linii. Szerokość pasma systemu wideo wynosiła około 200 cps. Układ optyczny wykorzystywał, znany z teleskopów astronomicznych, układ Cassegraina. Zwierciadło wtórne kierowało obraz na powierzchnię fotorezystora.
+Detektor promieniowania gamma - identyczny z przyrządem na pokładzie późniejszego Ranger 5. Eksperyment składał się z trzech części: detektora (na 1,83 m długości wysięgniku), 32 kanałowego analizatora amplitudowego i zasilacza wysokiego napięcia. Detektorem był ukośny kryształ jodku cezu (CsI), o średnicy 7,62 cm, otoczony przez 3,175 mm grubości plastyczny scyntylator. Detektor był połączony z fotopowielaczem. Analizator amplitudowy umożliwiał zmagazynowanie 2^16 impulsów w każdym kanale. Widma były pozyskiwane w zakresach 0,1-3,0 MeV i 20-600 keV. Kalibrację umożliwiało pokładowe źródło promieniotwórcze. Średnie zmierzone kosmiczne promieniowanie gamma wynosiło 0,27 zliczeń/cm²/s w zakresie 0,5-2,1 MeV, i 0,67 zliczeń/cm²/s powyżej 2,1 MeV. Pomiary te były potwierdzeniem wcześniejszych pomiarów za pomocą balonów i rakiet suborbitalnych. Instrument miał wykonać ok. 60 godzin obserwacji przed uderzeniem w Księżyc. Miał również wykonać pomiary promieniowania międzyplanetarnego i promieniowania tła dla pomiarów księżycowych. Detektor w pozycji złożonej obserwował niebo przez 12 godzin; resztę czasu działał na wysięgniku. Takie pomiary pozwoliły zmierzyć wpływ samego statku na prowadzone badania.
+Wysokościomierz radarowy - miał zainicjować oddzielenie się kapsuły i wyzwolenie zapłonu jej silnika hamującego (między 19 a 25 km nad powierzchnią) oraz przeprowadzić badania odbijalności fal radarowych przez powierzchnię Srebrnego Globu. Był to standardowy radar impulsowy ze szczytową mocą wyjściową magnetronu między 150 a 400 W. Pracował na częstotliwości 9,4 GHz. Częstość powtarzania impulsów wynosiła 500-600 Hz. Szerokość pasma odbiornika superheterodynowego wynosiła 12-16 mHz, a szum między 11 a 12 dB. Szerokość wiązki anteny wynosiła 4,5°. Wysokościomierz miał być włączony na rozkaz z Ziemi, na wysokości między 198 a 55 km nad powierzchnią Księżyca. Pomiary miały trwać od 9 do 120 sekund.
+Sejsmometr - znajdujący się w kapsule, wraz ze wzmacniaczem, 50 mW nadajnikiem, anteną krzyżową i sześcioma bateriami srebrowo-kadmowymi (mającymi wystarczyć na 30 dni pracy nadajnika). Całość została zaprojektowana do twardego lądowania na powierzchni Księżyca z prędkością 130-160 km/h. Miał za zadanie potwierdzić istnienie, bądź nie, aktywności sejsmicznej na Księżycu, skorupy księżycowej, warstw pyłowych lub zastygłej lawy. Ważący 3,36 kg przyrząd składał się z cewki, magnesu stałego (1,7 kg) zawieszonego na sprężynie, oraz wewnętrznego urządzenia kalibrującego. Aby sejsmometr nie ucierpiał przy lądowaniu i zachował pionową pozycję, wypełniono go ochronnym płynem. Po uderzeniu, płyn miał wycieknąć, a wyzwalacz ciśnieniowy miał zapoczątkować działanie instrumentu.
+
+Planowana sekwencja startu, lotu i zakończenia misji sondy Ranger 3
+
+Plik:Ranger 3-4-5 Rocket Flight Plan.jpg|Przebieg sekwencji startu
+Plik:Ranger 3-4-5 Mid-course Maneuver.jpg|Manewry podczas lotu
+Plik:Ranger 3-4-5 Terminal Maneuver.jpg|Ostatnia faza misji
+
+
+Bibliografia
+
+Linki zewnętrzne

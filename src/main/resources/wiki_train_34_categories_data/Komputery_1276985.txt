@@ -1,0 +1,9 @@
+W czerwcu 1979 pojawiła się unowocześniona wersja komputera Apple II.
+Apple II Plus wprowadzał kilka istotnych zmian: 
+nowy, zmiennoprzecinkowy BASIC napisany przez Microsoft, 48 KB RAM, spore zmiany w ROM - poprawiono Autostart, procedury współpracy ze stacją dyskietek, poprawiono wyświetlanie tekstu i grafiki.
+
+
+
+
+
+

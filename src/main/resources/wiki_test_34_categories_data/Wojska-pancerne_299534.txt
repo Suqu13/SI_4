@@ -1,0 +1,66 @@
+T-90''' – rosyjski współczesny czołg podstawowy.
+
+Historia
+Czołg T-90 wszedł do produkcji w 1993 roku. Jego konstrukcja jest oparta na prototypie noszącym oznaczenie T-88. Pierwotnie zakładano stworzenie całkowicie nowej konstrukcji, ale wersja produkcyjna bazuje na T-72BM, z wykorzystaniem podzespołów czołgu T-80. T-90 posiada pancerz reaktywny nowej generacji Kontakt-5 na kadłubie i wieży.
+Ewenementem jest, że Rosjanie zdecydowali się na eksport tak nowoczesnego czołgu, który dopiero co wprowadzili do służby w swojej armii. Takie zachowanie wymuszone jest silną konkurencją na rynkach światowych.
+
+Wersje pojazdu
+T-90''' - wersja oryginalna
+T-90E - wersja eksportowa
+T-90K - wersja dowódcza, posiadająca dodatkowy sprzęt łączności i nawigacyjny.
+T-90MBT - wersja do walki elektronicznej
+T-90A - wersja seryjna dla armii rosyjskiej ze spawaną wieżyczką, silnik V-92S2, wizjer termiczny ESSA. Znany także jako T-90 Vladimir lub T-90M.
+T-90S - wersja eksportowa
+T-90SK - eksportowa wersja T-90K
+T-90S "Bhishma"''' - wersja dla armii indyjskiej, pozbawiona aktywnego systemu ochrony Sztora
+T-90SA - wersja dla armii algierskiej
+T-90M - wersja zmodernizowana (M)
+T-90MS - wersja zmodernizowana na eksport
+BREM-72''' - opancerzony pojazd ratunkowy
+MTU-90''' - most czołgowy z modelem MLC50
+IMR-3''' - pojazd inżynieryjny
+BMR-3''' - pojazd usuwający miny
+
+Użytkownicy
+Obok armii rosyjskiej, czołgi używane są również w innych armiach (które nabywały wersję eksportową T-90S). W lutym 2001 roku Indie zakupiły od Rosji 310 czołgów T-90S za 780 mln USD. Od 2006 trwa produkcja licencyjna 1330 maszyn zmodernizowanej wersji T-90M. W Indiach T-90S, noszący nazwę Bhishma, zastąpił Vijayanta. 180 sztuk T-90S otrzymała armia Algierii. W Armii Rosyjskiej służy około 400 czołgów T-90. Jeden egzemplarz został zakupiony przez KRLD w sierpniu 2001 roku. Zakup 180 czołgów T-90S negocjuje Arabia Saudyjska. W przetargu na czołg dla Armii Malezyjskiej przegrał konkurs z polskim PT-91M .
+
+Uzbrojenie
+Uzbrojenie główne: 
+gładkolufowa armata 125 mm 2A46M-4
+Uzbrojenie dodatkowe: 
+sprzężony karabin maszynowy 7,62 mm PKT lub PKTM
+przeciwlotniczy karabin maszynowy 12,7 mm 9P17 NSWT lub 9P49 Kord (wersje NSW)
+
+Armata 125 mm 2A46M-4 jest przystosowana do strzelania pociskami:
+3BM42 (APFSDS)
+3BK18M (HEAT) 
+3OF26 (odłamkowo-burzący)
+9M119 Refleks (przeciwpancerny pocisk kierowany)
+9M120 Swir (przeciwpancerny pocisk kierowany)
+
+Wyposażenie
+
+Jednym z ciekawszych elementów wyposażenia T-90 jest system ochrony aktywnej TSzU-1-7 Sztora, mający na celu zmniejszenia prawdopodobieństwa trafienia przez rakietowe pociski przeciwpancerne. W jego skład wchodzi stacja zakłóceń optycznych OTSzU-1, której umieszczone po bokach lufy reflektory emitują modulowane promieniowanie podczerwone w sektorze +/- 20° od osi lufy. Przeznaczone są do zakłócania systemów kierowania pocisków zdalnie kierowanych półautomatycznie (np. TOW, HOT, MILAN, M47 Dragon). Imitując światło trasera pocisku, system Sztora może zakłócić funkcjonowanie umieszczonego na wyrzutni systemu śledzenia pocisku, a tym samym spowodować przekazywanie błędnych komend kierujących. Reflektory te mogą także służyć jako źródło promieniowania podczerwonego na potrzeby przyrządów noktowizyjnych. Drugim komponentem systemu Sztora jest system zakłócania pocisków samonaprowadzających się półaktywnie laserowo (jak AGM-114 Hellfire, AGM-65 Maverick). System wykrywa oświetlenie czołgu przez promień lasera w zakresie 360 stopni wokół, po czym obraca wieżę czołgu i wystrzeliwuje w kierunku pocisku granaty 3D17 kalibru 81 mm systemu Tucza (12 wyrzutni na wieży), stawiające nieprzenikalną dla lasera zasłonę aerozolową na odległości 55-70 m od czołgu, w ciągu trzech sekund od sygnału o oświetleniu. Może to spowodować zerwanie samonaprowadzania się pocisku, kierującego się na odbity od czołgu promień lasera.
+
+Odpowiedniki czołgu
+Odpowiedniki czołgu T-90 (głównie w kategoriach eksportowych):
+T-84 (T-80UD)
+Challenger 2
+Abrams M1A1HA i M1A2
+Leopard 2 A5/A6
+Leclerc
+PT-91 
+K1 Rokit
+P'okp'ung-ho
+
+Zdjęcia
+
+Plik:Indian Army T-90.jpg|Czołg T-90 w barwach armii indyjskiej
+Plik:2008 Moscow May Parade Rehearsal - T-90.JPG|Profil czołgu T-90 - zdjęcie ze Zwycięskiej Parady Majowej (2008 rok).
+Plik:T-90 engine.jpg|Silnik T-90
+Plik:T-90-ET 2010 (7).jpg|Wnętrze T-90
+
+
+
+
+Linki zewnętrzne

@@ -1,0 +1,5 @@
+System/34''' - wielostanowiskowy, wielozadaniowy minikomputer firmy IBM, wprowadzony na rynek w 1977 r., obsługujący do kilkudziesięciu terminali, który zastąpił System/32 (aplikacje System/32 można było uruchamiać w specjalnym trybie). Większość dużych firm przeniosła się potem do System/38, natomiast mniejsze firmy migrowały do System/36. System/36 i System/38 zostały następnie skonsolidowane do linii AS/400.
+
+
+
+

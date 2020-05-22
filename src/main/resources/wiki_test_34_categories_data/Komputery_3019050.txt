@@ -1,0 +1,23 @@
+Nexus 7''' drugiej generacji (często nazywany Nexus 7 2013) – tablet firmy Google oparty na systemie Android, wyprodukowany przez ASUS. Jest trzecim tabletem z serii Nexus, po pierwszej generacji Nexus 7 oraz Nexus 10. Został zaprezentowany 26 lipca 2013.
+
+Opis urządzenia
+Szczegółowa specyfikacja
+ekran: 7.02", dotykowy, LCD IPS, rozdzielczość 1920x1200 w proporcjach 16:10.
+procesor: Qualcomm Snapdragon S4 Pro APQ8064-1AA, taktowany 1,5GHz.
+pamięć: 16GB lub 32GB flash bez możliwości rozszerzenia przez microSD.
+RAM: 2GB DDR3L
+bateria: 3950 mAh
+aparat: przedni – 1,2MPx, tył - 5 MPx
+wymiary i masa: 200 × 114 × 8,65 mm, 290 g
+sensory: akcelerometr, magnetometr, GPS, żyroskop
+złącza: microUSB z Slimport
+bezprzewodowy przesył danych: WLAN 802.11 a/b/g/n 2.4GHz oraz 5GHz, Bluetooth 4.0, NFC,  3G oraz LTE (tylko wersja 32GB)
+
+Zobacz też
+Google Nexus
+
+
+
+
+
+

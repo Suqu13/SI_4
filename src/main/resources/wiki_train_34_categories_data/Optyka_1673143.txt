@@ -1,0 +1,21 @@
+
+Efekt Rossitera–McLauglina (efekt RM) – zjawisko astronomiczne, obserwowane dla gwiazd zmiennych zaćmieniowych i niektórych pozasłonecznych układów planetarnych, polegające na zmianie kształtu profilu i położenia wierzchołka linii widmowej gwiazdy podczas tranzytu słabszego składnika. Efekt ten odkryli w 1924 roku R.A. Rossiter, podczas obserwacji gwiazdy beta Lyrae i D.B. McLaughlin, badający Algola.
+
+Mechanizm
+Na skutek obrotu gwiazdy wokół własnej osi, światło docierające z brzegu tarczy zbliżającego się do obserwatora jest przesunięte ku fioletowi, a z brzegu odalającego się od niego - ku czerwieni. Zsumowanie tych efektów prowadzi do poszerzenia linii widmowych w świetle gwiazdy. Ciało przechodzące przed tarczą gwiazdy przesłania kolejne jej fragmenty, odcinając najpierw część światła przesuniętego ku fioletowi, a później ku czerwieni. Kształt profilu obserwowanej linii widmowej ulega zmianie i wraz z ruchem ciała na tle tarczy gwiazdy wierzchołek linii przesuwa się w stronę czerwieni, a następnie fioletu. Odwrotna sytuacja ma miejsce w przypadku tranzytującego składnika na orbicie wstecznej.
+
+Efekt jest najsilniejszy, gdy składnik zaćmiewający krąży w płaszczyźnie równika gwiazdy i słabnie ze wzrostem nachylenia orbity. Jeśli dodatkowo oś obserwacji nie leży w płaszczyźnie orbity, efekt staje się niesymetryczny (ciało przesłania większą część jednej półkuli niż drugiej). Pozwala to wyznaczyć kąt nachylenia płaszczyzny orbity względem płaszczyzny równika gwiazdy (zwykle oznaczany λ).
+
+W układach planetarnych
+Efekt ten został zaobserwowany do 2011 roku w 30 pozasłonecznych układach planetarnych. Obserwacje ujawniły dużą różnorodność orbit: przykładowo planeta HD 209458 b krąży w płaszczyźnie równika gwiazdy (λ= 0,1 ± 2,4°), planeta Kepler-8b ma wyraźnie nachyloną orbitę (λ=−26,4 ± 10,1°), natomiast WASP-17b krąży po nachylonej orbicie ruchem wstecznym (λ= 148,5° ).
+
+Wyniki tych obserwacji mają duży wpływ na modele powstawania planet. Model tworzenia się gorących jowiszy poprzez migrację wynikającą z oddziaływania z dyskiem protoplanetarnym, konkurował z modelem rozpraszania na skutek silnych oddziaływań grawitacyjnych między kilkoma planetami. Odkrycie dużego odsetku planet o nachylonych orbitach jest uznawane za argument przeciwko modelowi migracji, ze względu na to, że w tym modelu orbity zachowują początkowe nachylenie dysku, podczas gdy oddziaływania kilku ciał mogą zmieniać nachylenie orbit. Jednak istnieją alternatywne wyjaśnienia tego zjawiska – oś samego dysku mogła być nachylona względem osi rotacji gwiazdy, lub też niestabilność przepływu plazmy mogła zmienić oś obrotu gwiazdy.
+
+
+
+Źródła
+B. Scott Gaudi, ''''
+Y. Ohta, A. Taruya, Y. Suto ''''
+
+
+

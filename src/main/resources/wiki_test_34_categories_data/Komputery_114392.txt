@@ -1,0 +1,11 @@
+
+
+Cray-3''' – projektowany w Cray Research jako następca superkomputera Cray-2. Był pierwszym poważnym zastosowaniem arsenku galu (GaAs) w systemach obliczeniowych.
+
+Opis
+System Cray-3 był rozwinięciem architektury znanej z Cray-2. W systemie mogło pracować do 16 wektorowych procesorów obliczeniowych (drugoplanowych) i procesor sterujący pierwszoplanowy. Okres zegara wynosił 2 nanosekundy (500 MHz).
+
+Historia
+Ze względu na ograniczenia w równoległym finansowaniu projektów Cray-C90 (początkowo był to projekt MP) i Cray-3, Cray Research postanowiła powołać oddzielną firmę Cray Computer Corporation, wraz z projektem do nowej firmy przeszedł Seymour Cray. Trudności techniczne podczas projektowana systemu, a w szczególności problemy z procesem technologicznym układów z arsenku galu, spowodowały znaczny wzrost kosztów realizacji projektu, który doprowadził do upadku firmy w 1989 roku. Następcą systemu Cray-3 jest Cray X1.
+
+Linki zewnętrzne

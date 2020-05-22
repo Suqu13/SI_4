@@ -1,0 +1,44 @@
+Pilotowalny Orbitalny Kompleks Montażowo-Eksperymentalny (ros. Орбитальный Пилотируемый Сборочно-Экспериментальный Комплекс, Orbitalnyj Piłotirujemyj Sboroczno-Ekspierimientalnyj Kompleks) (ОПСЭК, OPSEK) to planowana rosyjska modularna stacja orbitalna trzeciej generacji na niskiej orbicie okołoziemskiej. Jej pierwszy segment zbudowany ma zostać z modułów rosyjskiej części ISS.
+
+Założenia ogólne
+Agencja Roskosmos zamierza, w związku z planowanym wyłączeniem ISS z eksploatacji po roku 2020 odłączyć od niej przed deorbitacją część modułów serwisowych i laboratoryjnych składających się na rosyjską część stacji i wykorzystać je jako bazę do stworzenia nowego rosyjskiego kompleksu orbitalnego.
+
+Informacje o tym zostały oficjalnie przekazane Stanom Zjednoczonym przez stronę rosyjską 17 czerwca 2009 roku.
+
+Zgodnie z informacjami podanymi przez RKK Energia, nowa stacja orbitalna spełniać ma następujące funkcje:
+
+montaż dużych pojazdów kosmicznych na orbicie
+loty testowe
+montaż i obsługa holowników orbitalnych
+zapewnienie warunków medycznych i biologicznych do obsługi powracających ekspedycji międzyplanetarnych.
+
+Budowa
+Wczesne stacje, takie jak Salut czy Skylab były stacjami monolitycznymi, bez możliwości wymiany załogi czy uzupełniania zapasów. Funkcja ta pojawiła się w stacjach Salut 6 i Salut 7 wyposażonych w dodatkowy port cumowniczy. Drugą generacją były stacje wielomodułowe takie jak Mir czy Międzynarodowa Stacja Kosmiczna wyposażone w kilka portów cumowniczych i umożliwiające rozbudowę stacji dzięki modułom o zróżnicowanej funkcjonalności. OPSEK ma być technologicznym spadkobiercą stacji drugiej generacji.
+
+Ze względu na przedłużenie okresu finansowania ISS i planowe wydłużenie jej żywotności, rosyjskie projekty nowej stacji zostały przesunięte w czasie, nie zostały jednak zarzucone. Zgodnie ze wypowiedzią dyrektora RKK Eniergija Witalija Łopoty dla agencji Interfax z września 2010 roku, rosyjska część stacji ISS ma zostać przekonfigurowana tak, aby mogła stanowić samodzielny kompleks, który po odłączeniu przed deorbitacją ISS będzie w stanie służyć jeszcze ok 10 lat. Prace nad budową całości OPSEK zamknąć się mają do roku 2031.
+
+Wykorzystanie modułów rosyjskiej sekcji ISS
+Przy budowie OPSEK miałyby zostać wykorzystane następujące moduły Międzynarodowej Stacji Kosmicznej:
+Zwiezda - DOS-8 (wyniesiony w 2000) - moduł serwisowy (systemy podtrzymywania życia, kontroli oraz habitaty)
+Poisk - MRM-2 - (wyniesiony w 2009) - śluza powietrzna z dwoma portami cumowniczymi
+Nauka - FGB-2 - (planowane wyniesienie w 2014) - laboratorium
+uniwersalny moduł cumowniczy - (planowane wyniesienie w 2014) - moduł z dodatkowymi 4 portami cumowniczymi mającymi przyjąć niewyniesione jeszcze moduły i zapewnić możliwość dokowania dwóch dodatkowych pojazdów typu Sojuz / Progress
+
+Moduły, które nie będą wykorzystane:
+Pirs - DC-1 - przeznaczony do deorbitacji przed wyniesieniem modułu Nauka (zwolnienie portu cumowniczego)
+
+Moduły, co do których nie zapadła decyzja:
+Zaria - FGB-1 - (wyniesiony w 1998) - moduł bazowy, przestrzeń magazynowa i zasilanie elektryczne, obecnie własność NASA; może zostać wymieniony na loty statków Sojuz / Progress po wyczerpaniu obecnie zakontraktowanych
+Rasswiet - MRM-1 (wyniesiony w 2010) - węzeł cumownicy / przestrzeń magazynowa, obecnie zadokowany do modułu Zaria, musiałby zostać przeniesiony na inną cumę, w przypadku nie odzyskania Zarii przez Rosjan
+
+Zobacz też
+Międzynarodowa Stacja Kosmiczna
+Stacja orbitalna
+
+
+
+
+
+
+
+

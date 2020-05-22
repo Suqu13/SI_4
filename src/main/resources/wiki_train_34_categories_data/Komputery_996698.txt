@@ -1,0 +1,5 @@
+HylaFax - darmowe oprogramowanie serwera faksowego, przeznaczone dla systemów operacyjnych Unix/Linux.
+
+Dla systemów Windows/Mac dostępne jest odpowiednie oprogramowanie Klienckie do wysyłania faksów bezpośrednio z programu pocztowego.
+
+Linki zewnętrzne

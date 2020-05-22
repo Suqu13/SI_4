@@ -1,0 +1,20 @@
+Rok podatkowy, rok obrotowy – w prawie podatkowym, okres rozliczeniowy składający się zwykle z dwunastu kolejno następujących po sobie miesięcy, najczęściej pokrywających się z rokiem kalendarzowym. Przykładowo jednak w Wielkiej Brytanii rok podatkowy zaczyna się 6 kwietnia, zaś w Stanach Zjednoczonych 1 października.
+
+W rachunkowości stosowana jest nazwa roku obrotowego, przez który rozumie się zwykle rok kalendarzowy lub inny okres trwający 12 kolejnych pełnych miesięcy kalendarzowych, stosowany również do celów podatkowych. Rok obrotowy lub jego zmiany określa statut lub umowa, na podstawie której utworzono jednostkę. W przypadku, gdy jednostka rozpoczęła działalność w drugiej połowie przyjętego roku obrotowego, to można księgi rachunkowe i sprawozdanie finansowe za ten okres połączyć z księgami rachunkowymi i sprawozdaniem finansowym za rok następny. Natomiast w przypadku zmiany roku obrotowego pierwszy po zmianie rok obrotowy powinien być dłuższy niż 12 kolejnych miesięcy.
+
+Ustawa z dnia 29 sierpnia 1997 r. Ordynacja podatkowa definiuje rok podatkowy w art. 11 jako: „(...) rok kalendarzowy, chyba że ustawa podatkowa stanowi inaczej.”
+
+Wyjątki od reguły roku kalendarzowego są wykazane w ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, w art. 8, który stanowi, że rokiem podatkowym jest rok kalendarzowy, chyba że podatnik postanowi inaczej w statucie albo w umowie... wówczas rokiem podatkowym jest okres kolejnych dwunastu miesięcy kalendarzowych.
+
+Ustawa wymienia następujące wyjątki od tej reguły:
+W przypadku podjęcia po raz pierwszy działalności, pierwszy rok podatkowy trwa od dnia rozpoczęcia działalności do końca roku kalendarzowego albo do ostatniego dnia wybranego roku podatkowego, nie dłużej jednak niż dwanaście kolejnych miesięcy kalendarzowych.'' (art. 8 ust. 2)
+W przypadku podjęcia po raz pierwszy działalności w drugiej połowie roku kalendarzowego i wybrania roku podatkowego pokrywającego się z rokiem kalendarzowym, pierwszy rok podatkowy może trwać od dnia rozpoczęcia działalności do końca roku kalendarzowego następującego po roku, w którym rozpoczęto działalność.'' (art. 8 ust. 2a)
+W razie zmiany roku podatkowego, za pierwszy po zmianie rok podatkowy uważa się okres od pierwszego miesiąca następującego po zakończeniu poprzedniego roku podatkowego do końca roku podatkowego nowo przyjętego. Okres ten nie może być krótszy niż dwanaście i dłuższy niż dwadzieścia trzy kolejne miesiące kalendarzowe.'' (art. 8 ust. 3)
+Jeżeli z odrębnych przepisów wynika obowiązek zamknięcia ksiąg rachunkowych (sporządzenia bilansu) przed upływem przyjętego przez podatnika roku podatkowego, za rok podatkowy uważa się okres od pierwszego dnia miesiąca następującego po zakończeniu poprzedniego roku podatkowego do dnia zamknięcia ksiąg rachunkowych.'' (art. 8 ust. 6)
+
+Bibliografia
+Ustawa z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa ()
+Ustawa z dnia 29 września 1994 r. o rachunkowości. ()
+Ustawa z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych ()
+
+

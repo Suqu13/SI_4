@@ -1,0 +1,22 @@
+Microsoft PixelSense – (wcześniej Microsoft Surface) komputer dotykowy zaprojektowany przez Microsoft rozwijany pod nazwą kodową Milan. 
+
+Charakterystyka urządzenia
+Komputer został zaprojektowany tak, aby była możliwa praca na nim bez używania myszy i klawiatury, kształtem przypominający stolik do kawy o rozmiarach 107/56/53 cm. Domyślnym urządzeniem wejściowym oraz wyjściowym jest 30-calowy (76 cm) ekran dotykowy mogący obsłużyć do 52 punktów dotykowych równocześnie, umożliwiając tym samym pracę kilku osobom w tym samym czasie.
+
+
+
+Komputer może komunikować się z innymi urządzeniami bezprzewodowo za pomocą standardów IEEE 802.11 oraz Bluetooth. Otwarcie połączenia następuje w momencie umieszczenia na powierzchni ekranu dotykowego urządzenia wyposażonego w tego typu funkcjonalność. Pobieranie i wysyłanie danych pomiędzy urządzeniem a komputerem odbywa się za pomocą techniki Drag and drop na obszarze ekranu. Komputer działa pod kontrolą systemu Windows Vista.
+
+Komputer został wprowadzony na rynek wiosną 2008 roku. Początkowo urządzenie było dostępne dla klientów biznesowych (przedsiębiorstwa, restauracje, hotele, rozrywka). Microsoft jednak przekonuje, że cena powinna spaść w ciągu 3-5 lat, na tyle by była przystępna dla użytkowników domowych.
+
+Projektowanie aplikacji
+Aplikacje na Microsoft PixelSense powstają w oparciu o Windows Presentation Foundation i XNA. Dla Visual Studio przygotowano SDK; Programiści nie potrzebują nawet samego urządzenia do testów - ponieważ z SDK dołączany jest Surface Simulator.
+
+
+
+
+
+
+
+
+

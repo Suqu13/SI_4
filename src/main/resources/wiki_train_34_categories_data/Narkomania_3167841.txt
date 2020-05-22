@@ -1,0 +1,55 @@
+Trifluoperazyna – organiczny związek chemiczny, pochodna fenotiazyny, stosowana jako lek przeciwpsychotyczny. Jest jednym z najwcześniej wprowadzonych neuroleptyków, pierwsze badania kliniczne przeprowadzono w 1957 roku.
+
+Mechanizm działania
+Trifluoperazyna jest klasycznym neuroleptykiem, blokującym receptory dopaminergiczne D2.
+
+Profil receptorowy trifluoperazyny (stała dysocjacji Ki dla ludzkich receptorów):
+
+5-HT1A (Ki = 950 nM)
+5-HT2A (Ki = 13 nM)
+5-HT2C (Ki = 378 nM)
+5-HT6 (Ki = 118 nM)
+5-HT7 (Ki = 290,7 nM)
+D2 (Ki = 0,96–2,6 nM)
+D4 (Ki = 44 nM)
+
+α1A (Ki = 24 nM)
+α2A (Ki = 653,7 nM)
+α2B (Ki = 163,6 nM)
+α2C (Ki = 391,5 nM)
+H1 (Ki = 63 nM)
+M3 (Ki = =1001 nM)
+
+Badania na zwierzęcych receptorach sugerują również słaby antagonizm wobec receptorów sigma (Ki = 345 nM).
+
+Wskazania
+FDA zarejestrowała trifluoperazynę w leczeniu objawów schizofrenii i jako lek drugiego rzutu w niepsychotycznych zaburzeniach lękowych. Z przeglądu systematycznego badań klinicznych Cochrane Collaboration z roku 2004 wynika, że trifluoperazyna wykazuje podobną skuteczność w leczeniu objawów schizofrenii jak inne neuroleptyki, i ma podobny profil działań niepożądanych.
+
+Działania niepożądane
+Do istotnych działań niepożądanych leku należą akatyzja, poneuroleptyczny zespół ubytkowy, wysypka, priapizm, objawy pozapiramidowe, w tym późne dyskinezy, hiperprolaktynemia. Rzadko występuje złośliwy zespół neuroleptyczny, żółtaczka, napady drgawkowe. W porównaniu z innymi fenotiazynami rzadziej powoduje sedację i ortostatyczne spadki ciśnienia, natomiast częściej wywołuje objawy pozapiramidowe.
+
+Dawkowanie
+W leczeniu psychoz najczęściej stosuje się dzienne dawki 15–20 mg. Ze względu na długi czas półtrwania wielu pacjentów może wymagać podawania leku w pojedynczej dawce.
+
+Preparaty
+Apo-Trifluoperazine
+Eskazinyl
+Eskazine
+Jatroneural
+Modalina
+Stelazine
+Terfluzine
+Trifluoperaz
+Triftazin
+Lek dostępny jest w postaci tabletek, płynu i iniekcji domięśniowych. Dawniej produkowano preparaty zawierające trifluoperazynę i tranylcyprominę (Jatrosom N, Parmodalin) oraz trifluoperazynę i amobarbital (Jalonac).
+
+
+
+
+
+
+
+
+
+
+

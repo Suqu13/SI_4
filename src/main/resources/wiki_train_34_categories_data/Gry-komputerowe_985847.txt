@@ -1,0 +1,67 @@
+Wanderer - polska, darmowa, internetowa gra MMORPG powstała w 2004, osadzona w realiach fantasy.
+
+Świat gry
+Gra toczy się w fikcyjnym świecie Idarionis, zamieszkiwanym przez wiele inteligentnych ras, m.in. krasnoludy, elfy, ludzi, gobliny, orki. Królestwem, od którego zaczyna się rozgrywkę w Idarionis jest Kathanorn ze stolicą w Utreed. 
+Świat jednak nie ogranicza się do jednego królestwa z kilkoma miejscowościami. Jest wiele krain geograficznych i innych królestw. Najbliższe to Azalia, Byromia, starożytne Cesarstwo Orinu, Flamindia, Tandra, Tersania i Doorbor.
+Świat Idarionis posiada własną historię z wieloma istotnymi wydarzeniami, które miały wpływ na ukształtowanie się obecnej państwowości.
+
+Cechy Ogólne
+Temat przewodni: hard fantasy
+Multi-Play: niedozwolony
+Multi-Class: nie
+Maksymalny poziom postaci: brak
+Questy: duża liczba oraz tzw. globale
+Zachowywanie ekwipunku: tak, opłata za przechowywanie dodatkowych przedmiotów w magazynie
+Zatwierdzanie postaci: nie
+Zatwierdzanie imienia postaci: tak, ale można grać bez zatwierdzenia
+Role-Playing: akceptowany
+3 klasy podstawowe: wojownik, mag, łucznik
+Ekwipunek oparty na poziomach: nie
+Ekwipunek oparty na umiejętnościach: tak
+Ekwipunek oparty na klasie: nie
+Ekwipunek oparty na charakterze: nie
+Zestawy przedmiotów (sety): nie
+Przedmioty unikatowe: nie
+Przedmioty rzadkie: nie
+
+Rozgrywka
+Postacie
+Po rejestracji gracz może wcielić się w przedstawiciela jednej z trzech grywalnych ras - krasnoludów, elfów lub ludzi. 
+Mechanizm rozwoju postaci jest dwojaki. Cechy, takie jak siła lub inteligencja, są rozwijane w klasyczny dla gier cRPG sposób, to znaczy gracz powiększa je, wykorzystując do tego celu punkty zdobyte podczas awansu na wyższy poziom doświadczenia. Natomiast umiejętności walki bronią, czarowania, lub parowania ataków, wzrastają w sposób automatyczny podczas posługiwania się nimi, podobnie jak w grach z serii The Elder Scrolls.
+
+Interakcje między postaciami ograniczone są w zasadzie do pojedynków oraz handlu na targu. Przegrane pojedynki nie powodują jednak osłabienia postaci, przez co (w odróżnieniu od gier takich jak OGame czy RedDragon), gracze w zasadzie nie mają możliwości szkodzenia sobie nawzajem. Na handel przedmiotami narzucone są ograniczenia w postaci cen minimalnych/maksymalnych oraz podatków.
+
+Energia
+System gry oparty jest na punktach energii, regenerujących się w tempie jednego punktu co 15 minut. Energię można wykorzystać np. szukając i wykonując zadania, atakując postacie innych graczy, pracując, trenując umiejętności, walcząc na arenie, podróżując do innych miast i wiele innych możliwości. Wydawanie energii podczas zalogowania odzwierciedla przebieg dnia danej postaci, streszczenie jej przygód w czasie, gdy gracz był wylogowany. Punkty energii regenerują się niezależnie od tego, czy gracz jest zalogowany, czy nie, aż do ustalonego limitu. Obecnie podstawowy limit wynosi 50en, co przekłada się na nieco ponad 12 godzin - tyle czasu można nie logować się do gry nie tracąc żadnego punktu energii. Dostępne są jednak płatne konta, które mają ten limit zwiększony nawet do 200 punktów.
+
+Miasta
+Postacie najwięcej czasu spędzają w miastach - tam znajdują się wszystkie sklepy, arena do pojedynków, jest to także punkt wypadowy do wykonywania przygód. Miasta dzielą się na krasnoludzkie, elfie i ludzkie. Ma to odzwierciedlenie np. w towarach dostępnych w sklepach. 
+
+Budynki w miastach:
+Sklepy - miejsce gdzie można zakupić ekwipunek dla postaci, a także czary. Cena towaru zależy od charyzmy postaci
+Magazyn - miejsce, gdzie za opłatą można przechowywać niepotrzebny ekwipunek, aby nie ciążył i nie spowalniał postaci
+Praca - miejsce, gdzie postać może znaleźć sobie pracę. W poszczególnych zawodach można się specjalizować, uzyskując tym samym dostęp do lepiej płatnych ofert.
+Karczma - miejsce, gdzie postać może odpocząć. Oferuje czat pomiędzy graczami, możliwość nakarmienia i napojenia postaci, dostęp do pokoi mieszkalnych (postaciom przebywającym w pokojach szybciej odnawia się energia), a także możliwość hazardu. Osobną karczmą jest alkierz, gdzie obowiązuje nakaz "wcielenia się" w odgrywaną postać (tzw. roleplaying)
+Targowisko - miejsce, gdzie gracz może sprzedać swój ekwipunek innym graczom. Jak dotąd obecny tylko w jednym z miast.
+Stajnia - miejsce, gdzie można wypożyczyć, lub zakupić konia. Koń zmniejsza wydatek energii, jaki trzeba wydać na podróże między miastami. Aby korzystać ze stajni, należy opanować umiejętność jeździectwo.
+Świątynia - miejsce, gdzie postać może się pomodlić, lub złożyć datek. Za odpowiednio dużą darowiznę, lub długą modlitwę postać może otrzymać błogosławieństwo, podnoszące na pewien czas statystyki.
+Kartograf - miejsce, gdzie można zakupić mapy. Mapy są niezbędne do odkrycia nowych miast.
+Teleport - miejsce, skąd można, za odpowiednią opłatą, dotrzeć do innych miast bez wydatków energii.
+Sala treningowa - miejsce, gdzie za odpowiednią opłatą można trenować swoje umiejętności.
+Arena - miejsce, gdzie postać może walczyć z innymi postaciami, lub podjąć wyzwanie polegające na walce z coraz liczniejszym przeciwnikiem określonego gatunku.
+Biblioteka - miejsce, gdzie postać może czytać księgi, zawierające różnorakie teksty dotyczące Idarionis. Aby efektywnie korzystać z biblioteki, należy nauczyć się czytać w co najmniej jednym z trzech języków: ludzkim, elfim lub krasnoludzkim.
+Przygody - miejsce, skąd można wyruszyć wykonywać przygody, lub rozpocząć podróż do innego miasta.
+
+Gildie
+Aby w Idarionis zostać wojownikiem lub magiem, należy dołączyć do określonej gildii, uprzednio wykonując polecone zadanie. W grze istnieje 7 gildii:
+Gildia podróżników - gildia wspólna dla wszystkich postaci, stanowiąca punkt wyjściowy do zdobywania specjalizacji.
+Gildia rycerzy
+Gildia wojowników
+Gildia magów
+Klasztor mnichów
+Gildia łuczników
+Gildia łotrów
+
+W gildiach znajdują się specjalistyczne sklepy, oferujące towar dostosowany dla danej profesji. Mieszkają tam również nauczyciele od których można się nauczyć różnych umiejętności, zarówno tych wspólnych dla różnych klas, jak i tych unikatowych dla danej profesji. Oprócz tego postać w gildii może trenować znane sobie umiejętności, podnosząc ich poziom dużo szybciej niż w czasie walk przeciwko innym postaciom, w przygodach czy na arenie.
+
+Linki zewnętrzne

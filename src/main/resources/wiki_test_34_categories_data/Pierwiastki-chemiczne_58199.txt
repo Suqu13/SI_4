@@ -1,0 +1,31 @@
+Pierwiastki organiczne – te pierwiastki, które najczęściej występują w związkach organicznych. Ze względu na to, że definicja ta nie jest zbyt ścisła, a związki organiczne mogą zawierać prawie wszystkie pierwiastki, nazywa się w ten sposób różne zbiory pierwiastków zależnie od upodobań.
+
+Najczęściej spotykanym podziałem pierwiastków w tym sensie jest podział na cztery pierwiastki, które najczęściej się spotyka w naturalnie występujących związkach organicznych:
+
+H wodór
+O tlen 
+C węgiel
+N azot
+
+których symbole składają się na akronim HONC (czyt. chonk). Pozostałe w miarę często występujące pierwiastki nazywa się w tej konwencji heteroatomami (głównie siarka i fosfor). Węgiel, wodór, tlen, azot, fosfor i siarkę razem nazywa się też często pierwiastkami biofilnymi lub biogennymi, gdyż są one głównym składnikiem najważniejszych związków chemicznych tworzących żywe organizmy. Rzadziej występujące pierwiastki w organizmach żywych nazywa się mikroelementami.
+
+Wiele programów służących obliczaniu struktury i wizualizacji cząsteczek, które są nastawione na związki organiczne ma własne zestawy "pierwiastków organicznych". 
+
+Np. w składni SMILES za "organiczne" przyjmuje się następujące atomy:
+
+(jako, że wodoru zwykle się w tej składni nie uwzględnia)
+
+C węgiel
+O tlen
+N azot
+S siarka
+F fluor
+Cl chlor
+Br brom
+I jod
+
+Zobacz też
+biologiczne znaczenie pierwiastków
+
+
+

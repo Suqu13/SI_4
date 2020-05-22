@@ -1,0 +1,27 @@
+Portal – logiczno-platformowa gra komputerowa ukazana z perspektywy pierwszej osoby, wyprodukowana i wydana w 2007 roku przez Valve Corporation. Jej wersja pudełkowa miała premierę w zestawie The Orange Box. W 2011 roku został wydany jej sequel, Portal 2''.
+
+Portal stworzono jako semi-sequel dla darmowej gry Narbacular Drop, stworzonej jako testowy projekt przez studentów DigiPen Institute of Technology. Twórcy tej gry zostali zatrudnieni w Valve.
+
+Rozgrywka
+
+Gra opiera się na wykorzystywaniu Aperture Science Handheld Portal Device, podręcznego urządzenia, które tworzy portale na płaskich powierzchniach, pozwalając na swobodne podróżowanie oraz interakcję pomiędzy dowolnymi dwiema lokacjami w przestrzeni trójwymiarowej. Portale tworzyć można jedynie na płaskich powierzchniach. Jeśli portale zostaną stworzone na różnych płaszczyznach, powstaną wahania geometrii i grawitacji, na przykład przechodząc przez portal na ścianie prowadzący do portalu na ziemi, przechodzący zostanie odepchnięty przez grawitację ziemi przed portal na ścianie. Jednocześnie mogą być tworzone tylko dwa portale, tak więc przy stworzeniu nowego portalu, wcześniej powstały portal znika. Urządzenie działa też jak gravity gun z gry Half-Life 2'', czyli może podnosić i trzymać obiekty, chociaż nie można nim rzucać obiektów na taką odległość jak przy użyciu gravity gun.
+
+Działanie urządzenia przedstawia wydany zwiastun, przyjmujący formę filmu wideo wprowadzającego w technologię Aperture Laboratories (w pierwszym wideo nazwa była pokazywana jako Labratories, człon Labrat znaczy szczur laboratoryjny) i testujących ją osobników. Wideo jest podzielone na sceny schematyczne i tzw. "przykłady w świecie rzeczywistym".
+
+Opis fabuły
+Bohaterka gry, Chell budzi się w komorze relaksacyjnej jednego z pomieszczeń wielkiego kompleksu badawczego Aperture Science Enrichment Center. Po kilkunastu sekundach wita ją GLaDOS, sztuczna inteligencja sterująca kompleksem, i informuje, że ma przebyć serię testów. W jednej z początkowych komór testowych Chell otrzymuje urządzenie do tworzenia portali. Ostatni test ma się kończyć spaleniem testującego, jednakże Chell udaje się uciec.
+
+Przedziera się przez brudne, pełne zabezpieczeń korytarze i biura pracowników, którzy gdzieś zniknęli, słysząc coraz ostrzejsze nawoływania komputera o zaprzestanie wędrówki. W końcu dociera do jądra kompleksu i spotyka sztuczną inteligencję. Po krótkim powitaniu z maszyny wylatuje dziwny przedmiot. Po jego zniszczeniu, GLaDOS opowiada, że był to system moralności zamontowany, gdy wymordowała wszystkich pracowników Aperture za pomocą neurotoksyny. Następnie włącza odliczanie pokazujące czas dotarcia neurotoksyny do mózgu Chell. Ostatnim zadaniem gracza jest wykorzystanie automatycznego działka rakietowego i Handheld Portal Device do zniszczenia komputera. Wszystko, razem z bohaterką ląduje na powierzchni ziemi, na parkingu przed kompleksem.
+Po ostatniej aktualizacji Portala, na końcu gry mechaniczny głos oznajmia, że Chell dobrze postąpiła ponieważ położyła się w uległej pozycji, i wtedy wędrujący za nią robot eskortujący ciągnie ją z powrotem do kompleksu wypoczynkowego w Enrichment Center.
+
+Portal: Prelude
+10 października 2007 została stworzona nieoficjalna modyfikacja do gry pod nazwą Portal: Prelude. Jej akcja toczy się przed wydarzeniami z głównej gry. Modyfikacja została wyróżniona przez serwis FilePlanet.
+
+Zobacz też
+''''
+Narbacular Drop
+The Orange Box
+
+
+
+Linki zewnętrzne

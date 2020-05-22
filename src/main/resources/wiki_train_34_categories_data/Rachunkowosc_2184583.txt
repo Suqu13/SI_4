@@ -1,0 +1,29 @@
+Kapitał zapasowy - składnik kapitału własnego, który przeznacza środki finansowe w spółce na pokrycie strat finansowych. W każdej spółce akcyjnej powinno się utworzyć kapitał zapasowy, do którego przelewa się co najmniej 8% zysku za dany rok obrotowy, dopóki kapitał ten nie osiągnie co najmniej jednej trzeciej kapitału zakładowego. 
+
+Do kapitału zapasowego należy przelewać wszelkie nadwyżki osiągnięte przy emisji akcji powyżej ich wartości nominalnej, a pozostałe – po pokryciu kosztów emisji akcji. Koszty emisji akcji bezpośrednio przy powstaniu spółki spółki akcyjnej pokrywane są z rezerw znajdujących się w kapitale zapasowym. Do kapitału zapasowego również wpływają dopłaty, które uiszczają akcjonariusze w zamian za przyznanie szczególnych uprawnień ich dotychczasowym akcjom, o ile te dopłaty nie będą użyte na wyrównanie nadzwyczajnych odpisów albo strat. 
+
+O użyciu kapitału zapasowego rozstrzyga walne zgromadzenie. Jednakże części kapitału zapasowego w wysokości jednej trzeciej kapitału zakładowego można użyć jedynie na pokrycie wszelkich strat, które zostały wykazane w sprawozdaniu finansowym.
+Jeżeli bilans sporządzony przez zarząd wykaże stratę przewyższającą sumę kapitału zapasowego oraz jedną trzecią kapitału zakładowego, zarząd jest zobowiązany niezwłocznie zwołać walne zgromadzenie, którego celem jest podjęcia uchwały dotyczącej dalszego istnienia spółki.
+
+Wykazywanie zmian w kapitale zapasowym podczas umorzenia lub zbycia akcji własnych
+Decyzja o umorzeniu akcji własnych pociąga za sobą zmiany w kapitale zapasowym. Dodatnią różnicę między wartością nominalną akcji a ich ceną nabycia należy odnieść na kapitał zapasowy. Powoduje to zwiększenia kapitału zapasowego spółki. Natomiast gdy różnica jest ujemna trzeba ją ująć jako zmniejszenie kapitału zapasowego. Pozostałą stratę (jeśli ta przewyższa kapitał zapasowy) przewyższającą kapitał zapasowy należy wykazać jako stratę z lat ubiegłych i opisać ten fakt w informacji dodatkowej do sprawozdania finansowego za rok, w którym nastąpiło obniżenia kapitału zakładowego. Podobnie należy robić w razie zbycia akcji własnych z zyskiem lub stratą.
+
+Zmiany kapitału zapasowego
+Zmiany kapitału zapasowego na początek okresu rozliczeniowego:
+
+Zwiększenie (z tytułu)
+emisji akcji powyżej wartości nominalnej
+podziału zysku (ustawowo)
+podziału zysku (ponad wymaganą ustawowo minimalną wartość)
+Zmniejszenie (z tytułu)
+pokrycia straty
+zwiększenia kapitału zakładowego
+koszty emisji akcji podczas powstania spółki
+koszty organizacyjne związane z połączeniem lub przejęciem spółki
+
+Bibliografia
+Ustawa z dnia 29 września 1994 r. o rachunkowości.
+Dobbins R., Frąckowiak W., Praktyczne zarządzanie kapitałami firmy, Poznań 1992.
+
+
+

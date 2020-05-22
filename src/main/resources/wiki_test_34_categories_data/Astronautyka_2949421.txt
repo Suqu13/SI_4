@@ -1,0 +1,19 @@
+Intelsat 27''' – niedoszły satelita telekomunikacyjny firmy Intelsat. Pierwotnie miał zastąpić satelitę Intelsat 805 na pozycji 55° W, jednak spoczął na dnie Oceanu Spokojnego wraz z rakietą Zenit-3SL, na której wystartował.
+
+Budowa
+Intelsat 27'' był satelitą serii BSS-702MP, zbudowanym przez firmę Boeing. Posiadał w sumie 60 transponderów: 20 dla pasma C i 20 dla pasma Ku dla użytkowników cywilnych, a także 20 transponderów pasma UHF do celów wojskowych. Transpondery pasma UHF miała początkowo wykorzystywać Marynarka Wojenna USA, później oddano je do użytku rządowi Włoch. Zasięgiem satelita miał obejmować rejon obydwu Ameryk, Europy i Atlantyku. Żywotność oszacowano na min. 15 lat.
+
+Katastrofa podczas startu
+Do startu doszło 1 lutego 2013 o 06:56 UTC z platformy Ocean Odyssey na Pacyfiku. Według oświadczenia firmy Sea Launch doszło do utraty kontroli nad rakietą po 40 sekundach od startu, podczas pracy silnika 1. stopnia. Spółka udostępniła materiał z transmisji startu na żywo, w którym po kilku dziesięciu sekundach lotu można zauważyć wygaszenie silnika.
+
+Prezes firmy Sea Launch, Kjell Karlsen, w oświadczeniu powiedział: Jesteśmy mocno rozczarowani wynikiem startu rakiety i składamy szczere przeprosiny naszemu klientowi, tj. firmie Intelsat oraz dostawcy satelity, Boeingowi. 
+
+Powstała w celu wyjaśnienia przyczyny katastrofy komisja specjalna w swoim raporcie wykazała, iż przyczyną nieudanego startu była awaria pompy hydraulicznej w 1. członie rakiety Zenit-3SL. 
+
+Zobacz też
+Intelsat 708
+NSS-8
+
+
+
+Linki zewnętrzne

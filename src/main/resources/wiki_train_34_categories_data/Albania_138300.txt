@@ -1,0 +1,62 @@
+Kavaja (alb. forma nieokreślona: Kavajë) – miasto w zachodniej Albanii, stolica okręgu Kavaja. Według danych z 2003 r. miasto liczy 28 200 mieszkańców; pod względem wielkości jest dziesiątym miastem w Albanii. 95% mieszkańców miasta to muzułmanie.
+
+W latach 1990-1991 miasto było centrum protestów antykomunistycznych. W okresie zamieszek w 1997 r. Kavaja pozostała jednym z najspokojniejszych miast w całej Albanii, a to dzięki cywilnym patrolom, zorganizowanym przez władze religijne.
+
+W tym mieście urodził się piłkarze: Skerdilaid Curri, Andi Lila oraz Altin Lala.
+
+W mieście znajduje się siedziba klubu Besa Kavajë, grającego w najwyższej klasie rozgrywek ligowych w Albanii.
+
+Wzrost liczby ludności
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize  = width:300 height:200
+PlotArea   = left:50 bottom:50 top:30 right:30
+DateFormat = x.y
+Period     = from:0 till:50000
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:50000 start:0
+ScaleMinor = gridcolor:lightgrey increment:5000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+  bar:1938 text:1938
+  bar:1945 text:1945
+  bar:1960 text:1960
+  bar:1970 text:1970
+  bar:1979 text:1979
+  bar:1990 text:1990
+  bar:2003 text:2003
+
+PlotData=
+  color:barra width:20 align:left
+
+  bar:1938 from:0 till: 7300
+  bar:1945 from:0 till: 9700
+  bar:1960 from:0 till: 14200
+  bar:1970 from:0 till: 18700
+  bar:1979 from:0 till: 20900
+  bar:1990 from:0 till: 25600
+  bar:2003 from:0 till: 28200
+
+PlotData=
+  bar:1938 at: 7300 fontsize:S text: 7300 shift:(-10,5)
+  bar:1945 at: 9700 fontsize:S text: 9700 shift:(-10,5)
+  bar:1960 at: 14200 fontsize:S text: 14&nbsp;200 shift:(-10,5)
+  bar:1970 at: 18700 fontsize:S text: 18&nbsp;700 shift:(-10,5)
+  bar:1979 at: 20900 fontsize:S text: 20&nbsp;900 shift:(-10,5)
+  bar:1990 at: 25600 fontsize:S text: 25&nbsp;600 shift:(-10,5)
+  bar:2003 at: 28200 fontsize:S text: 28&nbsp;200 shift:(-10,5)
+TextData=
+  fontsize:S pos:(20,20)
+
+
+Bibliografia
+D.Hall, Albania and the Albanians, New York 1994.
+
+Linki zewnętrzne

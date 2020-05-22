@@ -1,0 +1,14 @@
+SuperTux – gra komputerowa z rodzaju gier platformowych.
+
+Gra jest zainspirowana grą Super Mario Bros, jednak zamiast hydraulikiem gracz porusza się linuksowym pingwinkiem. Do przejścia jest wiele etapów, w których trzeba pokonać dużą liczbę przeciwników. Dodatkowo każdy może tworzyć własne etapy, dzięki edytorowi poziomów .
+
+Wersja 0.0.4 SuperTuxa została wydana w kwietniu 2003. Od tamtego czasu gra nieprzerwanie rozwija się.
+
+Na początku roku 2005 SuperTux przeniósł się z SourceForge do BerliOS ponieważ część zespołu wolała wykorzystanie Subversion zamiast CVS. W chwili obecnej trwają prace nad SuperTux 0.3 (Milestone 2), w którym głównymi zmianami będą:
+
+przepisany system kolizji obiektów
+rozdzielczość 800x600
+tłumaczenia i obsługa UTF-8
+
+Linki zewnętrzne
+

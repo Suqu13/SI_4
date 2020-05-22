@@ -1,0 +1,40 @@
+Kara łączna – instytucja prawa karnego materialnego, a zarazem instrument polityki karania, który znajduje zastosowanie do sprawcy, który popełnił dwa lub więcej przestępstw zanim zapadł pierwszy wyrok, choćby nieprawomocny, co do któregokolwiek z nich (zbieg realny przestępstw). Po raz pierwszy pojawiła się w Kodeksie Makarewicza z 1932 r. i od tego czasu obecna jest we wszystkich polskich kodeksach karnych, wliczając w to kodeks obecnie obowiązujący.
+
+Systemy wymierzania kilku kar
+System kumulacji kar – polega na dodawaniu do siebie poszczególnych kar jednostkowych i wykonaniu jednej skumulowanej kary. System ten występuje w Stanach Zjednoczonych.
+System absorpcji – kara najsurowsza pochłania kary łagodniejsze. Wykonaniu podlega kara najsurowsza.
+System asperacji – ze względu na fakt, że sprawcy wymierzono kilka kar, należy jako podstawę przyjąć najsurowszą z nich, którą się obostrza w sposób przewidziany w ustawie.
+System mieszany redukcyjny – polega na obniżeniu kary ustalonej w wyniku zsumowania kar jednostkowych orzeczonych za poszczególne przestępstwa.
+System mieszany oparty na zasadzie asperacji – określa się zasady wymiaru kary łącznej na podstawie kar wymierzonych jednostkowo, przy czym podstawą wymiaru kary łącznej jest najsurowsza z kar jednostkowych podlegająca obostrzeniu przewidzianemu w ustawie.
+
+Polski Kodeks karny z 1997 roku opiera się na systemie mieszanym z tym, że sąd ma możliwość zastosowania pełnej absorpcji orzeczonych kar, jak i ich sumy.
+
+Łączenie kar
+Łączeniu podlegają kary tego samego rodzaju, jednakże wysokość orzeczonej kary łącznej nie może przekroczyć:
+w przypadku grzywny – 810 stawek dziennych
+w przypadku kary ograniczenia wolności – 2 lata
+w przypadku kary pozbawienia wolności – 15 lat.
+
+Inne przypadki:
+w przypadku, gdy najsurowszą karą orzeczoną za jedno ze zbiegających przestępstw jest kara 25 lat pozbawienia wolności albo dożywotniego pozbawienia wolności, orzeka się tę karę jako karę łączną (zasada absorpcji),
+w przypadku zbiegu dwóch lub więcej kar 25 lat pozbawienia wolności sąd może orzec albo według zasady absorpcji karę 25 lat pozbawienia wolności, albo według zasady asperacji karę dożywotniego pozbawienia wolności.
+
+Łączeniu ze sobą podlegają również kary różnorodzajowe:
+kara pozbawienia wolności z karą ograniczenia wolności – orzeka się karę łączną pozbawienia wolności, przy czym jeden miesiąc ograniczenia wolności odpowiada 15 dniom pozbawienia wolności.
+
+Zasady wymiaru kary łącznej
+O ile w przypadku kary jednostkowej wymierzonej za poszczególne przestępstwo sąd zobowiązany jest w pierwszej kolejności uwzględnić stopień winy sprawcy i rozmiar społecznej szkodliwości czynu, o tyle przy orzekaniu kary łącznej znaczenie mają wyłącznie względy prewencji szczególnej. Kara łączna, przynajmniej w teorii, ma stanowić ostrzeżenie dla podsądnego przed prawnokarnymi konsekwencjami jego postępowania. Nadmierna represja karna wobec niezdemoralizowanego jeszcze sprawcy zazwyczaj prowadzi do celów odwrotnych niż zamierzone. Zwłaszcza w przypadku, gdy prosta suma kar jednostkowych wyklucza stosowanie środków probacyjnych i skutkuje bezwzględnym pozbawieniem wolności dotychczas niekaranego sprawcy. Z tych względów niekiedy bardziej celowe jest orzeczenie kary łagodniejszej.
+
+Kodeks karny poza określeniem dolnej i górnej granicy nie zawiera innych zasad wymiaru kary łącznej, dlatego praktyka sądów wypracowała trzy kryteria pomocne przy jej orzekaniu. Sąd obowiązany jest badać, czy pomiędzy zbiegającymi się przestępstwami występuje:
+związek podmiotowy polegający na tożsamości osób pokrzywdzonych zbiegającymi się przestępstwami,
+związek czasowy polegający na bliskości czasowej zbiegających się przestępstw,
+związek rodzajowy polegający na podobieństwie zbiegających się przestępstw.
+Stopień natężenia każdej z powyższych okoliczności stanowi wskazówkę dla sądu przy określaniu wysokości kary łącznej.
+
+Karę łączną orzeka się w wyroku skazującym za zbiegające się przestępstwa. W przypadku, gdy fakt popełnienia przestępstwa zbiegającego się z przestępstwem już osądzonym wyjdzie na jaw dopiero po wyroku skazującym za to przestępstwo, możliwe jest wydanie wyroku łącznego, którym sąd orzeka karę łączną jednocześnie pozbawiając mocy prawnej wcześniejsze wyroki wydane za poszczególne przestępstwa objęte wyrokiem łącznym.
+
+Instytucja kary łącznej nie występuje w prawie wykroczeń.
+
+
+
+

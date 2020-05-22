@@ -1,0 +1,30 @@
+
+Kosmiczny Teleskop Jamesa Webba (ang. James Webb Space Telescope, JWST) – budowany obecnie teleskop kosmiczny, który ma być następcą Kosmicznego Teleskopu Hubble'a. W odróżnieniu od swojego poprzednika, ma on prowadzić obserwacje w podczerwieni. Projekt jest nadzorowany i w znacznej części finansowany przez NASA i powstaje we współpracy z ESA oraz CSA. Został nazwany na cześć Jamesa Webba, drugiego administratora NASA. 
+
+Najważniejsze cele misji to: badanie pierwszych gwiazd i galaktyk, które uformowały Wszechświat po Wielkim Wybuchu, badanie formowania się i ewolucji galaktyk, badanie tworzenia gwiazd i systemów planetarnych.
+
+Budowa
+
+Teleskop składać się będzie z 21 sześciokątnych, wykonanych z berylu pokrytego złotem, luster. Zwierciadło główne rozłoży się dopiero na orbicie i składać się będzie z 18 luster, a jego średnica wyniesie 6,5 m, czyli 2,5 raza więcej niż w teleskopie Hubble'a, przy prawie trzykrotnie mniejszej masie. Powierzchnia zbierająca promienie wyniesie 25 m2 (ponad 5 razy więcej niż w zwierciadle Hubble'a). Lustra zostały już skonstruowane i w grudniu 2011 przeszły pomyślnie testy kriogeniczne, co według pracowników NASA stanowiło największe wyzwanie techniczne od początku projektu.
+
+Aby obserwacje odległych obiektów astronomicznych były dokładne i niezakłócane przez promieniowanie samego JWST, teleskop i jego instrumenty muszą pracować w bardzo niskiej temperaturze - poniżej 50 K (-223,15&nbsp;°C), stąd w skład urządzenia wejdzie wielka osłona blokująca światło i ciepło dochodzące ze Słońca, która po rozłożeniu przyjmie rozmiar kortu tenisowego. Osłona składać się będzie z pięciu warstw, każda kolejna będzie chłodniejsza, a próżnia między nimi będzie doskonałym izolatorem.
+
+Orbita
+Teleskop ma być umieszczony na orbicie eliptycznej (o promieniu 800&nbsp;000 km) wokół punktu libracyjnego L2, który znajduje się w odległości 1,5 miliona km od Ziemi. Okres obiegu teleskopu wokół Słońca będzie taki sam jak Ziemi wokół Słońca czyli rok. 
+Aby osłona przeciwsłoneczna pracowała prawidłowo, promienie słoneczne muszą na nią padać ze stałego kierunku. Dlatego wybrano orbitę wokół punktu L2, by Ziemia i Księżyc nawet przez chwilę nie zasłaniały Słońca i osłona pracowała przy niemal niezmiennym oświetleniu słonecznym.
+
+Stan i finansowanie projektu
+Pierwotnie zakładano, że koszt projektu wyniesie 1,6 miliarda dolarów, a wystrzelenie JWST w kosmos miało nastąpić w 2011. Ciągłe opóźnienia i rosnące z roku na rok koszty sprawiły, że w 2010 powołano niezależny zespół ekspertów, który oszacował, że projekt pochłonie 6,5 miliardów dolarów, a wyniesienie na orbitę nastąpi nie wcześniej niż w 2015. Opóźnienia wyjaśniono złym zarządzaniem projektem i jego budżetem, pochwalono natomiast dokonania strony technicznej.
+W lipcu 2011 poinformowano, że komitet Izby Reprezentantów przyznający fundusze zamierza skasować projekt JWST, obcinając budżet NASA na rok 2012 o 1,9 miliarda dolarów. Rewizja programu ogłoszona w sierpniu 2011 zakłada, że całkowity koszt JWST, wliczając w to 5 lat działania teleskopu na orbicie, wyniesie 8,7 miliarda dolarów przy wystrzeleniu w kosmos zaplanowanym na rok 2018. W listopadzie 2011 Kongres odrzucił plan skasowania projektu i zapewnił dodatkowe środki na jego kontynuowanie.
+
+
+
+Linki zewnętrzne
+
+- astronomiczne zdjęcie dnia
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+Kosztorys ofertowy - dokument kosztowy, którego celem jest przedstawienie oferty cenowej wykonania robót budowlanych.
+Kosztorys ofertowy opracowywany jest na potrzeby przetargu (lub negocjacji) na wykonanie robót budowlanych przez każdego z uczestników przetargu (negocjacji) i zawiera informacje o cenie
+robót budowlanych, których wykonania chce się podjąć uczestnik przetargu. 
+
+Podstawą do sporządzenia kosztorysu ofertowego są projekty wykonawcze oraz przedmiary robót.
+
+Bibliografia
+Plebankiewicz E.: Podstawy kosztorysowania robót budowlanych, Wydawnictwo Politechniki Krakowskiej, Kraków 2007.
+
+

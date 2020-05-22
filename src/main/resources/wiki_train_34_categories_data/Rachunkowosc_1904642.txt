@@ -1,0 +1,161 @@
+Międzynarodowe Standardy Sprawozdawczości Finansowej (MSSF) (ang. International Financial Reporting Standards (IFRS)) – standardy i ich interpretacje zatwierdzone przez Radę Międzynarodowych Standardów Rachunkowości (IASB – International Accounting Standards Board).
+
+Wiele spośród standardów stanowiących część MSSF są znane pod starszą nazwą Międzynarodowe Standardy Rachunkowości (MSR)'''. MSR były publikowane między 1973 a 2001 rokiem przez Komitet Międzynarodowych Standardów Rachunkowości (IASC – International Accounting Standards Commitee). 1 kwietnia 2001 roku nowo utworzona IASB przejęła od IASC odpowiedzialność za ustanawianie MSR. Podczas pierwszego spotkania nowa Rada przyjęła istniejące MSR i interpretacje Stałego Komitetu ds. Interpretacji (SIC – Standing Interpretation Commitee). IASB kontynuuje tworzenie standardów nazywanych nowymi standardami MSSF.
+
+Charakterystyka MSSF
+Międzynarodowe Standardy Sprawozdawczości Finansowej określają:
+sposób prezentacji danych finansowych,
+metody wyceny poszczególnych składników aktywów i pasywów,
+zakres informacji, jaki należy ujawnić w sprawozdaniu finansowym,
+sposób prezentacji sprawozdania z przepływów środków pieniężnych,
+metody prezentacji majątku trwałego.
+
+Cechy jakościowe sprawozdań, jakimi sporządzający powinni się kierować przy opracowywaniu sprawozdania finansowego to:
+zrozumiałość,
+trafność,
+wiarygodność,
+przydatność,
+porównywalność i
+istotność.
+
+Cel wprowadzenia MSSF
+W zamierzeniu wprowadzanie MSSF ma zapewnić bezpośrednią porównywalność sprawozdań finansowych spółek funkcjonujących w różnych krajach, ponieważ obowiązujące w poszczególnych krajach zasady rachunkowości, a w efekcie sporządzone na ich podstawie sprawozdania finansowe firm, znacznie różnią się od siebie. Jest to ważne szczególnie w dobie otwartego, globalnego rynku kapitałowego, na którym inwestorzy inwestując i oceniając wartość spółek, opierają się w znacznej mierze na publikowanych przez nie danych finansowych.
+
+Wady i zalety
+Zalety – to bardziej dokładne przedstawienie kondycji finansowej przedsiębiorstwa, szczególnie istotne, gdy jest ono notowane na giełdzie; oraz łatwiejsze ustalenie danych potrzebnych do kontroli i sporządzania skonsolidowanych sprawozdań finansowych, jeżeli przedsiębiorstwo wchodzi w skład międzynarodowej grupy kapitałowej.
+
+Wady – to znaczny stopień komplikacji postanowień MSSF, co wymaga większej wiedzy i wysiłku oraz zwiększenie liczby i rodzaju różnic między wynikiem brutto a podstawą opodatkowania oraz obrotem w rozumieniu księgowym i podatku od towarów i usług, co utrudnia rozliczenia podatkowe.
+
+Zagadnienia w poszczególnych standardach
+Aktualnie obowiązujące standardy zawarte są w Rozporządzeniu Komisji nr 1126/2008 z dnia 3 listopada 2008 r. oraz w późniejszych rozporządzeniach je zmieniających. Standardy, które nie zostały uwzględnione w przedstawionych wykazach, zostały wycofane lub zastąpione innymi.
+
+Międzynarodowe Standardy Rachunkowości
+MSR 1 Prezentacja sprawozdań finansowych
+MSR 2 Zapasy
+MSR 7 Rachunek przepływów pieniężnych
+MSR 8 Zasady (polityka) rachunkowości, zmiany wartości szacunkowych i korygowanie błędów
+MSR 10 Zdarzenia następujące po dniu bilansowym
+MSR 11 Umowy o usługę budowlaną
+MSR 12 Podatek dochodowy
+MSR 16 Rzeczowe aktywa trwałe
+MSR 17 Leasing
+MSR 18 Przychody
+MSR 19 Świadczenia pracownicze
+MSR 20 Dotacje rządowe oraz ujawnianie informacji na temat pomocy rządowej
+MSR 21 Skutki zmian kursów wymiany walut obcych
+MSR 23 Koszty finansowania zewnętrznego
+MSR 24 Ujawnianie informacji na temat podmiotów powiązanych
+MSR 26 Rachunkowość i sprawozdawczość programów świadczeń emerytalnych
+MSR 27 Skonsolidowane i jednostkowe sprawozdania finansowe
+MSR 28 Inwestycje w jednostkach stowarzyszonych
+MSR 29 Sprawozdawczość finansowa w warunkach hiperinflacji
+MSR 31 Udziały we wspólnych przedsięwzięciach
+MSR 32 Instrumenty finansowe: prezentacja
+MSR 33 Zysk przypadający na jedną akcję
+MSR 34 Śródroczna sprawozdawczość finansowa
+MSR 36 Utrata wartości aktywów
+MSR 37 Rezerwy, zobowiązania warunkowe i aktywa warunkowe
+MSR 38 Wartości niematerialne
+MSR 39 Instrumenty finansowe: ujmowanie i wycena (z wyjątkiem niektórych przepisów dotyczących rachunkowości zabezpieczeń)''
+MSR 40 Nieruchomości inwestycyjne
+MSR 41 Rolnictwo
+
+Międzynarodowe Standardy Sprawozdawczości Finansowej
+MSSF 1 Zastosowanie Międzynarodowych Standardów Sprawozdawczości Finansowej po raz pierwszy
+MSSF 2 Płatności w formie akcji
+MSSF 3 Połączenia jednostek gospodarczych
+MSSF 4 Umowy ubezpieczeniowe
+MSSF 5 Aktywa trwałe przeznaczone do sprzedaży oraz działalność zaniechana
+MSSF 6 Poszukiwanie i ocena zasobów mineralnych
+MSSF 7 Instrumenty finansowe: ujawnianie informacji
+MSSF 8 Segmenty operacyjne
+MSSF 9 Instrumenty finansowe
+
+Interpretacje Komitetu ds. Interpretacji Międzynarodowej Sprawozdawczości Finansowej (IFRIC)
+KIMSF 1 Zmiany istniejących zobowiązań z tytułu wycofania z eksploatacji, rekultywacji i zobowiązań o podobnym charakterze
+KIMSF 2 Udziały członkowskie w spółdzielniach i podobne instrumenty
+KIMSF 4 Ustalenie, czy umowa zawiera leasing
+KIMSF 5 Prawa do udziałów wynikające z uczestnictwa w funduszach likwidacyjnych, rekultywacyjnych oraz funduszach na naprawę środowiska
+KIMSF 6 Zobowiązania wynikające z uczestnictwa w specyficznym rynku – zużyty sprzęt elektryczny i elektroniczny
+KIMSF 7 Zastosowanie metody przekształcenia w ramach MSR 29 Sprawozdawczość finansowa w warunkach hiperinflacji
+KIMSF 8 Zakres MSSF 2''
+KIMSF 9 Ponowna ocena wbudowanych instrumentów pochodnych
+KIMSF 10 Śródroczna sprawozdawczość finansowa a utrata wartości
+KIMSF 11 MSSF 2 – Wydanie akcji w ramach grupy i transakcje w nabytych akcjach własnych
+KIMSF 13 Programy lojalnościowe
+KIMSF 14 MSR 19 – Limit wyceny aktywów z tytułu określonych świadczeń, minimalne wymogi finansowania oraz ich wzajemne zależności
+KIMSF 15 Umowy dotyczące budowy nieruchomości
+KIMSF 16 Zabezpieczenie udziałów w aktywach netto jednostki działającej za granicą
+KIMSF 17 Przekazanie aktywów niegotówkowych właścicielom
+KIMSF 18 Przekazanie aktywów przez klientów
+KIMSF 19 Regulowanie zobowiązań finansowych przy pomocy instrumentów kapitałowych
+
+Interpretacje Stałego Komitetu ds. Interpretacji
+SKI-7 Wprowadzenie waluty euro
+SKI-10 Pomoc rządowa – brak konkretnego powiązania z działalnością operacyjną
+SKI-12 Konsolidacja – jednostki specjalnego przeznaczenia
+SKI-13 Wspólnie kontrolowane jednostki – niepieniężny wkład wspólników
+SKI-15 Leasing operacyjny – specjalne oferty promocyjne
+SKI-21 Podatek dochodowy – realizacja wartości przeszacowywanych aktywów, które nie podlegają amortyzacji
+SKI-25 Podatek dochodowy – zmiana statusu podatkowego jednostki gospodarczej lub jej udziałowców
+SKI-27 Ocena istoty transakcji wykorzystujących formę leasingu
+SKI-29 Umowy na usługi koncesjonowane – ujawnianie informacji
+SKI-31 Przychody – transakcje barterowe obejmujące usługi reklamowe
+SKI-32 Wartości niematerialne – koszt witryny internetowej
+
+Wprowadzanie MSSF
+MSSF używane są w wielu częściach świata, włączając w to Unię Europejską, Hongkong, Australię, Malezję, Pakistan, kraje należące do Rady Współpracy Zatoki Perskiej, Rosję, Republikę Południowej Afryki, Singapur i Turcję. Na dzień 27 sierpnia 2008 roku ponad 113 państw świata, łącznie z całą Europą, wymagało lub zezwalało na sprawozdawczość zgodną z MSSF. Około 85 spośród tych krajów wymagało tej sprawozdawczości we wszystkich krajowych, notowanych na giełdzie przedsiębiorstwach.
+
+Unia Europejska
+Wszystkie spółki giełdowe Unii Europejskiej są zobligowane do stosowania MSSF od 2005 roku.
+
+Procedura przyjmowania Międzynarodowych Standardów Sprawozdawczości Finansowej (MSSF) oraz ich interpretacji:
+Podstawa prawna zawarta jest w Rozporządzeniu 1606/2002 Parlamentu Europejskiego oraz Rady w sprawie stosowania międzynarodowych standardów rachunkowości, natomiast poszczególne MSR/MSSF włączane są do prawa UE w formie rozporządzeń wykonawczych Komisji Europejskiej.
+Procedura przyjęcia MSR/MSSF (tzw. „endorsement procedure”) obejmuje:
+wydanie rekomendacji w sprawie przyjęcia lub odrzucenia danego MSR/MSSF przez Europejską Grupę Doradczą ds. Sprawozdawczości Finansowej (European Financial Reporting Advisory Group – EFRAG) – prywatną organizację europejską doradzającą Komitetowi Regulacyjnemu ds. Rachunkowości,
+zaaprobowanie przyjęcia danego MSR/MSSF przez Komitet Regulacyjny ds. Rachunkowości (Accounting Regulatory Committee – ARC) działający przy Komisji Europejskiej,
+wydanie opinii przez Parlament Europejski,
+wydanie przez Komisję Europejską rozporządzenia zawierającego tekst przyjętego MSR/MSSF i opublikowanie go we wszystkich językach urzędowych UE.
+
+Polska
+W Polsce bezwzględnie obowiązujące są przepisy Ustawy o rachunkowości. W razie braku uregulowań w ustawie przedsiębiorstwo powinno kierować się krajowymi standardami rachunkowości, a dopiero w następnej kolejności Międzynarodowymi Standardami Rachunkowości. Jednakże wszystkie spółki notowane na giełdach państw członkowskich Unii Europejskiej, a więc także na Giełdzie Papierów Wartościowych w Warszawie, muszą sporządzać skonsolidowane sprawozdania finansowe w zgodnie z MSSF. Polska Ustawa o rachunkowości wymóg ten nałożyła również na wszystkie banki.
+
+Rosja
+Rząd Rosji wprowadził program dostosowania narodowych standardów rachunkowości do MSSF począwszy od 1998 roku. Od tego czasu Ministerstwo Finansów Federacji Rosyjskiej wprowadziło 20 nowych standardów rachunkowości, mając na celu powiązanie praktyk księgowych z MSSF. Pomimo tych działań najważniejsze różnice pozostały. Od 2004 roku wszystkie banki komercyjne są zobligowane do przygotowywania sprawozdań finansowych w zgodzie i ze standardami narodowymi, i MSSF. Pełne przejście na MSSF jest opóźnione i oczekuje się, że nastąpi od roku 2011.
+
+Hongkong
+Począwszy od 2005 roku, Standardy Sprawozdawczości Finansowej w Hongkongu są identyczne z MSSF. Podczas gdy Hongkong przyjął wiele spośród wcześniejszych MSR jako swoje standardy, niektóre nie zostały wprowadzone, na przykład MSR 32 i MSR 39. A wszystkie z ulepszeń z grudnia 2003 oraz nowe i poprawione MSSF opublikowane w 2004 i 2005 roku mają wpływ w Hongkongu poczynając od 2005 roku.
+
+Wyzwanie na 2005 rok, jakim było wprowadzenie w życie Standardów Sprawozdawczości Finansowej Hongkongu w sierpniu 2005 roku, zapoczątkowało streszczenie każdego standardu i interpretacji, co przyniosło kluczowe zmiany w rachunkowości Hongkongu, będące najbardziej znaczącymi rezultatami tego przyjęcia oraz powiązane z nim przewidywane zmiany w przyszłości. Jest tylko jeden standard w Hongkongu i kilka interpretacji, które nie mają odpowiednika w MSSF. Jest również kilka pomniejszych różnic słownych.
+
+Stany Zjednoczone (zbieżność z amerykańskimi standardami US GAAP)
+W roku 2002 na spotkaniu w Norwalk w stanie Connecticut, IASB i Rada Standardów Rachunkowości Finansowej (FASB) zgodziły się na zharmonizowanie działań i pracą nad usuwaniem różnic pomiędzy MSSF a amerykańskimi standardami US GAAP (porozumienie z Norwalk). W lutym 2006 FASB i IASB ogłosiły Memorandum Zrozumienia zawierające program tematów, na bazie których obie organizacje będą czynić starania, aby osiągnąć zbieżność w 2008 roku.
+
+Spółki amerykańskie zarejestrowane w SEC (amerykańska komisja papierów wartościowych i giełd) muszą przedstawiać sprawozdania finansowe przygotowane w zgodzie z US GAAP. Aż do 2007 roku zagraniczni emitenci byli zobligowani do publikowania sprawozdań przygotowanych albo według US GAAP, albo w zgodzie z lokalnymi zasadami księgowymi czy MSSF z przypisem uzgadniającym te zasady z amerykańskimi. Przypis ten nakładał dodatkowe koszty na spółki notowane na giełdach zarówno w Stanach Zjednoczonych, jak i w innym państwie. Od 2008 roku emitentom zagranicznym dodatkowo zezwala się na publikację sprawozdań finansowych zgodnych z MSSF bez przypisywania do US GAAP.
+
+W sierpniu 2008 roku SEC ogłosiła harmonogram, który dopuszcza spółki do raportowania według MSSF od 2010 roku, a wymaga tego od wszystkich do 2014 roku.
+
+SEC otrzymała ponad 220 uwag od zróżnicowanej grupy zainteresowanych na temat swojego harmonogramu, które zawierały kluczowe punkty takie jak:
+Ostatecznym celem musi być stosowanie na całym świecie jednego zestawu wysokiej jakości standardów sprawozdawczości finansowej.
+Większość respondentów popiera kontynuację procesu ujednolicania.
+Użytkownicy wolą opartą na zasadach strukturę rachunkowości, która łączy zastosowanie solidnego, profesjonalnego osądu, sprzężonego z jasnymi i przejrzystymi informacjami na temat ekonomicznej istoty transakcji, przyczynami osiągnięcia takiego rezultatu oraz powiązaną księgowością dla tejże transakcji.
+Istnieje świadomość, że spodziewane koszty wprowadzenia MSSF będą znaczne, ale oczekiwane koszty ich nie wprowadzenia będą jeszcze bardziej znaczące dla amerykańskich rynków kapitałowych.
+Potrzebna jest jasno określona data zobowiązania się i przyjęcia, niezależnie czy ma to być rok 2014, 2015 czy 2016.
+Mary Schapiro, przewodnicząca SEC, zapewniła aktualizację propozycji SEC podczas spotkania Fundacji Komitetu Międzynarodowych Standardów Rachunkowości (IASC Foundation) 6 lipca 2009.
+
+Indie
+Instytut Licencjonowanych Księgowych Indii (ICAI) ogłosił, że MSSF będą w Indiach przymusowe dla sprawozdań finansowych za okresy zaczynające się 1 kwietnia 2001 lub później. Zostanie to osiągnięte poprzez rewizję istniejących standardów rachunkowości, aby uczynić je zgodnymi z MSSF.
+
+Bank Rezerw (centralny bank Indii) wydał podobne oświadczenie dla banków.
+
+Japonia
+Komisja Standardów Rachunkowości Japonii zgodziła się na całkowite rozwiązanie wszelkich sprzeczności pomiędzy obecnymi japońskimi standardami rachunkowości JP-GAAP a MSSF do 2011 roku.
+
+
+
+Bibliografia
+Ustawa z dnia 29 września 1994&nbsp;r. o rachunkowości (Dz.U. z 2009 r. Nr 152, poz. 1223 ze zm.)
+Rozporządzenia Komisji Europejskiej przyjmujące określone międzynarodowe standardy rachunkowości
+W. Lachowski, 
+
+

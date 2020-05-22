@@ -1,0 +1,146 @@
+z/VM – system operacyjny działający na komputerach IBM mainframe i oferujący funkcjonalność maszyn wirtualnych. Geneza tego systemu sięga lat sześćdziesiątych XX wieku. Pierwsza wersja nazywała sie CP-40 i działała na komputerze IBM 360/40. Później rozwijany przez IBM  pod nazwą VM (VM/370, VM/SP, VM/XA, VM/ESA i obecnie z/VM). Praca z/VM jest sprzętowo wspomagana przez procesor, co pozwala na osiągnięcie niewielkich narzutów na wydajność maszyny wirualnej. z/VM pozwala na uruchomienie wielu systemów operacyjnych na jednej rzeczywistej maszynie, mogą to być wszystkie systemy działające na komputerze mainframe czyli: z/OS, z/VM, zTPF, z/VSE,  Linux, OpenSolaris. Istnieje również możliwość wielostopniowej wirtualizacji, czyli z/VM uruchamia na wirtualnej maszynie kolejny z/VM, który jest hypervisorem dla kolejnych maszyn wirtualnych. Poszczególne systemy mogą mieć różne wersje. z/VM umożliwia również emulację zasobów fizycznie niedostępnych w danej maszynie, np. pracę trzech procesorów na maszynie jednoprocesorowej.
+Dodatkowo istnieje dedykowany "system operacyjny" do pracy w maszynie wirtualnej - CMS (Początkowo nazywany Cambrige Monitor System, później nazwany Conversational Monitor System). CMS nie może być uruchomiony na fizycznym procesorze ani w partycji logicznej LPAR. Dla swojej pracy wymaga serwisów oferowanych przez z/VM. Testowanie, produkcja, programowanie odbywają się fizycznie w jednym komputerze. System może używać procesora kryptograficznego do szyfrowania danych. SSL (Secure Sockets Layer)''' obsługujące TCP/IP, używany jest również system Kerberos, zostało zaimplementowane również obsługę języków programowania takich jak APL2, Asembler, C, C++, COBOL, Fortran, Pascal, PL/I, REXX. z/VM był pierwszą platformą, na której udostępniono język skryptowy REXX.
+
+Opis
+Podstawowe informacje
+System w obecnej wersji może posiadać 8TB pamięci RAM, jednak jedna wirtualna maszyna na raz może używać 256GB. Na jeden obraz systemu z/VM może przypaść maksymalnie 32 procesory. Dzięki technikom wirtualizacji system pozwala na tworzenie wirtualnych minidysków na dyskach rzeczywistych dzięki czemu wirtualny system posiada rzeczywisty dysk. System potrafi obsługiwać macierze dyskowe w jednostce na której jest zainstalowany. Można tworzyć wirtualne przełączniki jak i również wirtualne karty sieciowe, dzięki czemu można doprowadzić do tego, że poszczególne maszyny będą się widziały tak jakby były oddzielnymi komputerami. W systemie zaimplementowane są takie elementy jak:
+CP „Control program”'' – odpowiada on za komunikacje pomiędzy poszczególnymi maszynami wirtualnymi, nadzoruje i przygotowywuje wirtualne środowisko, dla każdej z maszyn wirtualnych
+''„Conversational Monitor System”'' – CMS system operacyjny, który pozwala na komunikację użytkownika z maszyną. 
+APPC/VM – czyli zaawansowany program do komunikacji pomiędzy poszczególnymi aplikacjami, mogą się komunikować za pomocą sieci SNA. System współpracuje z z różnymi technologiami jak nie tylko wspomnianych tu SNA i TCP/IP, także BSC, X.25, Token Ring, Etherent, X-Windows, Network File System, Simple mail Protocol, IP Multicast, X.400 , NJE.
+„Dump View Facility”'' – aplikacja która pozwala przeglądać zrzuty błedów i innych danych takich jak zrzuty konsoli które chce otrzymać użytkownik. GCS, czyli system nadzorujący.
+HCD „Hardware Configuration Definition” oraz HCM „Hardware Configuration Manager”'' – służą do konfiguracji sprzętu w maszynie w której system się znajduje.
+REXX – język skryptowy. 
+''„IBM Tape manager for z/VM”'' – System zrzutu danych na taśmy. 
+TSAF „Transparent Services Access Facility” '' – pozwala na komunikacje z APPC/VM.
+
+Dzięki technologiom wirtualizacji system jest  rozwiązaniem które umożliwia  użytkownikom używanie więcej niż jednego systemu na jednej maszynie typu mainframe. Konsola w trybie ASCII jest dosyć przyjemna w pracy, a obsługa takich języków jak REXX znacznie ułatwia automatyzację procesów administracyjnych. Dzięki temu, że z/VM może obsługiwać procesory IFL dedykowane dla Linuksa oraz zAAP procesor dla Javy pod z/OS (pod z/VM instrukcje dedykowane do obsługi Javy nie są obsługiwane, traktowany jest jako dodatkowy IFL), cieszy się wielką popularnością wśród użytkowników komputerów typu Mainframe. Dzięki tym cechom jest jednym z idealnych rozwiązań dla serwerów sieciowych. Potrafi pracować w konfiguracji klient-serwer.
+
+Podstawowe założenia systemu z/VM
+System z/VM został stworzony by umożliwić wielu użytkownikom korzystanie z tej samej maszyny jaką jest jednostką typu mainframe w tym samym czasie. Każdy użytkownik miał mieć system dla siebie do którego mógłby się podłączyć za pomocą zdalnego terminala i praca na nim nie miała kolidować z pracą innych użytkowników. System z/VM umożliwia pełną funkcjonalną komunikację między poszczególnymi użytkownikami. Wykorzystano do tego technikę wirtualizacji. 
+
+Wirtualizacja to zdolność systemu komputerowego do dzielenia zasobów w jednym fizycznej maszynie na wiele wirtualnych serwerów. z/VM pozwala na współdzielenie fizycznych zasobów mainframe takich jak pamięć dyskowa, pamięć RAM, karty sieciowe oraz procesor. Zasoby te zarządzane są przez zarządcę.
+
+Zarządca w z/VM nazywany jest Control Program (CP). Kiedy użytkownik loguje się do systemu tworzy wirtualną maszynę, w której może uruchomić wiele operacyjnych systemów takich jak z/OS, z/TPF, Linux, z/VSE, CMS albo po prostu z/VM kolejnego poziomu. Tworzy wirtualną maszynę składającą się z wirtualnych procesorów, urządzeń komunikacyjnych oraz zasobów zmniejsza to znacząco koszty administracji. Dzięki temu możemy łatwiej i efektywniej rozplanować zasoby dla poszczególnych maszyn, które oddzielone od siebie mogą robić coś zupełnie innego znajdując się w jednym mainframe. Uruchomione oprogramowanie jest zupełnie nieświadome, że warstwa sprzętowa została zwirtualizowana. Wydaje mu się że działa na osobnej odseparowanej maszynie. Mechanizm ten pozwala na zredukowanie zużycie procesora i zasobów sprzętowych, poprzez dostarczenie maszynie takich zasobów jakich potrzebuje.
+
+Zalety wirtualizacji
+Zalety wirtualizacji:
+Większa utylizacja zasobów – Wirtualizacja pozwala na dynamiczny podział zasobów, dzięki czemu uzyskamy bardziej efektywną utylizację zasobów, zwłaszcza dla mało przeciążonych urządzeń które posiadają więcej zasobów niż potrzebują.
+Mniejsze koszty zarządzania – Wirtualizacja zwiększa efektywność personelu poprzez redukcje fizycznych zasobów które muszą być obsługiwane. Upraszcza zarządzanie zadaniami poprzez ich automatyzacje, wszystko jest bardziej scentralizowane. 
+Zwiększona elastyczność – Wirtualizacja pozwala włączać zasoby i dynamicznie je konfigurować co jest bardzo przydatne w rozwiązaniach biznesowych, gdzie potrzeby bardzo szybko się zmieniają. 
+Zwiększone bezpieczeństwo – Wirtualizacja pozwala na separacje maszyn od siebie co nie jest możliwe przy prostych mechanizmach współdzielenia. Dostarcza również kontrolę nad dostępem do danych i urządzeń. Każda wirtualna maszyna może być kompletnie odizolowana od głównego systemu i innych wirtualnych maszyn. Jeśli jedna maszyna zawiedzie lub zostanie zaatakowana nie wpływa to na pozostałe maszyny. Wirtualizacja chroni dane i pilnuje aplikacji żeby komunikowały się tylko skonfigurowanymi połączeniami sieciowymi przez operatora.
+Większa dostępność – Mechanizm wirtualizacji pozwala na fizyczne zamiany zasobów sprzętowych bez wiedzy użytkownika.
+Zwiększona skalowalność – Partycjonowanie i agregacja zasobów w wirtualnych zasobów polegającej na zmniejszaniu i zwiększaniu zasobów dla maszyny. Można skalować zasobami bez zmiany jakichkolwiek zasobów fizycznych.
+Interoperacyjnośc i inwestycja w bezpieczeństwo – Wirtualne zasoby mogą być kompatybilne z interfejsami i protokołami które są mogą być niedostępne dla ukrytych fizycznych zasobów. 
+
+Na powyższym rysunku widzimy system wirtualizacji realizowanej za pomocą systemu z/VM. System z/VM pełny dostęp to wszystkich zasobów, a potem tworzy oddzielne wirtualne maszyny, w których mogą być uruchomione inne systemy. Zasoby dzielone są za pomocą systemu 1 poziomu, czyli z/VM kontrolującego wszystkie zasoby i rozdzielane na inne maszyny. Dysk rzeczywisty dzielony jest na dyski wirtualne i systemy poniżej nie zdają są sprawy, że są zainstalowane na dysku wirtualnym. 
+W przypadku gdyby zabrakło zasobów na przykład dyskowych mamy dostępny mechanizm agregacji zasobów, możemy dowolnie powiększać miejsce na dysku dokładając maszynie cześć dysku rzeczywistego. Jeśli zajdzie taka potrzeba możemy utworzyć jeden wirtualny dysk składający się z kilku dysków rzeczywistych. Proces wirtualizacji pozwala nam na wymianę elementów bez wiedzy maszyny wirtualnej. Proces agregacji jest bardzo przydatny doskonale sprawdza się w rozwiązaniach biznesowych, jest również bardzo wygodny dla użytkownika.
+System emulacji zawarty w wirtualizacji pozwala nam uruchomić serwisy czasem nawet niedostępne sprzętowe mamy możliwość uruchomienia wirtualnego kontrolera SCSI, tworzenia wirtualnych taśm na fizycznym dysku.
+
+Dzięki systemowi wirtualizacji zawartemu w systemie z/VM możemy stworzyć doskonałe środowisko testowe. Funkcjonalność systemu dzięki mechanizmom wirtualizacji jest bardzo dużo i pozwala nam na realizowanie takich zadań jak:
+Testowanie programów, które z różnych przyczyn nie mogą działać w rzeczywistej maszynie lub po prostu nie można przerywać procesu produkcyjnego.
+Możemy przetestować nową odsłonę systemu – nowa wersja będzie zainstalowana oraz testowana w tym samym czasie na tej samej maszynie, w której znajduje się platforma produkcyjna. Pozwala to na wdrożenie i instalacje nowej wersji na platformę produkcyjną bardzo szybko, od razu można zauważyć jakie problemy z tego wynikną. Zdolność systemu Z/VM pozwala na instalację nowych wersji w czasie, gdy maszyny działające w niższym poziomie cały czas pracują.
+Wprowadzanie poprawek – Gdy wprowadzamy nowe poprawki do systemu utworzone przez producenta, wgrywamy je najpierw i testujemy. Poprawki można cofnąć do momentu, gdy nie zostaną zatwierdzone. Gdy zatwierdzimy poprawki nie mamy już takiej łatwej możliwości cofnięcia.
+Możliwość tworzenia kopi zapasowych – System z/VM nie jest wymagającym systemem może pracować na różnych modelach maszyn serwerowych dopóki są spełnione minimalne wymogi sprzętowe. Pozwala to na mało wymagające modele serwerowe, zużywa mniej zasobów sprzętowych. Dzięki tej zdolności możemy zrobić kopię zapasową na system o dużo wyższych wymaganiach sprzętowych niż w rzeczywistości mamy.
+Symulują nową konfigurację systemu przed instalacją urządzeń kanałowych oraz urządzeń I/O. Możemy odwołać się do urządzenia, które w rzeczywistości nie zostało jeszcze zainstalowane, tworząc odpowiednią konfigurację I/O. Możemy przetestować jakie to będzie miało skutki dla systemu.
+Systemy napisane specjalnie dla klientów mogą być testowane bez zakłócania procesu produkcyjnego.
+
+Architektura systemów "z"
+Architektura systemów „z” dostarcza 3 różne tryby pracy w których system może wykonywać operacje natywny, w LPAR, oraz w trybie gościa pod systemem z/VM.
+Tryb natywny – W natywnym trybie pracy zwanym czasem trybem prostym, wejście do fizycznego systemu używane jest przez pojedynczy system. Jest to najrzadziej używany tryb pracy. Obecnie w architekturze z196 został usunięty.
+Tryb [LPAR] – W trybie operacji logicznego partycjonowania lub LPAR pojedynczy system mainframowy jest logicznie podzielony na wiele partycji. W trybie LPAR najczęściej używanym trybie partycjonowania w mainframe, dostarczane są dodatkowe udogodnienia dzięki czemu uzyskujemy dodatkowe wspomaganie systemowe niedostępne w prostym trybie.
+Tryb gościa pod system z/VM – System z/VM ma zaimplementowane partycjonowanie na poziomie programowym. System może działać na partycjonowaniu LPAR, ale również na starszym sprzęcie w trybie prostym.
+
+Control Program
+Głównym składnikiem, na którym opiera się system jest „Control Program” CP. Jest odpowiedzialny za mechanizmy wirtualizacji w systemie dla realnej maszyny jak również dla maszyn wirtualnych.
+CP umożliwia tworzenie i zarządzanie systemami operacyjnymi we wszystkich maszynach wirtualnych. Jest odpowiedzialny za zarządzanie rzeczywistymi urządzeniami i zasobami oraz odpowiada za ich współdzielenie. CP dostarcza ustawienia uruchomionych wirtualnych maszyn bez względu na system operacyjny. Bez mechanizmów CP nie byłoby możliwości uruchomienia maszyny w dowolnym czasie. CP zezwala na uruchomienie wielu wirtualnych maszyn zwanymi gośćmi. Na rysunku poniżej widać jak CP rozdziela zasoby.
+
+Widać 4 procesory i 16 GB RAM-u. Jednak jeśli policzyć jakie zasoby zużywają goście to zobaczymy, że jest to 16 procesorów oraz 20 GB RAM-u. Dzieje się tak dlatego, że system operacyjny gościa jest wirtualny. Możemy przydzielić maszynie 64 procesory a CP podzieli tak zadania, żeby były wykonane w rzeczywistych procesorach. CP również planuje kolejność zadań i decyduje które mają pierwszeństwo.
+Dzielenie zasobów jest możliwe ponieważ zazwyczaj system operacyjny nie potrzebuje 100% zasobów. Czasem nawet system zużywa ich minimalną ilość, a wtedy CP jest w stanie przydzielić niewykorzystane zasoby innej maszynie Maszyny wirtualne są zdefiniowane w tzw. „user directory” zawarte są są tam ustawiania dla każdej maszyny wirtualnej zdefiniowanej w systemie z/VM. Wpisy definiują nazwę maszyny, prawa dostępu, liczbę procesorów, ile może wykorzystywać pamięci RAM. 
+CP nie jest środowiskiem takim jak Windows czy Linux. CP nie rozumie koncepcji plików, nie dostarcza metod wczytywania i uruchomienia różnych programów, nie pozwala użytkownikom na edytowanie tekstu przetwarzanie danych. CP jest tylko menadżerem zasobów, który pozwala dzięki technikom wirtualizacji na normalną pracę w wielu systemach. 
+System z/VM pierwszego jest zainstalowany na Logicznej Partycji (LPAR). System drugiego poziomu jest tworzony w systemie pierwszego poziomu. Gdy system z/VM jest głównym systemem w maszynie to w chwili, gdy użytkownik się loguje system uruchamia mechanizm wirtualizacji. 
+Maszyny uruchomione pod systemem pierwszego poziomu najczęściej nazywane są gośćmi.
+Istnieje jeszcze kilka pojęć:
+''„Uruchomić w pierwszym poziomie”'' – uruchomić bezpośrednio w maszynie rzeczywistej LPAR,
+''„Uruchomić w drugim poziomie”'' – to znaczy uruchomić maszynę jako gość.
+
+Zalety systemu
+System z/VM używa komponentów kryptograficznych dostarczanych do serwerów IBM. Sprawdza integralność i poprawność oraz chroni przed dostaniem się nieautoryzowanych aplikacji. Zabezpieczenia Kerberos i SSL dostarczone są do z/VM za pomocą stosu protokołów TCP/IP. Niepowołany dostęp może być chroniony przez zewnętrzny menadżer bezpieczeństwa taki jak RACF, z którym system współpracuje. Dynamiczna konfiguracja systemowa zmiany mogą być dostosowane bez konieczności restartu.
+
+Historia systemu
+Pomysł pracy wielu użytkowników na jednej maszynie powstał w głowach grupy studentów uniwersytetu w Massachusetts. Chcieli aby powstał system, który tak zorganizuję maszynę mainframe, tzn. podzieli ją na mniejsze w ten sposób, iż użytkownikowi będzie się wydawało, że ma całą maszynę dla siebie. System nosił pierwotnie nazwę CTSS ''„Compatible Time-Sharing System”''. 
+W czasie, gdy zostały zainstalowane na maszynie uniwersytetu lepsze procesory. Studenci zaczęli mieć pewne problemy z sprzętem, wtedy profesor Corbato zwrócił się z oficjalną prośbą do IBM, o pomoc. W odpowiedzi firma stworzyła dodatkowy bank pamięci oraz mechanizm ochrony pamięci. 
+
+Pierwsze publikacje datowane są na rok 1959. Od tego czasu zaczęły się badania i eksperymenty. Po 2 latach w 1961 roku system został zademonstrowany na platformie IBM 709 w Instytucie Technologii Massachusetts (MIT). W 1950 prezes IBM podarował szkole jednostkę IBM 704. Tak powstał pierwszy system CTSS. 	
+W lutym 1964 roku ruszyły również prace nad kolejnym systemem typu TSS nazwę projektu przyjęto na CP-40. W założeniach była praca, między innymi, na wielu konsolach. W systemie powstał tzw. „Control Program” czyli CP jak i również system CMS. Każdy użytkownik miał swoją własną maszynę, a przynajmniej tak mu się wydawało. System CMS przeznaczony był dla pojedynczego użytkownika. 
+W sierpniu 1965 roku IBM stworzył nową jednostkę System/360 Model 67. 
+
+W 1966 roku nie mając dostępu do modelu 67 ludzie z Cambridge spróbowali przekonwertować CP i CMS na nowy model. Odbyła się symulacja modelu 40 na modelu 67. Pierwsza próba uruchomienia systemu zakończyła się fiaskiem. Jednak w późniejszym czasie udało się uruchomić system w tym samym miejscu w laboratorium IBM w Yorku. IBM zaczął odsuwać problemy TSS od siebie i nie chciał już wspierać tego systemu.
+
+W czerwcu 1970 roku powstała kolejna jednostka IBM-a System/370 i ta również nie posiadała translacji adresów. Bardzo to rozgniewało klientów używających system TSS oraz CP/CMS. W maju 1971 IBM stwierdził, że nie jest zainteresowany rozwojem systemu CP/CMS. Jednak co nie zmieniło faktu, że w Cambride znów ruszyły prace nad system CP/CMS dla wersji S/370. Zanim system VM/370 został skończony grupa programistów rozrosła się do 110 osób. 
+IBM widząc to, że systemu VM nie da się tak łatwo zniszczyć, przetestował go na prototypie maszyny 370/145. W 1972 roku powstały dwa nowe komputery 370/158 oraz 370/168. Adresacja była wspólna i taka sama dla wszystkich. Pokazane zostały również cztery nowe systemy:
+
+Dos/VS
+OS/VS1
+OS/VS2
+oraz VM/370
+
+W 1977 dyrektor IBM po obejrzeniu prezentacji „dlaczego VM?” postanowił przeznaczyć więcej pieniędzy na jego rozwój. Rok później istniało już jakieś 1000 platform z zainstalowanymi systemami z/VM.
+W 1983 w systemie VM powstał język skryptowy REXX. W 1990 roku powstała jednostka System/390 z ESA (Enterprise System Architecture) jak i również wersja systemu VM/ESA. W roku 1994 powstała druga wersja systemu, która obsługiwała TCP/IP. Wydana w odpowiedzi na projekt Ricka Gophera, który stworzył „Webshare Web server”. W roku 1996 VM/ESA 2.2.0. Z wersji VM/ESA narodził się późniejszy system z/VM w obecnej wersji 5.
+Oczywiście system z/VM jest do tej pory rozwijany i wspomagany przez IBM jest drugim flagowym produktem dla komputerów klasy Mainframe zaraz po z/OS. Pozwala na uruchomienie wielu systemów na raz, bardzo dobrze współgra z systemem Linux, w którym ten najczęściej działa. W tej chwili jest około 14 tysięcy licencji wykupionych od IBM-a na ten system. Do tej pory jest używany język skryptowy REXX. Jak widać projekt który stworzyli studenci na uniwersytecie w Massachusetts doskonale się sprawdził i jest używany teraz w bardzo wielu miejscach.
+
+Struktura i komponenty
+W systemie występuje szereg komponentów, składających się na system do najważniejszych należą:
+
+„Control Program” CP – dostarcza każdemu użytkownikowi wirtualną maszynę z własnym środowiskiem. Każda maszyna posiada funkcjonalności realnego systemu jest współużytkownikiem realnego procesora, pamięci masowej, konsoli, urządzeń wejścia/wyjścia. Jednakże aby wykonać większość zadań potrzebny jest jeszcze system CMS lub taki system jak z/OS. CP umożliwia komunikacje między aplikacjami, programami w celu wymiany informacji z tym samym system z/VM lub innym znajdującym się w tej samej maszynie.
+
+„Conversational Monitor System” CMS – system porozumiewania się z użytkownikiem, pozwala na zapis, uruchamianie, odczyt aplikacji. Może tworzyć i edytować pliki z danymi. Pozwala na dostęp do zasobów sieciowych, komunikację między innymi użytkownikami systemu. Wprowadza użyteczny system plików. Pliki w formacie CMS-owym nie mogą być zapisywane ani odczytywane w innych systemach. Identyfikator pliku składa się z trzech pól:
+nazwy pliku(ang. File name)
+typu pliku(ang. File Type), 
+trybu pliku(ang. File Mode).
+Pliki mogą być współdzielone za pomocą „Shared File System” (SFS). Pliki znajdują się na minidyskach. 
+
+TCP/IP System używa stosu TCP/IP do komunikacji z siecią rozległą i lokalną. W systemie VM wykorzystywany jest również do komunikacji pomiędzy poszczególnymi maszynami wirtualnymi. Może być współdzielony pomiędzy Linuksem, z/VM-em oraz innymi środowiskami zaimplementowanymi w maszynie. Użytkownicy dzięki tej aplikacji mogą przesyłać sobie wiadomości, pliki, dzielić drukarki, ustanowić zdalny dostęp do niektórych zasobów. 
+TCP/IP dla systemu z/VM dostarcza następujące funkcje:
+Funkcje połączeniowe i bramy z fizycznym interfejsem maszyny.
+Funkcja serwera, dostarcza klientowi możliwość wysłania plików i wiadomości.
+Funkcje klienta gwarantującą możliwość połączenia z maszynami fizycznymi i wirtualnymi.
+Interfejs zarządzania siecią, która pozwala na wykrycie i zlikwidowanie problemu.
+Interfejs tworzenia oprogramowania, który pozwala na napisanie aplikacji opartej na strukturze klient-serwer.
+
+APPC/VM VTAM Support (AVS) – Mechanizm, który służy do wirtualnej komunikacji typu program – program wykorzystywany przez użytkowników system VM jak i również użytkowników sieci SNA. AVS i VTAM pracują w tym samym GCS, czyli tej samej grupie. AVS i VTAM pozwala na włączenie aplikacji APPC/VM w TSAF i serwisach komunikacyjnych. Zbiera komunikacje z następujących aplikacji:
+Z innego APPC/VM w innym systemie VM który nie znajduje się w sieci SNA.
+Z innych aplikacji APPC znajdujący się w innym systemie niż VM ale znajdującego się w sieci SNA.
+
+Dump View Facility – System diagnostyczny pozwała na zdiagnozowanie problemów z system. Używając tego systemu możemy wyświetlić błędy, data stworzenia, format danych które znajdują się w tzw. „dumps” czyli zostały zrzucone na dysk. Dołączone są narzędzia BlockDef oraz ViewSym, które ułatwią przeglądanie zrzutów.
+
+GCS – Group System Control – Pracuje jako maszyna typu XA lub XC w systemie CMS. Zdefiniowana jest jako wirtualna maszyna z prawami zarządcy. Dostarcza serwisy wielozadaniowości oraz pozwala dostarczyć numery procesów, które mogą być aktywne w jednej maszynie w tym samym czasie. Jedną z funkcji GCS-a jest obsługa natywnej architektury sieci SNA. Dostarcza oprogramowanie dla ACF/VTAM, i VSCS(Vtam SNA Console Support) i innych gdzie potrzebujemy serwisów typy VTAM, sieciowych aplikacji komunikacyjnych oraz drugiego systemy operacyjnego takiego jak VSE.
+
+HCD , HCM ”Hardware Configuration Definition and Hardware Configuration Manager” – Dostarcza pełną zarządzalność konfiguracji I/O również która dostępna jest na systemie z/OS. HCM używa interfejsu bazującego na graficznym menadżerze okien, komunikuje się z systemem za pomocą stosu TCP/IP. Graficzny interfejs umożliwia łatwe i elastyczne wydawanie komend do systemu, co ułatwia konfigurację. Dostarczamy dane o konfiguracji I/O do HCM który w wyniku kilku procesów przekazuje to do HCD. HCD działa na serwerze z/VM w wirtualnej maszynie która sprawdza i wykonuje aktualne procesy zmian i tworzenia zasobów sprzętowym oraz programowych wywołanych zmianami w konfiguracji procesów I/O. Narzędzia HCM i HCD są bardzo wygodne umożliwiają dynamiczną zmianę konfigurację, zmiany w logicznych partycjach w trakcie działania systemu bez konieczności wyłączenia czy restartu maszyny wirtualnej bądź rzeczywistej.
+HCD dostarcza również zapasowy interfejs użytkownika dla konfiguracji procesów I/O w wypadku, gdyby HCM było niedostępne. Mimo że dynamiczna konfiguracja I/O spisuje się znakomicie to dzięki HCM i HCD operator może zmieniać konfiguracje sprzętowo nawet gdy system działa. Również dostępny jest panel zarządzania dla logicznych partycji na serwerze. 
+
+Language Environament – Są to biblioteki napisane w C/C++, COBOL-u oraz PL/I. Komponent ten pozwala na tworzenie aplikacji wielojęzykowych i daje wiele metod dostępu do nich. Zawiera biblioteki serwisowe które ułatwiają kompilację i uruchomienie aplikacji na tym systemie. 
+
+OSA/SF „Open Systems Adapter-Express jest zintegrowana na platformach Z w celu podłączenia klientów z siecią LAN oraz WAN. Do tego komponentu można się dostać za pomocą CMS znając ID użytkownika, Rexx-a czy graficznego i interfejsu napisanego w Javie.
+
+REXX/VM – REXX jest językiem programowania zawiera wbudowany interpreter. Posiada również implementację w z/VM SAA®REXX. Interpreter jest również komponentem CMS i GCS. Używa 31-bitowej adresacji. Interpeter REXX/VM zwiększa pozwala na zwiększenie efektywności pracy. Używając REXX można napisać aplikacje, procedury, wywoływać ciągi poleceń CMS-owych oraz tworzyć makra w XEDIT-cie.
+
+TSAF „Transparent Services Access Facility” – dostarcza możliwość komunikacji wewnątrz zbioru systemów VM bez używania komponenty VTAM. TSAF uruchamiany jest w wirtualnej maszynie w której działa CMS. W grupie powyżej ośmiu systemów VM TSAF może być zainstalowany i uruchomiony w formie tzw. „ TSAF collection” czyli zbioru TSAF. Aplikacje APPC/VM na jednym systemie z/VM używają zbioru TSAF do komunikacji z innymi aplikacjami APPC/VM na innym systemie VM. Trasowanie jest transparentne dla programów. Komunikacja odbywa się pomiędzy programy tak jakby były uruchomione na jednym systemie.
+
+VMSES/E „Virtual Machine Serviceability Enhancements Staged/Extended” Komponent wspomagający instalacje systemu z/VM oraz zmiany kodu źródłowego, wprowadzania poprawek raportowania problemów. VMSES/E radzi sobie z kodem źródłowym i obiektowym. Komponent pomaga zbudować i zarządzać tzw. „saved segments”. Polecenie VMFSGMAP dostarcza interfejs mapujący „saved segments” i pozwala na modyfikacje i rozplanowanie ich w systemie.
+
+DFSMS/VM „Data Facility Storage Management Subsystem for VM. Pozwala na kontrole danych i zasobów dyskowych by zwiększyć ich efektywność. DFSMS/VM dostarcza następujących funkcji:
+Zarządzanie przestrzenią – zwiększa szybkość i efektywność utylizacji danych na dyskach typu DASD , zarządzając przestrzenią na polach SFS. Do zadań administratora należy:
+Konwersja przestrzeni SFS do DFSMS™ – zarządza przestrzenią za pomocą klas zarządzania dla plików i katalogów. Przekazuje DFSMS informacje na temat puli plików przez co zwiększa efektywność zarządzania nimi.
+Automatyczna przydzielanie plików za pomocą odpowiednich kryteriów zawartych w każdej klasie zarządzania. Mechanizm ten może kasować nie potrzebne pliki, ustanowić automatyczną migracji lub kasować i migrować pliki.
+Pozwala na kompresje nieużywanych danych do tak zwanej własne przestrzenie DFSMS. Pliki mogą być automatyczne otwarte i przeglądane, jednak dostęp do nich będzie wolniejszy bo są skompresowane. 
+
+Zarządzanie mini-dyskami – używa mechanizmu DFSMS/VM do zarządzania i sprawdzania integralności mini dysków oraz przenoszenia ich z jednej lokacji do innej. DFSMS/VM ułatwia migracje mini dysków z minimalną ingerencja użytkownika systemu.
+
+ISMF – Interactive Storage Managment Facility – DFSMS używa ISMF do dostarczania logicznego interfejsu do zarządzania zadaniami. Obsługa serwera taśm – DFSMS dostarcza natywnemu systemowi VM obsługi biblioteki taśm dla IBM 3494 i 3495
+
+Linki zewnętrzne
+Strona IBM dotycząca z/VM:
+Bibliografia
+Struktura systemu z/VM na platformie mainframe 
+Podręczniki IBM Redbook o z/VM
+, 

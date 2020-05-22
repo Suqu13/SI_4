@@ -1,0 +1,73 @@
+Kosztorys budowlany – dokument finansowy realizacji inwestycji budowlanej, określający kalkulację ceny według ustalonych metod, w oparciu o przedmiar lub obmiar robót. W przypadku kosztorysu inwestorskiego jest szacunkiem kosztów do poniesienia. Kosztorysy budowlane w różnej formie, zakresie i stopniu szczegółowości sporządza się niemal na każdym etapie realizacji inwestycji budowlanej.
+
+W procesie inwestycyjnym kosztorys przygotowuje inwestor w celu uzyskania informacji o planowanych kosztach inwestycji. Przygotowuje go również wykonawca w celu uzyskania wartości danej roboty określającej opłacalność jej realizacji. Kosztorys towarzyszy procesowi inwestycyjnemu w różnych jego fazach. Dla inwestora i wykonawcy jest on podstawą zawarcia umowy, przygotowania harmonogramu robót, zaplanowania realizacji robót, wyliczenia wartości inwestycji, pozwala określić wydatki poniesione na technologię robót, ustala zużycie nakładów RMS (robocizny, materiałów i sprzętu) w oparciu o katalogi lub analizę indywidualną, na koniec jest podstawą rozliczenia zakończenia inwestycji.
+
+Rozwój metod kosztorysowania w Polsce
+kosztorysowanie do 1939 r.,
+po 1949 r. wprowadzono Zestawienia Cen Jednostkowych (ZCJ), na podstawie jednolitych Katalogów Scalonych Norm Kosztorysowych (KSNK),
+w 1969 r, w miejsce ZCJ wprowadzono Katalogi Cen Kosztorysowych (KCK), a w miejsce KSNK wprowadzono Katalogi Norm Kosztorysowych (KNK),
+w kolejnych latach wprowadzono do KCK mnożniki do kosztorysowania M-76 i M-78,
+w 1983 r. wprowadzono metodę kosztorysowania szczegółowego opartą na Katalogach Nakładów Rzeczowych (KNR),
+Katalogi Scalonych Nakładów Rzeczowych (KSNR),
+w 2000 r. wprowadzono Kosztorysowe Normy Nakładów Rzeczowych (KNNR).
+
+Rodzaje kosztorysów budowlanych
+kosztorys inwestorski
+kosztorys ofertowy
+kosztorys zamienny
+kosztorys powykonawczy
+Te cztery rodzaje kosztorysów wyczerpują obecnie całkowicie potrzeby ustalania wartości zamówienia i kalkulacji cen za roboty budowlane.
+
+Metody kalkulacji
+Metoda kalkulacji uproszczonej
+W kosztorysowaniu uproszczonym cena kosztorysowania jest iloczynem ilości scalonych jednorodnych robót (np. 1 m² wykonanej nawierzchni betonowej, 1 m ułożenia przewodu wodociągowego itp.) oraz cen jednostkowych, a także ewentualnie podatku od towarów i usług VAT.
+
+Metoda kalkulacji szczegółowej
+Przy ustaleniu cen kosztorysowych robót należy posługiwać się następującą formułą kalkulacyjną:
+
+CK = R + M + Kz + S+ Kp + Z + Pv
+
+gdzie:
+
+CK – cena kosztorysowa określonego zakresu rzeczowego robót (obiektu, wydzielonego elementu, obiektu branżowego rodzaju robót lub wyodrębnionej w kosztorysie pozycji kalkulacyjnej)
+
+R – koszty robocizny bezpośredniej
+
+M – koszty materiałów bezpośrednich
+
+Kz – koszty zakupu materiałów obejmujące również koszty ich transportu zewnętrznego
+
+S – koszty pracy sprzętu oraz środków transportu technologicznego
+
+Kp – koszty pośrednie
+
+Z – zysk kalkulacyjny
+
+Pv - podatek VAT
+
+Podział według kryterium zakresu rzeczowego
+kosztorysy inwestycji
+kosztorysy obiektów
+kosztorysy robót
+kosztorys powykonawczy
+kosztorys dodatkowy
+kosztorys nakładczy
+
+Układ kosztorysu
+Kosztorys składa się z kilku części. Niektóre z nich są opcjonalne i mogą nie stanowić części danego kosztorysu.
+
+Sporządzanie kosztorysu
+Kosztorys sporządzany jest przez kosztorysanta. W przypadku budownictwa kosztorysantem może być:
+architekt,
+inżynier budownictwa, zarówno specjalności budownictwo jak i instalacji sanitarnych oraz elektrycznych,
+inne osoby, gdyż zawód ten obecnie nie wymaga specjalnych uprawnień.
+
+Zastosowanie kosztorysu w wycenie nieruchomości
+W wycenie nieruchomości stosuje się różne podejścia, metody i techniki szacowania nieruchomości. W podejściu kosztowym przy zastosowaniu metod odtworzenia i zastąpienia można stosować techniki: szczegółową, scalonych elementów i wskaźnikową, a w metodzie kosztów likwidacji technikę szczegółową. Jednym z elementów operatu opartego na tych technikach oraz czasem przy podejściu mieszanym, jest kosztorys jako sposób określenia ceny kosztorysowej. W wycenie nieruchomości korzysta się najczęściej z gotowych cenników o różnym stopniu scalenia elementów i zakresie. W pewnych sytuacjach oczywiście wykonuje się kalkulacje oparte na katalogach KNR, KNNR, KSNR  i innych.
+
+Zobacz też
+kosztorys
+kosztorysowanie
+kosztorysant
+
+

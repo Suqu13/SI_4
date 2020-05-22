@@ -1,0 +1,48 @@
+
+LG Swift L5''' (E610''') – smartfon produkowany przez LG Electronics. Zaprezentowany został w lutym 2012. Model ten dostępny jest również w wersji dual SIM - LG Swift L5 Dual (E615).
+Najważniejsze cechy i funkcje
+System operacyjny: Android 4.1.2 Jelly Bean
+Procesor: Qualcomm MSM7225A@800 MHz
+Procesor graficzny: Adreno 200 enhanced
+Wyświetlacz 4" o rozdzielczości 320 x 480 pikseli (144DPI)
+Wbudowana pamięć: 4 GB
+Możliwość rozszerzenia pamięci poprzez karty microSD i microSDHC (maks. 32 GB)
+Wbudowany aparat: 5 Mpx
+Nagrywanie wideo w rozdzielczości VGA
+Szybki dostęp do internetu dzięki połączeniom 3G – HSDPA oraz HSUPA (3.5G) i WLAN 802.11 b/g/n
+Wbudowany moduł GPS z funkcją AGPS
+Radio FM stereo z RDS
+Akcelerometr
+Częstotliwości działania
+GSM 850 900 1800 1900
+UMTS 900 2100
+Wymiary i waga
+Wymiary: 118,30 x 66,50 x 9,88 mm
+Masa telefonu (z baterią): 122 g
+Wyświetlacz
+4" - 320 x 480 px - pojemnościowy ekran dotykowy TFT Multi-Touch
+Aparat fotograficzny i kamera
+Wbudowany aparat fotograficzny 5 Mpx (2592x1944 px) z lampą błyskową LED
+Nagrywanie wideo w rozdzielczości VGA w formatach H.263, H.264 i MPEG-4
+Muzyka
+Odtwarzacz plików muzycznych
+Radio FM stereo z RDS
+Dyktafon
+Obsługiwane formaty: MP3, AAC, AAC+, eAAC+, WMA, AMR, WAV.
+Łączność
+Możliwość łączenia się i wyszukiwania sieci WLAN (IEEE 802.11b/g/n)
+Obsługa Bluetooth w standardzie 3.0 z EDR
+NFC
+Wyjście słuchawkowe 3.5 mm jack
+Transmisja danych
+GPRS
+EDGE
+Maksymalna szybkość pobierania danych (HSDPA) – 7,20 Mb/s
+HSUPA
+Zasilanie
+Bateria litowo-jonowa o pojemności 1540 mAh, umożliwiająca do 900 godzin czuwania lub do 10 godzin rozmowy (w trybie GSM), do 900 godzin czuwania lub do 9 godzin rozmowy (w trybie 3G), odtwarzanie muzyki do 30 godzin, odtwarzanie wideo do 3 godzin.
+
+Zobacz też
+LG Swift L3
+
+Bibliografia

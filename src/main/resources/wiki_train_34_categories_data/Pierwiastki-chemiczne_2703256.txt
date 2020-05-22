@@ -1,0 +1,29 @@
+Protaktyn (Pa) nie ma trwałych izotopów, znanych jest natomiast jego 29 izotopów promieniotwórczych, z których najstabilniejsze to  o okresie półtrwania (t1/2) 32&nbsp;760 lat,  t1/2 = 26,97 dni i  t1/2 = 17,4 dni. Wszystkie pozostałe radioaktywne izotopy mają czas połowicznego zaniku mniejszy niż 1,6 dnia, a większość z nich ma czasy połowicznego zaniku mniejsze niż 1,8 sekundy.
+
+Jedynymi naturalnie występującymi izotopami są: , który występuje jako produkt pośredni rozpadu  i stanowi blisko 100% naturalnego protaktynu, oraz krótko żyjące  i 234mPa, występujące w śladowych ilościach jako produkty pośrednie w rozpadzie . Średnia masa atomowa naturalnego protaktynu wynosi 231,03588(2) u.
+
+Głównym procesem rozpadu jądrowego dla izotopów protaktynu o Z ≤ 231 jest rozpad alfa, z wyjątkiem jąder o Z = 228–230, w których następuje wychwyt elektronu prowadzący do izotopów toru. Głównym procesem dla cięższych izotopów jest rozpad beta minus (β−). Głównymi produktami rozpadu  i izotopów lżejszych (włączając w to ) są izotopy aktynu, a dla cięższych izotopów protaktynu produktami rozpadu są izotopy uranu.
+
+Protaktyn-231
+ jest źródłem promieniowania α, o masie ustalonej na 231,03588 ±0,00002, będący członkiem naturalnie występującego szeregu promieniotwórczego uranu-235 (4'n+3). Jest produktem rozpadu , a dalej rozpada się na , od którego zaczerpnął swoją nazwę. Potwierdzone okresy półtrwania wynoszą od 32&nbsp;000 lat ±10% do 34&nbsp;300 ±300 lat. Ostatnie badania ustaliły okres półtrwania na ok. 35&nbsp;530 ±250 lat (z 95% pewnością). Dlatego też  jest jedynym izotopem dostępnym w miligramowych ilościach. Przekrój czynny wychwytu neutronów termicznych wynosi 211 ±2 barnów. Okres półtrwania samorzutnego rozszczepienia wynosi 1,1 lat.
+
+ może być wyizolowany z przetworzonych rud uranowych lub wytworzony na drodze dwóch reakcji jądrowych: (n,2n) lub (n,α). W zasadzie powinno to wyeliminować wszystkie problemy związane z otrzymywaniem . Jednakże napromieniowanie neutronami  daje duże ilości  i innych niepożądanych zanieczyszczeń, a względnie małe ilości .
+
+Protaktyn-233
+ jest jedynym izotopem protaktynu, który otrzymywany jest w gramowych ilościach. Pierwszy gram został otrzymany w 1964 roku przez naukowców w National Reactor Testing Station w Idaho. Znaczenie tego izotopu wynika z faktu, że jest etapem pośrednim w produkcji rozszczepialnego . Reakcja została odkryta w 1938 roku przez Meitner:
+(n,α)(β−,22 min) → (β−, 27 dni) → 
+ wyparł izotop  z zastosowań jako znacznik izotopowy ze względu na swój okres półtrwania, stosunkową łatwość otrzymywania oraz łatwe do wykrycia widmo gamma.
+
+Protaktyn-234
+Nuklid  występuje naturalnie w dwóch postaciach izomerycznych: 234mPa, odkryty przez Fajansa i Göhringa w 1913 roku oraz , odkryty przez Hahna w 1921 roku. Oba izotopy są źródłami promieniowania β−, rozpadając się do , ale 234mPa jest metastabilny i w 0,13% rozpadów, w wyniku przejścia izomerycznego, rozpada się do swojego stanu podstawowego, .
+
+Tabela izotopów
+
+
+
+
+Przypisy
+
+
+
+

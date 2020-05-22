@@ -1,0 +1,16 @@
+Architektura 4-bitowa – architektura komputera, w której słowa, adresy i inne dane mieszczą się w najwyżej 4 bitach pamięci.
+
+Oznacza to, ze za każdym odczytem lub zapisem do pamięci operacyjnej komputera lub w wewnętrznych transferach procesora używa się dokładnie czterobitowych porcji danych.
+
+Ze względu na ograniczenie do 16 adresów, architektury 4-bitowej nie odnosi się do przestrzeni adresowej.
+
+Procesor Intel 4004, pierwszy komercyjnie dostępny procesor na pojedynczym układzie scalonym - drugi na świecie (po F14 CADC) mikroprocesor - miał architekturę 4-bitową, 12-bitową przestrzeń adresową oraz 8 i 16 bitowe rozkazy (architektura harwardzka).
+
+Architektura 4-bitowa stosowana jest w kalkulatorach gdzie podstawową jednostką danych jest cyfra dziesiętna zapisana w 4 bitach, oraz prostych mikrokontrolerach. 
+
+Pierwsze układy o architekturze 4-bitowej, mikroprocesor Intel 4004 i mikrokontroler Texas Instruments TMS1000, powstały dla kalkulatorów.
+
+
+
+
+

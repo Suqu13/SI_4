@@ -1,0 +1,45 @@
+Rozrachunki – należności lub zobowiązania zarachowane w księgach jednostki gospodarczej na podstawie dokumentów księgowych (zewnętrznych lub wewnętrznych), charakteryzujące się precyzyjnym określeniem wierzyciela i dłużnika, zaakceptowaną przez nich kwotą, będącą przedmiotem rozrachunku, oraz ściśle określonym terminem i sposobem rozliczenia. Rozrachunki wykazywane są w kwotach nominalnych (brutto, tj. wraz z naliczonym podatkiem VAT). W księgach przedsiębiorstw działających w Polsce rozrachunki wykazywane są w walucie polskiej, to znaczy, że rozrachunki wyrażone w walucie obcej przeliczane są zgodnie z obowiązującymi przepisami na walutę polską.
+
+W rachunkowości dzieli się rozrachunki, stosując następujące kryteria:
+
+Podmiotowość:
+z odbiorcami i dostawcami,
+z pracownikami,
+z właścicielami (udziałowcami, wspólnikami, akcjonariuszami),
+z jednostkami publicznoprawnymi,
+z bankami,
+z innymi osobami fizycznymi i prawnymi.
+
+Przedmiotowość:
+z tytułu dostaw i usług,
+podatków i ubezpieczeń społecznych,
+dotacji,
+rozrachunków wewnątrzzakładowych,
+wynagrodzeń,
+zaliczek, 
+emisji papierów wartościowych,
+udzielonych i zaciągniętych pożyczek i kredytów, 
+niedoborów, szkód i nadwyżek w majątku przedsiębiorstwa
+zobowiązania i należności warunkowe.
+
+Zasięg terytorialny:
+krajowe i zagraniczne
+
+Termin spłaty:
+długoterminowe,
+krótkoterminowe.
+
+Rodzaj działalności jednostki:
+dotyczące działalności operacyjnej,
+finansowej i związane z budową środków trwałych.
+
+Pewność dokonywania rozliczeń:
+pewne,
+wątpliwe, czyli o charakterze spornym,
+a także:
+bezwarunkowe,
+warunkowe. 
+
+W bilansie rozrachunki ujmowane są zarówno w aktywach (należności długo- i krótkoterminowe), jak i w pasywach (zobowiązania długo- i krótkoterminowe).
+
+

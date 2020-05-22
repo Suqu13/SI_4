@@ -1,0 +1,45 @@
+Wzór kwiatowy – zapis służący do przedstawienia budowy morfologicznej kwiatu za pomocą symboli, liter i liczb. 
+Informuje o liczbie elementów w poszczególnych okółkach kwiatu oraz o ich zrastaniu się, a także o położeniu dna kwiatowego względem zalążni.
+
+Stosowane są następujące oznaczenia:
+P – okwiat pojedynczy, tj. niezróżnicowany na kielich i koronę (perigonium, perianthium)
+E – kieliszek (epicalyx)
+K – kielich (calyx)
+C – korona (corolla)
+A – pręcikowie (androeceum)
+G – słupkowie (gynaeceum)
+Liczby umieszczane w indeksie dolnym po poszczególnych literach oznaczają liczbę elementów w okółku, np. C5 oznacza koronę o 5 płatkach, K3 oznacza kielich o 3 działkach.
+Jeżeli elementów danego typu jest więcej niż 12, to zamiast podawania ich liczby (która najczęściej jest wówczas zmienna nawet w różnych kwiatach tej samej rośliny), pisze się znak nieskończoności (), który czytamy wiele albo liczne. Obecnie panuje tendencja do zastępowania tego znaku literą "n".
+
+Symbole:
+'''+''' – wskazuje, że elementy danego typu (płatki, pręciki) występują w dwóch okółkach, np. A5+5 oznacza pręciki w dwóch okółkach, w każdym po 5 pręcików.
+'''( )''' – oznacza zrastanie się (częściowe lub całkowite) elementów należących do tego samego okółka, np. C(5) wskazuje, że koronę tworzy 5 zrośniętych ze sobą płatków; A(9)+1 oznacza, że z 10 pręcików 9 zrosło się w rurkę (swymi nitkami), a dziesiąty jest wolny (=niezrośnięty).
+'''[ ]''' – stosuje się, aby wskazać przyrastanie nitek pręcików do korony, w zapisie typu: [C(5)A5].
+'''—''' – kreska nad liczbą słupków (lub owocolistków w przypadku słupkowia zrosłego) oznacza, że słupek jest dolny (a tym samym kwiat jest górny), pod tą liczbą – oznacza że słupek jest górny (a kwiat dolny). Kreska ta symbolizuje więc jak gdyby "poziom", na którym znajduje się dno kwiatowe. Np.  oznacza słupek dolny (=zalążnię dolną) zbudowaną z 5 zrośniętych owocolistków.
+
+Symbole symetrii kwiatu (umieszczane na początku wzoru kwiatowego):
+'''*''' – symetria promienista kwiatu
+'''↓'''  – symetria grzbiecista (rzadko spotyka się znak '''↑''').
+Symbole symetrii rzadko stosowane (przestarzałe):
+'''·|·''' – symetria podwójna (kwiaty takie ma np. rodzaj serduszka (Dicentra).
+'''+''' – symetria krzyżowa (kwiaty takie występują w rodzinie kapustowatych (Brassicaceae). Posiadają one tylko 2 osie symetrii.
+
+Wzory kwiatowe można zapisać dla każdego gatunku rośliny kwiatowej, w większości przypadków są jednak stałe dla całej rodziny lub podrodziny, a więc dla wielu blisko spokrewnionych rodzajów roślin.
+
+Przykłady wzorów kwiatowych: 
+rodzina liliowatych, rodzaj tulipan (Tulipa): '''*P3+3A3+3G(3)'''. 
+Oznacza to, że jest to kwiat promienisty, z okwiatem niezróżnicowanym na kielich i koronę, ale składającym się z dwóch 3-elementowych okółków okwiatu, z dwoma 3-elementowymi okółkami pręcików i 3-krotnym słupkiem (tj. zrośniętym z 3 owocolistków).
+
+Wzór kwiatowy nie oddaje następujących cech kwiatu, mających znaczenie diagnostyczne lub taksonomiczne: 
+wzajemnego ustawienia elementów z różnych okółków względem siebie (np. płatki nadległe lub śródlege w stosunku do działek),
+ukształtowanie płatków (np, obecność ostrogi),
+budowa (typ) zalążni, 
+obecność gynoforu.
+Informacje te zawiera narys kwiatowy.
+
+Typografia wzoru kwiatowego
+Gdy niedostępne są indeksy dolne, spotyka się liniowy zapis wzoru kwiatowego, np. dla rodziny kapustowatych pisze się * K 2+2, C 4, A 2+4, G 2 (sup).
+
+
+
+

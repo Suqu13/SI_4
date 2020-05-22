@@ -1,0 +1,9 @@
+WDMA (ang. Wavelength Division Multiple Access) - wielodostęp z podziałem długości fali.
+
+System współdzielenia medium stosowany w technice światłowodowej. Do jednego światłowodu wpuszczane są fale o różnych częstotliwościach, którym przyporządkowuje się określoną szerokość pasma. Pozwala to na przesyłanie w tym samym czasie wielu informacji na różnych kanałach - długościach fali, dzięki czemu zwiększa się możliwa szybkość transmisji.
+
+Zobacz też: optoelektronika
+
+
+
+

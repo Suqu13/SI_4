@@ -1,0 +1,59 @@
+Dysproz (łac. dysprosium), Dy – pierwiastkiem chemicznym o liczbie atomowej 66, jeden z metali ziem rzadkich. W przyrodzie nie występuje w postaci wolnej, ale najczęściej jako dodatkowy składnik minerału ksenotymu. Naturalnie występujący dysproz zawiera 7 izotopów, spośród których najbardziej rozpowszechniony jest .
+Dysproz został odkryty w 1886 roku przez Paul Émile Lecoq de Boisbaudran, lecz po raz pierwszy w czystej postaci został otrzymany dopiero w latach 50. XX wieku za pomocą wymiany jonowej. Ze względu na swój przekrój czynny używany jest do produkcji prętów kontrolnych w reaktorach jądrowych, a ze względu na swoją wysoką podatność magnetyczną na magnetyzację w urządzeniach do przechowywania danych jako składnik stopu Terfenol-D. Rozpuszczalne sole dysprozu są lekko toksyczne, natomiast nierozpuszczalne sole uważane są za nietoksyczne.
+
+Historia odkrycia
+W 1878 odkryto, że rudy erbu zawierają tlenki holmu i tulu. Francuski chemik Paul Émile Lecoq de Boisbaudran podczas swojej pracy w Paryżu w 1886 nad tlenkiem holmu zdołał wyodrębnić tlenek dysprozu. Jego procedura do wyizolowania dysprozu wymagała rozpuszczania tlenku dysprozu w kwasie, następnie dodawania amoniaku w celu strącenia wodorotlenku. Wyizolowanie dysprozu w ten sposób wymagało jedynie trzydziestu powtórzeń powyższej procedury. Zanim udało mu się uzyskać dysproz nazwał go dysprositos ( δυσπρόσιτος), co znaczy "trudny do otrzymania". Jednakże pierwiastek nie został wyizolowany w dostatecznie czystej formie, aż do wczesnych lat 50. XX wieku, kiedy została rozwinięta technika wymiany jonowej przez Franka Speddinga z Iowa State University.
+
+Właściwości
+Właściwości fizyczne
+Dysproz jest metalem ziem rzadkich posiadającym metaliczny, srebrzysty połysk. Jest na tyle miękki, że można kroić go nożem i łatwo poddaje się obróbce mechanicznej. Właściwości fizyczne dysprozu w bardzo dużej mierze zależą nawet od niewielkich ilości zanieczyszczeń (domieszek). W temperaturze poniżej 85 K dysproz jest ferromagnetykiem, powyżej tej temperatury staje się antyferromagnetykiem, by w temperaturze 179 K stać się paramagnetykiem.
+
+Właściwości chemiczne
+Świeża powierzchnia metalu w warunkach normalnych powoli matowieje tworząc tlenek dysprozu(III):
+4 Dy + 3 O2 → 2 Dy2O3
+Dysproz jest elektrododatni i reaguje powoli z zimną wodą, a szybciej z gorącą, tworząc wodorotlenek dysprozu(III):
+2 Dy (s) + 6 H2O(l) → 2 Dy(OH)3(aq) + 3 H2(g)
+Metaliczny dysproz z łatwością reaguje ze wszystkimi chlorowcami w temperaturze powyżej 200&nbsp;°C:
+2 Dy(s) + 3 F2(g) → 2 DyF3(s)   &nbsp;&nbsp;(zielony)
+2 Dy(s) + 3 Cl2(g) → 2 DyCl3(s) (biały)
+2 Dy(s) + 3 Br2(g) → 2 DyBr3(s) (biały)
+2 Dy(s) + 3 I2(g) → 2 DyI3(s)   &nbsp;&nbsp;&nbsp;(zielony)
+Dysproz z łatwością roztwarza się w rozcieńczonym kwasie siarkowym tworząc roztwór o żółtej barwie, zawierający jony Dy3+ w postaci kompleksu [Dy(OH2)9]3+:
+2 Dy(s) + 3 H2SO4(aq) → 2 Dy3+(aq) + 3 (aq) + 3 H2(g)
+
+Związki chemiczne
+
+Halogenki dysprozu, takie jak DyF3 czy DyBr3, na ogół przybierają żółtą barwę. Tlenek dysprozu(III) jest białym proszkiem, który posiada silniejsze właściwości magnetyczne niż tlenki żelaza.
+Dysproz w wysokich temperaturach reaguje z niemetalami, tworząc związki dwuskładnikowe o zmiennym składzie, najczęściej o +3 stopniu utlenienia, rzadziej na +2. Tego typu znane są związki jak: DyN, DyP, DyH2, DyH3, DyS, DyS2, Dy2S3, Dy5S7, DyB2, DyB4, DyB6, DyB12, Dy3C i Dy2C3.Większość związków dysprozu jest rozpuszczalnych w wodzie, jednakże związki jak tetrahydrat węglanu dysprozu(III) (Dy2(CO3)3·4H2O) i dekahydrat szczawianu dysprozu(III) (Dy2(C2O4)3·10H2O) są nierozpuszczalne w wodzie.
+
+Izotopy
+Występujący w przyrodzie dysproz składa się z 7 izotopów:156Dy, 158Dy, 160Dy, 161Dy, 162Dy, 163Dy, i 164Dy. Wszystkie wymienione są uważane za stabilne, chociaż 156Dy rozpada się poprzez rozpad alfa o czasie połowicznego rozpadu T1/2 ponad 1×1018&nbsp; lat. Spośród naturalnie występujących izotopów 164Dy jest najbardziej rozpowszechnionym o zawartości izotopu w metalu około 28%, następnie 162Dy o zawartości 26%. Najmniej rozpowszechnionym jest 156Dy – tylko 0,06%.
+
+Sztucznie otrzymano 29 radioizotopów o masach w przedziale od 138 do 173. Najstabilniejszym spośród nich jest 154Dy o T1/2 w przybliżeniu 3&nbsp;lat, następnie 159Dy o T1/2=144 dni. Najmniej stabilnym radioizotopem jest 138Dy o T1/2=200&nbsp;ms. Izotopy, które są lżejsze od stabilnych izotopów, mają tendencję do ulegania rozpadowi β+, podczas gdy cięższe częściej, z pewnymi wyjątkami, będą ulegały rozpadowi β–. 154Dy rozpada się przede wszystkim na skutek rozpadu alfa, a 152Dy i 159Dy na skutek wychwytu elektronu. Dysproz posiada również przynajmniej 11 metastabilnych izomerów jądrowych, w zakresie mas od 140 do 165. Najstabilniejszym spośród nich jest 165mDy o T1/2=1,257&nbsp;min. 149Dy posiada dwa stany wzbudzeń, z których drugi, 149m2Dy o czasie połowicznego rozpadu, który jest równy 28&nbsp;ns.
+
+Występowanie
+Dysproz nigdy nie jest spotykany w stanie wolnym, ale może być znaleziony w wielu minerałach, wliczając w to ksenotym, fergusonit, gadolinit, euksenit, polikraz, eszynit-(Y), monacyt i bastnazyt. Często występuje wraz z erbem, holmem i innymi metalami ziem rzadkich. Obecnie, najwięcej dysprozu jest uzyskiwane z adsorbujących jony złóż gliny w południowych Chinach. W glinach zawierających duże ilości itru dysproz jest rozpowszechnionym spośród ciężkich lantanowców, stanowiąc  7-8% koncentratu (itr stanowi odpowiednio 65% koncentratu). Zawartość dysprozu w skorupie ziemskiej wynosi około 5,2 mg/kg, a w wodzie morskiej 0,9 ng/L.
+
+Otrzymywanie
+Dysproz jest otrzymywany głównie z piasku monacytowego, będącego mieszaniną różnych fosforanów, jako produkt uboczny produkcji itru. Większość niepożądanych metali w surowym produkcie może być usunięta magnetycznie lub poprzez flotację. Dysproz również może być oddzielony od innych metali ziem rzadkich na drodze wymiany jonowej i w wyniku reakcji z fluorem lub chlorem wyizolowany w postaci fluorku lub chlorku dysprozu(III). Związki te mogą być zredukowane do wolnego metalu przy użyciu metalicznego wapnia lub litu:
+
+3 Ca + 2 DyF3 → 2 Dy + 3 CaF2
+3 Li + DyCl3 → Dy + 3 LiCl
+
+Związki są umieszczane w tantalowym tyglu i wypalane w atmosferze helu. Podczas zachodzenia reakcji, powstające halogenki i stopiony dysproz rozdzielają się z powodu różnicy gęstości. Dysproz może być oddzielony od zanieczyszczeń podczas ochładzania mieszaniny.
+
+Rocznie na świecie otrzymuje się około 100 ton dysprozu, z czym 99% otrzymywanych jest w Chinach. Cena dysprozu w okresie 2003—2010 wzrosła ponad 20-krotnie. W maju 2011 cena metalicznego dysprozu sięgała około 1000$ za kilogram.
+
+Zastosowanie
+Dysproz jest używany w połączeniu z wanadem, jak i innymi pierwiastkami ziem rzadkich, w wytwarzaniu materiałów używanych do produkcji laserów. Ze względu na wysoki przekrój czynny absorpcji neutronów termicznych przez dysproz (270 000 fm²), wykorzystywany jest jako detektor neutronów, a jego związki, jak cermety typu tlenek dysprozu-nikiel, są wykorzystywane w absorbujących neutrony prętach kontrolnych w reaktorach jądrowych. Chalkogenki dysprozowo-kadmowe są źródłem promieniowania podczerwonego, co jest wykorzystywane w badaniach nad reakcjami chemicznymi. Ze względu na wysoką podatność, dysprozu i jego związków na magnetyzację jest on wykorzystywany w magazynowaniu danych, głównie w twardych dyskach. Magnesy neodymowo-żelazo-borowe mogą mieć do 6% neodymu zastąpionego dysprozem aby podnieść koercję dla wymagających zastosowań jak silniki napędowe dla elektrycznych pojazdów hybrydowych. Ta zamiana wymagałaby ok. 100 g dysprozu na każdy wyprodukowany samochód. Opierając się na przewidywanej produkcji Toyoty na poziomie 2 mln sztuk rocznie, użycie dysprozu w takich zastosowaniach szybko wyczerpie zasoby tego metalu. Zastępowanie neodymu dysprozem może mieć jeszcze inne użyteczne zastosowania ze względu na poprawę odporności magnesów na korozję.
+Dysproz jest jednym ze składników terfenolu-D. Stop znalazł zastosowanie m.in. w przetwornikach i szerokopasmowych rezonatorach mechanicznych. 
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+
+LAR-160''' – izraelski artyleryjski zestaw rakietowy.
+
+W czasie wojny Jom Kippur w 1973 roku okazało się że izraelskie lotnictwo nie zawsze jest w stanie skutecznie wspierać wojska lądowe. Przyczyna tego było wysokie nasycenie wojsk arabskich przeciwlotniczymi zestawami rakietowymi. Dlatego podjęto decyzję o rozbudowie izraelskiej artylerii. Jednym z jej elementów było wprowadzenie do uzbrojenia wyrzutni pocisków rakietowych kalibru 160 (LAR-160) i 290 mm (MAR-290).
+
+Rakieta systemu LAR-160 miała zasięg ponad 30 km dzięki czemu możliwe było prowadzenie ognia spoza zasięgu wrogiej artylerii. Celem rakiet miały być zgrupowania wojsk pancernych, zmechanizowanych i artyleria przeciwnika. Głowica rakiety miała masę 50 kg i długości 1,28 m. Stosowano głowice odłamkowe, oraz kasetowe przenoszące 144 podpociski odłamkowe M42. Później powstały także głowice kasetowe przenoszące podpociski CL-3022S, odłamkowo-burzące naprowadzające się na cel podświetlany wiązką lasera, oraz zmodernizowany typ głowicy odłamkowej. Modyfikacji poddano także silnik rakiety dzięki czemu zasięg w wersji Mk.4 wzrósł do 45 km. Rakiety były odpalane z aluminiowych kontenerów-wyrzutni mieszczących 8 do 25 rakiet (standardowo 18).
+
+Kontenery rakiet LAR-160 były montowane na różnych podwoziach. W armii izraelskiej standardowym było podwozie czołgu lekkiego AMX-13 (2x18 rakiet), powstały także wersje na podwoziach M548 (2x13), M809 (2x13), czołgu M47 Patton (2x25), samochodzie MAN 10T, VCTP (2x18), a także wersja holowana i morską. W latach 90. rakiety LAR-16 stały się elementem izraelskiego pakietu modernizacyjnego sowieckich wyrzutni BM-21 Grad.
+
+Ostrzał celu rakietami LAR-160 rozpoczyna się od odpalenia pojedynczej rakiety. Jej lot jest śledzony przez stację radiolokacyjna Oerlikon Contraves Fieldguard lub Westinghause Quickfire. Rakieta jest niszczona po przebyciu 70-75% drogi do celu, a na podstawie obserwacji toru jej lotu ustalane są poprawki nastaw pozwalające uzyskać wysoką celność.
+
+Dane taktyczno-techniczne
+Kaliber: 160 mm
+Długość: 3310 mm
+Długość silnika: 2030 mm
+Długość głowicy: 1280 mmm
+Rozpiętość stateczników: 350 mm
+Masa: 110 kg
+Masa paliwa: 36 kg
+Masa wyrzutni na podwoziu AMX-13:
+własna: 13940 kg
+z rakietami: 19 200 kg
+
+Bibliografia

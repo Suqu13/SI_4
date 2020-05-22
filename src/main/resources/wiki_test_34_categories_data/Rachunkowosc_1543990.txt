@@ -1,0 +1,29 @@
+
+Paragon fiskalny – wydrukowany dla nabywcy przez kasę rejestrującą w momencie sprzedaży dokument fiskalny z dokonanej sprzedaży.
+
+Zgodnie z Rozporządzeniem Ministra Finansów z dnia 28 listopada 2008 roku w sprawie kryteriów i warunków technicznych, którym muszą odpowiadać kasy rejestrujące oraz warunków ich stosowania paragon fiskalny drukowany przez kasę musi zawierać następujące informacje:
+a) imię i nazwisko lub nazwę podatnika, adres punktu sprzedaży, a dla sprzedaży prowadzonej w miejscach niestałych - adres siedziby podatnika,
+b) numer identyfikacji podatkowej podatnika (NIP),
+c) numer kolejny wydruku,
+d) datę i czas (godzinę i minutę) sprzedaży,
+e) nazwę towaru lub usługi,
+f) cenę jednostkową towaru lub usługi,
+g) ilość i wartość sprzedaży,
+h) wartość sprzedaży i kwoty podatku według poszczególnych stawek,
+i) wartość sprzedaży zwolnionej z podatku,
+j) łączną kwotę podatku,
+k) łączną kwotę należności,
+I) kolejny numer paragonu fiskalnego,
+m) kolejny numer kasy i oznaczenie kasjera - przy więcej niż jednym stanowisku kasowym,
+n) logo fiskalne zgodne z załącznikiem nr 2 do rozporządzenia oraz numer unikatowy pamięci fiskalnej kasy.
+
+Wysokość znaków na paragonie fiskalnym nie może być mniejsza niż 2,50 mm, szerokość taśmy paragonowej nie może być mniejsza niż 28 mm.
+
+
+
+Zobacz też
+raport fiskalny
+paragon
+faktura
+
+

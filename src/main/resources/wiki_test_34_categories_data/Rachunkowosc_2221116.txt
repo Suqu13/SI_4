@@ -1,0 +1,5 @@
+Wartość księgowa przedsiębiorstwa wyceniana jest na podstawie pozycji bilansowych przedsiębiorstwa (aktywów i pasywów). Jest to różnica aktywów i zobowiązań spółki, równa jest wartości kapitału własnego.
+
+Jednym z podstawowych wskaźników analizy fundamentalnej służących do oceny bieżącej wartości rynkowej przedsiębiorstwa jest C/WK, czyli cena akcji do wartości księgowej.
+
+Bibliografia

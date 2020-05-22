@@ -1,0 +1,35 @@
+
+Polska wersja 8-bitowego mikroprocesora Intel 8080 produkowana w latach 70. i 80. XX w. przez nieistniejące już Naukowo Produkcyjne Centrum Półprzewodników CEMI w Warszawie.
+
+Dane podstawowe:
+
+8-bitowe słowo danych,
+stała lista 78 instrukcji,
+odrębne szyny danych i adresów,
+8-bitowa jednostka arytmetyczno-logiczna z możliwością pracy w systemie BCD, w systemie binarnym na słowach podwójnej długości, bezpośrednie sterowanie pamięci do pojemności 64 kB,
+6 8-bitowych rejestrów ogólnego przeznaczenia dostępnych dla programisty,
+8-bitowy akumulator,
+8-bitowy rejestr instrukcji,
+16-bitowy licznik rozkazów,
+16-bitowy wskaźnik stosu,
+kanał bezpośredniego dostępu do pamięci (DMA),
+4 sposoby adresowania pamięci,
+wielopoziomowy, wektorowy system przerwań,
+programowe rozwiązanie stosu w pamięci RAM,
+dwufazowy zegar o maksymalnej częstotliwości 3MHz,
+napięcia zasilania: +12V, +5V, -5V,
+współpraca z układami TTL (poza wejściami zegarowymi).
+
+Charakterystyka MCY7880
+producent: UNITRA CEMI
+data wprowadzenia na rynek: 1976
+technologia produkcji: 6.00 µm.
+liczba tranzystorów: 4000
+częstotliwość zegara: 3.0 MHz
+szyna danych: 8 bit
+częstotliwość taktowania magistrali: 3.0 MHz
+napięcie zasilania: (5±0.25)V
+pobór mocy: 1.5W
+zakres temperatury pracy: 0 - 70°C
+
+Linki zewnętrzne

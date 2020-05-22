@@ -1,0 +1,10 @@
+Repozytorium (łac. repositorium) – miejsce uporządkowanego przechowywania dokumentów, z których wszystkie przeznaczone są do udostępniania. Magazyn główny, centralny, zaprojektowany jednak w taki sposób, aby dostęp do wszystkich jego zasobów był równie łatwy. Niegdyś szafa na księgi i akta urzędowe. Dziś termin stosowany również w odniesieniu do najrozmaitszych zasobów cyfrowych (baz danych, zbioru pakietów czy kodów źródłowych), np. w Internecie.
+
+Repozytorium odnosi się przede wszystkim do miejsca przechowywania, a nie udostępniania. Jest to magazyn jednocześnie: główny, centralny, bieżący i łatwo dostępny. Nie są w nim przechowywane ani kopie, ani archiwalia.
+
+Zobacz też
+CVS
+Subversion
+Wikimedia Commons - repozytorium plików multimedialnych Wikipedii
+
+

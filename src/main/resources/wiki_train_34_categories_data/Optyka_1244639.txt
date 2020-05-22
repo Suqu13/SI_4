@@ -1,0 +1,13 @@
+Aktywne sieci optyczne opierają się zazwyczaj na urządzeniach dystrybuujących sygnał, takich jak rutery, przełączniki czy multipleksery. Sygnał opuszczający punkt centralny kierowany jest wyłącznie do użytkownika, do którego jest adresowany.
+
+Najbardziej powszechne aktywne sieci optyczne nazywane są aktywnym Ethernetem. Aktywny Ethernet używa optycznych przełączników do rozsyłania sygnału, łącząc punkty dystrybucyjne i końcowe w jedną, gigantyczną komutowaną sieć Ethernet. Sieci takie są tożsame sieciom akademickim, czy rozwiązaniom biznesowym, z tą różnicą, ze ich celem jest połączenie domów, czy budynków do punktów centralnych, a nie drukarek ze stacjami roboczymi na terenie kampusu.
+
+Każdy punkt dystrybucyjny może obsłużyć do 1000 użytkowników, choć najczęstszym rozwiązaniem jest przyłączenie około 400-500 klientów.
+Standard IEEE 802.3ah pozwala na przesyłanie danych z prędkością 100 Mbps w pełnym dupleksie.
+
+Zobacz też
+Pasywne sieci optyczne
+
+
+
+

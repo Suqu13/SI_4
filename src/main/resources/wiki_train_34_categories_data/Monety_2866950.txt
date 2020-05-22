@@ -1,0 +1,5 @@
+'''2 centy – moneta używana przez kraje strefy euro. Awersy każdej monety o tym nominale są wspólne dla wszystkich krajów emitujących. Natomiast rewersy są odmienne dla każdego państwa.
+
+
+
+

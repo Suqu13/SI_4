@@ -1,0 +1,103 @@
+
+
+Nexus – seria urządzeń przygotowanych przez Google we współpracy z firmami trzecimi, głównie smartfonów i tabletów (wyjątkiem jest Nexus Q), działających pod kontrolą "czystej" wersji systemu Android. Urządzenia te mają być w założeniu bardzo dobre jakościowo, zarówno jeśli chodzi o design, jak i hardware.
+
+Głównym kanałem dystrybucyjnym urządzeń tej serii, poza granicami Polski, jest sklep Google Play. Zakup bezpośrednio w nim jest niedostępny w Polsce, jednakże urządzenia te można kupić w polskich sieciach: Komputronik, RTV Euro AGD oraz u operatora telefonii komórkowej Play .
+
+Smartfony
+
+Nexus One
+
+
+Nexus One został wyprodukowany przez firmę HTC, ogłoszony pierwszym telefonem serii Nexus w styczniu 2010 r. Został wprowadzony na rynek wraz z Androidem 2.1 Eclair i został zaktualizowany, był pierwszym telefonem z systemem Android 2.2 Froyo. Szybko został zaktualizowany do Androida 2.3 Gingerbread.
+
+Nexus S
+
+
+Nexus S, wykonany przez firmę Samsung, został zaprezentowany po raz pierwszy w grudniu 2010 r., aby zostać wprowadzonym na rynek wraz z wersją Android 2.3 Gingerbread. grudniu 2011 r. został zaktualizowany do Android 4.0 Ice Cream Sandwich, a następnie do Android 4.1 Jelly Bean w lipcu 2012 r.
+
+Galaxy Nexus
+
+
+Galaxy Nexus, również dzieło firmy Samsung, zaprezentowany w listopadzie 2011 r. Zadebiutował na rynku wraz z premierą systemu Android 4.0 Ice Cream Sandwich. Został zaktualizowany do najnowszej wersji (Android 4.2 Jelly Bean) w listopadzie 2012 r., a następnie w kolejnych miesiącach, aż do najnowszej dostępnej (Android 4.3 Jelly Bean).
+
+Nexus 4
+
+
+Nexus 4 był wyprodukowanym przez LG smartfonem z serii Nexus i pierwszym urządzeniem Android używającym systemu Android 4.2 Jelly Bean fabrycznie, od momentu wypuszczenia na rynek. Nexus 4 ma 4,7 calowy wyświetlacz pokryty szkłem Corning Gorilla Glass 2, oferujący rozdzielczość 1280 x 768, czterordzeniowy procesor 1,5 GHz Qualcomm Snapdragon S4 Pro, dwa aparaty cyfrowe (odpowiednio 8 i 1,3 megapiksela). Jest też pierwszym urządzeniem z serii Nexus, oferującym funkcję bezprzewodowego ładowania. Cena w USA to 299$.
+
+Nexus 5
+Nexus 5 produkowany przez LG jest obecnie najnowszym smartfonem serii Nexus ukazanym światu dnia 31 października 2013. Działa pod kontrolą systemu Android w wersji 4.4, ma 4.95 calowy wyświetlacz o rozdzielczości 1920x1080p, co za tym idzie, oferuje gęstość pikseli na poziomie 445 ppi. Pokryty jest szkłem IPSCorning® Gorilla® Glass 3. Ma 8 Mpx główną kamerę z wbudowaną optyczną stabilizacją obrazu 1.3 Mpx przednią kamerę do rozmów wideo i zdjęć.
+CPU: Qualcomm Snapdragon™ 800, 2.26GHz procesor
+GPU: Adreno 330, 450MHz
+Oferuje 2GB pamięci RAM oraz jest dostępny w wersjach 32 i 16GB. Polscy dystrybutorzy oferują telefon w cenie ok. 1500-1700zł. (stan na kwiecień 2014)
+
+Nexus 6
+
+
+
+5,96-calowy ekran AMOLED o rozdzielczości QuadHD (2560 x 1440);
+32/64 GB pamięci wewnętrznej;
+Snapdragon 805 (4 x 2,7 GHz);
+3 GB pamięci RAM;
+grafika Adreno 420
+aparat główny 13 Mpix z optyczną stabilizacją obrazu i trybem HDR+;
+aparat przedni 2 Mpix;
+slot na kartę Nano SIM;
+głośniki stereo;
+obsługa kart Nano SIM;
+LTE;
+NFC;
+bateria 3220 mAh;
+wymiary: 82,98 x 159,26 x 10,06 mm
+waga: 184 gramy;
+Android 5.0 Lollipop
+
+Urządzenie zapowiada się bardzo interesująco (przynajmniej dla fanów dużych ekranów), ale niestety możemy zapomnieć o największej zalecie przedstawicieli linii Nexus, czyli atrakcyjnej cenie. W USA najtańszy wariant (32 GB pamięci) został wyceniony na 649 dolarów, co bez uwzględnienia europejskich podatków daje nam w przeliczeniu ok. 2150 zł. 
+Motorola chwali się przede wszystkim dużym ekranem o wysokiej rozdzielczości, szybkim ładowaniem (15 minut ładowania ma zapewnić dodatkowe 6 godzin pracy), aparatem z optyczną stabilizacją obrazu.
+
+
+Plik:Wiki 0015 NearbyMapView.png
+Plik:Nexus S.png
+Plik:Galaxy Nexus.png
+Plik:Nexus 4.png
+Plik:Nexus_5.png
+
+
+
+Tablety
+
+Nexus 7
+
+Został zaprezentowany na konferencji Google I/O 27 czerwca 2012. Jest to 7-calowy tablet z wyświetlaczem 1280x800 pikseli, opracowany we współpracy z firmą ASUS. Tablet jest pierwszym urządzeniem przeznaczonym do współpracy z systemem Android 4.1, jest dostosowany do zawartości sklepu Google Play e-booków, muzyki i filmów. Miał być z założenia urządzeniem kompaktowym i tanim, aby konkurować na przykład z Kindle Fire. Cena w USA to 199$.
+
+Nexus 7 Drugiej Generacji
+
+Nexus 7 "2" został zaprezentowany 24 lipca 2013 na śniadaniu prasowym zorganizowanym przez firmę Google. Tak jak jego poprzednik, tablet został wyprodukowany przez firmę ASUS i został de facto pierwszym urządzeniem z wersją Android 4.3. Tablet mimo identycznej wielkości wyświetlacza posiada rozdzielczość full HD (323ppi). Jest jedynym tabletem na rynku (stan na sierpień 2013) z tak dobrej jakości wyświetlaczem przy tej wielkości ekranu. Tablet posiada również szereg usprawnień w zakresie software'u jaki i hardware'u, m.in. najnowszą wersję Androida, wsparcie dla Bluetooth Smart, restrykcyjne profile, a także nową, 5-megapikselową kamerę tylną, obsługę LTE, NFC, procesor Qualcomm Snapdragon S4 Pro (1.5 GHz), głośniki stereo oraz 2 GB pamięci wewnętrznej RAM. Ponadto tablet został "odchudzony": jego wymiary to 114 x 200 x 8.65 mm. Tak jak Nexus 7 pierwszej generacji został stworzony aby konkurować z Kindle Fire i innymi 7" tabletami, nowy tablet również ma stanąć naprzeciw iPadowi Mini oraz całemu szybko rosnącemu rynkowi tabletów przenośnych. Nexus 7 jest na razie dostępny tylko w Stanach Zjednoczonych i Kanadzie (stan na 10 sierpnia 2013). Planowana data wprowadzenia urządzenia na rynki niektórych państw Europy, a także do Australii to 28 sierpnia 2013. Cena w USA to 229$.
+
+Nexus 9
+
+Nexus 9 to 8,9-calowy tablet giganta z Mountain View, który na tle poprzedników wyróżniać ma się jakością wykonania. Jego zaokrąglana na bokach obudowa wykonana jest głównie z matowego tworzywa sztucznego, a cienką ramkę zrobiono ze szczotkowanego aluminium. Przedni panel pokrywa oczywiście warstwa szkła Gorilla Glass 3.
+Sercem tabletu  jest 64-bitowa Tegra K1 z mobilnym Keplerem. Układ Nvidii wspierany jest przez 2 GB pamięci RAM, co wydaje się dość dziwne, gdyż Nexus 6 ma 3 GB RAM-u. Sprzęt dostępny będzie z 16 GB lub 32 GB wbudowanej pamięci, której nie będzie można rozszerzyć. Na pokładzie urządzenie nie zabraknie modułu Bluetooth 4.1, NFC, odbiornika GPS czy dwuzakresowego Wi-Fi w standardach a/b/g/n/ac, które będzie wspierać technologię MIMO (Multiple Input Multiple Output). Na rynku dostępna będzie również wersja tabletu, która obsługuje łączność 4G LTE (karty Nano SIM).
+
+8,9-calowy ekran IPS LCD nowego Nexusa będzie pracować w rozdzielczości 2048 x 1536 pikseli. Google tym samym zdecydowało się przerzucić na format 4:3, co wydaje się dobrym rozwiązaniem. Aparat główny ma 8-megapikselową matrycę, a przednia kamerka ma 1,6 Mpix. W obu przypadkach dostępna ma być optyka o jasności f/2.4. Z tyłu można znaleźć też pojedynczą diodę doświetlającą, która również ma srebrną obwódkę. Świetnym dodatkiem są głośniki stereo na przednim panelu, które wykorzystują technologię HTC BoomSound.
+
+Google Nexus 9 w przedsprzedaży na amerykańskim rynku pojawi się już 17 października 2014, a do sprzedaży trafi 3 listopada 2014. Podstawowa wersja urządzenia z 16 GB pamięci ma kosztować 399 dol., a model z 32 GB pamięci będzie droższy o 80 dol. Wariant z LTE (32 GB pamięci) ma rynku ma pojawić się w cenie 599 dol. (model w kolorze piaskowym nie będzie dostępny od razu). Do Nexusa 9 można dokupić będzie również etui z wbudowaną klawiaturą, która ma złącze magnetyczne. 
+
+Nexus 10
+
+
+Jest 10-calowym tabletem od firmy Samsung wprowadzonym na rynek pod koniec października 2012. Jego wyświetlacz ma przekątną 10,1 cala i rozdzielczość 2560×1600 pikseli, 16 lub 32 GB pamięci, Android 4.2, procesor dwurdzeniowy 1.7 GHz, Exynos 5. Cena w USA to 399$.
+
+Urządzenia służące do "streamowania" danych
+
+Nexus Q
+Urządzenie multimedialne, oparte na systemie Android i zintegrowane z usługą Google Play, dostępne tylko w  USA. Po serii negatywnych opinii, został wycofany w celu ulepszenia. Nexus Q kształtem przypominał kulę z kolorowymi diodami LED okrążającymi całą bryłę. Według konsumentów, Nexus Q był za drogi w porównaniu do oferowanych możliwości, jakimi było przesyłanie mediów z urządzenia z Androidem do telewizora, do którego kula została wcześniej podłączona, dlatego też Google zaprzestał produkcji krótko po premierze urządzenia.
+
+Chromecast
+Google Chromecast jest urządzeniem, a właściwie modemem zaprezentowanym 24 lipca 2013, który podłącza się do odbiornika TV, dzięki czemu można oglądać treści z urządzeń mobilnych na dużym ekranie. Chromecast, mimo nazwy pochodzącej od przeglądarki Chrome, tak naprawdę bazuje na systemie Android. Aby korzystać z jego możliwości, należy podłączyć urządzenie, które wielkością przypomina popularne pendrive'y, do wejścia HDMI w telewizorze. Następnie modem łączy się ze smartfonem z systemem Android lub iOS. Potem użytkownik wybiera treść i współdzieli ją z telewizorem. Co ważne, telefon lub tablet nie jest przekaźnikiem multimediów, a jedynie pilotem, co pozwala na korzystanie z urządzenia do innych celów. Aplikacje, które współpracują z Chromecastem to Pandora, Netflix, Youtube, Treści Google Play i oczywiście standardowe aplikacje takie jak Galeria czy wideo zapisane na telefonie lub tablecie. Możliwy jest również streaming multimediów z przeglądarki Chrome z odpowiednią wtyczką. Mimo braku fizycznego podobieństwa, Chromecast utożsamiany jest ze swoistą ewolucją Nexusa Q. Na razie urządzenie dostępne jest tylko w Stanach, a jego cena wynosi 35$ (stan na kwiecień 2013).
+
+
+
+
+Linki zewnętrzne

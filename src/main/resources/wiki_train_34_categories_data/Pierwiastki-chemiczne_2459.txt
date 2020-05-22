@@ -1,0 +1,75 @@
+
+Jod (I, łac. iodum) – pierwiastek chemiczny z grupy 17 – fluorowców w układzie okresowym. Jego nazwa pochodzi od  ioeides – fioletowy.
+
+W naturze występuje tylko jeden trwały jego izotop 127I. Izotopy promieniotwórcze: 123I,125I,129I,131I.
+
+Historia
+Odkryty w 1811 roku przez Bernarda Courtois, co zostało później potwierdzone przez chemików: Charles'a Desormes'a i Nicholasa Clementa. Właściwości jodu przebadał dokładniej w 1813 roku inny znany francuski chemik Joseph Louis Gay-Lussac, który nadał temu pierwiastkowi nazwę. Do pierwszego wyodrębnienia tego pierwiastka rościł sobie też prawa Humphry Davy, który pracował nad nim niezależnie, ale opublikował swoje wyniki kilkanaście dni po Dersormesie i Clémentcie.
+
+Zgodnie z zaleceniami IUPAC symbolem jodu jest "I", jednak w starszej literaturze spotyka się symbol "J".
+
+Właściwości
+Jod w temperaturze pokojowej występuje w postaci stałej,
+jako połyskliwa, niebiesko-czarna substancja krystaliczna sublimująca po podgrzaniu i dająca fioletowe opary o charakterystycznej drażniącej woni. Pary jodu można łatwo zestalić na chłodniejszej powierzchni w procesie resublimacji.
+
+Słabo rozpuszcza się w wodzie, ale jest dobrze rozpuszczalny w wodnym roztworze jodku potasu (płyn Lugola), gdzie tworzy jony In− (przede wszystkim I3−), a także w alkoholach, chloroformie i innych rozpuszczalnikach organicznych.
+
+Występowanie
+Jod należy do pierwiastków mało rozpowszechnionych w przyrodzie. Większe jego ilości występują w wodzie morskiej i  solankach, towarzyszy także pokładom saletry potasowej np. w Chile. Występuje również w wielu codziennych produktach spożywczych, jak mleko, jaja, warzywa czy ryby, o ile pochodzą z terenów, gdzie jod występuje w glebie i w wodzie. Są to jednak ilości niepokrywające dziennego zapotrzebowania człowieka.
+
+Związki i reaktywność jodu
+Chemia nieorganiczna
+Jod jest podobnie do innych chlorowców bardzo reaktywny, szczególnie wobec metali, z którymi daje jodki. Tworzy liczne związki chemiczne, w których występuje jako jedno-, trój-, pięcio- lub siedmiowartościowy. W reakcji z amoniakiem tworzy wybuchowy jodek azotu. Własności związków jodu są podobne do analogicznych związków bromu lub chloru. Najważniejsze nieorganiczne związki jodu to: jodek potasu, jodowodór, jodany, nadjodany.
+
+Chemia organiczna
+Wiązanie C-I jest najmniej trwałe spośród połączeń halogenów z węglem (anion jodkowy jest dość dobrą grupą opuszczającą) i ulega stosunkowo łatwemu podstawieniu przez nukleofile. Reaktywność jodków alkilowych wykorzystywana jest w reakcjach alkilowania, szczególnie do metylowania za pomocą jodku metylu CH3I (łagodniejszego od siarczanu dimetylu). Jednocześnie jest to przyczyną silnie toksycznych właściwości tych związków.
+
+Jod może tworzyć związki kompleksowe z niejonowymi związkami powierzchniowo czynnymi (tzw. jodofory).
+W takich kompleksach jod wiąże się z wodorem grupy hydroksylowej niejonowego związku za pomocą wiązania koordynacyjnego typu mostka wodorowego. Takie wiązanie nadaje jodoforom własności łagodności dla skóry przy jednoczesnym silnym działaniu mikrobiobójczym oraz własnościach myjących.
+
+Jod posiada łagodne własności utleniające, np. wobec organicznych związków fosforu:
+PIII → PV
+
+W środowisku zasadowym wiązanie P-I w diestrach kwasu jodofosforowego (RO)2P(O)I jest niezwykle reaktywne wobec nukleofili, w wyniku czego powstają różnorodne pochodne kwasu fosforowego (diestry, triestry, amidoestry, pirofosforany).
+
+W środowisku zasadowym jod reaguje bardzo łatwo z aldehydami i ketonami posiadającymi grupę metylową w pozycji α z wytworzeniem jodoformu (reakcja haoloformowa). Reakcja ta jest wykorzystywana w analityce, natomiast sam jodoform jest jednym z pierwszych antyseptyków.
+
+Zastosowanie
+Jod ma zastosowanie w produkcji barwników oraz w fotografii. W medycynie stosowany jest w leczeniu i profilaktyce chorób tarczycy oraz jako środek dezynfekujący w formie jodyny. Izotop promieniotwórczy jodu – 123I ma zastosowanie w rozpoznawaniu i leczeniu chorób tarczycy. Służy do wykrywania skrobi w analizie chemicznej (Próba jodowa), w formie jodyny bądź płynu Lugola. Ponadto pary jodu wykorzystywane są do wywoływania płytek do chromatografii cienkowarstwowej.
+
+Znaczenie biologiczne
+Jod jest dla człowieka niezbędnym mikroelementem. Jest on dostarczany z pożywieniem i wodą. Gleby i woda okolic nadmorskich są najbogatsze w jod, im dalej od morza gleby są coraz uboższe w ten pierwiastek. Najmniej jodu jest w glebie i wodzie okolic górskich i podgórskich.
+
+Ciało zdrowego człowieka zawiera 30–50&nbsp;mg jodu. Najwięcej jodu występuje w tarczycy, która ma zdolność aktywnego gromadzenia tego pierwiastka. Bez jodu niemożliwa jest produkcja w pęcherzykach tarczycy, tyroksyny (T4) i trójjodotyroniny (T3), niezbędnych do prawidłowego funkcjonowania wszystkich komórek organizmu.
+
+Niedobór jodu w pożywieniu i w wodzie po pewnym czasie może prowadzić do powstania wola tarczycy. Zagrożenia takie występuje przede wszystkim w okolicach górskich. Dawniej takie tereny były miejscami endemicznego występowania wola u osób dorosłych i wrodzonego kretynizmu u dzieci. Niedobór jodu niweluje się współcześnie przez jodowanie soli kuchennej lub dodatek związków jodu do mąki. 
+
+Niedostatek jodu u dzieci zmniejsza zdolność uczenia się, spowalnia wzrost i rozwój fizyczny w okresie pokwitania. U dorosłych może upośledzać funkcje rozrodcze, utrudniać utrzymanie ciąży, prowadzić do niewydolności tarczycy i w konsekwencji do zahamowania funkcji wielu narządów i procesów życiowych organizmu.
+
+Dobowe zapotrzebowanie na jod jest bardzo małe, ok. 200 mikrogramów, w ciągu całego życia potrzeba zatem zaledwie kilka gramów jodu. Niektóre warzywa głównie z rodziny krzyżowych (np. kapusta) zawierają rodanki, które działając antagonistycznie do jodków, mogą pogorszyć przebieg niektórych schorzeń tarczycy.
+
+
+
+
+
+Od około 12 tygodnia płód zaczyna wytwarzać własne hormony tarczycowe. Potrzebny jod pobiera od matki, także w okresie karmienia piersią jedynym źródłem jodu dla dziecka jest matka. Dlatego szczególnie w tych okresach uzupełnianie jodu w pożywieniu matki jest ważne.
+
+Na świecie około 1,5 miliarda ludzi żyje w rejonach dotkniętych niedoborem jodu, a wole endemiczne pojawia się u około 600 milionów ludzi. Taki sam problem występuje w Europie, a także na całym terenie Polski (oprócz wąskiego pasa wybrzeża Bałtyku), szczególnie w województwach południowych.
+
+Jod w postaci czystej jest toksyczny. W kontakcie ze skórą wywołuje silne podrażnienia, rany i zmiany martwicze. Po spożyciu powoduje pojawienie się ciemno zabarwionych wymiotów, bólu brzucha, ciemnych plam w ustach i szumu w uszach. W cięższych przypadkach może wystąpić wstrząs, majaczenie i stupor. Duże dawki jodu mogą uszkadzać ściany żołądka i jelit, a także nerki.
+
+Długotrwałe zażywanie zwiększonych dawek jodu prowadzi do rozwoju jodzicy.
+Dawka śmiertelna dla człowieka wynosi 3-4&nbsp;g.
+
+Leczenie zatruć jodem
+Osobom zatrutym podaje się doustnie zawiesinę skrobi, która wiąże jod, lub tiosiarczan sodu redukujący wolny jod do jodków. Stosuje się też wymuszoną diurezę i wyrównuje zaburzoną gospodarkę elektrolitową.
+
+Zobacz też
+zaburzenia z niedoboru jodu
+AOX
+
+
+
+
+
+Linki zewnętrzne

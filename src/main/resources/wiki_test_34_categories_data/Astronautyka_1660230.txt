@@ -1,0 +1,239 @@
+Orbiter STS – zasadnicza część wahadłowca amerykańskiego programu Space Transportation System.
+
+Klasyfikacja pojazdu
+Rozpatrując orbiter jako konstrukcję lotniczą trudno jest ten pojazd zakwalifikować do konkretnej rodziny statków latających. Przy starcie jego działanie w połączeniu z pozostałymi elementami przypomina rakietę nośną, w locie orbitalnym jest on sztucznym satelitą, a podczas powrotu na Ziemię szybowcem. Brytyjski rocznik „Jane's all the World's Aircraft” będący uznanym autorytetem w dziedzinie lotnictwa i astronautyki, określa go mianem reusable space transportation vehicle – transportowy pojazd kosmiczny wielokrotnego użytku. Orbiter jest jak dotąd najbardziej złożonym spośród wszystkich, kiedykolwiek zbudowanych statków latających. Rozmiarami zbliżony do pasażerskiego odrzutowca średniej wielkości np. DC-9, jest bezogonowym, wolnonośnym dolnopłatem ze skrzydłami w układzie podwójnej delty napędzanym silnikami rakietowymi.
+
+
+Przednia część kadłuba
+[[Plik:Przednia część kadłuba Wahadłowca.svg|thumb|240px|left|Przednia część kadłuba
+
+A – Kabina ciśnieniowa,
+B – Konstrukcja nośna
+
+'''1''' – Przedział awioniki rozdzielony ścianką na dwie części,
+'''2''' – Podłoga pokładu pilotażowego,
+'''3''' – Właz boczny,
+'''4''' – Podłoga pokładu mieszkalnego,
+'''5''' – Wsporniki podwozia przedniego,
+'''6''' – Ramy przednich okien pokładu pilotażowego,
+'''7''' – Ramy górnych okien,
+'''8''' – Usztywnione segmenty pokrycia,
+'''9''' – Przednia wręga wzmocniona,
+'''10''' – Otwór włazu bocznego,
+'''11''' – Wręga obrobiona skrawaniem,
+'''12''' – Obrobiona skrawaniem konstrukcja nośna komory podwozia przedniego.]]
+[[Plik:Wnętrze przedniej części kadłuba.svg|thumb|240px|Wnętrze przedniej części kadłuba
+'''1''' – Systemy awioniki,
+'''2''' – Stelaż dla aparatury naukowo-badawczej,
+'''3''' – Fotel pilota,
+'''4 i 5''' – Tylna ściana oddzielająca kabinę od ładowni,
+'''6''' – Fotel dowódcy,
+'''7''' – Właz boczny,
+'''8''' – Poręcz ułatwiająca wejścia na pokład pilotażowy,
+'''9''' – Systemy awioniki,
+'''10''' – Przejścia między pokładem pilotażowym a pokładem mieszkalnym.]]
+Jest to klasyczna konstrukcja półskorupowa wykonana w większości ze stopu aluminium 2024, składająca się z usztywnionego podłużnicami pokrycia, wręg i wręg wzmocnionych. Jednokrzywiznowe segmenty pokrycia, formowane technologią obciągania uchwytami są wzmocnione rozmieszczonymi co 8–13 cm podłużnicami. Co 76,2–94,4 cm do segmentów pokrycia są przynitowane wręgi. Wręga wzmocniona, łącząca przednią część kadłuba ze środkową, w górnej części jest wykonana z elementów płaskich i kształtowanych łączonych nitami i śrubami, w dolnej zaś z jednego elementu w całości obrobionego skrawaniem. W dolnej części kadłuba znajduje się komora podwozia przedniego przykryta specjalnie uszczelnionymi dwoma segmentami pokryw o konstrukcji typu plaster miodu. Przedni człon silniczków RCS, który po locie jest każdorazowo odłączany od pojazdu mocuje się do 16-punktowego przyłącza.
+
+Ciśnieniowa kabina (ang. crew module) o objętości 71,5 m3 jest niejako opleciona konstrukcją przedniej części kadłuba. Wykonano ją ze spawanych ze sobą elementów, z których każdy stanowi fragment pokrycia (wraz z podłużnicami) obrobiony z jednego kawałka aluminium. Przód kabiny zajmuje przedział awioniki. Pozostała część jest podzielona podłogą na pomieszczenia górnego pokładu pilotażowego (ang. flight deck) i dolnego pokładu mieszkalnego (ang. mid deck). Na dolnym pokładzie znajdują się dwa włazy: boczny i tylny. We włazie tylnym umożliwiającym dostęp do ładowni, wewnątrz lub na zewnątrz kabiny jest instalowana śluza powietrzna. Do tego włazu może być również mocowany tunel prowadzący do laboratorium Spacelab lub człon dokujący do łączenia z innymi obiektami na orbicie okołoziemskiej (np. ze stacją kosmiczną).
+
+W przedniej części pokładu pilotażowego umieszczono sześć dużych hermetycznych okien dających widoczność pilotom pojazdu. Ich szyby wyprodukowano w firmie Corning Glass z trzech warstw krzemionkowego szkła odpornego na uderzenia i wysokie temperatury. Dwa mniejsze okna umieszczone w suficie kabiny również wykonano z trzech warstw, z tym że środkowa jest zrobiona z hartowanego szkła glinokrzemianowego. Dwa okna w tylnej ścianie pokładu pilotażowego, umożliwiające obserwację ładowni, ze względu na zdecydowanie mniejsze wymagania termiczne składają się jedynie z dwóch warstw hartowanego szkła glinokrzemianowego.
+
+Pod podłogą pokładu umieszczono urządzenia klimatyzacyjne, bagażniki, miejsce składowania zużytych pojemników z wodorotlenkiem litu i wkładów filtrów. Dostęp do nich uzyskuje się poprzez dodatkowe pokrywy w podłodze pokładu.
+
+Środkowa część kadłuba
+Środkowa część kadłuba wyprodukowana w firmie General Dynamics (w dziale Convair Division) przenosi największe obciążenia w całej konstrukcji. Do niej są dołączone skrzydła i, poprzez wzmocnione wręgi, przednia i tylna część kadłuba. We wnętrzu mieści się niehermetyczna ładownia o średnicy 4,6 m i długości 18,3 m przykryta ogromnymi drzwiami, otwieranymi na orbicie okołoziemskiej. Długość środkowej części kadłuba wynosi 18,3 m, szerokość 5,2 m, wysokość 4 m a masa 6124 kg. Główną konstrukcją usztywniającą jest zespół dwunastu wręg. Są one złożone z elementów pionowych obrobionych skrawaniem, podpartych rurowymi zastrzałami aluminiowo-borowymi z tytanowymi końcówkami przyłączonymi technologią zgrzewania dyfuzyjnego. W górze środkowej części kadłuba znajdują się podłużnice główne i podłużnice drzwi ładowni. Podłużnice główne, obrobione skrawaniem, są nie tylko podstawowymi elementami „pracującymi” w wyginającym się kadłubie, lecz także przejmują naprężenia wzdłużne pochodzące od ładunków.
+
+Drzwi ładowni składają się z dwóch pokryw o długości 18,3 m, promieniu krzywizny 4,6 m i powierzchni 146,8 m² przymocowanych do zawiasów (trzynaście na każdej burcie) umieszczonych na podłużnicach środkowej części kadłuba. Zamknięcie umożliwiają zamki umieszczone na przedniej i tylnej części kadłuba oraz na styku obu pokryw. Rdzeń pokrywy jest zrobiony z nomeksowej struktury typu plaster miodu. Jest on powleczony warstwą kompozytu epoksygrafitowego. Na wewnętrznej powierzchni obu pokryw zainstalowano osiem radiatorów firmy Vought Corp. służących do rozpraszania ciepła wytwarzanego przez pracujące urządzenia i przez załogę. Cztery przednie radiatory, tworzące dwie płyty o długości 9,4 m każda, po otwarciu drzwi ładowni są odchylane do góry tak, aby promieniowanie cieplne mogło uchodzić zarówno z ich wewnętrznej, jak i zewnętrznej powierzchni. Na tylnej części każdej z pokryw są zainstalowane jeszcze cztery stałe radiatory emitujące promieniowanie tylko z powierzchni zewnętrznej. Automatyczne lub ręczne sterowanie otwieraniem i zamykaniem drzwi ładowni oraz ustawieniem radiatorów odbywa się ze stanowiska w tylnej części pokładu pilotażowego.
+
+We wnętrzu ładowni, na dwóch głównych podłużnicach co 9,9 cm są rozmieszczone punkty zaczepienia ładunków. Na przedniej części lewej głównej podłużnicy jest instalowany zdalny manipulator RMS. Drugi manipulator może zostać umieszczony na przeciwległej burcie ładowni, również na podłużnicy.
+[[Plik:Środkowa część kadłuba.svg|thumb|center|500px|Środkowa część kadłuba:
+
+A – Drzwi ładowni,
+B – Konstrukcja środkowej części kadłuba
+
+'''1''' – Przedni segment pokrywy ładowni,
+'''2''' – Tylny segment pokrywy ładowni,
+'''3''' – Złącze kompensacyjne,
+'''4''' – Keson
+'''5''' – Wręgi szczątkowe (13 szt.)
+'''6''' – Wręgi główne
+'''7''' – Podłużnica główna,
+'''8''' – Stabilizator zawiasów drzwi ładowni (3 szt.),
+'''9''' – Osłonięty kanał z przewodami elektrycznymi,
+'''10''' – Podłużnica drzwi ładowni,
+'''11''' – Górna część śródpłata,
+'''12''' – Połączenie z tylną wręgą wzmocnioną,
+'''13''' – Otwór do podłączania zewnętrznych przewodów z urządzeń nieziemnych,
+'''14''' – Konstrukcja przejmująca obciążenia od zespołu podwozia głównego,
+'''15''' – Zawias drzwi ładowni (13 szt.),
+'''16''' – Pokrycie boczne kadłuba,
+'''17''' – Połączenia kadłuba ze skrzydłem,
+'''18''' – Oprofilowanie przechodzące w część przykadłubową skrzydła,
+'''19''' – Zastrzały podpierające wręgi główne,
+'''20''' – Pokrycie spodu kadłuba.]]
+
+Tylna część kadłuba
+[[Plik:Tylna część kadłuba.svg|thumb|240px|Tylna część kadłuba:
+A – Konstrukcja nośna silników SSME i ich instalacji materiałów pędnych,
+B – Konstrukcja zewnętrzna.
+
+'''1''' – Górna część konstrukcji nośnej silników,
+'''2''' – Zespoły połączeń między orbiterem a zbiornikiem zewnętrznym,
+'''3''' – Dolna część konstrukcji nośnej silników,
+'''4''' – Zawieszenie turbopompy niskiego ciśnienia,
+'''5''' – Połączenie z drzwiami ładowni,
+'''6''' – Punkty mocowania statecznika pionowego,
+'''7''' – Tylna osłona cieplna,
+'''8''' – Połączenia z członem OMS/RCS,
+'''9''' – Połączenie z klapą kadłubową,
+'''10''' – Połączenie ze skrzydłem,
+'''11''' – Połączenie ze środkową częścią kadłuba,
+'''12''' – Tylna wręga wzmocniona.]]
+[[Plik:Konstruckja członu OMS-RCS.svg|thumb|240px|left|Konstrukcja członu OMS/RCS
+'''1''' – Tytanowy pas izolacji cieplnej,
+'''2''' – Epoksygrafitowe pokrycie z konstrukcją typu plaster miodu,
+'''3''' – Wręga wzmocniona ze stopu aluminiowego wspierająca zbiorniki materiałów pędnych,
+'''4''' – Konstrukcja unosząca silnik OMS
+'''5''' – Belki kratownicy stanowiącej podstawę członu,
+'''6''' – Wręgi o konstrukcji epoksygrafitowej.
+'''7''' – Poprzeczna belka usztywniająca,
+'''8''' – Poprzeczna wręga z tytanu unosząca zbiorniki materiałów pędnych,
+'''9''' – Górna pokrywa epoksygrafitowa,
+'''10''' – Żebro wspierające zbiorniki układu RCS,
+'''11''' – Belka usztywniająca umieszczona w osi symetrii modułu,
+'''12''' – Wręga wzmocniona obrobiona skrawaniem.]]
+W tylnej części kadłuba jest zainstalowany główny zespół napędowy orbitera: trzy silniki rakietowe SSME. Do niej również są dołączone dwa człony silnikowe OMS/RCS. Tylna część kadłuba konstrukcyjnie jest połączona z jego częścią środkową (poprzez wręgę wzmocnioną), dźwigarami skrzydeł, klapą kadłubową i statecznikiem pionowym. Wręga wzmocniona, oddzielająca środkową i tylną część kadłuba jest wykonana z elementów obrobionych skrawaniem z wytłoczonymi wgłębieniami usztywniającymi. Zapewnia ona ciągłość połączenia między dźwigarami skrzydeł i łączy się z przednim dźwigarem statecznika pionowego. Wewnątrz tej części kadłuba znajduje się konstrukcja nośna silników SSME, która przenosi nacisk pochodzący od pracujących silników na podłużnice środkowej części kadłuba, a także stanowi konstrukcję wsporczą dla instalacji doprowadzającej materiały pędne. W celu zabezpieczenia silników pozostałej części wyposażenia przed działaniem ciśnienia, narażeń akustycznych i cieplnych tylna część kadłuba jest szczelnie zamknięta i wypełniona azotem. W jej wnętrzu znajdują się trzy przedziały aparatury elektronicznej, a także gniazda do podłączenia przewodów startowych na wyrzutni.
+
+W dolnej części jest zainstalowana klapa kadłubowa spełniająca rolę ruchomej osłony zabezpieczającej metalowe dysze silników SSME przed tarciem powietrza podczas wlotu w atmosferę, będącą również powierzchnią aerodynamiczną sterującą pochyleniem pojazdu. Ma ona konstrukcję aluminiową, składającą się z żeber dźwigarów i pokrycia (częściowo typu plaster miodu) i jest poruszana za pomocą czterech obrotowych serwomechanizmów.
+[[Plik:Klapa kadłubowa.svg|thumb|500px|center|Klapa kadłubowa:
+A – Połączenie tylne części kadłuba z klapą,
+B – Konstrukcja klapy,
+C – Szczegóły przedniej części klapy.
+
+'''1''' – Obrotowy serwomechanizm,
+'''2''' – Zdejmowana pokrywa obsługowa,
+'''3''' – Górne pokrycie klapy,
+'''4''' – Krawędź spływu klapy całkowicie wypełniona konstrukcją typu plaster miodu,
+'''5''' – Żebro zamykające,
+'''6''' – Główna część dolnego pokrycia,
+'''7''' – Przednia część dolnego pokrycia,
+'''8''' – Obrobione skrawaniem żebro łączące z serwomechanizmem,
+'''9''' – Segmenty przedniego dźwigara klapy,
+'''10''' – Żebra usztywniające,
+'''11''' – Górna powierzchnia klapy,
+'''12''' – Dolna powierzchnia klapy,
+'''13''' – Dolna część krawędzi spływu tylnej części kadłuba,
+'''14''' – Uszczelnienie łańcuchowe,
+'''15''' – Aluminiowa powierzchnia trąca.]]
+
+Skrzydła
+[[Plik:Skrzydło Space Shuttle.svg|thumb|240px|Skrzydło:
+A – Konstrukcja skrzydła,
+B – Pokrycie typu plaster miodu o grubości 2,54 cm,
+C – Pokrycie gładkie, łączone z podłużnicami,
+D – Kąty wychylenia sterolotek.
+
+'''1''' – Przykadłubowa część skrzydła o dużym skosie,
+'''2''' – Część przejściowa,
+'''3''' – Keson,
+'''4''' – Połączenie skrzydło-sterolotka,
+'''5''' – Sterolotka,
+'''6''' – Płyty uszczelniające połączenie ze sterolotkami.]]
+Skrzydła orbitera zostały wyprodukowane przez firmę Grumman Corp. Mają one skos 81° na wewnętrznej i 45° na zewnętrznej krawędzi natarcia (podwójna delta) i modyfikowany profil NACA 0010. Wznios płata na krawędzi spływu wynosi 3,5°. Płat ma długość 18,3 m i dość dużą grubość: 1,52 m w najgrubszym miejscu. Skrzydło składa się z części przykadłubowej o dużym skosie, części przejściowej zawierającej komorę podwozia głównego, kesonu, przedniego dźwigara unoszącego konstrukcję systemu osłony termicznej krawędzi natarcia, połączeń nieruchomej części płata ze sterolotkami, płyt uszczelniających te połączenia i samych sterolotek (elewonów).
+
+Skrzydło jest konwencjonalną konstrukcją ze stopu aluminiowego złożoną z układu dźwigarów i żeber krytą dwoma rodzajami pokrycia: typu plaster miodu oraz gładkim, łączonym z odpowiednio ukształtowanymi podłużnicami. Przykadłubowa część skrzydła o dużym skosie łagodnie przechodzi w środkową część kadłuba. Jest to konstrukcja wzmocniona żebrami złożonymi z kratownic z rur aluminiowych, kryta usztywnioną blachą. Pośrednia sekcja skrzydła charakteryzuje się taką samą konstrukcją wewnętrzną, z tym że jej pokrycie stanowi struktura typu plaster miodu. Pośrednia część skrzydła przenosi część obciążenia pochodzącego od zespołu podwozia głównego (resztę przejmuje kadłub). Duży fragment jej spodniej części zajmuje pokrywa zespołu podwozia głównego. Konstrukcja kesonu skrzydła składa się z czterech dźwigarów połączonych z układem kratownicowych żeber. W celu zmniejszenia narażeń cieplnych dźwigary wykonano z falistego aluminium. Przedni dźwigar zamykający konstrukcję kesonu ma strukturę typu plaster miodu. Umożliwia on dołączenie wchodzących w skład systemu osłony termicznej dwudziestu dwóch segmentów z laminatu węglowego RCC tworzących nosek skrzydła. Z kolei do tylnego dźwigara zamykającego keson są dołączone sterolotki, pokrywy uszczelniające ich połączenia i elementy instalacji elektrycznej i hydraulicznej związane z obsługą poruszania sterów. Górne i dolne pokrycie kesonu jest zrobione ze wzmocnionej blachy aluminiowej.
+
+Sterolotki służące do sterowania pochyleniem i przechyleniem składają się z dwóch segmentów (tj. po 2 na skrzydło). Mają one konstrukcję wielożebrową z dźwigarami i pokryciem typu plaster miodu. Każdy z segmentów jest zawieszony na trzech przegubach. Na górnej, przedniej części sterolotek pokrycie wykonano z odpornej na temperaturę konstrukcji typu plaster miodu tytanowo-nomeksowej. Jest to miejsce, w którym metalowe płyty uszczelniające łączą się z nieruchomą częścią skrzydła i dlatego nie może być ono pokryte płytkami osłony termicznej. Skrzydło z kadłubem połączono śrubami. Wzdłuż górnej powierzchni skrzydła połączenie splatane jest poddane naprężeniom rozciągającym a wzdłuż dolnej powierzchni naprężeniom ścinającym.
+
+Statecznik pionowy
+[[Plik:Statecznik pionowy.svg|thumb|240px|Statecznik pionowy:
+A – Konstrukcja statecznika,
+B – Części ruchome działające jako ster kierunku,
+C – Części ruchome działające jako hamulec aerodynamiczny (pokazano wychylenia maksymalne)
+D – Fragment pokrycia statecznika w całości obrobiony skrawaniem.
+
+'''1''' – Nosek,
+'''2''' – Skrzynkowa konstrukcja statecznika,
+'''3''' – Końcówka,
+'''4''' – Uszczelnienie stożkowe,
+'''5''' – Obrotowe serwomechanizmy,
+'''6''' – Zespół napędowy serwomechanizmów,
+'''7''' – Połączenia z kadłubem,
+'''8''' – Przednie połączenie z kadłubem,
+'''9''' – Ożebrowane,
+'''10''' – Powierzchnie ruchome statecznika.]]
+Statecznik pionowy został skonstruowany w zakładach Fairchild Industries. Ma on skos 45°, powierzchnię 38,09 m², wysokość 8,08 m, cięciwę 6,70 m i masę 1247,4 kg. W jego skład wchodzi nieruchoma powierzchnia aerodynamiczna, dwie części steru kierunku, które po rozchyleniu na boki spełniają rolę hamulca aerodynamicznego oraz układ sterujący ustawieniem powierzchni ruchomych.
+
+Struktura statecznika składa się z kesonu złożonego z integralnych podłużnic, żeber usztywniających i dwóch dźwigarów obrobionych skrawaniem. Pokrycie jego przedniej części składa się z wzmocnionych płyt w całości obrobionych skrawaniem oraz, w dolnej części, z pokrycia typu plaster miodu. Statecznik jest przymocowany do tylnej części kadłuba za pomocą dziesięciu śrub. Krytycznym elementem statecznika pionowego jest nie pokryty osłoną termiczną stożkowy zespół uszczelniający stanowiący oś obrotu części ruchomych steru kierunku-hamulca aerodynamicznego. Ma on konstrukcję typu plaster miodu ze stopu Inconel wytrzymującą temperatury do 538&nbsp;°C. Napęd powierzchni ruchomych zapewnia serwomechanizm umieszczony w dolnej części krawędzi spływu. Każda z dwóch części steru kierunku rozkładających się na boki dzieli się dodatkowo na sekcję dolną i górną. Mają one konstrukcję złożoną z żeber i dźwigarów z pokryciem typu plaster miodu.
+
+Podwozie
+[[Plik:Podwozie Orbitera STS.svg|thumb|240px|left|Podwozie:
+A – Jeden z dwóch zespołów głównych,
+B – Zespół przedni.]]
+Podwozie orbitera składa się z trzech dwukołowych zespołów: przedniego i dwóch głównych. Przednie podwozie jest chowane do przodu i do góry do komory w dziobowej części kadłuba, podwozie główne również do przodu i do góry do komór w skrzydłach. Podczas startu, lotu orbitalnego i powrotu przez atmosferę podwozie jest schowane i zablokowane w uszczelnionych komorach zatrzaskowymi zaczepami. Otwarcie podwozia zaczyna się od hydraulicznego zwolnienia zatrzasku po czym zespoły kół na goleniach samoczynnie opadają do pozycji pionowej wspomagane sprężynami i siłownikami hydraulicznymi. Jednocześnie sprzężone z podwoziem mechanizmy otwierają pokrywy komór. Czas wyciągania podwozia wynosi maksymalnie 10 s, po czym jest ono blokowane w pozycji otwartej. Otwarcie pokryw komory podwozia przedniego jest wspomagane niewielkimi ładunkami pirotechnicznymi na przypadek wystąpienia zbyt silnego nacisku strumienia powietrza na pokrywy. Po wyciągnięciu podwozie nie może już być z powrotem wciągnięte w locie.
+
+Każdy z zespołów podwozia jest wyposażony w amortyzatory olejowo-gazowe firmy Menasco. W amortyzatorach tych pływająca przegroda oddziela gazowy azot od płynu hydraulicznego, tak aby uniemożliwić ich zmieszanie się w stanie nieważkości i tym samym zapewnić poprawne działanie przy lądowaniu. Podczas dobiegu można sterować kołami przedniego zespołu podwozia, uzupełniając działanie aerodynamicznego steru kierunku. Każde z czterech kół podwozia głównego zostało wyposażone w hamulce z berylowymi elementami ciernymi oraz cieczowo-powietrznym układem przeciwpoślizgowym. Koła opony i hamulce dostarczone zostały przez firmę B.F. Goodrich Co. Ciśnienie w oponach podwozia przedniego wynosi 2,07 MPa i jest ono obliczone na obciążenia statyczne do 105 kN, koła te mogą być użyte w pięciu kolejnych lądowaniach. Koła podwozia głównego obliczono na obciążenia do 200 kN. Największa bezpieczna dla podwozia prędkość lądowania orbitera z maksymalnym ładunkiem wynosi 415 km/h.
+
+System osłony termicznej TPS
+
+
+[[Plik:Schemat mocowania TPS Space Shuttle.svg|thumb|360px|Schemat mocowania izolacji systemu TPS do konstrukcji orbitera
+A – Mocowanie izolacji FRCI i AFRSI (orbitery [[Discovery (wahadłowiec)|OV-103]], [[Atlantis (wahadłowiec)|OV-104]], [[Endeavour|OV-105]] i częściowo [[Challenger (wahadłowiec)|OV-099]] oraz HRSI (orbiter [[Columbia (wahadłowiec)|OV-102]] i częściowo [[Challenger (wahadłowiec)|OV-099]]),
+B – Instalacja segmentów z laminatu węglowego RCC tworzących nosek skrzydła.
+
+'''1''' – Warstwa kleju RTV o grubości 0,19 cm,
+'''2''' – Podkład izolujący od naprężeń SIP,
+'''3''' – Aluminiowe pokrycie płatowca,
+'''4''' – Pasek z powlekanego filcu nomeksowego,
+'''5''' – Uszczelnienie segmentu RCC,
+'''6''' – Segment RCC,
+'''7''' – Płytki HRSI,
+'''8''' – Śruby ze stopu A-236 i tuleje ze stopu Inconel,
+'''9''' – Izolacja wewnętrzna,
+'''10''' – Przedni dźwigar skrzydła o konstrukcji metalowej,
+'''11''' – Uszczelka w szczelinie,
+'''12''' – Łączniki ze stopu Inconel 718.]]
+Orbiter jest największym jak dotąd pojazdem przeznaczonym do odbywania lotu powrotnego z orbity, który powoduje nagrzewanie się jego powierzchni do bardzo wysokiej temperatury w atmosferze. Został on wyposażony w system osłony termicznej TPS (ang. Thermal Protection System) wykonany z niezwykle lekkich ceramicznych izolacji cieplnych wyprodukowanych według najnowocześniejszych technologii. Osłona ta jest przeznaczona do wielokrotnego użytku (w założeniu stukrotnego) w zasadniczy sposób przyczyniając się do spełnienia postulatu wielorazowości i obniżenia kosztów lotów wahadłowców. Warto tu wspomnieć, że stosowane dotąd osłony ablacyjne kapsuł balistycznych, działające na zasadzie gwałtownego topienia, odparowania i chemicznego rozkładu materiału osłony ulegały zniszczeniu w czasie jednokrotnego powrotu z orbity.
+
+Podstawowym zadaniem osłony termicznej jest niedopuszczenie do nagrzania konstrukcji pojazdu, złożonej głównie z elementów aluminiowych i epoksygrafitowych powyżej 177&nbsp;°C, podczas gdy na zewnętrznej powierzchni orbitera temperatury przy wlocie w atmosferę wynoszą od 1648&nbsp;°C (na krawędziach natarcia skrzydeł) do ok. 300&nbsp;°C (górne fragmenty tylnej części kadłuba). System TPS chroni również przed nadmiernym nagrzaniem podczas wzlotu na orbitę i lotu orbitalnego w próżni, gdzie oprócz ciepła pochodzącego od promieni słonecznych zagraża mu wychłodzenie w cieniu. TPS stanowi także wodoodporną osłonę na wypadek lotu przez deszcz. Zastosowane izolacje cieplne mogą wytrzymywać nagłe zmiany temperatury oraz narażenia dynamiczne i akustyczne. System TPS pokrywa zdecydowaną większość powierzchni orbitera wynoszącą 1102 m². W przypadku orbitera OV-102 Columbia ma on masę 7245 kg, co stanowi ok. 10% masy własnej pojazdu.
+
+Opis poszczególnych rodzajów osłony termicznej (przede wszystkim w znaczeniu ilościowym) zostanie przedstawiony na przykładzie nieistniejącego już orbitera OV-102 Columbia.
+
+RCC – Reinforced Carbon-Carbon
+Nos i krawędzie natarcia skrzydeł narażone na działanie najwyższych temperatur pokryte zostały wzmocnionym laminatem węglowym RCC firmy Vought Corp. mającym chronić przed temperaturami wyższymi od 1260&nbsp;°C. Nos pokrywa jednoczęściowy kołpak, natomiast krawędzie natarcia płatów są uformowane z czterdziestu czterech stosunkowo dużych elementów (dwadzieścia dwa na każde skrzydło). Segmenty skrzydła przymocowano do przedniego dźwigara płata za pomocą przegubowych połączeń z trudno topliwych stopów Inconel-718 i A-286, co zmniejsza obciążenia powstające w wyniku wyginania się skrzydeł. Uszczelnienia między segmentami a powierzchnią pokrytą izolacją z płytek ceramicznych wykonano w postaci uszczelki teowej, również z laminatu RCC, pozwalającej na ruchy elementów mających różną rozszerzalność cieplną i zabezpieczają przed wniknięciem gorących gazów do wnętrza orbitera.
+
+Proces produkcji laminatu RCC rozpoczyna się od pokrycia tkaniny nylonowej grafitem i impregnacji żywicą fenolową. Uzyskany materiał jest składany w laminat, utwardzany pod ciśnieniem i pirolizowany, co prowadzi do zwęglenia żywicy. Kolejno następuje impregnacja alkoholem furfuralowym w komorze próżniowej, utwardzanie i pirolizowanie powtarzane na przemian trzykrotnie, aż do zamiany żywicy w węgiel. Dla zabezpieczenia przed utlenianiem w wysokich temperaturach, węgiel z zewnętrznych warstw laminatu jest chemicznie łączony z krzemem (dyfuzyjna reakcja w temperaturze 1760&nbsp;°C w obecności tlenku glinu, krzemu i węglika krzemu w atmosferze argonowej), co prowadzi do zamiany zewnętrznych wiązań C-C na SiC (węglik krzemu) i nadaje tworzywu charakterystyczną jasnoszarą barwę. Proces produkcyjny kończy impregnacja czteroetylkiem krzemu.
+
+Laminat mimo, że jest odporny na wysokie temperatury przewodzi jednak dobrze ciepło, co zmusza do stosowania dodatkowej warstwy izolującej od nagrzanej wewnętrznej powierzchni segmentów RCC. Izolacja ta składa się z włókien i płytek krzemionkowych (pod kołpakiem nosowym) oraz izolacji typu dynaflex z pokryciem z Inconelu w skrzydłach. Dopuszczalny zakres temperatur dla laminatu RCC zawiera się w przedziale od –121&nbsp;°C do 1648&nbsp;°C. Na powierzchni orbitera laminat został zainstalowany wszędzie tam gdzie oczekiwano przekroczenia temperatury 1260&nbsp;°C. Segmenty RCC pokrywają 38 m² powierzchni orbitera (3,45%) i mają łączną masę 1371 kg.
+
+HRSI – High Temperature Reusable Surface Insulation
+Największa część powierzchni Columbii jest pokryta dwoma rodzajami izolacji z płytek ceramicznych firmy Lockheed Missiles and Space Co. Pierwszy z nich, wytrzymująca wysokie temperatury izolacja powierzchniowa wielokrotnego użytku HRSI składa się z czarnych płytek o wymiarach 15,24x15,27 cm i grubości od 2,54 do 12 cm. Izolacja ta zabezpiecza obszary nagrzewające się podczas wlotu w atmosferę do temperatury ok. 649-704&nbsp;°C. Płytki składają się z amorficznych włókien mikronowej grubości złożonych w 99,7% z czystej krzemionki. Włókna zajmują zaledwie ok. 0,1 całej objętości materiału, dzięki czemu płytki charakteryzują się niewielką gęstością 144,5 kg/m3 (9 funtów na stopę sześcienną, stąd techniczne oznaczenie materiału LI-900). Lokalnie, w miejscach szczególnie narażonych cieplnie (okolice nosa, drzwi podwozia głównego, pokrywy połączeń ze zbiornikiem ET, krawędź natarcia statecznika pionowego) zastosowano materiał LI-2200 o gęstości 353,2 kg/m3.
+
+Proces produkcji płytek krzemionkowych rozpoczyna się od umieszczenia wymieszanych z wodą włókien w specjalnych formach, w celu utworzenia miękkich, porowatych bloków. Po dodaniu krzemionkowego lepiszcza bloki są spiekane. Uzyskany materiał tnie się na części i przycina do ściśle określonych rozmiarów za pomocą maszyn sterowanych numerycznie. Uzyskane w ten sposób odpowiednio ukształtowane płytki pokrywa się z pięciu stron warstwą utwardzanego szkliwa RCG (ang. Reaction Curred Glass) złożonego z SiO2, B2O3 i Si3B4 o grubości 0,406–0,457 mm. Szkliwo płytek HRSI jest zabarwione czarnym pigmentem. Każda płytka jest przeznaczona do zainstalowania w ściśle określonym miejscu powierzchni pojazdu i w celu ułatwienia montażu oraz ewentualnej wymiany nanosi się na nią indywidualny numer identyfikacyjny.
+
+Płytka odznacza się dużą odpornością na udary cieplne. Na przykład nagrzana do temperatury 1260&nbsp;°C następnie wrzucona do zimnej wody nie ulega uszkodzeniu. Płytka po wyjęciu z pieca stygnie na tyle szybko, że można chwycić za jej krawędzie gołą ręką, podczas gdy wnętrze świeci jeszcze na czerwono od gorąca. Współczynnik emisji płytki wynosi 0,85, a współczynnik absorpcji światła słonecznego również 0,85. Na powierzchni Columbii zainstalowano ponad 20 tys. płytek HRSI (głównie na spodniej stronie pojazdu), które pokrywają 477 m² (43,3%) i mają łączną masę 3826 kg. Ponieważ są one zbyt kruche, aby wytrzymać naprężenia spowodowane wyginaniem się metalowej konstrukcji płatowca, płytki przytwierdza się do pojazdu za pośrednictwem podkładu SIP (ang. Strain Isolation Pad) z filcu nomeksowego o grubości 0,23 lub 0,40 cm. Przykleja się go do aluminiowej konstrukcji klejem RTV (ang. Room Temperature Vulcanizing Adhesive) wulkanizującym w temperaturze pokojowej (produkcji firmy General Electric Co.). Tym samym klejem płytki przykleja się do podkładu. Ponieważ rozszerzalność termiczna płytek jest znikoma wobec rozszerzalności konstrukcji, pozostawiono między nimi szczeliny o szerokości 0,63-1,65 mm, uniemożliwiające ich wzajemne zetknięcie. Dna szczelin zabezpieczone są paskami z powlekanego filcu nomeksowego o grubości 0,23 lub 0,40 cm i szerokości 1,90 cm.
+
+FRCI-12 – Fibrous Refractory Composite Insulation
+W orbiterze Challenger część płytek HRSI z materiału LI-2200 zastąpiono nową izolacją FRCI-12. W następnych orbiterach materiał FRCI-12 mający gęstość 192,7 kg/m3 całkowicie zastąpił LI-2200, a FRCI-10 o gęstości 160,5 kg/m3 — LI-900. Izolacja FRCI opracowana w należącym do NASA ośrodku Ames charakteryzuje się większą wytrzymałością mechaniczną i cieplną wynikającą z zastosowania włókien AB 312 z borokrzemianu glinu o nazwie Nextel (produkt firmy 3M Company). Materiał złożony w 80% z włókien krzemionkowych i 20% Nextelu ma zwiększoną wytrzymałość, gdyż włókna borokrzemianu glinu aktywują przenikanie boru powodując „spawanie” włókien krzemionki podczas spiekania w wysokiej temperaturze. Mimo, że materiał FRCI ma gęstość nieco większą niż HRSI, to osłona z kompozytu krzemionkowego jest lżejsza. Płytki z FRCI mają mniejszą grubość dzięki większej wytrzymałości cieplnej i mechanicznej.
+
+LRSI – Low Temperature Reusable Surface Insulation
+Dużą część górnej powierzchni Columbii i Challengera pokryto niskotemperaturową izolacją powierzchniową LRSI złożoną z płytek o strukturze identycznej jak w płytkach HRSI, ale różniących się białą barwą powlekającego je szkliwa. Kolor ten, uzyskany dzięki pigmentowi zawierającemu krzemionkę i błyszczący Al2O3, jest ważny ze względu na odpowiednie własności podczas nagrzewania pojazdu w promieniach Słońca na orbicie. Płytki LRSI mają współczynnik emisji równy 0,8 i współczynnik absorpcji światła słonecznego 0,32. Pokrywają one obszar narażony na temperatury z zakresu 371-649&nbsp;°C. Wymiary płytki wynoszą 20x20 cm, a ich grubość zmienia się od 0,5 do 3,5 cm. Izolacja LRSI w Columbii zajmuje 268 m² powierzchni (24,3%) i ma masę 917 kg.
+
+AFRSI – Advanced Flexible Reusable Surface Insulation
+W orbiterze Challenger część izolacji LRSI (na osłonach silników OMS) zastąpiono nowym materiałem izolacyjnym AFRSI. Składa się on z warstwy amorficznych włókien krzemionkowych włożonej między dwa arkusze tkaniny tkanej z tychże włókien przeszytych nicią kwarcową, co powoduje, że materiał wyglądem przypomina kołdrę. AFRSI w postaci arkuszy jest przyklejany klejem RTV do powierzchni orbitera. Materiał ma gęstość 96,3 kg/m3 i grubość 0,31—1,27 cm. W pojazdach Discovery i Atlantis AFRSI zastąpił prawie wszystkie płytki LRSI, przyczyniając się do poważnych oszczędności masy, ułatwienia montażu i podwyższenia trwałości izolacji.
+
+FRSI – Felt Reusable Surface Insulation
+Ostatnim rodzajem izolacji używanym w miejscach najmniej narażonych cieplnie (temperatury poniżej 371&nbsp;°C) jest filcowa izolacja wielokrotnego użytku FRSI firmy Albany Research Company. Arkusze filcu z nomeksu (poliamid aromatyczny) są przyklejane do aluminiowej konstrukcji statku klejem RTV.
+
+Proces produkcji filcu zaczyna się od sfałdowania i umieszczenia w maszynie do gręplowania nomeksowych włókien o długości 7,62 cm (3 cale). Maszyna miesza kępy włókien i „czesze” je aż do uzyskania ciągłej masy w przybliżeniu równoległych włókien. Dwie warstwy tak przygotowanego materiału są zszywane razem, a następnie wielokrotnie przeszywane dla osiągnięcia pożądanej wytrzymałości. Kolejno jest on przepuszczany przez ogrzane wałki gładziarki pod wybranym ciśnieniem w celu uzyskania grubości 0,4-1 cm i wygrzewany w temperaturze 260&nbsp;°C dla nabrania pożądanych własności cieplnych. Izolacja FRSI pokrywana jest białym elastomerem silikonowym dla uwodoodpornienia i nadania pożądanych własności optycznych (współczynnik emisji 0,8, współczynnik absorpcji 0,32). Jest ona przyklejana do struktury w postaci arkuszy o wymiarach 90x120 cm. Izolacja FRSI w Columbii zajmuje powierzchnię 319 m² (28,9%) i ma masę 499 kg.
+
+Pozostałe części promu
+Do części pojazdu nie pokrytych izolacjami TPS należą kwarcowe okna kabiny i elementy metalowe z trudno topliwych stopów (oprofilowanie przedniego zespołu silniczków RCS, dysze wszystkich silników, uszczelnienia połączeń sterolotek na górnej powierzchni skrzydeł, elementy statecznika pionowego i podłączenia przewodów startowych w tylnej części kadłuba). Do uzupełnień systemu TPS zaliczają się też gwintowane zakrętki z topionej krzemionki umieszczane w niektórych płytkach osłony w celu zapewnienia dostępu do zamków włazów i pokryw otworów obsługowych. W szczelinie między sterolotkami zastosowano niewielkie ilości materiału ablacyjnego Avcoat (produkcji firmy Avco Speciality Materials), gdyż jak wykazały badania, miejsce to mogło okazać się niebezpieczne dla płytek z włókien krzemionkowych. Po pierwszym locie Columbii, część izolacji FRSI na końcu osłon silników manewrowych uległa całkowitemu zniszczeniu. Było to spowodowane działaniem nieprzewidzianych, intensywnych strug gorącego gazu przedostających się szczeliną między sterolotkami a kadłubem. Od tamtej misji w miejscach tych znajdują się płytki HRSI. Samolot kosmiczny jest wyposażony także w system biernych izolacji cieplnych, którego zadaniem jest utrzymanie konstrukcji pojazdu i jego urządzeń w dopuszczalnym zakresie temperatury. System korzysta ze źródeł ciepła pojazdu i urządzeń pochłaniających ciepło, a także izolacji cieplnych. Tam, gdzie izolacje bierne nie są wystarczające do utrzymania odpowiedniej temperatury w czasie wychłodzenia pojazdu na orbicie okołoziemskiej zainstalowano elektryczne elementy grzejne. Stosowane są dwa typy izolacji cieplnych: masa włóknista i izolacja wielowarstwowa. Pierwszy rodzaj izolacji jest wykonany z włóknistego materiału o gęstości 32 kg/m3 obszytego pokryciem z wzmocnionego, dwukrotnie złoconego Kaptonu dobrze odbijającego promieniowanie podczerwone. Materiał pokrycia jest perforowany w celu umożliwienia odpowietrzania izolacji na orbicie. Drugi rodzaj izolacji składa się z dwudziestu warstw dwustronnie złoconego Kaptonu przedzielonych siatkami z tworzywa Dakron.
+
+Bibliografia
+* 
+
+
+
+
+

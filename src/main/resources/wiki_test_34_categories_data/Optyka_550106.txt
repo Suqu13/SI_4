@@ -1,0 +1,13 @@
+FC-AL (ang. Fibre Channel - Arbitrated Loop) – sieć FC z pętlą arbitrażową.
+
+Sieć FC-AL jest rodzajem sieci SAN (ang. Storage Area Network), nie wymagającym dodatkowych elementów aktywnych takich jak przełączniki SAN. W sieci tej stosuje się połączenie wszystkich urządzeń w pętlę, co znacząco upraszcza fizyczne podłączenia w przypadku pogrupowania jednego rodzaju urządzeń w jednym miejscu, wszystkie dyski w macierzy, karty HBA w serwerze. Komunikacja w sieci odbywa się pomiędzy kolejnymi elementami pętli, co oznacza, że wszystkie urządzenia muszą pracować przy tej samej przepływności. Sieć FC-AL pracuje z najwyższą przepływnością najwolniejszego elementu.
+
+Ze względów niezawodnościowych stosuje się dwie niezależne pętle podłączone do dwóch różnych kart HBA z jednej strony i do tych samych urządzeń z drugiej strony. Dzięki takiemu rozwiązaniu przerwanie komunikacji w pętli nie spowoduje niedostępności urządzeń. Mechanizmy wykrywające awarię w pętli i przełączające ruch na drugą pętlę muszą być realizowane w warstwie systemu operacyjnego powyżej sterowników urządzeń kart HBA.
+
+Protokół FC (ang. Fibre Channel) posługuje się 24 bitami do określenia adresu urządzenia w sieci. W przypadku FC-AL wykorzystywane jest jedynie 8 najmłodszych bitów adresu, ale do adresacji urządzeń używa się jedynie 126 adresów i dodatkowo jednego dla portu FL, gdy pętla jest publiczna, tj. podłączona do switcha. Ilość ta jest uznawana za wystarczającą, gdyż w praktyce unikano tworzenia dużych pętli ze względu na współdzielenie pasma.
+
+FC-AL praktycznie wyszło z użycia i zostało zastąpione siecią typu Fabric, tzn. zawierającą switche FC.
+
+
+
+

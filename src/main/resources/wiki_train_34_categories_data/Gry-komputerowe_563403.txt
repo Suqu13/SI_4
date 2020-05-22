@@ -1,0 +1,73 @@
+Soccer Manager – strategiczno-sportowa gra komputerowa.
+
+Gracz wciela się w rolę trenera i menedżera wybranej drużyny. Do jego podstawowych obowiązków należą wybór składu, treningi, transfery, a także ustalanie taktyki. Troszczy się również o pozyskanie reklamodawców i rozbudowę stadionu.
+
+Rozgrywki
+Rozgrywki krajowe
+Gracz ma do dyspozycji 10 rozgrywek ligowych, w których rozpocznie wraz z klubem pracę. Są to: Angielska ekstraklasa, Druga dywizja, Liga okręgowa, Niemiecka ekstraklasa, Hiszpańska ekstraklasa, Francuska ekstraklasa, Portugalska ekstraklasa, Szkocka ekstraklasa, Holenderska ekstraklasa i Włoska Serie A.
+
+W każdym sezonie rozgrywane są:
+Puchar krajowy,
+Super Puchar.
+
+Rozgrywki europejskie
+W trakcie danego sezonu drużyna piłkarska może wziąć udział w jednych rozgrywkach europejski, w Lidze Mistrzów bądź w Pucharze UEFA. Jeśli osiągnięcia danego sezonu kwalifikują klub do udziału w większej liczbie rozgrywek, bierze ona udział w turnieju o większym prestiżu. Miejsce takiej drużyny w drugich rozgrywkach zajmuje inny zespół. Rozgrywki europejskie są niezwykle opłacalne i wiążą się z nimi pokaźne wpływy do kasy klubu. Drużyny uczestniczące w prestiżowych rozgrywkach europejskich mogą również liczyć na większe zainteresowanie sponsorów.
+
+Zawodnicy
+Siła zawodnika
+Podstawowym wyznacznikiem siły drużyny gracza są jej piłkarze. Spośród nich użytkownik gry wybiera wyjściową jedenastkę, która będzie walczyć o zwycięstwo w najbliższym spotkaniu.
+
+Drużyna może rozwijać się poprzez zakupy nowych zawodników, solidnemu szkoleniu i wizytom w ośrodkach treningowych. Im lepiej gracz zadba o siłę swojego klubu, tym większe będą jego szanse na zwycięstwo na murawie. Siła drużyny wyliczana jest na podstawie sumy współczynników poszczególnych zawodników.
+
+Każdy piłkarz charakteryzowany jest podstawowym współczynnikiem siły i trzema zdolnościami specjalnymi. Siła zawodnika przybiera wartości od 0,5 do 6,0, symbolizowane gwiazdkami.
+
+Zdolności specjalne
+Piłkarze posiadają niektóre zdolności specjalne od początku gry, a w jej trakcie mogą nabyć nowe. Zdolności specjalne wywierają ogromny wpływ na przebieg gry i modyfikują ogólny wskaźnik zawodnika.
+
+Zdolności specjalne wyświetlane są na wykresie w kształcie drzewka, a piłkarze nie mogą zwykle wyuczyć się ich wszystkich. Zdolności niedostępne dla danego zawodnika są zacieniowane. Te, które piłkarz już opanował obramowane są na zielono. Zdolności, których zawodnik może się wyuczyć są podświetlone.
+
+Zdobycie niektórych zdolności wymaga uprzedniego opanowania innych, tak zwanych „zdolności wymaganych”. Na przykład zawodnik może opanować umiejętność „rzuty karne”, jeśli tylko posiądzie wcześniej zdolności: „strzelanie” i „opanowanie”.
+
+Po opanowaniu wielu wymaganych zdolności specjalnych, piłkarz może zostać „Bogiem Futbolu”.
+
+Zawodnicy nabywają nowych zdolności w toku odpowiedniego szkolenia. Każdy specjalny obóz treningowy jest płatny. Piłkarz zyskuje nową zdolność, gdy wskaźnik jego wyszkolenia w niej osiągnie 100%.
+
+Nowych zdolności mogą wyuczyć się zawodnicy z określonego przedziału wiekowego. Przedział ten wyświetlany jest, wraz z innymi informacjami, w dolnej części ekranu, gdy wskaźnik myszki znajduje się nad odpowiednią ikoną. Tutaj zawarte są również informacje o korzyściach płynących z opanowania danej zdolności.
+
+W grze istnieją także negatywne cechy, które zawodnik może posiadać od początku gry lub nabyć w jej trakcie. Takie cechy źle wpływają na grę piłkarza oraz uniemożliwiają mu pełny rozwój, blokując jedno z trzech miejsc przeznaczonych na zdolności specjalne.
+
+Pasek menu
+Przy dolnej krawędzi ekranu znajduje się pasek narzędzi, zawierający wszystkie menu gry. Aby rozwinąć zawartość danego menu, należy umieścić wskaźnik myszy nad którymś z pól.
+
+Drużyna
+W tym menu znajdują się opcje związane z zarządzaniem drużyną. Za pośrednictwem dostępnych tu opcji można wybrać wyjściową jedenastkę, określić strategię na najbliższe spotkanie, przygotować plan treningów, dokonywać transferów oraz sprawdzić informacje o dowolnym piłkarzu.
+
+Skład
+W tej opcji gracz określa podstawowe parametry drużyny przed kolejnym spotkaniem. Tutaj wybiera 11 piłkarzy, którzy wybiegną na boisko w podstawowym składzie oraz dobiera zawodników na ławkę rezerwowych. Oprócz tego, ekran umożliwia użytkownikowi gry przekazywanie wskazówek taktycznych oraz zapoznanie się z drużyną najbliższego rywala.
+
+Drużyna składa się zawsze z dwudziestu zawodników. Jeśli gracz sprzeda któregoś z nich, jego miejsce zajmie młody, niedoświadczony piłkarz.
+
+Siła zawodnika ilustrowana jest gwiazdkami. Maksymalna wartość, jaką może osiągnąć ten wspłóczynnik to sześć. Jeśli wyświetlane na ekranie gwiazdki nie są wypełnione, dany piłkarz może dzięki odpowiedniemu szkoleniu zwiększyć swoją siłę. Jeśli zawodnik wystawiony zostanie na pozycji, do której nie jest przyzwyczajony, część jego gwiazdek przybierze kolor szary. Szare gwiazdki oznaczają, że na wybranej pozycji dany zawodnik będzie mniej skuteczny niż zwykle. Siłę piłkarza na tej pozycji obrazują pozostałe, złote gwiazdki.
+
+Transfery
+Zanim będziemy chcieli kogoś kupić to najpierw trzeba wybrać obserwatora, jego koszt znajduje się przy jego imieniu. Następnie klub, później zawodnika i wcisnąć start. Na górze po prawej stronie znajduje się wskaźnik powodzenia w negocjacjach, jeżeli dodasz więcej pieniędzy i podkreślisz, że stać cię na wszystkie wymogi danego piłkarza to pasek powodzenia osiągnie 100%!
+
+Trening
+
+Obóz szkoleniowy
+Wizyta w obozie szkoleniowym wpływa na wszystkich zawodników w drużynie. Nie wiadomo którzy piłkarze korzystają ze wspólnej sesji treningowej. Wizyta w obozie szkoleniowym wpływa na morale, kondycję i siłę zawodników. Zdolności specjalne nie ulegają żadnym zmianom.
+
+Finanse
+Bank
+W tym dziale można brać pożyczki z banku lub od innych graczy jeżeli gra się multiplayer. Można ustawić detale pożyczek, czas na spłacenie, kwota itp.
+
+Bilans
+
+Informacje o zawodniku
+W tych informacjach możemy znaleźć opis umiejętności, jego koszt, siłę i czy jest w stanie rozegrać następny mecz. Możemy go wysłać na trening, lecz musimy uważnie przyglądać się paskowi wyczerpania. Jeżeli dojdzie on do wykrzyknika to należy natychmiast zakończyć trening, bo jeżeli nie to nasz piłkarz nabawi się kontuzji lub będzie zbyt zmęczony, by grać w następnym meczu.
+
+
+
+
+
+

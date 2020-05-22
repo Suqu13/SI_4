@@ -1,0 +1,15 @@
+GLAST (ang. Gamma-ray Large Area Space Telescope) – kosmiczne obserwatorium promieniowania gamma, będące wspólnym przedsięwzięciem NASA, Departamentu Energii USA oraz agencji rządowych z Francji, Niemiec, Włoch, Japonii i Szwecji. Od 26 sierpnia 2008 oficjalną nazwą tego satelity jest Fermi GST (ang. Gamma-ray Space Telescope), na cześć włoskiego fizyka Enrico Fermiego.
+
+GLAST został wystrzelony przy użyciu rakiety Delta II 11 czerwca 2008 o godzinie 16:05 GMT. Obecnie znajduje się na kołowej orbicie okołoziemskiej o nachyleniu 25,6°, na wysokości ok. 550 km.
+
+GLAST wyposażony jest w następujące instrumenty naukowe:
+LAT (ang. Large Area Telescope) – detektor o wysokiej czułości i rozdzielczości kątowej, pracujący z zakresie energii fotonów 20 MeV – 300 GeV. Jest następcą instrumentu EGRET, będącym częścią Teleskopu Kosmicznego Comptona.
+GBM (ang. Gamma-ray Burst Monitor) – detektor pracujący w zakresie energii fotonów 8 keV – 30 MeV, charakteryzujący się bardzo krótkim czasem reakcji (ok. 2 μs). Jego głównym zadaniem będzie wykrywanie i lokalizowanie błysków gamma. Jest następcą instrumentu BATSE z Teleskopu Kosmicznego Comptona.
+
+W wyniku jedenastomiesięcznych obserwacji prowadzonych przy użyciu Fermi Large Area Telescope zebrano dane pierwszego katalogu źródeł promieniowania gamma obejmującego całe niebo. Zebrano dane o 1451 obiektach obejmujących energetyczne burze formacji gwiazdowej w galaktykach oraz aktywne jądra galaktyk (ang. Active Galactic Nuclei) znajdujące się daleko poza naszą Drogą Mleczną, a także w naszej Galaktyce pulsary (ang. PulSaRs), mgławice wiatru pulsarowego (ang. Pulsar Wind Nebulae), pozostałości po supernowych (ang. SuperNovae Remnants), masywne rentgenowskie gwiazdy podwójne (ang. High mass X-ray Binaries) oraz mikrokwazary (ang. Micro Quasi-stellar Objects).
+
+Wykorzystując dane z NASA Fermi Gamma-ray Space Telescope w 2010 roku naukowcy odkryli 2 kule poniżej i powyżej płaszczyzny Drogi Mlecznej stykające się z jej środkiem. Każda kula ma średnicę 25&nbsp;000 lat świetlnych, cała struktura istnieje kilka milionów lat.
+
+
+
+Linki zewnętrzne

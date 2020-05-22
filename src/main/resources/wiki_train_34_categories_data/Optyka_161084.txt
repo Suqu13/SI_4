@@ -1,0 +1,30 @@
+
+
+Kryształ fotoniczny  – optyczna nanostruktura o periodycznie zmieniającym się współczynniku załamania światła, która wpływa na ruch fotonów podobnie jak struktura krystaliczna półprzewodnika na ruch elektronów. 
+
+Kryształy fotoniczne występują w naturze lub mogą być wytwarzane sztucznie. W krysztale fotonicznym, podobnie jak w półprzewodniku może wystąpić fotoniczna przerwa zabroniona.
+
+Kryształy fotoniczne zwykle wytwarzane są w laboratoriach, ale występują również w przyrodzie (np. opal). Koncepcja stworzenia kryształów fotonicznych powstała jednocześnie w 1987 w dwóch ośrodkach badawczych na terenie USA. Pierwszy – Eli Yablonovitch (Bell Communications Research w New Jersey) pracował nad materiałami dla tranzystorów fotonicznych – sformułował pojęcie fotoniczna przerwa wzbroniona (ang. photonic bandgap). W tym samym czasie – Sajeev John (Priceton University) pracował nad zwiększeniem wydajności laserów stosowanych w telekomunikacji – odkrył tę samą przerwę. W 1991 roku Eli Yablonovith uzyskał pierwszy kryształ fotoniczny. W 1997 roku opracowana została masowa metoda wytwarzania kryształów (Shanhui Fan, John D. Joannopoulos).
+
+Obecnie wytwarzane są struktury fotoniczne z przerwą fotoniczną dla długości fal elektromagnetycznych z zakresu widzialnego (400–700 nm). Przerwa fotoniczna występuje dla fal o długościach zbliżonych do okresu rozkładu współczynnika załamania – w przypadku fal widzialnych oznacza to, że na jeden okres rozkładu współczynnika załamania przypada ilość rzędu 1000 warstw atomowych. Występowanie fotonicznej przerwy wzbronionej jest analogiczne jak w przypadku półprzewodników (Równanie Schrödingera). Kryształy fotoniczne wytwarzane są m.in. z krzemu, również porowatego. Ze względu na budowę, kryształy fotoniczne dzieli się na jedno-, dwu- i trójwymiarowe. Najprostsza struktura to struktura jednowymiarowa. Jest to w istocie zwierciadło Bragga złożone z wielu warstw na przemian o dużym i małym współczynniku załamania światła. Zwierciadło Bragga działa jak optyczny filtr pasmowy, pewne częstotliwości są odbijane, a inne przepuszczane. Jeżeli zwiniemy zwierciadło Bragga w rurkę to otrzymamy strukturę dwuwymiarową.
+
+Do modelowania pola elektromagnetycznego w kryształach fotonicznych stosuje się wiele metod znanych z innych dziedzin optyki czy elektrodynamiki. Wymienić tu można: metodę fal płaskich – PWM (ang. Plane wave method), metodę różnic skończonych w dziedzinie czasu FDTD (z ang. Finite Difference Time Domain), polegającą na numerycznym rozwiązywaniu równań Maxwella z zależnością czasową dla pola elektrycznego i pola magnetycznego, metodę momentów, wraz z jej licznymi odmianami, a także inne liczne metody półanalityczne i w pełni analityczne. Jak do tej pory, analityczne rozwiązanie równań Maxwella zostało znalezione tylko w najprostszym, jednowymiarowym krysztale fotonicznym.
+
+Niektóre zastosowania:'''
+Zwierciadła selektywne rezonatorów laserowych,
+Lasery z rozłożonym sprzężeniem zwrotnym,
+Światłowody fotoniczne (photonic crystal fiber), włóknowe i planarne,
+Półprzewodniki fotoniczne,
+Ultrabiałe pigmenty,
+Diody elektroluminescencyjne o zwiększonej sprawności,
+Mikrorezonatory,
+Metamateriały – materiały lewoskrętne,
+Szerokopasmowe testowanie urządzeń fotonicznych, spektroskopia, interferometria czy koherentna tomografia optyczna (OCT) – wykorzystanie silnego efektu przesunięcia fazowego.
+
+Wytwarzanie w Polsce
+W Polsce prace nad wytwarzaniem i modelowaniem kryształów i światłowodów fotonicznych są prowadzone w UMCS w Lublinie, na Politechnice Wrocławskiej, Politechnice Łódzkiej w Instytucie Fizyki, Politechnice Warszawskiej oraz na UW Zakład Optyki Informacyjnej i w ITME w Warszawie.
+
+
+
+Linki zewnętrzne
+,

@@ -1,0 +1,50 @@
+Polityka fiskalna – to ogół działań państwa kształtujących budżet państwa poprzez zmiany we wpływach (np. podatki, zadłużenie publiczne) i wydatkach państwa (np. subwencje, inwestycje państwowe, itp.).
+
+Zgodnie z poglądami szkoły keynesowskiej działania te mają na celu zmniejszenie bezrobocia (wzrost aktywności gospodarczej) – mówimy wtedy o polityce ekspansywnej lub ograniczenie inflacji – polityka restrykcyjna. W wykorzystaniu aktywnej polityki fiskalnej pojawiają się pewne trudności, związane m.in. z opóźnieniem czasowym i niepewnością jej skutków, a w odniesieniu do ekspansywnej polityki fiskalnej dodatkowym ograniczeniem może być także deficyt budżetowy. Podstawową częścią składową polityki fiskalnej jest polityka podatkowa, określająca cele poboru podatków oraz sposoby ich realizacji. 
+
+W efekcie polityka fiskalna działa poprzez proces kształtowania polityki pieniężnej i wydatków publicznych w celu: 
+łagodzenia wahań cykli koniunkturalnych,
+utrzymania tendencji wzrostowej gospodarki przy wysokim zatrudnieniu, a niskiej i niezmiennej inflacji (stabilizacja cen). 
+
+Polityka fiskalna dopomaga w stabilizacji gospodarki narodowej tak długo, jak długo instytucje rządowe śledząc trendy rynkowe są w stanie skutecznie przewidywać ich makroekonomiczne skutki i podejmować aktywne działania. Nowoczesny system fiskalny bazuje również na wbudowanych mechanizmach ekonomicznych pełniących rolę automatycznych stabilizatorów gospodarki. Pozwalają one utrzymać stabilność gospodarki zanim stosowne organy podejmą decyzje w konkretnych sprawach. Do automatycznych stabilizatorów należą m.in.: progresywny i procentowy system podatkowy, zasiłki dla bezrobotnych i transfery socjalne.
+
+Ekspansywna polityka fiskalna == 
+Ekspansywna polityka fiskalna polega na obniżaniu podatków i zwiększaniu wydatków na konsumpcję i inwestycję lub finansowaniu deficytu budżetu państwa za pomocą długu publicznego, który powstaje przy sprzedaży obligacji skarbowych na rynku kapitałowym. Z deficytem budżetowym mamy do czynienia, gdy wydatki rządowe na cele konsumpcyjne i inwestycyjne są większe niż wpływy do budżetu z tytułu podatków. Wydatki mogą być większe dzięki temu, iż państwo angażuje czasowo wolne środki pieniężne w zwiększanie popytu globalnego oraz sprzedaje różnym instytucjom i obywatelom obligacje skarbowe.
+
+Instrumenty polityki fiskalnej
+makroekonomiczne
+dochody budżetu państwa
+wydatki budżetu państwa
+deficyt i nadwyżki budżetowe
+dług publiczny
+
+mikroekonomiczne
+podatek
+opłata
+cło
+dotacja
+subwencja
+bon skarbowy
+obligacja skarbowa
+poręczenia i gwarancje rządowe
+
+Finansowanie wydatków państwa
+Finansowanie podatkami. Twierdzenie o zrównoważonym budżecie (twierdzenie Haavelma) zakłada, że jednoczesny, taki sam wzrost wydatków państwa i podatków, z których są finansowane wydatki, prowadzi do wzrostu zagregowanego popytu i produktu krajowego o tę samą wielkość. Innymi słowy ukazuje ono możliwość osiągnięcia każdego celu w zakresie dochodu narodowego bez powiększania deficytu budżetowego.
+Finansowanie za pomocą deficytu budżetowego. Według Keynesa, wydatki finansowane deficytem mają większy wpływ na dochód. Występują tu dwie możliwości:
+Finansowanie deficytu za pomocą bazy monetarnej – jest mniej kosztowne (zysk z emisji) i ma większy wpływ na dochód, ponieważ powoduje jednoczesne przesunięcie w górę krzywych IS i LM. Zdaniem monetarystów takie pieniężne finansowanie wydatków publicznych może nie przynieść skutków ekspansywnych, a jedynie doprowadzić do inflacji.
+Finansowanie deficytu za pomocą długu – pozostawia rozmiar bazy monetarnej na nie zmienionym poziomie i powoduje wzrost stóp procentowych, wskutek czego wydatki państwa wypierają prywatne inwestycje (finansowy efekt wypierania). Według zwolenników nowej makroekonomii klasycznej, wzrost wydatków państwa finansowanych emisją długu prowadzi do pełnego wypierania realnego, ponieważ jednostki – przewidując, że państwa będzie musiało podwyższyć przyszłe podatki, aby spłacić dług – przygotowują się do tego, ograniczając konsumpcję bieżącą. Wydatki państwa nie będą zatem oddziaływały na dochód bieżący. Z tego założenia o "superracjonalności" konsumenta wypływa twierdzenie znane jako ekwiwalencja ricardiańska, zakładające, iż finansowanie wydatków państwa za pomocą długu jest równoznaczne z finansowaniem ich za pomocą podatków. Zjawisko wypierania realnego może występować szczególnie wtedy, gdy gospodarka znajduje się blisko poziomu pełnego zatrudnienia oraz gdy wydatki publiczne są substytutem eksportu w warunkach płynnych kursów walutowych.
+
+Zobacz też
+finanse publiczne
+polityka gospodarcza
+dług publiczny
+Asymetria polityki fiskalnej
+
+
+
+Bibliografia
+Gajda - Kantorowska M., (2012), Transfery fiskalne jako metoda przeciwdziałania szokom asymetrycznym w ramach Unii Gospodarczo-Walutowej, Zeszyty Naukowe Uniwersytetu Ekonomicznego we Wrocławiu, Wrocław.
+Gajda - Kantorowska M., (2012), Reguły fiskalne a bezpieczna granica zadłużenia sektora finansów publicznych, Monografia Uniwersytetu Ekonomicznego w Szczecinie, Szczecin.
+
+
+

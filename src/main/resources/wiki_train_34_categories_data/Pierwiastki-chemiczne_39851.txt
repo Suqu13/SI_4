@@ -1,0 +1,9 @@
+Stal narzędziowa stopowa do pracy na zimno – stal stopowa narzędziowa stosowana na narzędzia do obróbki skrawaniem i plastycznej, które mogą się tylko nieznacznie nagrzewać w czasie pracy. Tego rodzaju stali używa się także do produkcji przyrządów pomiarowych. Od stali do pracy na zimno wymaga się, by zachowała swoje właściwości do temperatury +200 °C.
+
+Stale te dzieli się następujące grupy:
+Stal do hartowania w wodzie NW1''': posiada wysoką zawartość węgla (1,1 do 1,25%) oraz dodatek wolframu (1,0 do 1,5%), przeznaczona jest na narzędzia tnące do cięcia papieru, gumy, noże krążkowe, wiertła, rozwiertaki, frezy, punktaki, przebijaki, gwintowniki, narzynki, piły tarczowe, piły ręczne, stemple do bicia monet, narzędzia grawerskie.
+Stale do hartowania w oleju NC10, NC11, NWC, NWM, NC6, NC4''': o dużej zawartości węgla, w niektórych do ok. 2,0% oraz chromu (od 1 do 13%). Charakteryzują się niewielkimi odkształceniami podczas hartowania i wysoką odpornością na ścieranie. Używane do wytwarzania pierścieni do przeciągania, noży do nożyc, kowadeł, wykrojników, rolek do walcowania na zimno, narzędzi do cięcia kamienia, narzędzi do ciągnienia drutu, gratownic, narzędzi do wyrobu gwoździ, przymiarów, form do tłoczenia i wtryskiwania tworzyw sztucznych.
+Stale na narzędzia pneumatyczne NZ3 i NZ2''': o niskiej zawartości węgla (od 0,2 do 0,6%), podwyższonej zawartości krzemu (0,8 do 1,0%) oraz z dodatkami chromu, wanadu i wolframu. Wymagana duża twardość powierzchniowa i odporność na ścieranie lecz przy tym odporność na uderzenia. Używane na ostrza młotów pneumatycznych lub inne podobne urządzenia.
+Stal na piły NCV1''': używana na wszelkiego rodzaju piły.
+
+

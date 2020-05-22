@@ -1,0 +1,25 @@
+Jak-25''' (ros. ''' Як-25''', pierwszy samolot o tym oznaczeniu) – radziecki odrzutowy samolot myśliwski, skonstruowany w 1947 w biurze konstrukcyjnym Jakowlewa, który pozostał w stadium prototypu. Był konkurentem MiG-15. Oznaczenie Jak-25 zostało później nadane seryjnie produkowanemu myśliwcowi przechwytującemu z lat 50. (zob. Jak-25).
+
+Historia
+Radzieckie myśliwce odrzutowe pierwszego pokolenia, w tym samoloty Jak-15, Jak-17 i Jak-19 Jakowlewa, nie były w pełni udane, w dużej mierze za sprawą używanych skopiowanych niemieckich silników turboodrzutowych RD-10 o niewystarczającym ciągu dla zapewnienia wysokich osiągów. W 1947 rząd ZSRR zdołał zakupić w Wielkiej Brytanii nowsze mocniejsze silniki Rolls-Royce Derwent V o ciągu 1590 kg i Nene o ciągu 2270 kg, które skopiowano następnie jako RD-500 i RD-45. Wiodące biura konstrukcyjne otrzymały wówczas polecenie skonstruowania drugiej generacji myśliwców, napędzanych nowymi silnikami, o prędkości rzędu 1000 km/h i zasięgu 1200 km, z zastosowaniem nowszych rozwiązań technicznych (np. hermetyzowana kabina). 
+
+Jakowlew prowadził nowe prace dwutorowo. Przede wszystkim podjął prace z własnej inicjatywy nad lekkim myśliwcem Jak-23 napędzanym nowym silnikiem RD-500, ale nie spełniającym wszystkich nowych wymogów, w sprawdzonym już we wcześniejszych konstrukcjach układzie redanowym. Jako zasadniczą konstrukcję dla spełnienia nowych wymogów przewidział natomiast Jak-25''', również z silnikiem RD-500, lecz w typowym układzie dla myśliwców odrzutowych nowego pokolenia – z wlotem powietrza z przodu kadłuba, kabiną pilota tuż za nim i z silnikiem w tylnej części kadłuba. Układ taki wywodził się z wcześniejszego myśliwca Jakowlewa Jak-19. Nie zdecydował się jednak na zastosowanie skośnych skrzydeł, pozwalających na osiąganie większych prędkości, pokładając nadzieje w cieńszych skrzydłach o laminarnym profilu, które pozwalały na uzyskanie lepszej manewrowości i szybsze opracowanie samolotu.
+
+Prace nad Jakiem-25 prowadzono od początku 1947. Prototyp ukończono 29 października 1947 i oblatano 31 października 1947 (pilot Siergiej Anochin). Prowadzono następnie jego badania zakładowe, połączone z ulepszaniem konstrukcji. Samolot oceniono jako prosty w pilotażu. Równolegle zbudowano drugi prototyp Jak-25-2, który od 23 lipca 1948 do 9 września 1948 przechodził badania państwowe. 
+
+Mimo, że dzięki prostym skrzydłom Jak-25 miał bardzo dobrą manewrowość, lecz przez to osiągał prędkość maksymalną o 70-90 km/h mniejszą od jego bezpośrednich konkurentów Ła-15 (napędzanego tym samym silnikiem) i MiG-15 i w konsekwencji nie trafił do produkcji. 
+
+Opis konstrukcji
+Jednosilnikowy średniopłat o konstrukcji całkowicie metalowej, w układzie klasycznym. Skrzydła proste, trzydźwigarowe, o obrysie trapezowym i profilu laminarnym (grubość względna 9%). Usterzenie klasyczne, skośne, o kącie 45°. Usterzenie poziome zamocowane w połowie wysokości statecznika. Z przodu kadłuba okrągły wlot powietrza do silnika, rozdzielający się pionową przegrodą na dwa kanały wzdłuż burt. Kabina pilota hermetyczna, typu wentylacyjnego, w przedniej części kadłuba. Kabina zakryta oszkloną osłoną w formie kroplowej, składającą się ze stałego wiatrochronu z płaską przednią szybą pancerną i otwieranej wypukłej osłony nad pilotem. Kabina wyposażona w fotel wyrzucany. Silnik odrzutowy w tylnej części kadłuba. Pod usterzeniem poziomym hamulce aerodynamiczne w formie odchylanych klap, otwierające się automatycznie przy zbliżaniu się do prędkości maksymalnej. Podwozie samolotu trójpodporowe, z pojedynczymi kołami (golenie główne chowane do skrzydeł i luków w kadłubie, w kierunku do kadłuba, goleń przednia wciągana do kadłuba w kierunku do przodu). 
+
+Napęd:''' silnik turboodrzutowy ze sprężarką odśrodkową RD-500 o ciągu 1590 kg. 
+
+Uzbrojenie:''' 3 działka 23 mm NR-23 z zapasem po 75 nabojów, w dolnej części przodu kadłuba. Automatyczny optyczny celownik żyroskopowy.
+
+Zobacz też
+Pokrewne konstrukcje: Jak-19
+
+Porównywalne samoloty: Ła-15 - MiG-15 - Dassault MD 450 Ouragan - Republic F-84 Thunderjet
+
+
+Bibliografia

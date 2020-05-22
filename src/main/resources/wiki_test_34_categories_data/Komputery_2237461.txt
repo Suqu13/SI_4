@@ -1,0 +1,6 @@
+Compaq Concerto to prawdopodobnie pierwszy dostępny na rynku tablet PC. Wszedł do produkcji w roku 1992.
+Złącza: RS232 (DE-9M), Centronics (DB-25F), PCMCIA, VGA (DE-15F)
+Zasilacz: uniwersalny zewnętrzny 100-240v
+Akumulator: NiMH
+
+

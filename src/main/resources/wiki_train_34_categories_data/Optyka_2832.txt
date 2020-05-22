@@ -1,0 +1,70 @@
+Nazwy kolorów w języku polskim
+
+Artykuł zawiera spis często używanych kolorów, zarówno w języku codziennym, jak i w specyficznych grupach zawodowych. W pierwszej części pogrupowano nazwy barw alfabetycznie, z dołączoną próbką, a także opisem RGB i w systemie szesnastkowym (Hex).
+
+Uwaga!''''' Kolor widoczny na różnych monitorach może się różnić, co wynika z ich kalibracji. Za pomocą systemów RGB i Hex nie da się też oddać połysku i matowości czy transparentności barwy. Takie cechy koloru stara się przedstawić opis słowny, lecz odbiór opisu słownego może być subiektywny u różnych ludzi.
+
+Lista kolorów alfabetycznie
+
+
+
+Określenia ujednoznaczniające kolor
+Przymiotniki i przedrostki dodawane do ujednoznacznia koloru:
+blady – bardzo przejaśniony 
+brudny – ma w sobie dużą ilość koloru szaro-brunatnego, ciemny, najczęściej spotykany w malarstwie 
+ciemny – z większym dodatkiem czerni
+jasny – z większym dodatkiem bieli
+matowy – bez połysku
+neonowy, rażący – zbliżony do odcieni zakreślaczy do tekstu
+nasycony, intensywny – przeciwieństwo bladego, zawiera dużo barwnika
+pastelowy - niejaskrawe barwy, z dużą ilością bieli
+rozbielony – przeciwieństwo intensywnego, z dodatkiem bieli
+soczysty – inaczej intensywny
+zgaszony – bez połysku, matowy, często wpadający w szarość, przyciemniony
+
+Kolory według odcieni
+Czerń
+W teorii oznacza całkowity brak światła widzialnego odbijanego przez ciało przy oświetleniu dowolnym światłem widzialnym. W praktyce miejsce tak ciemne, że poprzez kontrast z resztą otoczenia nie możemy określić jego barwy z powodu niedoboru światła z tego kierunku.
+
+Biel
+Biały jest połączeniem wszystkich kolorów spektrum światła widzialnego. Jest często uważany za kolor achromatyczny.
+
+
+
+
+Róż
+
+
+Czerwień
+
+
+Pomarańcz
+
+
+Brąz
+
+
+Żółcień
+
+
+Szary
+
+
+
+Zieleń
+
+
+Błękit
+
+
+Fiolet
+
+
+Zobacz też
+
+
+kolor oczu, kolor włosów, umaszczenie
+kolory w Internecie
+RAL
+
+Bibliografia

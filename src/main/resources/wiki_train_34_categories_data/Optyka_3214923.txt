@@ -1,0 +1,7 @@
+Kolidar - dalmierz laserowy, którego źródłem promieniowania jest laser impulsowy. Służy głownie do wykrywania i lokalizacji obiektów znajdujących się w przestrzeni kosmicznej lub pomiarów odległości między dwoma statkami kosmicznymi.
+
+
+
+
+
+

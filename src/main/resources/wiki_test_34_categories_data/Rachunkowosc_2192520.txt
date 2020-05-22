@@ -1,0 +1,13 @@
+Utarg przeciętny - utarg przypadający na określoną jednostkę. Utarg ten występuje wówczas, gdy dane przedsiębiorstwo ma niewielki udział w ogólnej podaży danego produktu na rynku, nie jest w stanie wpływać na jego cenę. To przedsiębiorstwo musi zaakceptować cenę będącą wynikiem popytu oraz podaży. Żadna zmiana wielkości produkcji tego przedsiębiorstwa nie jest na tyle znacząca, aby mogła wpłynąć na cenę rynkową. Popyt na produkty po określonej cenie rynkowej jest stały i nie wpływa na ogólny poziom cen.
+
+Utarg przeciętny jest to iloraz utargu całkowitego (Uc) i sumy sprzedanego produktu (towaru) (p), czyli jest to cena (c) jednostkowa produktu:
+
+
+Up – utarg przeciętny
+Uc – utarg całkowity
+p – suma ilości sprzedanego towaru
+c – cena jednej sztuki towaru
+
+
+
+

@@ -1,0 +1,11 @@
+iFolder – program opracowany przez firmę Novell, umożliwiający korzystanie z sieciowego dysku jako składnicy informacji przenoszonej do innego komputera. 
+
+Po utworzeniu konta i zainstalowaniu programu klienckiego iFolder w dwóch komputerach, np. domowym i firmowym (po restarcie maszyny ikona programu widnieje w zasobniku systemowym), użytkownik ma dostęp do określonej powierzchni na dysku, na którą może kopiować informacje. Szybki dostęp do folderu na lokalnym dysku daje skrót na pulpicie - folder ten jest fizycznie umieszczony w folderze Moje dokumenty. Skopiowanie pliku do tego folderu powoduje wysłanie go na dysk sieciowy. Po uruchomieniu programu w drugim komputerze dane są automatycznie synchronizowane i przenoszone do folderu iFolder w tym komputerze. Dla bezpieczeństwa dane są szyfrowane. 
+
+Bezpośredni dostęp do danych na serwerze jest też możliwy z poziomu przeglądarki internetowej (aplet Javy), dzięki czemu możliwe jest przenoszenie plików z dowolnego komputera z dostępem do Internetu, bez zainstalowanego klienta.
+
+Usługa jest płatna, ale możliwe jest utworzenie darmowego konta o pojemności ograniczonej do 10 MB, które pozwoli synchronizować między komputerami dokumenty o stosunkowo niewielkiej objętości.
+
+
+
+Linki zewnętrzne

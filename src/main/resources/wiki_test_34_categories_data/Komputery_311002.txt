@@ -1,0 +1,23 @@
+
+
+
+PowerBook to linia laptopów (przenośnych komputerów osobistych) firmy Apple, poprzedzająca linię MacBook Pro.
+
+Pierwsze Powerbooki pojawiły się na rynku w październiku 1991. Komputery z tej serii wyposażone były w procesor 68k, taktowany zegarem 16 lub 25 MHz (zależnie od wersji). Powerbook był następcą komputera Macintosh Portable, który to komputer ważył zdecydowanie więcej i sprzedawany był w innej obudowie – ekran (początkowo nawet bez podświetlenia) otwierał się wraz z połową górnej obudowy komputera (Macintosh Portable zbudowany był jak laptopy, Powerbook zaś – jak notebooki, na co zresztą wskazuje nazwa komputera).
+
+Kolejnym rozwinięciem linii były komputery PowerBook Duo, które nie miały wbudowanej stacji dyskietek, co wynagrodzone było przez ich niewielką grubość. Stację dyskietek można było podłączyć zewnętrznie za pomocą mini stacji dokującej (do zakupionego komputera była dodawana w zestawie); aby osiągnąć pełne możliwości komputera trzeba było użyć pełnej stacji dokującej.
+
+Następnie w 1995 Apple Inc. wprowadziło na rynek PowerBooki oparte na procesorze PowerPC w wersji 603e; w serii tej znajdował się jeden członek rodziny Duo: Duo 2300c oraz PowerBook 5300c. Później pojawiły się PowerBooki 1400c, 2400c oraz 3400c. Linia Duo została wycofana. Następnie pojawiła się seria PowerBook G3, pierwsze laptopy używające procesora G3.
+
+Przełomowym designem były udostępnione we wrześniu 1998 modele PowerBook G3 Series Wallstreet II/PDQ w trzech osobnych wersjach procesora, z 14,1-calowym ekranem w technologii TFT (na wszystkich PowerBookach G3 można uruchomić jakąś starszą wersję Mac OS X, od 10.2.8 w górę). Komputery te cechuje elegancja zaprojektowania i niespotykanie wiele wymiennych czy doczepnych części, w tym dwie usuwalne baterie, gdzie zamiast każdej z nich gdzie można łatwo (bez potrzeby zawieszenia systemu lub przerwy w pracy) wstawić osobne napędy optyczne, w tym DVD-ROM, a nawet twarde dyski czy napęd elektrooptyczny lub przenośny magnetyczny typu np. Iomega Zip100. Komputery te wyposażono w możliwość odtwarzania filmów DVD Video za pomocą akceleratora zoom video jako karty PCMCIA. Wallstreet II/PDQ zawiera możliwość podłączenia dwóch osobnych kart PCMCIA, którymi można obsługiwać m.in. dyski twarde typu SCSI czy później udostępnione technologie łącz USB i FireWire, a nawet osobne ekrany i karty graficzne. Komputery te obsługują myszy i drukarki w technologii łącza ADB. Dodatkowo są wyposażone w łącze bezprzewodowe podczerwienią. Jako pierwsze laptopy w historii, pozbawiono je natomiast wbudowanego napędu dyskietki (co zresztą udostępnili inni producenci, za pomocą wspomnianych możliwości rozszerzeń).
+
+Najnowsza, a zarazem ostatnia odmiana to PowerBook G4, w sprzedaży od stycznia 2001 i wyposażona w procesor PowerPC G4. Od 1999 do 2006 roku równolegle z linią PowerBook Apple produkował blisko spokrewnioną, lecz tańszą linię notebooków iBook.
+
+Na początku roku 2006 PowerBooki z ekranem 15- i 17-calowym zostały wycofane ze sprzedaży przez Apple i zastąpione nową serią MacBook Pro, wyposażoną w procesory Core Duo firmy Intel. PowerBook z ekranem 12" został wycofany bez bezpośredniego następcy, lecz wprowadzony w 2009 13" MacBook Pro jest jego właściwym następcą.
+
+
+
+
+
+
+

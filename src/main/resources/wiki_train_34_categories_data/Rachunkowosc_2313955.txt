@@ -1,0 +1,68 @@
+Sprawozdanie skonsolidowane –  to sprawozdanie finansowe przygotowane dla grupy przedsiębiorstw pokazujące przedstawienie każdego przedsiębiorstwa oddzielnie, transakcje wewnątrz grupy oraz sytuację po konsolidacji; użyteczne dla właścicieli grupy, którym zależy na zapoznaniu się z pełnym obrazem grupy.
+Jedna wielka spółka ma pod sobą mniejsze spółki. Wszystkie pozycje sprawozdania spółki dominującej i mniejszych są dokładnie zsumowane.
+Wszystkie spółki traktowane są jak jedna wielka spółka.
+
+Skonsolidowane sprawozdanie finansowe składa się z:'''
+
+skonsolidowanego bilansu;
+skonsolidowanego rachunku zysków i strat;
+skonsolidowanego rachunku przepływów pieniężnych;
+zestawienia zmian w skonsolidowanym kapitale własnym;
+informacji dodatkowej, obejmującej wprowadzenie do skonsolidowanego
+sprawozdania finansowego oraz dodatkowe informacje i objaśnienia.
+
+Metody konsolidacji
+Dane jednostki zależnej konsoliduje się metodą konsolidacji pełnej, o której mowa w art. 60 ust. 1 ustawy o rachunkowości, zaś dane jednostek współzależnych niebędących spółkami handlowymi konsoliduje się metodą konsolidacji proporcjonalnej, o której mowa w art. 61 ust. 1 ww. ustawy, z zastrzeżeniem art. 55 ust. 5 ww. ustawy.
+
+Organizacja procesu przygotowania skonsolidowanego sprawozdania skonsolidowanego
+Organem odpowiedzialnym za sporządzenie skonsolidowanego sprawozdanie finansowego jest Zarząd jednostki dominującej.
+Prawidłowe i rzetelne przygotowanie sprawozdania skonsolidowanego oznacza:
+opracowanie zasad rachunkowości grupy kapitałowej,
+zasad sporządzania sprawozdania,
+obowiązków osób przygotowujących sprawozdanie,
+przygotowanie dokumentów konsolidacyjnych,
+
+Kierownictwo podmiotu dominującego musi zapewnić właściwy przepływ informacji w obrębie jednostki i grupy kapitałowej.
+Należy wyznaczyć osoby odpowiedzialne za sporządzenie skonsolidowanego sprawozdania finansowego. Osoby te również muszą dostarczać informacje o wszelkich zmianach w strukturze grupy kapitałowej spółkom podporządkowanym oraz biegłemu rewidentowi.
+Podmioty dominujące muszą przekazać jednostkom podporządkowanym model sporządzania sprawozdania finansowego oraz pakietu konsolidacyjnego. Wyznacza się do tego osoby odpowiedzialne za przygotowanie sprawozdania.
+Ważnym elementem jest harmonogram prac związany ze sporządzeniem sprawozdań jednostkowych jednostek podporządkowanych i podmiotu dominującego, badaniem tych sprawozdań przez biegłych rewidentów, przekazaniem danych finansowych do jednostki dominującej, sporządzeniem i badaniem skonsolidowanego sprawozdania finansowego.
+
+Regulacje szczególne
+Do rocznego skonsolidowanego sprawozdania finansowego grupy kapitałowej dołącza się sprawozdanie z jej działalności.
+
+Skonsolidowane sprawozdanie finansowe sporządza się również na inny dzień bilansowy, jeżeli obowiązek taki wynika z odrębnych przepisów.
+Jeżeli jednostki grupy kapitałowej są także znaczącymi inwestorami, to w odrębnych pozycjach skonsolidowanego sprawozdania finansowego wykazuje się udziały w jednostkach stowarzyszonych, zgodnie z zasadami określonymi w niniejszym rozdziale.
+
+Wyłączenia od obowiązku sporządzania skonsolidowanych sprawozdań finansowych
+Jednostka dominująca może nie sporządzać skonsolidowanego sprawozdania finansowego, jeżeli na dzień bilansowy roku obrotowego oraz na dzień bilansowy roku poprzedzającego rok obrotowy łączne dane jednostki dominującej oraz wszystkich jednostek zależnych każdego szczebla, bez dokonywania wyłączeń konsolidacyjnych, o których mowa w art. 60 ust. 2 i 6, z uwzględnieniem danych jednostek współzależnych niebędących spółkami handlowymi, spełniają co najmniej dwa z następujących warunków:
+
+łączne średnioroczne zatrudnienie w przeliczeniu na pełne etaty wyniosło nie więcej niż 250 osób,
+łączna suma bilansowa w walucie polskiej nie przekroczyła równowartości 7.500.000 euro,
+łączne przychody netto ze sprzedaży produktów i towarów oraz operacji finansowych w walucie polskiej nie przekroczyły równowartości 15.000.000 euro.
+
+Jednostka dominująca, zależna od innej jednostki, mającej siedzibę lub miejsce sprawowania zarządu na terytorium Europejskiego Obszaru Gospodarczego, może nie sporządzać skonsolidowanego sprawozdania finansowego, jeżeli:
+jednostka dominująca wyższego szczebla posiada co najmniej 90% udziałów tej jednostki, a wszyscy pozostali udziałowcy tej jednostki wyrazili zgodę,
+jednostka dominująca wyższego szczebla obejmie konsolidacją zarówno zależną od niej jednostkę dominującą, jak i wszystkie jednostki zależne od jednostki dominującej zwolnionej ze sporządzenia skonsolidowanego sprawozdania finansowego.
+
+Jednostka dominująca może nie sporządzać skonsolidowanego sprawozdania finansowego także wtedy, gdy wszystkie jednostki od niej zależne wyłącza się z obowiązku objęcia ich konsolidacją.
+
+Należy podkreślić, że jeżeli jednostka dominująca lub jednostka jej podporządkowana jest emitentem papierów wartościowych dopuszczonych do obrotu, zamierza ubiegać się lub ubiega się o dopuszczenie papierów wartościowych do obrotu na jednym z rynków regulowanych krajów Europejskiego Obszaru Gospodarczego, nie stosuje się zwolnień, o których mowa powyżej.
+
+Obligatoryjne wyłączenia spod konsolidacji
+Konsolidacją nie obejmuje się jednostki zależnej oraz niebędącej spółką handlową jednostki współzależnej, jeżeli:
+
+udziały tej jednostki zostały nabyte, zakupione lub pozyskane w innej formie, z wyłącznym ich przeznaczeniem do późniejszej odprzedaży, w terminie jednego roku od dnia ich nabycia, zakupu lub pozyskania w innej formie,
+występują ograniczenia w sprawowaniu kontroli lub współkontroli nad jednostką, które wyłączają swobodne dysponowanie jej aktywami, w tym wypracowanym przez tę jednostkę zyskiem netto, lub które wyłączają sprawowanie kontroli nad organami kierującymi tą jednostką.
+
+Fakultatywne wyłączenia spod konsolidacji
+Konsolidacją można nie obejmować jednostki zależnej lub współzależnej niebędącej spółką handlową, jeżeli:
+
+dane finansowe tej jednostki są nieistotne dla realizacji obowiązku określonego w art. 4 ust. 1 ustawy o rachunkowości,
+pozyskanie informacji, niezbędnych do prawidłowego i rzetelnego objęcia jednostki konsolidacją, wiązać się może z poniesieniem niewspółmiernie wysokich kosztów, uniemożliwiających spełnienie wymaganych ustawą obowiązków, związanych ze sporządzeniem, zbadaniem, zatwierdzeniem i opublikowaniem skonsolidowanego sprawozdania finansowego. Przepis ten ma zastosowanie wyłącznie do jednostek, których siedziba lub miejsce sprawowania zarządu znajduje się poza terytorium Europejskiego Obszaru Gospodarczego.
+
+Bibliografia
+Ustawa z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r., Nr 76, poz. 694 ze zm.)
+Ustawa z dnia 27 sierpnia 2004 r. o zmianie ustawy o rachunkowości oraz ustawy o biegłych rewidentach i ich samorządzie (Dz. U. Nr 213 poz. 2155)
+Robert Patterson, "Kompendium terminów z zakresu rachunkowości i finansów po polsku i po angielsku" Warszawa, Fundacja Rozwoju Rachunkowości w Polsce, 2002 str. 157 – 161
+
+Linki zewnętrzne

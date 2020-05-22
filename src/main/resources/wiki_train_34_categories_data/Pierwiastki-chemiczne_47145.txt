@@ -1,0 +1,12 @@
+Stopy ołowiu − stopy, w których ołów jest głównym składnikiem stopowym. Najczęściej stosowanymi są stopy ołowiu z cyną,  miedzią i antymonem. Stopy ołowiu charakteryzują się dużą lejnością, niską temperaturą topnienia, znaczną odpornością na korozję szczególnie w środowiskach agresywnych jak woda morska, kwas siarkowy lub solny (wynika to z zupełnej nierozpuszczalności chlorków i siarczanów ołowiu). Z uwagi na wysoką toksyczność ołowiu i jego związków oraz fakt, iż ołów jest roztwarzany przez kwasy organiczne (np. octowy), jego stosowanie w branży spożywczej jest zabronione nawet w postaci dodatków stopowych.
+
+Polska Norma PN-EN 12659:2002 specyfikuje szereg stopów ołowiu:
+Stopy ołowiu z domieszką antymonu - OK (PbCu), OTK (PbSb0.1), OT (PbSb0.2Sn) i OT1 (PbSn1) – stosowane na powłoki kabli, podkładki i uszczelki oraz OT10 (PbSb10) i OT3S (PbSb3As) – do produkcji śrutu i akumulatorów.
+Stopy ołowiu z antymonem -  OT3 (PbSn3), OT5 (PbSb5), OT7 (PbSb7), OT8 (PbSb8), OT9 (PbSb9) – stosowane na aparaturę chemiczną, anody do galwanizacji. Przy większych zawartościach antymonu (OT9) także na elementy pomp tłoczących kwasy.
+Stopy ołowiu z antymonem z domieszką arsenu i berylu – OT4As (PbSb4As), OT6AsB (PbSb6AsB), OT8As (PbSb8As) – stosowane na elementy akumulatorów.
+Stop ołowiu z antymonem z domieszką kadmu – OCK (PbSbCd) – stosowany na powłoki kabli.
+Stopy ołowiu z antymonem i cyną - stosowane jako stopy drukarskie
+
+
+
+

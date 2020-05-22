@@ -1,0 +1,16 @@
+Prawa Grassmanna – podstawowe prawa kolorymetrii stworzone przez Hermanna Grassmanna, dotyczące addytywnego mieszania barw.
+
+Prawa
+Pierwsze prawo (trójchromatyczności): Każda dowolnie wybrana barwa może być określona za pomocą trzech liniowo niezależnych barw.
+Inaczej:
+Każde cztery barwy są liniowo zależne, istnieją jednak trójki barw liniowo niezależnych.
+Uwaga:
+Twierdzenie odwrotne nie jest prawdziwe, tzn. z dowolnie wybranych trzech liniowo niezależnych barw, nie da się utworzyć wszystkich barw.
+Drugie prawo (ciągłości): 
+Stopniowa zmiana barwy jednego składnika w mieszaninie złożonej z dwóch barw powoduje stopniową zmianę barwy mieszanej.
+Trzecie prawo (addytywności): 
+Barwa mieszaniny zależy jedynie od barw jej składników, a nie od ich składu widmowego.
+
+
+
+

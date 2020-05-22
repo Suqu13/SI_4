@@ -1,0 +1,69 @@
+Obrazowanie wielospektralne (wielowidmowe) (multispektralne), superspektralne i hiperspektralne – techniki rejestracji obrazu będące uogólnieniem fotografii barwnej na pełną przestrzeń barw w zakresie światła widzialnego, a także mikrofal, dalekiej i bliskiej podczerwieni oraz ultrafioletu. Obraz wielospektralny składa się z wielu kanałów będących uogólnieniem kanałów barw podstawowych: R (red), G (green) i B (blue) na dowolne zakresy spektralne.
+
+Idea
+Idealny przyrząd do obrazowania wielospektralnego dokonuje w określonym przedziale współrzędnych i długości fal jednoczesnego pomiaru funkcji I (x,y,λ)'', gdzie x,&nbsp;y są współrzędnymi na obrazowanej powierzchni, λ jest długością fali elektromagnetycznej, zaś I jest natężeniem energii promieniowania przypadającym na przedział &nbsp;Δx,&nbsp;Δy,&nbsp;Δλ wokół punktu &nbsp;x,&nbsp;y,&nbsp;λ. Wielkości Δx , Δy w odniesieniu do rozmiarów obrazu stanowią o rozdzielczości przestrzennej obrazowania, zaś wielkość Δλ jest rozdzielczością widmową (spektralną).
+Taki rodzaj obrazowania nosi w języku angielskim nazwę Full Spectral Imaging (FSI) i jako realna technika jest wciąż na początkowym etapie rozwoju. Pierwsza wzmianka o FSI pojawiła się na konferencji SPIE w Barcelonie w 2004 roku.
+
+Głównym problemem stojącym na przeszkodzie w praktycznej realizacji FSI jest szybkość rejestracji obrazów w wielu osobnych kanałach związanych z przedziałami długości fali. Aby zarejestrować taki wielokanałowy obraz w krótkim czasie (porównywalnym np. z czasem migawki aparatu fotograficznego) potrzebny jest układ matryc czujników (np. takich jak matryca CCD) o bardzo dużej czułości i szybkości działania połączonej z możliwością pracy w szerokim przedziale widmowym.
+
+Nazewnictwo
+Praktyczne realizacje powyższej idei, zależnie od przedziałów długości fali i rozdzielczości spektralnej, noszą różne nazwy. W zależności od liczby kanałów spektralnych techniki obrazowania dzielimy umownie na:
+multispektralne – kilka kanałów, np. satelita SPOT – 3 kanały, IKONOS – 4 kanały, Landsat – 7 kanałów
+superspektralne – kilkadziesiąt kanałów, np. instrument satelitarny MODIS (MODerate resolution Imaging Spectroradiometer) zainstalowany w satelitach Aqua i Terra zawierający 36 kanałów
+hiperspektralne – 100 lub więcej kanałów
+
+Inne źródła nie wprowadzają pojęcia obrazowania superspektralnego, zastępując je szerszym zakresem multispectral imaging, a przy tym definiują różnicę pomiędzy obrazem multispektralnym a hiperspektralnym, nie tylko w oparciu o liczbę kanałów, ale także ich ciągłość; obrazowanie hiperspektralne definiuje się jako możliwość uzyskania rozkładu natężeń w ciągłym zakresie długości fal, natomiast obraz multispektralny może obejmować rozdzielone fragmenty widma; w szczególności obraz multispektralny może być wykonywany przez wiele współpracujących ze sobą czujników fotometrycznych różnego typu – każdy związany z innym zakresem długości fal.
+
+O klasie urządzenia decyduje nie tylko ilość kanałów spektralnych, ale również (a w wielu zastosowaniach – przede wszystkim) rozdzielczość przestrzenna i szybkość działania. W sytuacji, gdy istotna jest jedynie wysoka rozdzielczość spektralna, zaś pomiar ma dotyczyć całej wiązki światła docierającej do przyrządu (bez rozdzielczości przestrzennej), najkorzystniejsze jest użycie spektrometru wielokanałowego, natomiast w sytuacji, gdy zbieranie danych może się odbywać w dowolnie długim czasie, wystarczającym i zarazem najdokładniejszym rozwiązaniem jest zastosowanie klasycznego spektrometru lub monochromatora połączonego z szerokopasmowym fotometrem (zob. spektroskopia astronomiczna).
+
+Przyrządy rejestrujące obraz wielospektralny nazywane są skanerami (kamerami) wielospektralnymi, ewentualnie multispektralnymi lub hiperspektralnymi.
+
+Zastosowania
+
+Geografia, geologia, kartografia i dziedziny pokrewne
+Obrazowanie wielospektralne znajduje zastosowanie w systemach zbierania informacji geograficznych, w tym zwłaszcza w Systemach Informacji o Terenie.
+Dane multispektralne pozwalają na zdobycie o wiele pełniejszej informacji o terenie, niż tradycyjna fotografia satelitarna. Na podstawie analizy światła odbitego przez różne fragmenty terenu można wyciągać wnioski na temat rodzaju skał, składu i wilgotności gleby, a także rodzaju roślinności zasiedlającej teren (w tym roślinności oceanicznej).
+
+Meteorologia
+Satelitarne obrazy wielospektralne są szczególnie ważne dla meteorologii – pozwalają na badanie rozkładu koncentracji pary wodnej, a także rozkładów temperatur gruntu, wody i mas powietrza. Protoplastą technik multispektralnych w meteorologii były jednokanałowe fotografie w podczerwieni.
+
+Ekologia, leśnictwo, rolnictwo
+
+Obrazy multispektralne i hiperspektralne są przydatne w badaniu rozkładu populacji roślin, w szczególności flory oceanicznej oraz drzewostanów na obszarach leśnych. Dokładna analiza światła odbitego od roślin pozwala na wykrycie obecności określonych gatunków drzew, a także wskazuje ich ogólny "stan zdrowia". Najprostszym kryterium oceny wegetacji na danym obszarze jest Normalized Difference Vegetation Index (NDVI) obliczany jako:
+
+
+
+gdzie  jest natężeniem światła w obszarze bliskiej podczerwieni, zaś  – analogiczną wielkością dla czerwieni. Istnieją również bardziej rozbudowane funkcje opisujące wegetację, np. Enhanced Vegetation Index (EVI).
+
+Obrazowanie hiperspektralne jest doskonałym narzędziem pozwalającym na zdalne (satelitarne) wykrywanie zanieczyszczeń środowiska. Substancje chemiczne, zwłaszcza organiczne mają charakterystyczne widma emsji i absorpcji fal elektromagnetycznych; obrazowanie hiperspektralne pozwala na identyfikację śladów nielegalnej (lub awaryjnej) emisji zanieczyszczeń, np. zanieczyszczających wodę śladów ropy naftowej i innych skażeń środowiska, a także na monitorowanie emisji tzw. gazów cieplarnianych oraz gazów szkodliwie wpływających na warstwę ozonową (łatwa jest również obserwacja grubości samej warstwy).
+
+W leśnictwie wysokorozdzielcze zdjęcia multi i hiperspektralne pozwalają na identyfikację określonych gatunków drzew, a także ocenę stanu drzewostanów, np. kondycji roślin, fazy kwitnienia, pylenia, infekcji pasożytniczych itp.
+
+Inwigilacja, ratownictwo, poszukiwania obiektów
+
+Dzięki obrazowaniu wielospektralnemu możliwa jest identyfikacja obiektów częściowo ukrytych, które byłyby niewidoczne w obrazie z tradycyjnych kamer kolorowych lub podczas obserwacji bezpośredniej. Przykładem urządzenia do poszukiwań obiektów o znanych "śladach spektralnych" (tzn. pasujących do zaprogramowanego wzorca) jest skaner hiperspektralny ARCHER. Urządzenie to jest zamontowane na pokładzie samolotu i rejestruje obraz widoczny przez okno ze szkła kwarcowego. Umożliwia np. zlokalizowanie ukrytego w gęstym lesie wraku samolotu, poszukiwanie plantacji lub magazynów narkotyków lub prowadzenie inwigilacji grupy osób.
+
+Kryminalistyka
+W technice kryminalistycznej obrazowanie wielospektralne jest narzędziem pozwalającym na przyspieszenie prac śledczych. Wielospektralne fotografie kryminalistyczne miejsc i dowodów zbrodni pozwalają na szybkie wykrycie mikrośladów określonych substancji organicznych lub chemicznych (np. pomagając w wykryciu przyczyn powstania pożaru). Szybkość działania ma tu nie tylko oczywiste znaczenie związane z tempem prowadzenia śledztwa – istotna jest również szybkość zacierania się śladów związana np. z działaniem światła, czynników atmosferycznych, bakterii itp.
+
+Historia sztuki, archeologia
+W badaniach zabytkowych dzieł sztuki, w tym obrazów, książek (w szczególności palimpsestów) obrazowanie wielospektralne jest niezastąpionym narzędziem nieinwazyjnego badania autentyczności oraz ukrytej treści dzieła. Dzięki obrazowaniu wielospektralnemu uzyskano na przykład informacje dotyczące historii powstawania i kolejnych retuszów obrazu Madonna z dzieciątkiem autorstwa Carlo Crivelliego.
+
+Dzięki badaniom wielospektralnym odczytano tekst kopii Kodeksu Archimedesa. Został on przepisany w X wieku przez anonimowego skrybę, jednak w XII wieku pergamin został wyprany przez mnichów z powodów "oszczędnościowych" i zapisany od nowa tekstem liturgicznym. Oryginalny tekst udało się odczytać dzięki obrazowaniu wielospektralnemu, początkowo dla czterech kanałów, następnie dla dwunastu. Użyto przy tym długości fal od ultrafioletu (365 nm) poprzez światło widzialne (445, 470, 505, 530, 570, 617 i 625 nm) aż do podczerwieni (700, 735, 870 oraz 910 nm).
+
+
+Plik:ArPalimTypPage.jpg|Strona z Palimpsestu Archimedesa, zapisana liturgicznym tekstem z  XII  wieku
+Plik:ArPalimTyp2.jpg|Wizualizacja pierwotnej treści tej samej strony na podstawie obrazowania wielospektralnego
+Plik:Stomachion.JPG|Stomachion – łamigłówka odtworzona z palimpsestu dzięki obrazowaniu
+
+
+
+
+
+
+
+
+
+
+
+

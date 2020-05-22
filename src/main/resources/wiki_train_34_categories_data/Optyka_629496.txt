@@ -1,0 +1,43 @@
+
+Canon EOS D30''' - pierwsza cyfrowa lustrzanka jednoobiektywowa w ofercie japońskiego producenta. Posiadała 3,1 megapikselową matrycę CMOS. D30 została wprowadzona na rynek 17 maja 2000 roku a dwa lata później zastąpiona modelem EOS D60.
+
+Specyfikacja
+typ: cyfrowa lustrzanka jednoobiektywowa
+matryca: CMOS o wymiarach 22,7 x 15,1 mm (format APS-C)
+całkowita liczba megapikseli: 3,3
+użyteczna liczba megapikseli: 3,1
+całkowita rozdzielczość matrycy: 2226 x 1460 pikseli
+użyteczna rozdzielczość matrycy: 2160 x 1440 pikseli
+mocowanie obiektywu: Canon EF
+mnożnik ogniskowej obiektywu: 1,6
+tryby fotografowania: ręczny (M), priorytet migawki (Tv), priorytet przesłony (Av), automatyczny (A), program (P)
+nastawianie ostrości: auto, ciągłe, ręczne
+autofocus: trzypunktowy
+zakres pracy autofocusa: 2 - 18 EV
+czułość ISO: 100, 200, 400, 800 lub 1600 
+pomiar światła: TTL, 35-strefowa fotokomórka SPC
+tryby pomiaru światła: wielosegmentowy, centralnie ważony lub częściowy (9,5% kadru)
+zakres pracy miernika światła: 2 - 20 EV
+korekcja ekspozycji: -2 EV to +2 EV, co 1/3 EV lub 1/2 EV
+balans bieli: automatyczny, 5 ustawień fabrycznych lub ręczny
+migawka: elektronicznie sterowana, szczelinowa
+czasy migawki: od 1/4000 do 30 s oraz Bulb
+samowyzwalacz: 10 s
+wizjer: optyczny, pryzmat pentagonalny
+matówka: stała
+wyświetlacz: kolorowy wyświetlacz ciekłokrystaliczny TFT o przekątnej 1,8" (46 mm), 114 tysięcy pikseli
+lampa błyskowa: wbudowana, chowana
+metoda pomiaru światła lampy błyskowej: E-TTL
+czas synchronizacji z lampą błyskową: do 1/200 s
+zdjęcia seryjne: 3 klatki/s
+pamięć: karta CompactFlash, typ I lub II
+format plików: JPEG lub Canon RAW
+wejścia/wyjścia: USB, wideo (PAL lub NTSC), wężyk spustowy N3, terminal lamp studyjnych PC, stopka dla lamp błyskowych linii Speedlite EX
+zasilanie: akumulator BP-511, litowo-jonowy, pojemność 1100 mAh lub zasilacz zewnętrzny
+wymiary: 149,5 x 106,5 x 75 mm
+masa korpusu: 780 g (bez baterii i karty)
+
+Zobacz też
+Canon EOS - linia aparatów fotograficznych
+
+Linki zewnętrzne

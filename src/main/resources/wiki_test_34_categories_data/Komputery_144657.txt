@@ -1,0 +1,18 @@
+
+Barebone - handlowa nazwa komputera osobistego o niestandardowej obudowie i zminimalizowanych rozmiarach przeznaczonego w zasadzie głównie do obsługi multimediów (jako domowe lub "salonowe" centrum multimedialne). Inną nazwą proponowaną głównie przez firmę Shuttle to XPC. Poza estetyczną obudową, nawiązującą stylistycznie do wież audio i kształcie zbliżonym na ogół do sześcianu (stąd popularna nazwa "kostka", "cube").
+Komputer typu barebone charakteryzuje się zwykle następującymi cechami:
+płyta główna o małych wymiarach (np. w standardzie picoBTX) zawierająca z reguły wbudowane podzespoły graficzne i dźwiękowe, czasem także tuner TV/FM, o ograniczonych możliwościach rozbudowy (w porównaniu do przeciętnego komputera PC)
+bogaty zestaw wyjść i wejść audio i video, pozwalających na współpracę z różnego rodzaju monitorami, projektorami (tzw. kino domowe), wzmacniaczami audio, urządzeniami wyjściowymi, oraz zewnętrznymi źródłami sygnału audio i video
+wielofunkcyjny napęd CD/DVD pozwalający na odczyt i nagrywanie płyt audio i video o różnych standardach.
+moc procesora i wielkość pamięci RAM (a także HDD) pozwalająca na programowe dekodowanie w czasie rzeczywistym popularnych formatów video (np. DVD, DivX, MKV)
+cicha praca (w droższych modelach wynikająca z wyrafinowanych systemów chłodzenia)
+prosta obsługa podstawowych funkcji także za pomocą pilota zdalnego sterowania.
+
+Rosnąca popularność komputerów barebone wynika z integracji technik służących do zapisu/przesyłu/odtwarzania treści multimedialnych, i jest wynikiem zauważalnej tendencji do specjalizacji sprzętu komputerowego powszechnego użytku w zależności od jego przeznaczenia.
+
+Zobacz też
+Nettop
+Kadłubek
+
+
+

@@ -1,0 +1,67 @@
+Merkawa (hebr. מרכבה Rydwan) – izraelski czołg podstawowy zaprojektowany w 1974 roku przez zespół pod kierunkiem gen. mjr. Izraela Tala. Produkowany seryjnie od 1979 roku w zakładach Elbit.
+
+Historia
+Dowództwo armii izraelskiej pod wpływem doświadczeń wyniesionych z wojny sześciodniowej i wojny Jom Kippur, postanowiło przystąpić do opracowania nowego czołgu, który miałby zastąpić używane przez armię czołgi produkcji amerykańskiej (M48 i M60 Magach) i brytyjskiej (Centurion). Podstawowym jednak bodźcem mającym wpływ na podjecie prac badawczo rozwojowych nad rodzimym projektem czołgu, były trudności w zakupie czołgów od Francji i Wielkiej Brytanii, które pod naciskiem krajów arabskich odmówiły Izraelowi sprzedaży czołgów i samolotów.
+
+Prace nad takim czołgiem trwały już od 1967 roku, prowadził je zespół konstruktorów pod kierunkiem gen. mjr. Israela Tala z firmy Elbit. Znaczne przyspieszenie prac nastąpiło po wojnie Jom Kippur w 1973 roku, gdy używane przez Izrael czołgi poniosły znaczne straty od ognia przeciwpancernych pocisków kierowanych używanych przez wojska państw arabskich. Przy projektowaniu czołgu priorytetem było zapewnienie załodze maksymalnego stopnia ochrony, co w znacznym stopniu udało się konstruktorom zrealizować. Prototyp czołgu o nazwie Merkawa zbudowano w 1974 roku, kontynuowano jednak prace w celu zwiększenia bezpieczeństwa załogi, mobilności i siły ognia. W czołgu po raz pierwszy zastosowano wielowarstwowy pancerz grodziowy w wieży, a amunicję do armaty umieszczono w pojemnikach, zapobiegających eksplozji w przypadku przebicia pancerza. Prace zakończono w 1979 roku, po czym rozpoczęto produkcję seryjną czołgów oznaczonych jako Merkawa Mk 1''.
+
+Czołg Merkawa odróżnia się od innych czołgów podstawowych zastosowanym układem konstrukcyjnym, w którym przedział silnikowy znajduje się w przedniej części kadłuba po prawej stronie, przedział kierowcy za silnikiem po jego lewej stronie, natomiast środkowa i tylna część czołgu zajęta jest przez przedział bojowy nakryty wieżą obrotową. Układ taki był typowy dla lżejszych pojazdów i dotychczas nie znalazł zastosowania w innych seryjnych czołgach podstawowych. W efekcie Merkawa powszechnie uważana jest za jedną z najbardziej udanych i najciekawszych powojennych konstrukcji.
+
+Po doświadczeniach wyniesionych z walk w Libanie w 1982 roku, gdzie w pełni sprawdziła się koncepcja czołgu, zwłaszcza umieszczenia silnika z przodu kadłuba i drzwi pancernych z tyłu, zbudowano nową wersję czołgu oznaczoną, jako Merkawa Mk 2'', która różniła się od poprzedniej wersji wzmocnieniem elementów pancerza wieży i kadłuba oraz ulepszonym systemem kierowania ogniem. Powiększono także zasięg działania czołgu. 
+
+W 1987 roku na podstawie doświadczeń z walk w północnym Libanie opracowano kolejną wersję czołgu oznaczoną jako Merkawa Mk 3'' (nazywana także Merkawa Baz). Najistotniejszą zmianą było zastosowanie nowej armaty gładkolufowej kal. 120 mm. Zastosowano także nowy system kierowania ogniem oraz wzmocniono pancerz i zmieniono nieco jego kształt. Czołg ten stał się od 1990 podstawowym czołgiem armii izraelskiej.
+
+Merkawy są systematycznie modernizowane i ulepszane. W 1997 roku czołgi Merkawa Mk 3 zostały wyposażane w zintegrowany system dowodzenia CVIS (ang. Combat Vehicle Integrated System) firmy Elop, co znacznie podniosło ich walory bojowe. Najnowszą wersją jest Merkawa Mk 4'', która wprowadziła dalsze ulepszenia pancerza o zmienionym kształcie, mającego teraz budowę modułową oraz bardziej zaawansowane układy elektroniczne, włącznie z elektronicznymi systemami obrony aktywnej. Wersja ta weszła do produkcji w 2001, a do uzbrojenia jednostek bojowych od 2004 roku. 
+
+Produkowane seryjnie wersje czołgu Merkawa:'''
+Mk 1 – budowana w latach 1979 – 1983, zbudowano 330 sztuk
+Mk 2 – budowana w latach 1983 – 1990, zbudowano 600 sztuk
+Mk 3 – budowana w latach 1987 – zbudowano >350 sztuk
+Mk 4 – budowana od 2001 roku
+
+Użycie bojowe
+Czołg Merkawa od chwili rozpoczęcia produkcji seryjnej stał się podstawowym czołgiem wojsk pancernych armii izraelskiej. 
+
+Czołgi Merkawa Mk I zostały użyte podczas izraelskiej inwazji na Liban w 1982 roku jako czołgi wsparcia piechoty. Podczas walk w Bejrucie, według niepotwierdzonych danych, uszkodzonych zostało 50 czołgów Merkawa. Ścierały się one tam m.in. z wczesnymi wersjami czołgów T-72 armii syryjskiej. W późniejszym okresie używany był do walk z bojówkami Hezbollahu na południu Libanu. Następnie czołgi Merkawa używane były przeciw bojownikom palestyńskim. Kilka czołgów tego typu zostało uszkodzonych przez bojowników w Strefie Gazy, głównie za pomocą fugasów.
+
+Konstrukcja
+Czołg Merkawa ma nietypowy układ konstrukcyjny, będący efektem położenia przy jego projektowaniu i dalszych modyfikacjach szczególnego nacisku na bezpieczeństwo załogi, kosztem innych cech.
+
+Ponieważ najbardziej narażoną na ostrzał częścią czołgu jest jego przód, w czołgu Merkawa zastosowano nietypowy układ konstrukcyjny umieszczając w przedniej części silnik wraz z układem napędowym, a dopiero za nim osłonięty płytą pancerną przedział załogi. Takie rozwiązanie spowodowało, że pocisk musiałby pokonać najpierw pancerz przedni, później cały blok silnika oraz następną płytę pancerną, aby dotrzeć do przedziału załogi. 
+
+
+
+Wieża czołgu Merkawa ma kształt długiego klina, co sprzyja rykoszetowaniu pocisków, a niewielkie rozmiary płaszczyzn poszczególnych części wieży utrudniają jej trafienie. W wersji czołgu Merkawa Mk 3 zastosowano ponadto warstwowy pancerz laminowany, który można wymieniać. Sama wieża jest przesunięta do tyłu, dzięki czemu armata wystaje dużo mniej przed przednią krawędź kadłuba. Umożliwia też jazdę po nierównościach bez odwracania wieży do tyłu.
+
+Z boku czołgi Merkawa są chronione dodatkowo metalowymi fartuchami, na których pociski kumulacyjne wybuchają nie czyniąc szkody głównemu pancerzowi. 
+
+W czołgu tym zmieniono również miejsce składowania pocisków, lokując je w tylnej części kadłuba, pakowane w specjalne pojemniki. W przypadku usunięcia połowy pocisków do armaty, w przedziale ładunkowym dostępnym przez tylny właz, może zmieścić się 10 żołnierzy. Tylny właz może również stanowić rampę do wnoszenia do czołgu rannych żołnierzy. 
+
+Dno czołgu ma kształt litery „V”, co sprzyja rozpraszaniu fali uderzeniowej w przypadku najechania na minę. 
+
+Czołg Merkawa posiada automatyczny system przeciwpożarowy reagujący na ogień i wybuch paliwa lub oleju.
+
+Uzbrojenie
+Podstawowe uzbrojenie:
+armata gwintowana kal. 105 mm (w wersji Mk 1 i Mk 2) lub armata gładkolufowa kal. 120 mm (w wersji Mk 3 i Mk 4) 
+Dodatkowe uzbrojenie:
+1 karabin maszynowy kal. 7,62 – sprzężony z armatą
+2 przeciwlotnicze karabiny maszynowe FN MAG kal. 7,62 mm – zamocowane na wierzchu wieży
+moździerz kal. 60 mm do wystrzeliwania granatów dymnych, oświetlających lub odłamkowych
+wyrzutnia granatów dymnych (6 x 2) systemu CL-3030 IS-6
+
+Dodatkowo czołg wyposażony jest w nowoczesny system kontroli ognia z przelicznikiem cyfrowym, laserowym dalmierzem oraz zespołem czujników do pomiarów takich parametrów jak: prędkość wiatru, temperatura powietrza czy prędkość obrotu wieży.
+
+Dane taktyczno-techniczne
+
+
+Galeria
+
+Plik:Merkava-1-latrun-2.jpg|Merkawa Mk 1
+Plik:Merkava-2-latrun-3.jpg|Merkawa Mk 2
+Plik:Merkava-3-latrun-2.jpg|Merkawa Mk 3
+Plik:Merkava4 MichaelMass01.jpg|Merkawa Mk 4
+
+
+
+Linki zewnętrzne

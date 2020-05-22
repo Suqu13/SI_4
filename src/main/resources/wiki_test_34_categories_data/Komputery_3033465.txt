@@ -1,0 +1,31 @@
+Komputery mogą być zaklasyfikowane na wiele sposobów.
+Klasyfikacja przez rozmiar
+Mikrokomputery
+Mikrokomputery są najbardziej powszechnymi rodzajami komputerów używanymi obecnie,  w pracy, w szkole czy na biurku domowym. Termin „mikrokomputer” został wprowadzony wraz z pojawieniem się pojedynczych chipów mikroprocesorów. Obecnie termin „mikrokomputer” jest praktycznie anachronizmem.
+Do mikrokomputerów zalicza się:
+Komputer stacjonarny 
+Komputer samochodowy – wbudowany w samochodzie dla rozrywki, nawigacji itd.
+Konsole – komputery specjalizujące się w celach rozrywkowych (gry wideo)
+Oddzielnym rodzajem są urządzenia mobilne:
+laptopy, notebook i Handheld PC– przenośne, różnej wielkości, ale z wyłączeniem smartbooków są to komputery pozbawione ograniczeń
+Tablety – podobne do laptopów, ale z [ekranem dotykowym], czasem całkowicie zastępującym klawiaturę
+Smartfony, smartbooki i Palmtopy – małe, przenośne komputery z ograniczonymi możliwościami sprzętowymi
+Programowalne Kalkulatory – podobne do innych urządzeń przenośnych, ale specjalizujące się w zadaniach matematycznych
+Przenośna konsola – podobne do konsoli do gier, ale małych rozmiarów i przenośne
+Minikomputery
+Minikomputer jest wielu-użytkownik-owym rodzajem komputera, który mieści się w środkowym zakresie mocy obliczeniowej, pomiędzy najmniejszymi Mainframe i największymi jedno-użytkownik-owymi systemami (mikrokomputery, PC).  Współczesny termin tego rodzaju komputerów to komputery „midrange”,  takie jak wyższej klasy SPARC, POWER, i  systemy bazujące na Itanium od Oracle Corporation, IBM i Hewlett-Packard.
+Mainframe
+Termin mainframe został stworzony, aby odróżnić tradycyjny, duży, instytucjonalny komputer przeznaczony do obsługi wielu użytkowników, od mniejszych, maszyn dla jednego użytkownika.  Komputery  tego rodzaju są zdolne do  obsługi i przetwarzania dużej ilości danych w krótkim czasie. Komputery Mainframe są używane w dużych instytucjach takich jak organizacje rządowe, banki i duże korporacje.  Są one zaprojektowane do odpowiadania na akcje setek milionów użytkowników w tym samym momencie.
+Superkomputery
+Superkomputer skupia się na wykonywaniu zadań wymagających intensywnych obliczeń numerycznych, takich jak prognoza pogody, dynamika płynów, symulacje jądrowe, astrofizyka teoretyczna i złożonych obliczeń naukowych. Superkomputer jest komputerem znajdującym się na pierwszej linii zdolności przetwarzania, zwłaszcza szybkości obliczeń. Określenie superkomputer  jest raczej płynne, a szybkość dzisiejszych superkomputerów ma tendencje do bycia jutro typowymi komputerami. Szybkość przetwarzania superkomputerów jest mierzona w zmiennoprzecinkowych operacjach na sekundę lub FLOPS. Przykładem zmiennoprzecinkowych operacji jest obliczanie równań matematycznych w liczbach rzeczywistych.  Superkomputery są najbardziej wydajne pod względem zdolności obliczeniowej, pamięci oraz jej szybkości, technologii I/O i topologicznych kwestiach jak przepustowość czy opóźnienia. Nieopłacalne są tylko w wykonywaniu przetwarzania wsadowego lub  przetwarzania transakcji. Przetwarzanie transakcji jest obsługiwane przez słabsze komputery, takie jak serwery i mainframe.
+Klasyfikacja przez funkcje
+Serwery
+Serwer oznacza zwykle komputer, który jest przeznaczony do świadczenia usług.  Na przykład, komputer przeznaczony do baz danych może być nazwany „serwerem bazy danych”. Serwer plików zarządza dużą ilością plików. Serwery WWW  przetwarzają strony internetowe i aplikacje internetowe. Dużo mniejszych serwerów jest aktualnie komputerami osobistymi , które zostały przeznaczone do świadczenia usług dla innych komputerów.
+Stacje robocze
+Stacje robocze to komputery, które mają służyć jednemu użytkownikowi i mogą zawierać specjalne ulepszenia sprzętu nie spotykane w komputerach osobistych. 
+Urządzenia informacyjne
+Urządzenia informacyjne są komputerami zaprojektowanymi do wykonywania specyficznych przyjaznych-użytkownikowi funkcji takich jak odtwarzanie muzyki, fotografii czy edycji tekstu. Termin ten jest powszechnie stosowany do urządzeń mobilnych, chociaż są także przenośne i stacjonarne urządzenia tej kategorii.
+Systemy wbudowane
+Systemy wbudowane są komputerami, które są częścią maszyny lub urządzenia. Systemy wbudowane generalnie wykonują program, który jest przechowywany w pamięci trwałej i jest  przeznaczony wyłącznie do obsługi danej maszyny lub urządzenia. Systemy wbudowane są bardzo powszechne. Zwykle są one wymagane do ciągłej pracy bez resetowania lub  restartu i zwykle po pierwszym uruchomieniu ich oprogramowanie nie może być modyfikowane. Pojazdy mogą zawierać szereg komputerów wbudowanych; jednakże pralka i odtwarzacz dvd mogłyby zawierać tylko jeden. Procesory użyte w komputerach wbudowanych często wystarczają jedynie do wymagań określonego programu i mogą być wolniejsze  oraz tańsze niż procesory zamontowane w komputerach osobistych.
+
+

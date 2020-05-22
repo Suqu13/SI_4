@@ -1,0 +1,138 @@
+
+
+Jak-9''' (ros. Як-9''') – radziecki samolot myśliwski z czasów drugiej wojny światowej, powstały w biurze konstrukcyjnym Jakowlewa jako rozwinięcie myśliwca Jak-7, wywodzącego się z kolei z konstrukcji Jak-1. Był najliczniejszym modelem rodziny myśliwców Jak, produkowanym w licznych różniących się wersjach w latach 1942–1948, w łącznej liczbie 16&nbsp;769 sztuk.
+
+Podstawowymi wersjami były: myśliwiec dalekiego zasięgu Jak-9D i myśliwiec z ciężkim uzbrojeniem Jak-9T z 1943, myśliwce Jak-9M i Jak-9U z 1944, samolot szkolno-treningowy Jak-9W z 1945 oraz powojenny myśliwiec Jak-9P.
+
+Historia rozwoju
+Prototyp Jak-7DI
+Prototypem myśliwca Jak-9 stał się samolot Jak-7DI, zbudowany na bazie myśliwca Jak-7B z silnikiem WK-105PF (M-105PF), jako wariant myśliwca dalekiego zasięgu. Najważniejszą zmianą było zastosowanie skrzydła konstrukcji mieszanej (duraluminiowej) opracowanego dla prototypu samolot myśliwsko-rozpoznawczego Jak-7D, zamiast dotychczasowego skrzydła drewnianego. Umożliwiła to wzrastająca produkcja aluminium, a także jego dostawy z USA. Skrzydło to mieściło cztery większe zbiorniki paliwa o pojemności 673 l. Dzięki nowemu skrzydłu samolot stał się lżejszy od standardowego Jaka-7B. Ponadto, w celu zmniejszenia masy osłabiono jego uzbrojenie, które stanowiło teraz działko 20 mm i 1 wkm 12,7 mm (analogicznie do Jak-1b). Zakładano, że będzie mógł służyć jako myśliwiec dalekiego zasięgu z pełnym zapasem paliwa, dysponując wówczas osiągami nie gorszymi od Jaka-7B lub wykorzystywać lepsze osiągi ze zmniejszonym do 350 l zapasem paliwa. Podobnie jak późne Jaki-7B, miał on kroplową osłonę kabiny pilota i obniżony grzbiet kadłuba za kabiną (analogiczne także do Jaka-1b), a także nadal miał przedział transportowy za kabiną, zamykany sklejkową pokrywą. Prototyp testowano od czerwca 1942, jego próby państwowe prowadzono do 5 sierpnia 1942. Zakończyły się one pomyślnie, po czym  skierowano go do produkcji pod nowym oznaczeniem Jak-9'''.
+
+Jak-9
+Produkcję nowego samolotu podjęto od października 1942 w zakładzie nr 153 w Nowosybirsku, produkującym Jaki-7. Wariant seryjny od Jaka-7DI różnił się zmniejszeniem pojemności zbiorników paliwa do 440 l. Samoloty rodziny Jak-9 można było odróżnić od Jak-1b przede wszystkim po większej chłodnicy wody pod centropłatem, przesuniętej bardziej do przodu (na wysokości kabiny); różniły się one także osłonami podwozia (Jaki-9 i Jaki-7 miały osłony goleni podwozia dość wiernie odpowiadające obrysowi goleni i części koła, natomiast Jaki-1 i Jaki-3 miały większe dwuczęściowe osłony z prostą tylną krawędzią). Praktycznie nie odróżniały się z zewnątrz od późnych Jaków-7B, lecz miały słabsze uzbrojenie (działko 20 mm i 1 wkm zamiast działka i 2 wkm). Do marca 1943 zbudowano 195 Jaków-9 podstawowej wersji, a dalsze 264 od stycznia do sierpnia 1943 w zakładzie nr 166 – łącznie '''459'''.
+
+Jak-9D
+Kiedy na początku 1943 Armia Czerwona przeszła do operacji ofensywnych na froncie, pojawiła się potrzeba myśliwców o przedłużonym zasięgu, mogących operować w większej odległości od baz. W nowej wersji Jak-9D (dalnyj) zastosowano ponownie 4 zbiorniki paliwa o pojemności łącznej 650 l. Uzbrojenie stanowiło działko 20 mm i wkm. Po próbach państwowych od stycznia do lutego 1943, nowy wariant skierowano do produkcji. Od marca 1943 zbudowano ich '''3058''' (3035 wg innych danych) w zakładach nr 153 i 166; produkcję kontynuowano aż do czerwca 1946.
+
+W praktyce, samoloty najczęściej eksploatowano jako zwykłe myśliwce frontowe, z mniej niż połową paliwa w zbiornikach podczas startu, w celu uzyskania lepszych osiągów.
+
+Jak-9T
+Pod koniec 1942 postanowiono opracować wariant Jaka-9 z silnym uzbrojeniem strzeleckim dużego kalibru, po pozytywnych doświadczeniach z Jakiem-7-37 oraz z otrzymanymi z USA myśliwcami Bell P-39 Airacobra. Potrzeba takich samolotów uwidoczniła się zwłaszcza podczas walk pod Stalingradem; kaliber taki był szczególnie przydatny do zwalczania bombowców i samolotów transportowych, przeciw którym standardowe uzbrojenie często okazywało się niewystarczające. Mogło też służyć do zwalczania pojazdów opancerzonych (oznaczenie T rozwijane jest jako tankowyj – czołgowy lub tjażołyj – ciężki).
+
+Prototyp zbudowano w styczniu 1943, uzbrojony był w działko 37 mm NS-37 strzelające przez wał śmigła i jeden wkm. Działko miało zapas amunicji 32 naboje i proste przeziernikowe przyrządy celownicze, składające się z pierścienia i muszki. Dla zamocowania dłuższego działka przesunięto kabinę pilota o 40 cm do tyłu, a jego lufa wystawała z kołpaka śmigła na 16 cm. Ponieważ dłuższe serie nie były celne, z działka oddawano maksymalnie serie 2-3 strzałowe, a drugą funkcją wkm-u było wcześniejsze wstrzeliwanie się w cel pociskami smugowymi. W marcu 1943 ukończono badania państwowe i samolot skierowano do produkcji w zakładzie 153. Produkcję kontynuowano do lipca 1945 i zbudowano ich '''2748'''. Miał on jedynie nieco słabsze osiągi od bazowego Jaka-9, a uzbrojenie okazało się efektywne w walce z samolotami i celami naziemnymi. Mimo początkowych planów zwiększenia zapasu paliwa, samoloty produkowano ze zbiornikami, jak w podstawowym wariancie Jaka-9.
+
+Jak-9K
+Po opracowaniu udanego wariantu Jak-9T, jesienią 1943 podjęto prace nad jeszcze silniej uzbrojonym samolotem, z działkiem automatycznym kalibru 45 mm NS-45 (Jak-9K – krupnokalibiernyj – wielkokalibrowy). Był on zbliżony do Jaka-9T, jedynie z kołpaka śmigła wystawała na 36 cm lufa działka z hamulcem wylotowym. Pociski 45 mm zostawiały za sobą smugę świetlną, lecz z powodu oddziaływania odrzutu na samolot, istniały niewielkie możliwości korekcji ognia. Pomimo hamulca, odrzut był tak silny, że często doprowadzał do przecieków w instalacjach samolotu, mimo że serie ograniczano do 2-3 strzałów. Osiągi były nieco niższe od Jaka-9T. Mimo niedostatków, nowe uzbrojenie było na tyle potężne (jeden pocisk niszczył samolot lub samochód), że po badaniach prowadzonych od stycznia do kwietnia 1944, od kwietnia do lipca 1944 zbudowano '''53''' samoloty serii próbnej. Ponieważ jednak działko nie było do końca dopracowane, produkcji nie kontynuowano.
+
+Jak-9R
+Jesienią 1943 przebudowano myśliwiec Jak-9 na wariant rozpoznawczy Jak-9R, przez instalację aparatu fotograficznego AFA-1M lub AFA-3S/50 w przedziale za kabiną pilota. Przechodził on badania od września do października 1943, zakończone pomyślnie. Samoloty Jak-9 przebudowywano na Jak-9R w warsztatach poszczególnych jednostek, w związku z czym liczba przebudowanych samolotów nie jest znana.
+
+Drugą wersję Jaka-9R jako samolotu rozpoznawczego średniego zasięgu opracowano na bazie Jaka-9D. Miał on 4 zbiorniki paliwa o pojemności 584 l. Uzbrojenie stanowiło jedno działko 20 mm. Do sierpnia 1943 zbudowano '''35''' samolotów tej wersji w zakładzie nr 166.
+
+
+Jak-9M
+Wersja Jak-9M odpowiadała w zasadzie wersji myśliwskiej Jak-9D, lecz różniła się kabiną przesuniętą o 40 cm do tyłu, podobnie jak w wersji Jak-9T. Zmiana ta była wprowadzona w celu większej unifikacji wersji, ułatwiającej produkcję modelu 9M lub 9T w zależności od potrzeb. Uzbrojenie stanowiło działko 20 mm i wkm, napęd początkowo stanowił ten sam silnik WK-105PF. Wprowadzono ponadto dalsze drobne ulepszenia, w tym wzmocniono poszycie skrzydeł. Wersję tę skierowano do produkcji w maju 1944 i do czerwca 1945 w zakładzie nr 153 zbudowano '''4239''' samolotów, przez co była to najliczniejsza odmiana Jaka-9.
+
+Od października 1944, w związku ze zwiększeniem produkcji silników, do napędu tej wersji stosowano mocniejszy silnik WK-105PF2, używany wcześniej jedynie do napędu Jaka-3. Część samolotów Jak-9M (do jednej dziesiątej produkcji) ukończono w wariancie przystosowanym dla celów wojsk obrony powietrznej (PWO). Wyposażono je m.in. w radiopółkompas RPK-10. Ich osiągi były nieco lepsze, niż myśliwców frontowych, dzięki zmniejszeniu zapasu paliwa.
+
+Jak-9DD
+W końcowym okresie wojny pojawiła się potrzeba myśliwców eskortowych o jeszcze większym zasięgu, niż wersja Jak-9D. W nowej wersji Jak-9DD (dalnego diejstwia – dalekiego działania) zastosowano 9 zbiorników paliwa o pojemności łącznej 845 l. Siedem z nich było pokrytych wykładziną zatykająca przestrzelenia od kul karabinowych. Wersja ta posiadała kabinę pilota przesuniętą 40 cm w tył. Uzbrojenie stanowiło jedynie działko 20 mm. Zastosowano na niej także lepsze wyposażenie radiowe i pilotażowe w postaci amerykańskiej radiostacji SCR-274N i radiopółkompasu. Przy prędkości przelotowej zasięg wynosił 2285 km (6 i pół godziny lotu, podobny zasięg wśród radzieckich myśliwców osiągnięto dopiero w Su-27). Od maja 1944 do września 1945 zbudowano '''399''' Jaków-9DD (próby państwowe prowadzono w lipcu i sierpniu 1944). Używane były głównie do eskortowania bombowców dalekiego zasięgu.
+
+
+Jak-9B
+Jak-9B (bombardirowszczik) był wersją myśliwsko-bombową samolotu, znany też pod oznaczeniem fabrycznym Jak-9Ł. Jego unikalną cechą było to, że bomby przenoszone były wewnątrz kadłuba, w swojego rodzaju komorze bombowej – w czterech wyrzutnikach w formie nachylonych pod kątem od pionu rur, w przedziale za kabiną pilota. Mógł on zabrać maksymalnie 4 bomby 100 kg lub 4 kasety z 32 małymi bombami przeciwpancernymi o masie 1,5 kg PTAB w każdej. Pełny ładunek zabierany był jednak sporadycznie, gdyż samolot miał wówczas problemy ze statecznością podłużną. Z połową ładunku masa samolotu sięgała 3356 kg, a stopień pogorszenia osiągów był niewielki (głównie prędkości wznoszenia). Wadą przyjętego rozwiązania było jednak utrudnione podwieszanie bomb, od dołu, po uniesieniu ogona samolotu i zdjęciu tylnej przeszklonej części osłony kabiny, która została wydłużona w porównaniu do bazowego Jaka-9. Wadą samolotu było też, że nie posiadał on żadnych celowników bombowych i celowano przy użyciu prostych metod.
+
+Prototyp przebudowano z Jaka-9 w marcu 1944, badania fabryczne zakończono w sierpniu. Jeszcze przed badaniami państwowymi (grudzień 1944 – luty 1945) zbudowano '''109''' samolotów, które służyły w 130. Dywizji Lotnictwa Myśliwskiego (130.IAD). Jak-9B oceniono jako udany samolot zarówno do zadań myśliwskich, jak i bombowych, lecz wobec zbliżającego się końca wojny, jak też nie do końca satysfakcjonujących charakterystyk i celności bombardowania, nie kontynuowano produkcji.
+
+Jak-9U
+
+
+Wersja Jak-9U (ułuczszennyj – ulepszony) była jakościowo nową odmianą Jaka-9, odbiegającą konstrukcją od dotychczasowych. Zakres zmian był zbliżony do ulepszeń, jakie wprowadzono w Jaku-3 w stosunku do Jaka-1; nowy samolot upodobnił się zresztą do Jaka-3 sylwetką z uwagi na brak chłodnicy oleju pod silnikiem i zastąpienie jej przez dwie chłodnice w centropłacie, z wlotami u nasady skrzydeł. Większą wagę położono na ulepszenie aerodynamiki samolotu, następnie zastosowano także mocniejszy silnik.
+
+Pierwszy prototyp Jak-9U, zbudowany w listopadzie 1943, otrzymał jeszcze silnik WK-105PF2. Płócienne poszycie ogonowej części kadłuba zamieniono gładszym sklejkowym. Wprowadzono lekkie opancerzenie lewej burty kabiny w celu ochrony lewej ręki pilota. Chłodnicę wody pod kadłubem przesunięto do tyłu, co jeszcze bardziej upodobniło nowy samolot do Jaka-3. Uzbrojenie stanowiło działko 23 mm WJa-23 i dwa wkm. Badania państwowe samolotu prowadzono do marca 1944. Miał on lepsze osiągi od dotychczas produkowanych Jaków-9, jedynie nieco słabsze od Jaka-3. Samolot jednak w tej postaci nie wszedł do produkcji.
+
+Postanowiono następnie zastosować do napędu nowego płatowca nowy mocniejszy silnik WK-107 (pierwsza próba zamontowania tego silnika na standardowym Jaku-9 miała miejsce już na początku 1943, lecz prototyp rozbił się 25 lutego 1943 na skutek awarii silnika). Przez 1943 rok prowadzono dalsze prace nad silnikiem WK-107A i w końcu w grudniu 1943 zamontowano go na drugim prototypie Jak-9U. W stosunku do pierwszego prototypu zastosowane także dalsze ulepszenia, między innymi zastosowano wydajniejsze chłodnice i przesunięto skrzydła o 10 cm do przodu w celu lepszego wyważenia. Widocznym detalem, charakterystycznym dla silnika WK-107A, stały się otwory chłodzące świece zapłonowe na masce silnika. Osłona kabiny pilota, przesuniętej w tył, była dłuższa i bardziej opływowa. Uzbrojenie zmieniono na działko 20 mm SzWAK i dwa wkm. Sylwetka samolotu była prawie identyczna, jak Jak-3P i Jak-3 z silnikiem WK-107.
+
+Badania państwowe Jaka-9U WK-107A, prowadzone od stycznia do kwietnia 1944, ujawniły, że jest szybszy od myśliwców Ła-7 i Jak-3 oraz od zdobycznych egzemplarzy niemieckich Bf 109G-2 i Fw 190А-4. Oceniono go jako najlepszy dostępny myśliwiec. Mimo to, poważne problemy sprawiał nie do końca dopracowany i kapryśny zespół napędowy, w tym pojawiły się problemy z chłodzeniem i niskim resursem silnika (25 godzin). Zdecydowano jednak skierować nowy myśliwiec do produkcji i od kwietnia 1944 do sierpnia 1945 zbudowano ich '''3921'''. Samoloty te jednak borykały się z problemami związanymi z zespołem napędowym; dopiero od grudnia 1944 wyeliminowano część z nich i usprawniono układ chłodzenia.
+
+Jak-9PD
+Był to początkowo wariant myśliwca wysokościowego na bazie Jak-9, przeznaczony do przechwytywania niemieckich samolotów rozpoznawczych Ju 86R latających na dużych pułapach. Wyposażony był w silnik wysokościowy M-105PD ze sprężarką Je-100. Uzbrojenie stanowiło tylko działko 20 mm. Osłona kabiny miała bardziej opływowy  kształt, a kołpak śmigła miał z przodu duży otwór dla dodatkowego chłodzenia. Pięć zbudowanych samolotów serii próbnej przekazano na badania wojskowe do pułku 12.GIAP w kwietniu 1943. Zespół napędowy nie spełnił jednak oczekiwań, pojawiły się zwłaszcza problemy z chłodzeniem. Osiągnięcie wysokości 11 650 m zajmowało aż 25 minut, z przerwami na chłodzenie silnika. 2 czerwca 1943 nie powiodła się próba przechwycenia Junkersa. Jeden samolot (nr 01-29) następnie przebudowano, zwiększając mu rozpiętość skrzydeł o 1 m, ulepszając sprężarkę i montując większe chłodnice silnika i oleju. Wariant ten był badany od sierpnia do października, lecz również nie okazał się udany. Po zamianie silnika na M-106PW, samolot w październiku uzyskał rekordową wysokość 13 100 m, ale również nie spełnił nadziei.
+
+W 1944 opracowano całkiem nowy myśliwiec wysokościowy o tym samym oznaczeniu Jak-9PD, tym razem na bazie konstrukcji Jaka-9U. Miał on silnik M-106PW, nowy system chłodzenia i śmigło WISz-105TŁ o szerokich łopatach. Konstrukcja samolotu została znacznie "odchudzona" z mniej potrzebnego wyposażenia, uzbrojenie stanowiło działko 20 mm Sz-20M z jedynie 60 nabojami, na skutek czego masa własna obniżyła się do 2100 kg. Prędkość maksymalna na wysokości 10 500 m wyniosła 610 km/h. Wersja ta była bardziej udana i wyprodukowano jej '''30''' sztuk w fabryce nr 301 w Moskwie, lecz samoloty te nie wzięły już udziału w walce.
+
+Jak-9UT
+Jak-9UT był połączeniem wersji Jak-9U z cięższym uzbrojeniem strzeleckim. Jako uzbrojenie zastosowano jedno działko 37 mm NS-37 i dwa nowo opracowane działka 20 mm o małej masie B-20S. Uzbrojenie to było wyjątkowo silne, o masie salwy sekundowej ok. 6 kg. Prototyp wersji zbudowano na bazie Jaka-9U w lutym 1945, a w marcu przechodził badania (prototyp miał lżejsze działko 37 mm N-37, lecz w samolotach seryjnych powrócono do NS-37). Od lutego do maja 1945 zbudowano '''282''' samoloty tej wersji.
+
+
+Jak-9W
+Była to dwumiejscowa wersja szkolno-treningowa bazowej wersji samolotu Jak-9 (wywoznoj). Główną różnicą było dodanie drugiej kabiny instruktora za kabiną pilota, we wspólnej długiej przeszklonej osłonie. W odróżnieniu od poprzedniego nieuzbrojonego samolotu szkolnego Jak-7W, nowy samolot zachował częściowo możliwości bojowe, będąc uzbrojony w działko 20 mm z zapasem 90 nabojów. Był on wyposażony w mocniejszy silnik WK-105PF2, przez co jego osiągi były niewiele gorsze, niż Jak-9T. Zdemontowano opancerzenie, lecz zastosowano bogatsze wyposażenie, jak radiopółkompas RPK-10, radiostację i fotokarabin. Samolot przeszedł próby państwowe w kwietniu 1945, po czym od sierpnia 1945 do sierpnia 1946 zbudowano '''793''' samoloty, w tym 337 przebudowano z Jaków-9M.
+
+Jak-9P
+
+Jak-9P był powojenną wersją myśliwską, bezpośrednim rozwinięciem Jaka-9U z takim samym silnikiem WK-107A, sylwetką i uzbrojeniem (działko 20 mm i dwa wkm). Najistotniejszą zmianą było zastąpienie mieszanej konstrukcji samolotu konstrukcją całkowicie metalową. Sprzyjała temu większa dostępność aluminium po zakończeniu wojny w połączeniu z koniecznością przestawienia przemysłu z budowy dużej liczby tanich samolotów na bardziej trwałe konstrukcje. Dwa pierwsze prototypy Jak-9P przechodziły próby od czerwca do lipca 1946. Podobnie, jak zbudowane następnie 29 samolotów serii próbnej, miały one metalowe jedynie skrzydła, natomiast kadłub był wciąż kryty sklejką w tylnej części. Kolejne dziesięć samolotów serii próbnej wykonano już jako całkowicie metalowe. Po próbach zdecydowano skierować do produkcji wariant całkowicie metalowego Jaka-9P z powiększonymi do 682 l zbiornikami paliwa, uzbrojeniem z 3 działek 20 mm i bogatszym wyposażeniem radionawigacyjnym (radiopółkompas RPKO-10M, radiostacja, nadajnik systemu identyfikacyjnego SCz-3).
+
+Do 23 marca 1948 zbudowano w zakładzie nr 153 w Nowosybirsku '''751''' Jaków-9P, w tym 29 konstrukcji mieszanej. Dalszej produkcji nie kontynuowano, gdyż myśliwce śmigłowe stały się nieperspektywiczne w obliczu pojawienia się myśliwców odrzutowych.
+
+Warianty eksperymentalne
+Jak-9 WK-106
+W celu poprawy osiągów samolotu Jak-9, już na początku produkcji postanowiono zastosować na nim mocniejszy silnik WK-106 (M-106). Prototyp przebudowano z samolotu Jak-7B. Od listopada 1942 prowadzono próby samolotu, a w lutym 1943 ukończono badania państwowe. Samolot osiągał prędkość maksymalną 602 km/h. Samolot miał bardzo dobre osiągi, na wysokościach poniżej 3000 m lepsze od Bf 109G, lecz silnik WK-106 był niedopracowany i zaprzestano jego produkcji, więc wariant Jak-9 z tym silnikiem nie wszedł do produkcji.
+
+Jak-9P (WK-105)
+W kwietniu 1943 prowadzono próby wersji ze wzmocnionym uzbrojeniem oznaczonej Jak-9P (puszecznyj – "artyleryjski"; nie należy go mylić z całkowicie odmiennym późniejszym seryjnym Jakiem-9P). Obok dotychczasowego działka 20 mm SzWAK (MP-20) strzelającego przez wał śmigła, zastosowano drugie działko synchronizowane SP-20 zamiast wkm-u. Nie skierowano go jednak do produkcji, w obliczu udanych prób silniej uzbrojonej wersji Jak-9T.
+
+Jak-9TK
+Była to wersja, w której przewidywano możliwość zamiennej instalacji czterech różnych działek, zależnie od potrzeb: 20 mm SzWAK, 23 mm WJa-23, 37 mm NS-37, 45 mm NS-45. Prototyp badano w październiku 1943, lecz nie wszedł do produkcji (ponadto, nie było wówczas gotowych działek 45 mm).
+
+Jak-9S
+Jak-9S był powojennym rozwinięciem wersji Jak-9M, ze wzmocnionym uzbrojeniem strzeleckim i standardowym silnikiem WK-105PF2. Uzbrojenie stanowiło działko 23 mm NS-23 (60 nabojów) i 2 działka 20 mm B-20S (po 120 nabojów). Dwa zbudowane w maju 1945 prototypy przechodziły badania państwowe w sierpniu-wrześniu 1945, lecz wersja ta nie weszła do produkcji, gdyż miała niezadowalające osiągi (prędkość maksymalną 583 km/h niższą od Jaka-3 i Jaka-9U o ok. 60-90 km/h).
+
+Jak-9UW
+Była to wersja samolotu szkolno-treningowego opracowana na bazie późnej wersji Jak-9U z silnikiem WK-107A. Uzbrojenie stanowiło działko 20 mm B-20M (100 nabojów). Prototyp przechodził badania państwowe od lipca do października 1945, lecz okazał się nieudany, m.in. miał poważne problemy z przegrzewaniem silnika.
+
+Samoloty Jak-9 przez początkowy okres produkcji borykały się z problemami odnośnie jakości wykonania. Największe problemy występowały na samolotach produkowanych w okresie od zimy do wiosny 1943, na których czasami zrywało się poszycie skrzydeł. Na wielu seriach kiepska była także przejrzystość oszklenia kabiny, przez co piloci często latali z otwartą kabiną.
+
+Egzemplarze muzealne
+Samoloty Jak-9 są eksponowane w następujących muzeach:
+Bułgaria
+Muzeum Lotnictwa w Krumowie, Obwód Płowdiw - Jak-9P, nr taktyczny 27
+Polska
+Muzeum Marynarki Wojennej w Gdyni - Jak-9P, nr taktyczny 2, użytkowany w Eskadrze Lotnictwa Marynarki Wojennej do 1956. Przekazany do zbiorów muzealnych 12 grudnia 1956 jako dar Dowództwa Marynarki Wojennej.
+Muzeum Wojska Polskiego w Warszawie - Jak-9P, nr taktyczny 23, użytkowany w 1 Pułku Lotnictwa Myśliwskiego od 1947 do 1950. Przekazany do zbiorów muzeum 10 sierpnia 1950 jako dar Dowództwa Wojsk Lotniczych.
+Rosja
+Centralne Muzeum Sił Lotniczych Federacji Rosyjskiej w Monino - Jak-9U
+Centralne Muzeum Sił Zbrojnych w Moskwie
+Serbia
+Muzeum Lotnictwa w Belgradzie
+Ukraina
+Muzeum Wielkiej Wojny Ojczyźnianej w Kijowie
+
+Opis techniczny
+Jak-9D / T/ M/ W: jednosilnikowy jednomiejscowy dolnopłat konstrukcji mieszanej. Kadłub metalowy kratownicowy, pokryty sklejką w części środkowej i płótnem w pozostałej części, silnik osłonięty zdejmowanymi panelami z blachy. Usterzenie konstrukcji metalowej. Skrzydło konstrukcji metalowej, dwudźwigarowe, pokryte sklejką. Kabina pilota zamknięta, oszklona pleksiglasem; część osłony nad pilotem była odsuwana do tyłu. Podwozie samolotu klasyczne, chowane. Kółko ogonowe chowane. Śmigło trzyłopatowe. Chłodnica cieczy pod centropłatem, na wysokości kabiny pilota. Chłodnica oleju pod silnikiem.
+
+Silnik: rzędowy 12-cylindrowy w układzie V, chłodzony cieczą:
+M-105PF – moc na małej wysokości 1260 KM (700 m), na średniej wysokości 1180 KM (2700 m, wersje D, T, M, DD, B)
+M-105PF-2 – moc na średniej wysokości 1240 KM  (wersji W i późne wersji M)
+M-107A – moc na małej wysokości 1650 KM (1800 m), na średniej wysokości 1500 KM (3200 m, wersje U, UT, P)
+
+Uzbrojenie:
+Jak-9, 9D, 9M: 1 działko 20 mm SzWAK strzelające przez wał śmigła (120 nabojów) i 1 zsynchronizowany wkm 12,7 mm UBS nad silnikiem (200-220 nabojów)
+Jak-9T: 1 działko 37 mm NS-37 strzelające przez wał śmigła (32 naboje) i 1 zsynchronizowany wkm 12,7 mm UBS nad silnikiem (200-220 nabojów)
+Jak-9U, P: 1 działko 20 mm SzWAK strzelające przez wał śmigła (120 nabojów) i 2 zsynchronizowane wkm 12,7 mm UBS nad silnikiem (po 170 nabojów)
+Jak-9UT: 1 działko 37 mm NS-37 strzelające przez wał śmigła (30 nabojów?) i 2 zsynchronizowane działka 20 mm B-20S nad silnikiem (po 120 nabojów)
+
+Dane techniczne
+
+
+Linki zewnętrzne
+Bibliografia
+"Истребители Як-1/3/7/9 во Второй Мировой войне. Часть 2", seria Война в Воздухе nr 33
+"Истребители Як-1/3/7/9 во Второй Мировой войне. Часть 3", seria Война в Воздухе nr 34
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+
+
+Echo 1''' (A-10 Echo, Echo X) – pierwszy eksperyment NASA z dziedziny telekomunikacji satelitarnej. Amerykański pasywny satelita łącznościowy. Metalizowany balon o średnicy 30 m, który miał odbijać sygnały radiowe. Wystrzelony 13 maja 1960 (09:16:05 GMT) rakietą Thor Delta z bazy Cape Canaveral. Echo 1''' nie osiągnął orbity z powodu awarii 2. członu rakiety. Zaplanowaną dla niego misję wykonał podobny balon Echo 1A.
+
+Mimo że idea pasywnej komunikacji satelitarnej została zarzucona, eksperymenty z balonami serii Echo przyniosły wiele cennych doświadczeń w zakresie śledzenia obiektów w przestrzeni kosmicznej.
+
+Istnieją też opinie, że satelity Echo (również Echo 1A i Echo 2) miały służyć także celom militarnym – jako astronomiczny punkt odniesienia dla precyzyjnego wyznaczenia położenia geograficznego Moskwy. Te precyzyjne pomiary miały rzekomo być wykorzystane do wycelowania rakiet balistycznych.
+
+Budowa i działanie
+Satelita został wyprodukowany przez firmy Sheldahl i Grumman dla Langley Research Center, ośrodka NASA.
+
+Balon ważył 56,2 kg i miał średnicę 30,5 m. Średnia grubość powłoki wynosiła 12,7 nm. Powleczony mylarem. Energię elektryczną zapewniało 70 ogniw słonecznych ładujących 5 akumulatorów NiCd. Na potrzeby telemetrii używano nadajnika radiowego na częstotliwości 107,9 MHz.
+
+Odbijane sygnały miały mieć częstotliwość 960 i 2390 MHz.
+
+Indeks COSPAR: 1960-F07
+
+
+
+Bibliografia
+Linki zewnętrzne

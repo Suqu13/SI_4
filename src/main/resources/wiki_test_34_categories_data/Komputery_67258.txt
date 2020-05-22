@@ -1,0 +1,47 @@
+Internet Information Services (IIS) – jest zbiorem usług internetowych dla systemów rodziny Microsoft Windows. Obecnie pełni funkcje serwera FTP, HTTP, HTTPS, NNTP oraz SMTP.
+
+Wersje
+Poniżej znajduje się lista wszystkich wersji IIS i odpowiadających im wersji systemów operacyjnych Windows:
+IIS 1.0, Windows NT 3.51 Service Pack 3
+IIS 2.0, Windows NT 4.0
+IIS 3.0, Windows NT 4.0 Service Pack 3
+IIS 4.0, Windows NT 4.0 Option Pack
+IIS 5.0, Windows 2000
+IIS 5.1, Windows XP Professional
+IIS 6.0, Windows Server 2003
+IIS 7.0, Windows Vista, Windows Server 2008
+IIS 7.5, Windows 7, Windows Server 2008 R2
+IIS 8.0, Windows 8, Windows Server 2012
+
+Opis wybranych wersji
+Wersja IIS 5''' ma formę pojedynczego procesu: inetinfo.exe.
+
+Wersja IIS 6''' korzysta z czterech głównych procesów:
+Http.sys,
+Web Administration Services (WAS),
+Procedury obsługi aplikacji/procesy robocze,
+IIS Admin Service.
+W tej wersji poprawiono skalowalność, bezpieczeństwo i zarządzanie. Głównym celem było stworzenie bezpiecznego i wydajnego serwera WWW, który łatwo może obsługiwać skomplikowane systemy wykorzystujące najnowsze technologie internetowe.
+
+Wersja IIS 7''' zbudowana jest w bardziej modularny sposób i umożliwia delegowanie uprawnień do poszczególnych funkcji, bez konieczności nadawania wysokich uprawnień w systemie operacyjnym.
+
+Bezpieczeństwo
+We wcześniejszych wersjach IIS niezależni specjaliści odnaleźli szereg błędów, które w 2001 roku zostały wykorzystane przez twórców wirusów Nimda oraz Code Red. Według Roberta Minkhorsta, prezesa jednej z amerykańskich firm zajmujących się bezpieczeństwem komputerowym:
+Tu w USA, tylko w ciągu jednego tygodnia Nimda spowodowała straty rzędu pół miliarda dolarów. Code Red, który zaczął działać w połowie czerwca, kosztował jak dotąd amerykańską gospodarkę 2,6 miliarda dolarów.''
+Wszystkie sygnalizowane przez ekspertów usterki zostały usunięte w wersji 6.0 (aktualne wydanie oznaczone jest numerem 8.0).
+
+Udział w rynku
+Według danych z maja 2014 IIS jest drugim co do popularności, serwerem stron internetowych na świecie, z udziałem 33,41%. Od kwietnia 2012 roku można zaobserwować wyraźny spadek udziału Apache głównie na rzecz IIS.
+
+Statystyki wykorzystania serwerów www (dane z maja 2014 wg serwisu Netcraft):
+
+
+Zobacz też
+exim
+
+
+
+
+
+
+

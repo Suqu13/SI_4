@@ -1,0 +1,17 @@
+Tandy Radio Shack 80''' (TRS-80'') – wyprodukowany w 1977 roku pierwszy komputer domowy serii mikrokomputerów firmy Tandy Radio Shack.
+
+Cena mikrokomputera TRS-80 wynosiła 600$. W pierwszych miesiącach sprzedano tysiące egzemplarzy, co przekroczyło wszelkie prognozy.
+
+Sprzęt
+procesor Zilog Z80
+4 kb pamięci ROM 
+4 kb pamięci RAM
+Klawiatura
+Ekran (Czarno-biały monitor)
+Magnetofon kasetowy
+
+Oprogramowanie
+System operacyjny TRS DOS/New DOS
+interpreter języka BASIC
+
+

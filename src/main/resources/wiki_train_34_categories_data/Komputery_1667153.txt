@@ -1,0 +1,5 @@
+Elwro 240''' – kalkulator produkowany przez zakłady Elwro we Wrocławiu, wyposażony w drukarkę.
+
+Umożliwiał wykonywanie czterech podstawowych działań w oparciu o logikę arytmetyczną (najpierw liczba, potem jej znak, czyli aby wykonać działanie 4-3= należało wprowadzić 4 [+] 3 [-]), przy czym wyposażony był w dwa rejestry – jeden sprzężony z drukarką, drugi traktowany jako pamięć. Liczba miejsc dziesiętnych i sposób zaokrąglania obliczeń były ustawiane przełącznikami. Ponadto zamontowane były dwie lampki, z których jedna sygnalizowała włączenie zasilania (sieciowe 220&nbsp;V), a druga niezerową wartość rejestru pamięci. Nie było wyświetlacza – odczyt tylko z wydruku na taśmie papierowej.
+
+

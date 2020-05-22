@@ -1,0 +1,186 @@
+
+Jednolity System Elektronicznych Maszyn Cyfrowych (JS EMC, Riad) – systemy komputerowe, opracowywane i produkowane przez kraje RWPG w latach 1970–1991.
+
+Informacje ogólne
+Były to zestawy typu mainframe i urządzenia komputerowe programowo zgodne z IBM System/360 (rodzina Riad R1) lub z IBM System/370 (Riad R2) oraz minikomputery R-10 i R-15. R-10 był produkowanym przez Węgrów na francuskiej licencji minikomputerem CII Mitra 1010 o całkowicie odmiennej organizacji i oprogramowaniu. 
+Należały do nich jednostki centralne i urządzenia wejścia-wyjścia.
+
+Poszczególne jednostki centralne różniły się między sobą:
+mocą obliczeniową
+objętością pamięci operacyjnej
+liczbą i szybkością kanałów wejścia-wyjścia
+wewnętrzną strukturą logiczną
+konstrukcją
+techniką i technologią wytwarzania
+lecz posiadały jednakową architekturę logiczną, czyli działały według jednakowych zasad. Dzięki temu charakteryzowały się:
+wymienialnością oprogramowania pomiędzy różnymi jednostkami centralnymi
+wykorzystaniem wspólnego zestawu urządzeń wejścia-wyjścia.
+Wyjątkiem były minikomputery zgodne jedynie na poziomie danych.
+
+Wszystkie urządzenia JS EMC działały w oparciu o kod EBCDIC, umożliwiający reprezentację 256 znaków (litera, cyfra, znak graficzny, znak specjalny, znak sterujący). Jeden znak zajmował 8 bitów.
+
+Produkcja
+ZSRR
+systemy komputerowe Riad R1:
+R-20
+R-22
+R-30 – nie w pełni uruchomiony prototyp przekazany do realizacji w Polsce nie został skończony.
+R-40
+R-50
+R-60
+systemy komputerowe Riad R2:
+R-55
+pamięci taśmowe
+pamięci dyskowe
+drukarki wierszowe
+sterowniki pamięci dyskowych i taśmowych
+Bułgaria
+pamięci dyskowe na dyskach zmiennych 7, 30, 100 i 330 MB
+Czechosłowacja
+systemy komputerowe R-20
+czytniki kart ARITMA
+perforatory kart ARITMA
+dziurkarko-sprawdzarki kart ARITMA
+NRD
+systemy komputerowe Riad R1:
+R-40
+systemy komputerowe Riad R2:
+R-45
+R-55
+pamięci taśmowe EC-5019
+Polska
+systemy komputerowe Riad R1:
+R-32 (Elwro)
+systemy komputerowe Riad R2:
+R-34 (Elwro)
+pamięci operacyjne dla jednostek centralnych
+ferrytowe FJP
+półprzewodnikowe
+procesory teleprzetwarzania EC-8371,01 (Elwro)
+systemy monitorów ekranowych MERA 7900 zdalnych i lokalnych (MERA-ELZAB)
+pamięci taśmowe PT-3M (MERAMAT)
+drukarki wierszowe DW-3M i DW 401 (MERA-BŁONIE)
+konsole operatorskie oparte na drukarce mozaikowej DZM-180 (MERA-BŁONIE)
+Węgry
+systemy komputerowe Riad R1:
+R-10 (komputer)
+systemy komputerowe Riad R2:
+R-15
+
+Organizacja serii Riad R1
+
+Pamięć operacyjna
+służyła do przechowywania rozkazów programu i danych
+organizacja:
+logiczna: słowa o długości 32 bitów podzielone na 4 bajty
+fizyczna zależna od modelu:
+R-20 – słowo 8 bitów
+R-30, R-32 – słowo 32 bity
+R-40, R-50 – słowo 64 bity
+miała pojemność do 1 Megabajta
+stosowana była początkowo pamięć ferrytowa, później pamięć półprzewodnikowa
+
+Procesor
+służył do realizacji rozkazów,
+wykonywał operacje arytmetyczne i logiczne na danych
+odczytywał i zapisywał informacje z/do pamięci operacyjnej
+inicjował w kanałach przesyłanie danych między urządzeniami wejścia-wyjścia a pamięcią operacyjną
+wyposażony był w:
+16 rejestrów ogólnych i 4 rejestry zmiennoprzecinkowe, umieszczone: – w R-20: w ferrytowej pamięci operacyjnej, – w R-30: w lokalnej pamięci pręcikowej, – w R-32 i wyższych: w lokalnej pamięci półprzewodnikowej, znacznie szybszej niż pamięć operacyjna.
+
+Kanały
+służyły do sterowania i kontrolowania procesu przesyłania danych z pamięci operacyjnej do urządzeń we-wy i w kierunku odwrotnym
+za pomocą systemu przerwań umożliwiały równoległą pracę różnych urządzeń zewnętrznych
+umożliwiały jednoznaczne adresowanie urządzeń
+występowały najczęściej w dwóch typach:
+multiplexorowym – umożliwiającym podłączenie urządzeń zewnętrznych o niskiej prędkości przesyłanych danych (urządzenia kart i taśmy perforowanej, konsole operatorskie, drukarki)
+selektorowym – sterującym pracą urządzeń zewnętrznych wymagających dużej prędkości przesyłania danych (magnetyczne pamięci zewnętrzne na dyskach i taśmach). Najczęściej kilka takich urządzeń było podłączonych do kanału selektorowego za pomocą grupowego kontrolera.
+
+Urządzenia we-wy
+konsola operatorska w różnych wykonaniach:
+drukarka znakowo-mozaikowa z elektryczną maszyną do pisania
+terminal alfanumeryczny z klawiaturą
+urządzenia kart dziurkowanych 80 kolumnowych:
+czytnik kart perforowanych
+perforator kart
+urządzenia taśm dziurkowanych:
+czytnik taśmy
+perforator taśmy
+drukarki:
+drukarka wierszowa
+drukarka znakowo-mozaikowa
+systemy monitorów ekranowych (lokalnych)
+teleprocesor wraz z systemem zdalnych terminali.
+pamięć masowa
+pamięć sekwencyjna na taśmach magnetycznych
+pamięć o dostępie bezpośrednim na dyskach magnetycznych
+pamięć o dostępie bezpośrednim na bębnach magnetycznych – wyjątkowo.
+
+Konstrukcja
+Komputery składały się z modułów podzielonych na 3 poziomy zależnie od złożoności i funkcji:
+1 poziom ==== 
+Płytka drukowana o szerokości 140 i długości 150 mm z dwoma, żeńskimi złączami pośrednimi na płytce. Przy druku dwustronnym na płytce mieściło się do 40, a przy wielowarstwowym do 72 układów scalonych. W komputerze R-32 zastosowano moduły podwójnej szerokości.
+
+2 poziom ==== 
+Moduły pośredniej wielkości.
+3 poziom ==== 
+Jednostka centralna i podobnej wielkości urządzenia zewnętrzne.
+
+Moduły komputera R-32'''
+
+Plik:R-32 pakiet modułu pamięci mikroprogramów (I197509).jpg|Płytka drukowana pamięci mikroprogramu 1 poziom.
+Plik:Moduł pamięci planarnej FMP-32-36-11 (I197512).jpg|Kaseta pamięci operacyjnej  2 poziom.
+Plik:Elwro, R-32 (I198001).jpg|Jednostka centralna 3 poziom.
+
+
+Oprogramowanie
+System operacyjny (OS JS)
+Stanowi nieodłączną część systemów komputerowych. Spełnia rolę pośrednika między użytkownikiem a sprzętem i bibliotekami programów (tzw. zasobami systemu).
+
+Zasadnicze zadania systemu operacyjnego to:
+automatyzacja tworzenia, kodowania, sprawdzania i wykonywania programów realizujących żądane algorytmy
+kontrola i optymalizacja wykorzystania zasobów systemu
+automatyzacja przepływu zadań użytkownika w systemie
+automatyzacja czynności operatorskich
+identyfikacja i ochrona zbiorów danych
+
+System operacyjny tworzą programy, które można sklasyfikować w dwie grupy:
+programy sterujące, w skład których wchodzi:
+główny program koordynujący (Master Scheduler) – sterujący wszystkimi operacjami w kombinacji system komputerowy-system operacyjny
+koordynator przebiegu zadań (Job Scheduler) – wprowadzający do systemu opisy zadań przeznaczonych do wykonania, planujący i inicjujący ich wykonanie pod kontrolą supervisora
+programy metod dostępu do zbiorów danych, sterujące wymianą informacji między pamięcią operacyjna a urządzeniami wejścia-wyjścia
+supervisor wejścia-wyjścia planujący i inicjujący operacje wejścia-wyjścia oraz obsługujący przerwania wejścia-wyjścia
+główny program nadzorczy – supervisor, nadzorujący podział zasobów systemu w trybie pracy wieloprogramowej
+programy przetwarzające, na które składają się:
+translatory języków programowania:
+asembler (język maszynowy, o przeznaczeniu uniwersalnym)
+PL/I (język do przetwarzania danych, o przeznaczeniu uniwersalnym)
+FORTRAN, Algol (języki do zastosowań naukowo-technicznych)
+COBOL, RPG (języki do zastosowań ekonomiczno-handlowych)
+programy serwisowe:
+program łączący (LINK) i program ładujący (LOADER)
+program sortowania zbiorów danych
+programy pomocnicze (głównie do przenoszenia zbiorów danych z jednego nośnika na drugi)
+
+System OS/JS zawiera środki generowania pozwalające użytkownikowi na przystosowanie systemu otrzymanego od producenta do efektywnej pracy na konkretnym zestawie urządzeń.
+
+Wersje systemu operacyjnego
+MFT (Multiprogramming with a fixed number of tasks) – konfiguracja wieloprogramowa ze stałą liczbą akcji. Wymagał co najmniej 128 KB pamięci operacyjnej, pozwalając na równoległe przetwarzanie 15 zadań i w ramach nich 15 kroków.
+MVT (Multiprogramming with a variable number of tasks) – konfiguracja wieloprogramowa ze zmienną liczbą akcji. Wymagał co najmniej 256 KB pamięci operacyjnej, pozwalając na równoległe przetwarzanie 15 zadań i w ramach nich dowolnej liczby kroków.
+
+Języki programowania
+asembler
+Algol
+COBOL
+Fortran
+RPG
+PL/I
+Logel
+
+Zestawienie
+
+
+
+
+Bibliografia
+

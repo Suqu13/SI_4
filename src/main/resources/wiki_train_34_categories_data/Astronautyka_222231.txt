@@ -1,0 +1,27 @@
+
+
+Kompleks startowy 39''' (ang. Launch Complex 39'', zazwyczaj używany jest skrót LC39'') odnosi się do platform startowych LC39A i LC39B w Centrum Kosmicznym im. Johna F. Kennedy’ego na przylądku Canaveral w Stanach Zjednoczonych, które były używane w amerykańskich załogowych programach kosmicznych: Apollo i Space Transportation System.
+
+Historia
+Platformy LC39A i LC39B były używane wcześniej przy startach rakiet Saturn V dla misji księżycowych programu Apollo. Początkowa struktura platform została przemodelowana na potrzeby promów kosmicznych, zaczynając od platformy LC39A, po ostatnim starcie rakiety Saturn V, która wyniosła Skylab w 1973 roku, a w roku 1977 LC39B po zakończeniu programu Sojuz-Apollo.
+
+W czasie programu Apollo kompleks 39 był po prostu parą platform startowych, jedyną modyfikacją było dodanie tzw. „stołka” – podstawki, która umożliwiała rakietom Saturn IB korzystanie z wieży startowej skonstruowanej dla Saturn V. Platformy dla promów mają stałą wieżę (pozostałość z epoki Apollo-Saturn) oraz obrotową platformę serwisową, służącą do ochrony orbitera i instalacji ładunków do luku towarowego promu.
+
+Po raz pierwszy LC39 użyto w roku 1967, kiedy wystrzelono rakietę Saturn V niosącą pojazd bezzałogowy Apollo 4. LC39B użyto do misji bezzałogowej Apollo 6, natomiast z LC39A wystartował Apollo 8, drugi załogowy lot programu. Oprócz Apollo 10, który startował z LC39B, wszystkie misje Apollo, od Apollo 8 w grudniu 1968 do Apollo 17 w grudniu 1972 startowały z platformy LC39A.
+
+W roku 1974 zapadła decyzja o skreśleniu platformy LC39A z systemu Apollo-Saturn, po czym została ona przekonfigurowana do zastosowania z promami kosmicznymi. Użyto jej w pierwszej misji promów – starcie Columbii w misji STS-1 w roku 1981. Z zastosowania w systemie Apollo-Saturn LC39B skreślona została w roku 1977, ale ze względu na ograniczenia budżetowe przebudowa ukończona została dopiero w roku 1986. Pierwszym startem z tej platformy była zakończona katastrofą promu Challenger misja STS-51-L. Platforma LC-39B miała być przebudowywana pod rakiety Ares I, jednak wskutek anulowania programu Constellation zdecydowano o przystosowaniu wyrzutni LC-39B na przyjęcie rakiet Space Launch System, zaś firma SpaceX planuje przebudowę LC-39A na potrzeby rakiet Falcon Heavy.
+
+Użycie promu kosmicznego
+Zanim prom wystartuje z jednej z platform kompleksu LC39, jest on montowany w Vehicle Assembly Building (VAB). Mobile Launcher Platform (MLP), specjalnie skonstruowana ruchoma platforma, załadowana na transporter jest przechowywana w VAB. Różne segmenty rakiety dodatkowej na paliwo stałe (Solid Rocket Booster – SRB) dołączone są do MLP. Dopiero później, między boostery, instalowany jest zewnętrzny zbiornik. Boostery w momencie instalacji są już „zatankowane” – paliwo stałe jest wlewane w postaci płynnej w czasie łączenia elementów rakiety w całość w fabryce w Utah. Z kolei puste zbiorniki zewnętrzne transportowane są barkami z miejsca ich produkcji w Luizjanie. Zbiorniki są tankowane ciekłym wodorem i ciekłym tlenem w czasie odliczania przed startem.
+
+Orbiter podłączany jest do połączonych boosterów i zbiornika, po czym transporter przewozi cały system do odległej o 3-4 mile platformy – przejazd trwa około ośmiu godzin. Platforma mobilna jest instalowana za pomocą kilku mocowań do platformy startowej, a transporter jest odsuwany na bezpieczną odległość. Wieżę startową stanowią Stała Struktura Obsługi (ang. Fixed Service Structure – FSS) i Obrotowa Struktura Obsługi (ang. Rotating Service Structure – RSS). RSS zawiera sterylne pomieszczenie i umożliwia dostęp do ładowni orbitera, tak więc ładunek, który ma być wyniesiony za pomocą promu, może być zainstalowany bądź w razie potrzeby naprawiony krótko przed startem, w czasie gdy prom czeka na platformie. Prom może pozostawać na platformie nawet przy bardzo złej pogodzie, ponieważ jest chroniony przez RSS, która, zgodnie z założeniami NASA, ma chronić pojazd przed wiatrami o prędkościach do 60 węzłów.
+
+Krótko przed startem do zbiornika zewnętrznego wtłaczane jest paliwo.
+
+Najbliższa odległość, na jaką można się zbliżyć do platformy w czasie startu, to 5 kilometrów. Budynki kontroli startu i VAB znajdują się prawie dokładnie 5 kilometrów od LC. W przypadku eksplozji pojazdu na platformie, 5 kilometrów to najmniejsza odległość uważana za bezpieczną dla pracowników Centrum Kosmicznego i specjalnych gości.
+
+
+
+
+
+

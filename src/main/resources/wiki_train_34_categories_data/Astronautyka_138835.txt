@@ -1,0 +1,71 @@
+
+
+
+
+
+
+
+
+
+Nebelwerfer (z niem. "miotacz mgły") – niemieckie wieloprowadnicowe wyrzutnie rakietowe z okresu II wojny światowej. Zasadniczym celem ich użycia było prowadzenie szybkiego, zmasowanego i zaskakującego wroga ognia przeciw celom powierzchniowym. W okresie powstania warszawskiego przylgnęła do nich polska nazwa szafa lub krowa (z uwagi na charakterystyczny dźwięk jaki był słyszalny podczas odpalania salwy pocisków). Żołnierze amerykańscy przezywali je screaming Mimi. Niemcy używali nieoficjalnej nazwy Stuka zu Fuß.
+
+Historia
+Geneza wyrzutni Nebelwerfer
+Prace nad Nebelwerferami rozpoczęły się w latach 30. XX wieku. Powstały one na bazie doświadczeń i prac konstrukcyjnych Waltera Dornbergera, który w Urzędzie Uzbrojenia Wojsk Lądowych Niemiec zajmował się projektowaniem rakiet dla potrzeb Reichswehry. Opracował on wyrzutnię rakietową kalibru 150 mm Do-Werfer (wyrzutnia Dornbergera), która stała się protoplastą wszystkich późniejszych Nebelwerferów. 
+
+W początkowym okresie prac rozwojowych nad wyrzutniami rakietowymi w celu ukrycia ich faktycznego przeznaczenia i dezinformacji broń ta została ukryta pod kryptonimem Nebelwerfer, co miało sugerować, że głównym ich przeznaczeniem będzie wykorzystanie w wojskach zadymiania i chemicznych.
+
+Rozwój wyrzutni Nebelwerfer
+Pierwszą wyrzutnię ''15-cm Nebelwerfer 41'' (''15-cm Nb. W. 41'') kalibru 150 mm opracowano w latach 1937-1939. Składała się ona z 6 prowadnic rurowych, złączonych w wiązkę. Wyrzutnię mocowano na łożu z rozstawialnymi trzema podporami i demontowanymi kołami. Zapłon pocisków odbywał się za pomocą zapalarki elektrycznej. Donośność 15-cm Nebelwerfer 41 wynosiła 3000 m przy materiale pędnym z prochu dymnego i 6700 m przy zastosowaniu prochu bezdymnego. 
+
+W 1940 opracowano ciężką wyrzutnię ramową schweres Wurfgerät 40 Holz która charakteryzowała się dużą prostotą i łatwością obsługi na polu walki – była to po prostu drewniana rama ustawiana na ziemi. Odpalanie pocisków rakietowych 28 cm Wk. Spr. i 32 cm Wk. Fl. odbywało się bezpośrednio z fabrycznych opakowań, którymi były drewniane skrzynie układane na ramie wyrzutni. Wyrzutnie tego rodzaju bardzo często montowano na pojazdach ciężarowych, a także półgąsienicowych i specjalnych. Podobnie jak w poprzedniej konstrukcji pociski inicjowane były elektryczne. Donośność pocisku wynosiła 1925-2200 m. Odmianą tej wyrzutni była schweres Wurfgerät 41 Stahl, której ramę wykonano ze stali.
+
+W 1941, aby usprawnić mobilność oddziałów rakietowych, opracowano wyrzutnię ''28/32-cm Nebelwerfer 41'', która holowana przez ciągnik, miała znacznie większe pole manewru, niż stacjonarne wyrzutnie ramowe – była montowana na dwukołowej przyczepie. Wprowadzono także do użycia wyrzutnię schwerer Wurfrahmen 40, umożliwiającą montaż 4-6 skrzynek z pociskami 28/32 cm Wk. na pojeździe opancerzonym – najczęściej występowały w tej roli transportery Sd.Kfz.251, wykorzystywano także zdobyczne francuskie ciągniki artyleryjskie Renault UE i czołgi Hotchkiss H-35. W tym samym roku na uzbrojenie Wehrmachtu weszła wyrzutnia 5 prowadnicowa kalibru 210 mm ''21-cm Nebelwerfer 42'', wystrzeliwująca pociski 21 cm Wgr. 42 Spr o zasięgu 7850 m.
+
+Od 1943 Dowództwo Wojsk Lądowych Wehrmachtu zdecydowało się zmodyfikować wyrzutnię ''28/32-cm Nebelwerfer 41'', wdrażając do produkcji ''30-cm Nebelwerfer 42'' z pociskami kalibru 300 mm. Nowa wyrzutnia charakteryzowała się większą donośnością. Ze względu na dużą masę pocisków rakietowych, opracowano do niej specjalne nosze (korytko ładowniczego), używane podczas ładowania.
+
+W 1943 powstał ''15-cm Panzerwerfer 42'' służący do szybkiego i zmasowanego wsparcia ogniowego dla wojsk pierwszej linii frontu. Zestaw ten składał się z 10 prowadnic rurowych, zamontowanych na półgąsienicowym pojeździe zwanym Maultier ("muł"). W 1944 opracowano wyrzutnię rakietową ''30-cm R-Werfer 56'', która była modyfikacją ''30-cm Nebelwerfer 42'' o zwiększonej donośności.
+
+Wyrzutnie rakietowe Nebelwerfer
+15-cm Nebelwerfer 41 (15-cm Nb. W. 41) – wyrzutnia rurowa kaliber 150 mm, złożona z 6 prowadnic, masa 540 kg, donośność od 3000 do 6700 m.
+schweres Wurfgerät 40-Holz (Schwer. Wurfg. 40-Holz) – wyrzutnia ramowa/skrzyniowa kaliber 280/320 mm, złożona ze skrzyń drewnianych ustawianych na prostym stelażu, donośność 1925/2200 m.
+schweres Wurfgerät 40-Stahl (Schwer. Wurfg. 40-Stahl) – wyrzutnia ramowa/skrzyniowa kaliber 280/320 mm, złożona ze skrzyń stalowych ustawianych na prostym stelażu, donośność 1925/2200 m.
+28/32-cm Nebelwerfer 41 (28/32-cm Nb. W. 41) – wyrzutnia koszowa kaliber 280/320 mm, złożona z 6 prowadnic, donośność 1925/2200 m.
+21-cm Nebelwerfer 42 (21-cm Nb. W. 42) – wyrzutnia rurowa kaliber 210 mm, złożona z 5 prowadnic, masa 540 kg, donośność 7850 m.
+30-cm Nebelwerfer 42 (30-cm Nb. W. 42) – wyrzutnia koszowa kaliber 300 mm, złożona z 6 prowadnic, masa 1100 kg, donośność 4550 m.
+30-cm Raketenwerfer 56 (30-cm R-Werfer 56) – wyrzutnia koszowa kaliber 150/300 mm, złożona z 6 prowadnic, donośność 6900/4550 m.
+15-cm Panzerwerfer 42 (15-cm – PzW 42) – wyrzutnia rurowa kaliber 150/210 mm, złożona z 10 prowadnic, instalowana na obrotowej wieżyczce opancerzonego pojazdu półgąsienicowego Opel Maultier, masa 8500 kg, donośność do 7850 m.
+
+Inne wersje niemieckich wyrzutni rakietowych
+W czasie II wojny światowej Niemcy po zapoznaniu się z radzieckimi samobieżnymi wyrzutniami rakietowymi BM-13 Katiusza wyprodukowali niewielką liczbę 48 prowadnicowych wyrzutni szynowych kalibru 80 mm z pociskami stabilizowanymi za pomocą brzechw (''8 cm R-Vielfachwerfer), które weszły na uzbrojenie Waffen-SS. Montowano je na francuskich półgąsienicowych pojazdach SOMUA MCL i niemieckich Sd.Kfz.4.
+
+Dla jednostek specjalnych opracowano również kilka innych wyrzutni:
+schwerer Wurfrahmen 40 (Wurfgstell 40) – używana w jednostkach saperskich i w piechocie, wyrzutnia skrzyniowa kaliber 280/320 mm, donośność do 2200 m, zawieszana na burtach pojazdów.
+Do-Gerät – używana przez wojska powietrznodesantowe, wyrzutnia szynowa kalibru 158,5 mm, długość prowadnicy 2,14 m, masa 19 kg, masa po załadowaniu 53,14 kg, donośność do 5000 m. 
+
+Pociski rakietowe
+W Nebelwerferach stosowano pociski rakietowe stabilizowane w locie za pomocą dysz, które nadawały im ruch obrotowy i zwiększały celność. Jako materiał pędny stosowano początkowo sprasowany proch dymny, który od 1941 zastępowano prochem bezdymnym – dwuglikolowym, a od 1944 – prochem bezdymnym hydrocelulozowym. Pocisk 15 cm Wgr. 41 Spr. składał się z dwóch części. Silnik rakietowy i materiał napędowy umieszczono w głowicy, ładunek wybuchowy – poniżej dysz w tylnej części pocisku. Niekonwencjonalna budowa tego typu rakiet miała wiele zalet. Przede wszystkim:
+wszystkie odłamki rażą ludzi i nieopancerzony sprzęt
+w epicentrum wybuchu pocisków powstają gwałtowne zmiany ciśnienia, które powodują u ludzi pękanie pęcherzyków płucnych i naczyń krwionośnych co wywołuje natychmiastową śmierć nawet jeżeli człowiek nie został bezpośrednio trafiony odłamkiem.
+Pozostałe pociski – 21 cm Wgr. 42 Spr., 28/32 cm Wk. oraz 30 cm Wgr. 42 Spr. – posiadały już konwencjonalny układ z głowicą bojową umieszczoną z przodu i silnikiem z tyłu.
+
+W czasie II wojny światowej eksperymentowano z wykorzystaniem pocisków tego typu również do innych celów. W trakcie badań w Peenemünde próbowano pociskami rakietowymi strzelać z zanurzonego okrętu podwodnego (U-511). Testowano także możliwość wykorzystania ich jako broń przeciwlotniczą.
+Od roku 1943 pocisk 21 cm Wgr. 42 Spr. używany był przez Luftwaffe jako broń lotnicza do atakowania formacji ciężkich bombowców.
+
+Dane techniczne pocisków rakietowych
+15 cm Wurfgranate 41 Spreng (15 cm Wgr. 41 Spr.) – pocisk odłamkowo-burzący, masa 34,7 kg, masa głowicy 10 kg
+21 cm Wurfgranate 42 Spreng (21 cm Wgr. 42 Spr.) – pocisk odłamkowo-burzący, masa 112,5 kg, masa głowicy 47,5 kg
+28 cm Wurfkörper Spreng/Flamm (28 cm Wk. Spr.) – pocisk burzący, masa 83,7 kg, masa głowicy 61 kg
+30 cm Wurfgranate 42 Spreng (30 cm Wgr. 42 Spr.) – pocisk burzący, masa 125,6 kg, masa głowicy 66,3 kg
+32 cm Wurfkörper Flamm (32 cm Wk. Fl.) – pocisk zapalający, masa 78,4 kg, masa głowicy 55,8 kg
+
+Literatura
+Zygmunt Czarnotta, Zbigniew Moszumański. Artyleria rakietowa Wehrmachtu. Warszawa 1995. ISBN 83-900217-8-2
+
+Zobacz też
+Sturmtiger
+10-cm Nebelwerfer 40
+20-cm leichter Ladungswerfer
+38-cm schwerer Ladungswerfer
+
+Linki zewnętrzne

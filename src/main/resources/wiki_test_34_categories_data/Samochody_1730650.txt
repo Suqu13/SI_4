@@ -1,0 +1,22 @@
+B Engineering Edonis – supersamochód stworzony przez włoskiego producenta B Engineering. Powstał w oparciu o Bugatti EB110 Super Sport, lecz został znacznie zmieniony. Z Bugatti EB110 pozostała jedynie płyta podłogowa zbudowana z włókna węglowego. Zarówno wnętrze, jak i cała karoseria zostały przebudowane.
+
+Silnik również pochodzi od Bugatti EB110. Pojemność 3500 cm³ została zwiększona do 3760 cm³. Pierwotnie silnik wspierany był przez cztery małe turbosprężarki IHI, lecz na potrzeby projektu Edonis zastąpiono je przez dwie, znacznie większe tego samego producenta. W efekcie moc auta wzrosła do 680 KM, a moment obrotowy wyniósł 735 Nm (Początkowo 610 KM i 650 Nm).
+
+Oryginalny napęd na cztery koła, jaki zastosowany był w Bugatti EB110 zastąpiono napędem na tylną oś. Efektem tego jest nieco gorsza trakcja, lecz zaoszczędzono 70 kg masy auta, która finalnie wyniosła 1500 kg (według różnych źródeł 1300-1500 kg). W związku z tym stosunek mocy do masy równy jest 453 KM na tonę auta. Na każdy jeden litr pojemności przypada aż 181KM.
+
+Specjalnie na potrzeby Edonisa firma Michelin stworzyła opony z wynalezionym przez siebie systemem PAX, zapewniającym jak najlepsze trzymanie i komfort szybkiej jazdy (przy prędkościach przekraczających grubo 320 kilometrów na godzinę) na prostej i ostrych zakrętach. B Engineering ma w planie wytworzenie 21 supersportowych Edonisów (karoseria powstaje ręcznie). Tyle przynajmniej posiadają gotowych podwozi wyprodukowanych przez francuski koncern lotniczy Aerospatiale, które pierwotnie miały posłużyć za bazę samochodów Bugatti. Orientacyjna cena jednego egzemplarza to około 766 000 €.
+
+Edonis pojawił się w grze wideo o tytule Test Drive Unlimited.
+
+Dane techniczne
+Silnik
+V12 3,8&nbsp;l (3760&nbsp;cm³), DOHC, bi-turbo
+Układ zasilania: wtrysk EFI
+Moc maksymalna: 679 KM (499,6 kW) przy 8000 obr/min
+Maksymalny moment obrotowy: 735 N•m przy 3200-3600 obr/min
+
+Osiągi
+Prędkość maksymalna: 365 km/h
+
+Bibliografia
+Linki zewnętrzne

@@ -1,0 +1,44 @@
+Term atomowy – w mechanice kwantowej, obserwowany stan atomu, odpowiadający rzeczywistym stanom o różnej energii, charakteryzujący się określonymi wartościami liczb kwantowych.
+
+Charakterystyka
+W przypadku sprzężenia Russella–Saundersa term atomowy jest opisywany przez liczby kwantowe:
+L – kwantowa liczba orbitalna wszystkich elektronów
+S – kwantowa liczba spinowa wszystkich elektronów
+J – kwantowa liczba całkowitego wypadkowego momentu pędu wszystkich elektronów
+Każdy z tych momentów pędu jest osobno skwantowany:
+Symbolika
+Aby opisać termy atomowe stosuje się następujący symbol:
+gdzie
+L – symbol termu
+''2S+1'' – multipletowość
+J – wartość sprzężenia LS
+
+Symbol termu atomowego określa się literą alfabetu łacińskiego:
+
+
+Multipletowość oblicza się ze wzoru 2S+1. Dla S=0, multipletowość wynosi 1 i mówimy o termie singletowym. Dla S=1/2, multipletowość równa się 2 i mamy term dubletowy. Dla S=1, multipletowość równa się 3 i mamy term trypletowy itd.
+Liczba J może przyjmować wartości od |L−S| do |L+S|.
+
+
+Przykład wyznaczenia termu dla atomu boru:
+Konfiguracja atomu boru: 1s2 2s2 2p1
+Powłoki 1s i 2s są całkowicie zapełnione (i nie wnoszą udziału do sprzężenia LS), więc rozpatruje się tylko powłokę 2p. Zgodnie z regułą Hunda, elektron „ustawia się” tak, żeby magnetyczna liczba kwantowa ml była jak największa. Do obliczenia wartości L i S należy skorzystać z wzorów:
+
+
+
+
+
+Stąd otrzymamy, L = 1 i S = 1/2. Natomiast J wyniesie 1/2 i 3/2. Zatem ostatecznie, symbole termów będą następujące: , 
+
+W przypadku atomów wieloelektronowych, gdzie elektrony mogą występować na różnych poziomach pojawia się kilka termów. Wówczas ważne jest, aby wyznaczyć term stanu podstawowego. Aby tego dokonać należy skorzystać z reguł Hunda:
+Termem podstawowym jest term o najwyższej multipletowości;
+Dla termów o tej samej multipletowości, termem podstawowym jest term o największej wartości L;
+Po uwzględnieniu powyższych reguł, poziomem podstawowym jest:
+Poziom o najmniejszej wartości J dla podpowłok zapełnionych mniej niż w połowie;
+Poziom o największej wartości J dla podpowłok zapełnionych więcej niż w połowie.
+
+Zatem w wyżej podanym przykładzie, termem podstawowym (czyli o najniższej energii) jest term .
+
+Dla sprzężenia jj, term atomowy jest równoważny z poziomem atomowym.
+
+Bibliografia

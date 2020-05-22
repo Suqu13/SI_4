@@ -1,0 +1,122 @@
+R-11M Scud-A – balistyczna rakieta operacyjno-taktyczna, klasy ziemia-ziemia, napędzana paliwem ciekłym, produkcji ZSRR, służąca do przenoszenia głowic z ładunkiem konwencjonalnym lub jądrowym. Przeznaczona była do niszczenia zgrupowań wojsk, punktów dowodzenia, ważnych obiektów wojskowych i gospodarczych.
+
+Historia
+Od zakończenia II wojny światowej w ZSRR prowadzono prace nad skonstruowaniem rakiet balistycznych. Wykorzystano przy tym doświadczenia Niemieckie z rakietami V-2. Na ich podstawie zbudowano pierwszy radziecki kompleks R-1 z rakietą 8A11. Ze względu na duże trudności związane z przechowywaniem materiałów pędnych i długim czasem przygotowania rakiet do startu, 4 grudnia 1950 r. uchwałą Rady Ministrów ZSRR przystąpiono do prac nad nowym systemem rakietowym. System ten otrzymał symbol R-11. Prace prowadzono pod nadzorem S.P. Koroliewa w Instytucie Naukowo-Badawczym Nr 88 (NII-88) w miejscowości Podlipki pod Moskwą. Głównym konstruktorem został E. W. Sinilszczikow, a od 1953 W. P. Makiejew. Sinilszczikow wykorzystał niemieckie doświadczenia zdobyte przy konstrukcji rakiet przeciwlotniczych „Wasserfall”. Przede wszystkim stosowane tam paliwa oparte na bazie nafty i kwasu azotowego jako utleniacza. Pod koniec 1951 r. opracowano projekt nowego pocisku oznaczonego symbolem 8A61, a na początku 1953 r. była gotowa pierwsza próbna partia rakiet wraz z zestawem wyposażenia naziemnego. Pierwszy etap prób rakiety 8A61 odbył się od 18 kwietnia do 2 czerwca 1953 r. na poligonie Kapustin Jar. Przeprowadzono 10 startów rakiet. 5 z nich było pomyślnych. Druga faza prób odbyła się od 20 kwietnia do 13 maja 1954. Przeprowadzono 10 startów rakiet. Dziewięć z nich przeleciało zakładaną odległość 270 km. Osiągnęły rejon celu w granicach założonego rozrzutu. Uzyskały odchylenia: w zakresie odległości 1.19km (wymagania taktyczno – techniczne 1,5 km) oraz odchylenia poprzeczne 0,66 km (wymagania taktyczno – techniczne 0,75km). Po kolejnych próbach 13 lipca 1955 r. kompleks R-11 został przyjęty na uzbrojenie. Jednak w rzeczywistości rakieta 8A61 na uzbrojenie nie została wprowadzona.
+
+Uchwałą Rady Ministrów ZSRR z dnia 26 sierpnia 1954 r. na bazie kompleksu R-11 postanowiono zbudować rakietę nosiciela ładunków jądrowych, dla wojsk lądowych. Kompleks otrzymał oznaczenie R-11M. Został wyposażony początkowo w głowicę jądrową RDS-4 o mocy 10 kt. Produkcję głowic jądrowych prowadzono w zakładzie KB-11 w mieście Arzamas-75 (teraz Sarow) pod kierownictwem J. B Charitona. W późniejszym okresie produkowano je też w zakładzie nr 418 w mieście Swierdłowsk-45 (teraz Liesnoj).
+
+Próby w locie pocisków R-11M odbyły się w trzech etapach od 30 grudnia 1955 do 11 kwietnia 1957. Przeprowadzono 22 starty. Na początku 1958 przeprowadzono pięć dalszych startów i uchwałą Rady Ministrów ZSRR w dniu 1 kwietnia 1958 r. rakieta została przyjęta na uzbrojenie pod symbolem 8K11. Weszła na wyposażenie w klasie operacyjno-taktycznych rakiet wojsk lądowych. Wprowadzenie głowicy jądrowej skróciło zasięg rakiety do 170 km.
+
+Oprócz zmian konstrukcyjnych samej rakiety wprowadzono zmiany jej wyposażenia naziemnego. Rakiety 8A61 dowożono na stanowisko ogniowe pojazdem transportowo-ustawiającym i ustawiano na stole startowym. Zajmowało to około 2 – 3 godziny. Dla rakiety 8K11 w latach 1955–1956 w Leningradzkich zakładach im. Kirowa zaprojektowano samobieżną wyrzutnię na podwoziu czołgu ISU-152, jako obiekt 803. Główny konstruktor K.N. Ilin. Jako obiekt 803, wyrzutnia otrzymała symbol 8U218 i była produkowana seryjnie w fabryce im. Kirowa od roku 1959. Dzięki wprowadzeniu wyrzutni na wyposażenie, czas przygotowania rakiety do startu skrócił się do 30 minut. Produkcja kompleksu była prowadzona do początku 1962 r. Zastąpił go kompleks R-17 z rakietą 8K14 i wyrzutnią 2P19 na podwoziu czołgu ISU-152, będący konstrukcją przejściową do wyrzutni 8K14 Elbrus. Produkcji kompleksów zaprzestano decyzją Radę Ministrów ZSRR z dnia 10 października 1962.
+
+W listopadzie 1957 r. w czasie defilady z okazji święta Rewolucji Październikowej wyrzutnię i rakietę kompleksu R-11 po raz pierwszy zaprezentowano publicznie. W kodzie NATO otrzymała ona oznaczenie Scud. Wywiad USA nadał jej kod SS-1b. Na początku lat 60-tych XX wieku kompleks R11M wszedł na uzbrojenie państw Układu Warszawskiego jako zestaw 9K51 oznaczany też jako R-170.
+W roku 1958 koszt zakupu wynosił:
+Cena rakiety 8K11 z głowicą konwencjonalną 42 000– 53 200 rubli
+Cena rakiety 8K11 z głowicą jądrową od 4 do 8 milionów rubli (w zależności od typu – mocy głowicy)
+Cena rakiety 8K11 z głowicą konwencjonalną wraz z kompleksem wyposażenia 800 000 rubli
+
+Rakieta
+Budowa
+Rakiety kompleksu R-11 składały się z głowicy i kadłuba. Pocisk miał niezależny inercyjny system kontroli lotu oparty o działanie żyroskopów. W jego skład wchodziły: żyroskop pochylenia, żyroskop kierunku, integrator przyspieszenia wzdłużnego. W kadłubie za głowicą znajdował się zbiornik paliwa zasadniczego. Po nim zbiornik z utleniaczem. Na końcu jednokomorowy silnik rakietowy na paliwo ciekłe z ciśnieniowym wtryskiem paliwa. Przy nim był zbiornik paliwa rozruchowego, zbiornik kulisty powietrza, oraz mechaniczne układy sterowania. W pierwszych wersjach rakiet zamiast zbiornika kulistego stosowano prochowy akumulator ciśnienia. Z tyłu po bokach znajdowały się cztery stateczniki. Przy dyszy wylotowej cztery stery gazowe pokryte grafitem. Ster 2 i 4 kierował kątem pochylenia rakiety na statecznik nr 1. Ster 1 i 3 odpowiadał za kierunek lotu rakiety.
+
+Paliwo
+Jako paliwo zasadnicze stosowano – naftę o symbolu T-1 lub TS-1
+Utleniacz – stężony kwas azotowy z inhibitorem korozji o symbolu AK-20
+Paliwo rozruchowe na bazie trójetyloaminy i ksylidny o symbolu TG-02 o nazwie Tonka 250
+
+Głowica
+W rakietach stosowane były głowice z ładunkiem konwencjonalnym i jądrowym
+Głowica konwencjonalna zawierała 535 kg materiału wybuchowego.
+
+W głowicach jądrowych ładunek został umieszczony w jej cylindrycznej części. Nad nim w części stożkowej znajdowały się elementy bloku automatyki ładunku, czujniki ciśnienia dynamicznego i statycznego oraz baterie akumulatorów. Ładunek uranowy był wyposażony w impulsowe źródło neutronów. W zależności od wprowadzonych ustawień można było wywołać naziemny lub powietrzny, lub niski powietrzny wybuch jądrowy. Głowica aż do startu była zabezpieczona pokrowcem grzejnym zapewniającym jej odpowiednią temperaturę.
+
+Wersje rakiety
+R-11FM – Pierwsza na świecie rakieta balistyczna wystrzeliwana z okrętów podwodnych. Oparta na konstrukcji rakiet R-11. Pierwszy start z okrętu podwodnego – Projekt 611 Zulu, odbył się 16 września 1955 na Morzu Białym.
+
+R-11A / W-11A Rakieta geofizyczna na bazie rakiety R-11. Pierwszy start 7 października 1958 r. Wystrzeliwana za kręgiem polarnym z wyrzutni 8U218 na wysokość do 100 km w celu badania górnych warstw atmosfery.
+
+R-11A-MB w ramach przygotowań do lądowania na Marsie i Wenus, była przeznaczona do wystrzeliwania spadochronowych lądowników testowych.
+
+Dane techniczne rakiet
+
+
+Pozostałe dane R-11M
+
+Siła ciągu silnika na ziemi, kg 8300
+Rozpiętość stateczników 1818
+Wysokość toru lotu maksymalna 78 km
+Prędkość maksymalna 1430 – 1500 m/s
+Czas lotu na odległość 270 km 5,4 min
+Maksymalny czas pracy silnika ok. 90 s
+
+Wyrzutnia
+Opis konstrukcji
+Wyrzutnię 8U218 skonstruowano na podwoziu czołgu IS-2. Wizualnie była zbliżona do wyrzutni rakiet taktycznych 2K4 Filin ponieważ obie konstrukcje były projektowane w tym samym czasie. Pozostawiono układ jezdny i przedział silnikowy czołgu bez zmian. Z przodu zbudowano wieloosobową kabinę zespołu obsługi wyrzutni. W kabinie umieszczono urządzenia i pulpity urządzeń układu kontrolno-startowego rakiet oraz kierowania wyrzutnią. Z tyłu zamontowano dwie opory podwozia które zapewniały wypoziomowanie oraz stabilizację wyrzutni podczas przygotowywania i startu rakiety. Na górze, wzdłuż konstrukcji zamontowano łoże rakiety ze stołem startowym, podnoszone hydraulicznie. Łoże w przedniej części, wykonane z rurkowego szkieletu w pozycji marszowej miało charakterystyczny kształt szkieletu łodzi. Po ustawieniu rakiety na stole startowym w pozycji pionowej, łoże wracało do pozycji poziomej. Po bokach nadwozia były szafki i urządzenia sterujące mechanizmami wyrzutni oraz z każdej strony butla na sprężone powietrze, służące do napełniania zbiornika kulistego układu napędowego rakiety. Sprężone powietrze z butli można też było wykorzystać do uruchamiania silnika wyrzutni. Rakieta była przewożona na wyrzutni napełniona paliwem zasadniczym i utleniaczem z dołączoną głowicą bojową.
+Na dużych odległościach wyrzutnia była przewożona bez rakiety na wieloosiowej, niskopodwoziowej przyczepie, ciągniętej przez ciągnik samochodowy KrAZ lub Tatra.
+
+Wersje
+
+'''2P19'''. Po wejściu do użytkowania nowej rakiety 8K14 wprowadzono do produkcji zmodernizowaną wyrzutnię 8U218 jako obiekt 816. Otrzymała symbol 2P19. Od swojej poprzedniczki różniła się wizualnie bardziej rozbudowanym i wzmocnionym z przodu łożem rakiety, oraz podwójnymi butlami ze sprężonym powietrzem po obu bokach. Wyprodukowano 56 sztuk tych wyrzutni.
+Głównym powodem zaniechania produkcji wyrzutni na podwoziach gąsienicowych były nadmierne wibracje konstrukcji, występujące podczas jazdy, które uszkadzały elektronikę głowic jądrowych. Nowa wyrzutnia wraz z rakietą otrzymały w kodzie NATO oznaczenie Scud-B – takie samo jak rakieta 8K14 systemu R-17 z wyrzutnią 9P117 Elbrus.
+
+Dane techniczne wyrzutni
+Masa – 40 ton
+Maksymalna prędkość – 40 km/h
+Długość 12,5 m
+Szerokość 3,2 m
+Wysokość 3,32 m
+Moc silnika 520 kM
+
+Działanie układu
+Rakiety były przechowywane w Polowych Technicznych Bazach Rakietowych i stamdąd dowożone. Zbiorniki rakiet były napełniana paliwem i utleniaczem w baterii technicznej lub po załadowaniu rakiety na wyrzutnię. Wyrzutnia na stanowisku ogniowym ustawiała się pod kątem 45 stopni w prawo od planowanego kierunku lotu rakiety. Kierunek lotu można było wizualnie poznać po ustawieniu statecznika nr 1. Po wypoziomowaniu wyrzutni łoże wraz z rakietą był ustawiane na stole startowym w pozycji pionowej. Łoże wracało do pozycji poziomej a obsługa przygotowywała rakietę do startu. Przeprowadzano kontrolę układu napędowego i kierowania Sprawdzano poprawność wycelowania. Na podstawie danych otrzymanych od pododdziału rachunkowego wprowadzano do układu sterowania dane a obsługa wyrzutni podłączała przewody, napełniała rakietę paliwem rozruchowym i napełniała zbiornik kulisty sprężonym powietrzem o ciśnieniu 300 atmosfer.
+
+Po odpaleniu pironaboi w magistrali paliwa rozruchowego sprężone powietrze w pierwszej fazie działania silnika wpychało paliwo rozruchowe do komory spalania. Paliwo rozruchowe spotykało się tam z utleniaczem i następował samozapłon. Ciśnienie powstające w komorze spalania wytwarzało siłę ciągu i jednocześnie poprzez gazogeneratory, wypychało paliwo i utleniacz ze zbiorników do tej komory. Następował start rakiety. Na zaprogramowanej wysokości rakieta przechodziła z lotu pionowego do lotu po krzywej balistycznej. W przypadku skróconego zasięgu, urządzenia sterujące odcinały wcześniej dopływ paliwa do silnika. W czasie lotu głowice uzbrajały się. Głowice jądrowe posiadały system samodestrukcji APR (Awarijnyj Padryw Rakiety) który działał w przypadku awarii rakiety.
+
+Skład kompleksu rakiet operacyjno taktycznych R-11M
+Wyposażenie transportowo załadowcze rakiet
+wagon do przewozu rakiet i głowic koleją 8T45 lub 8T46
+naczepa transportowa 8T137 z ciągnikiem Ził-157W lub
+naczepa 8T137M z układem ogrzewania głowicy jądrowej
+pojemnik transportowy 8T04 – do transportu 3 rakiet bez głowic i paliwa
+podstawy obrotowe 8T05 – do zlewania i neutralizacji paliwa
+urządzenie izotermiczne 8T328 – do przewożenia głowic jądrowych
+dźwig 8T22 (stosowano też inne rodzaje dźwigów)
+
+Wyposażenie dystrybucji materiałów napędowych
+dystrybutor paliwa 8G114
+dystrybutor utleniacza 8G17 lub 8G17M
+ruchoma stacja sprężarkowa 8G33U
+
+Źródła zasilania
+elektrownia polowa 8N01
+zestaw prądotwórczy prądu stałego 8N03
+agregat przetwarzający 2W3 zainstalowany w kabinie stacji 8N16
+stacja ładowania akumulatorów 8N067
+
+Wyposażenie pomocnicze
+przyrząd wycelowania 8Sz18
+stacja kontrolno-pomiarowa 8N16
+urządzenie neutralizujące 8T311
+wskaźnik wilgotności powietrza 8Sz31
+podgrzewacz powietrza 8G27U
+samochód z częściami zamiennymi i zapasowymi 8T339
+laboratorium chemiczne kontroli paliw 8Ju42
+namiot techniczny 8Ju11
+
+Służba
+Kompleksy rakietowe R-11M były na wyposażeniu państw Układu Warszawskiego – Bułgarii, Węgier, Polski Rumunii, Czechosłowacji oraz Chin, Korei Północnej. Iran nabył je w ramach reeksportu z Korei Północnej.
+W Polsce były w nie uzbrojone 4 brygady: 2 Brygada Rakiet Operacyjno-Taktycznych, 3 Brygada Rakiet Operacyjno-Taktycznych, 18 Brygada Rakiet Operacyjno-Taktycznych, 32 Brygada Rakiet Operacyjno-Taktycznych.
+
+W muzeach
+W następujących muzeach można oglądać zestawy R-11M:
+Muzeum Oręża Polskiego w Kołobrzegu
+Muzeum Orła Białego w Skarżysko-Kamiennej
+Muzeum Artylerii w Toruniu
+Muzeum Wojska Polskiego w Warszawie
+Park plenerowy przed siedzibą główną muzeum
+Muzeum Polskiej Techniki Wojskowej
+
+
+
+Bibliografia
+Linki zewnętrzne

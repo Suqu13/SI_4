@@ -1,0 +1,16 @@
+RIM-161 Standard Missile 3 Block IA (SM-3 Block IA) jest morskim amerykańskim, antybalistycznym pociskiem rakietowym przeznaczonym do zwalczania balistycznych pocisków krótkiego (SRBM), i średniego zasięgu (MRBM) w fazie środkowej (Midcourse Phase Defense), oraz w niższym pułapie (Lower tier) lotu pocisku balistycznego w fazie końcowej (Terminal Phase Defense). Stacjonujące na okrętach Aegis BMD pociski SM-3 są elementem amerykańskiego systemu obrony antybalistycznej Balistic Missile Defense, spełniając w nim funkcje morskiego systemu obrony teatru działań i odpowiadając w pewnym stopniu lądowym pociskom antybalistycznym THAAD. 
+
+Zmodyfikowany pocisk SM-3 Block IA wystrzelony z krążownika rakietowego typu Ticonderoga USS Lake Erie (CG-70), posłużył do zniszczenia amerykańskiego zepsutego satelity wywiadowczego USA 193 21 lutego 2008 roku.
+
+Konstrukcja
+Pociski Standard Missile 3 wykorzystują technologie opracowane dla pocisku Raytheon RIM-156 Standard Missile 2ER Block IV, który służył do zwalczania celów powietrznych, i - w ograniczonym zakresie - balistycznych. Z pocisku SM-2, SM-3 Block IA przejął kadłub oraz dwa pierwsze stopnie napędowe i dodał trzeci stopień Alliant Techsystem MK 136 na paliwo stałe, a także systemy nawigacji GPS/INS oraz głowicę kinetyczną LEAP (Lightweight Exo-atmospheric Projectile).
+
+Pierwszy stopień  napędowy zawierający silnik startowy  służący początkowemu rozpędzeniu pocisku ma średnice 21 cali , czyli 0.53 m, następne jednak stopnie są węższe i posiadają średnice już tylko 13,5 cala (0,34 m), stąd też pociski te zwane są czasami pociskami "SM-3 13,5 cala" - w odróżnieniu od pocisków SM-3 Block II i Block IIA - zwanych "SM-3 21 cali", gdyż posiadają jednakową średnicę 21 cali na całej swej długości.
+
+Według pierwotnych planów, pociski SM-3 miały dysponować tzw. prędkością wypalenia (velocity burnout) - czyli prędkością lotu pocisku w momencie zaprzestania pracy i odłączenia się ostatniego stopnia napędowego - wynoszącą 4,5 km/s, jednakże okazało się to niemożliwe do osiągnięcia dla przemysłu, wobec ograniczeń budżetowych. Pocisk SM-3 13,5 cala, dysponuje wiec prędkością wypalenia wynosząca jedynie 3,2 km/s co uniemożliwia mu zwalczanie pocisków dalekiego zasięgu.
+
+Lightweight Exo-Atmospheric Projectile
+
+Pocisk SM-3 Block IA uzbrojony jest w głowicę kinetyczną Lightweight Exo-Atmospheric Projectile - LEAP (Lekki Pocisk Egzosferyczny) samonaprowadzającą się na cel za pomocą działającego na podczerwień jednokolorowego układu FLIR (Forward-Looking Infrared), korzystając przy tym z autonomicznego układu sterowania i kontroli SDACS (Solid Divert and Attitude Control System).
+
+Bibliografia

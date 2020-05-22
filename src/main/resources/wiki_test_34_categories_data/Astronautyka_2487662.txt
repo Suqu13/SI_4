@@ -1,0 +1,19 @@
+
+NanoSail-D2''' – mały satelita eksperymentalny zbudowany przez NASA, umieszczony na orbicie 20 listopada 2010 o godz. 01:25 czasu UTC. Drugie urządzenie w przestrzeni kosmicznej napędzane przez żagiel słoneczny (pierwszym był japoński IKAROS).
+
+Budowa i działanie
+Satelita o wadze 4 kilogramów był napędzany żaglem o powierzchni 10 metrów kwadratowych. Żagle wykonano z polimeru pokrytego aluminium. Napędem było ciśnienie promieniowania słonecznego i ciśnienie wywierane przez cząstki wiatru słonecznego uderzające w żagle, a zmiana położenia żagli pozwalała na zmianę kierunku lotu satelity.
+
+Misja NanoSail-D miała sprawdzić przydatność technologii żagli słonecznych w misjach kosmicznych oraz pozwolić na udoskonalenie tego typu napędu.
+
+Przebieg misji
+FASTSAT i NanoSail-D zostały wystrzelone rakietą Minotaur IV HAPS 20 listopada 2010. 19 stycznia 2011 roku inżynierowie z Centrum Lotów Kosmicznych imienia George'a C. Marshalla potwierdzili, że mikrosatelita  NanoSail-D samoistnie odłączył się od FASTSAT. NanoSail-D miał odłączyć się od statku-matki 6 grudnia 2010, ale wtedy operacja nie powiodła się. Od czasu rozłożenia żagli zbierane były dane, które w przyszłości mogą okazać się pomocne w usuwaniu kosmicznych śmieci i niedziałających satelitów. Kończąc podróż pojazdu NASA zademonstrowała sposób na kontrolowane całkowite spalenie w atmosferze obiektów, które opuściły orbitę. Poza tym satelita umożliwił dokładne zbadanie górnych warstw atmosfery. Wstępnie założono, że obiekt opadnie do górnych warstw atmosfery i ulegnie zniszczeniu po 70–120 dniach od umieszczenia na orbicie. Ostatecznie satelita krążył samodzielnie wokół Ziemi przez 240 dni umożliwiając prowadzenie badań nad deorbitacją satelitów. Misja zakończyła się 17 września 2011 roku. Ostatni etap wejścia w atmosferę zależał od aktywności słonecznej, gęstości atmosfery otaczającej NanoSail-D oraz kąta nachylenia żagla względem orbity. Chociaż dane o locie statku są nadal analizowane i badane, to wiadomo, że satelicie udało się zaobserwować zjawisko wcześniej przewidywane teoretycznie – cykliczność tempa deorbitacji. Okazało się również, że dynamika ułożenia satelity ma wpływ na prędkość jego deorbitacji.
+
+Poprzednie urządzenie NanoSail-D, wystrzelone w 2008 roku, nie dotarło na orbitę z powodu awarii wynoszącej je rakiety.
+
+Eksperyment był zarządzany przez Marshall Center. NanoSail-D został zaprojektowany i skonstruowany przez inżynierów z Huntsville we współpracy z NASA Ames Research Center w Moffett Field. Partnerzy eksperymentu to Department of Defense Space Test Program w Kirkland oraz U.S. Army Space and Missile Defense Command, the Von Braun Center for Science and Innovation, Dynetics Inc. i Mantech Nexolve Corporation.
+
+
+
+Bibliografia
+Linki zewnętrzne

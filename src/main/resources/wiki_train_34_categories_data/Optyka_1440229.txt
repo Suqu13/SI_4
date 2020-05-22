@@ -1,0 +1,45 @@
+Nikon Coolpix L11''' – kompaktowy, cyfrowy aparat fotograficzny firmy Nikon, wprowadzony do sprzedaży w 2007 roku. Jest to jeden z najtańszych modeli producenta, przeznaczony do robienia zdjęć amatorskich. Posiada matrycę o rozdzielczości 6 megapikseli i możliwość zapisu video.
+
+Specyfikacja
+typ: kompaktowy aparat cyfrowy
+matryca: CCD o przekątnej 1/2,5 cala;
+całkowita liczba megapikseli: około 6,18 mln
+użyteczna liczba megapikseli: 6 mln
+całkowita rozdzielczość matrycy: 2816&nbsp;×&nbsp;2112&nbsp;pikseli
+rozmiary obrazu w pikselach: 2816&nbsp;×&nbsp;2112,&nbsp;2048&nbsp;×&nbsp;1536,&nbsp;1024&nbsp;×&nbsp;768,&nbsp;640 x 480
+obiektyw: Nikkor z 3-krotnym zoomem
+ogniskowa: 6,2-18,6 mm
+przysłona: f/2,8-5,2
+zoom: 3x, cyfrowy: maks. 4x
+tryby fotografowania: automatyczny, program (16 ustawień)
+nastawianie ostrości: auto
+autofocus: z detekcją kontrastu, pole ostrości: środek
+zasięg ustawienia ostrości: 40 cm do ∞ (makro: od 15 cm)
+czułość ISO: 64 (automatyczne wzmocnienie do wartości ISO 800)
+pomiar światła: matrycowy 256-polowy, skoncentrowany (maks. 2-krotny zoom cyfrowy), punktowy (zoom cyfrowy powyżej 2x) i punktowyz polem AF
+zakres pracy miernika światła: [W]: 1 – 16 EV, [T]: 1 – 17 EV
+korekcja ekspozycji: -2 EV to +2 EV, co 1/3 EV
+balans bieli: auto, pomiar b.bieli, światło dzienne, światło żarowe, fluorescencyjne, pochmurno, błysk (lampa błyskowa)
+migawka: mechaniczna i elektroniczna ze sprzężeniem ładunkowym
+czasy migawki: od 4 do 1/2000 s
+samowyzwalacz: 10 s
+wyświetlacz: monitor LCD typu TFT o przekątnej 2,4", 115 tysięcy punktów, z regulacją jasności
+lampa błyskowa: wbudowana, zakres: [W]: od 0,4 do 3,0 m; [T]: od 0,4 do 2,5 m
+pamięć: wewnętrzna 7 MB, karty pamięci SD
+system plików: zgodny ze standardami DCF, DPOF, Exif 2,2
+format plików: JPEG , QuickTime, wav
+rozmiar video: 640&nbsp;×&nbsp;480,&nbsp;30 klat./s; 640&nbsp;×&nbsp;480,&nbsp;15 klat./s; 320&nbsp;×&nbsp;240,&nbsp;30 klat./s; 320&nbsp;×&nbsp;240,&nbsp;15 klat./s; 160&nbsp;×&nbsp;120,&nbsp;15 klat./s;
+wejścia/wyjścia: USB, wideo (PAL lub NTSC), ImageLink
+zasilanie: 2 baterie/akumulatory typu AA
+wymiary: 89,5&nbsp;×&nbsp;60,5&nbsp;x 27 mm
+masa korpusu: 125 g (bez baterii i karty)
+
+
+Plik:NikonCoolpixL11b.jpg|Nikon Coolpix L11 przód
+Plik:NikonCoolpixL11c.jpg|Nikon Coolpix L11 tył
+
+
+Linki zewnętrzne
+– strona producenta
+
+

@@ -1,0 +1,12 @@
+Samomat – zadanie w kompozycji szachowej, w którym zawsze zaczynają białe, polegające na wymuszeniu takiej gry czarnych, która doprowadzi do dania mata białym w ściśle określonej liczbie posunięć (pomimo zastosowania najlepszej możliwej obrony).
+
+Na diagramie pokazano przykład samomata w czterech posunięciach:
+Kd4''' Kb7
+Hd5+ Kc8
+b7+ Kc7
+Kc5 Ga7 mat
+
+Bibliografia
+W.Litmanowicz, J. Giżycki, "Szachy od A do Z", Warszawa 1987, str. 1079-1080
+
+

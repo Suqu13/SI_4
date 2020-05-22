@@ -1,0 +1,5 @@
+EDVAC - Electronic Discrete Variable Automatic Computer. Maszyna zbudowana według pomysłu von Neumanna w kwietniu 1952 w Moore School of Engineering przy Uniwersytecie Pensylwanii na potrzeby armii USA. Stworzyli ją John Mauchly i J. Presper Eckert. Zainstalowana w Ballistic Research Laboratories w Aberdeen (stan Maryland) w roku 1949 kosztem ok. 500&nbsp;000 dolarów (przy budżecie pięciokrotnie mniejszym).
+
+Zajmowała ponad 111 metrów kwadratowych powierzchni, zawierała ok. 6000 lamp i 12000 diod. Częstotliwość zegara 996,75 kHz. Pamięć operacyjna ultradźwiękowa z rtęciową rurą opóźniającą na 1000 słów (to rozwiązanie zastosowano później w polskiej maszynie XYZ); wejście/wyjście z zastosowaniem taśmy perforowanej i kart dziurkowanych systemu IBM; do kontroli sterowania używano zwykłego oscyloskopu; w roku 1953 dodano do maszyny pamięć zewnętrzną w postaci bębna magnetycznego. Zapotrzebowanie na moc 56 kilowatów. Maszyna osiągnęła użyteczność obliczeniową już w roku 1951, pracowała do grudnia roku 1962.
+
+Linki zewnętrzne

@@ -1,0 +1,21 @@
+Nadstopy (superstopy, superstopy żaroodporne) – grupa materiałów na bazie żelaza, niklu i kobaltu, cechujących się wysoką żaroodpornością, wytrzymałością i odpornością na pełzanie w wysokich temperaturach, dobrą stabilnością powierzchniową i odpornością na korozję i utlenianie. Nadstopy mają zazwyczaj austenityczną strukturę krystaliczną fcc. Rozwój nadstopów polegał głównie na chemicznych i procesowych innowacjach, a jego główną siłą napędową był i jest nadal przemysł lotniczy i energetyczny. Typowe zastosowanie to np. łopatki turbinowe dla wysokotemperaturowych części silników odrzutowych i turbin gazowych.
+
+
+
+
+Zastosowanie
+Przykładem nadstopów są Hastelalloy, Inconel, np. IN100, IN600, IN713, Waspalloy, Rene alloys, np. Rene 41, Rene 80, Rene 95, Rene N5, Haynes alloys, Incoloy, MP98T, stopy TMS.
+
+Nadstopy są powszechnie używane w tych częściach turbin gazowych, które są narażone na wysokie temperatury i gdzie wymagana jest wysoka wytrzymałość, doskonała wysokotemperaturowa odporność na pełzanie, zmęczenie, stabilność fazowa i odporność na korozję i utlenianie. 
+
+Superstopy uzyskują wytrzymałość wysokotemperaturową dzięki wzmocnieniu roztworowemu. Najważniejszym mechanizmem wzmacniania jest wtórne wytrącanie się faz, przez które otrzymuje się fazy γ oraz węgliki. Odporność na utlenianie i korozję otrzymuje się poprzez proces TBC (thermal barier coating), który polega na utlenieniu powierzchniowej warstwy, chroniącej przed dalszym utlenianiem materiału. Odporność tę otrzymuje się poprzez zastosowanie w stopie dodatku aluminium lub chromu.  Dzięki tym zabiegom w wysokociśnieniowych turbinach gazowych chłodzone powietrzem łopatki potrafią wytrzymać temperaturę o 200 °C większą niż wynosi ich temperatura topnienia. 
+
+Temperatura na wlocie do turbiny (TIT), która jest bezpośrednim parametrem kontrolującym efektywność turbiny gazowej zależy od możliwości temperaturowej łopatek na pierwszym stopniu turbiny wysokoprężnej. Elementy są wykonane ze stopów opartych na niklu. Turbosprężarki również zawierają w swoich częściach superstopy, które są montowane do stalowych wałów za pomocą spawania elektronowego. Do częściej spotykanych nadstopów w tym zastosowaniu należą Inconel 713 i Mar-M 247. Ten drugi jest szczególnie przydatny dla silników spalinowych, ponieważ zmniejsza zapotrzebowanie na wzbogacanie mieszanki paliwowej przy dużych obciążeniach, co poprawia sprawność silnika. 
+
+Materiały te są również używane jako zamiennik stali nierdzewnej w zastosowaniu w środowisku kwasowym i słonowodnym. Ponadto stosowane są w wielu innych gałęziach przemysłu, np. w przemyśle zbrojeniowym, jądrowym, samochodowym i chemicznym.
+
+Zobacz też
+Stopy TiAl
+
+Bibliografia
+Linki zewnętrzne

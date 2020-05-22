@@ -1,0 +1,39 @@
+__NOTOC__ 
+
+PDP – seria komputerów produkowanych przez firmę Digital Equipment Corporation. Obejmowała ona głównie minikomputery i mainframe'y. Nazwa PDP (ang. Programmed Data Processor) celowo nie zawierała słowa "komputer": komputery kojarzyły się wówczas z urządzeniami dużymi, skomplikowanymi i drogimi, a investorzy VC (szczególnie Georges Doriot) stojący za Digitalem nie chcieli finansować budowy "komputera". Słowo "minikomputer" nie było jeszcze wtedy wynalezione, więc Digital postanowił zbudować PDP w oparciu o już posiadane portfolio układów logicznych, i skierować taki produkt do mniej zasobnych klientów (takich, których nie było stać na większe komputery).
+
+Wybrane komputery PDP:
+PDP-1''' – uważany pierwszy minikomputer w historii
+PDP-2''' – anulowany komputer 24-bitowy.
+PDP-3''' – pierwszy 36-bitowy komputer DEC. Nie trafił do sprzedaży: jedyny zbudowany był przez CIA na jej własne potrzeby.
+PDP-4''' – Wolniejsza, ale tańsza wersja PDP-1'''. Nie odniósł sukcesu rynkowego. Późniejsze komputery 18-bitowe DEC opierały się o zestaw instrukcji PDP-4.
+PDP-5''' – Pierwsza maszyna 12-bitowa. Wprowadzony zestaw instrukcji został zastosowany w późniejszym PDP-8.
+PDP-6''' – 36-bitowa klasy mainframe z podziałem czasu
+PDP-7''' – maszyna, na której działała pierwsza wersja systemu operacyjnego Unix.
+PDP-8''' – pierwszy komputer sprzedany w liczbie >50000.
+PDP-9''' – bezpośredni następca PDP-7'''. Pierwsza maszyna Digitala wykorzystująca mikrokod.
+LINC-8''' – maszyna łącząca w sobie właściwości PDP-8''' i komputera LINC
+PDP-10''' – następca PDP-6 i platforma pierwszego Emacsa.
+PDP-11''' – jeden z najbardziej długowiecznych komputerów, produkowany przez ponad 20 lat.
+PDP-12''' – następca komputera LINC-8'''
+PDP-13''' – komputer o takiej nazwie nigdy nie powstał → Triskaidekafobia.
+PDP-14''' – komputer 1-bitowy, projektowany jako sterownik PLC.
+PDP-15''' – ostatni komputer 18-bitowy DEC, i jedyny komputer 18-bitowy tej firmy zbudowany w technologii TTL.
+Następcą linii PDP był wywodzący się z PDP-11 VAX
+
+
+
+Bibliografia
+C. Gordon Bell, J. Craig Mudge, John E. McNamara,  (Digital, 1978)
+, TX-0 alumni reunion, Spring 1984, Ed Thelen Web site (accessed June 18, 2006)
+Bell, C.G., Grason, J., and Newell, A., . Digital Press, Maynard, Mass., 1972.
+
+Linki zewnętrzne
+
+, wciąż sprawne w niemieckim muzeum komputerowym 
+Strona Gordona Bella w domenie Microsoftu 
+Niedawno odnowiony PDP-12 
+http://www.soemtron.org/pdp7.html Informacje na temat PDP-7 i PDP7A włączając podręczniki i listy klientów obejmujące 99 ze 120 dostarczonych komputerów.
+ 
+
+

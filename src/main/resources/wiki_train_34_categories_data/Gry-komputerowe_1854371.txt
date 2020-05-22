@@ -1,0 +1,40 @@
+Atari Falcon040''' zaprojektowany w 1992 roku przez firmę Atari komputer. Nie wprowadzony do sprzedaży. Z jego produkcji zrezygnowano kiedy rynek komputerów przeżywał kryzys, firma Atari postanowiło skoncentrować swoje siły na rynku gier komputerowych porzucając wszelkie projekty komputerów. 
+
+Komputer zapewniał sprzętową kompatybilność zarówno z serią ST, Falconem jak i TT030, był ich rozwinięciem. Wyposażony w serię nowych układów w standardzie CMOS ASIC. 
+MCU zaawansowany kontroler pamięci układów i dostępu do szyny (204 nóżki)
+układy FUNNEL odpowiadające za komunikację pomiędzy systemem a Video Ram oraz Video Ram a procesorem graficznym (180 nóżek), 
+RAMDAC - procesor graficzny (LSI Logic 100k) 
+
+Specyfikacja techniczna
+Architektura:
+Procesor: Motorola MC68040 @ 25, 33, 40 i 50 MHz z FPU
+DSP: Motorola 56001 DSP @ 50 MHz z pamięcią podręczną
+Szyna: taktowanie 25, 33, 40, 50 MHz, szerokość 32 bity
+
+Pamięć
+Video Ram (ST RAM) - 512kb do 16 MB w dwóch bankach (dostępnych 15 MB)
+Fast Ram (TT RAM) - 1 do 32 MB szybkiej pamięci dla danych, w dwóch bankach
+złącza na moduły SIMM PS/2
+
+Grafika: 
+w pełni programowalny procesor, kompatybilny z Videlem, z sprzętową korekcją gamma
+24-bitowa paleta barw + 8 bit overlay - 16 milionów kolorów
+rozdzielczości w pełni programowalne + overscan w 1,2,4,8 i 24 bitach
+zaimplementowane "sztywne" tryby z Atari ST (paleta 9-bit) i Atari TT (paleta 12-bit) dla zachowania kompatybilności
+sygnały w standardzie VGA
+
+Dźwięk:
+CODEC - 8 kanałów DMA o rozdzielczości 16-bitowej, przy maks. próbkowaniu 50 kHz 
+DSP 56001
+
+Peryferia
+stacja dysków 1,44 MB 3,5"
+złącze SCSI
+zegar czasu rzeczywistego (RTC) podtrzymywany bateryjnie z NVRAM
+złącze DSP
+
+Zobacz też
+Atari Falcon
+Atari TT
+
+Linki zewnętrzne

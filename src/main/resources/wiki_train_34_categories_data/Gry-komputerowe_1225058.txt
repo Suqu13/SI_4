@@ -1,0 +1,27 @@
+'''4X – gatunek strategicznych gier komputerowych, w których rozgrywka opiera się na czterech podstawowych celach: eXplore (eksploracja), eXpand (ekspansja), eXploit (eksploatacja) i eXterminate (eksterminacja). Gra 4X może być grą turową lub czasu rzeczywistego. Prawdopodobnie najlepiej znaną grą 4X jest seria Civilization. 
+
+Termin "4X" został po raz pierwszy użyty przez Alana Emricha we wrześniu 1993 w recenzji gry Master of Orion dla Computer Gaming World . Emrich uczestniczył później przy projektowaniu gry Master of Orion 3''. Określenie to jest teraz używane dość często w odniesieniu do podobnych gier.
+
+Definicja
+Klasyczna definicja
+"4X" jest skrótem od eXplore, eXpand, eXploit, eXterminate. 
+
+Explore (eksploracja) oznacza, że gracz musi przemieszczać jednostki na obszarze gry, aby odsłonić mapę. Niektóre gry rozpoczyna się z częściowo odkrytą mapą (na przykład w Master of Orion gwiazdy są wstępnie odkryte, ale planety ukryte), podczas gdy w innych gracz na początku nie posiada żadnych informacji na temat mapy (np. serii Civilization). 
+Expand (ekspansja) oznacza, że gracz musi powiększać obszar znajdujący się pod jego kontrolą, najczęściej poprzez budowę nowych osiedli. Niektóre gry 4X pozwalają graczowi również na poszerzanie wpływów politycznych lub ulepszanie istniejących zabudowań (Civilization III i wersje późniejsze, Galactic Civilizations). 
+Exploit (eksploatacja) oznacza, że gracz zbiera i wykorzystuje zasoby na kontrolowanym terytorium i zwiększa efektywność już używanych. 
+Exterminate (eksterminacja) oznacza atakowanie i eliminowanie rywali, powstrzymywanie ekspansji ich terytorium (por. expand) i utrudnienie im wykorzystywanie zasobów na nim. Poza zadaniem strat przeciwnikowi daje to często agresorowi dodatkowe namacalne korzyści, takie jak zdobyte terytorium, łup lub zasoby. 
+
+Te cztery określenia w dużej mierze nachodzą na siebie w większości gier 4X. Niektóre tego typu gry są tak zaprojektowane, że odkrywanie i podbój nowych terenów trwają dość długo – na przykład w grach serii Master of Orion i Space Empires gracz musi przeprowadzić wiele badań, aby móc skolonizować wszystkie typy planet.
+
+Trudności przy definiowaniu
+Wiele gier czasu rzeczywistego, takich jak Age of Empires czy Starcraft toczy się w podobnym cyklu explore, expand, exploit, exterminate, ale nie są uważane za gry 4X. To by sugerowało, że jest więcej warunków zaliczenia gry do tego gatunku, niż tylko posiadanie wszystkich czterech X. 
+
+Moby Games stosuje dodatkowe kryterium, mówiące że w grze muszą istnieć możliwości zwycięstwa inne od całkowitego podbicia przeciwnika. Serwis chciał w ten sposób wykluczyć gry takie jak Age of Empires, Warcraft, Command & Conquer czy Heroes of Might and Magic. Niestety ta definicja również zdaje się nie być pełna, gdyż Age of Empires i Heroes of Might and Magic dają inne możliwości zwycięstwa.
+
+
+
+
+
+
+
+

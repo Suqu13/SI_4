@@ -1,0 +1,65 @@
+Kapitał obrotowy (zwany kapitałem pracującym) stanowi nadwyżkę aktywów obrotowych nad zobowiązaniami krótkoterminowymi:
+
+KON = AKTYWA OBROTOWE – ZOBOWIĄZANIA BIEŻĄCE (krótkoterminowe)
+
+Kapitał obrotowy netto jest to również ta część kapitałów stałych przedsiębiorstwa, która finansuje aktywa obrotowe, a nie finansuje aktywów trwałych: KON = KAPITAŁ STAŁY – AKTYWA TRWAŁE
+
+Przedstawia to grafika poniżej:
+
+
+
+Firmy muszą utrzymywać odpowiedni poziom kapitału obrotowego netto aby zapewnić właściwe relacje między tempem wzrostu firmy, jej sprzedaży a poziomem majątku obrotowego. Na przykład wzrost sprzedaży powoduje konieczność utrzymywania wyższego poziomu zapasów a to z kolei określa zapotrzebowanie na środki niezbędne do ich finansowania.
+
+Odpowiedni poziom kapitału obrotowego netto pozwala uniknąć:
+wysokich kosztów pozyskania kapitału na finansowanie bieżącej działalności przedsiębiorstwa,
+strat wynikających z konieczności szybkiej sprzedaży majątku (nawet poniżej ich wartości) w celu pozyskania kapitału na bieżącą działalność firmy.
+Strategie zarządzania wysokością kapitału obrotowego netto są dwie:
+
+Konserwatywna:
+polega na utrzymywaniu wysokiego stanu aktywów obrotowych i niskiej wartości zobowiązań bieżących,
+w efekcie daje firmie wysoką płynność finansową, ale też obniża jej rentowność.
+
+Agresywna:
+celem jest utrzymywanie niskiej wartości aktywów obrotowych w relacji do zobowiązań bieżących,
+skutkiem jest obniżenie płynności finansowej przedsiębiorstwa,
+w efekcie zwiększa się rentowność firmy.
+
+Składniki kapitału obrotowego
+W skład kapitału obrotowego wchodzą takie czynniki, które w przedsiębiorstwie pozostają przez okres krótszy od 12 miesięcy. Do podstawowych składników bilansu w części aktywa i drugiej literze (B aktywa obrotowe) wchodzą:
+Zapasy
+Materiały
+Półprodukty i produkty w toku
+Produkty gotowe
+Towary
+Zaliczki na dostawy
+Należności krótkoterminowe
+Należności od jednostek powiązanych
+Z tytułu dostaw i usług, w okresie spłaty:
+do 12 miesięcy
+powyżej 12 miesięcy (jest to wyjątek, co do zasady ujmowane są tu zasoby „żyjące” krócej niż 12 miesięcy)
+Inne
+Należności od pozostałych jednostek
+Z tytułu dostaw i usług, w okresie spłaty:
+do 12 miesięcy
+powyżej 12 miesięcy
+z tytułu podatków, dotacji, ceł, ubezpieczeń społecznych i zdrowotnych oraz innych świadczeń
+dochodzone na drodze sądowej
+inne
+Inwestycje krótkoterminowe
+Krótkoterminowe aktywa finansowe
+w jednostkach powiązanych
+w pozostałych jednostkach
+Z tytułu dostaw i usług, w okresie spłaty:
+do 12 miesięcy
+powyżej 12 miesięcy
+środki pieniężne i inne aktywa pieniężne
+środki pieniężne w kasie i na rachunkach bankowych
+inne środki pieniężne
+inne aktywa pieniężne
+Inne inwestycje krótkoterminowe
+Krótkoterminowe rozliczenia międzyokresowe.
+
+Kapitał obrotowy brutto
+Istnieje też pojęcie kapitału obrotowego brutto (KOB), które oznacza całkowitą wartość aktywów obrotowych przedsiębiorstwa. Stąd też pod pojęciem „kapitału pracującego” rozumie się często kapitał obrotowy netto.
+
+

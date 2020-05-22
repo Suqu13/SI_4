@@ -1,0 +1,13 @@
+Filtr ekranowy – przeźroczysty filtr zakładany na monitor komputera. Filtr taki może pełnić różne funkcje, np.:
+zmniejsza ilość emitowanego światła
+redukuje promieniowanie elektromagnetyczne spoza zakresu widzialnego
+ogranicza odbłyski z zewnętrznych źródeł światła
+poprzez uziemienie odprowadza nadmiar ładunku z ekranu (zob. elektryczność statyczna)
+ogranicza kąt widzenia tak, aby wyświetlana treść była niewidoczna dla osoby patrzącej z boku (filtr prywatyzujący)
+
+W monitorach CRT najistotniejsze były cztery pierwsze funkcje filtra. W przypadku monitorów ciekłokrystalicznych rola filtrów ogranicza się tylko do ostatniej funkcji.
+
+
+
+
+

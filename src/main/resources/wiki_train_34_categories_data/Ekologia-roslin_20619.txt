@@ -1,0 +1,44 @@
+
+
+Ekosystem (gr. oikos – dom, mieszkanie, gospodarstwo; gr. systēmatikós – zestawiony od sýstēma – zestawienie, połączenie od synistánai – zestawiać) – dynamiczny układ ekologiczny, na który składa się zespół organizmów (biocenoza) połączonych relacjami troficznymi (tworzących sieć troficzną) wraz ze środowiskiem przezeń zajmowanym, czyli biotopem, w którym zachodzi przepływ energii i obieg materii. W skrócie zatem ekosystem to biocenoza wraz z biotopem. Ekosystemy wyodrębniane są na podstawie istnienia silniejszych powiązań w ich obrębie niżeli między ich składowymi a otoczeniem (biologicznie ważne pierwiastki chemiczne krążą intensywniej w obrębie poszczególnych ekosystemów niż pomiędzy nimi). 
+
+
+Problemy terminologiczne
+Ekosystem to jedno z podstawowych pojęć w ekologii, ale podobnie jak sama „ekologia” jest terminem wieloznacznym. Określenie „ekosystem” stosowane bywa w odniesieniu do dowolnego układu składającego się z elementów żywych lub żywych i nieożywionych, pozostających ze sobą w rozmaitych relacjach. Przy tak szerokim ujęciu ekosystemem można nazwać dowolny układ ekologiczny z organizmami żywymi, od kolonii bakterii na pożywce poczynając, na całej biosferze kończąc. 
+
+Termin ten został opublikowany przez brytyjskiego ekologa Arthura Tansley'a w 1935 jako skrót od angielskich słów ecological system. Zaproponowany mu został na początku lat 30. XX wieku przez Arthura Roya Claphama.
+
+ 
+
+Warder Allee i in. w 1950 w definicji ekosystemu podkreślili współdziałanie systemu biotycznego i abiotycznego. Wyróżnili akcję – działanie siedliska fizyko-chemicznego na organizmy, reakcję organizmów i koakcję – wzajemne oddziaływanie organizmów na siebie nawzajem. 
+
+Różni autorzy tworzyli własne określenia stosowane zamiennie wobec „ekosystemu”. Do przykładów należą: mikrokosmos (Forbes, 1887), holocen (Friedrichs, 1930), biosystem (Thienemann, 1939), pleocen (Trojan, 1975), fizjocenoza (Wodziczko, 1950), biogeocenoza (Sukacev i Dyiis, 1964).
+
+Przykłady i klasyfikacje
+Przykłady ekosystemów: las (→ ekosystem leśny), łąka i pole (→ agroekosystem), jezioro i morze (→ ekosystem wodny), torfowisko, wyspa, jaskinia, komin hydrotermalny. W każdym z wymienionych przypadków ekosystemem jest określona przestrzeń wyodrębniająca się i stanowiąca pewną całość pod względem przyrodniczym, innymi słowy jednym ekosystemem jest konkretny kompleks leśny, a nie wszystkie lasy na Ziemi. 
+
+Rzeka nie zawsze jest traktowana jako ekosystem ze względu na to, że nie zachodzi w niej pełny obieg materii. 
+
+Ekosystem ma zazwyczaj czteropoziomową strukturę pokarmową. Te poziomy to:
+środowisko abiotyczne – materia nieożywiona w środowisku,
+producenci – autotrofy, które użytkują wyłącznie abiotyczną część ekosystemu,
+konsumenci – heterotrofy (głównie zwierzęta),
+reducenci – destruenci, czyli bakterie i grzyby powodujące rozkład materii organicznej.
+
+Podstawowy podział ekosystemów:'''
+lądowe,
+wodne,
+sztuczne,
+naturalne.
+
+Kryteria wyróżniania ekosystemu:'''
+z punktu widzenia składu ekosystemu: fauna w ekosystemach jest specyficzna, zawiera gatunki charakterystyczne,
+z punktu widzenia pełności składu: każdy układ musi składać się z 3 elementów, którymi są autotrofy, konsumenci i destruenci,
+z punktu widzenia czasu trwania układów: są one ustabilizowane i trwałe,
+z punktu widzenia granic, które układ ograniczają: wielkość zajmowanego obszaru jest uwarunkowana zdolnością rozkładu, musi zachodzić pełna realizacja obiegów materii i przepływów energii (np. dla źródeł obszar wynosi kilka m², natomiast dla lasów mogą to być setki km²).
+
+
+
+
+
+

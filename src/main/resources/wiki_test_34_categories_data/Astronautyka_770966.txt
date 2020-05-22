@@ -1,0 +1,11 @@
+Studencka inicjatywa technologii i eksploracji kosmosu (ang. Student Space Exploration & Technology Initiative, SSETI) – stowarzyszenie zrzeszające 32 uczelnie z 12 europejskich krajów (również z Polski). Ma na celu promocję astronautyki i związanych z nią technologii poprzez budowę minisatelitów studenckich. Głównym patronem projektu jest Europejska Agencja Kosmiczna (ESA), której biuro edukacyjne koordynuje prace wszystkich członków stowarzyszenia. 
+
+Satelity
+Pierwszy satelita stowarzyszenia, SSETI Express (żargonowo: SEx), został wystrzelony 27 października 2005. Była to pierwsza misja w historii, w której jeden satelita wyniósł w przestrzeń kosmiczną także trzy pikosatelity. Dwa z nich kontynuują swoje misje. Główny satelita zamilkł po kilkunastu godzinach pracy. Najbardziej prawdopodobnym powodem było uszkodzenie układu ładującego akumulatory prądem generowanym przez panele ogniw słonecznych.
+
+W chwili obecnej budowany jest ESEO, czyli European Student Earth Orbiter. Start tego satelity planowany jest na koniec 2008 roku. Rakieta nośną miała być rakieta Ariane 5, choć na chwilę obecną (kwiecień 2007) rozpatrywane są także inne rakiety.
+W projektowaniu i budowie tego satelity aktywnie uczestniczą cztery polskie zespoły: OPER, OBDH Core, COMM_PL i CONF.
+
+Następnym planowanym satelitą jest ESMO, czyli European Student Moon Orbiter. Być może po ESMO następna misja to będzie ESMR (European Student Moon Rover).
+
+Linki zewnętrzne

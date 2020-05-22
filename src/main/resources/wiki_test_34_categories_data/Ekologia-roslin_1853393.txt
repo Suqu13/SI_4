@@ -1,0 +1,34 @@
+ Makrofitowy Indeks Rzeczny – jeden z biologicznych wskaźników jakości wód stosowany w biomonitoringu wód płynących, opracowywany na podstawie występowania wybranych makrofitów potraktowanych jako gatunki wskaźnikowe. Określenie MIR jest elementem procedury MMOR (Makrofitowej Metody Oceny Rzek). Analogicznym wskaźnikiem stosowanym do oceny śródlądowych wód stojących jest Makrofitowy Indeks Stanu Ekologicznego. MIR jest użyteczny przy określaniu stanu troficznego, natomiast nie jest stosowany do wskazywania degradacji stanu ekologicznego innego typu (jak zakwaszenie czy skażenie substancjami toksycznymi).
+
+Sposób wyznaczania
+
+Makrofitowy Indeks Rzeczny jest jednym ze wskaźników stosowanych w klasyfikacji i monitoringu stanu jakości cieków naturalnych wyznaczonych przez polskie Ministerstwo Środowiska. Uwzględnia on zarówno samą obecność konkretnych gatunków, jak i ich obfitość. Wyznaczany jest na odcinku cieku (najczęściej stumetrowym). Obliczany jest według wzoru:
+
+gdzie:
+n – liczba gatunków branych pod uwagę w badaniu
+Li – wartość wskaźnikowa gatunku i (1 – wskaźniki najwyższej trofii, 10 – wskaźniki najniższej trofii)
+Wi – współczynnik wagowy gatunku i (1 – eurybionty, 3 – stenobionty)
+Pi – współczynnik pokrycia dla gatunku i
+
+Współczynnik pokrycia P podawany jest w dziewięciostopniowej skali zgodnie z poniższą tabelą:
+Wskaźnik jest tak skonstruowany, że wody najbardziej zdegradowane osiągają wynik równy 10, a najmniej – 100 (przy czym dla rzek nizinnych nawet wody o najwyższej jakości nie przekraczają 60 punktów).
+Gatunki MIR
+
+
+Najwyższe wartości L mają gatunki charakteryzujące dobry (według kryteriów Ramowej Dyrektywy Wodnej, tzn. bliski stanowi naturalnemu) stan ekosystemu. Niektóre pospolite gatunki (np. trzcina pospolita) nie są uwzględniane przy wyznaczaniu MIR z powodu zbyt dużej tolerancji ekologicznej; gatunki te są słabymi bioindykatorami. Pełna lista gatunków (a w niektórych przypadkach rodzajów) liczy 153 pozycji (103 rośliny nasienne, 3 paprotniki, 20 mchów, 10 wątrobowców, 17 glonów). Przykładowe gatunki o zdefiniowanej wartości L i W to:
+MIR a klasy jakości wód
+Wartości MIR rozgraniczające klasy jakości wód, według Rozporządzenia Ministra Środowiska z dnia 20 sierpnia 2008 r. w sprawie sposobu klasyfikacji stanu jednolitych części wód powierzchniowych, są przyjmowane różnie w zależności od rodzaju cieku (głównie materiału, z jakiego zbudowane jest jego koryto). 
+
+Dla potoków nizinnych lessowych lub gliniastych, potoków nizinnych piaszczystych, rzek nizinnych piaszczysto–gliniastych, rzek przyujściowych będących pod wpływem wód słonych, potoków organicznych, rzek w dolinie zatorfionej, cieków łączących jeziora:
+Dla potoków nizinnych żwirowych, rzek nizinnych żwirowych:
+Dla wielkich rzek nizinnych:
+Zobacz też
+Ramowa Dyrektywa Wodna
+Sumaryczny Wskaźnik Jakości Wody
+Wskaźniki okrzemkowe
+
+
+
+
+
+

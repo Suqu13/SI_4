@@ -1,0 +1,14 @@
+Explorer 3''' – amerykański satelita naukowy z serii Explorer. Kontynuował badania pasów Van Allena rozpoczęte przez Explorera 1.
+
+Explorer 3 był podobny, pod względem konstrukcji i powierzonych zadań, do Explorera 1. Miał być stabilizowany obrotowo, ale wkrótce po starcie stwierdzono koziołkowanie z okresem 7 sekund. Obracał się wzdłuż własnej długiej osi z prędkością 750 obrotów na minutę. Dane były rejestrowane na taśmie magnetycznej. Z rejestratora przesyłano je na Ziemię drogą radiową. Służyły temu dwa nadajniki: 60 mW nadajnik na częstotliwości 108,03 MHz i nadajnik o mocy 10 mW na częstotliwości 108 MHz. Statek posiadał dwie anteny, które rozkładały się, i były utrzymywane w takiej pozycji pod wpływem ruchu obrotowego satelity.
+
+Przedział z instrumentami był pomalowany na przemian białą i ciemnozieloną farbą. Dzięki temu w pasywny sposób utrzymywano odpowiednią temperaturę wewnątrz pojazdu. Proporcje powierzchni pasów jasnych i ciemnych ustalono na podstawie docelowej orbity i panujących tam warunków.
+
+Zasilanie w prąd elektryczny zapewniały baterie niklowo-kadmowe. Stanowiły ok. 40% masy całego Explorera 3. Zapas energii wystarczyć miał na 31 dni pracy nadajnika dużej mocy i 105 dni nadajnika małej mocy. Ostatecznie przesyłał dane przez 44 dni. Nadajniki zamilkły 17 maja, a misję zakończono 27 czerwca 1958.
+
+Ładunek naukowy stanowił: licznik promieniowania kosmicznego i detektor mikrometeorytów.
+
+Zobacz też
+Sputnik 1
+
+Bibliografia

@@ -1,0 +1,30 @@
+ – prototypowy japoński samolot rozpoznawczy, przeznaczony dla lotnictwa Japońskiej Cesarskiej Marynarki Wojennej. Maszyna miała stacjonować na lądzie i charakteryzować się bardzo dużym zasięgiem i prędkością. Jedyny wybudowany prototyp uległ zniszczeniu podczas amerykańskiego bombardowania w 1945 roku.
+Historia
+We wrześniu 1942 roku Japońska Cesarska Marynarka Wojenna ogłosiła warunki techniczne 17-Shi, które powinien spełniać nowy samolot ropoznawczy, przeznaczony do bazowania na lądzie. Główny akcent został położony na dużą prędkość i zasięg jakimi miała charakteryzować się nowa maszyna. 
+
+Pracę nad nową konstrukcją podjęto między innymi w Pierwszym Arsenale (w znaczeniu zakładu badawczo-produkcyjnego broni) Lotniczo-Technicznym Lotnictwa Marynarki (第一海軍航空技術廠, Dai-Ichi Kaigun Kōkū Gijutsu-shō, znanym pod skrótowym określeniem Kūgishō) w Yokosuka. 
+
+Efektem prac wojskowych inżynierów był samolot Kūgishō R1Y1 "Seiun". Niestety konstrukcja nie spełniała ambitnych wymagań technicznych, stawianych przez marynarkę i na początku 1943 r. cały projekt został anulowany. 
+
+Nie był to jednak koniec prac w arsenale nad nowym samolotem rozpoznawczym. W tym samym roku w Kugisho sięgnięto po rozwiązania techniczne zastosowane w niemieckim, eksperymentalnym samolocie rozpoznawczym Heinkel He 119V-4, którego egzemplarz sprowadzono do Japonii jeszcze w 1940 roku. 
+
+Podobnie jak w niemieckim pierwowzorze, zdecydowano się umieścić zespół dwóch silników Aichi Atsuta 30 w kadłubie samolotu, za kabiną pilota. Układ dwóch, sprzężonych jednostek napędowych otrzymał nazwę Aichi YE2H (He-70-01). Ich sumaryczna moc miała wynosić 3400 KM. Moc silników miała być przenoszona na sześciołopatowe śmigło o dużej średnicy za pomocą długiego wału przechodzącego pod kabiną pilota. Całością prac nad nowym samolotem kierował komandor Shiro Otsuki. 
+
+Niestety, problemy z nową jednostką napędową oraz układem przeniesiena napędu spowodowały, że prototyp R2Y1 ukończono dopiero 27 kwietnia 1945 roku. Gotowy samolot przewieziony został do bazy w Kisarazu. Najpierw dokonano próbnego kołowania samolotu, za sterami maszyny siedział pilot doświadczalny Teraoka. Testy nie wypadły pomyślnie, szwankował układ chłodzenia silnika oraz amortyzacja podwozia. 
+
+8 maja 1945 r. samolot, za sterami którego siedział pilot doświadczalny Kitajima, wzbił się do swojego pierwszego lotu (niektóre źródła podają, iż miało to miejsce 5 maja). Krótki lot bez chowania podwozia musiał zakończył się przedwcześnie, gdyż niebezpiecznie zaczęła wzrastać temperatura oleju. 
+
+Silnik nadal sprawiał problemy, które doprowadziły do jego pożaru i zniszczenia podczas przeprowadzanych na ziemi testów instalacji układu chłodzenia. W celu wymiany jednostki napędowej maszyna została odesłana do wytwórni, w której kilka dni później została zniszczona w wyniku amerykańskiego bombardowania. Dalszy rozwój samolotu został wstrzymany, tym bardziej, że sytuacja na froncie nie wymagała posiadania maszyny rozpoznawczej o tak dużym zasięgu. 
+
+Zdając sobie sprawę z realiów wojny, już pod koniec 1944 r. kierownictwo Kugisho zaproponowało zmianę przeznaczenia R2Y1 z samolotu rozpoznawczego na maszynę myśliwsko-bombową napędzaną silnikiem odrzutowym. Tak zmodyfikowana konstrukcja otrzymała oznaczenie Kugisho R2Y2 Keiun.
+
+Konstrukcja
+R2Y1 był wolnonośnym, całkowicie metalowym dolnopłatem, napędzanym jednym, chłodzonym cieczą silnikiem rzędowym Aichi YE2H (Ha-70-01), składającym się z dwóch silników Aichi Atsuta 30 w układzie tandem. Silnik zamontowany był w kadłubie nad centropłatem za kabiną pilota i napędzał sześciołopatowe, przestawialne śmigło metalowe o średnicy 3,8 m. Usterzenie klasyczne, wolnonośne. Trójpodporowe, chowane podwozie z przednim podparciem, przednia goleń do wnęki w kadłubie, główne do wnęk w skrzydłach. Samolot nie posiadał uzbrojenia strzeleckiego.
+Bibliografia
+Krzysztof Zelewski, Niemieckie piętno - pierwsze japońskie samoloty odrzutowe i rakietowe, "Lotnictwo", nr specjalny 9 (2009), s. 26-40, ISSN 1732-5323.
+
+
+
+
+
+

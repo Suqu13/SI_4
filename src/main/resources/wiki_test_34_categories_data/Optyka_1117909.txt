@@ -1,0 +1,49 @@
+
+Fitochrom jest fotoreceptorem, barwnikiem używanym przez rośliny w reakcjach na światło lub jego brak. Maksimum absorpcji barwnika przypada na długości fal odpowiadające światłu czerwonemu i dalekiej czerwieni. Wiele roślin wykorzystuje fitochrom do określenia czasu odpowiedniego do kwitnięcie poprzez określenie dnia i nocy. Zmiany w zawartości poszczególnych form fitochromu pozwalają regulować reakcje związane z cyklem dobowym. Fitochrom reguluje również kiełkowanie nasion, wzrost wydłużeniowy siewek, wielkość i kształt liści, syntezę chlorofilu oraz prostowanie się hipokotyli lub epikotyli siewek roślin dwuliściennych.
+Cząsteczka fitochromu jest chromoproteiną, składa się z części białkowej połączonej z barwnikiem. 
+
+Fitochrom zawiera większość roślin, w tym wszystkie rośliny wyższe, a barwniki o bardzo podobnej budowie wykryto także u bakterii.
+
+Reakcje roślin na będące odpowiedzią na zmiany światła w zakresie spektrum niebieskiego i ultrafioletu regulowane są przez receptory należące do kryptochromów i fototropin.
+
+Formy fitochromu
+[[Plik:Phytochrome str.png|thumb|300px|Dwie hipotezy dotyczące przekształceń fitochromu zachodzących podczas absorpcji światła. (PR - Forma absorbująca światło czerwone, PFR - Forma absorbująca w dalekiej czerwieni, B - Białko). Po lewej -  odłączenie  H+
+. Po prawej - tworzenie formy zbliżonej do chlorofilu
+.]]
+Podstawową formą fitochromu jest forma absorbująca światło w zakresie czerwieni. Maksimum absorpcji przypada na długości fal: 650–670 nm. Ta forma fitochromu dla ludzkiego oka posiada barwę turkusowoniebieską.
+Pochłaniając kwanty światła czerwonego forma PR przekształca się w formę PFR, która wykazuje maksimum absorpcji w tzw. dalekiej czerwieni (długości fal 705-740 nm). Ta forma fitochromu dla oka ludzkiego posiada kolor zielonkawy. Pochłanianie kwantów energii przez formę PFR powoduje jej przekształcenie do formy PR. Fitochrom pochłaniając odpowiedniej długości fale elektromagnetyczne przekształca się w jedną z form, a reakcja jest odwracana przez inną długość fali.
+
+Biochemia i działanie fitochromu
+Chemicznie fitochrom składa się z grupy chromoforowej w postaci pojedynczego, otwartego łańcucha czterech pierścieni pirolowych  związanych z białkiem. Grupa chromoforowa pochłaniając światło zmienia konformację chromoproteiny, powodując wzajemne przekształcanie dwóch form fitochromu. 
+
+Forma fitochromu PFR zapoczątkowuje w komórce szereg reakcji, między innymi regulując ekspresję niektórych genów. Dokładny mechanizm regulacji metabolizmu komórki przez fitochrom nie został poznany. Forma PR jest wytwarzana w cytozolu i tam pod wpływem światła przekształca się w formę PFR, która przemieszczana jest do jądra komórkowego. Zjawisko to sugeruje  bezpośredni udział fitochromu w regulacji ekspresji  genów. Istnieje hipoteza, że fitochrom w formie PFR służy jako kinaza wpływająca na aktywację czynników transkrypcyjnych.
+
+Historia badań nad fitochromem
+Fitochrom został odkryty przez Sterlinga Hendricks and Harry'ego Borthwick z  USDA-ARS Beltsville Agricultural Research Center w Marylandzie w latach pięćdziesiątych ubiegłego stulecia. Wymienieni naukowcy korzystając z spektrografu zbudowanego z pożyczonych i pozostałych po wojnie części odkryli, że światło czerwone jest bardzo efektywne w pobudzaniu kiełkowania nasion i wywoływaniu kwitnienia roślin. Reakcje na światło czerwone można było odwrócić przez oświetlenie roślin daleką czerwienią.
+Sam fitochrom został zidentyfikowany za pomocą spektroskopu przez biofizyka  Warrena Butlera i biochemika Harolda Siegelmana w roku 1959. To właśnie Butler nadał nazwę fitochrom odkrytej chromoproteinie.
+W roku 1983 laboratoriach Petera Quaila i Clarka Lagariasa fitochrom został wyizolowany i oczyszczony,a w roku 1985 opublikowali sekwencję genu kodującego fitochrom. 
+W roku 1989 genetycy molekularni wykorzystując  przeciwciała monoklonalne wykazali istnienie więcej niż jednej formy fitochromu. W roślinach grochu istnieje forma I obecna w siewkach rosnących w ciemności oraz forma II obecna w zielonych roślinach. 
+Z sekwencjonowania genomu Arabidopsis wiadomo o istnieniu pięciu genów  kodujących fitochrom  (PHYA - E), u ryżu obecne są jedynie trzy formy (PHYA - C). Istnienie wielu genów kodujących fitochrom w licznych roślinach jedno i dwuliściennych,  prawdopodobnie wiąże się z częstą u roślin poliploidalnością. W związku z tym kukurydza, na przykład, posiada sześć form fitochromu - phyA1, phyA2, phyB1, phyB2, phyC1 i phyC2. Każdy z tych fitochromów posiada inny komponent białkowy, jednak wszystkie posiadają tą samą grupę chromoforową. W późnych latach osiemdziesiątych XX wieku wykazano, że phyA jest degradowany z użyciem ubikwityny.
+W roku 1996 w zsekwencjonowanym genomie sinicy Synechocystis zauważono istnienie genu o niewielkim podobieństwie do roślinnego fitochromu. Jon Hughes w Berlinie i Clark Lagarias na UC Davis wykazali, że gen ten rzeczywiście koduje barwnik nazwany (Cph1) o właściwościach fitochromu. Przypuszczalnie roślinny fitochrom powstał poprzez przeniesienie genu chloroplastowego do jądra. 
+
+Fitochrom został także znaleziony w komórkach innych prokariontów np. w Deinococcus radiodurans i Agrobacterium tumefaciens
+
+U Deinococcus radiodurans fitochrom reguluje wytwarzanie barwników ochronnych, jakkolwiek u Synechocystis i Agrobacterium biologiczna rola tych barwników nie jest znana.
+
+W roku 2005 laboratorium Vierstra i Forest Uniwersytetu w Wisconsin opublikowało trójwymiarową strukturę części fotoczułej fitochromu bakterii z rodzaju Deinococcus. Okazało się iż łańcuch białkowy tworzy strukturę o wyjątkowo niezwykłej formie.
+
+Wykorzystanie fitochromu w inżynierii genetycznej
+Około roku 1989 kilka laboratoriów uzyskało rośliny transgeniczne, zawierające podwyższone ilości różnych fitochromów. We wszystkich przypadkach uzyskane rośliny posiadały krótkie łodygi  i ciemnozielone liście. 
+Harry Smith i współpracownicy na Uniwersytecie w Leicester w Wielkiej Brytanii wykazali, że zwiększona ekspresja fitochromu A, pochłaniającego daleką czerwień, powoduje zmianę reakcji na zacienienie rośliny. Efektem zmiany jest poświęcanie mniejszej ilości zasobów na wzrost na wysokość, a więcej na wzrost nasion i rozwijanie systemu korzeniowego. Efekt ten może być praktycznie wykorzystany na przykład na trawnikach gdzie trawa rosłaby wolniej i nie wymagałaby koszenia lub roślinach uprawnych, które więcej materiałów lokowałyby w częściach użytecznych a mniej energii poświęcały na wzrost części nadziemnej.
+
+
+
+Bibliografia
+http://www.ars.usda.gov/is/timeline/light.htm
+http://www.mobot.org/jwcross/duckweed/phytochrome.htm#tetrapyrrole
+http://ucce.ucdavis.edu/files/filelibrary/616/17562.htm
+Terry and Gerry Audesirk. Biology: Life on Earth.''
+Linda C Sage. A pigment of the imagination: a history of phytochrome research.'' Academic Press 1992. ISBN 0-12-614445-1
+
+
+

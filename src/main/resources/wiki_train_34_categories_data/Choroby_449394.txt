@@ -1,0 +1,54 @@
+Ketoprofen (łac. Ketoprofenum) – organiczny związek chemiczny zbudowany z reszty benzofenonu i kwasu propionowego (mieszanina racemiczna). Należy do grupy niesteroidowych leków przeciwzapalnych (NLPZ) hamując aktywność zarówno COX-1 jak i COX-2. Wykazuje silne działanie przeciwzapalne, przeciwgorączkowe i przeciwbólowe (ok. 4x słabsze niż deksketoprofen będący czystym enancjomerem o konfiguracji S).
+
+Farmakokinetyka i farmakodynamika
+Dobrze wchłania się z przewodu pokarmowego. Początek działania obserwuje się po 0,5 godziny po podaniu doustnym. Maksymalne stężenie w surowicy osiąga po 2 godzinach. Przy podaniu domięśniowym działanie obserwuje się po 15 minutach, a maksymalne stężenie po 45 minutach. Okres półtrwania wynosi około 2 godziny po podaniu tabletki, czopka i iniekcji, a 5,5 godziny po podaniu tabletki retard. Wiąże się z białkami w ponad 99%.
+
+Wchłanianie ketoprofenu do krwiobiegu przez skórę zachodzi bardzo powoli. Po 5 do 8 godzinach od miejscowego podania dawki 50 mg do 150 mg ketoprofenu, stężenie ketoprofenu w osoczu wynosi 0,08 do 0,15 μg/ml (5-10% wartości stężenia uzyskanego po podaniu doustnym, co zmniejsza ryzyko wystąpienia objawów niepożądanych). Wykazano, że ketoprofen w żelu penetruje do wszystkich tkanek stawu. Ballerini i wsp. stwierdzili, że po aplikacji 10 cm ketoprofenu w żelu 2,5% na staw kolanowy, stężenie w mazi stawowej było porównywalne do osiąganego po podaniu domięśniowym (1,31 µg/g), a w pozostałych tkankach okołostawowych wynosiło: torebka stawowa - 2,35 µg/g, kaletka maziowa - 4,70 µg/g, tj. kilkanaście razy więcej niż po doustnej aplikacji leku.
+
+Profil działania == 
+Przeciwzapalny i przeciwbólowy efekt NLPZ jak ketoprofen polega głównie na blokowaniu syntezy prostaglandyn (E2, E1) poprzez hamujący wpływ na cyklooksygenazę (COX). Efekt przeciwzapalny wiąże się głównie z hamowaniem izoenzymu COX-2 (wyzwalanego w toku procesu zapalnego), zaś za działania niepożądane dotyczące przewodu pokarmowego związane ze stosowaniem NLPZ jest odpowiedzialne równoczesne blokowanie przez lek izoformy COX-1 (postać obecna stale w organizmie i uczestnicząca w wielu procesach fizjologicznych). W ostrym stanie zapalnym stężenie prostaglandyn w chorych tkankach jest najwyższe. Dlatego skuteczność miejscowych NLPZ jest wówczas największa.
+
+Wskazania
+Ketoprofen jest stosowany w leczeniu objawowym zmian zapalnych i zwyrodnieniowych w schorzeniach reumatycznych, MIZS, RZS, ZZSK. Szeroko stosowany też w leczeniu bólu pooperacyjnego, pourazowego, rzadziej w łagodzeniu innych zespołów bólowych.
+
+Przeciwwskazania
+Czynna choroba wrzodowa, alergia na salicylany, ciężkie postacie astmy. Nie należy stosować leku w ciąży, podczas laktacji. Nie stosuje się leku u dzieci. Względnym przeciwwskazaniem jest również stwierdzona niewydolność krążenia, schorzenia wątroby i nerek, nadwrażliwość na substancje zawarte w leku.
+
+Działania niepożądane
+Najczęściej objawy ze strony przewodu pokarmowego, w tym możliwość krwawień. Z tego też względu zaleca się podawanie zapobiegawcze IPP. Może wystąpić niestrawność, nudności, ból brzucha, wzdęcie, biegunki lub zaparcia. Rzadziej wymioty, brak łaknienia. Sporadycznie zapalenie jamy ustnej i nekroliza naskórka.
+
+Interakcje
+Podawany razem z lekami moczopędnymi może zwiększać ryzyko uszkodzenia nerek. W przypadku podawania leku z solami litu należy pozostawić pacjenta pod ścisłą opieką lekarską. Ścisły nadzór jest również wymagany przy podawaniu ketoprofenu razem z warfaryną.
+
+Dawkowanie
+Dostępne są preparaty doustne po 50, 100, 150 i 200&nbsp;mg w tabletkach, do wstrzyknięć domięśniowych i dożylnych (po rozcieńczeniu w płynie fizjologicznym) po 100&nbsp;mg w 2 ml, oraz czopki doodbytnicze po 100&nbsp;mg. Podaje się zgodnie z zaleceniem lekarza. Przeciętne dawkowanie w chorobach reumatycznych wynosi około 150&nbsp;mg na dobę. Dawka maksymalna 200&nbsp;mg. Istnieje też forma leku w żelu do stosowania zewnętrznego.
+
+Dostępne preparaty
+Bi-Profenid, tabletki o zmodyfikowanym uwalnianiu 150 mg
+Fastum, żel 25 mg/g, 100 g dispenser  i 20 g, 30 g, 50 g lub 100 g tuba
+Febrofen, kapsułki o przedłużonym uwalnianiu 200 mg 
+Ketonal, kapsułki twarde 50 mg 
+Ketoprofen, kapsułki o przedłużonym uwalnianiu 150 mg 
+Ketopronil, żel 25 mg/g, 35 g lub 50 g  
+Ketores, kapsułki o przedłużonym uwalnianiu 100 mg lub 200 mg 
+Ketospray Forte, płyn do natryskiwania na skórę 100 mg/g, 25 g 
+Opokan-keto, żel 25 mg/g, 50 g
+Profenid, czopki 100 mg
+Ketoprom, żel 25 mg/g, 50 mg 
+Refastin, tabletki 100 mg, 20 lub 30 sztuk 
+Ketoprofen LGO, żel 25 mg/g, 50 g lub 100 g
+
+
+
+Bibliografia
+Farmakologia pod red. Wojciecha Kostowskiego.
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,94 @@
+
+Allelopatia (z gr. – allelon (wzajemny) i pathos (cierpienie)) – szkodliwy lub korzystny wpływ substancji chemicznych wydzielanych przez rośliny lub grzyby danego gatunku lub pochodzących z rozkładu tych roślin. Allelopatia odnosi się głównie do substancji chemicznych wydzielanych do podłoża, które wpływają na wzrost innych organizmów w bezpośrednim otoczeniu, głównie roślin i bakterii. Substancje mogą pobudzać lub hamować kiełkowanie, a także wzrost i rozwój innych gatunków roślin żyjących w bliskim sąsiedztwie lub zajmujących bezpośrednio po nich to samo miejsce. 
+
+Historia odkrycia
+Allelopatia, choć nie w pełni świadomie, było wykorzystywana już od czasów starożytnych do ochrony zasiewów. Demokryt (370 r p.n.e.) opisywał doświadczenie, polegające na niszczeniu drzew przez traktowanie ich korzeni  mieszaniną kwiatów łubinu namoczonych w soku szaleju jadowitego. Występowanie wzajemnych oddziaływań między roślinami zauważył również Teofrast (285 r. p.n.e.), który stwierdził, że groch ptasi nie użyźnia gleby, ale ją wyczerpuje. Zjawisko allelopatii opisywał także Pliniusz (1 r. n.e.), wskazując na oddziaływanie orzecha czarnego i włoskiego  na inne gatunki.
+
+Allelopatia współcześnie
+W czasach współczesnych pojęcie allelopatii zostało wprowadzone do literatury po raz pierwszy przez Molisha (1937) dla określenia wzajemnych wpływów o charakterze biochemicznym, zarówno szkodliwych jak i korzystnych, pomiędzy roślinami, włączając także mikroorganizmy.
+Podczas pierwszego Światowego Kongresu Allelopatii, Allelopathy — a science for the future, w 1996 r. sformułowano definicję, określającą allelopatię jako każdy proces, w którym zaangażowane są wtórne metabolity, wytwarzane przez rośliny, mikroorganizmy i grzyby, mające wpływ na wzrost i rozwój systemów biologicznych i rolniczych, wyłączając zwierzęta. Niekiedy w literaturze pojawia się także pojęcie potencjał allelopatyczny.
+
+Podział allelopatii
+Ze względu na charakter wydzielanej substancji o potencjale allelopatycznym allelopatię dzieli się na prawdziwą i funkcjonalną. Pierwszy typ, tzn. allelopatia prawdziwa oznacza uwalnianie do środowiska związków chemicznych, które są toksyczne bezpośrednio po ich wytworzeniu przez roślinę. Natomiast allelopatia funkcjonalna występuje w  sytuacji, gdy uwalnianie do środowiska substancje, stają się toksyczne dopiero po ich uprzednim przekształceniu przez mikroorganizmy.
+
+Substancje allelopatycznie aktywne
+Stanowią zróżnicowaną grupę związków organicznych – od prostych gazów (np. cyjanowodór HCN(g)) poprzez związki alifatyczne aż do wielkocząsteczkowych (taniny). 
+
+Pod względem charakteru oddziaływania allelopatiny można podzielić na stymulatory bądź inhibitory. Podział ten nie jest ostry, gdyż związki stymulujące wzrost roślin mogą w wysokich stężeniach pełnić funkcję inhibitorów, jak również związki uważane za inhibitory w niskich stężeniach mogą powodować stymulację niektórych procesów. 
+Z kolei w celu rozróżnienia związków allelopatycznych, w zależności od organizmu wydzielającego (donora) lub odbierającego (akceptora), wprowadzono terminy: 
+a) koliny – w przypadku oddziaływania roślin wyższych na rośliny wyższe;
+b) fitoncydy (fitocydy) – gdy rośliny wyższe oddziałują na mikroorganizmy;
+c) marazminy – gdy mikroorganizmy oddziałują na rośliny wyższe;
+d) antybiotyki – gdy mikroorganizmy oddziałują na mikroorganizmy.
+
+Przykłady substancji allelopatycznych
+glikozydy cyjanogenne (amigdalina, prunazyna, duryna), które rozkładjąc się uwalniją bardzo toksyczny gaz – cyjanowodór;
+amoniak;
+terpeny: α-pinen, β-pinen, kamfen, kamfora, cyneol, dipenten;
+kwasy organiczne: szczawiowy, octowy, bursztynowy, mrówkowy, mlekowy, propionowy, masłowy, krotonowy;
+flawonoidy: kwercytyna, kempferol, myricetyna, florydzyna;
+laktony: kwas parasorbowy, patulina;
+kwasowe związki fenolowe: kwas chlorogenowy, izochlorogenowy, p-kumarowy, ferulowy, syringowy, dihydroksybenzoesowy, wanilinowy;
+taniny;
+chinony: juglon.
+
+Sposoby uwalniania związków allelopatycznych do środowiska
+ewaporacja:
+uwalnianie lotnych substancji (ewaporacja) dotyczy głównie olejków eterycznych, należących do terpenoidów, powstających w specjalnych gruczołach roślinnych, skąd w formie lotnej, szczególnie w wysokiej temperaturze, dostają się do atmosfery. Związki te mogą być absorbowane przez tkanki okrywające sąsiednich roślin bezpośrednio z atmosfery lub z rosą. Możliwa jest także ich adsorpcja na powierzchniowych warstwach gleby, z których przechodzą do roztworu glebowego i stamtąd pobierane są przez korzenie rośliny. Ewaporacja występuje, np. u roślin pustynnych i półpustynnych;
+ługowanie: 
+wymywanie (ługowanie) przez wodę z opadów atmosferycznych, wodę irygacyjną lub rosę. Tą drogą z nadziemnych części roślin przez deszcz lub krople rosy zmywana jest cała gama związków: substancje pektynowe, glikozydy, alkaloidy, flawonoidy, wiele kwasów organicznych i duże ilości związków fenolowych;
+eksudacja: 
+wydzielanie przez system korzeniowy (eksudacja). Znaczenie ekologiczne tego zjawiska, według opinii niektórych autorów, jest drugorzędowe, ponieważ ogranicza się wyłącznie do ryzosfery, a sekrecja allelopatyków z nienaruszonych korzeni jest niewielka. Z drugiej strony, pojawiło się wiele doniesień wskazujących na istotną rolę uwalnianych tą drogą allelopatin w regulacji wzrostu i rozwoju roślin; 
+rozkład martwych roślin:
+rozkład obumarłych części roślin stanowi najważniejsze źródło związków allelopatycznych. Podczas degradacji resztek roślinnych, następuje uwalnianie i wymywanie do gleby różnych substancji pochodzących z tkanek roślinnych, z których wiele wykazuje aktywność biologiczną.
+
+Praktyczne zastosowanie allelopatii
+Zjawisko allelopatii wykorzystuje się w zwalczaniu chwastów roślin uprawnych.  Spotykanym w praktyce zabiegiem agrotechnicznym jest jesienny wysiew żyta z przeznaczeniem na przyoranie wiosną. Tego typu zabiegi w okresie wczesnowiosennym, prowadzą do znacznego obniżenia biomasy chwastów. Dotyczy to chwastów takich jak komosa, palusznik, rzeżucha czy proso;
+Wykorzystanie allelopatin jako związków o właściwościach fungicydów: antygrzybowe właściwości nasion niektórych chwastów mogą być główną przyczyną obserwowanej dużej żywotności tych nasion w glebie. Związki antygrzybowe wytwarzane są w czasie rozkładu materiału roślinnego, np. tymotki, kukurydzy, żyta i tytoniu.
+
+Efekty niepożądane:
+- minusem stosowania naturalnych herbicydów jest ich nieselektywna aktywność, sprawiająca że wykazują one efekt toksyczny w stosunku do wielu roślin nie tylko chwastów;
+- synteza naturalnych herbicydów na skalę przemysłową jest bardzo kosztowna, zaś okres półtrwania tych związków w środowisku relatywnie krótki, a ponadto część allelopatin może wykazywać działanie toksyczne lub nawet rakotwórcze dla ludzi;
+- wiele spośród znanych allelopatin jest też silnymi alergenami wywołującymi poważne dermatozy.
+
+Przykłady roślin wykorzystujących allelopatię
+Allelopatia dodatnia:
+fiołek polny, wyka na żyto
+cebula, kalarepa na buraka
+fasola, kukurydza, groch, rzodkiew, słonecznik na ogórka
+fasola, kukurydza, kapusta, chrzan, len na ziemniaka
+groch, sałata, cebula, por, pomidor na marchew
+kąkol, chaber bławatek, kukurydza na pszenicę
+koniczyna, lucerna na trawy
+lnicznik na len
+marchew, rzodkiew, truskawka, ogórek, szpinak na sałatę
+rośliny aromatyczne, ziemniak, seler, koper ogrodowy, szałwia, burak, cebula na rośliny kapustne
+rzeżucha na szarłat
+ziemniak, groch, fasola, ogórek, dynia, kabaczek, pszenica, bobik na kukurydzę
+ziemniak, marchew, ogórek, kapusta na fasolę
+Allelopatia ujemna:
+cebula, czosnek pospolity, mieczyk na fasolę
+dynia, kabaczek, ogórek, słonecznik, pomidor, mak polny, komosa biała na ziemniaka
+fasola, gorczyca na buraka
+jaskrowate na kukurydzę
+koper na marchew
+krwawnik na trawy
+lulek czarny na koniczynę
+mak polny, ostrożeń na pszenicę
+mak polny na jęczmień i żyto
+truskawka, pomidor, fasola na rośliny kapustne
+ziemniak, zioła aromatyczne na ogórka.
+
+
+
+Bibliografia
+Zobacz też
+fitoncydy
+antybioza
+
+
+
+
+
+
+

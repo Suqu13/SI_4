@@ -1,0 +1,26 @@
+Motorola Xoom – tablet firmy Motorola z systemem operacyjnym Android. Zaprezentowany został na targach CES 2011 (5 lutego 2011).
+
+Był pierwszym tabletem wyposażonym w system Android 3.0 Honeycomb. Jego wsparcie zakończyło się na wersji Android 4.1.2 Jelly Bean.
+
+Specyfikacja
+Ekran : 10,1-calowy wyświetlacz pojemnościowy o rozdzielczości 1280 x 800 pikseli 
+Procesor : dwurdzeniowy procesor nVidia Tegra 2 o częstotliwości taktowania 1 GHz 
+Pamięć operacyjna: 1 GB DDR2 RAM 
+Nośnik danych: 32 GB Flash
+System: Android 3.0 (Honeycomb)
+Aparat: przedni - 2 Mpx, tylny - 5 Mpx (autofocus, lampa błyskowa)
+Bateria: Li-Ion 7000 mAh
+Wymiary: 249,1 x 167,8 x 12,9 mm
+Waga: 730 g
+Komunikacja: Bluetooth V2.1 + EDR, 3G, GPRS, EDGE, Wi-Fi - IEEE 802.11 b/g/n
+Częstotliwość pracy: GSM 850 / 900 / 1800 / 1900 / HSDPA 900/2100 MHz
+Audio: MP3, AAC, AAC +, AMR Z 3,5 mm audio jack
+Wideo: MP4, H.263, H.264
+
+Jest dostępna również tańsza wersja "Wi-Fi only" w której połączenie z internetem jest możliwe wyłącznie za pomocą Wi-Fi.
+
+
+
+
+
+

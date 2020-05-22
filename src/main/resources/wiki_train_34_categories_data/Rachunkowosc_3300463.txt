@@ -1,0 +1,38 @@
+Zestawienie zmian w kapitale ( funduszu ) własnym
+
+Jest jednym z elementów sprawozdania finansowego, który sporządzany jest przez jednostki podlegające corocznemu badaniu przez biegłego rewidenta:
+
+banki, zakłady ubezpieczeń
+podmioty działające w oparciu o przepisy o obrocie papierami wartościowymi, przepisy o funduszach inwestycyjnych, przepisy o organizacji i funkcjonowaniu funduszy emerytalnych
+spółki akcyjne
+pozostałe podmioty, które w poprzednim roku obrotowym spełniły jeden z dwóch warunków
+średnioroczne zatrudnienie w przeliczeniu na pełne etaty osiągnęło co najmniej 50 osób
+suma aktywów bilansu na koniec roku obrotowego osiągnęła równowartość w walucie polskiej co najmniej 2,5 mln euro
+przychody netto ze sprzedaży towarów i produktów oraz operacji finansowych za rok obrotowy osiągnęły równowartość w walucie polskiej co najmniej 5 mln euro.
+
+Cel sprawozdania
+
+Sprawozdanie przedstawia zmiany w strukturze elementów, które składają się na kapitał własny oraz kierunek i skutki tych zmian, dostarcza informacji o sytuacji finansowej podmiotu gospodarczego. Prezentuje zmiany w zysku i stracie, źródłach finansowania kapitałami własnymi jednostki i ich przyczyny, przychodach i kosztach bezpośrednio związane z kapitałem zakładowym. 
+
+
+Schemat uproszczony sprawozdania
+
+I. Kapitał ( fundusz ) własny na początek okresu ( BO )'''.
+korekty błędów podstawowych
+zmiany przyjętych zasad ( polityki rachunkowości )
+
+I.A. Kapitał ( fundusz ) własny na początek okresu po korektach.
+Kapitał ( fundusz ) podstawowy na początek okresu
+Należne wpłaty na kapitał ( fundusz ) podstawowy na początek okresu
+Udziały (akcje) własne na początek okresu
+Kapitał ( fundusz ) zapasowy na początek okresu
+Kapitał ( fundusz ) z aktualizacji wyceny na początek okresu
+Pozostałe kapitały ( fundusz ) rezerwowe na koniec okresu
+Zysk ( strata ) z lat ubiegłych na początek okresu
+Wynik netto
+
+II. Kapitał ( fundusz ) własny na koniec okresu.
+
+III. Kapitał ( fundusz ) własny, po uwzględnieniu proponowanego podziału zysku ( pokrycia straty)'''.
+
+

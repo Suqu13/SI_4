@@ -1,0 +1,86 @@
+
+Bachem Ba 349 Natter (z niem. żmija) – niemiecki, eksperymentalny myśliwiec przechwytujący o napędzie rakietowym z okresu II wojny światowej, przeznaczony przede wszystkim do obrony obiektów, takich jak lotniska, bazy wojskowe itp. Zakładano, że będzie używany w podobny sposób do bezzałogowych rakiet ziemia-powietrze. Start następował z pozycji pionowej, ze specjalnej wyrzutni, dzięki czemu samoloty te nie potrzebowały lotnisk. Po wystartowaniu, maszyna przez większość czasu była sterowana przez obsługę naziemną za pomocą radia. Głównym celem samolotu było namierzenie wrogiego bombowca i zniszczenie go za pomocą pocisków rakietowych. Po wykonaniu zadania pilot oraz główny silnik rakietowy mieli wylądować na ziemi na oddzielnych spadochronach, natomiast drewniany kadłub ulegał zniszczeniu. Przeprowadzono tylko jeden załogowy lot próbny: odbył się on 1 marca 1945 roku. Zakończył się śmiercią pilotującego maszynę Lothara Siebera.
+
+Rozwój projektu
+W 1943 roku Luftwaffe zaczęła tracić posiadane do tej pory panowanie w powietrzu nawet na terenie samej III Rzeszy. Coraz częstsze naloty aliantów zmusiły Niemców do szukania nowych rozwiązań w dziedzinie obrony przeciwlotniczej, aby odeprzeć wrogie ataki. Krokiem w dobrą stronę wydawały się być rakiety ziemia-powietrze, co zaowocowało kilkoma projektami z nimi związanymi, jednak problemy z systemami naprowadzania oraz topieniem się pocisków ostatecznie przekreśliły szanse na szerokie ich zastosowanie w warunkach bojowych. Wyjściem z sytuacji mogła być rakieta, która byłaby sterowana przez pilota w krytycznym momencie, tuż przed uderzeniem w cel. Luftwaffe zgłosiło na nią zapotrzebowanie w początkach 1944 roku.
+
+Sporządzono kilka projektów; w większości z nich pilot znajdował się w pozycji leżącej, z twarzą zwróconą w kierunku spodu samolotu, aby powierzchnia z przodu maszyny była jak najmniejsza. Początkowo inspiracją projektu był Heinkel He P 1077 „Julia”, który startował z wyrzutni i lądował na płozie, tak samo jak Messerschmitt Me 163 „Komet”. 
+
+Projekt Ericha Bachema
+BP20 Zaprojektowany przez Ericha Bachema był rozwinięciem projektu, nad którym pracował on jeszcze w Gerhard Fieseler Werke GmbH i był bardziej innowacyjny od projektów konkurencyjnych. Był zbudowany z drewna, poszczególne części były ze sobą łączone za pomocą kleju i śrub, kokpit był opancerzony. Całość napędzana była przez silnik rakietowy Walter HWK 509A-2, podobny jeśli chodzi o konstrukcję do silnika montowanego w Me 163. Start wspomagały cztery dopalacze rakietowe Wilhelma Schmiddinga, wytwarzające łączny ciąg 47 kN przez 10 sekund, po których były odrzucane. Wyrzutnia, z której startował samolot, miała długość 25 metrów, dzięki czemu, opuszczając ją, maszyna rozwijała na tyle dużą prędkość, że mogła zadziałać aerodynamiczna sterownica pozwalająca jej lecieć prosto. 
+
+Po starcie kierowano lotem z ziemi za pomocą radia niemal do momentu, w którym samolot osiągnął pułap wrogiego bombowca- pilot przejmował stery w końcowej fazie lotu, aby skierować dziób w odpowiednim kierunku, a tym samym wycelować, odrzucić stożek ochronny i pociągnąć za spust, co powodowało wystrzelenie salwy rakiet (trzydziestu trzech pocisków R4M lub dwudziestu czterech Henschel Hs 117) zamontowanych w części nosowej samolotu, po czym samolot przelatywał nad wrogimi bombowcami aż do momentu, w którym kończyło mu się paliwo i taranował ogon bombowca tuż po wyskoczeniu pilota z kabiny ze spadochronem.
+
+Pomimo stopnia skomplikowania, przewagą projektu Bachema nad projektami konkurencyjnymi był fakt, że zaprojektowany przez niego samolot nie potrzebował lotniska które, jak pokazała historia Me 163, byłoby bardzo podatne na ataki wrogich bombowców.
+
+Modyfikacje
+Po tym, jak projektem zainteresował się Reichsführer SS Heinrich Himmler, Bachem zwyciężył w konkursie na projekt samolotu. Luftwaffe wprowadziła do projektu kilka zmian, aby zachować jak najwięcej cech samolotu, m.in. zrezygnowano z taranowania bombowców po odpaleniu rakiet.
+
+Zmodyfikowany samolot startował z wyrzutni długości 15 m. Podobnie jak w pierwotnej wersji, start wspomagały cztery rakiety Schmiddinga (tzw. JATO, wypalające się po 12 sekundach, w ciągu których główny silnik pracował już na pełnym ciągu, a prędkość była wystarczająca, aby maszyna była w pełni sterowna. Potem samolot był kontrolowany z ziemi za pomocą radia do momentu, aż znajdował się naprzeciw i powyżej wrogich bombowców. Następnie kontrolę przejmował pilot i szybując z dużą prędkością przechodził do ataku. Po odpaleniu uzbrojenia kontynuował zejście w dół aż do osiągnięcia wysokości 3000 m, na której „rozłamywał” się, gdy duży spadochron otwierał się w jego tylnej części, aby sprowadzić bezpiecznie na ziemię silnik, oddzielając ją od części przedniej z pilotem w środku. Następnie pilot wyskakiwał i lądował ze swoim własnym spadochronem. Nos oraz kadłub wraz z drewnianymi skrzydłami spadały na ziemię bez spadochronu i ulegały zniszczeniu.
+
+W zamku w Ummendorfie, koło Biberach an der Riß, naukowcy niemieccy z Technische Hochschule Aachen pod przewodnictwem profesora Wilhelma Fucksa za pomocą analogowego komputera obliczali właściwości aerodynamiczne „Natter”, silniki rakietowe wspomagające start były natomiast testowane w tym czasie w fabryce Bachem-Werke w Waldsee. Deutsche Versuchsanstalt für Luftfahrt (w skrócie DVL- Niemiecka Agencja Powietrznokosmiczna) w Brunszwiku testowała natomiast modele samolotu, które powstały we wczesnych etapach programu, w tunelach aerodynamicznych. Poinformowała ona Bachema, że właściwości lotne będą zadowalające, jeśli „Natter” będzie w stanie rozwinąć prędkość równą 0,95 Macha, czyli niemalże prędkość dźwięku, co w tamtych czasach było prędkością niemal nieosiągalną.
+
+Testy
+3 listopada 1944 roku odbył się pierwszy lot próbny z udziałem prototypu oznaczonego BP-20 M1, mającego wymiary finalnej wersji Ba 349, jednak niewyposażonego w silnik. Prototyp wraz z pilotującym go Erichem Klöcknerem został wyholowany na wysokość 3000 metrów przez bombowiec Heinkel He 111, aby sprawdzić, jak zachowuje się podczas szybowania. Pilot wyskoczył z samolotu zgodnie z planem. Po wylądowaniu stwierdził, że samolot dobrze znosi prędkości przewyższające 200 km/h i tylko sposób, w jaki zamontowane były linki od usterzenia, sprawiał kłopoty. 
+
+Inne testowane modele wyposażono w dodatkowe silniki dla przeprowadzenia testów startu i sterowania radiem. Wynik tych testów był zadowalający, jednak nie było szansy na ponowne użycie silnika, który uderzał w ziemię ze zbyt dużą szybkością.
+
+Do 27 stycznia 1945 roku wykonano kilka lotów próbnych, zarówno z załogą, jak i bez, podczas których prototypy szybowały po wyholowaniu na linie lub wyniesieniu na odpowiednią wysokość za pomocą Mistela. 18 grudnia 1944 przeprowadzono także bezzałogowy test pionowego startu z użyciem silników rakietowych. Odbył się on w Stetten am kalten Markt, na poligonie w bazie Lager Heuberg i również zakończył się powodzeniem. Projekt przeszedł także próby uzbrojenia. Fabrykę w Waldsee dzieliło od obozu Heuberg zaledwie 50 kilometrów.
+
+Pierwszy próbny lot załogowy
+
+W październiku 1944 rozpoczęto przygotowania do produkcji Ba 349A, a w ciągu następnych kilku miesięcy wystartowało ich 15. Podczas każdego startu nanoszono małe poprawki w stosunku do pierwotnego projektu, czego wynikiem było powstanie finalnej wersji przeznaczonej do produkcji - Ba 349B, którego testy rozpoczęto w styczniu 1945 roku.
+
+W lutym tego samego roku finansujące projekt SS uznało, że prace nad nim nie posuwają się wystarczająco szybko naprzód, żądając przeprowadzenia testu załogowego pod koniec miesiąca. Jedyny test tego rodzaju, jaki doszedł do skutku, odbył się 1 marca z użyciem modelu Ba 349A M23, pilotowanego przez Lothara Siebera. Próbę przeprowadzono ponownie na poligonie w Lager Heuberg koło Stetten am Kalten Markt. Lot rozpoczął się bezproblemowo, jednak po starcie jeden z czterech dodatkowych odrzucanych silników rakietowych wspomagających start nie odłączył się od samolotu zgodnie z planem, przez co maszyna wymknęła się spod kontroli. Na wysokości 500 metrów Sieber próbował wyskoczyć i odsunął osłonę kabiny. Drogą radiową otrzymał instrukcje, nakazujące mu dalsze próby zrzucenia zbędnego dopalacza, jednak stracił orientację pośród chmur. Z powodu unieruchomionego silnika nie otworzył się także spadochron, który miał sprowadzić główny silnik bezpiecznie na ziemię.
+W końcu „Natter” obrócił się i roztrzaskał o ziemię, zabijając pilota. Podejrzewa się, że Sieber spadając przekroczył barierę dźwięku.
+
+Oficjalnie przyczynę śmierci Siebera tłumaczono osłoną kabiny, która przed startem mogła po prostu nie zostać odpowiednio zatrzaśnięta. Zdjęcia wyretuszowano tak, aby ukryć fakt obecności radia FuG16 na pokładzie, przez które wydano Sieberowi rozkaz niewyskakiwania z samolotu. Podczas prac wykopaliskowych, prowadzonych w 1998 roku, odnaleziono pozostałości dopalacza.
+
+Spośród 36 wyprodukowanych „Natterów” 18 zostało użytych w testach bezzałogowych, a 2 rozbiły się razem z pilotującymi je pilotami: jeden podczas testów szybowania oraz jeden z Sieberem na pokładzie. 10 z pozostałych 16 zostało spalonych pod koniec wojny, 4 z nich przejęli Amerykanie, po jednym Rosjanie i Brytyjczycy. Jeden z czterech samolotów przejętych przez Amerykanów został wystrzelony w górę bez pilota z Muroc Army Air Base w 1946 roku. Miał rozbić się w okolicach Las Vegas.
+
+Spuścizna
+Wojska USA zajęły fabrykę w Waldsee w kwietniu 1945 roku, jednak niewielka część personelu fabryki uciekła, zabierając ze sobą dziesięć modeli Ba 349B. Wkrótce potem Amerykanie spotkali ich znowu i zdołali przejąć cztery „Nattery”; pozostałe sześć natomiast zostało spalonych.
+
+Według niektórych źródeł w Kirchheim unter Teck powstała niemiecka jednostka bojowa Ba 349, złożona z ochotników, która jednak nie wzięła udziału w działaniach bojowych. Zresztą brak bezsprzecznych dowodów na rzeczywiste istnienie takiej jednostki.
+
+Podczas ostatnich dni Wojny na Pacyfiku japońska firma Mizuno zaprojektowała na zlecenie Japońskiej Cesarskiej Marynarki Wojennej samolot podobny do „Nattera”- Mizuno Shinryu. Miał on być myśliwcem przechwytującym, przeznaczonym do wykonywania ataków samobójczych. Uzbrojenie stanowiłyby rakiety powietrze-powietrze montowane pod skrzydłami. Oprócz tego wewnątrz nosa maszyny miała być zamontowana głowica, która eksplodowałaby w chwili jej zderzenia z innym obiektem.
+
+Wyrzutnie w Kirchheim unter Teck
+W lesie Hasenholz koło miasta Kirchheim znajdowały się trzy wyrzutnie, które tworzyły trójkąt równoboczny. Odległość pomiędzy jedną wyrzutnią a drugą wynosiła w przybliżeniu 50 metrów. Do dziś można oglądać betonowe, okrągłe bazy, w których w przeszłości osadzone były wyrzutnie. Są one jedynymi pozostałościami większego kompleksu zabudowań, który powstał w 1945 roku do obsługi startów Ba 349. Pośrodku każdej bazy znajdował się kwadratowy otwór głębokości około 50 centymetrów, z którego w przeszłości wyrastała wyrzutnia. Poza tym każdy otwór jest jednocześnie rurą, wewnątrz której prawdopodobnie przeprowadzone były kable. Pozostałości po wyrzutniach w Hasenholz mogą być jedynymi takimi dostępnymi do oglądania dla osób postronnych, gdyż dawne miejsce testów w Badenii-Wirtembergii w Lager Heuberg koło Stetten am Kalten Markt wciąż jest terenem wojskowym, a więc niedostępnym dla turystów.
+
+
+
+Współrzędne wyrzutni:'''
+
+Ocalałe egzemplarze
+
+
+Do dzisiaj przetrwały trzy egzemplarze Ba 349A. Dwa z nich można znaleźć w USA: jeden, przejęty przez Amerykanów pod koniec wojny, po czym przetransportowany do Freeman Field w stanie Indiana w celu jego zbadania. Jako przejętemu, zagranicznemu sprzętowi wojskowemu nadano mu oznaczenie T2-1. Obecnie, odrestaurowany, znajduje się na wystawie w Steven F. Udvar-Hazy Center będącego częścią Smithsonian Institution koło Waszyngtonu.
+
+Amerykańskie Siły Powietrzne przewiozły drugi samolot do The National Air Museum (obecnie The National Air & Space Museum) 1 maja 1949 roku. Przez wiele lat przechowywany był w należącym do muzeum Paul E. Garber Preservation, Restoration, and Storage Facility w Suitland w stanie Maryland, zanim całkowicie go odrestaurowano. Był jednym z pierwszych samolotów przeniesionych do nowego centrum w 2004 roku.
+
+Trzeci z zachowanych Ba 349 wciąż znajduje się, nieodrestaurowany, w Paul E. Garber Preservation, Restoration, and Storage Facility, jednak nie wiadomo, jakie są plany dotyczącego jego odrestaurowania.
+
+
+
+Bibliografia
+Ford, Brian. German Secret Weapons: Blueprint for Mars (Ballantine's Illustrated History of World War II, Weapons Book No.5). New York: Ballantine Books, 1969. ISBN 3-89555-087-6.
+Gooden, Brett A. Projekt Natter, Last of the Wonder Weapons: The Luftwaffe's Vertical Take-Off Rocket Interceptor. Crowborough, UK: Classic Publications, 2006. ISBN 1-903223-62-8.
+Green, William. Warplanes of the Third Reich. London: Macdonald and Jane's Publishers Ltd., 1970 (Fourth impression 1979). ISBN 0-356-02382-6.
+Green, William. Rocket Fighter (Ballantine's Illustrated History of World War II, Weapons Book No.20). New York: Ballantine Books, 1971. ISBN 0-345-25893-2.
+Lommel, Horst. Der erste bemannte Raketenstart der Welt (in German). Stuttgart, Germany: Motorbuch Verlag, 2nd edition 1998. ISBN 3-613-01862-4.
+Lommel, Horst. Das bemannte Geschoß Ba 349 "NATTER" : Die Technikgeschichte (in German). Saarbrücken, Germany: VDM Publishing, ISBN 3-925480-39-0.
+Lommel, Horst. Vom Höhenaufklärer bis zum Raumgleiter - Geheimprojekte der DFS 1935 – 1945'' (in German). Stuttgart, Germany: Motorbuch Verlag, 2000. ISBN 3-613-02072-6.
+Maloney, Edward T. Kamikaze: The Okha Suicide Flying Bomb, Bachem Ba 349A "Natter" and Fzg 76 "Reichenberg" (Aero Series 7)''. Fallbrook, CA: Aero Publishers Inc., 1966.
+Miranda, J. and Mercado, P. Vertical Takeoff Fighter Aircraft of the Third reich (Luftwaffe Profile Series No.17)''. Atglen, PA: Schiffer Publishing, 2001. ISBN 0-7643-1435-1.
+Myhra, David. Bachem Ba 349 Natter (X-Planes of the Third Reich)''. Atglen, PA: Schiffer Publishing, 1999. ISBN 0-7643-1032-1.
+
+Linki zewnętrzne
+Zobacz też
+Messerschmitt Me 163
+
+
+
+
+
+

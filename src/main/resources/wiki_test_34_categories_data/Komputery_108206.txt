@@ -1,0 +1,33 @@
+
+Krajowy Klaster Linuksowy (CLUSTERIX - ang. National CLUSTER of LInuX Systems) - rozproszony ogólnopolski system komputerowy, umożliwiający wspólne wykorzystanie zasobów polskich centrów komputerowych. Został uruchomiony 15 grudnia 2004 r. Wykorzystywany jest m.in. do badań naukowych w zakresie: modelowania zjawisk (np. termomechanicznych), złożonych symulacji (np. przepływu krwi), wizualizacji czy przewidywania struktur białek.
+
+Uruchomienie
+
+
+
+Uroczystość uruchomienia Krajowego Klastra Komputerowego odbyła się 15 grudnia 2004 r. w Pałacu Prezydenckim w Warszawie w obecności Prezydenta RP Aleksandra Kwaśniewskiego oraz Ministra Nauki i Informatyzacji prof. Michała Kleibera.
+
+Budowa
+Clusterix został zbudowany w architekturze grid, przez połączenie centrów siecią optyczną PIONIER. Dostawcami sprzętu były firmy: Optimus S.A., Hewlett-Packard i ATM S.A.. W momencie uruchomienia dysponował mocą 802 procesorów Intel Itanium 2, a jego wydajność wynosiła 4,4 TFLOPS, co postawiłoby go na 35 miejscu listy najwydajniejszych systemów komputerowych świata TOP500 (na liście umieszczane są jednak tylko pojedyncze instalacje).
+
+Klaster połączył centra obliczeniowe znajdujące sie w dwunastu polskich ośrodkach akademickich:
+Politechnika Białostocka
+Politechnika Częstochowska
+Centrum Informatyczne Trójmiejskiej Akademickiej Sieci Komputerowej TASK
+Politechnika Łódzka 
+Uniwersytet Marii Curie-Skłodowskiej w Lublinie 
+Akademickie Centrum Komputerowe CYFRONET AGH 
+Uniwersytet Opolski 
+Poznańskie Centrum Superkomputerowo-Sieciowe 
+Politechnika Szczecińska 
+Politechnika Warszawska 
+Wrocławskie Centrum Sieciowo-Superkomputerowe, Politechnika Wrocławska
+Uniwersytet Zielonogórski
+
+Zobacz też
+Zeus (superkomputer)
+Galera (superkomputer)
+
+
+
+Linki zewnętrzne

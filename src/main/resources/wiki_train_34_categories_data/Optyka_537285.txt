@@ -1,0 +1,7 @@
+Oś optyczna jest to kierunek w krysztale dwójłomnym, wzdłuż którego światło biegnąc porusza się z tą samą prędkością niezależnie od kierunku polaryzacji. Jest to związane z tym, że współczynnik przenikalności elektrycznej ε i  współczynnik załamania światła n, są równe dla kierunków polaryzacji prostopadłych do osi optycznej. Jeśli światło porusza się wzdłuż osi optycznej nie następuje rozszczepienie wiązki światła na dwie – (promień zwyczajny i nadzwyczajny).
+
+W kryształach może występować jedna lub dwie osie optyczne. Nazywamy je wtedy odpowiednio jednoosiowymi lub dwuosiowymi.
+
+Zobacz też: dwójłomność
+
+

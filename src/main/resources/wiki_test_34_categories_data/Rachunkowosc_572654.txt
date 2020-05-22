@@ -1,0 +1,11 @@
+Konwersja jednostek uczestnictwa funduszu inwestycyjnego – operacja, przy pomocy której na podstawie jednego zlecenia w danym dniu, po cenach obowiązujących w tym dniu, dokonuje się umorzenia jednostek uczestnictwa w jednym funduszu inwestycyjnym, a za uzyskane w ten sposób środki nabywa się jednostki uczestnictwa w innym funduszu inwestycyjnym zarządzanym przez to samo towarzystwo funduszy inwestycyjnych (TFI).
+
+Dokonanie konwersji jednostek uczestnictwa może podlegać opłacie dystrybucyjnej lub opłacie za konwersję. Przy umorzeniu powstaje obowiązek zapłacenia podatku od dochodów kapitałowych. Do nowego funduszu inwestycyjnego przenoszona jest więc kwota pomniejszona o wartość podatku. Inaczej jest w przypadku zamiany jednostek uczestnictwa subfunduszy funkcjonujących w ramach tego samego funduszu z wyodrębnionymi subfunduszami (funduszu parasolowego). Umorzenie jednostek uczestnictwa jednego subfunduszu i nabycie za uzyskane w ten sposób środki jednostek uczestnictwa innego, nie powoduje powstania obowiązku podatkowego.
+
+
+
+Bibliografia
+Ustawa o podatku dochodowym od osób fizycznych, Dz.U. 1991 nr 80 poz. 350 (z późn. zm.).
+
+
+

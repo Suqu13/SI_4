@@ -1,0 +1,11 @@
+
+Teleskop Gregory’ego – rodzaj teleskopu zwierciadlanego.
+
+Jego nazwa pochodzi od nazwiska projektanta, szkockiego matematyka i astronoma Jamesa Gregory’ego, żyjącego w XVII wieku. Projekt swojego teleskopu opisał on w 1663 w dziele Optica Promota (z łac. postęp optyki). Pierwsze próby zbudowania instrumentu w oparciu o te plany nie powiodły się. Po 10 latach, dzięki pomocy Roberta Hooke’a, udało się zbudować działający teleskop. Projekt Gregory’ego wyprzedzał czasowo podobny teleskop Isaaca Newtona. Newton jednak zbudował swój teleskop wcześniej, w 1670.
+
+Teleskop Gregory’ego składa się z dwóch wklęsłych zwierciadeł; głównego paraboloidalnego, które zbiera światło i skupia je na drugim zwierciadle elipsoidalnym, które z kolei odbija światło do otworu znajdującego się w środku zwierciadła głównego, gdzie znajduje się okular. Obraz z teleskopu jest nieodwrócony, co czyni go użytecznym przy obserwacjach naziemnych.
+
+Układ Gregory’ego ma tę wadę w porównaniu z układem Cassegraina, że potrzebuje dłuższego tubusu teleskopu przy takiej samej długości ogniskowej. Jego zaletą jest to, że daje prosty (nieodwrócony) obraz. Wykonanie wklęsłego zwierciadła wtórnego jest też łatwiejsze, niż zwierciadła wypukłego (m.in. ze względu na możliwość badania jego kształtu metodą cieniową). Teleskopy Gregory’ego zostały prawie całkowicie wyparte przez teleskopy Cassegraina. Jednym ze współczesnych przykładów jego zastosowania jest optyczny teleskop zamontowany na japońskim satelicie Hinode.
+Układ Gregory’ego jest również stosowany poza optyką do budowy układów anten mikrofalowych o dużej aperturze, np. anten radioteleskopów, anten dwustronnej łączności satelitarnej i głębokiego kosmosu z sondami międzyplanetarnymi.
+
+Linki zewnętrzne

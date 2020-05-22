@@ -1,0 +1,19 @@
+
+Widmo optyczne (spektrum) – obraz uzyskany w wyniku rozłożenia światła niemonochromatycznego na składowe o różnych długościach fal (różnych barwach), np. za pomocą pryzmatu lub siatki dyfrakcyjnej.
+
+Widmo optyczne może być:
+emisyjne – powstałe w wyniku rozszczepienia światła emitowanego bezpośrednio ze źródła
+absorpcyjne – powstałe po rozszczepieniu światła, które przeszło przez ośrodek selektywnie absorbujący światło
+odbiciowe – powstałe w wyniku rozszczepienia światła, które wcześniej zostało selektywnie odbite
+
+Widmo optyczne liniowe ma postać jasnych, barwnych prążków na ciemnym tle (emisyjne) lub ciemnych prążków na tle widma ciągłego (absorpcyjne). Na podstawie analizy widma optycznego można stwierdzić obecność pierwiastków chemicznych i związków chemicznych, gdyż emitują lub absorbują one światło powodując powstanie charakterystycznych linii lub pasm w widmach optycznych. Analizowaniem tego rodzaju widm zajmuje się spektroskopia.
+
+Nazwy barw czystych
+Wyliczenie barw czystych: najdłuższym falom odpowiada barwa czerwona, następnie pomarańczowa, zółtawopomarańczowa (barwa żółta odpowiada niemal ściśle określonej częstotliwości), zielonożółta, żółtozielona, żółtawozielona, zielona, niebieskozielona, zielonkawoniebieska, niebieska, fioletowa, a najkrótszym falom barwa purpurowoniebieska. Mieszaninie fal najdłuższych i najkrótszych odpowiadają (wg malejącego udziału fal krótkich): barwa purpurowa, czerwonawopurpurowa, czerwonopurpurowa, purpurowoczerwona, i wreszcie dla dosyć dużego udziału fal długich barwa czerwona. Poza tym barwa różowa to rozjaśniona czerwona i purpurowoczerwona, a purpuroworóżowa to rozjaśniona czerwonopurpurowa.
+
+Linki zewnętrzne
+Zobacz też
+linie spektralne
+widmo (spektroskopia)
+
+

@@ -1,0 +1,17 @@
+Tux Racer – gra komputerowa wydana na zasadach licencji GPL działająca w systemach GNU/Linux, Microsoft Windows oraz Mac OS X. Silnik gry jest oparty na bibliotece OpenGL.
+
+Opis gry
+W grze będziemy kierować pingwinem, którego zadaniem jest zjedzenie jak największej liczby ryb podczas zjazdu ze stoku na własnym brzuchu. W grze liczy się również czas pokonania trasy.
+
+Dostępne są dwa tryby gry: trening - tu są dostępne wszystkie mapy i możemy na nich jeździć do woli, i turniej - tu zaś na każdej mapie trzeba osiągnąć minimum, aby dostać "przepustkę" do następnej planszy. Jeśli tego nie osiągniemy, to powtarzamy planszę. W całym turnieju można tylko cztery razy powtórzyć planszę.
+
+Dostępnych jest kilka dobrze zaprojektowanych plansz, na każdej jest wiele przeszkód i rozwidleń, dzięki czemu możemy - po części - sami wybrać trasę, jaką będziemy pędzić.
+
+Jeżeli w chwili gdy pingwin leci w powietrzu naciśniemy klawisz "d", zacznie on wykonywać ewolucje powietrzne, którymi sterujemy za pomocą strzałek na klawiaturze.
+
+Kontynuacje Tux Racera
+Ostatnią wersją dostępną na licencji GNU GPL jest 0.61, następne są wydawane pod tą samą nazwą, ale na zamkniętej licencji. Zgodnie z prawem, kod źródłowy Tux Racera 0.61 jest jednak nadal dostępny i posłużył jako baza dla projektów PPRacer (PlanetPenguin Racer) oraz OpenRacer. 
+
+Mimo że Open Racer powstał wkrótce po zamknięciu źródeł oryginału (2001), długo nie był praktycznie aktywny. Znacznie od niego młodszy PPRacer (2004) nie tylko szybko wprowadził zmiany w kodzie, ale też, w przeciwieństwie do Open Racera, jest używalny.
+
+Linki zewnętrzne

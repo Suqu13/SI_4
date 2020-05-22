@@ -1,0 +1,14 @@
+Pułapka inflacyjna – zjawisko gospodarcze, polegające na realnym obniżeniu wartości osiąganych dochodów części płatników podatków na skutek niedopasowania wysokości progów podatkowych do tempa waloryzacji wynagrodzeń.
+
+Pułapka inflacyjna może zaistnieć w krajach wykorzystujących progresywną skalę podatkową na skutek celowego działania lub niedopatrzenia władz publicznych, przy równocześnie występującej wysokiej inflacji. Władze państwowe dokonując waloryzacji wynagrodzeń, adekwatnie do poziomu inflacji, nie wprowadzają korekty wysokości progów podatkowych, przez co część płatników podatków wstępuje na wyższy próg podatkowy, co skutkuje realnym obniżeniem wartości ich dochodów.
+
+Przykład
+Jan Kowalski pracuje w instytucji publicznej – urzędzie miejskim – w której obowiązuje roczna waloryzacja wynagrodzeń o poziom inflacji. W roku podatkowym 2007 zarobił on 43 402,70 PLN brutto, co oznacza, że płaci podatek według stawki 19%. Ponadto obowiązuje kwota zmniejszenia podatku – 572,54 zł. Na początku roku 2008 Główny Urząd Statystyczny ogłosił, że inflacja w Polsce w 2007 roku wyniosła 2,6% i o tyle nominalnie wzrosła pensja Kowalskiego, dzięki czemu zarobi on 44 487,77 PLN brutto, a przez to część jego dochodów (nadwyżka nad próg) zostanie opodatkowana według stawki 30%.
+
+
+
+Jeżeli nie zostaną przesunięte progi podatkowe, a kwota zmniejszenia pozostanie na dotychczasowym poziomie, wówczas roczny dochód netto Jana Kowalskiego zwiększy się o 759,8 PLN i daje to nominalny wzrost o 2,127%. Przy ogólnym wzroście cen dóbr i usług na poziomie 2,6% oznacza to jednak spadek realnej wartości dochodów Kowalskiego o prawie 0,5 punktu procentowego.
+
+Im większa inflacja, tym bardziej dotkliwe jest zjawisko pułapki inflacyjnej.
+
+Bibliografia

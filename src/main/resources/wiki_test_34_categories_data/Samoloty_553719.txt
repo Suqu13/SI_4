@@ -1,0 +1,32 @@
+
+Myśliwiec przechwytujący – rodzaj samolotu myśliwskiego przystosowany przede wszystkim do przechwytywania i zwalczania innych samolotów, głównie bombowców, nad własnym terytorium lub przed jego osiągnięciem. 
+
+Klasa ta podlegała zasadniczym zmianom w toku swojego rozwoju, lecz zazwyczaj różniła się od innych myśliwców bogatszym wyposażeniem do wykrywania celów powietrznych i słabym przystosowaniem do zwalczania celów naziemnych lub jego brakiem. Obecnie klasa myśliwców przechwytujących w dużym stopniu zanikła, wraz z rozwojem wielozadaniowych samolotów myśliwskich i zmniejszeniem się roli bombowców.
+
+Historia rozwoju
+Początki koncepcji myśliwców przechwytujących powstały w okresie międzywojennym, wraz z rozwojem teorii o strategicznej funkcji lotnictwa bombowego (m.in. teoria Douheta). Do walki z nadlatującymi bombowcami przewidywano samoloty myśliwskie o dużej szybkości wznoszenia i prędkości, za to słabszej manewrowości. 
+
+Mimo tego podczas II wojny światowej w zasadzie nie powstały wyspecjalizowane myśliwce przechwytujące, poza odrębną klasą myśliwców nocnych, a do walki z bombowcami używano zwykłych myśliwców dziennych. Do wyjątków należały samoloty specjalnie projektowane w celu przechwytywania dziennych wypraw bombowych, jak niemiecki myśliwiec o napędzie rakietowym Me 163 Komet oraz inne niemieckie projekty końcowego okresu wojny. Budowano także specjalne wersje dziennych myśliwców, jak wysokościowe – do przechwytywania samolotów rozpoznawczych latających na dużym pułapie oraz opancerzone wersje myśliwców Fw 190, przystosowywane do ataków na bombowce, niebędące jednak myśliwcami przechwytującymi. 
+
+
+
+Rozwój myśliwców przechwytujących nastąpił dopiero po zakończeniu II wojny światowej - od końca lat 40. i na początku lat 50., wraz z upowszechnieniem się na samolotach pokładowych stacji radiolokacyjnych, umożliwiających wykrycie celu spoza zasięgu obserwacji i w miarę precyzyjne naprowadzenie samolotu na cel. Klasa myśliwców przechwytujących wyewoluowała z wyposażonych w radary myśliwców nocnych, w miarę wzrostu ich osiągów, umożliwiających prowadzenie walki także w dzień, przy zagrożeniu ze strony myśliwców przeciwnika. Wzrost ten umożliwiło zastosowanie jako napędu silników odrzutowych oraz zmniejszanie się rozmiarów urządzeń elektronicznych. 
+
+Samoloty te, zazwyczaj dwumiejscowe (pilot i operator radaru), rzadziej jednomiejscowe, klasyfikowane były jako "myśliwce do działania w każdych warunkach atmosferycznych" (ang. all-weather fighter) lub przechwytujące. Uzbrojenie myśliwców przechwytujących początkowo stanowiły jedynie działka, później także kierowane pociski rakietowe, czasami mogły one także atakować cele naziemne, podobnie jak dzienne myśliwce. Często miały mniejszy zasięg od zwykłych myśliwców, wystarczający do pełnienia zadań obrony punktowej obiektów, jak miasta lub bazy wojskowe (ang. point defence interceptor). W tym okresie zwykłe myśliwce dzienne na ogół nie posiadały jeszcze radarów ani kierowanych pocisków rakietowych. 
+
+
+
+W miarę dalszego postępu w elektronice i uproszczenia obsługi radaru, od końca lat 50. radary zaczęły wchodzić jako coraz częstsze wyposażenie zwykłych jednomiejscowych myśliwców, mogących wówczas wykrywać cele w każdych warunkach pogodowych. Jednocześnie na uzbrojenie samolotów weszły powszechnie kierowane pociski rakietowe. Czasami te same typy samolotów były używane zarówno jako myśliwce przechwytujące i myśliwce taktyczne (np. MiG-21, F-104). 
+
+Jednak w dalszym ciągu budowano myśliwce przechwytujące, jako samoloty specjalnie dostosowanych do zwalczania celów powietrznych. W odróżnieniu od zwykłych myśliwców, dostosowanych do toczenia manewrowych walk powietrznych w rejonie frontu (uzyskiwania przewagi powietrznej) i wspierania wojsk naziemnych, myśliwce przechwytujące tego okresu przeznaczone były głównie do obrony ważnych punktów lub obszarów i do zwalczania samolotów za pomocą pocisków rakietowych średniego i dalekiego zasięgu (wczesne pociski rakietowe powietrze-powietrze nadawały się zresztą lepiej do zwalczania mało manewrujących celów w rodzaju bombowców, niż do walk manewrowych z myśliwcami, w których wciąż używano działek). 
+
+Oprócz zanikających jako odrębna klasa myśliwców przechwytujących obrony punktowej, pojawiły się nowe wyspecjalizowane myśliwce przechwytujące obrony obszaru (ang. area defence interceptor), przeznaczone głównie do obrony obszaru państwa przed bombowcami strategicznymi przenoszącymi broń atomową. Były one rozwijane zwłaszcza w USA, Kanadzie i ZSRR, w związku z możliwością ataku lotnictwa strategicznego ze strony rozległych obszarów północnych, ze słabo rozwiniętą siecią posterunków radiolokacyjnych i rakiet przeciwlotniczych. Istotne było poza tym przechwycenie bombowców z dala od bronionych celów, zwłaszcza po dostosowaniu bombowców do roli nosicieli pocisków kierowanych, odpalanych z pewnej odległości. W krajach tych myśliwce przechwytujące były używane przez wydzielone z lotnictwa rodzaje wojsk obrony powietrznej lub odrębne dowództwa obrony powietrznej. Miały one lepsze osiągi, większy zasięg i bardziej zaawansowane wyposażenie elektroniczne, w tym radary o większym zasięgu wykrywania, specjalizowane do zwalczania celów powietrznych, natomiast słabo nadawały się do walk manewrowych i z reguły nie były dostosowane do zwalczania celów naziemnych. 
+
+Były to w tym okresie samoloty jedno- lub dwumiejscowe, zazwyczaj większe i cięższe od zwykłych myśliwców. Często mogły współpracować w systemie przechwytywania, wykorzystując informacje z samolotów wczesnego ostrzegania (AEW i AWACS) i ośrodków naprowadzania naziemnego. Przykłady myśliwców przechwytujących z tego okresu, to Convair F-106 Delta Dart, Su-9, Su-15, Tu-128, F-14 Tomcat (będący samolotem obrony punktowej zespołów floty). Ewenementem było używanie przez niektóre myśliwce USA pocisków rakietowych z głowicami jądrowymi, do niszczenia formacji bombowców.
+
+Rozwój techniki rakietowej w latach 60. spowodował spadek zagrożenia ze strony bombowców strategicznych i tym samym spadek znaczenia myśliwców przechwytujących obrony obszaru. Wraz z rozwojem myśliwców wielozadaniowych, dysponujących dużymi możliwościami wykrywania i zwalczania celów powietrznych na średnich odległościach, w połączeniu z możliwością toczenia manewrowych walk i wspierania wojsk naziemnych, około lat 80. odrębna klasa myśliwców przechwytujących w dużym stopniu zanikła. Obecnie używane są już nieliczne konstrukcje wyspecjalizowane jako myśliwce przechwytujące (MiG-31, do 2009 Panavia Tornado ADV).
+
+Bibliografia
+
+
+

@@ -1,0 +1,17 @@
+MCLOS (skrót od Manual Command to Line of Sight – ręczne kierowanie po linii obserwacji) – metoda naprowadzania pocisków kierowanych pierwszej generacji.
+
+Metoda ta polega na ręcznym naprowadzaniu pocisku na cel. Operator po odpaleniu pocisku obserwuje jego tor lotu oraz cel i steruje pociskiem (np. z użyciem joysticka) w taki sposób, aby obserwowany cel i pocisk znalazły się w jednej linii względem operatora. Wszelkie odchylenia lotu pocisku korygowane są przez operatora ręcznie. W celu efektywnego użycia pocisków kierowanych w ten sposób, niezbędna jest możliwość obserwowania przez operatora celu jak i pocisku (który w tym celu wyposażony jest w źródło światła ułatwiające dostrzeżenie pocisku).
+
+Pociski kierowane metodą MCLOS
+VB-1 Azon
+Ruhrstahl SD 1400 X
+Henschel Hs 293
+Wasserfall
+Nord SS.11
+Blowpipe
+9M14 Malutka
+
+Zobacz też
+SACLOS
+
+

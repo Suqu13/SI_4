@@ -1,0 +1,25 @@
+
+
+
+Radioteleskop – teleskop do obserwacji odległych obiektów astronomicznych z wykorzystaniem fal radiowych. W odróżnieniu od teleskopu optycznego, który pozwala na badanie wyłącznie światła docierającego do Ziemi, radioteleskop umożliwia odbiór szerszego zakresu sygnałów. Wiele obiektów astronomicznych przesłania pył, który jednak nie pochłania fal radiowych. Jednocześnie radioteleskopy mogą być łączone w większe układy, dzięki czemu ich czułość i rozdzielczość kątowa wzrasta.
+
+Konstrukcja radioteleskopu może składać się z parabolicznej czaszy czyli reflektora skupiającego fale radiowe w ognisku, w którym umieszczony jest odbiornik radiowy. Ze względu na konieczną czułość odbiorniki używane w radioastronomii mają postać izolowanego zbiornika wypełnionego aparaturą pomiarową chłodzoną np. ciekłym helem. Dzięki takiej konstrukcji udaje się zredukować szum we wzmacniaczach sygnałów. Odebrane dane są przesyłane światłowodami do centrum obliczeniowego. Tam naukowcy poddają je analizie opartej np. na transformacie Fouriera, dzięki czemu mogą badać wysyłające je obiekty.
+
+Najsłynniejszym radioteleskopem jest radioteleskop w Arecibo znajdujący się w Portoryko. Innym znanym radioteleskopem jest Very Large Array w USA, w stanie Nowy Meksyk niedaleko miasta Socorro. Największy radioteleskop w Europie o średnicy 100 m zbudowano w Effelsbergu w Niemczech, który wchodzi w skład Europejskiej Sieci VLBI. Większość radioteleskopów ma średnicę około 25 m.
+
+Radioteleskopy obserwujące niektóre zakresy mikrofal muszą być umieszczane w kosmosie, bo atmosfera Ziemi pochłania to promieniowanie. Przykładem może być tutaj sonda WMAP, która obserwuje niejednorodności promieniowania tła.
+
+W Polsce największy radioteleskop znajduje się w Piwnicach niedaleko Torunia. Ma on średnicę 32 metrów i do badań wykorzystuje go Katedra Radioastronomii Uniwersytetu Mikołaja Kopernika.
+
+W kosmosie istnieją bardzo egzotyczne obiekty, które da się obserwować tylko przez radioteleskop. Jednym z przykładów mogą być tutaj pulsary. Są to gwiazdy wysyłające bardzo regularne impulsy. Dzięki zrozumieniu natury tych obiektów możliwe jest lepsze poznanie podstawowych praw fizyki.
+
+Radioteleskopy są też jedynym narzędziem pozwalającym na odbieranie wiadomości z kosmosu. Od wielu lat radioteleskopy odbierają sygnały od sond kosmicznych badających Układ Słoneczny.
+
+Niektórzy astronomowie usiłują wykorzystać fale radiowe do komunikacji z istotami inteligentnymi, mogącymi żyć na innych planetach. Najbardziej znany jest tutaj program SETI, w ramach którego bada się fale radiowe docierające do Ziemi z najbliższych gwiazd. Jak dotąd takiego kontaktu nie nawiązano.
+
+Zobacz też
+EVN
+Atacama Large Millimeter Array
+
+Linki zewnętrzne
+

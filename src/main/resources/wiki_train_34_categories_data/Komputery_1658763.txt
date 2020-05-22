@@ -1,0 +1,8 @@
+MK 45''' – 8-bitowy mikrokomputer przeznaczony do prac biurowych produkowany od 1984 w MERA-KFAP w Krakowie pracujący pod nadzorem systemu operacyjnego CP/M 2.2.
+
+Typowa konfiguracja składała się z jednostki centralnej z procesorem MCY7880 (Intel 8080), monitora ekranowego Neptun 156, podwójnego napędu dyskietek elastycznych 8 calowych, drukarki mozaikowej MERA DZM 180, klawiatury.
+
+Cena w 1987r. kompletu ze stacją dyskietek 2x8" 1 500 000 zł.
+
+
+Linki zewnętrzne

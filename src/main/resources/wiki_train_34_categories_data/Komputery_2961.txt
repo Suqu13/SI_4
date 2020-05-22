@@ -1,0 +1,115 @@
+[[Plik:Personal computer, exploded.svg|thumb|300px|Podstawowe komponenty komputera osobistego:
+1) [[Monitor komputera|Monitor]]
+2) [[płyta główna]] 
+3) [[procesor]] (CPU)
+4) [[pamięć operacyjna]] (RAM)
+5) [[karta rozszerzenia]]
+6) [[zasilacz komputera|zasilacz]]
+7) [[napęd optyczny]] ([[płyta kompaktowa|CD]], [[DVD]] itp.)
+8) [[dysk twardy]] (HDD/SSD)
+9) [[mysz komputerowa|mysz]]
+10) [[klawiatura komputerowa|klawiatura]]]]
+Komputer osobisty (ang. personal computer) – mikrokomputer przeznaczony przede wszystkim do użytku osobistego  w domu i biurze. Służy głównie do uruchamiania oprogramowania biurowego, dostępu do zasobów Internetu, prezentacji treści multimedialnych (tekst, obrazy, dźwięki, filmy i inne), jak i gier.
+
+W Polsce zdecydowana większość komputerów osobistych to konstrukcje różnych producentów (lub składane samodzielnie przez użytkowników) oparte na procesorze x86 i systemie operacyjnym z serii Microsoft Windows lub Linux. Z powodów historycznych nazywane są pecetami ze względu na zgodność z IBM-PC. Poza tym są jeszcze komputery Mac firmy Apple oraz maszyny SPARC firm Sun Microsystems i Fujitsu.
+
+Inne zastosowania
+Wraz ze wzrostem mocy obliczeniowych komputerów osobistych stało się możliwe wykorzystanie ich w roli stacji roboczych i małych serwerów. Niska cena, jak i dostępność oprogramowania na licencjach FLOSS zachęciła niektórych do budowania na ich podstawie klastrów komputerowych. Dość popularne stały się też rozproszone obliczenia (na przykład w projektach typu SETI@home) oraz grid.
+
+Narodziny komputera osobistego
+
+Idea komputerów osobistych zrodziła się na początku lat 70. Nie do końca jest jasne, który z komputerów można uznać za pierwszą tego typu maszynę. O palmę pierwszeństwa kłócą się tu Xerox, Hewlett-Packard oraz IBM. Jest tu polski akcent, zapomniana maszyna o nazwie K-202 zaprojektowana przez Jacka Karpińskiego i wyprodukowana w liczbie 30 szt. Wielkością nawet przypominała późniejsze PC-ty i nie ustępowała im prędkością obliczeniową była to jednak dopiero niedokończona próba realizacji idei komputera osobistego.  Wydaje się, iż pierwszym komputerem osobistym (PC) powszechnie uznanym przez "świat zachodni" była konstrukcja firmy MITS nazwana Altair 8800 – zaprezentowana przez Eda Robertsa i Billa Gatesa w styczniowym wydaniu Popular Electronics Magazine (1975). Sama nazwa Altair może pochodzić z dwóch różnych źródeł – albo odnosi się do gwiazdy o takiej nazwie lub też została zaczerpnięta z wczesnych odcinków serialu "Star Trek".
+
+
+Niewątpliwym faktem jest natomiast to, że pierwszym masowo produkowanym tego rodzaju komputerem, który faktycznie dotarł "pod strzechy" był Apple I. Intensywny rozwój komputerów osobistych rozpoczął się w 1981 roku, kiedy to Apple II sprzedawany wraz z prostym edytorem tekstów – AppleWrite oraz arkuszem kalkulacyjnym VisiCalc, stał się faktycznie pożytecznym narzędziem przydatnym w prostych pracach biurowych. Rynek ten zauważył wtedy IBM, który dodał do idei prostej i taniej architektury Apple'a ideę otwartej architektury budowy komputera i 12 sierpnia 1981 wprowadził na rynek swój pierwszy komputer PC 5150 z 16 kB pamięci operacyjnej, a 8 marca 1983 masowo produkowany komputer osobisty IBM PC/XT, od którego wywodzi się cała rodzina komputerów klasy PC.
+
+Graficzny interfejs użytkownika
+
+Kolejnym krokiem rozwoju było przejście w komputerach osobistych z tekstowego interfejsu użytkownika (ang. Command Line Interface, skrót CLI) do interfejsu graficznego (ang. Graphical User Interface, skrót GUI), który razem z myszą znacznie ułatwił obsługę tych maszyn. 
+
+Pierwotnym wynalazcą GUI i myszki była firma Xerox, która jednak nie zdecydowała się na wejście na rynek komputerów osobistych i sprzedała prawa do swojego wynalazku firmie Apple. Apple rozwinął tę ideę i w 1983 roku wyprodukował swój pierwszy komputer z GUI o nazwie Lisa, a następnie w roku 1984 – Macintosh, który osiągnął niebywały sukces handlowy. W roku 1985 firmy Commodore i Atari zaprezentowały swoje modele komputerów – Amiga 1000 oraz Atari 260ST posiadające własne GUI.
+
+Dominacja komputerów klasy PC
+Pod koniec lat 80. i w pierwszej połowie lat 90. największy sukces odniosły komputery zgodne z IBM PC, z procesorami Intela klasy x86 i działające pod kontrolą systemów operacyjnych Microsoftu - początkowo DOS, a w późniejszym czasie Windows. Obecnie przeważająca większość komputerów osobistych na świecie to PC-ty pracujące pod kontrolą systemu Windows 7. Taka platforma jest czasami określana jako Wintel (portmanteau Windows+Intel; na tej samej zasadzie nowa seria komputerów Mac z procesorami Intela bywa nazywana Mactel).
+
+Typy komputerów osobistych
+
+Plik:2014 Modding komputera 04.jpg|desktop
+Plik:Benq joybook transparent.png|laptop
+Plik:Asus Eee proportions.png|netbook
+Plik:Palm TX.JPG|palmtop
+Plik:Zinglife 10" Android Tablet.jpg|tablet
+
+stacjonarne:
+stacja robocza - wysokiej klasy komputer o wyższej wydajności niż biurowy desktop
+desktop – czyli komputer, którego raczej się nie przenosi tylko trzyma w jednym miejscu na stałe, zwykle na biurku (stąd angielska nazwa desktop – na biurko)
+nettop - miniaturowy komputer przeznaczony do wykonywania podstawowych zadań
+przenośne:
+laptop (notebook)''' (z ang. na kolanach, na podołku) – komputer przenośny, ze zintegrowaną klawiaturą i monitorem tworzącymi jedną całość
+ultrabook - cienki i lekki laptop
+netbook (z ang. sieciowa książka) - przenośny, podobny do laptopa, lecz mniejszy, o rozmiarach małego notatnika. Posiada mniejszą moc obliczeniową, służy głównie do przeglądania Internetu i prac biurowych
+tablet, Tablet PC - komputer przenośny z dotykowym ekranem
+Ultra-Mobile PC - komputer przenośny mający zapełnić lukę dzielącą palmtopy i netbooki
+palmtop (z ang. na dłoni), Pocket PC – komputer rozmiarami podobny do kalkulatora, używa się go trzymając w jednej dłoni, należy do kategorii urządzeń mobilnych
+
+Najbardziej znane komputery osobiste
+polskie: Bosman 8, ComPAN 8, Elwro: 500 i 600, Mazovia: 1016 i 2032, MK 45, Kowary
+oparte na procesorach firmy Intel i innych z nimi zgodnych: IBM PC/XT, IBM PC/AT i dalsze IBM PC, a także innych producentów;
+firmy Apple: Apple I, Apple II, Macintosh, Macintosh Classic, Quadra, Performa, Lisa, Power Mac G3, Power Mac G4, PowerBook, iBook, iMac, eMac
+NeXT
+ZX81, ZX Spectrum, Sinclair QL
+Commodore VIC-20, Commodore C-64, Commodore 128 C-128, Amiga
+Atari XL/XE, Atari ST, Atari Falcon
+Amstrad/Schneider
+Acorn Archimedes, Acorn Electron, BBC Micro.
+
+Znani producenci komputerów osobistych
+Aktywni
+Apple Inc.
+Acer
+Alcatel
+Aoson
+Asus
+BlackBerry
+BMORN
+Dell Computers Corporation
+Fujitsu Computers
+Gateway
+GoClever
+Hewlett-Packard
+Huawei
+Lenovo
+LG
+Manta Multimedia
+MSI
+Microsoft
+NEC
+Onda
+Packard Bell
+Panasonic
+Prestigio
+Ramos
+Samsung
+Sony
+Toshiba
+Xiaomi
+ZTE
+NTT System
+
+Historyczni
+IBM (dział został sprzedany Lenovo)
+Sun Microsystems
+Atari
+Acorn Computer Group
+Amstrad
+Commodore International
+Compaq (firma przejęta przez HP)
+NeXT (firma przejęta przez Apple)
+Be Inc. (firma przejęta przez Palm)
+ 
+
+
+
+
+
+

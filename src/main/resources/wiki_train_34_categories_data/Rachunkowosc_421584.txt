@@ -1,0 +1,21 @@
+Podstawa opodatkowania – wielkość, która stanowi podstawę do obliczania wymiaru podatku zgodnie z określoną formułą obliczenia podatku. Podstawa opodatkowania może mieć wymiar wartościowy wyrażony w pieniądzu lub też w innej jednostce miary np. m², cm³, litrach, sztukach, hektarach, kwintalach.
+
+W przypadku podatku dochodowego podstawę opodatkowania stanowi dochód pomniejszony o dopuszczalne prawem odliczenia i pomniejszenia (np. o stratę z lat ubiegłych), a w przypadku podatku VAT podstawą opodatkowania jest obrót, czyli kwota należna z tytułu sprzedaży pomniejszona o kwotę naliczonego podatku od towarów i usług – mówiąc popularnie, jest to wartość netto towaru lub usługi.
+
+Funkcjonują również konstrukcje, w których podstawą opodatkowania podatkiem dochodowym jest przychód – ryczałt od przychodów ewidencjonowanych, albo w których zaliczki lub też podatek nie zależą od faktycznie osiągniętego dochodu lub przychodu. W uproszczonym sposobie opłacania podatku dochodowego zaliczki w trakcie roku na podatek dochodowy oblicza się od 1/12 dochodu z działalności gospodarczej wykazanego w zeznaniu rocznym złożonym w roku poprzedzającym dany rok podatkowy lub w roku poprzedzającym dany rok podatkowy o dwa lata. W przypadku karty podatkowej wysokość podatku jest ustalana decyzją organu podatkowego, a jego wysokość zależy od rodzaju wykonywanej działalności, liczby pracowników i liczby mieszkańców miejscowości, w której działalność jest wykonywana. 
+
+Podstawą opodatkowania w przypadku podatków majątkowych jest wartość majątku będącego przedmiotem transakcji podlegającej opodatkowaniu.
+
+Podstawa opodatkowania podatkiem od czynności cywilnoprawnych jest wartość przedmiotu umowy. 
+
+Podstawą opodatkowania podatkiem dochodowym z działów specjalnych produkcji rolnej jest wielkość stada hodowlanego lub powierzchni przeznaczonej na hodowlę lub uprawę.
+
+Wówczas, gdy jeszcze był, podstawą opodatkowania podatkiem drogowym była pojemność skokowa silnika, a dla samochodów ciężarowych ładowność. 
+
+Podatek akcyzowy od alkoholu zależy od ilości tegoż alkoholu wyrażonej w litrach a od papierosów od ich ilości w sztukach.
+
+
+
+
+
+

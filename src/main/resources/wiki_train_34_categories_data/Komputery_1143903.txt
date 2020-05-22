@@ -1,0 +1,25 @@
+Integrated Facility for Linux (IFL) jest to procesor stosowany w systemie IBM mainframe dedykowany do uruchamiania systemu operacyjnego Linux, bez lub za pośrednictwem z/VM. IFL są jednym z kilku typów procesorów stosowanych w mainframe, został specjalnie zaprojektowany dla obniżenia kosztów związanych z licencjami na oprogramowanie. (Pozostałymi typami są zAAP dedykowany dla Javy oraz zIIP przeznaczony do obsługi bazy danych DB2, a także ICF do obsługi CFCC.). Należy podkreślić, że wszystkie typy procesorów, tj. CP, IFL, zIIP, zAAP, ICF i SAP fizycznie niczym się nie różnią - każdy z nich może zostać zrekonfigurowany z jednego typu na inny (dokonuje tego serwis IBM, zwykle wiąże się to opłatami). Dedykowanie procesora do określonych zastosowań nie polega więc na ulepszeniu jego działania w danym kierunku, czy optymalizacji, jest to raczej okrojenie możliwości do realizacji konkretnego typu zastosowań. Przykładowo IFL nie jest w niczym lepszy od zwykłego "niespecjalizowanego" CP. Różnica jest w opłatach: procesor CP kosztuje ok 4-5 razy drożej, poza tym opłaty za oprogramowanie z rodziny z/OS zależą od mocy posiadanych procesorów CP, zaś IFL nie jest doliczany do tej mocy. IFL ma zablokowane dwa rozkazy, które nie są wykorzystywane przez Linuxa.
+
+Historia
+Procesor IFL został zaprezentowany przez IBM 29 września 2000 roku.
+
+Gdzie można spotkać
+IFL są dostępne w zaprezentowanych przez firmę komputerach klasy mainframe:
+IBM System z Business Class (z9 BC),
+System z9 Enterprise Class (z9 EC),
+zSeries 990 (z990),
+zSeries 900 (z900), 
+zSeries 890 (z890), 
+zSeries 800 (z800).
+
+
+Linki zewnętrzne
+Bibliografia
+Zobacz też
+mainframe - o mainframe.
+z/VM - system pozwalający na uruchomienie na Mainframe systemu Linux w wirtualnej maszynie.
+Central Processor - główny procesor Mainframe.
+
+
+
+

@@ -1,0 +1,24 @@
+Atomizacja – proces wytworzenia wolnych atomów w atomizerze. Wolne atomy są wykorzystywane w technice ASA. Do najważniejszych typów atomizerów należą:
+atomizer płomieniowy
+atomizery elektrotermiczne
+atomizery wodorkowe (zimnych par)
+
+Atomizer płomieniowy
+Atomizacja w płomieniu (F-AAS) dotyczy wyłącznie ciekłych próbek. Roztwór jest zasysany do palnika o specjalnej konstrukcji, w którym zostaje rozpylony do postaci aerozolu o drobnych kroplach. Do palnika doprowadza się również gaz (najczęściej mieszankę acetylenu i powietrza). Sole metalu zawarte w próbce w wysokiej temperaturze płomienia ulegają rozpadowi i uwalniają wolne atomy metalu. Atomizacja w płomieniu zapewnia dobrą odtwarzalność, jednak wymaga dużych ilości próbki i charakteryzuje się najniższą czułością ze wszystkich metod atomizacji (rzędu ppb). Wadą są również procesy zachodzące równolegle z atomizacją, takie jak jonizacja czy wzbudzenie.
+
+Atomizery elektrotermiczne
+Do atomizerów eletrotermicznych (ET-AAS) należą: kuweta grafitowa i piece grafitowe (GF-AAS). Atomizacja w tego typu atomizerach polega na kontrolowanym ogrzewaniu próbki w kilku etapach:
+suszenie w temp. 20–250 °C przez 30–60 s
+spopielenie próbki w temp. 250–750 °C
+atomizacja w temp. 750–3500 °C w ciągu 1–2 s
+Do elektrotermicznych sposobów atomizacji opracowano kilka znaczących modyfikacji, takich jak np. kuweta grafitowa z platformą Lvowa. Zaletą atomizerów elektrotermicznych są niskie granice detekcji (rzędu setnych i tysięcznych części ppb) i możliwość analizowania próbek stałych.
+
+Atomizery wodorkowe (zimnych par)
+Zasada działania atomizerów wodorkowych (HG-AAS) polega na wytworzeniu lotnych wodorków, które po przeprowadzeniu do ogrzewanej kuwety ulegają rozpadowi z uwolnieniem wolnych atomów analizowanego pierwiastka. Najczęściej do generowania wodorków wykorzystuje się redukcję borowodorkiem sodu w kwaśnym środowisku:
+ + 3 +  →  + 8H
+ + 8H + 2 →  + 
+W podobny sposób można dokonać redukcji rtęci:
+ +  →  + Hg
+Zredukowana rtęć jest wypłukiwana z roztworu strumieniem gazu szlachetnego.
+
+Bibliografia

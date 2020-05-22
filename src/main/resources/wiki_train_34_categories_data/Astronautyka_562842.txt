@@ -1,0 +1,22 @@
+AS.30L Laser — francuski kierowany pocisk rakietowy powietrze-ziemia, naprowadzany laserowo.
+
+Historia
+Pocisk wywodzi się z pocisku powietrze-ziemia AS.20 (Nord-5103), kierowanego zdalnie ręcznie za pomocą komend radiowych, opracowanego we Francji jeszcze w latach 50. Ponieważ ręczne kierowanie pociskiem było utrudnione i mało skuteczne, podjęto dalsze prace nad półautomatycznymi systemami kierowania, a przy tym zwiększono znacznie gabaryty rakiety, zachowując zasadniczo jej układ aerodynamiczny. Nowy pocisk AS.30 był kierowany radiową wiązką prowadzącą i wszedł do produkcji w 1962; oprócz użycia w lotnictwie francuskim był szeroko eksportowany. W 1974 podjęto prace nad trzecią generacją francuskich pocisków powietrze-ziemia, bazując na udanej konstrukcji pocisku AS.30.
+
+Nowy pocisk, oznaczony AS.30L i nazwany Laser był samonaprowadzany półaktywnie na światło laserowe odbite od celu, którym cel był podświetlany przez aparaturę naprowadzajacą na samolocie. System podświetlania został opracowany przez francuską firmę Thomson CSF i amerykańską Martin Marietta. Pierwsze odpalenia pocisku nastąpiły w 1980, rozpoczęcie produkcji seryjnej w 1984, system osiągnął gotowość operacyjną w 1988.
+
+Użycie
+Początkowo pocisk i system naprowadzania zintegrowano z samolotami francuskimi: myśliwcami wielozadaniowymi Mirage F1 i Mirage 2000 oraz szturmowym SEPECAT Jaguar. System naprowadzania jest przenoszony przez nie w podwieszanych zasobnikach ATLIS-2 (przejściowo) i CLDP (docelowo). W ruchomej głowicy zasobnika zamontowany jest laser do podświetlania celu oraz kamery: telewizyjna i termowizyjna, umożliwiające wykrycie celu na odległość do 12 km w dzień lub w nocy.
+
+W 1992 system pocisku zintegrowano z amerykańskim myśliwcem F-16, szeroko używanym na świecie, za pomocą zasobnika Sharpshooter. Zastosowano go następnie jako uzbrojenie francuskich samolotów uderzeniowych Mirage 2000D (od 1993, z zasobnikiem CLDP) oraz morskiego Super Etendard (od 1994, zasobnik ATLIS-2). Otrzymał go także nowy myśliwiec Rafale.
+
+Pocisków Laser użyło lotnictwo francuskie podczas I wojny w Zatoce Perskiej (1991, samoloty Jaguar), w trakcie operacji "Deliberate Force" w Bośni i Hercegowinie (1995, Mirage 2000D) i w Kosowie (1999, Super Etendard).
+
+Konstrukcja pocisku
+Pocisk posiada kadłub o przekroju kołowym, zakończony z przodu wydłużonym opływowym stożkiem z odbiornikiem promieniowania laserowego na czubku. Około środka pocisku znajdują się symetrycznie na obwodzie cztery skrzydła o dużym skosie, a w części tylnej cztery stery. W części przedniej znajduje się układ sterujący, za nim burząco-penetrująca głowica bojowa, a w części tylnej dwustopniowy silnik rakietowy na paliwo stałe. Zapalnik uderzeniowy ma dwie nastawy, na wybuch natychmiastowy lub z opóźnieniem. Przy wybuchu z opóźnieniem możliwe jest przebicie ściany żelbetowej grubości 2 m. Błąd kołowy trafienia wynosi w granicach 1-3 m.
+
+Bibliografia
+Jerzy Gruszczyński, A.F. Rybak: "AS-30 Laser" w: Lotnictwo Wojskowe 5/2002
+
+
+

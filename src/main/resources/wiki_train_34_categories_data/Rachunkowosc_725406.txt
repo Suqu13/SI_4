@@ -1,0 +1,49 @@
+Zapisy w księgach rachunkowych mogą być dokonywane w technice ręcznej, jak również w technice maszynowej i komputerowej.
+
+Techniki tradycyjne
+W ramach techniki ręcznej wyróżnia się następujące formy prowadzenia rozliczeń księgowych:
+
+Forma tabelaryczna
+Forma tabelaryczna (tzw. amerykanka) - polega na prowadzeniu księgi dziennik-główna, która łączy dwa urządzenia księgowe:
+dziennik, przeznaczony do ewidencji poszczególnych operacji gospodarczych w ujęciu chronologicznym,
+zbiór kont syntetycznych, zwany księgą główną, służący do dokonywania zapisów systematycznych.
+
+Do podstawowych zalet formy tabelarycznej można zaliczyć:
+techniczną dogodność księgowania w dzienniku-główna i dużą przejrzystość zapisów,
+łatwość uzgodnienia zapisów na kontach syntetycznych z zapisami w urządzeniach analitycznych,
+możliwość prostego i szybkiego znalezienia błędów,
+ścisłe określenie powiązania między dokumentem a zapisem w księdze głównej i w urządzeniach analitycznych oraz odwrotnie.
+
+Istotną wadą formy tabelarycznej jest ograniczona liczba kont syntetycznych w dzienniku-główna. Dużą wadą jest też bardzo ograniczona możliwość podziału pracy przy prowadzeniu dziennika i kont syntetycznych; w tym samym czasie księgę może obsługiwać tylko jedna osoba. 
+Ze względu na wymienione wady, forma tabelaryczna jest stosowana w małych firmach.
+
+Forma przebitkowa
+W odróżnieniu od poprzedniej formy, może być dokonywana nie tylko ręcznie, lecz także maszynowo, z zastosowaniem maszyn księgujących.
+
+Cechą księgowości przebitkowej jest zastąpienie zwartych ksiąg luźnymi kartami kontowymi, tworzącymi kartoteki. W związku z tym liczba wprowadzanych kont może być dowolna, w zależności od potrzeb. Przy księgowości przebitkowej można dokonywać także swobodnego podziału pracy. Dla księgowości przebitkowej charakterystyczne jest księgowanie przez kalkę, czyli przebitkowo. Na kartach kontowych jest dokonywany zapis oryginalny (systematyczny), natomiast przez kalkę na dzienniku dokonuje się zapisu skopiowanego, przebitkowego.
+
+Do podstawowych zalet formy przebitkowej można zaliczyć:
+duże możliwości podziału pracy
+możliwość stosowania nieograniczonej liczny kont
+zmniejszenie ryzyka popełnienia błędu, ponieważ nie ma potrzeby przenoszenia zapisów z jednego urządzenia księgowego na drugie; ponadto popełniony błąd można łatwo odszukać
+
+Forma rejestrowa
+Stosowana do operacji o charakterze masowym, gdzie występuje wiele dowodów księgowych danego typu. Podstawowym urządzeniem księgowym, przy tej formie ewidencji, jest rejestr, np. rejestr zakupu bądź sprzedaży. Rejestr odzwierciedla w pełni przebieg danej operacji gospodarczej w czasie. Liczba rejestrów może być różna, nawet kilkanaście (np. zakupu, sprzedaży, bankowy, kasowy, kosztów, itp.)
+
+Ważna zaletą formy rejestrowej jest bieżące księgowanie dokumentów w rejestrach według poszczególnych zagadnień. Na podstawie zapisów w rejestrach można ustalić, które operacje z danej transakcji zostały już dokonane lub w której fazie realizacji dana transakcja się znajduje. Dzięki dużej przejrzystości zapisów łatwa jest kontrola i analiza zarówno ewidencji, jak i transakcji gospodarczych. Ponadto, jako istotne zalety tej formy należy wymienić możliwość podziału pracy wśród wielu pracowników oraz ograniczenie liczby zapisów na kontach syntetycznych.
+
+Podstawową wadą formy rejestrowej jest skomplikowany i niedogodny układ niektórych rejestrów, co utrudnia ich prowadzenie.
+
+Rachunkowość komputerowa
+Uznana za odmienną formę techniki ewidencyjnej, pod względem organizacyjnym i proceduralnym. Technika komputerowa czyni z rachunkowości nowoczesny system, służący podejmowaniu decyzji pod względem szczegółowości, szybkości i formy przekazu informacji do użytkowników.
+
+Komputerowa forma rachunkowości jest realizowana jako:
+przetwarzanie danych księgowych, które obejmują zazwyczaj najbardziej pracochłonne dziedziny ewidencji, np. gospodarkę magazynową, płace, koszty itp.
+kompleksowe przetwarzanie danych rachunkowości obejmujące całość prac ewidencyjnych, rachunku kosztów i sprawozdawczości.
+
+Zbiory danych księgi głównej i pomocniczej muszą być tworzone indywidualnie dla każdej jednostki. Księgi rachunkowe muszą być trwale oznaczone nazwą jednostki oraz nazwą danego rodzaju ksiąg, wyraźnie oznaczone co do roku obrotowego, a wydruki komputerowe oznaczone także co do miesiąca i daty ich sporządzenia.
+
+Wydruki komputerowe powinny składać się z automatycznie numerowanych stron, z oznaczeniem pierwszej i ostatniej oraz być sumowane na kolejnych stronach w sposób ciągły w roku obrotowym i oznaczone nazwą programu przetwarzania danych.
+Zapisy dokonane na kontach księgi głównej oraz na kontach ksiąg pomocniczych, prowadzonych przy użyciu komputera, drukuje się albo przenosi na inny trwały nośnik danych, nie rzadziej niż na koniec roku obrotowego. Należy także wydrukować na papierze albo przenieść na inny trwały nośnik zestawienie obrotów i sald kont syntetycznych, sporządzane na koniec każdego miesiąca.
+
+

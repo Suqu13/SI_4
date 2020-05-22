@@ -1,0 +1,16 @@
+Zope (Z Object Publishing Environment) to open source'owy serwer aplikacji napisany w Pythonie (języku programowania), z zastosowaniem programowania obiektowego. Umożliwia tworzenie systemów zarządzania treścią, portali internetowych oraz intranetowych, a także aplikacji webowych.
+
+Budowa
+Najważniejsza część systemu to transakcyjna, hierarchiczna oraz obiektowa baza danych ZODB (Zope Object Database). Każda część stworzonego serwisu jest przechowywana w bazie. Zope zapewnia wysokie bezpieczeństwo dzięki dobrze określonym poziomom uprawnień.
+
+Można zwiększyć jego funkcjonalność poprzez dodanie jednej z wtyczek (ang. plug-in) zwanych w Zopie produktami. Dostępne są one pod adresem .
+
+Zope posiada wbudowany serwer WWW, FTP, rozszerzenie protokołu HTTP 1.1 - WebDAV - oraz protokół XML pierwszej generacji opierający się na RPC - XML-RPC. Oczywiście może on także współpracować z innymi serwerami jak choćby np. z Apache.
+
+Aby ułatwić pracę nad serwisem Zope oferuje również tworzenie i konfigurację aplikacji poprzez Internet (tj. za pomocą przeglądarki internetowej).
+
+Zobacz też
+Plone
+NauDoc
+
+Linki zewnętrzne

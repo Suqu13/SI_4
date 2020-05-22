@@ -1,0 +1,117 @@
+Mistel (Jemioła) – jedna z niemieckich broni odwetowych z okresu II wojny światowej. Zestaw dwóch samolotów połączonych jeden nad drugim, z których pierwszy – myśliwiec pełnił rolę nosiciela i kabiny pilota, a drugi – bombowiec pełnił rolę bezzałogowej zdalnie sterowanej bomby latającej. 
+
+Oficjalne oznaczenie zestawu brzmiało  Beethoven Gerät (Urządzenie Beethovena). Niemieccy piloci określali je jednak nieoficjalną nazwą Vater und Sohn (Ojciec i syn) lub Huckepack (Na barana). 
+
+Historia
+Geneza broni odwetowej Mistel
+Projekt Mistel powstał w zakładach Junkers w 1941 roku na bazie prac badawczych z nowym celownikiem automatycznym, naprowadzającym bombowiec na cel bez potrzeby ciągłego obserwowania obiektu po namierzeniu.
+Pomysłodawca urządzenia, inżynier lotnictwa Siegfried Holzbauer, po pierwszych lotach próbnych samolotów z nowym celownikiem stwierdził, że znacznie prościej byłoby zastosować go w latających bombach. W ten sposób narodziła się koncepcja zestawu dwóch samolotów, z których pierwszy był nosicielem, a drugi wyładowany materiałem wybuchowym, stanowił samonaprowadzającą się bombę.
+Ministerstwo Lotnictwa Rzeszy początkowo nieprzychylnie odnosiło się do założeń koncepcyjnych projektu, jednak po przeanalizowaniu ekonomicznych aspektów nowego rozwiązania pod koniec 1941 roku zezwoliło na wdrożenie go do produkcji.
+
+Mistelschlepp
+W 1942 w zakładach DFS zbudowano pierwszy prototyp Mistela o nieoficjalnym kryptonimie Huckepack (Na barana). Był to połączony samolot szkolny Klemm 35 i szybowiec transportowy DFS 230 (Mistelschlepp). W trakcie badań sprawdzano możliwości startu i lądowania tak nietypowej konstrukcji latającej oraz jej własności lotne. Z uwagi na zbyt małą moc silnika samolotu sportowego zestaw Mistel (Mistelschlepp) był holowany na start i wyciągany w powietrze przez samolot transportowy Junkers Ju 52/3m. Wkrótce po pierwszych udanych próbach zdecydowano się na zmianę konfiguracji samolotu nosiciela na samolot Focke-Wulf Fw 56. Wynikało to z posiadania przez tę maszynę znacznie potężniejszego silnika. Testy dowiodły jednak, że i w tym przypadku potrzebny był hol przed startem. Konstruktorzy postanowili wówczas po raz kolejny zmienić samolot, tym razem na Messerschmitt Bf 109. W takim układzie Mistel (Mistelschlepp) latał samodzielnie. Nie był jednak w stanie udźwignąć szybowca z ładunkiem wybuchowym.     
+
+Rozwój broni odwetowej Mistel
+W 1943 roku zadecydowano o przeznaczeniu na latającą bombę samolotu Junkers Ju 88. W połączeniu z Messerschmittem Bf 109 był on wersją wzorcową dla dalszych konstrukcji Mistel.
+W lipcu 1943 powstała wersja szkolna Mistel S1''. Obiecujące wyniki z nowym układem przyniosły projektowi znaczenie priorytetowe w założeniach Ministerstwa Lotnictwa Rzeszy i oficjalne potwierdzenie skierowania do produkcji seryjnej. W tym samym czasie z uwagi na problemy z synchronizacją silników obu samolotów zdecydowano się na zmianę konfiguracji zespołu. Powstała kolejna wersja szkolna Mistel S2'', która charakteryzowała się znacznie lepszymi parametrami z uwagi na połączenie Junkersa Ju 88 z nowoczesnym myśliwcem Focke-Wulf Fw 190. 
+
+Testy Misteli z głowicami bojowymi przeprowadzono w połowie 1943 roku. Próby wykazały doskonałe możliwości nowej broni. Za jej pomocą zniszczono między innymi zakotwiczony w porcie w Tulonie stary pancernik Ocean oraz przebito na poligonie w Prusach Wschodnich mury umocnień żelbetonowych o grubości do 18 metrów. 
+
+W 1943 roku zbudowano pierwszą serię 15 Misteli S1'' i skierowano je do IV dywizjonu KG 101 celem przeszkolenia załóg. Szkolenia ze względu na nietypowe własności aerodynamiczne układu były bardzo trudne, dlatego też początkowo instruktorami kursu byli piloci oblatywacze. Dochodziło do licznych kraks i awarii. Dowództwo nie przejmowało się jednak tym i  przygotowywało plan wykorzystania bojowych wersji tych maszyn pod kryptonimem Unternehmen Beethoven (Przedsięwzięcie Beethoven).
+Produkcją Misteli zajmowały się zakłady w Nordhausen, Dessau, Lipsku i Oranienburgu.
+
+Pierwszy wariant bojowy Mistel 1'' składał się z samolotu myśliwskiego Messerschmitt Bf 109F-4 i bombowca Junkers Ju 88A-4. Różnica z wersją Mistel S1'' polegała na tym, że z przodu samolotu bomby zamiast oszklonej kabiny wstawiona była specjalna głowica bojowa w kształcie żądła z ładunkiem kumulacyjnym. Za nią natomiast umieszczony był ładunek wybuchowy o masie 1700 kg, na który składała się mieszanka heksogenu i trotylu (w proporcji 70% T4 i 30% TNT). 
+W 1944 roku powstał drugi wariant bojowy Mistel 2'', na bazie wersji szkolnej Mistel S2''.
+Do jego zbudowania posłużyły nocne bombowce Junkers Ju 88G-1 i myśliwce Focke-Wulf Fw 190A-6 lub A-8. Z powodu problemów z pękającymi w trakcie startu oponami Junkersów technicy zmodyfikowali w trakcie produkcji podwozie główne Ju 88 przez dodanie dodatkowej trzeciej, odrzucanej goleni. W wyniku tej przeróbki powstał prekursor zestawu Mistel 3''. 
+Na początku 1945 roku wprowadzono na wyposażenie niemieckiego lotnictwa wersję Mistel S3a złożoną z Junkersów Ju 88A-4 lub A-6 i myśliwców Focke-Wulf Fw 190A-6. W tym samym czasie w zakładach w Bernburg (Saale) powstał prototyp Mistela 3b, którego pochodną był Führungsmaschine. Führungsmaschine był samolotem naprowadzającym dalekiego zasięgu. Zamiast głowicy bojowej w Ju 88H-4 była kabina pilotów i stanowisko operatora radaru. Rozwijano również seryjnego Mistela 3'', który złożony był z myśliwca Focke-Wulf Fw 190A-8 i Junkersa Ju88G-10. Ten wariant w odróżnieniu od Mistela 2'' charakteryzował się zwiększonym zasięgiem i większymi rozmiarami samolotu bomby Ju 88. Mógł również przenosić ładunek wybuchowy do 4000 kg.
+
+Do zakończenia II wojny światowej zakładom Junkersa udało się jeszcze zbudować jedną wersję Mistela, w której samolotem nosicielem był myśliwiec wysokościowy Focke-Wulf Ta 152H, a latającą bombą Junkers Ju 88G-7. Prototyp tej maszyny oblatano w kwietniu 1945 roku. 
+
+W latach 1944-1945 również inne firmy eksperymentowały z układem Mistel. Nie wszystkie te projekty były opracowane zgodnie z koncepcją Siegfrieda Holzbauera. Czasami jednak zalicza się je z uwagi na podobieństwa do Misteli. 
+Na przykład w lipcu 1944 roku w zakładach Focke-Wulf Kurt Tank opracował projekt niszczyciela latających fortec (Pulkzerstörer) poprzez połączenie dwóch myśliwców Focke-Wulf Fw 190A-4 i specjalnej wersji bojowej Focke-Wulf Ta 154A-0/U3 z głowicą o masie 2000 kg. 
+Próby lotów w układzie Mistel w 1943 roku przechodził prototypowy Messerschmitt Me 328V1. Konstruktor firmy Messerschmitt Alexander Lippisch w końcu 1944 roku oblatał szybowiec eksperymentalny DM-1, który był protoplastą myśliwca Li P-13a. Również w jego założeniach było przystosowanie tej maszyny do udziału w misjach Mistel.
+
+Niemcy pokładali duże nadzieje w bombowcach Mistel. Jeszcze w 1945 powstało kilka projektów przystosowania samolotów odrzutowych do wynoszenia latających bomb. Wszystkie te projekty z powodu zakończenia działań wojennych nie zostały jednak zrealizowane.
+Po wojnie kilkanaście egzemplarzy misteli znalazło się w rękach armii alianckich. Żołnierze Armii Czerwonej, Amerykanie i Brytyjczycy badali je po wojnie. Nie wzbudziły one jednak ich entuzjazmu.
+Inaczej rzecz miała się z automatycznym celownikiem wizyjnym projektu Siegfrieda Holzbauera. Ten wzbudził ogromne zainteresowanie. Został skopiowany i stał się podstawą późniejszych systemów samonaprowadzających.  
+
+W latach 1943-1945 Niemcom udało się zbudować około 250 Misteli różnych wersji.
+
+Zastosowanie bojowe
+Pierwsze loty bojowe Misteli
+Jedyną jednostką lotnictwa niemieckiego, na której składzie na początku znajdowała się nowa broń, był IV dywizjon pułku KG 101 dowodzony przez kpt. Horsta Rudata. 
+Pierwsza akcja bojowa z użyciem Misteli miała miejsce 24 czerwca 1944 roku. Jeden egzemplarz tego zestawu miał zaatakować wojska inwazyjne aliantów na wybrzeżu Normandii. Akcja się jednak nie udała, gdyż niemiecki pilot napotkał po drodze do celu myśliwiec RAF-u i był zmuszony odczepić latającą bombę i zawrócić do bazy, aby uniknąć zestrzelenia.
+Druga próba podjęta w nocy z 24 na 25 czerwca 1944 roku zakończyła się sukcesem. Cztery Mistele z IV/KG 101 dosięgły celu i zatopiły statki zacumowane na redzie u ujścia Sekwany. 
+Kolejne użycie 6 Misteli nad ranem 25 czerwca 1944 w nalocie na port w Cherbourgu nie było już tak spektakularne. Tylko trzy maszyny doleciały do celu, reszta została zestrzelona.
+
+Pomimo to dowództwo nie anulowało zamówień na nowy sprzęt i nakazało rozbudowę jednostki. 10 października 1944 roku IV/KG 101 został przeorganizowany i zmieniony w  specjalna formację Einsatz-Gruppe '' III/KG 66. 20 października 1944 dowództwo podjęło decyzje o kolejnej reorganizacji. Stworzono w wyniku tej zmiany jednostkę II/KG 200, której zadaniem były wyłącznie loty  na Mistelach. Cała formację utajniono, a jej przeznaczeniu nadano charakter priorytetowy. Ośrodek szkoleniowy tego pułku mieścił się z dala od frontu w Stavanger-Sola w Norwegii.
+
+W grudniu 1944 roku rozpoczęto plan przenoszenia jednostki II/KG 200 do Danii w związku z planowanym zmasowanym atakiem lotnictwa niemieckiego na Scapa Flow. Do tego celu przygotowano 60 Misteli. Warunki pogodowe uniemożliwiły jednak zrealizowanie tego przedsięwzięcia.
+
+Operacja Żelazny Młot
+Kolejną misją, w której miały wziąć udział Mistele, była operacja Unternehmen Eisenhammer (Żelazny Młot). Celem tego przedsięwzięcia było zbombardowanie radzieckich zakładów zbrojeniowych nad Wołgą i Donem. W styczniu 1945 roku na lotniska pod Merseburgiem i Rechlinem przyleciało 56 zestawów Misteli różnych wersji.
+Przygotowania do tego niezwykłego jak na okoliczności frontowe zadania były prowadzone do połowy marca 1945 roku. Plany jego zostały jednak przerwane na wieść o utracie przez III Rzeszę Prus Wschodnich, z których to miał zostać przeprowadzony nalot. Zgromadzone na lotniskach samoloty - 200 bombowców i 56 Misteli padły łupem lotnictwa alianckiego. 
+
+Zastosowanie Misteli w ostatnich miesiącach wojny
+Zachowane od zniszczenia Mistele, które posiadał na swoim stanie II/KG 200, zostały przekazane do obrony Berlina. Dowódca pułku Werner Baumbach zdecydował się użyć ich do niszczenia mostów na Odrze i Nysie celem odcięcia dróg zaopatrzenia dla Armii Czerwonej. 7/8 marca 1945 cztery Mistele uszkodziły most pontonowy w Górzycy. 30/31 marca 1945 za ich pomocą zbombardowany został most kolejowy w Ścinawie. 8 kwietnia 1945 6 Misteli brało udział w nalocie na most w Warszawie. 26 kwietnia 1945 za pomocą 5 Misteli przeprowadzono atak na most w Kostrzynie nad Odrą. 30 kwietnia 1945 pozostałe 16 egzemplarzy Misteli II/KG 200 przeleciało do bazy w Peenemünde, celem jej obrony przed nacierającymi ze wschodu wojskami radzieckimi. Tego samego dnia odbyła się ich ostatnia misja w czasie II wojny światowej, której celem był most w Tantow.
+
+Technika nalotów
+Mistele latały zazwyczaj w grupach złożonych z kilku egzemplarzy. W akcjach brały udział samodzielnie lub były eskortowane przez myśliwce. Lot bojowy odbywał się na wysokości 1500-1600 metrów. W odległości ok. 3 km od celu następowało przygotowanie do ataku. Po zbliżeniu się na odpowiednią odległość, gdy pilot myśliwca zobaczył obiekt w wizjerze celownika następowało uruchomienie mechanizmu sprzęgającego aparaty celownicze obu samolotów. Automatyczny pilot bombowca złożony z układu żyroskopów ustawiał się na wyznaczony kierunek. Następnie pilot myśliwca wchodził Mistelem w lot nurkowy pod kątem 30 stopni i odłączał nosiciela. Bombowiec wypełniony materiałem wybuchowym i zaprogramowany leciał samodzielnie, a myśliwiec wracał do bazy lub służył za eskortę w ostatniej fazie nalotu.
+
+Wersje zestawów Mistel
+Wersje prototypowe i szkolne
+Mistelschlepp - Klemm Kl 35B i DFS 230 + Junkers Ju 52/3m
+Mistelschlepp - Focke-Wulf Fw 56 i DFS 230 + Junkers 52/3m
+Mistelschlepp - Messerschmitt Bf 109E-4 i DFS 230
+Mistel - Focke-Wulf Ta 152H i Junkers Ju 88G-7
+Mistel 3b - Focke-Wulf Fw 190A-8 i Junkers Ju 88H-4
+Mistel 3c - Focke-Wulf Fw 190F-8 i Junkers Ju 88G-10
+Führungsmaschine - Focke-Wulf Fw 190A-8 i Junkers Ju 88H-4
+Pulkzerstörer - Focke-Wulf Fw 190A-4 lub Focke-Wulf Fw 190A-8 i Focke-Wulf Ta 154A-0/U3
+Mistel S1 - Messerschmitt Bf 109F-4 i Junkers Ju 88A-4
+Mistel S2 - Focke-Wulf Fw 190A-6 lub Focke-Wulf Fw 190A-8 i Junkers Ju 88G-1
+Mistel S3a - Focke-Wulf Fw 190A-6 i Junkers Ju 88A-4 lub Junkers Ju 88A-6
+Mistel S3c - Focke-Wulf Fw 190F-8 i Junkers Ju 88G-10
+
+Wersje bojowe
+Mistel 1 - Messerschmitt Bf 109F-4 i Junkers Ju 88A-4
+Mistel 2 - Focke-Wulf Fw 190A-6 lub Focke-Wulf Fw 190A-8 i Junkers Ju 88G-1
+Mistel 3 - Focke-Wulf Fw 190A-8 i Junkers Ju88G-10
+
+Wersje projektowane
+Mistel 4 - Messerschmitt Me 262A-1a i Junkers Ju 287B-1
+Mistel 4a - Messerschmitt Me 262C i Messerschmitt Me 262A-1
+Mistel 5 - Heinkel He 162A i Arado E 377a
+Mistel 6 - Arado Ar 234B lub Arado Ar 234C i Arado E 377
+
+Inne warianty Huckepack/Vater und Sohn zbudowane lub zaprojektowane do 1945 roku
+Mistel - Messerschmitt Me 328V1 i Dornier Do 217E
+Mistel - Heinkel He 111 i V1
+Mistel - Lippisch DM-1 i Siebel Si 204D
+Mistel - DFS 228 i Dornier Do 217K  
+Mistel - DFS 346 i Dornier Do 217K  
+Mistel - Focke-Wulf Fw 190 i Heinkel He 177
+Mistel - Arado Ar 234C i V1
+Mistel - Junkers Ju EF 101
+Mistel - Arado E.381 i Arado Ar 234B lub Arado Ar 234C
+Mistel - Blohm und Voss Projekt X (MRGP)+ Dornier Do 217
+Mistel - Lippisch Li P-13a i Siebel Si 204
+Mistel - Lippisch Li P-12 i Focke-Wulf Fw 58
+Mistel - Lippisch Li P-13b i Arado Ar 234C
+Mistel - Messerschmitt Me 262 i Junkers Ju 188
+Mistel - Messerschmitt Me 238 i Junkers Ju 290Z
+Mistel - Daimler-Benz DB Projekt
+Mistel - Messerschmitt Me P.1073A i Messerschmitt Me P.1073B
+
+Bibliografia
+Wiesław Bączkowski. Tajne bronie III Rzeszy. Warszawa 1995. ISBN 83-11-08406-8
+Janusz Ledwoch. Luftwaffe 1946''. Warszawa 1996. ISBN 83-86209-94-1
+Marek Murawski. Samoloty Luftwaffe 1933-1945. Tom I. Warszawa 1996. ISBN 83-86776-01-3
+Marek Murawski. Samoloty Luftwaffe 1933-1945. Tom II. Warszawa 1997. ISBN 83-86776-03-X
+
+Zobacz też
+V1
+V2
+A-9/A-10
+
+Linki zewnętrzne

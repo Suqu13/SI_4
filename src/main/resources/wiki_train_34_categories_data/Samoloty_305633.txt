@@ -1,0 +1,37 @@
+Lądowanie – będący zwykle ostatnim etapem lotu, złożony proces sprowadzenia statku powietrznego (samolotu, szybowca itp.) na lądowisko.
+
+Fazy lądowania
+
+
+
+podejście do lądowania – ustawienie statku powietrznego na ścieżce podejścia z odpowiednim, dostosowanym do zaistniałych warunków, kątem zniżania oraz z odpowiednią poprawką na wiatr i z odpowiednią konfiguracją płata (np. ustawienie klap do lądowania) oraz wysuniętym podwoziem, włączenie świateł lądowania, sprawdzenie check-listy;
+podprowadzenie – bezpośrednie przygotowanie do lądowania, wprowadzenie ostatnich poprawek przed przyziemieniem (np. zniwelowanie trawersowania);
+wyrównanie (załamanie) – wykonywane na bardzo niskiej wysokości zmniejszenie kąta zniżania do zera – innymi słowy, w przypadku poziomo położonej powierzchni lotniska, zmniejszenie prędkości opadania do zera;
+wytrzymanie – faza, w której statek powietrzny, lecąc na wysokości wyrównania, stopniowo wytraca prędkość (energię) aż do prędkości przyziemienia, która zbliżona jest zwykle do minimalnej;
+przyziemienie – dotknięcie ziemi przez statek powietrzny w odpowiedniej dla danego typu statku konfiguracji;
+dobieg – wytracenie prędkości na ziemi aż do zatrzymania się bądź rozpoczęcia kołowania.
+
+Konsekwencje błędów w lądowaniu
+W wyniku przyziemienia przy zbyt dużej prędkości pionowej, z jednoczesnym zapasem prędkości poziomej, może nastąpić odbicie się statku powietrznego od powierzchni lądowiska – tzw. „kangur” – jest ono skutkiem braku lub niedostatecznego wyrównania. W wyniku tego błędu może dojść do uszkodzenia podwozia, a nawet kadłuba.
+
+Wyrównanie na zbyt dużej wysokości może natomiast spowodować przeciągnięcie statku powietrznego, a w efekcie jego przepadnięcie w kierunku ziemi, z relatywnie dużą prędkością opadania. Skutkiem jest tzw. twarde lądowanie, a także potencjalne uszkodzenie konstrukcji statku.
+
+Ważne jest też kontrolowanie przechylenia w bezpośredniej bliskości ziemi i w czasie dobiegu; szczególnie istotne jest to w przypadku maszyn takich, jak szybowce, które są zwykle jednośladami, a jednocześnie mają dużą rozpiętość w stosunku do swojej wysokości. Mocniejsze dotknięcie ziemi końcówką skrzydła w czasie wyrównania bądź dobiegu przy zbyt dużej prędkości może spowodować gwałtowne skręcenie szybowca w kierunku tego skrzydła (tzw. „cyrkiel”) i w efekcie uszkodzenie maszyny.
+
+„Kapotaż” – w wyniku zbyt silnego użycia hamulców lub nieściągnięcia drążka „na siebie” tuż po przyziemieniu samolot może oprzeć się śmigłem o ziemię i przewrócić na plecy.
+
+Zobacz też
+
+start
+Wznoszenie
+Zniżanie
+ILS
+lądowanie awaryjne
+lądowanie autorotacyjne
+lądowanie wodne
+
+Bibliografia
+A. Pazio – „Zasady pilotażu szybowcowego” – Aeroklub Polski, Kielce 1994 r.
+
+
+

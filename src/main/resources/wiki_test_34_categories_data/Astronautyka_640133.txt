@@ -1,0 +1,54 @@
+Program Ranger – seria amerykańskich bezzałogowych sond kosmicznych mających wykonać i przesłać na Ziemię zdjęcia Księżyca z małej odległości, przed uderzeniem w jego powierzchnie, oraz wykonać badania i testy inżynieryjno-technologiczne wielu podzespołów potrzebnym do lotów na Księżyc.
+
+Program Ranger był częścią, przygotowanego przez NASA, kompleksowego programu badań Księżyca. Sondy Ranger były poprzedniczkami sond księżycowych Surveyor.
+
+Łączny koszt prac naukowych, badawczo-rozwojowych, budowy, wynoszenia na orbitę oraz obsługi całej serii wyniósł w przybliżeniu 170 mln dolarów.
+
+Na program składały się trzy rodzaje statków, nazywane Block 1, 2 i 3.
+
+Seria Block 3
+Statek składał się z sześciobocznej podstawy o przekątnej 1,5 m, w którym zamontowany był napęd i układy zasilania. Na niej tkwiła stożkowa wieża z kamerami telewizyjnymi. Dwa panele słoneczne (o wymiarach 0,739×1,537 m każdy) rozmieszczone były na przeciwnych bokach podstawy. Po rozłożeniu miały 4,6 m długości. Do postawy przytwierdzona była także antena dużego zysku. Cylindryczne anteny dookólne umocowane były na szczycie wieży. Całkowita wysokość statku wynosiła 3,6 m.
+
+Napęd i zasilanie
+Napędem do zmiany trajektorii był silnik hydrazynowy o ciągu 224 N z czterema dyszami do kontroli wektora prędkości. Orientację i położenie sondy w przestrzeni zmieniano 12 silniczkami na azot sprzężonymi z 3 żyroskopami, 6 czujnikami Słońca (2 pomocnicze) i 1 czujnikiem Ziemi.
+
+Energię elektryczną dostarczało 9792 krzemowych ogniw słonecznych na dwóch panelach, o łącznej powierzchni 2,3 m². Wytwarzały one 200 W energii.
+
+Zasilanie kamer odbywało się z dwóch akumulatorów AgZnO o pojemności 1,2 kWh i napięciu 26,5 V. Pozwalały one na 9 godzinną pracę obu kanałów telewizyjnych. Pozostałe urządzenia pokładowe zasilały dwa akumulatory AgZnO o pojemności 1 kWh.
+
+Komunikacja
+Komunikację utrzymywano za pomocą kierunkowej anteny dużego zysku i anteny dookólne. Statek posiadał dwa nadajniki i jeden transponder:
+60 watowy pracujący na częstotliwości 959,52 MHz; kanał F; obraz z kamer szerokokątnych
+60 watowy pracujący na częstotliwości 960,52 MHz; kanał P; obraz z kamer wąskokątnych
+transponder o mocy 3W pracujący na częstotliwości 960,58 MHz.
+
+Lista misji
+Misje trzech z dziewięciu Rangerów (7, 8, 9) powiodły się. Rangery 1 do 5 miały problemy uniemożliwiające udane zakończenie misji: w misjach Ranger 1 i 2 zawiodły rakiety nośne, Rangery 3 i 5 minęły Księżyc wchodząc na orbity heliocentryczne. Ranger 4 wylądował na ciemnej stronie Księżyca i nie przekazał żadnych danych.
+
+Misje Bloku 1'''
+Ranger 1, wystrzelony 23 sierpnia 1961, sonda prototypowa; lot zakończył się niepowodzeniem; wskutek defektu stopnia Agena B rakiety nośnej. Sonda pozostała na niskiej orbicie wokółziemskiej i po tygodniu spłonęła w gęstych warstwach atmosfery. Udało zrealizować się część z celów inżynierskich misji
+Ranger 2, wystrzelony 18 listopada 1961, sonda prototypowa; lot zakończył się niepowodzeniem, wskutek defektu stopnia rakiety Agena B
+Misje Bloku 2'''
+Ranger 3, wystrzelony 26 stycznia 1962, sonda księżycowa; lot zakończył się niepowodzeniem z powodu defektów technicznych, sonda minęła Księżyc
+Ranger 4, wystrzelony 23 kwietnia 1962, sonda księżycowa; lot zakończył się niepowodzeniem z powodu defektów technicznych, sonda wylądowała na Księżycu
+Ranger 5, wystrzelony 18 października 1962, sonda księżycowa; lot zakończył się niepowodzeniem z powodu defektów technicznych, sonda minęła Księżyc
+Misje Bloku 3'''
+Ranger 6, wystrzelony 30 stycznia 1964, sonda księżycowa; awaria kamer (nie można było odebrać żadnych obrazów), sonda rozbiła się o Księżyc
+Ranger 7
+Wystrzelony 28 lipca 1964; pierwsza udana misja; zarejestrowanie i przesłanie ponad 4300 obrazów Księżyca bardzo dobrej jakości
+Zderzenie z Księżycem 31 lipca 1964 o 13:25:49 UT
+Szerokość geograficzna: 10.35 S, długość geograficzna: 339.42 E – Mare Cognitum
+Ranger 8
+Wystrzelony 17 lutego 1965; misja udana; zarejestrowanie i przesłanie ok. 7000 obrazów Księżyca bardzo dobrej jakości
+Zderzenie z Księżycem 20 lutego 1965 o 09:57:37 UT
+Szerokość geograficzna: 2.67 N, długość geograficzna: 24.65 E – Mare Tranquillitatis
+Ranger 9
+Wystrzelony 21 marca 1965; udana misja; zarejestrowanie i przesłanie 5814 obrazów Księżyca
+Zderzenie z Księżycem 24 marca 1965 o 14:08:20 UT
+Szerokość geograficzna: 12.83 S, długość geograficzna: 357.63 E – krater Alphonsus
+
+Zobacz też
+program Surveyor
+program Apollo
+Linki zewnętrzne
+(PDF) 

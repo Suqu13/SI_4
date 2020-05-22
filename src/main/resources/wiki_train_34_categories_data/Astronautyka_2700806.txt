@@ -1,0 +1,40 @@
+
+Tiangong () – chiński program budowy i testów pojedynczych modułów orbitalnych, stanowiących małe, jednomodułowe stacje orbitalne. Program Tiangong stanowi etap przygotowawczy do programu budowy wielomodułowej stacji orbitalnej również nazwanej Tiangong. Oficjalna prezentacja makiety Tiangong 1 odbyła się w styczniu 2009 r. Moduł Tiangong 1 został umieszczony na orbicie 29 września 2011 r.
+
+Charakterystyka
+Tiangong 1
+
+
+Jest to niewielki statek kosmiczny o masie 8,5 ton. Składa się z dwóch modułów:
+orbitalnego (załogowego) z węzłem cumowniczym,
+serwisowego, z silnikami i bateriami słonecznymi. 
+Nie posiada kapsuły powrotnej – załoga jest do niego dostarczana i zabierana statkiem typu Shenzhou. Tiangong 1 został wyniesiony na orbitę za pomocą chińskiej rakiety nośnej CZ-2F/T (chiń. Długi Marsz) – modyfikacji rakiety CZ-2F, która wynosi na orbitę załogowe statki Shenzhou, o udźwigu zwiększonym do ok. 11,2 t na LEO. Wyniesienie Tiangong 1 było pierwszym startem tej wersji rakiety. Okres używalności statku Tiangong 1 będzie wynosił 2–3 lata. 
+
+Parametry techniczne modułu Tiangong 1:
+Załoga: 2 lub 3 osoby
+Długość: 10,4 m
+Średnica: 3,35 m
+Pojemność hermetyzowana: 15 m3
+Masa: 8,5 t
+Liczba portów cumowniczych: 1
+
+Umieszczenie statku w kosmosie nastąpiło 29 września 2011 r. z kosmodromu Jiuquan. Tiangong 1 znajduje się na orbicie o wysokości 350–370 km i nachyleniu 42–43°.
+
+Tiangong 2
+
+Przewiduje się, że parametry modułu Tiangong 2 będą bardzo zbliżone do parametrów Tiangong 1. Stacja będzie wyposażona w ulepszony system podtrzymywania życia, umożliwiający 20-dniowy pobyt załogi. W ciągu dwóch lat przebywania stacji na orbicie zacumują do niej dwa statki załogowe Shenzhou 11 i 12. Astronauci będą przeprowadzali na niej obserwacje powierzchni Ziemi, eksperymenty medyczne i inne.
+
+Tiangong 3
+Według nieoficjalnych informacji Tiangong 3 miał być większym obiektem od poprzednich modeli, prototypem głównego modułu planowanej wielomodułowej stacji orbitalnej. Tiangong 3 miał zostać wyposażony w system podtrzymywania życia oraz recyklingu umożliwiający pobyty astronautów na jej pokładzie do 40 dni. Ponadto moduł miał być wyposażony w dwa lub więcej portów cumowniczych, do których oprócz załogowych pojazdów Shenzhou mogłyby cumować statki zaopatrzeniowe. Te ostatnie miały być oparte na konstrukcji modułu Tiangong 1. Jednak ok. 2013 r. moduł Tiangong 3 przestał pojawiać się w oficjalnych wypowiedziach i prezentacji przedstawicieli chińskiego załogowego programu kosmicznego. Prawdopodobnie po module Tiangong 2 zostanie na orbicie umieszczony już główny moduł Tianhe chińskiej załogowej stacji kosmicznej, która również otrzyma nazwę Tiangong.
+
+Misje w ramach programu Tiangong
+
+
+Planowana stacja orbitalna
+
+
+Około 2020 r. Chiny zamierzają umieścić na orbicie nową stację kosmiczną Tiangong. Podstawowy moduł tej stacji Tianhe będzie miał masę ok. 20 t, do niego zostaną dołączone dwa moduły badawcze, zaś do całego systemu będą cumowały zarówno statki załogowe Shenzhou jak i statki zaopatrzeniowe Tianzhou oparte na konstrukcji Tiangong 1. Całość stacji będzie mieć masę ok. 60 t. Rakietą nośną wynoszącą te moduły na orbitę będzie nowa, ciężka rakieta CZ-5, o udźwigu do 25 t na LEO, która będzie startować z kosmodromu Wenchang.
+
+
+
+Bibliografia

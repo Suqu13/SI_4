@@ -1,0 +1,8 @@
+
+Columbia - superkomputer wybudowany w 2004 roku przez Silicon Graphics dla NASA, nazwany dla uhonorowania ofiar katastrofy promu Columbia. Działał przez prawie 9 lat i umożlilił przeprowadzenie ponad 3 miliardów godzin CPU obliczeń. Został zdemontowany 15 marca 2013 roku.
+
+Jego głównym zadaniem były symulacje zderzeń galaktyk i powstawania galaktyk spiralnych. Zawierał 10240 procesorów Itanium 2, 20 terabajtów pamięci operacyjnej i 440 terabajty dysku twardego. W momencie uruchomienia miał moc obliczeniową 51,87 TFLOPS i według listy TOP500 był na drugim miejscu w rankingu najszybszych komputerów świata. W 2008 roku został rozbudowany i jego moc obliczeniowa wzrosła do 66 TFLOPS.
+
+
+
+

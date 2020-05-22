@@ -1,0 +1,63 @@
+Nokia 770 Internet Tablet – tablet internetowy opracowany oraz wyprodukowany przez firmę Nokia w 2005 roku. Urządzenie produkowane w Estonii.
+Pierwszą zapowiedź o jego istnieniu została ogłoszona na LinuxWorld Summit w Nowym Jorku 25 maja 2005 roku.
+Pierwsze urządzenia ukazały się w sprzedaży w listopadzie 2005 roku – najpierw w Europie (3 listopada), następnie w USA (14 listopada).
+
+Sprzęt
+Procesor: 250 MHz Texas Instruments OMAP 1710
+RAM: 64 MB DDR
+ROM: 128 MB (w tym min. 64 MB dla użytkownika)
+Pamięć: Slot kart flash RS-MMC
+WiFi: 802.11 b/g
+Bluetooth: wersja 1.2
+Wejścia/wyjścia: audio (3,5 mm), mikrofon (wbudowany), USB (standardowo jako slave), zasilanie
+Bateria: BP-5 Li-Polymer 1500 mAh
+Wyświetlacz: 800 × 480 (szerokość ok. 109 mm), 65536 kolorów,
+
+Oprogramowanie
+Tablet działa pod kontrolą dystrybucji systemu Linux, modyfikacji systemu Maemo o nazwie Internet Tablet OS.
+Pierwsze urządzenia miały preinstalowany system Internet Tablet 2005 OS, od 16 maja 2006 roku dostępna jest kolejna wersja systemu – Internet Tablet 2006 OS, w której jedną z największych zmian było wprowadzenie do pakietu standardowego aplikacji Google Talk, jako pierwszej takiej wersji tejże dla systemu Linux.
+
+Aktualne jądro systemu operacyjnego: 2.6.16
+Interface: graficzny, oparty na GTK+ i Hildon
+Obsługa audio: MP3, RealAudio, MPEG-4, AAC, WAV, AMP
+Grafika: JPEG, GIF, PNG, BMP, TIFF, Animowany GIF, SVG Tiny, ICO
+Wideo: MPEG-1, MPEG-4, RealVideo, AVI, 3GP, H.263
+Inne: PDF
+Powyższe formaty są dostępne przy standardowej instalacji – w internecie dostępne jest oprogramowanie przekompilowane specjalnie dla architektury ARM użytej w Nokii 770 rozszerzające tę listę.''
+
+Dostępne aplikacje (standardowo w wersji 2006 OS):
+Audio player – odtwarzacz muzyczny/radia internetowego
+Video player – odtwarzacz plików wideo
+RSS feed reader – agregator kanałów RSS
+File manager – menedżer plików
+Web – przeglądarka internetowa (Opera)
+E-mail – klient e-mail
+Internet call/Chat – komunikator internetowy/VoIP – wersja Google Talk
+Calculator
+Clock – zegar z mapą świata
+Images – przeglądarka plików graficznych
+Notes
+PDF reader – czytnik plików PDF
+Sketch – aplikacja graficzna
+Chess – gra w szachy
+Mahjong – chińska gra
+Marbles – gra w kulki
+
+Interakcja
+Dane można wprowadzać za pomocą pomocą wirtualnej klawiatury pojawiającej się po naciśnięciu na ekran dotykowy dostępnym rysikiem. Ekran dotykowy jest wysokiej jakości. W wersji 2006 wprowadzono udoskonalenie, dzięki któremu system rozpoznaje czy ekran dotknięty został przez rysik czy przez palec – z zależności od tego, co dotknęło ekranu, pojawia się odpowiednia wersja klawiatury – mniejsza lub większa.
+Dostępny jest także technologia rozpoznawania pisma.
+Ponieważ systemem obsługującym urządzenie jest otwarty system Linux, powstały odpowiednie łatki oraz oprogramowanie pozwalające na korzystanie z klawiatur USB oraz Bluetooth. Przy odpowiedniej konfiguracji można także korzystać z urządzenia zdalnie – m.in. dzięki protokołom SSH i/lub VNC.
+
+Programowanie
+W internecie dostępne są wszelkie narzędzia potrzebne do tworzenia oprogramowania dla Nokii 770 w językach C/C++ (wymagana jest kompilacja dla architektury ARM).
+Oprócz tego dostępne są pakiety do doinstalowania, umożliwiające pisanie aplikacji w takich językach jak Python, Ruby, BASIC oraz technologii .NET (dzięki Mono).
+
+Krytyka
+Wielu specjalistów narzekało na stosunkowo niewielką moc urządzenia w dobie kilkugigahercowych komputerów, jak i na stosunkowo niewielkie i trudno dostępne pamięci flash – RS-MMC. Niezadowalającym był też czas pracy na bateriach – ok. 3 h przy ciągłym użytkowaniu oraz korzystaniu z łączności WiFi.
+
+Fani odpierają jednak ataki, twierdząc iż Nokia770 nigdy nie miała zastępować laptopów, a stanowić niewielkie, wielofunkcyjne urządzenie, dające szybki dostęp do internetu.
+
+Kolejnym mankamentem urządzenia jest brak slotu SIM – ten jednak został dodany w kolejnej wersji urządzenia.
+Jednym z ogromnych plusów urządzenia jest sam jego system – dzięki zrezygnowaniu z zamkniętej wersji Windowsa CE oraz postawieniu na darmową, wolną dystrybucję systemu GNU/Linux, przez pół roku istnienia urządzenia powstała stosunkowo duża baza aplikacji rozszerzających znacznie funkcjonalność dostępną w standardzie (m.in. także o telefonie VoIP, dzięki projektowi Gizmo, rekompensując brak możliwości podłączenia karty SIM) oraz łatek umożliwiających funkcjonowanie urządzenia w niestandardowych trybach (np. jako tryb host umożliwiający użycie klawiatury czy karta sieciowa pod złącze USB).
+
+Linki zewnętrzne

@@ -1,0 +1,9 @@
+Mikroskop sił tarcia (FFM – z ang. Friction Force Microscope) – mierzy boczne wychylenie, bądź skręcenie dźwigienki sondy skanującej na skutek działania sił równoległych do płaszczyzny badanego materiału. FFM obrazuje zarówno zmiany tarcia, jak również nachylenia powierzchni. Do skompensowania tego drugiego efektu wykonuje się dodatkowy pomiar przy użyciu mikroskopu sił atomowych AFM. Jako tryb pracy mikroskopu typu SPM występuje jako mikroskopia sił poprzecznych, z ang. LFM – Lateral Force Microscopy.
+
+Zobacz też
+Skaningowy mikroskop tunelowy
+Mikroskop sił atomowych
+SPM
+
+
+

@@ -1,0 +1,23 @@
+System Kontroli Eksportu (ECS)''' – drugi, po systemie NCTS (New Computerised Transit System), ogólnoeuropejski system obsługujący elektronicznie wywozowe zgłoszenia celne. Budowa systemu ECS skupia się przede wszystkim wokół tzw. „domeny wspólnej” – środowiska wymiany komunikatów elektronicznych pomiędzy urzędami celnymi krajów Unii Europejskiej. 
+
+System ECS zapewnia elektroniczną wymianę komunikatów w celu zautomatyzowania procedur administracyjnych, dzięki czemu, w konsekwencji, możliwe jest potwierdzanie wywozu dla eksporterów i organów podatkowych za pomocą elektronicznych komunikatów. 
+
+System ECS obejmie również wymianę określonych elektronicznych komunikatów pomiędzy przedsiębiorcami a urzędami celnymi (pierwsza faza budowy systemu). Tak zwana „druga faza ECS” to wdrożenie funkcjonalności umożliwiającej wyprzedzające wysyłanie informacji związanych z bezpieczeństwem i ochroną, zgodnie z rozporządzeniem Komisji: (WE) nr 1875/2006. 
+
+Zgłoszenia wywozowe w systemie ECS są elektronicznymi plikami XML o zdefiniowanym formacie, zawierającymi niezbędne informacje stosownie do wskazanej procedury wywozu. Eksporterzy i zgłaszający będą mogli przesyłać zgłoszenia wywozowe elektronicznie poprzez Internet (przez strony WWW lub za pomocą poczty elektronicznej). 
+
+W harmonogramie wdrażania systemu ECS przewidziano okres przejściowy, w którym funkcjonować będą zarówno zgłoszenia elektroniczne, jak i papierowe. 
+Od 1 lipca 2009&nbsp;r. złożenie zgłoszenia w formie papierowej lub na nośnikach elektronicznych, tj. dyskietkach, CD-ROM-ach itp. będzie możliwe tylko w ściśle określonych, wyjątkowych sytuacjach (w tzw. procedurze awaryjnej). 
+Polska wersja aplikacji obsługującej system ECS, przeznaczonej dla administracji celnej w celu obsługi zgłoszenia wywozowego składanego przez przedsiębiorców polskich lub z innych krajów UE, zapewniać będzie obsługę zgłoszeń wywozowych na granicy lądowej (drogowej i kolejowej), morskiej i lotniczej.
+
+Podstawa prawna dla systemu ECS
+Rozporządzenie (WE) nr 648/2005 Parlamentu Europejskiego i Rady z dnia 13 kwietnia 2005 r. zmieniające rozporządzenie Rady (EWG) nr 2913/92 ustanawiające Wspólnotowy Kodeks Celny (DZ. U. L 117 z 4.5.2005, str. 13). 
+Rozporządzenie Komisji (WE) nr 1875/2006 z dnia 18 grudnia 2006&nbsp;r. zmieniające rozporządzenie (EWG) nr 2454/93 ustanawiające przepisy w celu wykonania rozporządzenia Rady (EWG) nr 2913/92 ustanawiającego Wspólnotowy Kodeks Celny (DZ. U. L 360 z 19.12.2006 r., str. 64)
+
+Terminy wdrożenia systemu
+Pierwsza faza wdrożenia systemu odbywa się w dwóch etapach. 
+W dniu 28 czerwca 2007&nbsp;r. został wdrożony pierwszy z nich. Polega na elektronicznej obsłudze przez polskie urzędy celne wyprowadzenia zgłoszeń celnych wywozowych składanych przez eksporterów z innych krajów UE. 
+W dniu 31 sierpnia 2007&nbsp;r. zacznie działać elektroniczna obsługa zgłoszeń celnych w Systemie Kontroli Eksportu składanych przez polskich eksporterów i zgłaszających. 
+Druga faza wdrożenia systemu ESC przewidywana jest na dzień 1 lipca 2009&nbsp;r. Polegać ona ma na całkowitym zastąpieniu zgłoszeń papierowych na formularzu SAD przez zgłoszenie w formie elektronicznej (z wyjątkiem procedury awaryjnej).
+
+Linki zewnętrzne

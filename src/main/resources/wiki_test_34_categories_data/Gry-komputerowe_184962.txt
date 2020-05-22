@@ -1,0 +1,29 @@
+ – przenośna konsola gier wideo wyprodukowana i wydana w 1998 roku przez Nintendo, będąca następcą konsoli Game Boy. Nowością w stosunku do poprzednika było wprowadzenie kolorowego wyświetlacza oraz portu podczerwieni.
+
+
+Dane techniczne
+
+Game Boy Color ma następujące dane techniczne:
+
+Procesor: 8-bitowy Z80, działający w trybie prędkości pojedynczej (4 MHz) i podwójnej (8 MHz)
+RAM: 32 KB + 96 KB VRAM + 256 KB WRAM
+Dźwięk: 4 kanałowy FM stereo
+Wyświetlacz: ciekłokrystaliczny, 160 × 144 pikseli, produkowany przez Sharp Corporation
+Paleta kolorów: 32768 kolorów (w tym do 56 kolorów jednocześnie na ekranie)
+Waga: 138 gramów
+Zasilanie: 2 baterie AA o żywotności do 10 godzin
+
+Historia
+Game Boy Color był odpowiedzią na naciski twórców gier, którzy uważali, że Game Boy nie spełniał ich oczekiwań pod względem możliwości technologicznych. Gracze domagali się też kolorowego wyświetlacza.
+
+Powstały produkt, wydany w 1998 roku, wprowadził niewielkie zmiany w stosunku do Game Boya. Prędkość procesora zwiększono dwukrotnie, natomiast pojemność kartridży – czterokrotnie. Konsola oferowała kompatybilność wsteczną względem kartridżów z Game Boya, przy czym gry na tamtą platformę zostały dostosowane do Game Boya Color poprzez zastąpienie odcieni szarości kolorami. Mimo kompromisowych rozwiązań konsola uzyskała znaczącą popularność wśród graczy. Jej sprzedaż włącznie z oryginalnym Game Boyem wyniosła 118 milionów egzemplarzy.
+
+
+
+
+
+
+
+
+
+

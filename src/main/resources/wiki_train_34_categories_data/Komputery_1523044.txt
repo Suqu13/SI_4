@@ -1,0 +1,25 @@
+Toshiba G500''' – telefon komórkowy (smartphone) firmy Toshiba. Wprowadzony na rynek w maju 2007 roku.
+
+Dane techniczne
+System operacyjny: Windows Mobile 5 for Smartphone / Windows Mobile 6.1 Standard
+Czas czuwania: do 290 h
+Czas rozmowy: do 280 min
+Pamięć wbudowana: 128 MB
+Pamięć operacyjna RAM: 64 MB
+
+Funkcje telefonu
+Możliwość rozszerzenia pamięci do 2 GB dzięki karcie pamięci miniSD (do 4 GB po zainstalowaniu odpowiedniego sterownika dodającego obsługę SDHC)
+Tylny aparat fotograficzny z matrycą CMOS o rozdzielczości 2 megapikseli (1600x1200 pikseli); dioda doświetlająca zamiast lampy błyskowej; kilka trybów fotograficznych, nagrywanie wideo w rozdzielczości 240x320 pikseli
+Przedni aparat fotograficzny, przeznaczony do wideo rozmów, o rozdzielczości 320x240 pikseli (w trybie fotografowania) i 144x176 pikseli (w trybie filmowania)
+Dynamiczne, automatyczne sterowanie mocą obliczeniową procesora dzięki zastosowaniu technologii XScale
+Windows Media Player 10 Mobile: odtwarza muzykę w formatach: MP3, AAC, AAC+, eAAC+, WMA
+Odtwarzanie filmów w formatach: H.263/MPEG4, WMV (dzięki zainstalowaniu alternatywnych odtwarzaczy można zwiększyć ilość obsługiwanych formatów)
+Komunikacja przez Bluetooth w wersji 2.0
+Możliwość podłączenia do komputera przez gniazdo USB 1.1; synchronizacja z komputerem przez ActiveSync 4.5
+przeglądarka internetowa (Internet Explorer Mobile i Opera Mobile 8.5)
+Obsługa sieci 3G oraz HSDPA
+Możliwość aktualizacji firmware telefonu do niebrandowanego Windows Mobile 6.1 Standard
+Połączenie z Internetem przez WiFi w technologii 802.11b i 802.11g
+Identyfikacja użytkownika przez czytnik linii papilarnych
+
+Linki zewnętrzne

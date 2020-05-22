@@ -1,0 +1,68 @@
+User Friendly to nazwa internetowego, codziennie uaktualnianego komiksu, opowiadającego historię grupy przyjaciół pracujących w małej firmie oferującej usługi internetowe. Specyficzny humor komiksu oparty jest na technologicznych żartach, przeplatanych komentarzami nt. aktualnych wydarzeń w branży internetowej.
+
+Twórcą komiksu jest J.D. Frazer, ps. "Illiad". Wydawany od 17 listopada 1997 roku, jest jednym z pierwszych publikowanych w internecie komiksów. Jego popularność zainspirowała wielu innych autorów do tworzenia podobnych historii, jako przykład wymienić można Penny Arcade i PvP.
+
+User Friendly jest również jednym z pierwszych komiksów internetowych publikowanych w gazetach i czasopismach.
+
+Z przyczyn osobistych Illiad zawiesił tworzenie komiksu od 1 czerwca 2009 roku do 31 lipca 2009 roku umieszczając codziennie na stronie głównej archiwalne paski. Od 1 grudnia 2009 roku komiks ponownie został zawieszony - wyjątkiem był odcinek z 1 kwietnia 2010 roku. Komiks powrócił do życia 2 sierpnia 2010 roku.
+
+Główne postacie
+A.J. Garrett
+A.J. zajmuje się w firmie projektowaniem i utrzymywaniem stron internetowych. Jako web designer jest wepchnięty w cienką szczelinę pomiędzy pracownikami technicznymi a ludźmi od marketingu. To nie znaczy, że nikt go nie lubi, ale wszyscy od czasu do czasu patrzą na niego dziwnie. Uwielbia większość gier komputerowych i jest kimś w rodzaju starszego brata dla Kurzowego. A.J. obawia się Grue'ów i stara się ich unikać. Został zwolniony z firmy dwukrotnie, ale za każdym razem szybko był przyjmowany ponownie.
+
+Spotykał się z Mirandą, ale zerwali ze sobą wskutek nieporozumienia. Wciąż jednak coś ich do siebie ciągnęło. Ostatecznie A.J. odważył się wyznać swoje uczucie i teraz są parą.
+
+Szef
+Szef, czyli CEO, jest nieustraszonym przywódcą techników i sprzedawców, a również jedynym spokojnym, trzeźwo myślącym człowiekiem w firmie. Nie byłby taki, gdyby zdawał sobie sprawę co w niej tak naprawdę się dzieje. Jest również domowym gitarzystą, który spędził lata doskonaląc sztukę doskonałego brzmienia, tylko aby się przekonać że komputery sprawiły, że jego wysiłki stały się bezcelowe.
+
+Kurzowa Kukiełka (Dust Puppy)
+Urodził się w serwerze z połączenia kurzu, kłaczków i efektów mechaniki kwantowej. Kurzowa Kukiełka (zwany też Kurzowym) wygląda jak kłębek kurzu i kłaczków z oczami, stopami, a czasem z dużym uśmiechem. Przez krótki okres był nieobecny w komiksie po przypadkowym zdmuchnięciu strumieniem sprzężonego powietrza (przez Pitra) podczas drzemki w zakurzonym serwerze. Chociaż Kurzowy jest osobą o niewinnym i przyjacielskim usposobieniu, niesamowicie gra w Quake'a. Jest również twórcą sztucznej inteligencji o imieniu Erwin, z którym od czasu do czasu daje występy wokalne.
+
+Kurzowy jest na ogół lubiany przez wszystkie postaci komiksu. Wyjątkami godnymi wymienienia są Stef i złowrogie nemezis Kurzowego - Śmieciowa Kukiełka (Crud Puppy), który pojawił się w komiksie 24 lutego 1998.
+
+Erwin
+Erwin jest wysoce zaawansowaną sztuczną inteligencją mieszkającą gdzieś w sieci. Został stworzony przez Kurzowego, który nocą eksperymentował z SI dla zabicia nudy. Napisany jest w COBOLu, bo Kurzowy przegrał zakład. Erwin śpiewająco zdaje test Turinga i ma cierpkie poczucie humoru. Jest ekspertem ze wszystkich dziedzin, o których można przeczytać w World Wide Web jak na przykład: przypadki spotkania Elvisa i teorie spiskowe na temat Obcych.
+
+Początkowo Erwin zajmował klasycznego peceta w architekturze x86, ale późniejsze miejsca zamieszkania to: iMac, Palm III, Coleco Adam na Mirze, Furby, system naprowadzający pocisku nuklearnego, SGI O2, kalkulator Hewlett-Packarda z odwrotną notacją polską, Tamagotchi, Segway, egzoszkieletowy Mechaniczny Wojownik, toaleta zaopatrzona w internet (za karę za obrażenie Hastura) oraz IBM PC 5150.
+
+W marcu 2006 Erwin zaktualizował swoje oprogramowanie (na komputerze SGI O2) i od tego czasu był uważany za superkomputer kwantowy (jakkolwiek w rzeczywistości sama aktualizacja do tego nie wystarcza). Od tego czasu korzysta m.in. z efektu Schroedingera (baza danych, gdzie stan danych jest nieoznaczony) i paradoksu Zenona.
+
+Greg Flemming
+Greg Flemming odpowiada w firmie za wsparcie techniczne. Innymi słowy, to właśnie jego klienci objeżdżają, kiedy coś nie działa. Wyładowuje się wypruwając flaki w grach komputerowych i robiąc Złe Rzeczy sprzedawcom. Nie jest z tych złych, lecz jego poczucie zdrowego rozsądku waha się pomiędzy słabym a nieistniejącym, a kiedyś pracował w Dziale Jakości Microsoftu.
+
+Mike Floyd
+Mike jest administratorem i jest odpowiedzialny za działanie sieci komputerowej w biurach. Jest bystry, ale ma tendencję do wybuchów paranoi. Najbardziej obawia się bycia zamkniętym w pomieszczeniu z programistą Windows 95 bez ostrych narzędzi w zasięgu ręki. Lubi ostre curry, najlepiej takie, które wykorzystano jako krew kosmity w filmie Obcy.
+
+Miranda Cornielle
+Miranda jest wyszkolonym technologiem systemów, doświadczonym administratorem UNIX-a i bardzo, ale to bardzo kobiecą kobietą. Jej umiejętności techniczne działają innym technikom na nerwy, ale jej oczywisty urok osobisty zmusza ich do gapienia się na nią -- nie dotyczy to Pitra, który uważa ją za wcielenie zła. Mimo że jeszcze nie ujawniono w jej charakterze żadnych wad, w kręgach psychologicznych uważa się powszechnie, że tacy "doskonali" ludzie jak ona to głęboko zaburzeni neurotycy z tendecjami socjopatycznymi. Pewnie dlatego tak często się uśmiecha.
+
+Miranda była sfrustrowana niemożnością A.J.-a do wyrażenia siebie i jego miłości do niej. W końcu jednak A.J. się przełamał i od 16 września 2005 są parą.
+
+Pitr Dubovich
+Pitr jest koderem i samozwańczym guru Linuksa. Pewnego razu nagle zaczął udawać słowiański akcent, co było częścią jego planu zostania Geniuszem Zła. Kilkakrotnie prawie mu się udało przejąć władzę nad planetą. Jest zawziętym wrogiem Sida, który niemal zawsze w czymś go przebija. Osiągnięcia Pitra obejmują: zrobienie (drugiej) najmocniejszej kawy, złączenie Coca-Coli i Pepsi w Pitr-Colę i zarobienie milionów dla Columbia Internet za pomocą bomby atomowej kupionej w Rosji.
+
+Sid Dabster
+Sid jest najstarszym i najbardziej doświadczonym z firmowych geeków. Daje mu to przewagę nad Pitrem, którego przewyższył przy kilku okazjach, jak zawody w parzeniu kawy i (raczej oszukiwana) gra w VaBanque. W odróżnieniu od Pitra nie posiada złych ambicji, ale jest przyjacielem Hastura i Cthulhu (postaci z mitologii Lovecrafta). Ma córkę, Pearl, która pracuje w tej samej firmie.
+
+Wiecznie Uśmiechnięty Facet
+Wiecznie Uśmiechnięty Facet pracuje jako kontroler i odpowiada za księgowość, finanse i wydatki. Uśmiecha się przez cały dzień bez żadnego powodu. Już przez to inni pracownicy starają się go trzymać z daleka od ostrych przedmiotów. Jego ulubioną tapetą pulpitu jest duży, skomplikowany i kompletnie bezsensowny arkusz kalkulacyjny.
+
+Stef Murky
+Stef pracuje na stanowisku szefa sprzedaży. Zajmuje się większością spraw marketingu w firmie i sprzedaje rzeczy, które często jeszcze nie istnieją. Nie potrafi zrozumieć sposobu myślenia technicznych, więc nie dogaduje się z nimi dobrze. We wszystkie gry umożliwiające wpadnięcie do lawy (przede wszystkim Quake) gra beznadziejnie. Chociaż podziwia siłę marketingowych mięśni Microsoftu, sam miał poważny problem z ich sprzedawcą, prawdopodobnie dlatego, że tamten więcej zarabia. Ma dość dziwny kontakt z kobietami i jest ogólnie znienawidzony przez geeków.
+
+Postacie drugoplanowe
+Przez większość odcinków przewija się kilka postaci. Nie są one tak eksploatowane jak np. Greg czy A.J., ale pełnią ważną rolę w fabule. Są to m.in.:
+Cthulhu
+Hastur
+Personifikacja uzależnienia (dla Grega jest to chodząca puszka Coli - Mr. Cola) - zawsze z ciemnymi okularami, niezależnie od osoby której nałóg reprezentuje
+inkwizytor RIAA
+Pearl Dabster - córka Sida, pracuje w tej samej firmie co większość bohaterów
+ważne postacie z zarządu Microsoftu, AOL, RIAA i innych firm z branży komputerowej i pokrewnych
+
+Linki zewnętrzne
+-  Komiks User Friendly
+- archiwalne (daty 2008-08-18 - 2008-10-21) i aktualne (od 2011-04-20) paski UserFriendly po polsku
+
+
+
+

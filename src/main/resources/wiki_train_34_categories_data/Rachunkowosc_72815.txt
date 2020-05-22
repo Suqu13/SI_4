@@ -1,0 +1,31 @@
+Środek trwały to składnik rzeczowych aktywów przedsiębiorstwa, wyróżniający się następującymi cechami:
+długim czasem użytkowania (powyżej 1 roku)
+postacią rzeczową (w przeciwieństwie do wartości niematerialnych i prawnych)
+jest zdatny do użytku i używany na potrzeby przedsiębiorstwa
+
+Środek trwały jest zaliczany do rzeczowych aktywów trwałych. To składnik aktywów o przewidywanym okresie użytkowania dłuższym niż jeden rok, kompletny i zdatny do użytku w momencie ich przyjęcia do eksploatacji, przeznaczony na własne potrzeby jednostki lub oddany do używania innym jednostkom na podstawie najmu, dzierżawy lub innej umowy o podobnym charakterze.
+
+Środkami trwałymi są w szczególności:
+nieruchomości, np. grunty, budynki, budowle, lokale stanowiące odrębną nieruchomość, ich części lub udziały
+maszyny i urządzenia
+środki transportu 
+inwentarz żywy
+
+Wycena wstępna środka trwałego
+Wycena wstępna środka trwałego może odbyć się wg jednego z pięciu kryteriów:
+ceny zakupu - ceny zapłaconej za składnik, zmniejszonej o wartość bonifikat, upustów i rabatów, uwzględniającą podatek VAT
+ceny nabycia - ceny zakupu powiększoną o dodatkowe koszty zw. z zakupem (np. załadunek, transport, montaż, instalacja, szkolenie itp.)
+kosztów wytworzenia - kosztów zw. z wytworzeniem środka trwałego. Do kosztów wytworzenia wliczamy koszty bezpośrednie (badania geodezyjne, prace badawcze, wynagrodzenia dla pracowników budowy itp.), oraz koszty pośrednie (odsetki od kredytów zaciągniętych na budowę, koszty zarządu odpowiedzialnego za budowę itp.)
+wartości rynkowej - wartości takiego samego, lub podobnego charakterem składnika, który można by nabyć za określoną cenę w określonym miejscu i czasie
+wartości godziwej - wartości, po jakiej dwie dobrze poinformowane strony są w stanie zawrzeć transakcję na prawach transakcji rynkowej
+
+Istnieje również pojęcie ceny sprzedaży netto - ceny, za jaką można uzyskać taki sam lub podobny charakterem składnik, pomniejszonej o podatek VAT oraz o przeciętną marżę handlową. To kryterium nie jest brane pod uwagę przy wycenie wstępnej środków trwałych.
+
+Zużycie środka trwałego
+Zużycie środka trwałego jest odzwierciedlane przez amortyzację, która jest kosztem przedsiębiorstwa rozliczanym co miesiąc, oraz umorzenie, czyli wartość dotychczas zamortyzowanej części środka trwałego. Umorzenie koryguje wartość środka trwałego, doprowadzając ją do wartości netto.
+
+Zobacz też
+Rodzaje zużycia środków trwałych
+OT - dokument przyjęcia środka trwałego
+LT - dokument rozchodu środka trwałego
+

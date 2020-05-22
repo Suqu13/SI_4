@@ -1,0 +1,11 @@
+
+
+Liniowa pułapka jonowa (Linear Ion Trap, Linear Trap Quadrupole - LTQ) – odmiana kwadrupolowego analizatora masy, w którym elektrody są czterema równoległymi prętami. Na obu końcach analizatora przykładany jest potencjał elektryczny, który uniemożliwia ucieczkę jonów z analizatora. 
+
+Pomiar masy odbywa się przez wyrzucanie jonów o określonym stosunku masy do ładunku m/Z z analizatora i detekcję. W liniowych pułapkach jonowych stosuje się często dwa detektory, co zwiększa czułość. Liniowe pułapki jonowe charakteryzują się bardzo dużą czułością (większą niż zwykłe pułapki jonowe) i stosunkowo niską rozdzielczością (kilka tysięcy). W liniowej pułapce jonowej, jony można:
+przechowywać
+poddawać fragmentacji
+mierzyć masy powstałych fragmentów
+
+
+

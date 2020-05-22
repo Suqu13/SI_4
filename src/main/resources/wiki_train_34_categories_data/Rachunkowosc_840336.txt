@@ -1,0 +1,29 @@
+Efekt dźwigni finansowej (ang. financial leverage effect) – podniesienie lub obniżenie stopy zwrotu z kapitału własnego (ROE) na skutek zastosowania długu (kapitału obcego) jako źródła finansowania działalności gospodarczej, w porównaniu do wariantu finansowania opartego jedynie o kapitał własny.
+
+Może być pozytywny (dodatni), jak i negatywny (ujemny) – ten drugi przypadek często określany jest jako maczuga finansowa. Uzyskanie dodatniego efektu dźwigni finansowej, wyrażającego się wzrostem stopy zwrotu z kapitału własnego przedsiębiorstwa, dzięki wykorzystywaniu obcych źródeł kapitału, uzależnione jest jednak od spełnienia łącznie dwóch podstawowych warunków.
+
+Po pierwsze, dodatni efekt wystąpi jedynie wówczas, gdy rentowność całego kapitału (własnego i obcego) przedsiębiorstwa obliczona jako stosunek zysku operacyjnego do łącznej wartości kapitału będzie wyższa od stopy oprocentowania długu (kapitału obcego): 
+
+Zysk operacyjny / Kapitał całkowity * 100% > kD
+gdzie:
+kD – jest to stopa oprocentowania długu, zaś przez kapitał całkowity rozumiemy sumę kapitału obcego i własnego.
+
+W przeciwnym razie zysk operacyjny wypracowany przez kapitał obcy będzie niższy od kwoty odsetek (kapitał obcy nie zarobi więc na siebie), a dodatkowo należne odsetki mogą pochłonąć część zysku operacyjnego wypracowanego przez kapitał własny, obniżając tym samym jego rentowność. Stąd płynie wniosek, że neutralność działania efektu dźwigni finansowej uzyskamy, gdy:
+
+Zysk operacyjny / Kapitał całkowity * 100% = kD
+
+Drugim warunkiem zapewniającym wystąpienie dodatniego efektu dźwigni finansowej jest zachowanie właściwej, optymalnej struktury finansowania (odpowiedniego udziału kapitału obcego w całości źródeł finansowania zapewniającego najniższy koszt kapitału). Zbyt wysoki udział długu w strukturze finansowania firmy może bowiem spowodować wzrost ryzyka bankructwa, którego źródłem może być zarówno brak możliwości zrolowania długu w terminach jego wymagalności, jak i trudności w spłacie wysokich kosztów finansowych (odsetkowych). W przypadku, gdy wysokie koszty odsetkowe są wyższe od wypracowywanego przez kapitał całkowity zysku operacyjnego, zgodnie ze wzorem na stopień dźwigni finansowej (ang. Degree of Financial Leverage) w mianowniku mamy wartość ujemną, w liczniku nadal dodatnią i w konsekwencji DFL przyjmuje wartość ujemną:
+
+DFL = Zoperbaz / Zoperbaz - O
+gdzie:
+DFL – stopień dźwigni finansowej
+Zoperbaz – poziom zysku operacyjnego według stanu bazowego tzn. według stanu bieżącego (teraźniejszego)
+O – kwota odsetek od kapitału obcego. 
+
+W konsekwencji sytuacja taka doprowadzi do wystąpienia efektu negatywnego (maczugi finansowej).
+
+Zobacz też
+dźwignia operacyjna
+
+
+Bibliografia

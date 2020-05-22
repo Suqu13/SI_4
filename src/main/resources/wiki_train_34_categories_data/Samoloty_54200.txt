@@ -1,0 +1,48 @@
+Dornier Do 335 Pfeil (pol. Strzała) – niemiecki samolot wielozadaniowy (ciężki myśliwiec, myśliwiec nocny, szybki bombowiec i samolot rozpoznawczy) z okresu II wojny światowej zbudowany w koncernie Dornier.
+
+Historia
+Początkiem powstania  samolotu wielozadaniowego Dornier Do 335'' było opatentowanie przez prof. Claudiusa Dorniera w 1937 roku układu samolotu z jednym silnikiem ze śmigłem ciągnącym z przodu kadłuba i drugim silnikiem umieszczonym w środku kadłuba, który za pomocą przedłużonego wału napędzał śmigło pchające umieszczone za usterzeniem na końcu kadłuba.
+
+Układ ten wypróbowano w 1940 roku w samolocie doświadczalnym Schremp-Hirth Gö 9'', a następnie podjęto prace wstępne nad szybkim samolotem bombowym oznaczonym jak Dornier P.231. Wkrótce jednak je zarzucono, a projekt zmieniono na samolot wielozadaniowy, oznaczony jako Dornier Do 335'' i nazwę Pfeil. Pierwszy prototyp powstał w 1943 roku i został oblatany 26 października 1943 roku.
+
+Nowy samolot Dornier Do 335'' napędzany był dwoma silnikami Daimler-Benz DB 603E o mocy 1723 KM (1325 kW), umieszczonymi jeden z przodu, a drugi z tyłu kadłuba. Ponieważ spełniał on stawiane mu wymagania, zakłady Dorniera otrzymały zamówienie na produkcję 14 samolotów prototypowych i 21 serii A-0'' i A-1''. W trakcie budowy prototypów i samolotów pierwszych serii pracowano nad ulepszeniem konstrukcji i modyfikacjami, dotyczącymi uzbrojenia i zastosowania samolotu. Kabinę pilota wyposażono w fotel wyrzucany, a dla zabezpieczenia łopat tylnego śmigła zastosowano usterzenie w układzie krzyżowym.
+
+Wersje samolotu Dornier Do 335
+Wersja A
+A-0''' – wersja A-0 to 10 egzemplarzy przedseryjnych o numerach seryjnych od W.Nr. 240101 do 240110. Ich konstrukcja i wyposażenie było niemal identyczne z prototypem Do 335 V9. Maszyny tej wersji służyły do testów silnika i wyposażenia. Egzemplarz Do 335A-010 (VG+PQ) miał być wzorcem dla produkcji wersji A-1.
+A-1''' – wersja myśliwska, nieznacznie zmodyfikowana w stosunku do wersji A-0. Wyprodukowano nieznaną liczbę samolotów tej wersji, najprawdopodobniej około 10, w większości niekompletnych. Wedle dokumentów amerykańskich samolotami w tej wersji miały być maszyny o numerach seryjnych od W.Nr. 240111 do 240123 oraz od W.Nr. 240161 do 240165. Osiem z nich (W.Nr. 240111, 240112, 240114 oraz od 240119 do 240123) zmodyfikowano do standardu A-12.
+A-2''' – wersja bombowa (Kampfflugzeug) napędzany silnikami DB 603G i mający przenosić 1000kg bomb. Najprawdopodobniej nie ukończono ani jednego egzemplarza tej wersji.
+A-3''' – ciężki myśliwiec (Zerströrer) wyposażony w instalacje GM-1 i MW-50. Najprawdopodobniej nie ukończono ani jednego egzemplarza tej wersji.
+A-4''' – samolot rozpoznawczy, którego koncepcję testowano na prototypie Do 335 V3. Wersja seryjna miała być wyposażona w dwie kamery Rb 50/18 lub Rb 50/30, zamontowane w komorze bombowej. Najprawdopodobniej nie ukończono ani jednego egzemplarza tej wersji.
+A-5''' – niezrealizowany projekt wersji myśliwskiej, najprawdopodobniej wyposażonej w silniki Jumo 213. Nie ukończono ani jednego egzemplarza tej wersji.
+A-6''' – nocny myśliwiec wyposażony w radar FuG 220 (później miał mieć FuG 218) oraz FuG 350. Prototypem tej wersji miał być Do 335 V10, oblatany 24 stycznia 1945 roku. Egzemplarz ten najprawdopodobniej został przekazany do jednostki I./NJG 3 do testów. Najprawdopodobniej zdołano zbudować jedynie jeden egzemplarz wersji seryjnej z 50 zamówionych.
+A-7''' – niezrealizowany projekt wersji bombowej, najprawdopodobniej wyposażonej w silniki Jumo 213. Nie ukończono ani jednego egzemplarza tej wersji.
+A-8''' – niezrealizowany projekt wersji niszczycielskiej, najprawdopodobniej wyposażonej w silniki Jumo 213. Nie ukończono ani jednego egzemplarza tej wersji.
+A-9''' – niezrealizowany projekt wersji rozpoznawczej, najprawdopodobniej wyposażonej w silniki Jumo 213. Nie ukończono ani jednego egzemplarza tej wersji.
+A-10''' – niezrealizowany projekt dwumiejscowej wersji szkolnej, wyposażonej w silniki Jumo 213. Nie ukończono ani jednego egzemplarza tej wersji.
+A-11''' – dwumiejscowa wersja szkolna, zbudowana w oparciu o płatowiec wersji przedseryjnej A-0. Nie ukończono ani jednego egzemplarza tej wersji.
+A-12''' – dwumiejscowa wersja szkolna, zbudowana w oparciu o płatowce wersji A-1. Do przebudowy przeznaczono osiem maszyn A-1, ale ukończono jedynie cztery.
+
+Wersja B
+Samoloty wersji B w większości przypadków miały być odpowiednikami wersji A, ale ze wzmocnioną konstrukcją i uzbrojeniem oraz zmienionym wyposażeniem. Miały też mieć większe koła podwozia oraz opancerzoną osłonę kabiny.
+
+B-1''' – niezrealizowany projekt wersji myśliwskiej, budowanej na podstawie wersji A-1. Miała mieć zmiany wspólne dla wersji B, ale pozostawione stare uzbrojenie. Nie ukończono ani jednego egzemplarza tej wersji, albowiem w trakcie budowy prototypów tej wersji zrezygnowano z jej rozwoju na rzecz wersji B-2'' i B-3''.
+B-2''' – ciężki myśliwiec dzienny ze wzmocnionym uzbrojeniem, służący do zwalczania bombowców. Nie ukończono ani jednego egzemplarza seryjnego tej wersji, powstały jedynie dwa prototypy, Do 335M13 i Do 335M14. Po wojnie Do 335M14 wpadł w ręce Francuzów i był przez nich długo testowany.
+B-3''' – ciężki myśliwiec dzienny będący rozwinięciem wersji B-2''. Miał mieć wyposażenie pozwalające na zwalczanie bombowców na większych wysokościach. Nie ukończono ani jednego egzemplarza seryjnego tej wersji, powstały jedynie trzy prototypy, Do 335M18 do M20, ale żaden z nich nie został ukończony przed zakończeniem wojny.
+B-4''' – niezrealizowany projekt samolotu rozpoznawczego, opartego o wersję A-4'', ale ze zmianami typowymi dla wersji B oraz z nowymi skrzydłami.
+B-5''' – niezrealizowany projekt samolotu treningowego. Miała to być wersja A-12'' ze zmianami typowymi dla wersji B oraz z nowymi skrzydłami.
+B-6''' – nocny myśliwiec wyposażony w zwykłe skrzydła oraz radar FuG 220, a w późniejszych maszynach FuG 218. Prototypem tej wersji był Do 335M17 (oraz prawdopodobnie Do 335M21), ale do końca wojny nie udało się go ukończyć.
+B-7''' – nocny myśliwiec wyposażony w powiększone skrzydła. Prototypem tej wersji miał być Do 335M22, ale do końca wojny nie udało się go ukończyć.
+B-8''' – nocny myśliwiec wysokościowy wyposażony w powiększone skrzydła. Prototypem tej wersji miał być Do 335M23, ale do końca wojny nie udało się go ukończyć.
+
+Zastosowanie bojowe
+Większość z niewielu ukończonych egzemplarzy samolotu Do 335 służyła jedynie do testów. W lipcu skierowano rozpoznawczego Do 335 V3 do 1./Versuchverband OKL. Wydaje się, że nie wykonywał lotów rozpoznawczych nad terytorium nieprzyjaciela.
+We wrześniu 1944 utworzono Erprobungskommando 335, jednostkę do testowania samolotu w warunkach operacyjnych. Przekazano do niej kilka egzemplarzy przedseryjnej wersji Do 335A-0 i (być może) A-1. Piloci mieli wypracować taktykę dla podstawowych wersji samolotu.
+Prototyp nocnego myśliwca, Do 335 V10, miał zostać skierowany do testów operacyjnych w I./NJG 3.
+
+Piloci alianccy spotkali Do 335 w powietrzu kilka razy, ale nigdy nie doszło do walk powietrznych. Do dziś ocalał tylko jeden egzemplarz, Do 335A-02.
+
+Opis techniczny
+Samolot Dornier Do 335'' to dolnopłat o konstrukcji całkowicie metalowej, podwoziu trójkołowym z kołem przednim (podwozie chowane w locie). Napędzany dwoma silnikami rzędowymi umieszczonymi z przodu i z tyłu kadłuba, dwa śmigła metalowe, przednie ciągnące i tylne pchające. Kabina zakryta jedno- lub dwumiejscowa.
+
+Linki zewnętrzne

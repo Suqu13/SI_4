@@ -1,0 +1,36 @@
+Stront (Sr, łac. strontium) – pierwiastek chemiczny z grupy metali ziem alkalicznych w układzie okresowym.
+
+Charakterystyka
+Stront jest srebrzystoszarym metalem, podobnym do wapnia, ale bardziej miękkim. Na jego powierzchni, tak jak w przypadku glinu, tworzy się ochronna warstwa tlenków (pasywacja). Oczyszczona powierzchnia jest jednak bardzo reaktywna – czysty stront reaguje wybuchowo z wodą i może zapalić się na powietrzu. Stront tworzy tlenki, wodorotlenki, fluorki oraz inne sole kwasów nieorganicznych i organicznych.
+
+Stront jest generalnie bardziej aktywny chemicznie niż magnez i wapń i mniej aktywny niż bar.
+
+Kationy Sr2+ należą do IV grupy analitycznej i barwią płomień na karmazynowoczerwony.
+
+Występowanie
+Występuje w skorupie ziemskiej w ilościach 370 ppm, w postaci dwóch minerałów – celestynu (siarczan) i stroncjanitu (węglan).
+
+Pierwiastek ten posiada 32 izotopy z przedziału mas 73÷105 o czasie połowicznego zaniku minimum 1ms. Trwałe są cztery z nich – 84, 86, 87 i 88, które też stanowią naturalny skład izotopowy tego pierwiastka. Promieniotwórczy izotop 90Sr jest jednym z najgroźniejszych produktów wybuchów jądrowych. Gromadzi się w tkance kostnej, emituje silne promieniowanie β, a jego czas połowicznego zaniku wynosi blisko 29 lat.
+
+Odkrycie
+Stront został uznany za pierwiastek w 1790 roku przez A. Crawforda, wyodrębniony przez H. Davy'ego w Londynie. Nazwa pochodzi od szkockiej miejscowości Strontian.
+
+Zastosowanie
+Stront w czystej postaci jest stosowany jako dodatek do niektórych gatunków szkła – np. stosowanych do produkcji ekranów telewizyjnych. Ze względu na to, że barwi płomień intensywnym, karmino-czerwonym kolorem jego sole są dodawane do ogni sztucznych i rakiet sygnałowych.
+
+Znaczenie biologiczne
+Stront jest traktowany przez organizm zwierzęcy bardzo podobnie jak wapń i może być wbudowywany w strukturę kości. Większość pobranego strontu, 80-70% zostaje szybko wydalona, 20-30% zostaje zatrzymana w układzie kostnym, a ok. 1% odkłada się w krwi. Wykorzystywane jest to w brachyterapii raka kości, gdzie pacjentom podawany jest izotop 89Sr (o czasie połowicznego rozpadu ok. 50 dni, emitujący promieniowanie β. Z kolei ranelinian strontu pobudza kościotworzenie i jest stosowany jako lek przeciwko osteoporozie.
+
+Ze względu na łatwe wchłanianie i trwałe wbudowywanie do organizmu, szczególnie niebezpieczne są radioaktywne izotopy strontu będące składnikami opadów promieniotwórczych i innych produktów odpadowych technologii jądrowych. Szczególnie 90Sr ze względu na swój dość długi czas połowicznego rozpadu, wynoszący blisko 29 lat, utrzymuje się w skażonym środowisku przez długi okres. Z drugiej strony czas ten jest na tyle mały, że znaczna jego część rozpada się podczas życia człowieka. Izotopy te mogą być wdychane z pyłami w powietrzu, choć główną drogą dostawania się do organizmu jest spożywany pokarm. Może być to przyczyną wzrostu ryzyka zachorowania na raka kości i białaczkę.
+
+
+
+
+
+Bibliografia
+Jerzy Minczewski, Zygmunt Marczenko Chemia analityczna – 1 podstawy teoretyczne i analiza jakościowa (Wydawnictwo Naukowe PWN) Warszawa 2001 ISBN 83-01-13499-2
+
+
+
+
+

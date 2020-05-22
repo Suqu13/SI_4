@@ -1,0 +1,23 @@
+Produkcja w toku – termin używany w rachunkowości finansowej na określenie części produkcji przedsiębiorstwa, która nie została ukończona na koniec okresu rozliczeniowego (miesiąca), obejmuje produkty lub usługi w fazie tworzenia, na które poniesiono nakłady finansowe (zakupione materiały lub usługi obce, zapłacone lub należne wynagrodzenia pracowników itp.), lecz które nie osiągnęły jeszcze statusu wyrobów gotowych. Produkcję w toku wraz z półfabrykatami zalicza się do produkcji niezakończonej przedsiębiorstwa. Praktyczne rozróżnienie pomiędzy półfabrykatami i produkcją w toku bywa często trudne. Przyjmuje się, że półfabrykatem można określić produkt nieukończony, który przeszedł określone fazy procesu technologicznego i nadaje się do zmagazynowania, czyli można go zewidencjonować ilościowo i wartościowo, natomiast produkt niespełniający tych warunków zaliczany jest do produkcji w toku. Przykładem półfabrykatu może być gotowy podzespół (np. podwozie lub rama) pojazdu w produkcji, a przykładem produkcji w toku – przechodzący naprawę pojazd szynowy, w którym np. dokonano wymiany poszycia pudła i rewizji wózków, a nie ukończono regeneracji zderzaków lub wymiany sprzęgów.
+
+Produkcja w toku podlega rozliczaniu na koniec każdego okresu rozliczeniowego przedsiębiorstwa, a czynnikiem warunkującym jej rozliczenie jest możliwość odniesienia ponoszonych wydatków do pojedynczych wyrobów lub ich grup za pomocą kalkulacji kosztów. W tym celu najczęściej stosuje się system gromadzenia bezpośrednich (pierwotnych) kosztów rodzajowych odnoszących się do wyrobu (wyrobów) na zleceniach produkcyjnych lub stanowiskach kosztów. Po ukończeniu produkcji zamyka się zlecenia produkcyjne i nalicza koszty pośrednie jako narzuty (przeważnie naliczane w stosunku do robocizny). W ten sposób powstaje tzw. techniczny koszt wytworzenia. Proces rozliczania produkcji w toku jest istotny z punktu widzenia kształtowania się wyniku na sprzedaży przedsiębiorstwa, ponieważ poniesione nakłady finansowe (jak również zużyte materiały i energia), które zostaną odniesione do produkcji w toku stają się kosztami w rozumieniu księgowym dopiero po wytworzeniu wyrobu gotowego i zamknięciu zleceń produkcyjnych. W tym miejscu uwidacznia się różnica między produkcją w toku a półfabrykatami, które przyjmuje się na magazyn po cenie wytworzenia, tj. według poniesionych kosztów lub według kalkulacji – półfabrykaty zwiększają w ten sposób zapasy, ale jednocześnie koszty ich wytworzenia zaliczane są do kosztów działalności operacyjnej przedsiębiorstwa.
+Wpływ produkcji w toku na wynik ze sprzedaży przedsiębiorstwa zależny jest od kształtowania się relacji pomiędzy wartością nieukończonych produktów w miesiącu bieżącym a wartością produkcji w toku z miesiąca poprzedniego. Pokazują to poniższe przykłady:
+Przykład pierwszy – spadek produkcji w toku
+W styczniu wartość produkcji w toku wyniosła 100 000 PLN
+W lutym ukończono styczniową produkcję w toku na wartość 70 000 PLN i jednocześnie nie ukończono lutowej produkcji na wartość 20 000 PLN
+Na koniec lutego produkcja w toku wyniesie 30 000 PLN ze stycznia + 20 000 PLN z lutego = 50 000 PLN
+W Rachunku Zysków i Strat w części AII(w wariancie porównawczym) pojawi się z tego tytułu wartość – 50 000 PLN
+Przykład drugi – wzrost produkcji w toku
+W styczniu wartość produkcji w toku wyniosła 100 000 PLN
+W lutym ukończono styczniową produkcję w toku na wartość 70 000 PLN i jednocześnie nie ukończono lutowej produkcji na wartość 120 000 PLN
+Na koniec lutego produkcja w toku wyniesie 30 000 PLN ze stycznia + 120 000 PLN z lutego = 150 000 PLN
+W Rachunku Zysków i Strat pojawi się z tego tytułu wartość + 50 000 PLN
+
+Produkcja w toku wraz z Rozliczeniami Międzyokresowymi Kosztów składają się na zmianę stanu produktów.
+
+
+Bibliografia
+Ryszard Stadtmüller: Rachunkowość w przedsiębiorstwie przemysłowym,Państwowe Wydawnictwo Naukowe, Warszawa – Wrocław 1981, ISBN 83-01-02431-3
+Ryszard Stadtmüller: Podstawy rachunkowości,Państwowe Wydawnictwo Naukowe, Warszawa – Wrocław 1981, ISBN 83-01-00273-5
+
+

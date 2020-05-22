@@ -1,0 +1,5 @@
+Kandoluminescencja jest to luminescencja powstająca w wyniku umieszczenia pewnych substancji w płomieniu. W tym przypadku świecenie polega nie na luminescencji, lecz na promieniowaniu cieplnym ciał wybiórczo absorbujących. Najbardziej prawdopodobną przyczyną kandoluminescencji jest wzbudzenie następujące podczas rekombinacji atomów i rodników w cząsteczkach.
+
+Zjawisko to może być wykorzystane np. przy konstruowaniu lamp turystycznych, zasilanych gazem z butli.
+
+

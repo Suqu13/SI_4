@@ -1,0 +1,37 @@
+Nikon F70''' (w Stanach Zjednoczonych sprzedawany pod nazwą N70''') jest jednoobiektywową lustrzanką na film małoobrazkowy 35mm produkowanym przez firmę Nikon. Wprowadzona na rynek w 1994 roku.
+W aparacie zastosowany nowatorski sposób zmiany ustawień przez użycie kombinacji klawiszy Function i Set wraz z pokrętłem. Z tego powodu nie zdobył wielkiej popularności, gdyż sposób jego obsługi był całkowicie inny niż w pozostałych lustrzankach tamtej epoki.
+
+Parametry
+Typ aparatu: Lustrzanka jednoobiektywowa 
+Format klatki: 24mm x 36mm - film 35mm 
+Mocowanie obiektywu: bagnet Nikon F 
+Obiektywy: Nikkor typ D, AF-I, AI-P, AI, AI-S lub inne zgodne 
+Nastawianie ostrości: Autofocus, ręczny z elektronicznym dalmierzem 
+Pole pomiarowe AF: Szerokie i punktowe 
+Rodzaje AF: Pojedynczy i ciągły ze śledzeniem obiektu 
+Zakres działania AF: od 1 do 19 EV (przy 100 ISO) 
+Elektroniczny dalmierz: Dostępny z obiektywami AF i manualnymi o jasności co najmniej f/5.6 
+Sposoby pomiaru oświetlenia: Matrycowy 3D z 8-segmentowym czujnikiem, centralnie ważony i punktowy 
+Zakres pomiaru: od -1 do 20 EV przy pomiarze matrycowym i centralnie ważonym, od 4 do 20 EV przy pomiarze punktowym - dla 100 ISO i przy obiektywie f/1.4 
+Automatyka programowana: Pełna automatyka, priorytet czasu, priorytet przysłony, tryb ręczny 
+Programy Vari: Portretowy, głębi ostrości, pejzażowy, zdjęć z bliska, sportowy, sylwetkowy, zdjęć nocnych i zdjęć w ruchu 
+Migawka: pionowa, o sterowaniu elektromagnetycznym 
+Zakres czasów migawki: 1/4000s do 30s co 1/3 EV oraz czas B 
+Zakres czułości filmu: dla kodu DX od 25 to 5000 ISO, dla ustawienia ręcznego od 6 to 6400 ISO 
+Przesuw filmu: o jedną klatkę, seryjny 2 lub 3,7kl/s - możliwy przesuw normalny i cichy 
+Zwijanie powrotne: Normalne ok. 12s dla filmu 36 kl. lub ciche ok. 22s dla filmu 36 kl. 
+Wbudowana lampa błyskowa: liczba przewodnia 14 dla 100 ISO, kąt rozsyłu światła dla obiektywu 28mm, pomiar TTL, redukcja czerwonych oczu, synchronizacja na drugą lamelkę 
+Synchronizacja błysku: najkrótszy czas - 1/125s 
+3 zapisywalne ustawienia użytkownika
+Blokada ekspozycji
+Źródło prądu: baterie litowe 2xCR123A 
+Pobór prądu:
+Wyłączony 22 uA 
+Włączony w st. spocz. 61 uA 
+Włączony - pom. ekspoz. 135 mA 
+Ostrzenie obiektywu 492 mA 
+Ładowanie lampy błysk. 1100 mA 
+Wymiary: 15x105x70mm 
+Waga: 585 g bez baterii 
+
+Linki zewnętrzne

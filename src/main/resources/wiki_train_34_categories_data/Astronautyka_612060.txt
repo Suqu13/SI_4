@@ -1,0 +1,35 @@
+ARTEMIS (ang. Advanced data Relay and TEchnology MIssion Satellite – satelita zaawansowanego przesyłu danych i technologii; dosłownie „Artemida”) – europejski satelita technologiczny i komunikacyjny, wyniesiony w przestrzeń kosmiczną przez agencję kosmiczną ESA. Jako pierwszy w historii nawiązał laserowe połączenie między dwoma satelitami.
+
+Opis i przebieg misji
+ARTEMIS jest komunikacyjnym satelitą wystrzelonym 12 lipca 2001 przez ESA. Powstał w wyniku współpracy ESA, ALTEL i Astrium. Stanowi platformę technologiczną do badań w zakresie telekomunikacji i przesyłania danych. Awaria rakiety Ariane 5G spowodowała, że statek nie osiągnął docelowej orbity transferowej.
+
+Planowe orbity statku miały wyglądać następująco:
+początkowa, przejściowa: 591&nbsp;×&nbsp;17547&nbsp;km; 318,46 minut; 2,9°
+planowana orbita przejściowa, nieosiągnięta: 858&nbsp;×&nbsp;35853&nbsp;km; 2°
+
+ESP (ostatni człon rakiety) pracował na ciągu 80% wartości nominalnej i wyłączył się 80 sekund przed czasem. Przyczyną był prawdopodobnie wyciek paliwa, który zaczął się tuż po zapłonie silnika. Po dwunastu dniach manewrów orbitalnych, obsługa naziemna umieściła satelitę na orbicie kołowej, dzięki jego własnym silnikom (chemicznemu i jonowemu). Sądzono, że awaria skróci czas trwania misji z 10 – 12 lat, do 2 – 5 lat. Jednak satelita działa do tej pory, zakończył już swoją misję podstawową i będzie pracował aż do zaplanowanej na rok 2014 deorbitacji.
+
+22 listopada 2001 – ARTEMIS nawiązał komunikację laserową z satelitą obrazującym SPOT 4. Łącze laserowe o prędkości przesyłania danych 50 Mbps, było pierwszym takim łączem ustanowionym między dwoma satelitami.
+
+18 lutego 2003 – ARTEMIS osiągnął docelową orbitę geostacjonarną.
+
+19 marca 2003 – ARTEMIS pośredniczył w przekazaniu na Ziemię pierwszych zdjęć wykonanych przez satelitę Envisat.
+
+8 kwietnia 2003 – ESA i NASDA dokonały pomyślnego testu wymiany danych między satelitami ARTEMIS i ADEOS 2.
+
+8 października 2003 – ekipa programu ARTEMIS otrzymała nagrodę AIAA za rok 2003 w kategorii Operations & Support (eksploatacja i wsparcie). Przyznano ją w ramach konferencji AIAA, Space 2003'', w Long Beach w Kalifornii. Cytat z uzasadnienia: Za uratowanie misji ARTEMIS i za zademonstrowanie po raz pierwszy: optycznego łącza między orbitującymi satelitami; daleko posuniętego (ok. 20% całości oprogramowania, ok. 15 000 słów) przeprogramowania działającego satelity komunikacyjnego; transferu na orbitę geostacjonarną za pomocą silnika jonowego i najdłuższego dotychczas kontrolowanego dryfu na orbicie.''
+
+Ładunek
+terminal laserowej transmisji optycznej SILEX (cześć odbiorcza; nadajnik na satelitach SPOT 4 i SPOT 5)
+terminal SKDR do łączności w paśmie Ka i S
+terminal łączności w paśmie L
+
+Zadania satelity
+prowadzenie transmisji głosowych i danych pomiędzy telefonami mobilnymi w Europie i Ameryce Północnej (pasmo L)
+pośredniczenie w łączności między satelitami niskoorbitującymi a stacjami naziemnymi (poprzez łącze laserowe), prędkości transmisji rzędu 50 Mbps
+nadawanie sygnałów systemu EGNOS oraz wspieranie usług oferowanych przez ten system – EGNOS Open Service oraz usługa „bezpieczeństwa życia” (ang. safety-of-life)
+zapewnienie łączności ze statkami transportowymi ATV w trakcie trwania ich misji na Międzynarodową Stację Kosmiczną (ISS)
+
+
+
+Linki zewnętrzne

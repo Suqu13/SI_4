@@ -1,0 +1,32 @@
+Chengdu J-20''' – prototypowy chiński myśliwiec piątej generacji wykonany w technologii stealth.
+
+Historia
+Pierwsze informacje dotyczące nowego typu chińskiego myśliwca zbudowanego z wykorzystaniem technologii obniżających skuteczną powierzchnię odbicia radiolokacyjnego pochodzą od Office of Naval Intelligence (Biuro Wywiadu Marynarki Wojennej). W drugiej połowie lat 90. XX wieku amerykański wywiad informował o prowadzonych w Chengdu Aircraft Industry Group pracach nad nowym, wielozadaniowym myśliwcem, nazwanym w Stanach Zjednoczonych XXJ. Miała być to maszyna odpowiadająca gabarytami i konfiguracją rosyjskiemu MiG-31 i amerykańskiemu McDonnell Douglas F-15 Eagle. Przewidywano, że wejdzie ona do służby liniowej w 2015 roku. Kolejne doniesienia amerykańskiego wywiadu wskazywały na Shenyang Aircraft Corporation jako miejsce prac nad samolotem, którego układ konstrukcyjny przypominał rosyjski Su-47 ale ze skrzydłami o dodatnim, klasycznym skosie. O rosyjskim rodowodzie nowego samolotu miała również świadczyć współpraca chińskich konstruktorów ze specjalistami z wytwórni Suchoja.
+
+W 2002 roku ujawniono zdjęcia makiety nowej maszyny, którą badano w tunelu aerodynamicznym. W 2004 roku ponownie uznano, że pracami nad samolotem zajmują się specjaliści z Chengdu. Rok później na chińskich stronach internetowych pojawiły się pierwsze zdjęcia samolotu określanego mianem J-14, przypominającego amerykański Lockheed F-22 Raptor. Specjaliści lotniczy dość sceptycznie podchodzili do ujawnionych fotografii podejrzewając celową mistyfikację chińskich władz. W listopadzie 2009 roku, generał He Weirong, zastępca dowódcy chińskich sił powietrznych ujawnił, że w 2010 – 2011 roku oblatany zostanie nowy chiński myśliwiec będący równorzędną konstrukcją dla F-22. Rok później, na China International Aviation & Aerospace Exhibition ujawniono dalsze informacje o powstającym samolocie. Pokazano między innymi makietę kabiny samolotu, a w grudniu 2010 roku w internecie pojawiły się pierwsze zdjęcia samolotu na przyzakładowym lotnisku w Chengdu.
+
+Oblotu nowej maszyny dokonano 11 stycznia 2011 roku, za sterami samolotu siedział pułkownik Liang Wanjun – pilot, który wcześniej brał udział w pracach nad samolotami Chengdu J-7, JF-17 Thunder i Chengdu J-10. Ujawniony egzemplarz miał numer boczny 2001, według niepotwierdzonych źródeł istnieje jeszcze jeden samolot o numerze bocznym 2002. Przygotowania do oblotu rozpoczęto 22 grudnia 2010 roku, prawdopodobnie maszyna miała się wznieść do swojego dziewiczego lotu 7 stycznia 2011 jednak z nieznanych powodów oblot przełożono na 11 stycznia. Jest wielce prawdopodobne, że data oblotu związana była z wizytą w Chinach Sekretarza Obrony USA, Roberta Gatesa.
+
+Według oficjalnych chińskich doniesień samolot ma trafić do eksploatacji w latach 2017 -2019. 16 maja 2012 roku do swojego dziewiczego lotu wzbił się drugi prototyp maszyny J-20 oznaczony numerem 2002 a 1 marca 2014 roku trzeci samolot prototypowy o numerze bocznym 2011.
+
+Konstrukcja
+J-20 jest wolnonośnym górnopłatem napędzanym dwoma silnikami. Na J-20 zastosowano układ aerodynamiczny zwany potocznie „kaczką”, w którym skośne, o dodatnim wzniosie usterzenie poziome znajduje się w części dziobowej przed skrzydłami za kabiną pilota. Skrzydła o trapezowym obrysie z krótkimi napływami, mocno przesunięte do tyłu kadłuba, krawędzie spływu skrzydeł sięgają połowy dysz silników. Skrzydła o niewielkim ujemnym wzniosie zaopatrzone w klapy noskowe na krawędzi natarcia oraz klapy i klapolotki na krawędzi spływu. Silnie rozchylone stateczniki pionowe odchylające się całą swoją powierzchnią (usterzenie płytowe) pełniące prawdopodobnie również rolę hamulców aerodynamicznych skracających dobieg samolotu. Pod usterzeniem pionowym zamontowano nieruchome, silnie rozchylone na zewnątrz, o trapezowym obrysie powierzchnie aerodynamiczne. Ich obecność może świadczyć o problemach ze statecznością kierunkową samolotu, na tyle dużą, że zdecydowano się je umieścić, chociaż wiadomo, że stanowią one element znacząco zwiększający echo radiolokacyjne samolotu.
+
+Po obu stronach kadłuba, tuż za kabiną pilota znajdują się prostokątne, ustawione skośnie względem płaszczyzny pionowej kadłuba, wloty powietrza do silników. Są one dość szeroko rozstawione względem silników co sprzyja schowaniu ich turbin, generujących silne echo radarowe. Na kadłubie tuż przed wlotami w ich górnej części umieszczono regulatory przepływu powietrza do wlotów. Dodatkowo zmniejszają one echo radiolokacyjne jakie generują wloty powietrza do silników. W pobliżu wlotów umieszczono również klapy zapobiegające pompażowi silników. Kadłub o trapezowym przekroju z krótszą podstawą. Jego przód posiada poziomą krawędź zmniejszającą echo radiolokacyjne maszyny. Mocno nachylone krawędzie boczne kadłuba również sprzyjają zmniejszeniu echa radarowego. Kroplowa osłona kabiny odchylana w całości do tyłu.
+
+Samolot posiada proste, trójpodporowe, chowane podwozie z przednim podparciem. Przednie koło chowa się do wnęki w kadłubie, główne do wnęk po bokach kadłuba. Na kadłubie pomiędzy silnikami umieszczono komorę ze spadochronem hamującym. Nie jest jasne jakie w J-20 zastosowano silniki. Prawdopodobnie są to rosyjskie AL-31F (możliwe jest również, że są to silniki w wersji FN) o ciągu 123 kN lub AL-37FU o ciągu (z dopalaniem) 145 kN lub chińskie WS-10G o ciągu 130 kN. Żaden z nich nie jest na tyle mocny, aby zapewnić dość dużej i ciężkiej konstrukcji (szacunkowa masa samolotu wynosi około 40 ton) jaką jest J-20 odpowiednią prędkość naddźwiękową bez użycia dopalaczy.
+
+Uzbrojenie będzie przenoszone w wewnętrznych komorach uzbrojenia aczkolwiek dość duży prześwit pomiędzy dolną krawędzią kadłuba a ziemią sugeruje również możliwość zastosowania uzbrojenia podwieszanego na zewnętrznych węzłach.
+
+Nie jest jasne, w jakim stopniu nowy samolot jest wytworem rodzimej myśli technicznej, a na ile w jego budowie uczestniczyli zagraniczni specjaliści. Prawdopodobnym jest, że w budowie i projektowaniu J-20 brali udział inżynierowie rosyjscy. Pewne podobieństwa do samolotu MiG 1-44 mogą wskazywać na udział konstruktorów MiGa, którzy brali już udział w pracach prowadzonych w Chengdu nad myśliwcem J-10.
+
+
+Bibliografia
+Piotr Butowski, Chiński myśliwiec piątej generacji rozpoczął badania w locie, "Lotnictwo", nr 2/3 (2011), s. 6-7, .
+Bartosz Głowcaki, Chińska zagadka w powietrzu, "Raport", nr 01 (2011), s. 36-42, .
+Tomasz Szulc, Nowy chiński myśliwiec J-20'', "Nowa Technika Wojskowa", nr 2 (2011), s. 62-70, .
+
+
+
+
+

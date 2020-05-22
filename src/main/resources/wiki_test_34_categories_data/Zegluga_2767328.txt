@@ -1,0 +1,3 @@
+Sonar przechwytujący – rodzaj sonaru pasywnego przeznaczony do przechwytywania z wyprzedzeniem sygnałów wrogiego sonaru aktywnego. Instalowany jest zazwyczaj na szczycie kiosku, w celu umożliwienia przechwytywania emisji akustycznej z każdego kierunku. W nowoczesnych okrętach podwodnych, sonar przechwytujący zastępowany jest modułem w podstawowym systemie sonarowym.
+
+Bibliografia

@@ -1,0 +1,31 @@
+PZL.46 Sum – prototyp polskiego lekkiego bombowca i samolotu rozpoznawczego projektu zespołu pod kierunkiem inżyniera Stanisława Praussa, opracowany i oblatany przez Jerzego Widawskiego w Państwowych Zakładach Lotniczych w roku 1938.
+
+Historia
+W 1937 roku dowództwo polskiego lotnictwa, korzystając z doświadczeń, jakich dostarczył doświadczalny samolot PZL.42, zwróciła się do Państwowych Zakładów Lotniczych o opracowanie nowego samolotu. Samolot ten otrzymał nazwę PZL.46 Sum. Do zespołu konstruktorów, pracujących pod kierunkiem inż. Stanisława Praussa, weszli między innymi inżynierowie: Tadeusz Sołtyk, Kazimierz Głębicki i Jan Staszek. Wysuwaną gondolę podkadłubową opracował J. Lewczuk.
+
+Od swojego poprzednika, samolotu PZL.42, PZL.46 Sum odróżniał się: dopracowanym profilem aerodynamicznym i mocniejszym silnikiem, wciąganą wanną bombardiersko-strzelecką, zasuwaną osłoną stanowiska tylnego strzelca. Miał mieć również chowane podwozie, lecz później zrezygnowano z tej koncepcji. Zmiany te dały doskonały rezultat w postaci wzrostu prędkości o 30% przy zastosowaniu silnika o mocy większej jedynie o 30%. 
+
+Tak opracowany samolot znalazł się w centrum zainteresowania lotnictwa polskiego, które zamówiło cztery prototypy, jeden do prób statycznych i trzy do prób w locie. Do prac przy ich budowie przystąpiono na początku 1938 roku. W lipcu 1938 roku zbudowano pierwszy prototyp do prób statycznych. Pierwszy prototyp do prób w locie był gotowy w sierpniu 1938 roku i został oznaczony jako PZL.46/I. Był on wyposażony w silnik gwiazdowy Bristol Pegasus XXB o mocy 918 KM (676 kW). Prototyp ten oblatano pod koniec sierpnia 1938 roku przez pilota fabrycznego Jerzego Widawskiego na lotnisku Okęcie w Warszawie, samolot ten po próbach w locie został zaprezentowany na Paryskim Salonie Lotniczym w okresie od 25 listopada do 11 grudnia 1938 roku.
+
+Po usunięciu zauważonych w pierwszym prototypie usterek i wprowadzeniu niezbędnych zmian, na początku marca 1939 roku dokonano oblotu drugiego prototypu oznaczonego jako PZL.46/II Sum. Próby w locie wykazały że jest to w pełni udana konstrukcja i ma zadowalające osiągi. Postanowiono więc, że samolot nadaje się do produkcji seryjnej. Po oblocie dwóch pierwszych prototypów, w lecie 1939 roku przystąpiono do produkcji trzeciego prototypu oznaczonego PZL.46/III Sum z jeszcze mocniejszym silnikiem gwiazdowym Gnôme-Rhône 14N21 o mocy 1030 KM (758 kW). Samolotu nie udało się jednak dokończyć w związku z wybuchem wojny. Jeszcze pod koniec 1938 roku po oblocie pierwszego prototypu wytwórnia PZL otrzymała od Dowództwa Lotnictwa zamówienie na 160 sztuk samolotów PZL.46 Sum, które 28 marca 1939 roku zwiększono do 300 sztuk dla polskiego lotnictwa wojskowego, a wzorcem miał być samolot PZL.46/II. Także Bułgaria rozważała zamówienie na 12 samolotów PZL.46 Sum, lecz tu wzorcem miał być prototyp PZL.46/III. Latem 1939 r. prace nad wykonywanym w PZL zamówieniem przerwano, dając pierwszeństwo produkcji samolotów myśliwskich. Fakt ten oraz wybuch II wojny światowej spowodowały, że nie zdołano ukończyć ani jednego seryjnego samolotu. Wykonane już części w dniach 2 - 3 września 1939 roku ukryto w warsztacie samochodowym na Czerniakowie w Warszawie. Reszta części i pierwszy prototyp PZL.46/I zostały zniszczone w czasie nalotów na wytwórnię we wrześniu 1939 roku.
+
+Zbudowano tylko dwa samoloty prototypowe PZL.46 Sum.
+
+Użycie w lotnictwie polskim
+Samolot nie znalazł się na wyposażeniu lotnictwa polskiego, gdyż nie rozpoczęto jego produkcji seryjnej. Natomiast 5 września 1939 roku pil. inż. Stanisław Riess wystartował na samolocie PZL.46/II Sum i udał się w kierunku Lwowa. Po naprawieniu na lotnisku Wielick na Wołyniu usterzenia pionowego samolotu, 17 września 1939 roku przeleciał on do Bukaresztu, gdzie został internowany. Pod pretekstem odprowadzenia samolotu na lotnisko fabryczne rumuńskiej wytwórni lotniczej IAR w Braszowie, 26 września 1939 roku pil. inż. Stanisław Riess wraz z mjr. piechoty E. Galinatem oraz strzelcami pokładowymi: kpr. W. Urbanowiczem i kpr. W. Hadziewiczem wykonali lot z Rumunii do oblężonej Warszawy, gdzie wylądowali ok. godz. 18.00 na lotnisku mokotowskim. Samolot podczas lądowania wjechał w lej po bombie i uszkodził sobie podwozie. Głównym celem lotu było dostarczenie przez mjr. Galinata rozkazów od marszałka Edwarda Rydza-Śmigłego, w tym podpisanego in blanco rozkazu o mianowaniu dowódcy polskiego podziemia. 27 września 1939 roku samolot PZL.46 Sum został naprawiony i z tą samą załogą lotniczą (prawdopodobnie mjr. Galinata zastąpił kpr. pil. I. Radzimiński) wystartował z Warszawy i odleciał do Kowna, gdzie dotarł po 1,5 godziny lotu. Później załoga przedostała się do Wielkiej Brytanii. Pozostawiony na Litwie samolot został włączony do lotnictwa radzieckiego, a następnie został przejęty przez wojska niemieckie i jako samolot niezidentyfikowany został zezłomowany.
+
+Ewakuowany Sum był uzbrojony.
+
+Opis konstrukcji
+
+Samolot PZL.46/II Sum był prototypem trzymiejscowego samolotu rozpoznawczo-bombowego, dolnopłatem o konstrukcji metalowej, duraluminiowej. Podwozie klasyczne trójkołowe, stałe. 
+Nowatorskim rozwiązaniem była wciągana w kadłub kołyska bombardiera/strzelca i zasuwana osłona stanowiska tylnego strzelca pokładowego. Planowane uzbrojenie miało stanowić 6 karabinów maszynowych (2 w skrzydłach, 2 w kadłubie i 2 strzelców pokładowych). Przewidywano również chowanie uzbrojenia strzeleckiego we wnęki w kadłubie.
+Samolot napędzany był przez 9-cylindrowy silnik gwiazdowy Bristol Pegasus XXB o mocy 676 kW (918 KM). Śmigło trójłopatowe, metalowe.
+
+Wersje
+PZL.46/I – lekki bombowiec, pierwszy prototyp.
+PZL.46/II – lekki bombowiec, drugi prototyp (wzór wersji seryjnej).
+PZL.46/III – lekki bombowiec, trzeci prototyp (wzór wersji eksportowej przeznaczonej dla Bułgarii) – nie został wykończony.
+
+
+Bibliografia

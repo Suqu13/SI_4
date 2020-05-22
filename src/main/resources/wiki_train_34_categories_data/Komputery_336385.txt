@@ -1,0 +1,14 @@
+PMD-85''' - czechosłowacki komputer produkowany od roku 1985 przez firmę Tesla w Bratysławie.
+
+
+
+Oparty na klonie procesora 8080 (MHB 8080A) taktowanego z częstotliwością 2,048 MHz, posiadał w zależności od wersji od 48 do 64 kB RAM-u i 4 do 8 kB pamięci ROM. Komputer był w stanie wyświetlać 4 kolory (8 w wersji PMD-85-3) w rozdzielczości 288×256 i emitować monofoniczny jednokanałowy dźwięk. Klawiatura posiadała 77 klawiszy. Język oprogramowania - BASIC G - dostarczany był na osobnym kartridżu. Do komputera można było podłączyć magnetofon kasetowy oraz drukarkę igłową.
+
+Wyprodukowano 5 wersji:
+PMD-85-1 (podstawowa, z 48 kB RAM-u)
+PMD-85-2 (nowa klawiatura i oprogramowanie, 48 kB RAM-u)
+PMD-85-2A (nowa płyta główna, 64 kB RAM-u)
+PMD-85-3 (nowa płyta główna, 64 kB RAM-u i 8 kB ROM-u, możliwość wyświetlania 8 kolorów)
+Mato (wyprodukowany w 1989 słowacki klon w nowej obudowie, procesor taktowany 2,048 MHz, 48 kB RAM-u, 14 kB ROM-u)
+
+

@@ -1,0 +1,24 @@
+e-WUŚ, elektroniczny system weryfikacji uprawnień świadczeniobiorców – system wprowadzony 1 stycznia 2013 r., pozwala na weryfikowanie prawa pacjenta do opieki medycznej finansowanej przez NFZ na podstawie numeru PESEL, pozwala szybko sprawdzić ubezpieczenia pacjenta.
+
+Informacje zgromadzone w systemie e-WUŚ są aktualizowane codziennie według danych otrzymywanych m.in. z ZUS i KRUS i przedstawiają stan uprawnień pacjenta w dniu, w którym dokonano sprawdzenia. e-WUŚ jest powiązany z Centralnym Wykazem Ubezpieczonych (CWU).
+
+W porównaniu do obowiązującego poprzednio obowiązku przedstawiania aktualnych dokumentów (np. zaświadczenia z zakładu pracy, legitymacji emeryta lub rencisty, aktualnego zgłoszenia do ubezpieczenia zdrowotnego) jest znaczącym postępem w dostępie do opieki zdrowotnej.
+
+System przeznaczony jest dla świadczeniodawców. Ponadto prawo do korzystania z systemu mają lekarze wypisujący recepty poza kontraktem na świadczenia opieki zdrowotnej, chociaż w ramach umowy na refundację recept zawartej z NFZ. W systemie e-WUŚ pacjent nie może samodzielnie sprawdzić swojego ubezpieczenia.
+
+System oparty jest na autoryzowanej i szyfrowanej komunikacji XML i nie narzuca oprogramowania po stronie świadczeniodawcy (np. lekarza). Możliwe jest też logowanie za pomocą przeglądarki internetowej.
+
+Jako mechanizm transportowy został wykorzystany broker komunikatów dostępny za pośrednictwem protokołu HTTPS w publicznej sieci Internet. W celu zachowania jednolitych standardów bezpieczeństwa, dostęp z poziomu klienta usług musi zostać poprzedzony odpowiednim procesem logowania w celu uwierzytelnienia i autoryzacji do poszczególnych elementów systemu.
+
+Bibliografia
+http://www.nfz-wroclaw.pl/download.ashx?id=/40230/poradnik_ewus_broszura_12_7.pdf
+http://www.nfz.gov.pl/new/index.php?katnr=9&dzialnr=3&artnr=5118
+http://www.nfz.gov.pl/new/art/5118/2012_08_20_zalaczniki.zip
+http://www.dilnet.wroc.pl/medium/index.php/component/content/article/175-ewu--pytania-i-odpowiedzi-
+https://mac.gov.pl/dzialania/co-pokazal-system-ewus/
+http://www.nfz-olsztyn.pl/pobierz/swiadawcy/ewus/Instrukcja-ewus_swiad_20130103.pdf
+
+Linki zewnętrzne
+http://www.nfz.gov.pl/new/index.php?katnr=9
+
+

@@ -1,0 +1,56 @@
+
+
+
+FDD3000''' – kontroler stacji dyskietek firmy Timex opracowany jako rozszerzenie komputerów Timex Sinclair 2048, Timex Sinclair 2068 oraz modeli z rodziny ZX Spectrum.
+
+
+Wygląd
+Stacja FDD3000 składała się z dwóch elementów: właściwej stacji dysków oraz interfejsu podłączanego do szyny krawędziowej komputera – oba łączone były elastycznym kablem przypominającym wyglądem kabel telefoniczny.
+
+Urządzenie posiadało czarną, solidną, metalową obudowę w której można było zamontować najwyżej dwa napędy 3". Wbudowany zasilacz ze znacznym zapasem mocy był zdolny zasilić dodatkowo dwa zewnętrzne napędy.
+
+Możliwości
+Kontroler (WD 1772 – ten sam co w IBM PC/XT) umożliwiał obsługę maksymalnie czterech napędów. Z tyłu znajdowały się ponadto złącza monitora oraz portów RS-232 (pracujące w trybie simplex).
+
+Możliwe było także podłączanie napędów 5.25" oraz 3.5", jednakże dyskietki odczytywane były jednostronnie, należało więc przełożyć dyskietkę w napędzie lub wyposażyć go w przełącznik stron (wyjątkowo proste rozwiązanie „domowe” sprowadzało się do przerwania jednej ze ścieżek i przylutowania przełącznika do dwóch przewodów).
+
+Całość rozwiązania była jak na owe czasy bardzo nowoczesna, gdyż użytkownik miał możliwość pracy w zaawansowanym środowisku, jakim był CP/M, lub korzystanie z Sinclair BASICa rozszerzonego o dodatkowe rozkazy obsługi stacji dysków.
+
+Dane techniczne
+Występowały dwie wersje FDD3000:
+wykorzystująca dedykowane układy (tzw. EFGJ) oraz
+oparta o standardowe układy TTL oraz PAL.
+
+Ważną cechą wersji PAL dla zwykłego użytkownika była niższa wrażliwość na uszkodzenia – w tym elektrostatyczne.
+
+FDD3000 posiadała własny procesor Z80A 4MHz i 64kB pamięci RAM, na którym uruchamiany był niezależny od głównego komputera system operacyjny: TOS (firmy Timex), jeśli wykorzystywany był Sinclair BASIC, bądź CP/M.
+
+Komunikacja FDD3000 z komputerem odbywała się za pomocą specjalnego interfejsu wyposażonego m.in fabrycznie w 8kB ROM i 1kB (rozszerzalne poprzez wymianę kości SRAM do 8kB) statycznej pamięci RAM. Jej wąskim gardłem był sam sposób transmisji danych, który odbywał się za pomocą 4-bitowej magistrali w trybie pełnego dupleksu.
+
+TOS
+Uruchomieniu systemu operacyjnego stacji dysków towarzyszyło ładowanie rozszerzenia ROM ZX Spectrum do pamięci SRAM interfejsu (pamięć ta pełniła również funkcję bufora podczas przesyłania danych ze stacji do komputera). Było to możliwe dzięki jednej z linii sterujących szyny systemowej ZX Spectrum, która pozwalała na podmianę wbudowanego ROMu na zewnętrzną pamięć, umożliwiając w ten sposób rozbudowę BASIC-a o dodatkowe rozkazy.
+
+TOS (Timex Operating System) zapewniał obsługę dodatkowych poleceń oraz błędów związanych z obsługą stacji dyskietek, w wersji 4 udostępniał również wygodne GUI z dodatkowymi narzędziami takimi jak kopier dysków i kaset. Ciekawostką jest fakt, iż komunikacja pomiędzy napędami dyskietek odbywała się z pominięciem głównego procesora ZX Spectrum, co pozwalało na uzyskiwanie bardzo wysokich prędkości przy kopiowaniu plików między napędami.
+
+CP/M
+System CP/M do swego działania potrzebował pamięci RAM adresowanej od adresu 0, zaś w mapie pamięci ZX Spectrum pierwsze 16kB zajmowała pamięć ROM, następne 6kB pamięć ekranu i zmienne systemowe. Dlatego w przypadku uruchomienia tego systemu kontroler przejmował funkcję głównego procesora sprowadzając w ten sposób komputer do roli inteligentnego terminala (należało uruchomić na nim specjalny program obsługi terminala). Choć FDD3000 była rozszerzeniem komputera, pomysł nie powodował większych narzutów i komplikacji, gdyż z punktu widzenia pojemności pamięci i mocy obliczeniowej FDD3000 posiadała możliwości porównywalne z ZX Spectrum: większa ilość RAM odświeżana w całości przez procesor w zależności od modelu komputera szybszy nawet o 0,5 MHz (prawie 15%). W ZX Spectrum pierwsze 16kB RAM (przestrzeń adresowa 16384-32767) odświeżane było wolniej w związku z zadaniami związanymi z generowaniem obrazu przez układ ULA (był to obszar dostępny dla obu układów, który wymagał synchronizacji między nimi).
+
+Zobacz też
+Sinclair
+ZiLOG Z80
+Sinclair BASIC
+CP/M, CP/J
+
+komputery
+ZX Spectrum
+Timex 2048
+2068
+Amstrad
+Amstrad CPC
+
+polskie klony
+Unipolbrit 2086
+Elwro 800 Junior
+Meritum I
+
+Linki zewnętrzne

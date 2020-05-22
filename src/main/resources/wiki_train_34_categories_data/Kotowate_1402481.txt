@@ -1,0 +1,162 @@
+Ewolucja kotowatych – ewolucja rodziny kotowatych (Felicidae), należącej do rzędu drapieżnych w gromadzie ssaków. Zalicza się tutaj 40 istniejących obecnie gatunków różnie grupowanych w rodzaje, których wyróżnia się od 2 do 23. Przyczyną braku zgodności jest podobieństwo kotowatych do siebie (dla przykładu z odróżnieniem czaszek lwa i tygrysa mają kłopoty nawet specjaliści). Skamieniałości natomiast nie należą do najczęściej znajdywanych. W związku z tym dużą rolę w ustaleniu powiązań w tej rodzinie odgrywać muszą badania DNA. Z uwagi na prostotę i jasność wśród wielu sposobów klasyfikacji artykuł będzie się posługiwał głównie jednym wybranym.
+
+
+
+Powstanie rodziny
+Historia ewolucyjna kotów sięga końca eocenu. Ich przodków upatruje się w blisko z nimi  spokrewnionej i obejmującej także dzisiejsze gatunki rodzinie łaszowatych (Viverridae), zaliczanej do podrzędu kotokształtnych. Do dziś niektórzy przedstawiciele tej rodziny, jak np. żenety lub fossa, wykazują wiele cech wspólnych z kotowatymi, co może stanowić przykład konwergencji, ale też świadczyć o niezbyt odległym wspólnym dla obu rodzin przodku. Pierwsze właściwe kotowate datuje się na oligocen, ale przed "właściwymi" kotami istniały na Ziemi paleokoty, czyli nimrawidy, istniejące już 35 milionów lat temu (MLT). Wykształciły się już u nich szablaste zęby. Jednak rodzina ta uległa wymarciu.
+
+
+Pierwsze właściwe kotowate
+Proailurus
+Najstarszym opisanym kotem był Proailurus lemanensis, przypominający cywetę niewielki drapieżnik sprzed 25 milionów lat. Był przystosowany do chodzenia po drzewach, miał dłuższy pysk i więcej zębów policzkowych niż późniejsi przedstawiciele rodziny. Biorąc pod uwagę jego tylne łapy, był częściowo stopochodny. Wyróżnia się dla niego podrodzinę Proailurinae.
+
+Pseudelur
+Proailurus przekształcił się w kolejny rodzaj, pseudelura (Pseudaelurus) żyjącego 20-10 (wg innych źródeł 9) MLT. Wyglądem przypominał on już dzisiejszych przedstawicieli swej rodziny. Badania oparte na skamieniałościach uznają go za ostatniego wspólnego przodka dzisiejszych kotowatych. Był już zupełnie palcochodny i posiadał uzębienie takie, jak jego późniejsi krewni. Zróżnicował się on na kilkanaście rodzajów, ale filogenetyka molekularna wskazuje, że tylko jeden z nich był przodkiem dzisiejszych kotowatych. Zamieszkiwał on Azję 11 MLT. Inne jednak badania umieszczają go 10,8 MLT w Europie. Tak czy inaczej rozprzestrzenił się on z jednego z tych kontynentów na drugi, a także dotarł do Ameryki Północnej i prawdopodobnie Afryki.
+
+Od niego wywodzą się 2 podrodziny kotowatych, szablozębne machajrodonty i żyjące do dziś Felinae, z których dopiero później wyodrębniły się Pantherinae.
+
+Drzewo
+
+Poniższe drzewo prezentuje 8 głównych linii ewolucyjnych. Podane liczby wskazują czas odłączenia sią linii.
+
+ -Proailurus	25 MLT
+    |
+   Pseudelur	10,8 MLT
+    |
+    +--machajrodonty
+    |          |
+    |          `---Metailurini, Homotheriini, Smilodontini
+    |
+    |
+    |
+    |
+    `---+---Wielkie koty	6,4 MLT
+        |             
+        |             +---Panthera
+        |             |       |
+        |             |       +-------+----lew, lampart.
+        |             |       |       |
+        |             |       |       `---jaguar
+        |             |       |
+   Małe koty          |       `--- tygrys, pantera śnieżna
+        |             |
+        |             `---Neofelis: pantera mglista, pantera borneańska
+        | 9,4 MLT
+        +-----------Pardofelis	5,41 MLT
+        |                |
+        |                +--mormi, badia
+        |                |
+        |                `---kot marmurkowy
+        | 8,5 MLT
+        +-----------Caracal	5,6 MLT
+        |           |
+        |           +----karakal, Kot złoty
+        |           |
+        |           `----serwal
+        | 8 MLT
+        +-----------Leopardus	2,9 MLT
+        |                   |
+        |                   +-------+-------+------kot argentyński, koczkod
+        |                   |       |       |
+        |                   |       |       `---kot tygrysi
+        |                   |       |
+        |                   |       `------kot andyjski, kot pampasowy
+        |                   |
+        |                   `------margaj, ocelot
+        | 7,2 MLT
+        +----------Ryś	3,2 MLT
+        |            |
+        |            +------+----ryś iberyjski, ryś euroazjatycki
+        |            |      |
+        |            |      `----ryś kanadyjski
+        |            |
+        |            `----ryś rudy
+        | 6,7 MLT  4,9 MLT
+        +----------+-------puma, jaguarundi
+        |          |
+        |          `-----gepard
+        | 6,2 MLT 5,9 MLT
+        +----------+------Prionailurus
+        |          |                |
+        |          |                +-----+------kot bengalski, taraj
+        |          |                |     |
+        |          |                |     `-----kot kusy
+        |          |                |
+        |          |                `-----kot rdzawy
+        |          `------manul
+        |
+        `----Felis
+           |3,4 MLT
+           +-----+-----+-----kot domowy, żbik
+           |     |     |
+           |     |     `----kot arabski
+           |     |
+           |     `kot czarnołapy
+           |
+           `----kot błotny
+
+Machajrodonty
+Podrodzina ta, rozpowszechniona w trzeciorzędzie i plejstocenie, nie przetrwała do naszych czasów. Dzieli się ją na 3 plemiona (patrz drzewo). Jej cechą charakterystyczną były wielkie zęby używane prawdopodobnie do zabijania ofiar. Ze względu na ich budowę koty te możemy podzielić na sztyletozębne i szablastozębne. Dodatkowo odpowiednia budowa stawu żuchwowego umożliwiała im prawie pionowe ustawienie żuchwy. Najbardziej znanym rodzajem był smilodon, żyjący w obu Amerykach, który wymarł przed 10 000 lat.
+
+8 linii dzisiejszych kotowatych i wielkie migracje
+
+
+
+
+
+
+
+
+Wielkie koty
+Wielkie koty oddzieliły się od małych 10,8 MLT. Grupa ta obejmuje 7 współczesnych gatunków. Część z nich wyróżnia się tym, że nie potrafi mruczeć, za to ryczy (lew, lampart, jaguar, tygrys, pantera śnieżna). Ma to związek z nietypową budową kości gnykowej, która nie ulega u nich całkowitemu skostnieniu, co pozwala na ryk. Epihyoideum (kość) zostało w toku ewolucji zastąpione cienkim więzadłem, łączącym luźno język i krtań z podstawą czaszki. Poza tym źrenica dużych kotów jest okrągła.
+
+Badia (Pardofelis)
+Linia prowadzą do badii oddzieliła się 1,4 MLt w Azji, tam też uległa podziałowi, w wyniku którego powstały 3 dzisiejsze południowoazjatyckie koty: badia, mormi i kot marmurkowy. Naukowcy często nie umieszczają ich w jednej grupie.
+
+Rodzaj Caracal
+Obecnie liczy on także 3 gatunki, które są nieco większe niż Pardofelis i zamieszkują Afrykę, do której przywędrowały 10-8 MLT. Była to pierwsza z wielkich migracji kotowatych. Nie wszyscy specjaliści są zgodni co do ich bliskiego pokrewieństwa.
+
+Pierwsze migracje
+Migracje u kotowatych miały miejsce na ogromną skalę, ssaki te podbiły bowiem wszystkie kontynenty oprócz bardzo odizolowanych Australii i Antarktydy. Przyczyną były prawdopodobnie zachowania społeczne tych zwierząt, a ściślej ich terytorializm. Samce (a nieraz i samice) posiadają rozległe często terytoria, na które nie wpuszczają innych osobników (często tylko tej samej płci). Gepard dla przykładu zwęszywszy zapach moczu innego dorosłego osobnika swej płci zmienia kierunek, by uniknąć spotkania. Zachowanie takie zmniejsza bowiem konkurencję o zwierzynę. Dorastające samce opuszczają więc miejsce swego urodzenia i wyruszają w poszukiwaniu nowych terenów, które zajmują. Nie bez znaczenia może być też fakt, że ofiary kotowatych też często odbywają migracje. Kotowate zwykle dobrze przystosowują się do nowych miejsc, a zdarzało się nawet, że wypierały miejscowych mięsożerców.
+
+Pierwszą migracją było skolonizowanie Afryki przez przodków dzisiejszych karakali i serwali 10-8 MLT. Umożliwiło im to ochłodzenie klimatu skutkujące obniżeniem się poziomu mórz o około 60 m. Odsłoniły się połacie lądowe na obu krańcach Morza Czerwonego i zwierzęta wykorzystały szerszą drogę inwazji pomiędzy Afryką i Półwyspem Arabskim.
+
+W tym samym czasie kotowate rozeszły się po całej Azji i Europie, a przodkowie dzisiejszych pum rysiów, ocelotów i gepardów przeszły suchą nogą przez Cieśninę Beringa, dostając się do Ameryki Południowej. Gdy poziom mórz podniósł się, zwierzęta zostały uwięzione na różnych kontynentach, co zaowocowało specjacją.
+
+Rysie oraz oceloty
+Już w Nowym Świecie oddzieliły się odrębne linie rysi (obecnie 4 gatunki) i ocelotów (obecnie 2 gatunki), a było to odpowiednio przed 8 i 7,2 milionami lat.
+
+Pumy i gepard
+6,7 MLT od pozostałych oddzieliła się kolejna linia, której dzisiejszymi przedstawicielami są puma, zwana także lwem górskim lub kuguarem, znacznie mniej od niej znany jaguarundi i umieszczany niejednokrotnie w osobnej podrodzinie gepard. Gatunki te powstały na półkuli zachodniej, o czym świadczą skamieliny. Warto nadmienić, że puma była także uważana za bliską krewną kota domowego i zaliczana do rodzaju Felis.
+
+Wielka wymiana południowoamerykańska
+W historii naturalnej ssaków niezmiernie ważną rolę odegrało połączenie się obu Ameryk po powstaniu Przesmyku Panamskiego, co zaowocowało wielką wymianą  – zwierzęta zamieszkujący jeden z kontynentów mogły teraz przejść na drugi. Kotowate odbyły podróż na kolejny, dawniej odosobniony kontynent. Działo się to 3-2 MLT. Odniosły tam duży sukces, albowiem Ameryka Południowa pozbawiona była dużych mięsożernych ssaków łożyskowych, a królowały w niej torbacze. Zajmowały one nisze ekologiczne przypominające te należące do łożyskowców na innych lądach, np. Thylacosmilus był należącym do torbaczy odpowiednikiem szablozębnego kota. Sposób rozmnażania się łożyskowców, a być może i inne ich cechy dały im jednak sporą przewagę. Koty Ameryki Północnej wyparły duże drapieżne torbacze. Nowe warunki pociągnęły za sobą specjację. Powstało m.in. dużo nowych gatunków ocelotów, co najmniej 7, gdyż tyle żyje do tej pory.
+
+Wymarcie w Ameryce Północnej
+Sukces ewolucyjny wielkich kotów w Ameryce Północnej nie okazał się długotrwały. Koniec ostatniego zlodowacenia 12 000 lat temu spowodował znaczną zmianę klimatu, powstawały las i prerie. Wyginęło co najmniej 40 gatunków ssaków, a 75% – dużych stworzeń (megafauna). Razem z mamutami czy megateriami wymarły przystosowane do starych warunków koty szablozębne, a także lwy, pumy i gepardy. Część z tych stworzeń zdążyła wcześniej opuścić nieprzyjazny im kontynent. Gepardy np. dostały się przez Azję do Afryki, gdzie żyją po dziś dzień.
+
+Pumy z kolei przetrwały w Ameryce Południowej, dzięki czemu później ponownie zasiedliły Amerykę Północną.
+
+Priolaurus i Otocolobus
+Gepardy nie były w swej podróży osamotnione. Towarzyszyły im w przekraczaniu Cieśniny Beringa członkowie 2 ostatnich linii kotów. Pierwsza z nich podzieliła się na rodzaje Priolaurus i Otocolobus. Rozwijała się ona w Azji, czym doprowadziła do powstania takich gatunków, jak kot bengalski, taraj, kot kusy i kot rdzawy, a także umieszczany w osobnym rodzaju manul. Kot rdzawy zamieszkuje dziś Indie, manul – Mongolię, kot kusy – Indonezję, a taraj większą część kontynentu.
+
+Sukcesy i porażki wielkich kotów
+W tym samym czasie największy w swej historii zasięg występowania osiągnęły wielkie koty. Tygrysy zamieszkiwały w całej południowej i wschodniej Azji, podczas gdy Azję Środkową zajęła pantera śnieżna, żyjąca w Himalajach i Ałtaju. Wtedy w Azji żyły także lamparty, które rozprzestrzeniły się również w Afryce i do czasów dzisiejszych dotrwały tylko na tym drugim kontynencie.
+
+Co prawda opanowanie Ameryki Północnej dla jaguarów i lwów 4-3 MLt nie zakończyło się powodzeniem, gdyż już w tamtych rejonach nie występują, ale jaguary skolonizowały za to Amerykę Południową, gdzie żyją do dzisiaj w Amazońskiej selwie, lwy zaś opanowały także Afrykę i tam też znalazły najlepsze warunki do życia. W Azji natomiast lwy prawie całkowicie już wymarły. Zachowała się tylko jedna niewielka populacja licząca około 300 osobników, w związku z czym zaznaczają się już w niej efekty chowu wsobnego. Żyje ona w stanie Gudźarat w zachodnich Indiach.
+
+Tygrysy też znalazły się na skraju wyginięcia. Przyczynił się do tego wybuch wulkanu Toba na wyspie Borneo, który zagroził także wielu innym gatunkom. Przetrwała bardzo mała grupka osobników, która odnowiła gatunek, liczący wiele podgatunków.
+
+Kot – Felis
+Przodkowie kotów domowych przebyli Cieśninę Beringa wraz z gepardami. Występowały tu 4 gatunki: żbik, kot arabski, kot czarnołapy i kot błotny (chaus). W obrębie pierwszego z tych rodzajów pojawiły się 4 podgatunki: europejski, środkowoazjatycki, chiński i nubijski. Jeden z nich dał początek nowemu, blisko związanemu z człowiekiem, gatunkowi – kotu domowemu, udomowionemu prawdopodobnie kilkakrotnie w obszarze Żyznego Półksiężyca. Dziś oficjalnie uznaje się 41 ras tego kota, a liczbę osobników szacuje się na 600 000 000.
+
+Przyszłość
+Kotowate bez wątpienia odniosły duży sukces ewolucyjny, ale dziś spośród wszystkich gatunków tej rodziny tylko jeden z nich, ten udomowiony przez człowieka, nie jest w żaden sposób zagrożony wyginięciem. Nie można więc wykluczyć, że czas większości gatunków tej rodziny ssaków w niedalekiej przyszłości dobiegnie końca. Z drugiej strony powstaje coraz więcej rezerwatów kotów, więc sytuacja nie jest przesądzona.
+
+Bibliografia
+Kocie ścieżki ewolucji", Stephen O'Brien i Warren E. Johnson, Świat Nauki 8/2007 (192)
+
+
+
+
+

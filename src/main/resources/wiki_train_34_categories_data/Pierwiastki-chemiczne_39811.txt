@@ -1,0 +1,17 @@
+Stal konstrukcyjna wyższej jakości – stal charakteryzująca się  wąskimi granicami zawartości  węgla i  manganu oraz niewielką zawartością zanieczyszczeń, głównie krzemu (poniżej 0,7%) i fosforu. Zwykle dostarczane są jako  stale uspokojone i nadają się do  obróbki cieplnej.
+
+Stale o podwyższonej jakości produkuje się w trzech kategoriach:
+A – podlegająca obróbce skrawaniem na całej powierzchni
+B – podlegająca obróbce skrawaniem na niektórych powierzchniach
+C – niepodlegająca obróbce skrawaniem.
+
+Według Polskiej Normy PN-XX/H-84019 stale wyższej jakości oznacza się liczbą całkowitą, która koduje średnią zawartość węgla (procent zawartości z mnożnikiem 100). Po tym symbolu może nastąpić litera G – oznaczająca podwyższoną zawartość manganu wpływającego na podwyższenie własności wytrzymałościowych stali.
+
+Przykładowymi stalami wyższej jakości są:
+'''08''' – zawierająca od 0,05 do 0,11% węgla
+'''15''' - zawierająca od 0,15 do 0,19% węgla i od 0,25 do 0,5% manganu
+'''15G - zawierająca od 0,15 do 0,19% węgla i od 0,7 do 1,0% manganu
+'''60''' - zawierająca od 0,57 do 0,65% węgla i od 0,5 do 0,8% manganu
+'''60G - zawierająca od 0,57 do 0,65% węgla i od 0,8 do 1,0% manganu
+
+Linki zewnętrzne

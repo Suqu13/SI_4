@@ -1,0 +1,30 @@
+Gadolin (Gd, łac. gadolinium) – pierwiastek chemiczny z grupy lantanowców w układzie okresowym posiadający silne własności ferromagnetyczne. Nazwa pochodzi od nazwiska mineraloga i chemika fińskiego Johana Gadolina. Został odkryty w 1880 r. przez Jeana Charles'a Galissarda de Marignac.
+
+Występowanie
+Gadolin występuje w skorupie ziemskiej w ilości 6 ppm (wagowo). Najważniejszymi minerałami gadolinu są:
+monacyt (Ce,La,Th,Nd,Y,Pr)PO4, zwany także piaskiem monacytowym
+bastnezyt (Ce,La,Nd,Y,Pr)CO3F, dużo rzadszy niż monacyt
+
+Ma kilka odmian alotropowych.
+
+Izotopy
+Naturalnie występujący gadolin jest mieszaniną 5 izotopów stabilnych oraz 2 radioizotopów, z których  ma czas połowicznego rozpadu ok. bilion lat, a rozpadu  nigdy nie zaobserwowano (teoretycznie powinien ulegać podwójnemu rozpadowi β do  z T½ >1,3×1021 lat). Ponadto znanych jest 28 radioizotopów sztucznych o liczbach masowych od 136 do 169.
+
+Zastosowanie
+Z izotopów sztucznych najszerzej wykorzystywane są 153Gd i 159Gd jako wskaźniki promieniotwórcze. Trwałe izotopy 155Gd i 157Gd stosuje się w technice reaktorowej, z uwagi na ich przekroje czynne na pochłanianie neutronów termicznych (odpowiednio: 70 kb/atom, 160 kb/atom).
+
+Tlenek gadolinu Gd2O3 umieszcza się prętach kontrolnych reaktorów jądrowych i szkłach ochronnych, zaś borek gadolinu GdB6 w prętach bezpieczeństwa i osłonach przed neutronami. Siarczany i inne związki gadolinu mają właściwości paramagnetyczne – wykorzystuje się je jako kontrast w badaniach jądrowym rezonansem magnetycznym.
+
+Tlenosiarczek gadolinu (Gd2O2S) domieszkowany terbem wykazuje zieloną fosforescencję i jest stosowany w ekranach CRT oraz jako scyntylator w obrazowaniu rentgenowskim.
+
+Inne własności
+Temperatura Curie gadolinu to 20 °C.
+
+
+
+
+
+
+
+
+

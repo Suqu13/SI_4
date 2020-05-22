@@ -1,0 +1,16 @@
+Produkcja niezakończona – pojęcie z dziedziny rachunkowości finansowej, obejmujące tę część produkcji podmiotu gospodarczego, która w danym okresie rozliczeniowym (miesiącu), nie została zakończona i sprzedana w postaci wyrobów gotowych, przy jednoczesnym poniesieniu nakładów finansowych – np. na zakup materiałów, wynagrodzenia pracowników itp. Występowanie takiego zjawiska charakteryzuje m.in. przedsiębiorstwa, w których:
+tworzenie wyrobu gotowego wymaga procesów technologicznych trwających dłużej niż miesięczny okres rozliczeniowy (np. budowa drogi)
+lub
+produkcja ma charakter ciągły, a nakłady poniesione na niezakończoną produkcję są istotne z punktu widzenia rzetelnej prezentacji wyniku finansowego przedsiębiorstwa.
+W efekcie procesu wytwórczego na koniec miesiąca powstają:
+wyroby gotowe (ta część z nich, którą przekazano odbiorcy i wystawiono fakturę, nosi nazwę produkcji sprzedanej)
+półfabrykaty lub produkcja w toku
+Prawidłowe rozliczenie produkcji niezakończonej jest warunkiem koniecznym do ustalenia zmiany stanu produktów, która w danym okresie rozliczeniowym wpływa na wynik na sprzedaży przedsiębiorstwa. W tym celu powinno się rozdzielić koszty produkcji na koszt wytworzenia wyrobów gotowych i koszt produkcji niezakończonej.
+
+Termin produkcja niezakończona może dotyczyć zarówno produktów materialnych (np. wytwarzanie samochodów), jak i niematerialnych (np. usługi remontowe statków).
+
+Bibliografia
+Ryszard Stadtmüller: Rachunkowość w przedsiębiorstwie przemysłowym, Państwowe Wydawnictwo Naukowe, Warszawa – Wrocław 1981, ISBN 83-01-02431-3
+Maria Sierpińska, Tomasz Jachna: Ocena przedsiębiorstwa według standardów światowych, wyd. II Wydawnictwo naukowe PWN, Warszawa 1995, ISBN 83-01-11187-9
+
+

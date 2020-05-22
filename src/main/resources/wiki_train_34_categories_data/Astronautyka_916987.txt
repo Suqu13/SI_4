@@ -1,0 +1,72 @@
+STS-124''' – misja wahadłowca Discovery, trwająca od 31 maja do 14 czerwca 2008. Jej głównym celem było dostarczenie na Międzynarodową Stację Kosmiczną (ISS) kolejnych części japońskiego laboratorium Kibō – modułu Pressurized Module (który został zadokowany do Harmony) oraz manipulatora JEMRMS. Przed katastrofą Columbii, do tej misji przeznaczona była właśnie Columbia.
+
+Był to 35. lot promu Discovery oraz 123. misja programu lotów wahadłowców.
+
+Załoga
+Mark E. Kelly (3), dowódca
+Kenneth Ham (1), pilot
+Karen L. Nyberg (1), specjalista misji
+Ronald J. Garan, Jr. (1), specjalista misji
+Michael E. Fossum (2), specjalista misji
+Akihiko Hoshide (1), specjalista ładunku (JAXA)
+
+Odwieziony członek Ekspedycji 17
+Gregory Chamitoff (1), inżynier pokładowy ISS
+
+Przywieziony na Ziemię członek Ekspedycji 17
+Garrett Reisman (1), inżynier pokładowy ISS
+(liczba w nawiasie oznacza liczbę lotów odbytych przez każdego z astronautów)
+
+Plan lotu
+28 maja – rozpoczęcie odliczania.
+31 maja – start z KSC.
+2 czerwca – połączenie z ISS.
+3 czerwca – EVA-1 (Fossum, Garan) – dołączenie JEM PM do lewego portu Harmony.
+5 czerwca – EVA-2 (Fossum, Garan) – prace przy ISS.
+7 czerwca – przełączenie JEM ELM-PS z górnego portu Harmony na górny port JEM PM.
+8 czerwca – EVA-3 (Fossum, Garan) – prace przy JEM ELM-PS i JEM PM.
+10 czerwca – odłączenie od ISS.
+12 czerwca – lądowanie w KSC.
+
+Rzeczywisty przebieg lotu
+
+3 maja – prom wyjechał na platformę startową.
+5 maja – w ładowni promu zamontowano moduł Kibō.
+13-14 maja – wykonano FRR.
+19 maja – wykonano ELR, data startu wyznaczona na 31 maja.
+28 maja – rozpoczęto odliczanie.
+31 maja – o godz. 21:02:12 UTC Discovery pomyślnie wystartował w kierunku ISS.
+2 czerwca – o godz. 18:03 UTC wahadłowiec przycumował do ISS.
+3 czerwca – EVA-1 (Fossum, Garan), 6 godzin 48 minut.
+5 czerwca – EVA-2 (Fossum, Garan), 7 godzin 11 minut.
+8 czerwca – EVA-3 (Fossum, Garan), 6 godzin 33 minuty.
+11 czerwca – o godz. 11:42 UTC Discovery odłączył się od stacji ISS.
+14 czerwca – 15:15 UTC orbiter wylądował na pasie startowym w KSC.
+
+Parametry misji
+Masa:''' 
+startowa całego wahadłowca:'' 2 052 543 kg
+startowa orbitera:'' 122 072 kg
+ładunku:'' 17 530 kg
+lądującego orbitera:'' 92 224 kg
+Perygeum:''' 338 km
+Apogeum:''' 351 km
+Inklinacja:''' 51,6°
+Prędkość:''' ~28 000 km/h
+Okres orbitalny:''' 91,4 min
+
+Dokowanie do ISS
+Połączenie z ISS: 2 czerwca 18:03 UTC
+Odłączenie od ISS: 11 czerwca 11:42 UTC
+Łączny czas dokowania: 8 dni 17 godzin 39 minut
+
+Zobacz też
+
+
+lista misji wahadłowców
+lista załogowych lotów kosmicznych do ISS
+lista bezzałogowych lotów kosmicznych do ISS
+
+
+
+Linki zewnętrzne

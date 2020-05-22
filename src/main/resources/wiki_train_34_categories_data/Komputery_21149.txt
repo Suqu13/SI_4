@@ -1,0 +1,47 @@
+Odra 1305''' to polski komputer trzeciej generacji serii Odra, produkowany seryjnie od 1973 r. w Zakładach Elektronicznych Elwro we Wrocławiu. Prototyp powstał w 1971 r.
+
+Dane techniczne
+typ:
+seria: Odra 1300
+mikroprogramowany komputer III generacji zbudowany na układach scalonych TTL
+słowo maszynowe długości 24 bity
+pełna zgodność funkcjonalna i programowa z systemami komputerów serii ICL 1900
+prędkość:
+cykl mikroprogramu: 1/3 albo 1/4 µs (niezgodność danych)
+cykl odczytu pamięci operacyjnej: 1 µs
+czas wykonania rozkazów:
+skok: 1 µs
+dodawanie stałoprzecinkowe: 1,6 µs
+mnożenie stałoprzecinkowe: 9 µs
+pamięć operacyjna:
+ferrytowa 24-bitowa + bit parzystości
+półprzewodnikowa 24-bitowa z korekcją pojedynczych błędów i wykrywaniem wielokrotnych (kod Hamminga), dodana w ramach modernizacji. 25 bit – bit parzystości.
+od 32 do 256 kilosłów (po modernizacji maszyny z Hutmenu i Brochowa otrzymały dwa „banki” po 512 kilosłów)
+możliwość pracy dwóch jednostek centralnych ze wspólną pamięcią.
+możliwość pracy w zestawie dwuprocesorowym (hierarchia Master – Slave) przy pomocy Adaptera Międzymaszynowego ADM-306.
+w ramach modernizacji maszyny zostały rozbudowane między innymi o kontroler dysków twardych MFM (ST-251).
+interfejsy:
+szafa podstawowa (procesor):
+kanał priorytetowy – 1 kanał (współpraca z Systemem Modułowej Automatyki).
+kanał monitora 2, 3 (obsługa konsoli FACIT) – 2 kanały.
+kanał znakowy o szybkości 100 000 znaków 6-bitowych/sekundę(czytnik/perforator taśmy papierowej lub kart, drukarka wierszowa itp) – 10 kanałów.
+kanał multiplekserowy – specyficzny kanał znakowy mogący obsługiwać multiplekser wraz z maksymalnie 32 terminalami.
+kanały autonomiczne o szybkości 500 000 znaków 6-bitowych/sekundę (pamięci taśmowe PT-3, bułgarskie napędy dyskowe, itp).
+kanał Jednolitego Systemu służący do współpracy JC Odra 1305 z urządzeniami peryferyjnymi RIAD – jeden kanał, opcjonalnie.
+szafa dodatkowa:
+kanały znakowe (zewnętrzne) – 7 kanałów
+kanały autonomiczne (zewnętrzne) – 4 kanały
+kanały Jednolitego Systemu – 3 kanały zamiennie z kanałami autonomicznymi zewnętrznymi.
+wyprodukowano łącznie: 346 szt.
+
+Ostatnie komputery Odra
+
+
+Zobacz też
+Rodan 15 – mobilna wersja militarna Odry 1305
+SKOK.
+
+
+
+Linki zewnętrzne
+Andrzej Krajewski, , Newsweek.pl, 28 maja 2010

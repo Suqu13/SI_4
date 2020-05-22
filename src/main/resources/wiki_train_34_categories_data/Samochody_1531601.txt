@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+Opel Astra J (Astra IV) – samochód osobowy klasy kompaktowej marki Opel produkowany od 2009 roku. Astra J powstała na nowej płycie General Motors – zwanej Delta, z której korzysta również Chevrolet Cruze. W plebiscycie na Europejski Samochód Roku 2010 model zajął 3. pozycję (za VW Polo V i Toyotą iQ).
+
+Opis modelu
+Nadwozie
+Na początek, w styczniu 2010 do produkcji trafił 5-drzwiowy hatchback, a w czerwcu 2010 zaprezentowano oficjalnie zdjęcia wersji kombi (Sports Tourer). W 2012 roku gamę uzupełniły odmiany 3-drzwiowy hatchback o linii nadwozia w stylu coupé (także w usportowionej odmianie OPC), który otrzymał przydomek GTC oraz 4-drzwiowy sedan, którego produkcja odbywa się w polskich Gliwicach. Coupé-Cabrio (CC), które dotychczas było częścią gamy Astry od obecnego wcielenia Astry będzie już oddzielnie klasyfikowanym modelem o odrębnej stylizacji i nazwie (Cascada.
+
+Premiera
+Nowa generacja kompaktowego samochodu Opla zadebiutowała na Salonie we Frankfurcie nad Menem we wrześniu 2009 roku. Auto pojawiło się w salonach w Niemczech w grudniu 2009. W Polsce samochód pojawił się w sprzedaży w styczniu 2010.
+
+Facelifting
+W połowie 2012, przeprowadzono modernizację. Wizualne zmiany zaszły z przodu i tyłu: pojawiły się nowe zderzaki oraz zaktualizowany wzrór grilla. Dodano nowy silnik, 2,0 BiTurbo CDTI z Insigni o mocy 195 KM/400 Nm. Z początkiem 2013 roku przewiduje się nowy silnik benzynowy 1,6 l o mocy 200 KM/300 Nm z turbodoładowaniem, bezpośrednim wtryskiem paliwa, jako urządzenie z nowej rodziny silników SIDI (spark ignition direct injection — zapłon iskrowy z wtryskiem bezpośrednim). Silniki SIDI będą produkowane w Szentgotthárd na Węgrzech.
+
+Wraz z rocznikiem modelowym 2014 auto przeszło drobne modyfikacje. W pojeździe pojawił się nowy silnik diesla 1.6 CDTI o mocy 136 KM. Do standardowego wyposażenia pojazdu dodano siedmiocalowy ekran dotykowy z nowym systemem teleinformacyjnym, zaktualizowaną nawigację i zmodyfikowany system audio, światła do jazdy dziennej w technologii LED oraz półskórzane fotele.
+
+Na początku 2014 roku Opel zaprezentował Astrę OPC Extreme. Jest to samochód oparty na wyczynowej wersji wyścigowej, ale posiadający homologację drogową. Wg Opla jest to najszybsza Astra kiedykolwiek produkowana seryjnie. Samochód  napędzany jest benzynowym silnikiem o mocy ponad 300 KM, posiada manualną skrzynię sześciostopniową oraz dyferencjał o ograniczonym poślizgu. We wnętrzu znajdują się tylko dwa kubełkowe fotele Recaro, sześciopunktowe pasy oraz klastka bezpieczeństwa. Są to elementy wyposażenia seryjnego. Nadwozie w dużej mierze wykonano z włókna węglowego i aluminium.
+
+Silniki
+Silniki benzynowe
+Źródłem napędu Astry są silniki benzynowe i wysokoprężne o pojemnościach od 1,3 l do 2,0 l i mocach od 95 do 280 KM.
+
+Cztery dostępne silniki benzynowe to czterocylindrowe jednostki z aluminiową głowicą, o podwójnych górnych wałkach rozrządu obsługujących cztery zawory na cylinder, zamontowane poprzecznie. Bloki cylindrów zostały wykonane z żeliwa a miska olejowa z aluminium. Zastosowano zmienną synchronizację zaworów na wlocie i wylocie oraz wałki rozrządu z hydraulicznymi regulatorami fazy rozrządu typu łopatkowego, co daje możliwość niezależnej synchronizacji kąta każdego zaworu o maks. 60 stopni na wlocie i 45 stopni na wylocie (nie dotyczy silnika 1.6 Turbo). Synchronizacja rozrządu pozwala modułowi sterowania silnika na dostosowanie synchronizacji otwarcia i zamknięcia zaworów zależnie od zmiennych warunków, jak np. prędkość silnika i jego obciążenie. Zastosowano również mapowany układ sterowania termostatem, który podnosi temperaturę płynu chłodzącego przy niskich prędkościach silnika i niewielkich obciążeniach. Szybciej osiągana optymalna temperatura silnika to mniejsze wewnętrzne tarcie silnika i obniżenie spalania.
+Technologia Twinport w silnikach benzynowych to dwustopniowy układ ssący. Przy prędkości obrotowej silnika do 4000 obr./min mieszanka paliwowo-powietrzna dociera do silnika przewodem dolotowym o długości 620 mm a powyżej 4000 obr./min powietrze zasysane jest z krótszego przewodu o długości 288 mm.
+
+Silnik A14XER Twinport
+Silnik został wyposażony w drążone wałki rozrządu, które są napędzane łańcuchem. Luzy zaworów są automatycznie kasowane przez popychacze hydrauliczne. Zastosowano tłumik drgań skrętnych poprawiający równomierność pracy silnika. Układ wtrysku posiada funkcję dezaktywacji portu przy częściowym obciążeniu.
+
+Silnik A16XER Twinport
+Tuleje cylindrów zostały laserowo wytrawione, co ma zapewnić gładkość powierzchni i minimalizację tarcia. Luzy zaworowe kasowane są za pomocą popychaczy szklankowych o odpowiednio dobranych grubościach denek.
+
+Silnik A14NET
+Silnik wyposażony w turbosprężarkę zintegrowaną z układem wylotowym, osiągającą prędkość 240 tys obr./min. Między-stopniowe chłodzenie powietrza (intercooler) zwiększa gęstość zasysanego powietrza. Za turbosprężarką umieszczono katalizator wyposażony w dwie sondy lambda. Wał korbowy, tłoki i korbowody zostały wzmocnione a zawory wylotowe wypełniono sodem. Luzy zaworowe są kasowane automatycznie za pomocą popychaczy hydraulicznych. Osłona łańcucha rozrządu została wykonana z aluminium i zawiera w sobie pompę oleju o zmiennym wydatku i pompę cieczy chłodzącej napędzaną paskiem wielorowkowym. Przepustnica sterowana jest elektrycznie a przewody zapłonowe zostały zastąpione modułami zapłonowymi umieszczonymi bezpośrednio na świecach. Za minimalizację drgań przenoszonych na układ napędowy odpowiada dwu masowe koło zamachowe.
+
+Silnik A16LET
+W silniku tym zamontowano turbosprężarkę, intercooler, elektryczną przepustnicę i osobne dla każdej świecy moduły zapłonowe. Oczyszczaniem spalin zajmuje się katalizator z dwiema ogrzewanymi sondami lambda. Tuleje cylindrów zostały laserowo wytrawione w celu minimalizacji tarcia tłoków. Zawory wylotowe zostały wypełnione sodem a tłoki są chłodzone dyszami olejowymi natryskującymi olej pod tłok. Luzy zaworowe kasowane są przez popychacze szklankowe o odpowiednio dobranych grubościach denek. Silnik posiada dwumasowe koło zamachowe a sprzęgło sterowane jest hydraulicznie.
+
+Silnik A16XHT SIDI
+
+1.6 SIDI (Spark Ignition Direct Injection – zapłon iskrowy, wtrysk bezpośredni) ECOTEC Turbo to nowej generacji silnik Opla produkowany w Szentgotthárd na Węgrzech. Nie jest to pierwszy silnik tego producenta z bezpośrednim wtryskiem paliwa i turbosprężarką. Pierwszy o pojemności 2.0 litra był montowany w Oplu GT. Silnik o pojemności 2.2 litra bez turbosprężarki ale z wtryskiem bezpośrednim był montowany w Oplu Vectra.
+
+1.6 SIDI ma występować w dwóch wersjach mocy Ecotec Turbo 170 KM i momencie obrotowym 280 N*m oraz Performance Turbo 200 KM i momencie obrotowym 300 N*m.
+
+Silnik posiada 4 zawory na cylinder, aluminiową głowicę a bloki cylindrów zostały wykonane z żeliwa mającego zdolność wytrzymać ciśnienie sprężania na poziomie 130 barów. Luzy zaworów są automatycznie kasowane przez popychacze hydrauliczne. Wałki rozrządu napędza łańcuch rozrządu. Pokrywa zaworów silnika jest przytwierdzona do głowicy silnika za pomocą specjalnych mocowań, a ich połączenia wypełnione są specjalnym materiałem uszczelniającym zachowującym właściwości elastyczne w wysokich temperaturach z powodu małej odległości od turbiny. Silnik posiada wałki wyrównoważające, umieszczone w tunelach przebiegających przez blok silnika i napędzane łańcuchem zębatym. Silniki ECOTEC Turbo i Performance Turbo różnią się rodzajem tłoków (kształtem denka i podcięciem). W obu przypadkach zastosowano żeliwne gniazda pierścieni a pierwszy pierścień pokryty jest powłoką z tak zwanej „fazy gazowej” (PVD).
+
+W nowym silniku turbosprężarka została zintegrowana z kolektorem wylotowym, w odróżnieniu od silnika A20NFT 2.0 Turbo z podwójnym spiralnym kanałem wlotu spalin do wirnika (twin-scroll). Konstrukcja turbosprężarki jest identyczna dla różnych wariantów mocy. W celu eliminacji odgłosów pracy turbosprężarki zastosowano układ nisko i wysokociśnieniowych rezonatorów.
+
+Dawkowanie paliwa odbywa się przez wtryskiwacze umieszczone centralnie nad komorą spalania obok świec zapłonowych, równolegle do wału korbowego. Bezpośredni wtrysk pozwala na bardziej precyzyjne i oszczędne dawkowanie paliwa.
+
+Silnik A20NFT
+Silnik o mocy 280 KM i momencie obrotowym 400 N*m został zaprojektowany dla wersji OPC. W porównaniu do poprzedniego modelu Astry OPC moc silnika została zwiększona o 40 KM. Silnik został zbudowany na bazie motoru opracowanego dla modelu Insignia, którego moc została zwiększona o 30 KM. 
+
+Praktycznie cały silnik został wykonany z aluminium, posiada rozrząd o zmiennych fazach napędzany łańcuchem. Aby silnik pracował równomiernie zastosowano przeciwbieżne wałki wyrównoważające. Za chłodzenie silnika odpowiada płaszcz wodny sięgający dna cylindrów a tłoki od spodu natryskiwane są olejem.
+
+Silnik posiada bezpośredni wtrysk paliwa. Pompa wysokiego ciśnienia napędzana jest z wałka rozrządu i zwiększa ciśnienie paliwa do poziomu 155 barów. Ciśnienie wtrysku na biegu jałowym wynosi 50 barów. Paliwo wtryskiwane jest przez wtryskiwacze umieszczone poniżej zaworów dolotowych a specjalny kształt denka tłoka ma powodować zawirowania mieszanki wokół świecy zapłonowej.
+
+Układ dolotowy powietrza został zmodyfikowany przez zwiększenie jego przekroju poprzecznego. Powietrze docierające do turbosprężarki przepływa przez czujnik wilgotności powietrza, który je mierzy a dane przesyła do ECU (sterownika wtrysku). Informacje o wilgotności powietrza wpływają na skład mieszanki paliwowo-powietrznej. Przed turbosprężarką producent dodał rezonator tłumiący syczenie turbosprężarki. Turbosprężarka została zmodyfikowana o podwójny spiralny kanał wlotu spalin do wirnika (twin-scroll). Zmiana polega na tym, że spaliny z pierwszego i czwartego cylindra oraz drugiego i trzeciego cylindra spotykają się bezpośrednio dopiero przed turbiną. Turbosprężarka generuje ciśnienie doładowania na poziomie 1.5 bara. Powietrze zanim dotrze do cylindrów jest chłodzone w intercoolerze.
+
+
+
+Silniki wysokoprężne
+
+Gama silników wysokoprężnych CDTI turbo obejmuje jednostki o pojemności 1.3, 1.7 i 2.0 litra i mocy od 95 do 165 KM, common-rail, z wielopunktowym wtryskiem paliwa. Common rail (o ciśnieniach 1600 bar w 1.3 CDTI oraz 2.0 CDTI; 1800 bar w silniku 1.7 CDTI) wtryskuje olej napędowy do 5 razy w ciągu jednego cyklu. Lekka głowica ze stopu aluminium posiada 16 zaworów i dwa górne wałki rozrządu. Aby spełnić normy czystości spalin wszystkie silniki posiadają filtr cząstek stałych oczyszczający spaliny do normy Euro 5.. Mocno obciążone tłoki są chłodzone olejem. Równą pracę silnika zapewnia dwu masowe koło zamachowe. Turbosprężarki we wszystkich silnikach wykorzystują technologię zmiennej geometrii łopat turbiny, których kąt jest zmieniany na bieżąco, dostosowując się do obciążenia i prędkości obrotowej silnika. Niektóre modele są wyposażone w technologię Start/Stop oszczędzającą paliwo poprzez wyłączenie silnika po wrzuceniu biegu neutralnego, ale tylko w przypadku gdy silnik jest rozgrzany a akumulator ma odpowiednie napięcie pozwalające na sprawne ponowne uruchomienie silnika. W 2013 roku do oferty trafił silnik 1.6 CDTI o mocy 136KM, który spełnia norme Euro 6 i z systemem start/stop zużywa tylko 3.9l/100km . 
+
+
+
+Wersje wyposażeniowe
+Essentia
+Enjoy
+Sport
+Cosmo
+GTC
+OPC
+
+Nagrody
+Złota Kierownica 2009 (Das Goldene Lenkrad) w kategorii samochodów klasy kompakt
+3 miejsce w konkursie na Samochód Roku 2010.
+
+Top Gear
+W 20 sezonie tego programu zastąpiła Kię Cee`d jako samochód za rozsądną cenę. W programie wykorzystuje się czerwoną Astrę z silnikiem 1,6 Turbo w wersji Cosmo-(prawdopodobnie) z manualną skrzynią biegów.
+
+
+
+
+
+
+
+
+
+

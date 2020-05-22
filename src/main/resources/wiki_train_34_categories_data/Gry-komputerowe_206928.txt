@@ -1,0 +1,17 @@
+Sega Nomad – trzecia konsola przenośna firmy Sega. Była to pomniejszona wersja 16-bitowej konsoli Sega Genesis, korzystała z takiego samego nośnika. Posiadała 3" ekran LCD który wyświetlał bardzo wyraźny obraz pozbawiony smużenia, ale można ją było podłączyć do telewizora. Tak samo jak w Sega Mega Jet, niemożliwe było podłączenie przystawki 32x lub Sega CD.
+
+Jako konsola przenośna Nomad nie sprawdzał się najlepiej i od początku sprzedawał się słabo - jej największymi wadami były duże gabaryty, spora waga i bardzo krótki czas pracy na bateriach. Nie były to jednak jedyne powody rynkowej porażki tej konsoli. Największymi problemami była względnie wysoka cena, ponad $180, oraz gasnąca popularność Genesisa, co powodowało że liczba nowych gier była symboliczna. Porażka w USA spowodowało że konsola nigdy nie ukazała się w Europie.
+
+Dane techniczne
+Procesor: Motorola MC68000 @ 7,67 MHz
+Ko-procesor: Zilog Z80@ 4 MHz
+Pamięć: 64 KB RAM, 64KB VRAM, 8KB RAM przeznaczonej na dźwięk. 20 KB ROM
+Kolory: 512, naraz na ekranie 64 
+Dźwięk: Stereo
+Ekran: LCD o rozdzielczości 320 x 224
+
+
+
+
+
+

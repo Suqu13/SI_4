@@ -1,0 +1,56 @@
+Har Chaluc (hebr. הר חלוץ‎‎; ang. Har Halutz, stosowana także Halutz; pol. Góra Pionierów) - wieś komunalna położona w Samorządzie Regionu Misgav, w Dystrykcie Północnym, w Izraelu.
+
+Położenie
+Wioska Har Chaluc jest położona na wysokości 734 metrów n.p.m. na południowym skraju Górnej Galilei. Leży we wschodniej części pasma górskiego Matlul Curim, który od północy wznosi się nad Doliną Beit HaKerem. Różnica wysokości między poziomem wioski a dnem doliny dochodzi do 400 metrów. Na wschód od wioski jest wadi strumienia Talil, za którą wznosi się szczyt góry Har Szezor (886 m np.m.). Na zachodzie jest góra Har Chaluc (729 m n.p.m.), natomiast na północy przebiega głębokie wadi strumienia Beit HaEmek, za którym rozciąga się pagórkowaty płaskowyż z górami Har Kiszor (741 m n.p.m.) i Har Pelech (796 m n.p.m.). Okoliczne wzgórza są w większości zalesione. W otoczeniu wioski Har Chaluc znajdują się miasto Karmiel, miejscowości Kisra-Sumei, Peki'in, Sadżur, Nachf i Dejr al-Asad, moszawy Peki'in HaHadasza i Lapidot, oraz wioski komunalne Haraszim i Lavon.
+
+Podział administracyjny
+Har Chaluc jest położona w Samorządzie Regionu Misgav, w Poddystrykcie Akka, w Dystrykcie Północnym Izraela.
+
+Demografia
+Stałymi mieszkańcami wioski są wyłącznie Żydzi. Tutejsza populacja jest mieszana: religijna i świecka:
+
+
+
+ImageSize  = width:500 height:220
+PlotArea   = left:70 right:40 top:20 bottom:20
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+Colors =
+  id:gray1 value:gray(0.9)
+DateFormat = yyyy
+Period     = from:0 till:397
+ScaleMajor = unit:year increment:100 start:0 gridcolor:gray1
+PlotData =
+  bar:1995 color:gray1 width:1
+   from:0 till:156 width:15 text:156 textcolor:red fontsize:8px
+  bar:2001 color:gray1 width:1
+   from:0 till:290 width:15 text:290 textcolor:red fontsize:8px
+  bar:2011 color:gray1 width:1
+   from:0 till:397 width:15 text:397 textcolor:red fontsize:8px
+
+Źródło danych: .''
+
+
+Historia
+Osada została założona w 1985 roku w ramach rządowego projektu Perspektywy Galilei, którego celem było wzmocnienie pozycji demograficznej społeczności żydowskiej na północy kraju. Założycielami wioski była grupa wyznawców judaizmu reformowanego ze Stanów Zjednoczonych. Dołączyli do nich rodzimi Izraelczycy. Istnieją plany rozbudowy wioski.
+
+Edukacja
+Wioska utrzymuje przedszkole. Starsze dzieci są dowożone do szkoły podstawowej w wiosce Gilon.
+
+Kultura i sport
+W wiosce jest ośrodek kultury z biblioteką. Z obiektów sportowych jest basen pływacki, boisko do koszykówki oraz siłownia.
+
+Infrastruktura
+W wiosce jest przychodnia zdrowia, synagoga, sklep wielobranżowy oraz warsztat mechaniczny.
+
+Gospodarka
+Większość mieszkańców dojeżdża do pracy poza wioską. Coraz większą rolę odgrywa obsługa ruchu turystycznego.
+
+
+
+Transport
+Z wioski wyjeżdża się lokalną drogą na zachód, którą dojeżdża się do drogi nr 854 przy wiosce Lavon. Jadąc nią na południowy wschód dojeżdża się do miejscowości Nachf i skrzyżowania z drogą ekspresową nr 85, lub jadąc na północny zachód do skrzyżowania z drogą nr 8544 (prowadzi na zachód do kibucu Kiszor) i dalej do moszawu Lapidot.
+
+
+
+Linki zewnętrzne

@@ -1,0 +1,8 @@
+Twisted – sieciowy system (Framework) sterowany zdarzeniami napisany w Pythonie, rozpowszechniany na licencji MIT.
+
+Twisted obsługuje TCP, UDP, SSL/TLS, Unixowe sockety, jak i wiele protokołów warstwy aplikacji (między innymi HTTP, NNTP, IMAP, SSH, IRC, FTP) i wiele innych.
+
+Zobacz też
+programowanie sterowane zdarzeniami
+
+Linki zewnętrzne

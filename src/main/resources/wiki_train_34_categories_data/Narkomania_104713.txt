@@ -1,0 +1,114 @@
+
+
+Inhibitory wychwytu zwrotnego serotoniny i noradrenaliny (ang. SNRI Serotonin norepinephrine reuptake inhibitors) – grupa leków przeciwdepresyjnych o działaniu zbliżonym do SSRI. Są to inhibitory zwrotnego wychwytu serotoniny i noradrenaliny, co oznacza iż podnoszą poziom tych neuroprzekaźników w ośrodkowym i obwodowym układzie nerwowym. Stosowane są głównie do leczenia zaburzeń depresyjnych, zaburzeń lękowych oraz zaburzeń psychosomatycznych.
+
+Wskazania
+Leki z tej grupy są wskazane w leczeniu:
+epizodów depresyjnych
+zespołu lęku uogólnionego 
+fobii społecznej
+zaburzenia lękowego z napadami lęku panicznego
+zespołu stresu pourazowego
+bólu neuropatycznego
+fibromialgii
+przewlekłego bólu mięśniowo-szkieletowego
+
+Oprócz wyżej wymienionych SNRI mogą być stosowane u dorosłych pacjentów z ADHD jako alternatywna dla stymulantów, nie jest to jednak oficjalnie zatwierdzone wskazanie.
+
+Mechanizm działania
+
+SNRI działają poprzez hamowanie wychwytu serotoniny oraz noradrenaliny ze szczeliny synaptycznej. Konsekwencją jest znaczne zwiększenie stężenia serotoniny oraz noradrenaliny we wszystkich obszarach układu nerwowego gdzie występują transportery serotoninowe oraz transportery noradrenaliny. Z punktu widzenia terapii zaburzeń nastroju najistotniejsze jest oddziaływanie leków na mózgowie, ze szczególnym naciskiem na 
+korę przedczołową
+zwoje postawy mózgu
+wzgórze
+ciało migdałowate
+hipokamp
+podwzgórze.
+
+SNRI wpływają także na transisję dopaminergiczną w korze przedczołowej. Wynika to z tego, że zahamowanie wychwytu zwrotnego noradrenaliny hamuje też wychwyt zwrotny dopaminy w tym obszarze przodomózgowia. Ma to znaczne konsekwencje kliniczne, znacznie poprawiając działanie antydepresyjne preparatów z tej grupy.
+
+Zwiększenie stężenia serotoniny oraz noradrenaliny w obwodowym układzie nerwowym jest przyczyną, dla której leki z tej grupy mają istotne, wykorzystywane klinicznie działanie przeciwbólowe.
+
+Konsekwencje terapeutyczne
+blokada wychwytu zwrotnego noradrenaliny - leczenie ADHD
+blokada wychwytu zwrotnego noradrenaliny i serotoniny - leczenie bólu neuropatycznego i fibromialgii
+blokada wychwytu zwrotnego noradrenaliny, serotoniny oraz dopaminy - leczenie zaburzeń nastroju, zaburzeń lękowych oraz zaburzeń nerwicowych
+
+Przeciwwskazania
+Nadwrażliwość na stosowany preparat
+Jaskra z wąskim kątem przesączania
+Jednoczasowe podawanie inhibitorów MAO
+Niestabilna choroba wieńcowa
+Przyjmowanie dużej ilości alkoholu
+
+Działania uboczne
+Zależne od działania serotoninergicznego
+Objawy uboczne zależne od działania serotoninergicznego są zbliżone do działań niepożądanych SSRI
+Pobudzenie receptorów serotoninowych 5HT2A oraz 5HT2C w szlaku nerwowym prowadzącym z jądra szwu do ciała migdałowatego oraz układu limbicznego może wywołać
+ostre pobudzenie
+lęk
+napady lęku panicznego
+Pobudzenie receptorów 5HT2A w zwojach podstawy mózgu może spowodować zahamowanie transmisji dopamninergicznej w tym obszarze, czego efektem może być
+akatyzja
+spowolnienie psychoruchowe
+łagodnie nasilone objawy parkinsonizmu
+Pobudzenie receptorów 5HT2A w pniu mózgu może wywołać
+mioklonie
+zaburzenia snu z nocnymi wybudzeniami
+Pobudzenie receptorów 5HT2A oraz 5HT2C w rdzeniu kręgowym może zaburzyć odruchy rdzeniowe orgazmu i ejakulacji; pobudzenie receptorw 5HT2A w układzie nagrody prowadzi z kolei do spadku libido prowadząc do
+dysfunkcji seksualnych
+Pobudzenie receptorów 5HT3 w podwzgórzu oraz w pniu mózgu może prowadzić do
+wymiotów
+nudności
+Pobudzenie receptorów 5HT3 oraz 5HT4 w układzie pokarmowym może powodować
+pzryspieszenie motoryki jelit ze skurczami i biegunką
+
+Zależne od działania noradrynergicznego
+Oddziaływanie na receptory noradrynergiczne β1 oraz β2 w móżdżku może wywołać
+pobudzenie ruchowe
+drżenie mięśniowe
+Oddziaływanie na transmisję noradrynergiczną w ciele migdałowatym może wywołać
+pobudzenie psychoruchowe
+Oddziaływanie na transmisję noradrynergiczną w pniu mózgumoże wywołać
+zmiany ciśnienia tętniczego krwi
+Oddziaływanie na receptory noradrynergiczne β1 w sercu może wywołać
+zmiany w tętnie
+Oddziaływanie na receptory noradrynergiczne w obrębie autonomicznego układu nerwowego może wywołać tak zwany "zespół pseudoantycholinergiczny" kiedy to nadmierne pobudzenie receptorów noradrynergicznych α1 w układzie współczulnym wywołuje znaczne, względne obniżenie napięcia układu przywspółczulnego; efektem może być
+suchość w ustach
+zaparcie
+retencja moczu
+mimo tego, że SSRI nie oddziaływują bezpośrednio na receptory muskarynowe
+
+Dynamika działań niepożądanych
+U większości pacjentów działania niepożądane pojawiają się w pierwszej dobie leczenia. W trakcie leczenia z reguły stają coraz łagodniejsze by po około tygodniu terapii ustąpić całkowicie. Niekiedy utrzymują się ze znacznym nasileniem przez cały okres leczenia co jest wskazaniem do przerwania leczenia stosowanym preparatem.
+
+Zatrucia
+Zatrucia SNRI są wynikiem celowego działania pacjenta lub efektem interakcji lekowych. Zatrucie lekami z tej grupy jest bardzo niebezpieczne i potencjalnie śmiertelne.
+W wyniku zatrucia SNRI mogą rozwinąć się następujące objawy:
+zaburzenia świadomości od senności do śpiączki włącznnie
+zespół serotoninowy
+napady drgawkowe
+zaburzenia ze strony układu krążenia: tachykardia, podwyższone lub obniżone ciśnienie tętnicze krwi
+wymioty (szczególnie niebezpieczne w połączeniu z zaburzeniami świadomości z uwagi na ryzyko zachłyśnięcia)
+
+Preparaty
+Leki z grupy SNRI 
+wenlafaksyna
+deswenlafaksyna
+sibutramina 
+milnacipran 
+duloksetyna
+klowoksamina
+bicifidyna
+
+
+Bibliografia
+Zobacz też
+Selektywne inhibitory zwrotnego wychwytu serotoniny
+inhibitory MAO
+trójcykliczne leki przeciwdepresyjne
+
+
+
+
+

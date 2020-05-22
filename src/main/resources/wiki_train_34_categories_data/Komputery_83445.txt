@@ -1,0 +1,40 @@
+Z3''' to pierwszy działający, w pełni automatyczny komputer o zmiennym programie zbudowany przez niemieckiego inżyniera Konrada Zuse w 1941 roku na bazie jego wcześniejszej, mechanicznej konstrukcji, Z1. Maszyna była wykorzystywana w czasie wojny do obliczeń niezbędnych przy projektowaniu skrzydeł.
+
+Z1 był maszyną mechaniczną, a Z3 przekaźnikową lecz posiadały identyczną organizację. Wykonywały tylko dodawanie, odejmowanie, mnożenie, dzielenie i pierwiastkowanie na binarnych liczbach zmiennoprzecinkowych przechowywanych w 64 słowach pamięci. Program zapisany był na ośmiokanałowej taśmie perforowanej i wykonywany w miarę wczytywania. Dla realizacji pętli należało końce taśmy skleić w pętlę. Dane były wprowadzane przez klawiaturę a wynik odczytywany z wyświetlacza.
+
+Jedyny istniejący egzemplarz komputera został zniszczony przez Aliantów pod koniec wojny, lecz jego replikę zbudowaną w latach 60. Można zobaczyć w Muzeum Techniki (Deutsches Museum) w Monachium.
+
+
+
+Dane Z3
+procesor:
+system: binarny
+czas mnożenia: 3 s
+częstotliwość zegara: 5 1/3 Hz
+zawierał 600 przekaźników
+pamięć:
+danych: 64 słowa 22 bitowe; zawierająca łącznie z układem sterowania 1800 przekaźników
+programu: ośmiokanałowa taśma perforowana
+sterowanie mikroprogramowe
+urządzenie we/wy
+klawiatura dziesiętna
+wyświetlacz dziesiętny
+format danych: binarna liczba zmiennoprzecinkowa zawierająca:
+bit znaku
+7 bitów wykładnika zapisanych jako liczba w kodzie uzupełnieniowym do dwóch
+14 bitów mantysy (pierwszy bit zawsze równy 1 nie był pamiętany)
+każda liczba z wykładnikiem równym -64 jest zerem
+każda liczba z wykładnikiem równym 63 jest nieskończonością
+zakres liczb:
+wewnętrzny: 2-63 = 1,08 x 10-19 do 262 = 4,61 x 1018
+wprowadzanych : od 1 x 10-8 do 9999 x 108
+wyświetlanych: od 1 x 10-8 do 19999 x 108
+konstruktor: Konrad Zuse
+
+Kompletność Turinga
+O maszynie mówimy, że jest kompletna w sensie Turinga, kiedy można za jej pomocą zrealizować każdy algorytm. Powszechnie uważano, że Z3''' nie spełniał tych wymogów, ponieważ nie posiadał instrukcji warunkowych, pierwszeństwo przyznając amerykańskiemu komputerowi ENIAC z 1944 roku. W 1998 roku Raúl Rojas udowodnił, że na komputerze Z3 można zaimplementować maszynę Turinga, pod warunkiem niezawodności i braku ograniczeń co do rozmiaru pamięci, co jednak oznaczało, że komputer ten faktycznie jest kompletny w sensie Turinga.
+
+Znaczenie
+Z3''' był maszyną wyprzedzającą swoją epokę. Współczesnym komputerom, mimo iż oparte są one na układach elektronicznych, pod względem działania bliżej jest właśnie do tego niemieckiego projektu, niż do amerykańskiego ENIAC-a. Powody, dla których nie był on szeroko znany, miały podłoże polityczne oraz społeczne - po wojnie głównym ośrodkiem rozwoju informatyki były Stany Zjednoczone i to właśnie tam, niezależnie, wynaleziono i spopularyzowano szereg rozwiązań wcześniej użytych w komputerach Z1 oraz Z3.
+
+Linki zewnętrzne

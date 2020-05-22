@@ -1,0 +1,5 @@
+thttpd (tiny/turbo/throttling HTTP server) – mały, szybki, otwarty serwer HTTP, zgodny ze standardem HTTP/1.1. thttpd jest dostępny dla wielu systemów operacyjnych.
+
+Twórcy thttpd (ACME Laboratories) położyli nacisk na szybkość, małe zużycie zasobów i bezpieczeństwo. thttpd posiada unikalną opcję przydzielania pasma dla konkretnych adresów URL.
+
+Linki zewnętrzne

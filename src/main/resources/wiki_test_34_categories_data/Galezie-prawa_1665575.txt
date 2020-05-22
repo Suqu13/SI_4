@@ -1,0 +1,416 @@
+Pomimo widocznego ujednolicenia i standaryzacji, europejskie znaki drogowe wykazują istotne różnice pomiędzy krajami. Niemniej większość państw Europy odniosła się do Konwencji wiedeńskiej o znakach drogowych i sygnałach świetlnych z 1968 roku – przyjętej w Europie przez Albanię, Austrię, Białoruś, Belgię, Bośnię i Hercegowinę, Bułgarię, Chorwację, Czarnogórę, Czechy, Danię, Estonię, Finlandię, Francję, Grecję, Litwę, Luksemburg, Łotwę, Macedonię, Niemcy, Norwegię, Polskę, Rosję, Rumunię, San Marino, Serbię, Słowację, Szwajcarię, Szwecję, Ukrainę, Węgry i Włochy.
+
+Różnice pomiędzy europejskimi znakami drogowymi
+Podstawowe różnice to:
+różnice graficzne
+różne znaczenia
+użycie różnych kodów kolorów
+teksty w lokalnych językach (niekiedy dwujęzyczne)
+
+Różnice graficzne
+Znaki ostrzegawcze w Irlandii mają kształt rombu z żółtym tłem zamiast standardowego kształtu trójkąta i odbiegają od standardu przyjętego w reszcie Europy.
+Wiele piktogramów (tunel, pieszy, samochód itd.) nieco różni się w wielu krajach.
+Typy strzałek mogą być różne.
+Różne kroje pisma w tekstach. Wielka Brytania, Włochy, Hiszpania, Islandia, Irlandia, Grecja i Portugalia używają czcionki Transport. Niemcy stosują DIN 1451. Holandia używa czcionek FHWA, a Szwajcaria kroju pisma Frutiger.
+
+Różne kody kolorów
+Zazwyczaj znaki ostrzegawcze mają czerwoną obwódkę i białe tło. Jednak w Szwecji, Serbii, Bośni i Hercegowinie, Chorwacji (starsze znaki; nowe zazwyczaj mają już białe tło), Grecji, Finlandii, Islandii, Macedonii i Polsce mają one żółtopomarańczowe tło (w innych krajach oznaczone są tak tymczasowe znaki drogowe). Również znak „ustąp pierwszeństwa” używany w Szwecji, Serbii, Chorwacji, Finlandii i Polsce ma żółte tło.
+Wiele krajów normalnie przyjęło do znaków tymczasowych (prace drogowe) pomarańczowe lub żółtopomarańczowe tło. Inne kraje (Francja, Włochy, Szwecja, Finlandia, Islandia i Polska) używają żółtego tła.
+Drogowskazy na autostradach są oznaczone przez biały tekst na niebieskim tle w Wielkiej Brytanii, Niemczech, Francji, Hiszpanii, Holandii, Irlandii, Belgii, Austrii, Luksemburgu, Polsce, Portugalii, Łotwie i Węgrzech, a przez biały tekst na zielonym tle we Włoszech, Szwajcarii, Danii, Szwecji, Finlandii, Słowenii, Chorwacji, Czechach, Grecji, Cyprze, Rumunii, Słowacji i Serbii.
+Drogi główne (nie autostrady) oznaczone są przez biały na niebieskim we Włoszech, Szwajcarii, Szwecji, Czechach, Grecji, Cyprze, Słowacji, Rumunii, Łotwie, Finlandii i Holandii (w tym przypadku tak samo jak autostrady), biały na zielonym we Francji, Wielkiej Brytanii, Irlandii, Polsce i Portugalii, czarny na żółtym w Niemczech, Luksemburgu, Norwegii, Słowenii, Serbii, Bośni i Chorwacji, czerwony na białym w Danii (jednak biały na niebieskim na wylotach z autostrad i wszystkich ogólnych węzłach) oraz czarny tekst na białym tle w Austrii i Hiszpanii.
+Drogowskazy na drogach drugorzędnych różnią się od tych na drogach głównych we Francji, Wielkiej Brytanii, Finlandii, Irlandii, Szwajcarii i Portugalii, zawsze będąc oznaczonymi czarnym tekstem na białym tle. W Niemczech, Włoszech, Rumunii, Słowenii i Szwecji znaki z czarnym tekstem na białym tle wskazują tylko drogi i kierunki w mieście.
+
+Różnice w znaczeniu
+Czasami podobne znaki nieco różnią się znaczeniem, zgodnie z lokalnymi kodami używanymi w komunikacji.
+Kraje europejskie używają systemu metrycznego (odległości w kilometrach lub metrach, wysokości i szerokości w metrach) z wyjątkiem Wielkiej Brytanii, gdzie odległości podane są w milach.
+
+Tabela porównująca znaki drogowe w sześciu największych krajach Unii Europejskiej
+Porównanie znaków drogowych w sześciu głównych krajach Unii Europejskiej (Niemcy, Francja, Wielka Brytania, Włochy, Hiszpania i Polska).
+
+
+Plik:EU-section-with-D.svg|Niemcy
+Plik:EU-section-with-F.svg|Francja
+Plik:EU-section-with-GB.svg|Wielka Brytania
+Plik:EU-section-with-I.svg|Włochy
+Plik:EU-section-with-E.svg|Hiszpania
+Plik:EU-section-with-PL.svg|Polska
+
+Plik:Zeichen 206.svg | Halt! Vorfahrt gewähren
+Plik:Vienna-convention-sign-B2a.svg | Arrêt
+Plik:UK traffic sign 601.1.svg| Stop and give way
+Plik:Italian traffic signs - fermarsi e dare precedenza - stop.svg | Fermarsi e dare precedenza
+Plik:Spain traffic signal r2.svg | Detención obligatoria
+Plik:Znak B-20.svg | Stop
+
+Plik:Zeichen 205.svg | Vorfahrt gewähren
+Plik:France road sign AB3a.svg | Cedez le passage
+Plik:UK traffic sign 602.svg | Give way to traffic on major road (yield)
+Plik:Italian traffic signs - dare precedenza.svg | Dare precedenza
+Plik:Spain traffic signal r1.svg | Ceda el paso
+Plik:Znak A-7.svg | Ustąp pierwszeństwa przejazdu
+
+Plik:Zeichen 306.svg | Vorfahrtstraße
+Plik:France road sign AB6.svg | Indication de caractère prioritaire
+Plik:No image.svg| Priority road(nieużywany)
+Plik:Italian traffic signs - diritto di precedenza.svg | Diritto di precedenza
+Plik:Spain traffic signal r3.svg | Calzada con prioridad
+Plik:Znak D-1.svg | Droga z pierwszeństwem
+
+Plik:Zeichen 307.svg | Ende der Vorfahrtstraße
+Plik:France road sign AB7.svg | Fin de caractère prioritaire
+Plik:No image.svg| End of priority road(nieużywany)
+Plik:Italian traffic signs - fine del diritto di precedenza.svg | Fine del diritto di precedenza
+Plik:Spain traffic signal r4.svg | Fin de prioridad
+Plik:Znak D-2.svg | Koniec drogi z pierwszeństwem
+
+Plik:Zeichen 101.svg | Gefahrstelle
+Plik:France road sign AK14.svg | Panneau temporaire de signalisation de danger
+Plik:UK traffic sign 562.svg | Other danger
+Plik:Italian traffic signs - altri pericoli.svg|Altri pericoli
+Plik:Spain traffic signal p50.svg | Otros peligros
+Plik:Znak A-30.svg | Inne niebezpieczeństwo
+
+Plik:Zeichen 125.svg | Gegenverkehr
+Plik:A18.svg | Circulation dans les deux sens
+Plik:UK traffic sign 521.svg| Two-way traffic straight ahead
+Plik:Italian traffic signs - doppio senso.svg | Doppio senso di circolazione
+Plik:Spain traffic signal p25.svg | Circulación en los dos sentidos
+Plik:Znak A-20.svg | Odcinek jezdni o ruchu dwukierunkowym
+
+Plik:Zeichen 124.svg | Stau
+Plik:France road sign AK30.svg | Bouchon
+Plik:UK traffic sign 584.svg | Traffic queues likely ahead
+Plik:Italian traffic signs - Coda.svg | Coda
+Plik:Spain traffic signal p31.svg | Congestión
+Plik:Znak A-33.svg | Zator drogowy
+
+Plik:Zeichen 131.svg | Lichtzeichenanlage
+Plik:A17.svg | Feux tricolores
+Plik:UK traffic sign 543.svg | Traffic signals ahead
+Plik:Italian traffic signs - semaforo verticale.svg | Semaforo
+Plik:Spain traffic signal p3.svg | Semáforos
+Plik:Znak A-29.svg | Sygnały świetlne
+
+Plik:Zeichen 151.svg | Bahnübergang ohne Schranken
+Plik:A8.svg | Passage à niveau sans barrière
+Plik:UK traffic sign 771.svg | Railway level crossing without gate or barrier ahead
+Plik:Italian traffic signs - passaggio a livello senza barriere.svg | Passaggio a livello senza barriere
+Plik:Carretera Paso a nivel 01.svg | Paso a nivel sin barreras
+Plik:Znak A-10.svg | Przejazd kolejowy niestrzeżony, bez rogatek
+
+Plik:Zeichen 150 - Bahnübergang mit Schranken oder Halbschranken, StVO 1970.svg | Bahnübergang mit Schranken
+Plik:A7.svg | Passage à niveau muni de barrières
+Plik:UK traffic sign 770.svg | Level crossing with barrier or gate ahead
+Plik:Italian traffic signs - passaggio a livello con barriere.svg | Passaggio a livello con barriere
+Plik:Carretera Paso a nivel 02.svg | Paso a nivel con barreras
+Plik:Znak A-9.svg | Przejazd kolejowy strzeżony, z rogatkami
+
+Plik:Zeichen 102.svg | Kreuzung mit Vorfahrt von rechts
+Plik:France road sign AB1.svg | Priorité à droite
+Plik:No image.svg| Crossroads with right-of-way from the right(nieużywany)
+Plik:Italian traffic signs - intersezione con precedenza a destra.svg | Intersezione con precedenza a destra
+Plik:Spain traffic signal p2.svg | Intersección con prioridad de la derecha
+Plik:Znak A-5.svg | Niebezpieczne skrzyżowanie z drogą równorzędną
+
+Plik:Zeichen 301.svg | Vorfahrt
+Plik:France road sign AB2.svg | Priorité ponctuelle
+Plik:UK traffic sign 504.1.svg | Crossroads (junction with a minor cross road)
+Plik:Italian traffic signs - intersezione con diritto di precedenza.svg | Intersezione con diritto di precedenza
+Plik:Spain traffic signal p1.svg | Intersección con prioridad
+Plik:Znak A-6a.svg | Niebezpieczne skrzyżowanie z drogą podporządkowaną po obu stronach
+
+Plik:Zeichen 120.svg | Verengte Fahrbahn
+Plik:French road sign A3.svg | Chaussée rétrécie
+Plik:UK traffic sign 516.svg | Road narrows on both sides
+Plik:Italian traffic signs - strettoia simmetrica.svg | Strettoria simmetrica
+Plik:Spain traffic signal p17.svg | Estrechamiento de calzada
+Plik:Znak A-12a.svg | Zwężenie jezdni
+
+Plik:Zeichen 121.svg | Einseitig (rechts) verengte Fahrbahn
+Plik:French road sign A3a.svg | Chaussée rétrécie par la droite
+Plik:UK traffic sign 517L.svg | Road narrows on left
+Plik:Italian traffic signs - strettoia asimmetrica a destra.svg | Strettoia asimmetrica a destra
+Plik:Spain traffic signal p17a.svg | Estrechamiento de calzada por la derecha
+Plik:Znak A-12b.svg | Zwężenie jezdni z prawej strony
+
+Plik:Zeichen 117-10.svg | Seitenwind
+Plik:A24.svg | Vent
+Plik:UK traffic sign 581.svg | Side winds
+Plik:Italian traffic signs - forte vento laterale.svg | Forte vento laterale
+Plik:Spain traffic signal p29.svg | Viento transversal
+Plik:Znak A-19.svg | Boczny wiatr
+
+Plik:Zeichen 108.svg | Gefälle (10%)
+Plik:A16.svg | Descente dangereuse
+Plik:UK traffic sign 523.1.svg | Steep hill downwards (10%)
+Plik:Italian traffic signs - discesa pericolosa.svg | Discesa pericolosa (10%)
+Plik:Spain traffic signal p16a.svg | Bajada con fuerte pendiente
+Plik:Znak A-22.svg | Niebezpieczny zjazd
+
+Plik:Zeichen 103.svg | Kurve (rechts)
+Plik:A1A.svg | Virage à droite
+Plik:UK traffic sign 512.svg | Bend to right
+Plik:Italian traffic signs - curva pericolosa a destra.svg | Curva a destra
+Plik:Spain traffic signal p13a.svg | Curva peligrosa hacia la derecha
+Plik:Znak A-1.svg | Niebezpieczny zakręt w prawo
+
+Plik:Zeichen 106.svg | Doppelkurve erste links
+Plik:A1D.svg | Succession de virages
+Plik:UK traffic sign 513.svg | Double bend, first to left
+Plik:Italian traffic signs - doppia curva sx.svg | Doppia curva, la prima a sinistra
+Plik:Spain traffic signal p14a.svg | Curvas peligrosas hacia la izquierda
+Plik:Znak A-4.svg | Niebezpieczne zakręty, pierwszy w lewo
+
+Plik:Zeichen 114.svg | Schleudergefahr
+Plik:A4.svg | Chaussée glissante
+Plik:UK traffic sign 557.svg | Slippery road
+Plik:Italian traffic signs - strada sdrucciolevole.svg |Strada sdrucciolevole
+Plik:Spain traffic signal p19.svg | Pavimento deslizante
+Plik:Znak A-15.svg | Śliska jezdnia
+
+Plik:Zeichen 123.svg | Baustelle
+Plik:AK5 French road sign.svg | Travaux
+Plik:UK traffic sign 7001.svg | Road works
+Plik:Italian traffic signs - lavori.svg | Lavori
+Plik:Spain traffic signal tp18.svg | Obras
+Plik:Znak A-14.svg | Roboty drogowe
+
+Plik:Zeichen 115.svg | Steinschlag
+Plik:A19.svg | Risque de chutes de pierres
+Plik:UK traffic sign 559.svg | Falling or fallen rocks
+Plik:Italian traffic signs - caduta massi da destra.svg | Caduta massi
+Plik:Spain traffic signal p26.svg | Desprendimiento
+Plik:Znak A-25.svg | Spadające odłamki skalne
+
+Plik:Zeichen 128 - Bewegliche Brücke, StVO 1992.svg | Bewegliche Brücke
+Plik:A6.svg | Pont mobile
+Plik:UK traffic sign 529.svg | Opening or swing bridge ahead
+Plik:Italian traffic signs - ponte mobile.svg | Ponte mobile
+Plik:Spain traffic signal p5.svg | Puente móvil
+Plik:Znak A-13.svg | Ruchomy most
+
+Plik:Zeichen 129.svg | Ufer
+Plik:A20.svg | Débouché sur un quai ou une berge
+Plik:UK traffic sign 555.svg | Quayside or river bank
+Plik:Italian traffic signs - sbocco su molo.svg | Sbocco su molo o su argine
+Plik:Spain traffic signal p27.svg | Muelle
+Plik:Znak A-27.svg | Nabrzeże lub brzeg rzeki
+
+Plik:Zeichen 142.svg | Wildwechsel
+Plik:A15b.svg | Passage d’animaux sauvages
+Plik:UK traffic sign 551.svg | Wild animals
+Plik:Italian traffic signs - animali selvatici vaganti.svg | Animali selvatici vaganti
+Plik:Spain traffic signal p24.svg | Paso de animales en libertad
+Plik:Znak A-18b.svg | Dzikie zwierzęta
+
+Plik:Zeichen 267.svg | Verbot der Einfahrt
+Plik:B1.svg | Interdit
+Plik:UK traffic sign 616.svg | No entry for vehicular traffic
+Plik:Italian traffic signs - senso vietato.svg | Senso vietato
+Plik:Spain traffic signal r101.svg | Entrada prohibida
+Plik:Znak B-2.svg | Zakaz wjazdu wszelkich pojazdów
+
+Plik:Zeichen 251.svg | Verbot für Kraftwagen und sonstige mehrspurige Kraftfahrzeuge
+Plik:Signal B7b.svg | Accès interdit à tous les véhicules à moteur
+Plik:UK traffic sign 619.1.svg | No motor vehicles
+Plik:Italian traffic signs - divieto di transito a tutti gli autoveicoli.svg | Transito vietato a tutti gli autoveicoli
+Plik:Spain traffic signal r103.svg | Entrada prohibida a vehículos de motor, excepto motocicletas de dos ruedas
+Plik:Znak B-3.svg | Zakaz wjazdu pojazdów silnikowych z wyjątkiem jednośladów
+
+Plik:Zeichen 255.svg | Verbot für Krafträder, auch mit Beiwagen, Kleinkrafträder und Mofas
+Plik:Signal B9h.svg | Accès interdit aux motocyclettes et motocyclettes légères
+Plik:UK traffic sign 619.2.svg | No motorcycles
+Plik:Italian traffic signs - divieto di transito motocicli.svg | Transito vietato ai motoveicoli
+Plik:Spain traffic signal r104.svg | Entrada prohibida a motocicletas
+Plik:Znak B-4.svg | Zakaz wjazdu motocykli
+
+Plik:Zeichen 254.svg | Verbot für Radfahrer
+Plik:Signal B9b.svg | Accès interdit aux cycles
+Plik:UK traffic sign 951.svg | No cycling
+Plik:Italian traffic signs - divieto di transito alle biciclette.svg | Transito vietato alle biciclette
+Plik:Spain traffic signal r114.svg | Entrada prohibida a bicicletas
+Plik:Znak B-9.svg | Zakaz wjazdu rowerów
+
+Plik:Zeichen 253.svg | Verbot für Kraftfahrzeuge mit einem zulässigen Gesamtgewicht über 3,5 t, einschließlich ihrer Anhänger und Zugmaschinen, ausgenommen Personenkraftwagen und Kraftomnibusse
+Plik:Signal B8.svg | Accès interdit aux véhicules affectés au transport de marchandises
+Plik:UK traffic sign 622.1A.svg | No heavy goods vehicles
+Plik:Italian traffic signs - divieto di transito ai veicoli da trasporto.svg | Transito vietato ai veicoli di massa a pieno carico superiore a 3,5 t
+Plik:Spain traffic signal r106.svg | Entrada prohibida a vehículos destinados al transporte de mercancías de tipo camión o furgoneta
+Plik:Znak B-5.svg | Zakaz wjazdu pojazdów ciężarowych o dopuszczalnej masie całkowitej większej, niż 3,5 t
+
+Plik:Zeichen 208.svg | Dem Gegenverkehr Vorfahrt gewähren
+Plik:Signal B15.svg | Cédez le passage à la circulation venant en sens inverse
+Plik:UK traffic sign 615.svg | Give priority to vehicles from opposite direction
+Plik:Italian traffic signs - dare precedenza nei sensi unici alternati.svg | Dare precedenza nei sensi unici alternati
+Plik:Spain traffic signal r5.svg | Prioridad al sentido contrario
+Plik:Znak B-31.svg | Pierwszeństwo dla nadjeżdżających z przeciwka
+
+Plik:Zeichen 276.svg | Überholverbot
+Plik:B3.svg | Interdiction de dépasser tous les véhicules à moteur autres que ceux à deux roues sans side-car
+Plik:UK traffic sign 632.svg | No overtaking
+Plik:Italian traffic signs - divieto di sorpasso.svg | Divieto di sorpasso
+Plik:Spain traffic signal r305.svg | Adelantamiento prohibido
+Plik:Znak B-25.svg | Zakaz wyprzedzania
+
+Plik:Zeichen 274.svg | Zulässige Höchstgeschwindigkeit (60 km/h)
+Plik:Signal B14 50.svg | Limite de vitesse (50 km/h)
+Plik:UK SpeedLimit.svg | Maximum speed (30 mph)
+Plik:Italian traffic signs - limite di velocit%C3%A0 50.svg | Limite massimo di velocità (50 km/h)
+Plik:Spain traffic signal r301-100.svg | Velocidad máxima (100 km/h)
+Plik:Znak B-33.svg | Ograniczenie prędkości (50 km/h)
+
+Plik:Zeichen 265.svg | Höchsthöhe
+Plik:France road sign B12.svg | Accès interdit aux véhicules dont la hauteur, chargement compris, est supérieure au nombre indiqué
+Plik:UK traffic sign 629.2A.svg | No vehicles over height shown
+Plik:Italian traffic signs - divieto di transito altezza 3%2C50m.svg | Transito vietato ai veicoli aventi altezza superiore
+Plik:Spain traffic signal r205.svg| Limitación de altura
+Plik:Znak B-16.svg | Zakaz wjazdu pojazdów wyższych, niż określono na znaku
+
+Plik:Zeichen 266.svg | Höchstlänge
+Plik:Signal B10a.svg | Accès interdit aux véhicules dont la longueur est supérieure au nombre indiqué
+Plik:UK traffic sign 629.1.svg | No vehicles over length shown
+Plik:Italian traffic signs - divieto di transito ai veicoli lunghi.svg | Transito vietato ai veicoli aventi larghezza superiore
+Plik:Spain traffic signal r203.svg | Limitación de longitud
+Plik:Znak B-17.svg | Zakaz wjazdu pojazdów dłuższych, niż określono na znaku
+
+Plik:Zeichen 261.svg | Verbot für kennzeichnungspflichtige Kraftfahrzeuge mit gefährlichen Gütern
+Plik:Signal B18c.svg | Accès interdit aux véhicules transportant des marchandises dangereuses
+Plik:UK traffic sign 622.10.svg | Vehicles carrying dangerous goods prohibited (non-prescribed by Traffic Signs Regulations and General Directions, requiring special authorisation by Department for Transport)
+Plik:Italian traffic signs - divieto di transito a trasporti pericolosi.svg | Transito vietato ai veicoli che trasportano merci pericolose
+Plik:Spain traffic signal r108.svg | Entrada prohibida a vehículos que transporten mercancías peligrosas
+Plik:Znak B-13a.svg | Zakaz wjazdu pojazdów z materiałami niebezpiecznymi
+
+Plik:Zeichen 269.svg | Verbot für Fahrzeuge mit wassergefährdender Ladung
+Plik:Signal B18b.svg | Accès interdit aux véhicules transportant des marchandises susceptibles de polluer les eaux
+Plik:No image.svg|No vehicles carrying dangerous goods(nieużywany)
+Plik:Italian traffic signs - divieto di transito agli inquinanti idrici.svg | Divieto di transito ai veicoli che trasportano prodotti suscettibili di contaminare l’acqua
+Plik:Spain traffic signal r110.svg | Entrada prohibida a vehículos que transporten productos contaminantes del agua
+Plik:Znak B-14.svg | Zakaz wjazdu pojazdów z materiałami, które mogą skazić wodę
+
+Plik:Zeichen 272, StVO 1992.svg | Wendeverbot
+Plik:B2C.svg | Interdiction de faire demi-tour sur la route suivie jusqu’à la prochaine intersection
+Plik:UK traffic sign 614.svg | No U-turns
+Plik:No image.svg|Divieto di inversione(nieużywany od 1992&nbsp;r.)
+Plik:Spain traffic signal r304.svg | Media vuelta prohibida
+Plik:Znak B-23.svg | Zakaz zawracania
+
+Plik:Zeichen 286.svg | Eingeschränktes Halteverbot
+Plik:B6A1.svg | Stationnement interdit
+Plik:UK traffic sign 636.svg | No parking
+Plik:Italian traffic signs - divieto di sosta.svg | Divieto di sosta
+Plik:Spain traffic signal r308.svg |Estacionamiento prohibido
+Plik:Znak B-35.svg | Zakaz postoju
+
+Plik:Zeichen 283.svg | Park- und Haltverbot
+Plik:B6D.svg | Arrêt et stationnement interdits
+Plik:UK traffic sign 642.svg | No stopping (clearway)
+Plik:Italian traffic signs - divieto di fermata.svg | Divieto di fermata
+Plik:Spain traffic signal r307.svg | Parada y estacionamiento prohibidos
+Plik:Znak B-36.svg | Zakaz zatrzymywania się
+
+Plik:Zeichen 392.svg | Zoll
+Plik:B4.svg | Douane
+Plik:No image.svg| Customs(nieużywany)
+Plik:Italian traffic signs - dogana.svg | Alt-Dogana
+Plik:Spain traffic signal aduana.svg | Aduana
+Plik:Znak B-32.svg | Stój – kontrola celna
+
+Plik:Zeichen 282.svg | Ende sämtlicher Streckenverbote
+Plik:France road sign B31.svg | Fin de toutes les interdictions précédemment signalées, imposées aux véhicules en mouvement
+Plik:No image.svg| Derestriction(nieużywany)
+Plik:Italian traffic signs - via libera.svg | Via libera
+Plik:Spain traffic signal r500.svg|Fin de restricciones impuestas
+Plik:Znak B-42.svg | Koniec zakazów
+
+Plik:Zeichen 211.svg | Vorgeschriebene Fahrtrichtung – hier rechts
+Plik:France road sign B21-1.svg | Obligation de tourner à droite avant le panneau
+Plik:UK traffic sign 606B.svg | Turn right
+Plik:Italian traffic signs - direzione obbligatoria a destra.svg | Direzione obbligatoria a destra
+Plik:Spain traffic signal r400a.svg | Nahitaezko noranzkoa
+Plik:Znak C-1.svg | Nakaz skrętu w prawo przed znakiem
+
+Plik:Zeichen 209.svg | Vorgeschriebene Fahrtrichtung – rechts
+Plik:France road sign B21c1.svg | Direction obligatoire à la prochaine intersection: à droite
+Plik:UK traffic sign 609A.svg | Turn right ahead
+Plik:Italian traffic signs - preavviso di direzione obbligatoria a destra.svg | Preavviso di direzione obbligatoria a destra
+Plik:Spain traffic signal r400d.svg | Nahitaezko noranzkoa
+Plik:Znak C-2.svg | Nakaz skrętu w prawo za znakiem
+
+Plik:Zeichen 222-20.svg | Vorgeschriebene Fahrtrichtung – rechts vorbei!
+Plik:France road sign B21a1.svg | Contournement obligatoire par la droite
+Plik:UK traffic sign 610.svg | Keep left
+Plik:Italian traffic signs - passaggio obbligatorio a destra.svg | Passaggio obbligatorio a destra
+Plik:Spain traffic signal r401a.svg | Nahitaezko pasagunea
+Plik:Znak C-9.svg | Ominąć znak z prawej strony
+
+Plik:Zeichen 215.svg | Kreisverkehr
+Plik:France road sign AB25.svg| Carrefour à sens giratoire
+Plik:UK traffic sign 611.1.svg | Mini-roundabout (roudabout circulation: give way to vehicles from the immediate right)
+Plik:Italian traffic signs - rotatoria.svg | Rotatoria
+Plik:Spain traffic signal r402.svg | Rotonda
+Plik:Znak C-12.svg | Ruch okrężny
+
+Plik:Zeichen 308.svg | Vorrang vor dem Gegenverkehr
+Plik:France road sign C18.svg | Priorité avec le passage à la circulation venant en sens inverse
+Plik:UK traffic sign 811.svg | Traffic has priority over oncoming vehicles
+Plik:Italian traffic signs - diritto di precedenza nei sensi unici alternati.svg | Diritto di precedenza nei sensi unici alternati
+Plik:Spain traffic signal r6.svg | Prioridad respecto al sentido contrario
+Plik:Znak D-5.svg | Pierwszeństwo na zwężonym odcinku drogi
+
+Plik:Zeichen 350.svg | Fußgängerübergang
+Plik:C20a.gif | Passage piéton
+Plik:UK traffic sign 544.svg| Pedestrian (zebra) crossing ahead
+Plik:Italian traffic signs - attraversamento pedonale.svg | Attraversamento pedonale
+Plik:Spain traffic signal s13.png | Situación de un paso para peatones
+Plik:Znak D-6.svg | Przejście dla pieszych
+
+Plik:Zeichen 314.svg | Parkplatz
+Plik:C1A.svg | Parking
+Plik:UK traffic sign 801.svg | Parking place
+Plik:Italian traffic signs - parcheggio.svg | Parcheggio
+Plik:Spain traffic signal s17.png | Estacionamiento
+Plik:Znak D-18.svg | Parking
+
+Plik:Zeichen 325.svg | Beginn eines verkehrsberuhigten Zone
+Plik:France road sign B52.svg | Entrée d’une zone de rencontre
+Plik:UK traffic sign 881A.svg | Start of a designated home zone
+Plik:Italian traffic signs - zona residenziale.svg | Zona residenziale
+Plik:Spain traffic signal s28.svg | Calle residencial
+Plik:Znak D-40.svg | Strefa zamieszkania
+
+Plik:Zeichen 327.svg | Tunnel
+Plik:Signal C111.svg | Entrée d’un tunnel
+Plik:UK traffic sign 529.1.svg| Tunnel ahead
+Plik:Italian traffic signs - galleria blu.svg | Traforo
+Plik:Spain traffic signal s5.png | Túnel
+Plik:D37 Polish road sign.svg | Tunel
+
+Plik:Zeichen 330.svg | Autobahn
+Plik:Autoroute F.svg | Autoroute
+Plik:UK motorway symbol.svg | Motorway
+Plik:Italian traffic signs - autostrada.svg | Autostrada
+Plik:Spain traffic signal s1.png | Autopista
+Plik:Znak D9.svg | Autostrada
+
+Plik:Zeichen 331.svg | Kraftfahrstraße
+Plik:Signal C107.svg | Route à chaussées séparées
+Plik:UK traffic sign 608.svg|Dual carriageway
+Plik:Italian traffic signs - strada riservata ai veicoli a motore.svg | Strada riservata ai veicoli a motore
+Plik:Spain traffic signal s1a.svg | Autovía
+Plik:Znak D7.svg | Droga ekspresowa
+
+Plik:Germany UE border.svg | Grenzübergang
+Plik:Traffic sign of border with France.svg | Poste frontière
+Plik:No image.svg| Country border(nieużywany)
+Plik:Italian traffic signs - confine CEE.svg | Confine
+Plik:Traffic sign of border with Spain.svg | Cruce de fronteras
+Plik:Znak Drogowy Polska-Schengen.svg |Wjazd do Polski
+
+
+Zobacz też
+znak drogowy
+wzory znaków i sygnałów drogowych w Polsce
+
+
+
+Linki zewnętrzne

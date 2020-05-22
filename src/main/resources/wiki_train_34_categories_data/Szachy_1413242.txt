@@ -1,0 +1,16 @@
+Tempo – w terminologii szachowej oznacza pojedyncze posunięcie (w grze praktycznej) bądź określoną pozycję (w problemistyce).
+
+Najczęściej używane jest w sformułowaniu "strata tempa", co oznacza wykonanie posunięcia bierką, którą po odpowiedzi przeciwnika należy ponownie wykonać posunięcie, np. w celu uniknięcia jej straty. Jednym z przykładów "straty tempa" we wczesnej fazie partii szachowej jest wariant klasyczny obrony skandynawskiej, powstający po posunięciach:
+
+1.e4 d5 2.e:d5 H:d5 3.Sc3
+
+Dzięki posunięciu skoczkiem białe zyskały tempo, gdyż czarne, aby nie stracić hetmana, muszą ponownie wykonać nim posunięcie. "Strata tempa" zazwyczaj jest błędem (chociaż w podanym przykładzie nim nie jest).
+
+W problemistyce szachowej "tempo" oznacza pozycję, w której jedna ze stron zostaje zmuszona do wykonania niekorzystnego dla siebie posunięcia.
+
+Bibliografia
+W.Litmanowicz, J. Giżycki, "Szachy od A do Z", tom II, Warszawa 1987, str. 1230
+
+
+
+

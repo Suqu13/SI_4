@@ -1,0 +1,45 @@
+Samsung Galaxy W (GT-i8150''') - model telefonu komórkowego typu smartfon, zaprojektowany i produkowany przez firmę Samsung. Urządzenie należy do serii Galaxy.
+
+Nazwa
+Model i8150 nazwany został zgodnie z nowym systemem nazewnictwa smartfonów Samsunga, zgodnie z którym, modele z literą "W" w nazwie należą do segmentu wysokiego.
+
+Opis
+Procesor i grafika
+Galaxy W bazuje na systemie SOC amerykańskiej firmy Qualcomm. Jest to model z linii Snapdragon S2, o oznaczeniu MSM8255T. Pracuje on z taktowaniem 1.4&nbsp;GHz i jest wykonany w technologii 45nm. 
+
+Układem graficznym tego modelu jest GPU Adreno 205.
+Ten sam układ znajduje się telefonie i9001 Galaxy S Plus.
+
+Wyświetlacz
+Model GT-i8150 wyposażony został w dotykowy ekran pojemnościowy, o przekątnej 3.7" (9.4&nbsp;cm), wykonany w technologii LCD TFT. Jest to wyświetlacz typu Multi-Touch o gęstości około 252 pikseli na cal. Ekran wyświetla 16777216 kolorów.
+
+
+Pamięć
+Telefon posiada 2 lub 4 gigabajty pamięci wbudowanej, którą można rozbudować za pomocą karty microSD lub microSDHC o pojemności do 32&nbsp;GB. Galaxy W ma także 512&nbsp;MB pamięci RAM (Mobile DDR).
+
+Aparat
+Galaxy W wyposażony jest w dwa aparaty. Główny, o rozdzielczości 5 megapikseli, może nagrywać filmy w standardzie 720p (1280x720). Drugi to kamera do rozmów wideo, o rozdzielczości 0.3 megapiksela. Obok obiektywu głównego aparatu wbudowano lampę błyskową.
+
+Komunikacja
+I8150 posiada wbudowany port micro-USB typu 2.0, złącze słuchawkowe (mini Jack). Telefon komunikuje się także za pomocą WiFi o standardach b/g/n oraz Bluetooth w wersji 3.0.
+
+System
+Telefon bazuje na systemie operacyjnym Google Android w wersji 2.3 Gingerbread. Samsung wyposażył Galaxy W także w interfejs TouchWiz 4.0.
+
+Modele podobne
+Bardzo podobnym urządzeniem do Galaxy W jest ulepszona wersja modelu I9000 - Galaxy S Plus i9001. Ma on zbliżoną specyfikację (procesor 1.4&nbsp;GHz, aparat 5&nbsp;MPx, 512&nbsp;MB RAM), jednak wyposażono go w lepszy ekran - 4.0" Super AMOLED o rozdzielczości 480x800 pikseli.
+
+Cena
+W Polsce cena Galaxy W wynosi około 1200&nbsp;zł.
+
+
+Zobacz też
+Samsung Galaxy S
+Samsung Galaxy S II
+Samsung Galaxy
+
+
+
+
+
+

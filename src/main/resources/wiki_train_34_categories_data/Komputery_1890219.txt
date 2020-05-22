@@ -1,0 +1,29 @@
+iPad – tablet firmy Apple. Ma 9,7-calowy ekran dotykowy z technologią Multi-Touch oraz m.in. możliwość oglądania filmów i zdjęć. Ma przeglądarkę internetową oraz jest kompatybilny z aplikacjami App Store dla iPhone'óworaz iPodów. Przeglądarka internetowa Safari dołączona do iPada nie obsługuje technologii Flash. Urządzenie waży 680 gramów (wersja 3G waży 730&nbsp;g), mieści się zatem między cięższymi od niego laptopami oraz lżejszymi niż on smartphone'ami. 
+
+iPad ukazał się w kwietniu 2010 roku, w ciągu pierwszych 80 dni sprzedaży sprzedano 3 miliony tych urządzeń. Urządzenie w wersji bez modułu 3G i GPS dostępne jest w USA od 3 kwietnia 2010 roku. Premiera iPada w wybranych krajach Europy (między innymi Wielka Brytania, Francja, Niemcy) odbyła się 28 maja 2010 roku. Polska premiera urządzenia nastąpiła 30 listopada 2010, wcześniej był sprzedawany nieoficjalnie.
+
+Historia
+
+Po wprowadzeniu urządzeń iPod na rynek, Apple powróciło na rynek urządzeń przenośnych wydając w 2007 roku iPhone'a. Mniejszy od iPada, za to wyposażony w aparat oraz ekran Multi-Touch iPhone zapoczątkował rozwój systemu operacyjnego dla urządzeń mobilnych - iOS. Do późnej jesieni 2009 roku krążyło wiele pogłosek o iPadzie. Spekulowano nad nazwą urządzenia- najczęściej mówiono o nim "Tablet od Apple", lecz nazywano je także iTablet lub iSlate. iPad został zaprezentowany 27 stycznia 2010 przez Steve'a Jobsa na konferencji prasowej Apple odbywającej się w Yerba Buena Center for the Arts w San Francisco.
+
+Steve Jobs po pewnym czasie przyznał, że iPad został zaprojektowany jeszcze przed iPhone'em. Gdy okazało się, że takie urządzenie może zadziałać, Jobs wstrzymał prace nad iPadem, tym samym obierając za cel projektowanie iPhone'a.
+
+Opis techniczny
+Urządzenie napędza specjalnie w tym celu skonstruowany przez firmę Apple układ A4 zgodny z architekturą ARM (Cortex-A8). Procesor taktowany jest zegarem o częstotliwości 1&nbsp;GHz, a ponadto ma zintegrowany układ graficzny PowerVR SGX, wielodotykowy ekran 9,7 cala (190×130 mm), rozdzielczości XGA 1024×768 punktów z funkcją Pivot i czujnikiem automatycznie przełączającym z orientacji poziomej na pionową.
+Jak wykazała inżynieria odwrotna, Apple A4 dysponuje także zintegrowaną pamięcią RAM, której ilość wynosi 256&nbsp;MB.
+
+Specyfikacja
+
+
+
+
+
+
+
+
+
+Zobacz też
+iPad 2
+
+Linki zewnętrzne
+

@@ -1,0 +1,23 @@
+Fotometria – dział optyki dotyczący pomiarów wielkości charakteryzujących światło postrzeganych przez ludzkie oko w odróżnieniu od radiometrii, która dotyczy pomiarów energetycznych. W fotometrii istotne jest wrażenie jakie jest percypowane przez ludzkie oko na skutek stymulacji falą elektromagnetyczną. Punktem wyjścia fotometrii jest więc sposób funkcjonowania oka jako wybiórczego detektora widma elektromagnetycznego. Jednostki fotometryczne, w przeciwieństwie do radiometrycznych mogą służyć jako wskaźniki w eksperymentach psychofizycznych. Jednostki fotometryczne różnią się w swej naturze od radiometrycznych mniej więcej tak jak fon różni się od bela.
+
+Fotometria a ludzkie oko
+
+Ludzkie oko nie jest równie wrażliwe na fale świetlne wszystkich długości. Fotometria stara się "wyprostować" tę niedogodność przez dobór wskaźników (jednostek), które są iloczynem obiektywnie zmierzonej wielkości światła danej długości, pewnej stałej oraz współczynnika czułości dla tej długości fali, który można odczytać z wykresu czułości spektralnej. Na wykresie widać, że oko inaczej zareaguje na światło o tym samym obiektywnym natężeniu, jeśli będzie się ono różnić długością fali. Warto pamiętać, że fotometria przyjmuje założenie, że wrażliwość ludzkiego oka odpowiada widzeniu fotopowemu, a nie widzeniu skotopowemu, dlatego może zdarzyć się, że przewidywania fotometrii nie sprawdzą się w oświetleniu ciemnym.
+
+Wielkości i jednostki fotometryczne
+Światłość
+Światłość (natężenie źródła światła) – jest to stosunek strumienia świetlnego  do kąta bryłowego , a więc:
+
+-  to światłość w kandelach,
+-  – natężenie promieniowania (W/sr),  –  jest współczynnikiem z wykresu.
+Podążając za wcześniejszą intuicją możemy powiedzieć, że kandela to stosunek "subiektywnego wata" – lumena do steradiana.
+
+Natężenie oświetlenia
+Natężenie oświetlenia (oświetlenie) – jest to stosunek strumienia świetlnego do powierzchni, która jest oświetlona. 
+
+-  – natężenie oświetlenia, dane w luksach
+-  – strumień świetlny, 
+-  – oświetlona powierzchnia.
+
+Zobacz też
+mikrofluorymetria

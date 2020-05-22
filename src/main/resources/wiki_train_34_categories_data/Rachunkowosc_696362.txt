@@ -1,0 +1,28 @@
+Sprawozdanie z przepływów pieniężnych, rachunek przepływów pieniężnych (rpp)''' nazywane też sprawozdaniem z przepływu środków pieniężnych, sprawozdaniem z przepływów finansowych lub z angielskiego cash flow statement jest sprawozdaniem pokazującym przepływ środków pieniężnych w danej firmie w ujęciu dynamicznym, czyli z uwzględnieniem jego źródeł i wykorzystania. Pokazuje zmiany, jakie zaszły w poszczególnych elementach aktywów i pasywów wywołane przez przepływ środków pieniężnych. Przedstawia informacje umożliwiające ocenę stopnia płynności finansowej, skuteczności ściągania należności i zdolności do regulowania zobowiązań.
+
+Rachunek przepływów pieniężnych jest elementem sprawozdania finansowego sporządzanym obligatoryjnie przez jednostki podlegające obowiązkowemu badaniu sprawozdania finansowego.
+ 
+W Polsce zakres wykazywanych informacji, zasady sporządzania oraz wzór rpp określa Ustawa o rachunkowości.
+
+Sprawozdanie to dzieli się na trzy części ukazujące 3 aspekty działalności przedsiębiorstwa:
+przepływy z działalności operacyjnej
+przepływy z działalności inwestycyjnej
+przepływy z działalności finansowej
+
+Rozróżnia się dwie metody sporządzania rpp (pośrednia i bezpośrednia).
+
+Rachunek przepływów pieniężnych opisuje przepływające środki pieniężne między bilansem otwarcia a bilansem zamknięcia. Pozwala bliżej ocenić zdolności firmy do generowania gotówki, ponieważ w krótkim okresie to ona, a nie zysk jest kluczowa dla przedsiębiorstwa. Pokazuje zmiany, jakie zaszły w poszczególnych elementach aktywów i pasywów wywołane przez przepływ środków pieniężnych. Pozwala także na określenie głównych kierunków odpływu środków pieniężnych oraz badanie pewne mechanizmów powodujących zmianę sytuacji finansowej przedsiębiorstwa. W rachunku przepływów pieniężnych są uchwycone zależności między stanem aktywów, nadwyżkami księgowymi osiąganymi z działalności oraz poziomem płynności finansowej. Przepływy pieniężne ujmowane są w trzech obszarach: działalności operacyjnej, działalności inwestycyjnej, działalności finansowej. 
+Zgodnie z ustawą o rachunkowości, rachunek przepływów pieniężnych można sporządzać metodą bezpośrednią lub metodą pośrednią. Pierwsza polega na uwzględnieniu w obrębie działalności operacyjnej wszystkich elementów mających wpływ na wynik działalności gospodarczej, tzn. przychodów ze sprzedaży i kosztów. Częściej stosowaną jest metoda pośrednia, wychodzi ona od razu od syntetycznej wartości nadwyżki finansowej netto, która następnie podlega korekcie. 
+Analiza sprawozdania z przepływów pieniężnych powinna zaczynać się od ustalenia wielkości środków pieniężnych w poszczególnych obszarach sprawozdania. Przedstawiona poniżej tabela zawiera możliwe sytuacje, które mogą wystąpić przy ocenie tego sprawozdania. Znakiem „+” oznaczono dodatnie przepływy, zaś symbolem „–” ujemne.
+
+	
+Przypadek 1:''' Dodatnie przepływy pieniężne na wszystkich poziomach. Przedsiębiorstwo gromadzi środki pieniężne na koncie być może aby przeznaczyć je na przyszłe inwestycje.
+Przypadek 2:''' Wysoka rentowność a zyski przeznaczane są na rozwój przedsiębiorstwa i spłatę zobowiązań.
+Przypadek 3:''' Typowa sytuacja, gdy mamy do czynienia z restrukturyzacją.
+Przypadek 4:''' Prawidłowa sytuacja w rozwijającym się przedsiębiorstwie.
+Przypadek 5:''' Ujemne przepływy z działalności operacyjnej i dodatnie z pozostałych działalności wskazują na przejściowe trudności jednostki gospodarczej.
+Przypadek 6:''' Sytuacja typowa dla młodych, dopiero rozwijających się przedsiębiorstw.
+Przypadek 7:''' Niedobory gotówkowe przedsiębiorstwa są pokrywane ze sprzedaży aktywów.Jest to niewątpliwie najgorszy przypadek i może oznaczać bankructwo jednostki.
+Przypadek 8:''' Ujemny poziom gotówki we wszystkich poziomach. Nie oznacza jednak bankructwa. Przedsiębiorstwo ma szansę zacząć zarabiać w przyszłości na obecnie dokonywanych inwestycjach.
+
+

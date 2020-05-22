@@ -1,0 +1,28 @@
+Ariel 1''' – pierwszy satelita serii Ariel, wysłany w ramach naukowego programu amerykańsko-brytyjskiego i tym samym pierwszy w historii satelita, który powstał przy współpracy międzynarodowej. Jego zadaniem było badanie ziemskiej jonosfery i związków Słońca z jonosferą. Między 25 sierpnia a 9 listopada 1964 satelita zbierał dane równolegle z Explorerem 20.
+
+Opis misji
+
+
+Ariel 1 został zaprojektowany do potwierdzenia ówczesnej wiedzy o jonosferze i relacjach Słońce-jonosfera. Był pierwszym na świecie satelitą, który powstał przy współpracy międzynarodowej, USA i Wielkiej Brytanii. Jego projekt został wysunięty przez USA w 1959 roku na spotkaniu COSPAR. Do propozycji szybko przystąpili Brytyjczycy. Statek został zbudowany przez Centrum Lotów Kosmicznych imienia Roberta H. Goddarda. Wielka Brytania dostarczyła sześć instrumentów naukowych. Do celów naukowych misji należało:
+badania koncentracji elektronów
+badanie rozchodzenie się fal i szumów radiowych
+pomiary rozkładu tlenu w atmosferze
+Poza uszkodzeniem przy starcie eksperymentu słonecznego Lyman-α linii wodoru, statek pracował bezproblemowo, aż do 9 lipca 1962. Między tą datą a 8 września 1962, praca satelity była ograniczona. Statek wznowił ją między 25 sierpnia a 9 listopada 1964, by zebrać dane wraz z misją Explorer 20.
+
+Budowa
+Korpusem satelity był czarny cylinder zakończony z obu stron półsferami. Jedna z nich była zwieńczona niewielką kolumną. Głównym materiałem konstrukcyjnym było włókno szklane, wzmocnione epoksydem, oparte na aluminiowym szkielecie.
+
+Ładunek
+Detektor promieniowania rentgenowskiego
+Był to licznik proporcjonalny czuły na długość fali od 0,4 do 1,4 nm. Obserwował promieniowanie X pochodzące z rozbłysków słonecznych. Instrument działał poprawnie od 26 kwietnia do 6 maja 1962, kiedy to zaczęły występować problemy z kalibracją. Błędy kalibracji i szumy własne spowodowały, że dane spływające od instrumentu, począwszy od 6 maja, przestały być w jakikolwiek sposób użyteczne. Całkowite zaprzestanie pracy nastąpiło 1 listopada 1962.
+Eksperyment linii Lyman-α widma wodoru
+Składał się z trzech detektorów mierzących słoneczne promieniowanie na linii 121,5 nm (Lyman-α). Dwa z nich były położone o 60° od równika satelity – jeden nad, drugi pod. Trzeci czujnik znajdował się na równiku statku. Wszystkie trzy znajdowały się w tej samej płaszczyźnie pionowej, na tej samej półkuli satelity. Eksperyment uległ uszkodzeniu przy starcie.
+Próbnik propagacji fal radiowych
+Sonda używana do obserwacji gęstości elektronów termicznych w górnych warstwach jonosfery. Składała się z dwóch równoległych, płaskich, okrągłych siatek. Mogły one mierzyć gęstość elektronów w zakresie 2,5×103-8×104 elektronów/cm³. Instrument pracował normalnie do 8 lipca 1962, kiedy to amerykański badawczy wybuch jądrowy Starfish Prime spowodował znaczny spadek jakości obserwacji. Ostatnie użyteczne dane odebrano 31 lipca 1962, na krótko przed uszkodzeniem rejestratora magnetycznego.
+Detektor promieniowania kosmicznego (masa 2,4 kg; zużycie energii 0,2 W)
+Zaprojektowany do badania promieni kosmicznych o liczbie atomowej Z>4 i energiach od 2,5 do 16 GeV. Składał się z dookólnego licznika Czerenkowa i licznika Geigera typu Anton 302, używanego do monitorowania tła. Rejestry detektora odczytywane były co 21 sekund. Eksperyment działał poprawnie od startu do 12 lipca 1962. Od tego czasu do połowy sierpnia 1962, trwała przerwa w łączności, po której nie odebrano już żadnych informacji.
+Eksperyment wyznaczania koncentracji jonów
+Miał za zadanie badać koncentrację jonów i jej zmiany czasowe i przestrzenne, w zależności od aktywności słonecznej i geomagnetycznej Ziemi. Pomiary koncentracji jonów wodoru, helu i tlenu, były wykonywane dla szerokości +/- 55°, od startu (26 kwietnia 1962) do 7 sierpnia 1962. Po 7 czerwca nie wykonywano pomiarów temperatury jonów. Czujnik stanowiła sfera o średnicy 9 cm wykonana z rodu, polaryzowana napięciem o przebiegu piłokształtnym, które w ciągu minuty zmieniało się od -3 do 20 woltów. Na to napięcie nałożone było drugie, zmienne, o wartości szczytowej 0,02 V. Taka kombinacja napięć pozwalała na obserwację pierwszej i drugiej pochodnej charakterystyki prądowo-napięciowej próbnika. Pochodne te były transmitowane na Ziemię wraz z kilkoma innymi parametrami technicznymi. Czujnik był otoczony przez sferę o średnicy 10 cm, zrobioną z siatki niklowo-rodowej, utrzymywanej w potencjale -6 V w odniesieniu do napięcia satelity. Napięcie to chroniło próbnik przed wolnymi elektronami.
+
+Bibliografia
+Linki zewnętrzne

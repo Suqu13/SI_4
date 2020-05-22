@@ -1,0 +1,29 @@
+Mitsubishi Cordia - kompaktowy samochód osobowy produkowany przez japońską firmę Mitsubishi w latach 1982-1990. Dostępny jako 3-drzwiowy hatchback. Następca modelu Celeste. Do napędu używano silników R4, w tym turbodoładowanych. Moc przenoszona była na oś przednią poprzez 4-biegową manualną lub automatyczną skrzynię biegów. Samochód został zastąpiony przez model Eclipse.
+
+Dane techniczne ('83 Cordia 1600 Turbo S)
+Silnik
+R4 1,6&nbsp;l (1598&nbsp;cm³), 2 zawory na cylinder, SOHC, turbo
+Układ zasilania: b/d
+Średnica cylindra × skok tłoka: 76,90 mm × 86,00 mm 
+Stopień sprężania: b/d
+Moc maksymalna: 114 KM (84 kW) przy 5500 obr/min
+Maksymalny moment obrotowy: 169 N•m przy 3500 obr/min
+
+Osiągi
+Przyspieszenie 0-100 km/h: 9,1 s
+Prędkość maksymalna: 182 km/h
+
+Dane techniczne ('85 Cordia 1800 Turbo)
+Silnik
+R4 1,8&nbsp;l (1796&nbsp;cm³), 2 zawory na cylinder, SOHC, turbo
+Układ zasilania: b/d
+Średnica cylindra × skok tłoka: 80,60 mm × 88,00 mm 
+Stopień sprężania: b/d
+Moc maksymalna: 136 KM (100 kW)
+Maksymalny moment obrotowy: 195 N•m
+
+Osiągi
+Przyspieszenie 0-100 km/h: b/d
+Prędkość maksymalna: 200 km/h
+
+Bibliografia

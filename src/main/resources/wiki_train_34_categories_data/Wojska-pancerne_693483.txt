@@ -1,0 +1,36 @@
+Tanque Argentino Mediano (TAM, "argentyński czołg średni") – argentyński czołg podstawowy zbudowany z wykorzystaniem elementów niemieckiego bojowego wozu piechoty Marder 1.
+
+Historia
+W latach 70. Ejército Argentino (armia Argentyny) postanowiła wprowadzi do uzbrojenia nowy typ czołgu. Zły stan argentyńskich dróg i niewielka nośność znajdujących się na terenie tego kraju mostów spowodowały, że konieczne stało się opracowanie konstrukcji o masie mniejszej niż innych współczesnych czołgów. Brak doświadczenia w konstruowaniu nowoczesnych wozów bojowych spowodował nawiązanie współpracy z niemiecka firmą Thyssen Henschel. Otrzymała ona zlecenie na opracowanie dwóch zunifikowanych wozów - bwp VCTP i czołgu TAM.
+
+Konstrukcję obu wozów oparto na samonośnym nadwoziu niemieckiego bwp Marder 1. W środkowej części górnej płyty pancerza projektowanego czołgu umieszczono skonstruowaną w firmie Thyssen Henshel wieżę z armata czołgową L7A2 kalibru 105 mm. Tylne duże drzwi zastąpiono mniejszymi drzwiczkami, po bokach których znalazły się żaluzje powietrzne. W celu zwiększenia odporności pancerza czołowego chłodnice silnika przeniesiono do tylnej części czołgu (znalazły się w dawnym przedziale desantowym). Silnik pozostał w przedniej części kadłuba. Masa bojowa czołgu osiągnęła 30&nbsp;500 kg, przekraczając o 500 kg narzucony przez stronę argentyńską limit masy.
+
+Pierwszy prototyp czołgu TAM był gotowy w 1976 roku, drugi w 1977. Po testach pojazd przyjęto do uzbrojenia Ejército Argentino, i rozpoczęto jego produkcję w Argentynie (w Rio Tercero) produkowane są wieże, w Buenos Aires kadłuby czołgów TAM). Początkowo planowano zakupienie 200 czołgów TAM, ale kłopoty ekonomiczne Argentyny sprawiły, że zakupiono ich mniej (około 150 szt.). Podjęto próby eksportu czołgu TAM do Peru, Panamy i Malezji, ale ostatecznie wszystkie uzyskane kontrakty zostały zerwane przed rozpoczęciem realizacji. TAM był testowany także w Ekwadorze (porównywano go z czołgiem Stingray), ale także ten kraj nie zdecydował się na zakup czołgów TAM.
+
+W 2011 izraelski Elbit Systems został wybrany do przeprowadzenia modernizacji 108 czołgów TAM do wersji 2C, polegającej na montażu elektrycznego napędu wieży i działa, systemu ostrzegawczego, APU, filtru rozpraszającego ciepło spalin, nowych systemów obserwacji i łączności. Pierwszy wóz dostarczono do testów w marcu 2013 roku.
+
+Opis
+TAM jest czołgiem podstawowym II generacji. Załogę tworzą dowódca, działonowy, ładowniczy i kierowca. Kierowca zajmuje miejsce w przedziale kierowania, reszta załogi w wieży.
+
+Kadłub TAM tworzy sztywną skrzynię zespawaną z płyt ze stali pancernej. Jest to pancerz jednolity, zapewniający ochronę przed pociskami przeciwpancernymi o kalibrze do ok. 40 mm. Odporność pancerza jest słaba jak na czołg podstawowy i wynika z przyjętego limitu masy.
+
+W przedniej części kadłuba znajdują się przedziały kierowania i napędowy z silnikiem MTU MB833 Ka-500. W tylnej, przedział bojowy z wieżą.
+
+W przedziale napędowym umieszczony jest silnik i układ przeniesienia mocy. Napęd TAM stanowi 6-cylindrowy, czterosuwowy, wysokoprężny, chłodzony cieczą silnik MTU MB833 Ka-500. Silnik wyposażony jest w dwie turbosprężarki. Napęd z silnika na koła napędowe jest przenoszona przy pomocy układu Renk HSWL-194. W skład układu wchodzi przekładnia hydrokinetyczna, automatyczna skrzynia biegów (4 biegi do przodu i 4 wsteczne), hydrostatyczna przekładnia kierowania z różnicowym mechanizmem hydrokinetyczno-mechanicznym, dwa rzędy sumujące oraz hamulec hydrodynamiczny. Silnik i układ napędowy są zblokowane w pawer-pack.
+
+TAM posiada zawieszenie niezależne na wałkach skrętnych. Każde z 12 podwójnych z zewnętrznymi bandażami gumowymi, kół jezdnych jest połączone za pomocą wahacza wleczonego z wałkiem skrętnym. Wahacze pierwszej, drugiej i ostatniej pary kół nośnych są dodatkowo zamocowane do teleskopowych amortyzatorów hydraulicznych. Napęd z silnika jest przekazywany na znajdujące się w przedniej części pojazdu koła napędowe. Z tyłu pojazdu znajdują się koła napinające. Każda gąsienica jest podtrzymywana przez trzy rolki. Gąsienice składają się z ogniw łączonych dwoma sworzniami i trzema  łącznikami. Środkowy łącznik pełni dodatkowo rolę grzebienia gąsienicy
+
+W przedziale kierowania stanowisko ma kierowca. Zajmuje on stanowisko przez właz znajdujący się przedniej-górnej płycie pancernej. pokrywa włazu jest przy otwieraniu unoszona, a następnie obracana. Kierowca obserwuje teren przed wozem za pomocą trzech peryskopów umieszczonych przed włazem. W nocy w miejscu środkowego peryskopu może być mocowany wzmacniacz światła szczątkowego.
+
+W tylnej części pojazdu znajduje się przedział bojowy z wieżą obrotową.  W wieży znajduje się zasadnicze uzbrojenie wozu: 105 mm armata czołgowa  L7A2 i sprzężony z nią czołgowy karabin maszynowy kalibru 7,62 mm MG3. Kąt wychylenia armaty można zmieniać od -7 do +18°. Prędkość obrotu wieży to maksymalnie 24°/s. Naprowadzanie uzbrojenia i stabilizacja elektrohydrauliczne, awaryjnie uzbrojenie może być naprowadzane ręcznie. Na bocznych ścianach wieży znajdują się wyrzutnie granatów dymnych. Na wieży może być zamocowany przeciwlotniczy karabin maszynowy
+
+Armata L7A1 jest uzbrojeniem typowym dla zachodnich czołgów II generacji. Zapas amunicji to 50 naboi (20 w wieży, 30 w kadłubie). Armata wyposażona jest w przedmuchiwacz, armaty niektórych czołgów TAM mają dodatkowo osłonę termoizolacyjna.
+
+Dowódca dysponuje ośmioma peryskopami zamontowanymi w wieżyczce dowódcy i zapewniającymi obserwację okrężną. Dodatkowo dowódca posiada on stabilizowany przyrząd obserwacji okrężnej. Celowniczy dysponuje celownikiem dzienno-nocnym z dziennym torem optycznym i nocnym torem opartym o wzmacniacz światła szczątkowego. Celownik połączony jest z systemem kierowania ogniem w skład którego wchodzą także dalmierz laserowy i przelicznik balistyczny. Dodatkowo celowniczy i ładowniczy dysponują obrotowymi peryskopami.
+
+TAM wyposażony jest w układ ochrony przed bronią masowego rażenia i układ przeciwpożarowy.
+
+
+
+Bibliografia
+Linki zewnętrzne

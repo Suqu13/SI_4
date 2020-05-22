@@ -1,0 +1,49 @@
+
+LG Swift L3''' (E400''') – smartfon produkowany przez LG Electronics. Zaprezentowany został w lutym 2012. Model ten dostępny jest również w wersji dual SIM - LG Swift L3 Dual (E405).
+Najważniejsze cechy i funkcje
+System operacyjny: Android 2.3 Gingerbread
+Procesor: Qualcomm MSM7225A@800MHz)
+Wyświetlacz 3,2" o rozdzielczości QVGA (240 x 320 pikseli)
+Wbudowana pamięć: 1 GB
+Możliwość rozszerzenia pamięci poprzez karty microSD i microSDHC (maks. 32 GB)
+Wbudowany aparat: 3 Mpx
+Szybki dostęp do internetu dzięki połączeniom 3G – HSDPA i WLAN 802.11 b/g/n
+Nagrywanie wideo w rozdzielczości VGA
+Wbudowany moduł GPS z funkcją AGPS
+Radio FM stereo
+Akcelerometr
+
+Częstotliwości działania
+GSM 850 900 1800 1900
+UMTS 900 2100
+Wymiary i waga
+Wymiary: 102,60 x 61,60 x 11,85 mm
+Masa telefonu (z baterią): 110 g
+Wyświetlacz
+3,2" - 240 x 320 px - pojemnościowy ekran dotykowy wykonany w technologii TFT z obsługą Multi-Touch
+
+Aparat fotograficzny i kamera
+Wbudowany aparat fotograficzny 3 Mpx (2048x1536 px)
+Nagrywanie wideo w rozdzielczości VGA w formatach H.263, H.264 i MPEG-4 (24 klatki na sekundę)
+Muzyka
+Odtwarzacz plików muzycznych
+Radio FM stereo
+Dyktafon
+Obsługiwane formaty: MP3, AAC, AAC+, eAAC+, WMA, WAV.
+Łączność
+Możliwość łączenia się i wyszukiwania sieci WLAN (IEEE 802.11b/g/n).
+Obsługa Bluetooth w standardzie 3.0 z EDR.
+Wyjście słuchawkowe 3.5 mm jack
+złącze microUSB 2.0
+
+Transmisja danych
+GPRS.
+EDGE
+Maksymalna szybkość pobierania danych (HSDPA) – 3,60 Mb/s
+Zasilanie
+Bateria litowo-jonowa o pojemnośći 1540 mAh, umożliwiająca do 600 godzin czuwania lub do 11 godzin rozmowy (w trybie GSM), do 600 godzin czuwania lub do 12,5 godzin rozmowy (w trybie 3G).
+
+Zobacz też
+LG Swift L5
+
+Bibliografia

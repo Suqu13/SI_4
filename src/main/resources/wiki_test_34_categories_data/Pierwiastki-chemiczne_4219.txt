@@ -1,0 +1,69 @@
+Ołów (Pb, łac. plumbum) – pierwiastek chemiczny, metal  z bloku p w układzie okresowym.
+
+Charakterystyka
+Ołów jest miękkim metalem barwy niebieskawoszarej. Czysty ołów pokrywa się na powietrzu warstwą wodorotlenku i węglanu. Halogenki (PbCl2, PbBr2, PbI2) oraz siarczan są trudno rozpuszczalne, z tego względu ołów praktycznie nie roztwarza się w rozcieńczonych kwasach siarkowym, chlorowodorowym, bromowodorowym i jodowodorowym. Stężony kwas solny roztwarza ołów, dzięki tworzeniu się kompleksów chlorkowych, podobnie, gorący, stężony kwas siarkowy, w niewielkim stopniu, wprowadza jony Pb2+ do roztworu, na skutek tworzenia się rozpuszczalnego wodorosiarczanu.
+
+Reakcja ołowiu ze stężonym kwasem solnym:
+Pb + 2H+ + 4Cl− →  + H2↑
+
+Reakcja ołowiu ze stężonym kwasem siarkowym:
+Pb + 2H2SO4 → Pb2+ + 2 + H2↑
+
+Ołów rozpuszcza się całkowicie w rozcieńczonym kwasie azotowym, z wydzieleniem tlenku azotu(II), a także w kwasie octowym, z wydzieleniem wodoru i utworzeniem octanowego kompleksu ołowiu(II).
+
+Reakcja ołowiu z rozcieńczonym kwasem azotowym:
+3Pb + 2 + 8H+ → 3Pb2+ + 2NO↑ + 4H2O
+
+Reakcja ołowiu z kwasem octowym:
+Pb + 4CH3COOH →  + 2H+ + H2↑
+
+Kationy Pb2+ należą do I grupy kationów, a także częściowo do grupy IIa.
+
+Występowanie
+Ołów występuje w skorupie ziemskiej w ilości 0,6 ppm. Najważniejszymi minerałami ołowiu są:
+galena PbS
+anglezyt PbSO4
+cerusyt PbCO3
+piromorfit Pb5(PO4)3Cl
+mimetezyt Pb5(AsO4)3Cl
+
+
+
+Zastosowanie
+Ołów znalazł szerokie zastosowanie w przemyśle. Stosowany jest do produkcji:
+płyt akumulatorowych, baterii
+kabli, rur
+amunicji (rdzeni pocisków), śrutu myśliwskiego i do wiatrówek
+balastu
+farb – białych i czerwonych
+szkła ołowiowego "kryształowego"
+w przemyśle drukarskim do wyrobu stopu czcionek
+do wykładania komór, wież i wanien przy produkcji kwasu siarkowego
+stosuje się go jako ekrany zabezpieczające przed promieniowaniem rentgenowskim i promieniowaniem gamma
+mimo swojej toksyczności, jeszcze pod koniec XX w. mosiądz ołowiowy MO59 był używany do produkcji rur wodociągowych.
+
+Tetraetyloołów Pb(C2H5)4 (nazwa zwyczajowa: czteroetylek ołowiu) był stosowany jako środek podnoszący liczbę oktanową benzyn silnikowych, Związek ten był głównym sprawcą emisji tlenków ołowiu do atmosfery w postaci aerozolu. Ostatnio dodatek tetraetyloołowiu w paliwach został praktycznie wyeliminowany.
+
+Toksyczność
+Sole i tlenki tego pierwiastka są trucizną kumulującą się w organizmie. Toksyczne skutki działania ołowiu na organizm ludzki określa się nazwą ołowica. Zaabsorbowane związki ołowiu przenikają do krwiobiegu, gdzie ołów wbudowuje się do czerwonych krwinek – średni czas przebywania wynosi 30 dni. Stąd 25-40% jego zawartości przenika do tkanek miękkich, około 15% do kości, a pozostała ilość jest wydalana. Czas przybywania w tkankach miękkich wynosi około 30 dni, a w kościach 40-90 lat u dorosłego człowieka. W kościach kumulowany jest w postaci związków koloidalnych i krystalicznych, może być z nich uwalniany pod wpływem zaburzeń metabolicznych lub stresu. Ołów silnie wiąże się z wieloma biopolimerami, takimi jak: białka, enzymy, RNA, DNA. w ten sposób ulega zaburzeniu wiele przemian metabolicznych. Skutkami toksyczności są: zaburzenia tworzenia krwi, nadciśnienie tętnicze, neuropatia, a także uszkodzenia mózgu.
+
+Udowodniono wchłanianie ołowiu przez skórę. Alkilowe związki ołowiu łatwiej wchłaniają się przez skórę niż nieorganiczne związki ołowiu.
+
+Sam ołów jest substancją toksyczną. Po wprowadzeniu go do organizmu pojawia się znużenie, zmęczenie, porażenie mięśni, szara obwódka wokół zębów, kolka ołowicza. Jednocześnie występuje białkomocz, krwiomocz oraz zaburzenia mózgowe. Leczenie jest głównie szpitalne i polega na podawaniu odtrutek i wysokich dawek witaminy B1 i B12. Jednak najważniejsze znaczenie ma odpowiednia higiena pracy i właściwe odżywianie.
+
+Zobacz też
+galena
+glejta
+minia
+rafinacja ołowiu
+ołów surowy
+
+
+
+
+
+
+
+
+
+

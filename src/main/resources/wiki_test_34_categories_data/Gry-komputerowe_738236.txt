@@ -1,0 +1,22 @@
+XNA (akronim rekurencyjny XNA’s Not Acronymed – "XNA nie jest akronimem") jest zbiorem narzędzi firmy Microsoft pozwalającym na tworzenie gier przeznaczonych dla systemu Windows, konsoli Xbox 360 jak również telefonów z systemem operacyjnym Windows Phone 7. Microsoft XNA Studio Express jest bezpłatnym środowiskiem programistycznym bazującym na serii Visual Studio Express. W skład środowiska wchodzi szereg pomocy, szablonów, zestawów startowych i obszerna dokumentacja pozwalająca na szybkie tworzenie gier takich jak gry platformowe, FPS czy strategie czasu rzeczywistego. XNA Framework Content Pipeline jest zestawem narzędzi pozwalającym programistom na o wiele łatwiejsze dołączanie grafiki 3D do swoich aplikacji.
+Powstał też Mono.Xna (MonoGame) – open source'owy odpowiednik XNA na wszystkie platformy obsługiwane przez Mono oraz OpenGL. 
+
+XNA Framework
+XNA Framework bazuje na implementacji .NET Compact Framework 2.0 dla aplikacji pisanych na platformę Xbox 360 i .NET Framework 2.0 dla systemu Windows. Zawiera bogaty zestaw bibliotek klas, które są przeznaczone specjalnie do tworzenia gier komputerowych. Biblioteki te są skonstruowane w taki sposób, aby umożliwić łatwe przeniesienie programu na inną platformę sprzętowo-systemową, bez dokonywania wielu poprawek w kodzie. Tworzone aplikacje mogą działać na systemach Windows XP, Windows Vista, Windows 7, Windows Phone 7 i Xbox 360. Programy mogą być pisane właściwie przy użyciu każdego języka programowania zgodnego z .NET, jednak oficjalnie jest obsługiwany jedynie C# oraz Visual Basic.
+Wraz z wydaniem systemu operacyjnego Windows 8 oraz zintegrowanego środowiska programistycznego Visual Studio 2012 Microsoft zrezygnował z rozwoju pakietu XNA.
+
+Framework pozwala programistom zapomnieć o większości niskopoziomowych niuansów, związanych z tworzeniem gier, które mogą różnić się w zależności od platformy sprzętowej.
+
+XNA Framework obsługuje zarówno grafikę dwuwymiarową jak i 3D. Obsługuje także kontrolery Xboxa 360, włącznie z kontrolowaniem ich wibracji.
+
+XNA Math
+XNA Math jest biblioteką programistyczną wspomagającą wykonywanie obliczeń arytmetycznych i algebraicznych na wektorach (2-,3- i 4-wymiarowych) i macierzach (3x3 i 4x4). Wykorzystywana jest szeroko przy tworzeniu gier komputerowych (renderowanie grafiki, animacje). Działania wykonywane są na liczbach zmiennoprzecinkowych pojedynczej precyzji.
+
+XNA Creators Club i App Hub
+
+XNA Creators Club to społeczność internetowa skupiająca programistów tworzących gry przy wykorzystaniu frameworku XNA i Game Studio. Członkowie CC mają dostęp do materiałów edukacyjnych (artykuły, tutoriale, starter-kity, narzędzia programistyczne), minigier i ofert partnerów klubu. Dodatkowo mogą brać udział w dyskusjach na specjalnym forum dotyczącym wszystkich aspektów tworzenia gier komputerowych. Obecnie został przekształcony w portal App Hub.
+
+
+
+
+Linki zewnętrzne

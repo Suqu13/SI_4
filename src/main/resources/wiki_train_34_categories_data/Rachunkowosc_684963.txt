@@ -1,0 +1,44 @@
+Koszty pośrednie – efekt podziału kosztów w układzie przedmiotowym. Koszty pośrednie nie mogą być bezpośrednio odnoszone do produkowanych wyrobów lub usług, tzn. nie można przyporządkować ich poszczególnym nośnikom na podstawie pomiarów i dowodów źródłowych lub takie przyporządkowanie jest nieopłacalne. Koszty pośrednie są przypisywane poszczególnym nośnikom na podstawie procedur rozliczeniowych. Koszty pośrednie nie dotyczą tylko jednego konkretnego wyrobu, w związku z tym ich podział między poszczególne nośniki wymaga zastosowania klucza rozliczeniowego (np. płace bezpośrednie, materiały bezpośrednie, koszt wytworzenia).
+
+Układ kalkulacyjny kosztów
+Koszty pośrednie są podstawą podziału układu kalkulacyjnego na koszty bezpośrednie i pośrednie. Taki układ pełni dwie funkcje: informacyjną i analityczną. Dzięki tym funkcjom jednostka może swobodnie planować procesy sprzedaży i produkcji oraz obserwować i kontrolować poziom rentowności sprzedaży.
+
+Podział kosztów
+Na koszty pośrednie składają się:
+koszty wspólne grupowane bezpośrednio na stanowiska kosztów,
+koszty grupowane pośrednio na stanowiska według miar określających konsumpcje tych kosztów.
+
+W przemysłach przetwórczych koszty pośrednie są grupowane w zbiory, które nazywane są pozycjami kalkulacyjnymi. Do następujących zbiorów zalicza się:
+koszty wydziałowe (koszty poniesione przez wydziały produkcji podstawowej)
+koszty sprzedaży (koszty, które ponosi jednostka, w związku ze sprzedażą wyrobów lub usług)
+koszty ogólnego zarządu (koszty związane z kierownictwem przedsiębiorstwa)
+koszty zakupu (koszty ponoszone przez jednostkę, związane z zakupem majątku obrotowego)
+
+Sposoby sprawozdania kosztów
+Istnieją dwa sposoby sprawozdawania kosztów (7. Program Ramowy w zakresie badań i rozwoju technologicznego (7PR)), które różnią się między sobą jedynie metodą kalkulacji kosztów pośrednich:
+
+I sposób: instytucja wylicza i sprawozdaje rzeczywistą wartość swoich kosztów pośrednich. Model ten mogą stosować instytucje posiadające system księgowy pozwalający na wyodrębnienie tego typu kosztów, często w rzeczywistości przewyższających ryczałt naliczany sposobem II.
+II sposób: koszty pośrednie są rozliczane jako ryczałt według stawki ustalonej przez Komisję Europejską, przy czym są one liczone jako procent od poniesionych kosztów bezpośrednich z wyłączeniem usług obcych.
+
+Instytucja do wszystkich projektów realizowanych w 7PR musi zastosować wybrany sposób rozliczania. Gdy mamy sytuacje,że koszty pośrednie poprzedniego projektu rozliczane były jako ryczałt, to jest możliwość, aby sprawozdawać je w sposób rzeczywisty w następnym projekcie. W konsekwencji wszystkie kolejne projekty muszą być rozliczane nowo wybranym sposobem. Niemożliwy jest odwrotny kierunek zmian.
+
+Wysokość ryczałtu na koszty pośrednie
+Wysokość ryczałtu na koszty pośrednie wynosi 20%, natomiast dla pewnych rodzajów podmiotów i typów projektów stawka ta została ustalona na innych poziomach:
+Instytucje, które nie są w stanie określić w sposób rzeczywisty kosztów pośrednich na projekt (np. organy publiczne o charakterze niezarobkowym, szkoły średnie i wyższe uczelnie, organizacje badacze oraz MŚP) mogą stosować ryczałt w wysokości 60%.
+W badaniach pionierskich (program Pomysły) – 20%
+W akcjach badawczo-szkoleniowych Marie Curie (program Ludzie) – 10%
+
+W projektach typu akcje koordynacyjne i wspierające koszty pośrednie ograniczone są do 7%.
+
+Zobacz też
+Koszty pośrednie (kosztorysowanie)
+
+Bibliografia
+A. Jaruga, W.A.Nowak, A.Szychta: Rachunkowość Zarządcza.'' Absolwent, Łódź 1999
+I. Sobańska: Rachunek kosztów i rachunkowość zarządcza.'' C.H.BECK, Warszawa 2006
+
+Linki zewnętrzne
+http://mfiles.pl/pl/index.php/Koszty_po%C5%9Brednie
+http://www.kpk.gov.pl/7pr/finanse/index.html
+
+

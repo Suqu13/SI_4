@@ -1,0 +1,17 @@
+IBM PC Convertible jest to pierwszy komputer przenośny typu laptop przypominający znane nam obecnie laptopy, został zaprezentowany 3 kwietnia 1986. W chwili wejścia do sprzedaży kosztował 2000 dolarów i ważył 6kg co wówczas stanowiło spore osiągnięcie. Komputer ten został zbudowany w oparciu o procesor intel 80c88 wykonany w technologii CMOS, nie posiadał dysku twardego a jedynie dwie stacje dyskietek 3,5 cala o pojemności 720kb, wyposażony był w monitor ciekłokrystaliczny, który nie był podświetlany oraz posiadał nietypowy kształt, monitor ten można było w łatwy sposób odłączyć dzięki czemu gdy komputer był podłączony do zewnętrznego monitora można było wygodnie używać jego klawiatury. 
+
+Parametry komputera:
+Procesor 80C88 taktowany zegarem 4,77MHz
+Dwie pamięci CMOS ROM o pojemności 32kB zawierające : Test POST, Obsługę BIOS-u, Interpretator Basic
+pamięć CMOS RAM o pojemności 256kB ( możliwość rozszerzenia do 512kB)
+Dwie stacje dyskietek 3,5 cala o pojemności 720kB każda
+Panel LCD 
+Kontroler drukarki
+Zasilacz
+Baterie
+
+Linki zewnętrzne
+
+ Oficjalna strona IBM o tym modelu
+
+

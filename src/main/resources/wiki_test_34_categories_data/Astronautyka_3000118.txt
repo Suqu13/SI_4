@@ -1,0 +1,26 @@
+AS-202''' – testowy bezzałogowy lot suborbitalny statku Apollo i jego podsystemów. Próba silnika statku oraz test procedury wejścia modułu dowodzenia w atmosferę pod kontrolą automatycznego systemu sterowania z jeszcze większą prędkością niż podczas poprzedniej próby.
+
+Cele misji
+Potwierdzenie integralności i kompatybilności elementów rakiety nośnej.
+Testy separacji poszczególnych elementów statku i rakiety nośnej.
+Weryfikacja funkcjonowania systemów rakiety nośnej i statku kosmicznego.
+Ocena funkcjonowania osłony termicznej podczas wejścia w atmosferę z prędkością 8,5 km/s.
+Ocena infrastruktury naziemnej i procedur wykorzystywanych podczas startu, lotu i lądowania.
+
+
+Przebieg misji
+Rakieta SA-202 wystartowała ze stanowiska nr 34 o godzinie 17:15:32 UTC, 25 sierpnia 1966 roku. Był to lot suborbitalny na wysokość 1142,9 km za pomocą S-IVB oraz silnika statku Apollo. Lot trwał 1 godzinę i 33 minuty. Wodowanie o godzinie 18:48:34 25 sierpnia 1966 na Pacyfiku w miejscu o współrzędnych: 16°7′N, 168°54′E, 27 tysięcy kilometrów od miejsca startu. Kapsuła została podjęta przez okręt ratowniczy USS „Hornet” 26 sierpnia 1966 roku o godzinie 03:10 UTC. Masa startowa statku kosmicznego: 25&nbsp;728 kg, masa startowa rakiety nośnej: 595&nbsp;250 kg.
+
+Podsumowanie
+Po raz pierwszy użyto ogniw paliwowych w module serwisowym statku Apollo.
+Pierwsze użycie systemu wykrywania sytuacji awaryjnych (EDS).
+Pierwsze wodowanie kapsuły na Pacyfiku.
+Powtórzenie testu przegrody między między zbiornikami LOX i LH2 w stopniu S-IVB.
+Pierwszy lot statku Apollo wyposażonego w system sterowania i nawigacji.
+Nawiązanie łączności po zaniku sygnału w czasie wejścia w atmosferę, spowodowane jonizacją powietrza wokół CM.
+Zgodnie z wcześniejszym harmonogramem po AS-202 powinno odbyć się jeszcze kilka lotów (do AS-209). Postanowiono inaczej i na stanowisku startowym stanął pechowy Apollo 1 (AS-204).
+
+Bibliografia
+Robert Godwin, Apollo. Początek programu.'' Prószyński Media Sp. z o.o. Warszawa 2011, ISBN 978-83-7648-831-8
+
+Linki zewnętrzne

@@ -1,0 +1,21 @@
+Partia włoska – otwarcie szachowe, które charakteryzuje się posunięciami:
+
+1.e4 e5
+2.Sf3 Sc6 
+3.Gc4 Gc5''' 
+
+Partia włoska, nazywana również giuoco piano, co po włosku oznacza spokojną grę, jest debiutem otwartym. W klasyfikacji encyklopedii otwarć szachowych jest oznaczona kodami ECO C50-C54.
+
+Pierwsze opisy tego debiutu były zawarte w manuskrypcie z Getyngi (ok. 1490 roku) i książce Luisa Luceny z 1497 roku. Do końca XIX wieku była jednym z najpopularniejszych sposobów rozgrywania początkowej fazy partii. Stosowali ją powszechnie dziewiętnastowieczni mistrzowie, między innymi Louis de la Bourdonnais, Paul Morphy i Adolf Anderssen. W XX wieku jej popularność znacznie spadła, niemniej do dzisiaj sporadycznie pojawia się w turniejach arcymistrzów. Chętnie grywali ją Aleksander Alechin, Max Euwe i Paul Keres, jednak raczej przeciw mniej utytułowanym przeciwnikom. 
+
+W trzecim ruchu (3.Gc4) biały goniec atakuje najsłabsze w obozie czarnych pole f7 (bronione jedynie przez króla) i uniemożliwia czarnym ruch pionem na pole d5. Analogiczną funkcję spełnia odpowiedź czarnych (3...Gc5). 
+
+W pozycji na diagramie białe mają do wyboru trzy podstawowe plany. Najczęściej grają 4.c3, co przygotowuje atak piona d na centralne pole d4, ale pozostawia również możliwość przesunięcia tego ataku na później i wsparcia piona e4 ruchem d3. Natychmiastowe 4.d3 prowadzi do wariantu zwanego giuoco pianissimo (gra bardzo spokojna), uważanego za dość pasywny. Najbardziej agresywnym czwartym posunięciem białych jest 4.b4, które oferuje piona w zamian za możliwość zbudowania solidnego centrum i szybszego rozwoju figur. Ten wariant nosi nazwę gambitu Evansa.
+
+Wybrana literatura
+Tim Harding, George Botterill, The Italian Game, Batsford 1977
+Jakow Estrin, Die Italienische Partie, Stuttgart 1985. ISBN 3-440-05412-8
+Jözsef Pálkövi, Italienische Partie und Evans Gambit, Caissa Chess Books 1998
+Jan Piński, Italian Game and Evans Gambit, Everyman Chess 2005. ISBN 1-85744-373-X
+
+Linki zewnętrzne

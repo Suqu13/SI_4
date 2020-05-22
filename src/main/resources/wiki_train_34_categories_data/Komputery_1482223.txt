@@ -1,0 +1,18 @@
+BINAC (ang. Binary Automatic Computer) - komputer skontruowany w 1949 roku przez amerykańskich naukowców Johna W. Mauchly'ego i Johna P. Eckerta dla firmy Northrop.
+
+Do konstrukcji BINAC-a użyto około 700 lamp próżniowych. Pamięć komputera typu rtęciowego wynosiła 512 słów, podzielona była na 16 "kanałów" po 32 słowa, każde składające się z 31 bitów.
+
+Pierwszy program został uruchomiony w marcu 1949, składał się z 23 instrukcji, przetestowano na nim także inne programy:
+7 lutego 1949 - pięcioliniowy program który wypełnił pamięć zawartością rejestru A
+10 lutego - pięcioliniowy program sprawdzający pamięć
+16 lutego - sześcioliniowy program który wypełnił pamięć
+7 marca - na BINAC-u uruchomiono 23-liniowy program wyliczający kwadraty liczb, zatrzymano go po tym jak program prawidłowo wykonał się 217 razy
+4 kwietnia - 50-liniowy program sprawdzający pamięć i wszystkie instrukcje, program zatrzymał się po 2,5 godzinach, ponownie uruchomiony działał bezbłędnie przez 31,5 godziny.
+
+Firma Northrop odebrała komputer we wrześniu 1949, po przewiezieniu na miejsce przeznaczenia nie udało się już go nigdy poprawnie uruchomić - działał prawidłowo w przypadku małych i krótkich programów ale nie na tyle dobrze aby mógł być używany do bardziej poważnych zadań do jakich był przeznaczony, powodem była podobno nieprawidłowa procedura transportu BINAC-a.
+
+Linki zewnętrzne
+http://www.cbi.umn.edu/oh/display.phtml?id=160
+http://www.palosverdes.com/lasthurrah/binac-description.html
+
+

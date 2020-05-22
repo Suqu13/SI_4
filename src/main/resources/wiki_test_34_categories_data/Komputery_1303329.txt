@@ -1,0 +1,3 @@
+Z2''' – udoskonalona wersja komputera Z1. Twórcą komputera był niemiecki konstruktor maszyn cyfrowych Konrad Zuse. Pamięć Z2 była taka sama jak w Z1 (32 bajty zorganizowane w 16 słów 16 bitowych, zegar o częstotliwości 3Hz), lecz jednostka arytmetyczno-logiczna była zbudowana z przekaźników elektrycznych, a zamiast 22 bitowej arytmetyki zmiennoprzecinkowej wykorzystywał 16 bitową arytmetykę stałoprzecinkową.
+
+Linki zewnętrzne

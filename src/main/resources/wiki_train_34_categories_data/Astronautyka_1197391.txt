@@ -1,0 +1,31 @@
+'''9K330 Tor - (w kodzie NATO SA-15 Gauntlet) system kierowanych rakiet ziemia-powietrze opracowanych w ZSRR na początku lat 80.. Następca systemu 9K33 Osa (w kodzie NATO SA-8 Gecko). System 9K330 Tor przeznaczony jest do zwalczania celów na małych i średnich odległościach. Dzięki nowemu radarowi i wysokiemu stopniowi automatyzacji system jest w stanie zwalczać cele takie jak samoloty, śmigłowce, pociski manewrujące, bomby i pociski kierowane.
+
+Pocisk rakietowy
+Pocisk 9M330 ma długość 3,5 m, masę 167 kg gdzie na głowicę bojową przypada 15 kg. Pocisk może manewrować z przeciążeniami dochodzącymi do 30 g i prędkością dochodzącą do 2,8 Macha. W porównaniu do pocisków poprzedniej generacji znacznie zwiększono zdolności manewrowe pocisku, co w połączeniu z pionową wyrzutnią sprawia, że atakowane mogą być cele nadlatujące z każdego kierunku, a nawet cele lądowe.
+Prawdopodobieństwo zniszczenia celu dla najnowszych wersji pocisku szacowane jest następująco:
+0.92-0.95 przeciwko samolotom
+0.80-0.96 przeciwko śmigłowcom
+0.60-0.90 przeciwko pociskom manewrującym (przy efektywnym zasięgu 5 km)
+0.70-0.90 przeciwko bombom kierowanym i pociskom rakietowym 
+0.90 przeciwko samolotom bezpilotowym
+
+Wersje
+'''9K330 Tor  - z pociskiem 9M330 , zasięg minimalny 2 km , wejście do służby w 1986
+'''9K331 Tor-M - z pociskiem 9M331 , zasięg minimalny 1.5 km , wejście do służby w 1991, zwiększona celność pocisku z możliwością atakowania dwóch celów jednocześnie 
+'''9K331M Tor-M1''' - z pociskiem 9M331 , zasięg minimalny 1.5 km 
+'''9K332 Tor-M2''' - z pociskiem  9M331 nowym radarem radar, minimalny zasięg 1 km 
+'''9K95 Kindżał - morska wersja w kodzie NATO znana jako SA-N-9
+
+Użytkownicy
+Białoruś- 2 zestawy TOR-M2E (9K332MK) - 120. Brygada Rakiet Przeciwlotniczych (Baranowicze). Docelowo 14 zestawów.
+Birma-48 zestawów
+Chiny-27 zestawów
+Cypr-6 zestawów
+Grecja-25 zestawów
+Iran-29 zestawów
+Peru  
+Rosja-120 zestawów
+Ukraina-100 zestawów
+Wenezuela-12 zestawów
+
+Linki zewnętrzne

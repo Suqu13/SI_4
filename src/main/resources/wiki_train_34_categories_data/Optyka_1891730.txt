@@ -1,0 +1,52 @@
+Spektroskopia strat energii elektronów EELS (ang. Electron Energy Loss Spectroscopy) - jedna z odmian spektroskopii elektronowej, polegająca na analizie rozkładu energetycznego elektronów rozproszonych niesprężyście. Elektrony przechodzące przez próbkę są rozdzielane zależnie od ilości utraconej energii za pomocą spektrometru z sektorowym polem magnetycznym. Widmo EELS może być mierzone równolegle z obserwacjami za pomocą transmisyjnego mikroskopu elektronowego i skaningowego transmisyjnego mikroskopu elektronowego z użyciem systemu opartego na diodach i scyntylatorach.
+
+Podstawy fizyczne
+Elektrony mogą ulegać zderzeniom sprężystym lub niesprężystym. W przypadku pierwszego zderzenia energia kinetyczna elektronu jest zachowana. Gdy elektron zderza się niesprężyście traci część energii kinetycznej i właśnie różnica w energii jest kwintesencją tej spektroskopii.
+Elektrony ulegają niesprężystemu rozpraszaniu na ciele stałym na skutek procesów:
+
+jonizacji atomu w powłoce rdzenia
+wybicia elektronów z pasma walencyjnego
+wzbudzenia fononów
+promieniowania Czerenkowa (nie występuje w przypadku spektroskopii)
+
+
+W wyniku tych procesów energia elektronów pierwotnych E0 ulega obniżeniu o charakterystyczną dla danego materiału wartość. W przypadku metody EELS mamy do czynienia z wiązką przechodzącą przez transmisyjną próbkę (nie jest to metoda powierzchniowo specyficzna). Energia elektronów pierwotnych wynosi od 0,1 do 10 keV. Występują trzy zakresy energii elektronów: 
+
+pik zerowy
+obszar małych strat energii
+obszar wysokich strat energii
+
+Pik zerowy
+
+Najbardziej dominującą linią jest pik zerowy (0 eV strat energii). Na ten pik składają się elektrony rozproszone sprężyście lub quasi-sprężyście (fonony). Pomijając niedoskonałość spektrometru można stwierdzić, iż szerokość połówkowa piku jest wyznaczona przez zakres energii elektronów opuszczających działo. W TEM rozrzut ten mieści się w zakresie 0,1 eV, a 3 eV (jest to zależne od źródła).
+
+Obszar małych strat energii
+Obszar małych strat energii znajduje się przy energiach niższych, niż 50 eV. Linie w tym regionie odpowiadają wzbudzeniom elektronów z najwyżej leżących orbitali, które są często zdelokalizowane na kilka atomów (występowanie wiązań chemicznych). Głównym elementem dla tego obszaru jest rezonansowa oscylacja elektronów walencyjnych (plazmonów). Energia piku plazmowego zależy od gęstości elektronów walencyjnych oraz od stosunku szerokości do szybkości zaniku samego stanu rezonansowego. Obszar małych start energii jest głównie używany do określenia grubości próbki i wprowadzenia poprawek na efekty wielokrotnego rozproszenia niesprężystego.
+
+Obszar wysokich strat energii
+Obszar wysokich strat energii zaczyna się przy 50 eV i rozciąga do kilkunastu tysięcy eV. Energie te odpowiadają wzbudzeniom elektronów ze zlokalizowanych orbitali pojedynczego atomu do zdelokalizowanych, niezajętych orbitali o energiach nieznacznie większych od poziomu Fermiego. W widmie wysokich strat energii zawarte są informacje o atomach znajdujących się w próbce.
+
+Specjalne struktury pików
+
+Niezajęte stany elektronowe znajdujące się blisko poziomu Fermiego są w dużym stopniu zmienione, w porównaniu ze stanami dla izolowanego atomu, co jest wynikiem wiązań chemicznych.
+
+ELNES (Energy Loss Near-Edge Structure)
+
+Pik znajduje się w odległości 30 - 40 eV od krawędzi jonizacji. Jest on reprezentacją niezapełnionej gęstości stanów (DOS) w okolicach atomu który zostaje zjonizowany. ELNES daje informację o lokalnej strukturze materiału i wiązaniach w nim występujących.
+
+EXELFS (Extender Energy Loss Fine Structure)
+
+Pik znajduje się trochę dalej od ELNES. Pik ten jest strukturą oscylacyjną. Okres oscylacji dostarcza informacji o długościach wiązań, a ich amplituda odzwierciedla liczbę koordynacyjną danego atomu.
+
+Filtrowanie widma
+
+Technika EFTEM (Energy Filtered Transmission Electron Microscopy) polega na wybraniu konkretnej wartości lub przedziałów energetycznych dla których prowadzi się analizę przechodzących elektronów. Dzięki wykorzystaniu do tworzenia obrazów, zbierania danych dyfrakcyjnych, wiązki elektronów rozproszonych tylko sprężyście można osiągnąć znacznie większy kontrast i rozdzielczość. Przefiltrowane dane są łatwiejsze do badawczej interpretacji. Można również uzyskać powierzchniowy rozkład składu chemicznego poprzez zbieranie informacji o elektronach, które uczestniczyły w jonizacji rdzeni atomowych.
+
+Obrazowanie spektralne
+
+Technikę obrazowania spektralnego można wykonać tylko na mikroskopie STEM. Polega ona na zbieraniu widma EELS poprzez przesuwanie wiązki elektronów pierwotnych punkt po punkcie po całej powierzchni próbki. Otrzymane dane są przedstawiane jako mapy 2D. Mapa przedstawia ilościową informację o składzie chemicznym badanej próbki. Duża rozdzielczość umożliwia stworzenie subnanometrowych map rozkładu danych pierwiastków w próbce oraz utworzenie map plazmonów lub wiązań chemicznych.
+
+Bibliografia
+R.W. Kelsall, I.W. Hamley, M. Geoghegan: Nanotechnologie. Warszawa: Wydawnictwo Naukowe PWN, 2008. ISBN 978-83-01-15537-7.
+
+

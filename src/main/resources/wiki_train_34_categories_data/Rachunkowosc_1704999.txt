@@ -1,0 +1,19 @@
+SORBNET–EURO – system rozrachunku brutto w czasie rzeczywistym (RTGS), obsługujący rachunki bankowe, prowadzone w centrali NBP, w którym dokonywane były rozrachunki międzynarodowe w euro. System został zamknięty dnia 31 grudnia 2011 roku.
+
+Zadaniem systemu SORBNET–EURO jest rozliczenie krajowych płatności wysokokwotowych w euro, jak i płatności transgranicznych, rozliczanych przez system TARGET2. W systemie SORBNET–EURO są prowadzone rachunki bieżące bezpośrednich uczestników systemu EURO–ELIXIR, którzy nie są bezpośrednimi uczestnikami systemu TARGET2. Rachunki bieżące służą do przeprowadzania rozrachunku, tzn. księgowania należności i zobowiązań płynących z kompensaty. Rachunki są też wykorzystywane do obciążania i uznawania banków z tytułu zleceń wysłanych oraz otrzymanych z systemu STEP 2.
+
+Rozrachunek międzybankowy w systemie SORBNET–EURO przeprowadzany jest na podstawie zleceń płatniczych w euro wystawianych przez uczestników systemu, a także przez NBP i instytucje świadczące usługi rozliczeniowe lub rozrachunkowe na podstawie podpisanej umowy.
+
+Historia
+Prace nad koncepcją systemu rozliczeń w euro, który mógłby być połączony z europejskim systemem rozliczeniowym TARGET jak najszybciej po akcesji Polski do UE, prowadzone były w NBP od roku 1999. Koncepcja taka została ostatecznie przygotowana w ramach programu PHARE 2000, we współpracy z Banque de France.
+
+W roku 2003 zarząd NBP określił strategię rozwoju systemu SORBNET. Zakładała ona m.in. zbudowanie systemu SORBNET-EURO i połączenie go z systemem TARGET za pośrednictwem tzw. opcji 4. Jak bank korespondent dla opcji 4 wybrany został Banca d’Italia. Ostatecznie niezbędne umowy z TARGET i Banca d’Italia podpisane zostały w lutym 2005 i dnia 7 marca 2005 system SORBNET-EURO został uruchomiony.
+
+Po uruchomieniu systemu TARGET2 19 maja 2009 r. część polskich banków stała się jego bezpośrednimi uczestnikami. Dla pozostałych instytucji NBP pośredniczy w rozliczeniach w euro w systemie TARGET2. Pośrednictwo NBP, a tym samym funkcjonowanie systemu SORBNET-EURO zakończy się najpóźniej w maju 2012 r, a zgodnie z założeniami przyjętymi przez NBP do końca 2011 r., kiedy to wszystkie banki, pragnące być bezpośrednimi uczestnikami rozrachunków w euro, muszą uczestniczyć w systemie TARGET2, ewentualnie korzystać z bankowości korespondenckiej. Warunek ten został spełniony w listopadzie 2011 roku, po ostatniej turze migracji krajowych uczestników z systemu SORBNET-EURO do systemu TARGET2. 31 grudnia 2011 roku system został zamknięty.
+
+
+
+Bibliografia
+
+
+

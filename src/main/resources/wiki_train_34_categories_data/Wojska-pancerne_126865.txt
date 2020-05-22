@@ -1,0 +1,49 @@
+Mk I Matilda I (A11)''' – pierwszy brytyjski czołg piechoty opracowany przed  II wojną światową. W początkowym okresie wojny wziął udział w działaniach wojennych, później używany do szkolenia. Był to czołg o bardzo silnym opancerzeniu, małej prędkości i słabym uzbrojeniu w postaci karabinu maszynowego. Oficjalna nazwa pojazdu brzmiała Tank, Infantry, Mk I, Matilda I (A 11)''
+
+Historia
+W kwietniu 1934 roku generał P.C.S. Hobart pełniący obowiązki generalnego inspektora Royal Tank Corps wysunął propozycję opracowania silnie opancerzonego czołgu mającego wspierać piechotę w ataku. Przewidywana masowa produkcja wymuszała prostotę produkcji i eksploatacji oraz niskie koszty wytwarzania pojazdów. Szczegółowe wymagania jakim miał odpowiadać przyszły czołg piechoty opracowano w Komitecie Badawczym przy Szefie Sztabu Imperialnego. Uznano, iż broń czołgu ma za zadanie zwalczanie środków walki, które bezpośrednio powstrzymują ruch piechoty. Rozumiano przez to broń maszynową i inne lekkie środki wsparcia piechoty. Czołg miał dysponować na tyle grubym pancerzem, aby był niewrażliwy na ogień broni przeciwpancernej. Propozycję Hobarta popierał generał Hugh Elles  Szef Uzbrojenia Ministerstwa Wojny, co zdecydowało o przekazaniu pomysłu do realizacji. 10 października 1935 roku przekazano  brytyjskiej firmie Vickers Armstrong wymagania dotyczące nowego pojazdu i zlecono realizację projektu. Opracowaniem projektu zajął się John Carden. We wrześniu 1936 roku  zbudowano pierwszy żelazny prototyp oznaczony jako A11E1 (nr ewidencyjny T1724, cywilny numer rejestracyjny CMM 880). Pojazd został przekazany do prób w Mechanisation Experimental Establishment w Farnborough. Próby wykazały wiele problemów z pojazdem. Duża ciasnota wnętrza czołgu, wadliwy oraz o niskiej wytrzymałości układ jezdny pojazdu, jak również problemy z układem chłodzenia. Po próbach trakcyjnych wprowadzono pewne zmiany mające niwelować niedostatki pojazdu: usprawniono układ jezdny, poprawiono układ chłodzenia. W grudniu 1936 roku czołg poddano próbie zmasowanego ostrzału z broni strzeleckiej, a następnie w marcu 1937 roku z 40 mm armat przeciwpancernych. Po tych próbach nie zanotowano przebić i poważniejszych uszkodzeń. Matilda I została potraktowana jako wóz przejściowy, gdyż już we wrześniu 1936 roku uznano, że do wsparcia piechoty bardziej efektywny będzie wóz z uzbrojeniem artyleryjskim i skoncentrowano się na nowej konstrukcji Matilda Mk II.
+
+Produkcja
+Pierwsze zamówienie na Matildy złożono w kwietniu 1937 roku, a zakończenie produkcji nastąpiło w lipcu 1940 roku po wyprodukowaniu 139 pojazdów (oraz 1 prototypu) w trzech seriach:
+zamówienie z kwietnia 1937 roku - liczba wyprodukowanych czołgów 60, numery WD T3422-T3492, cywilne numery rejestracyjne HMH 788-847,
+zamówienie ze stycznia 1938 roku - liczba wyprodukowanych czołgów 60, numery WD T5551-T5610, cywilne numery rejestracyjne RMY 905-964
+zamówienie z kwietnia 1939 roku - liczba wyprodukowanych czołgów 19, numery WD T8101-T8119.
+
+Opis konstrukcji
+Czołg miał klasyczny układ konstrukcyjny, przedział kierowania z przodu, bojowy na środku i z tyłu przedział napędowy.  Nad przedziałem bojowym znajdowała się odlewana wieża o maksymalnej grubości pancerza do 65 mm. Wieża była obracana ręcznie. Zawierała też całe uzbrojenie pojazdu składające się z 1 karabinu maszynowego Vickers kalibru 7,7 mm chłodzonego wodą z lufą w pancernej osłonie. W późniejszych egzemplarzach montowano karabin wielkokalibrowy Vickersa 12,7 mm oraz wyrzutnie granatów dymnych kalibru 101,6 mm. W stropie wieży znajdował się właz dowódcy. Kadłub pojazdu był długi, wysoki i wąski. Dzięki takiemu rozwiązaniu pojazd stanowił od przodu niewielki cel przy jednoczesnej możliwości pokonywania szerokich rowów. Kadłub był zbudowany z płyt walcowanych łączonych w prototypie śrubami, a w kolejnych pojazdach nitowanych. Pancerz osiągał duże grubości: od przodu do 65 mm, z boku do 60 mm, z tyłu do 50 mm. Z przodu w stropie kadłuba znajdował się duży właz kierowcy. 
+
+Układ jezdny pojazdu był montowany do boków kadłuba i nie był niczym osłonięty. Zawieszenie pojazdu było oparte na konstrukcji Vickersa zastosowanej w ciągniku artyleryjskim Dragon Medium Mark IV. Tworzyły je dwie pary wózków z każdej strony, każdy z czterema ogumionymi kołami jezdnymi amortyzowanymi resorami płaskimi. Gąsienice opierały się na dwóch parach kół podtrzymujących połączonych w jeden zespół z wózkami. Koła napędowe znajdowały się z tyłu, a napinające z przodu. 
+
+Do napędu czołgu użyto 8 - cylindrowego silnika gaźnikowego Ford o mocy 70 KM, który wraz ze skrzynią biegów zapożyczono z samochodów produkowanych przez brytyjski przemysł motoryzacyjny.
+
+Załoga czołgu składała się z dwóch osób: kierowcy i dowódcy, który jednocześnie obsługiwał karabin maszynowy. W części pojazdów zamontowano radiostację, której obsługą również zajmował się dowódca. Zarówno dowódca, jak i kierowca dysponowali peryskopami odwracalnymi Vickers Tank Penelope Mark 4''. Były to produkowane przez Brytyjczyków na licencji peryskopy inżyniera Gundlacha.
+
+Poszczególne serie produkcyjne różniły się nieznacznie. Pojazdy pierwszej serii miały zamontowane reflektory na wysięgnikach wysoko prawie na wysokości wieży. W późniejszych seriach były one montowane niżej, na bokach czołowej płyty kadłuba. Dodano również po bokach kadłuba, na wysokości stanowiska kierowcy dwie skrzynki. Zmiany te wynikały z wprowadzenia zaczepów do trału przeciwminowego Fowlera.  Do końca stycznia 1940 roku dostarczono 14 zestawów trału, z których 12 wysłano do Francji.
+
+Użycie
+
+Czołgi Matilda były dostarczane do jednostek pancernych armii brytyjskiej od  lutego 1938 roku. Otrzymały je kolejno 4, 7 i 8 królewski pułk czołgów armii brytyjskiej (RTR - Royal Tank Regiment). Pułki  te utworzyły 1 Armijną Brygadę Czołgów (''1st Army Tank Brigade).
+
+We wrześniu 1939 roku 4 pułk czołgów skierowano do Francji w składzie Brytyjskiego Korpusu Ekspedycyjnego, a w maju 1940 roku skierowano tam również 7 pułk czołgów. Tam też przeniesiono 1 Armijną Brygadę Czołgów, choć jej trzeci pułk (8 pułk czołgów) pozostał w Wielkiej Brytanii.
+
+W czasie kampanii francuskiej w dniu 21 maja 1940 roku brygada wzięła udział w bitwie pod Arras. Brygada dysponowała w tym czasie 58 czołgami A11 i 16 A12. Dzięki atakowi brygady oddziałom brytyjskim udało się wyjść z okrążenia i wycofać w kierunku Dunkierki. W trakcie ewakuacji Brytyjskiego Korpusu Ekspedycyjnego wszystkie czołgi pozostawiono na plażach.
+
+W związku z doświadczeniami, jakie wyniesiono z udziału tych czołgów w walkach w 1940 roku zaniechano ich produkcji, a w roku 1942  pozostałe egzemplarze wycofano z jednostek liniowych, przekazując je do szkolenia. 
+
+Między innymi na tych czołgach szkolono Polaków w 10 Brygadzie Kawalerii Pancernej w latach 1941-42. Dokładna liczba czołgów użytkowanych przez Polaków nie jest znana. Waha się w różnych opracowaniach od 6 do 18. Pierwsze pojazdy otrzymali Polacy we wrześniu 1941 roku, a ostatnie oddano we wrześniu 1942 roku.
+
+Pojazdy zdobyte prze Niemców otrzymały oznaczenie Infanterie Panzerkampfwagen Mk I - 747(e)''. Brak informacji na temat użycia tych pojazdów przez Niemców. Dwa czołgi wysłano do ośrodka badawczego w Kummersdorfie.
+
+Zachowane pojazdy
+Do dzisiejszego dnia zachowały się trzy egzemplarze czołgu  Infantry Tank, Mk I, Matilda I. Wszystkie pojazdy znajdują się w Wielkiej Brytanii w Bovington Tank Musuem: 
+pojazd o numerze WD T8106, 
+pojazd o numerze WD T3447, HMH 802, jeżdżący, 
+wrak czołgu o nieznanym numerze, wcześniej służył, jako cel na poligonie. 
+
+
+Bibliografia
+Uwe Feist, Norm E. Harms, Steve Clayton, 1975, Britische Panzer, Waffen-Arsenal, Bd. 10, Warren Squadron/Signal Publications, Dorheim/H Podzun, str. 14, ISBN 3-7909-0020-6;
+Janusz Magnuski, 1998, Wozy bojowe Polskich Sił Zbrojnych 1940-1946'', Wydawnictwo Lampart, Warszawa, str. 49-52, ISBN 83-86776-39-0;
+Peter Chamberlain, Chris Ellis, 1969, British and American Tanks of World War II, The complete illustrated history of British, American and Commonwealth tanks, 1939-1945'', Arco Publishing Company, Nowy Jork, str. 54-55, ISBN 0668018674;
+Andrzej Kiński, Czołg piechoty Mark I (A 11) Matilda; Nowa Technika Wojskowa nr 3/2002, str. 27-30, ;
+Linki zewnętrzne

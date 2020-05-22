@@ -1,0 +1,40 @@
+Mars 96''' – rosyjska sonda kosmiczna przeznaczona do wejścia na orbitę wokół Marsa, czasem nazywana również Mars 8'''. Jej misja zakończyła się porażką, sonda nie opuściła Ziemi.
+
+Miała dostarczyć na jego powierzchnię dwa lądowniki MAS i dwa penetratory gruntu, które przetrwałyby uderzenie przy dużej prędkości, wbijając się w marsjański grunt na głębokość około metra. Zakładając, że działałyby one zgodnie z planem, dokonałyby pierwszych pomiarów parametrów fizycznych regolitu marsjańskiego na głębokości większej niż kilka czy kilkanaście centymetrów. Umieściłyby również kamery i urządzenia meteorologiczne na powierzchni, tuż nad sobą, przekazując dodatkowe dane. Pierwotnie planowano wysłanie tej misji w oknie startowym roku 1994, nosiłaby wówczas nazwę Mars'94.
+
+Budowa sondy
+Orbiter
+Mars 96 był pojazdem stabilizowanym w trzech płaszczyznach, o konstrukcji bazującej na sondach Fobos. Wyposażenie:
+anteny o średnim i wysokim zysku,
+dwa duże panele słoneczne po każdej stronie orbitera,
+napęd impulsowy, który miał być odłączony pewien czas po osiągnięciu orbity Marsa,
+na szczycie orbitera umieszczone dwa lądowniki,
+dwa penetratory dołączone do jednostki silnika impulsowego,
+system MORION - pamięć i jednostka zarządzająca.
+
+Całkowita masa orbitera wynosiła 6180 kg (bez paliwa: 3159 kg).
+
+Lądowniki
+
+Obie stacje powierzchniowe misji Mars 96 były autonomicznymi lądownikami, które miały być zrzucone przez orbiter nad powierzchnią Marsa i opaść na spadochronach, po uprzednim odrzuceniu osłony termicznej. Podczas opadania rejestrowałyby własności atmosfery. Na powierzchni, po rozłożeniu czterech "płatków" osłony, uruchomiona zostałaby stacja meteorologiczna, sejsmometr, a także magnetometr, spektrometr APXS i sensor wykrywający zawartość tlenków, umieszczone na wysięgnikach. Każda stacja miała funkcjonować przez 700 dni ziemskich, miały one komunikować się z Ziemią poprzez orbiter.
+
+Penetratory
+
+Penetratory misji Mars 96 miały postać wąskich cylindrów, zaostrzonych na końcu, u góry lejkowatych. Wewnątrz cylindra umieszczone były instrumenty naukowe. Każde takie urządzenie po wypuszczeniu przez orbiter miało wejść w atmosferę pod małym kątem (10-14°), zwolnić w atmosferze i wbić się w powierzchnię planety z prędkością ok. 80 m/s. Górna część urządzenia pozostałaby na powierzchni, natomiast dolna, połączona z nią przewodami, zagłębiłaby się nawet na 5-6 m w regolit. Urządzenie miało planowo wykonywać pomiary przez rok.
+
+Historia
+16 listopada 1996 roku sondę Mars 96 wystrzelono w kosmos. Sonda miała wejść na orbitę wokół Marsa we wrześniu 1997 roku. Jej głównym celem było fotografowanie planety zarówno z orbity jak i z powierzchni. Niestety po starcie nastąpiła awaria (nie włączył się ostatni stopień rakiety) i sonda Mars 96 się rozbiła w nieznanym miejscu na obszarze o długości 320 km i szerokości 80 km obejmującym zarówno fragment Oceanu Spokojnego jak również terytorium Chile i Boliwii. Na jej pokładzie znajdowała się aparatura wartości 200 milionów dolarów, będąca rezultatem  wielu lat pracy naukowców i inżynierów z dwudziestu krajów, w tym również z Polski.
+
+Zobacz też
+Program Mars
+
+
+
+Bibliografia
+Donald Goldsmith, W poszukiwaniu życia na Marsie ISBN 83-7255-081-6 str.169-170
+NASA-NSSDC: 
+
+
+
+
+

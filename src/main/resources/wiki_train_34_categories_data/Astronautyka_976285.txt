@@ -1,0 +1,36 @@
+STS-37''' (ang. Space Transportation System) – ósma misja wahadłowca kosmicznego Atlantis i trzydziesta dziewiąta programu lotów wahadłowców.
+
+Załoga
+Steven Nagel (3), dowódca  (CDR)
+Kenneth Cameron (1), pilot (PLT)
+Jerry Ross (3), specjalista misji 1 (MS2)
+Jerome "Jay" Apt (1), specjalista misji 2 (MS3)
+Linda Godwin (1), specjalista misji 3 (MS1)
+
+(liczba w nawiasie oznacza liczbę lotów odbytych przez każdego z astronautów)
+
+Parametry misji
+Masa:'''
+startowa orbitera:'' 115 502 kg
+lądującego orbitera:'' 86 651 kg
+ładunku:'' 17 204 kg
+Perygeum:''' 450 km
+Apogeum:''' 462 km
+Inklinacja:''' 28,5°
+Okres orbitalny:''' 93,7 min
+
+Cel misji
+Umieszczenie na orbicie satelity GRO (Gamma Ray Observatory), później przemianowanego na CGRO (Compton Gamma Ray Observatory), umożliwiającego obserwacje wszechświata w zakresie promieniowania gamma.
+
+EVA
+EVA-1 (7 kwietnia 1991, 4 godz. 31 min): J. Ross, J. Apt
+EVA-2 (8 kwietnia 1991, 5 godz. 58 min): J. Ross, J. Apt
+
+Zobacz też
+lista misji wahadłowców
+lista załogowych lotów kosmicznych
+
+
+
+Bibliografia
+Linki zewnętrzne

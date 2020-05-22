@@ -1,0 +1,44 @@
+Theocracy – strategia czasu rzeczywistego, której fabuła jest osadzona w XV wiecznej Ameryce Środkowej gdzie gracz kontroluje jedno z plemion Azteków. Trzeba rozwinąć swoje państwo na tyle aby w przyszłości odeprzeć atak hiszpańskich konkwistadorów. Aby to osiągnąć należy rozwijać ekonomię, nawiązywać stosunki dyplomatyczne i handlowe z sąsiadami oraz podbijać nowe tereny. Do wynalezienia w grze czeka 50 różnych jednostek, których w sumie można posiadać aż 40000. Jednostki można grupować w większe formacje co ułatwia kontrolowanie ich w czasie walki. Oprócz pełnej kampanii nazwanej "Przepowiednia" dostępna jest kampania treningowa dla mniej doświadczonych graczy, która w ośmiu misjach zapoznaje ze wszystkimi aspektami gry.
+
+Prowincja
+Mapa prowincji przedstawia dokładny obraz danej prowincji. Na tej mapie możesz budować, produkować, szkolić swoich poddanych, tutaj rozgrywają się także bitwy. Gdy oglądasz mapę prowincji, czas w grze nie płynie, więc dopóki nie przejdziesz do widoku królestwa i nie uruchomisz upływu czasu, nic nie zostanie zbudowane ani żaden człowiek nie zostanie wyszkolony.
+
+Gospodarka
+Surowce
+Żywność:'''
+Kukurydza oraz mięso to surowce żywnościowe. Niewolnicy i rolnicy wytwarzają kukurydzę w gospodarstwach. Kukurydza jest bardzo istotna, ponieważ stanowi jedyne pożywienie lam. Mięso ma wyższą wartość odżywczą od kukurydzy. Niewolnicy i rolnicy wytwarzają mięso w fermach i chatach rybackich. Mięso jest bardzo istotne, ponieważ stanowi jedyne pożywienie jaguarów.
+Materiały budowlane:'''
+Podstawowym materiałem budowlanym jest drewno. Jest ono pozyskiwane w porębach przez niewolników i drwalów. Drugim materiałem budowlanym jest kamień. Używany jest do budowania większych budynków. Kamień pozyskiwany jest z kamieniołomów przez niewolników i kamieniarzy. Ostatnim materiałem budowlanym są klejnoty. Klejnoty przetwarzane są z złota i jadeitu w warsztacie złotniczym przez niewolników i złotników. Wykorzystywany jest do ozdabiania piramid oraz pałaców.
+
+Budynki
+Wszelkie budowle poza kopalniami i kamieniołomem muszą zostać wybudowane. Budynki konstruuje się z trzech podstawowych surowców: drewna, kamienia i klejnotów. Budowa podstawowych obiektów, takich jak poręba czy gospodarstwo, wymaga wyłącznie drewna. W przypadku większych budynków potrzebny jest także kamień. Budowa największych zdobionych obiektów, takich jak piramida czy pałac, wymaga dodatkowo klejnotów. Surowce niezbędne do pracy są przenoszone przez niewolników na plac budowy.
+Budynki Produkcyjne
+Poręba:'''
+Poręba służy do pozyskiwania drewna. W budynku tym mogą pracować niewolnicy lub bardziej wydajni drwale. Praca rozpoczyna się po wysłaniu ich do budynku. Poręby muszą być umieszczone w pobliżu lasów.
+Gospodarstwo:'''
+Gospodarstwa produkują kukurydzę. W budynku tym mogą pracować niewolnicy lub bardziej od nich wydajni rolnicy. Praca rozpoczyna się po wysłaniu ich do budynku. Istnieją dwa typy gospodarstwa. Do budowy dużego gospodarstwa potrzeba więcej surowców, ale z uwagi na większą liczbę miejsc pracy ma ono wyższą wydajność produkcji.
+Ferma:'''
+Na fermie produkowane jest mięso. W budynku tym mogą pracować niewolnicy lub bardziej od nich wydajni rolnicy. Praca rozpoczyna się po wysłaniu ich do budynku.
+Chata rybacka:'''
+W chatach rybackich także wytwarza się mięso. W budynku tym mogą pracować niewolnicy lub bardziej od nich wydajni rolnicy. Praca rozpoczyna się po wysłaniu ich do budynku. Chaty rybackie muszą być umieszczone w pobliżu wody.
+
+Koszary i szkoły
+W koszarach szkoleni są szermierze, włócznicy i łucznicy, stanowiący podstawą siłę Twojej armii. Łuczników można szkolić dopiero po wybudowaniu w prowincji zbrojowni. W szkołach kształci się rolników, drwali, górników, złotników i budowniczych. Są trzy typy koszar i szkół: małe, średni, duże. Im koszary/szkoła jest większa tym szybciej jednostki są szkolone. Jeżeli posiadamy duże koszary, lub dużą szkołę to możemy zmienić typ szkolonej jednostki.
+
+Inne
+Pałac:'''
+Stanowi centrum kontroli nad prowincją i zarządzania mieszkańcami, a także swego rodzaju budynek szkoleniowy, ponieważ można w nim kształcić kupców i zwiadowców. W pałacu powołuje się też rządcę prowincji. Kosztem pewnej liczby klejnotów można też przekształcić pałac w centrum kształcenia, dzięki któremu gracz nie musi wysyłać ludzi jednego po drugim do budynków szkoleniowych - wystarczy, że w oknie informacyjnym prowincji ustali liczbę i typ specjalistów, którzy mają zostać wyszkoleni.
+Szpital:'''
+Leczenie rannych odbywa się w szpitalach prowincji. Bez szpitala zdrowienie jest bardzo powolne. Dodatkowo szpitale zapewniają informacje na temat wysokości oczekiwanego przyrostu naturalnego (liczby narodzin w ciągu roku), jednak również stanu zdrowia armii i mieszkańców, obecnych w prowincji.
+
+Piramidy
+Piramidy to ośrodki religijne prowincji. W każdej z pięciu sfer magii można budować dwa rodzaje piramid. Za pośrednictwem tego budynku szkoli się kapłanów i powołuje arcykapłanów. Piramidy mieszczą również świątynie ofiarne, umożliwiające pozyskiwanie niebiańskiej many. Choć sama obecność piramidy powoduje wytwarzanie pewnej ilości energii magicznej, składanie ofiar daje znacznie więcej many.
+
+Bibliografia
+- polska strona o Theocracy
+
+
+
+
+
+

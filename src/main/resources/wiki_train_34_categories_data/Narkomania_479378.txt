@@ -1,0 +1,48 @@
+
+
+
+
+
+Katecholaminy – organiczne związki chemiczne, pochodne aminokwasu – tyrozyny. Niektóre z nich to aminy biogenne. 
+
+Katecholaminy są rozpuszczalne w wodzie i w 50% krążą we krwi związane z białkami osocza. W największym stężeniu występują adrenalina, noradrenalina i dopamina,  które są produkowane głównie przez rdzeń nadnerczy oraz pozazwojowe włókna układu sympatycznego. Adrenalina działa jak neurotransmiter w centralnym systemie nerwowym, a także jako hormon regulujący krążenie krwi. 
+Noradrenalina jest głównie neurotransmiterem w obwodowej części układu sympatycznego, ale występuje również w krwi, dzięki zjawisku wyciekania z synaps. Ważną katecholaminą jest również izoprenalina, syntetyczna pochodna adrenaliny nie występująca w organizmie. 
+
+Wysoki poziom katecholamin we krwi wiąże się ze stresem, który może być wywołany jako reakcja psychologiczna, bądź może powstać w odpowiedzi na stresory środowiskowe, takie jak hałas czy intensywne światło. Katecholaminy wywołują ogólne reakcje organizmu, które przygotowują ciało do wysiłku fizycznego związanego z walką lub ucieczką. Typowe efekty działania to: podniesienie ciśnienia krwi, przyspieszenie akcji serca, a także podniesienie poziomu glukozy we krwi. Niektóre leki, jak centralne inhibitory COMT, podnoszą poziom katecholamin.
+
+Katecholaminy posiadają strukturę pierścienia benzenowego z dwiema grupami hydroksylowymi i bocznym łańcuchem etylowym połączonym z końcową grupą aminową. Okres biologicznego półtrwania katecholamin znajdujących się we krwi wynosi kilka minut.
+
+Wytwarzanie i przemiany
+Synteza
+Katecholaminy są wytwarzane z '''1–tyrozyny. Jej głównym źródłem jest białko pokarmowe a także fenyloalanina (ulegająca hydroksylacji w wątrobie). 
+
+Po wprowadzeniu grupy wodorotlenowej do pozycji orto pierścienia benzenowego powstaje 1–3,4–dihydroksyfenyloalanina (DOPA). Reakcja ta przebiega w mitochondriach przy udziale hydroksylazy tyrozynowej, 6–metylo–tetrahydropterydyny, NADPH, tlenu cząsteczkowego i aktywatora w postaci jonów dwuwartościowego żelaza.
+
+DOPA ulega dekarboksylacji w cytoplazmie do dopaminy (1–dihydroksyfenyloetyloamina). Reakcja zachodzi przy udziale DOPA-dekarboksylazy (dekarboksylaza aromatycznych 1–aminokwasów) oraz fosforanu pirydoksalu.
+
+Dopamina jest pobierana do ziarnistości komórkowych, gdzie jej łańcuch boczny ulega utlenieniu dzięki β–hydroksylazie do '''1–noradrenaliny. Reakcja zachodzi przy udziale jonów miedzi, tlenu cząsteczkowego, kwasu askorbinowego i kwasu fumarowego. 
+
+Noradrenalina w cytoplazmie komórek chromochłonnych rdzenia nadnerczy, narządu Zuckerkandla i niewielkiej ilości komórek w sercu i mózgu ulega przekształcenia do adrenaliny. Proces polega na  przeniesieniu grup metylowej z S–adenozynometioniny na grupę aminową noradrenaliny, przy udziale N–metylotransferazy. 
+
+Katecholaminy regulują własną syntezą na zasadzie ujemnego sprzężenia zwrotnego, poprzez wpływ na hydroksylazę tyrozynową i β–hydroksylazę dopaminy. Wpływ na syntezę mają również ACTH, hormony kory nadnerczy, prostaglandyny E, angiotensyna II i bradykinina.
+
+Magazynowanie
+Katecholaminy są magazynowane w pęcherzykach ziarnistych znajdujących się w dystalnych częściach neuronów. Mogą one wychwytywać krążącą dopaminę, noradrenalinę i adrenalinę, a także, dzięki obecności β–hydroksylazy, produkować noradrenalinę. W ziarnistościach zgromadzonych jest 2/3 ogólnej zawartości katecholamin; pozostała część znajduje się w cytoplazmie. Aminy katecholowe w ziarnistościach są wiązane z ATP (w stosunku 1:4 – na jedną cząsteczkę ATP przypadają cztery cząsteczki katecholamin), RNA i chromograniną A. Owe połączenia chronią katecholaminy przed rozkładem. 
+
+Wyróżnia się 2 typy pęcherzyków ziarnistych. W mniejszych pęcherzykach magazynowane są wolne katecholaminy, szybko uwalniane pod wpływem pobudzenia nerwowego. W większych pęcherzykach gromadzona jest większa część amin; jest to pula magazynująca. 
+
+W rdzeniu nadnerczy magazynowana jest głównie adrenalina, podczas gdy w pozazwojowych zakończeniach nerwowych – noradrenalina.
+
+Uwalnianie
+Rozkład
+W procesie rozkładu KA (katecholaminy) biorą udział dwa enzymy:
+MAO (monoaminooksydaza),
+COMT (katecholotlenometylotransferaza).
+
+Zobacz też
+fenyloetyloamina
+hormon
+
+
+
+Bibliografia

@@ -1,0 +1,21 @@
+Czas relaksacji – parametr układu określający szybkość powrotu układu do stanu równowagi. 
+
+Dla parametru f opisującego układ, który w stanie równowagi osiąga zero fr = 0''', a szybkość zmiany parametru f jest proporcjonalna do jego wartości, zachodzi:  
+Z powyższego wynika zależność parametru od czasu:
+gdzie:
+f0 - wartość f w stanie początkowym,
+- czas relaksacji.
+
+Przy takich założeniach parametr f maleje wykładniczo, a w czasie równym czasowi relaksacji maleje e≈ 2,7 razy.
+
+Jeżeli w stanie początkowym parametr ma wartość 0, a w stanie równowagi fr różną od zera, to zależność tego parametru od czasu opisuje wzór:
+Jeżeli układ opisuje drgania tłumione gasnące, to można opisać je zależnością:
+Zobacz też
+relaksacja
+czas relaksacji Debye'a
+czas relaksacji spin-sieć
+czas relaksacji spin-spin
+
+
+
+Linki zewnętrzne

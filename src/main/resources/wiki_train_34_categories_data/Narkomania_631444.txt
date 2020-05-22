@@ -1,0 +1,56 @@
+Zolpidem (ATC: N05 CF02) – organiczny związek chemiczny, krótkodziałający lek nasenny z grupy imidazopirydyn. Jest wykorzystywany w doraźnym leczeniu bezsenności. Działa szybko (zazwyczaj już w ciągu 15–30 minut od momentu podania) i posiada krótki czas połowicznego rozpadu (2–3 godziny). Jego właściwości i działanie nasenne podobne są do działania benzodiazepin, jednak działa dużo bardziej selektywnie.
+
+W przypadku przedawkowania stosuje się flumazenil, który jest antagonistą receptorów benzodiazepinowych, odwraca również usypiające i odurzające działanie zolpidemu. Duże dawki zolpidemu mogą powodować zaburzenia pamięci, całkowitą amnezję lub nawet halucynacje.
+
+Mechanizm działania
+Zolpidem wykazuje charakterystyczne wysokie selektywne powinowactwo do podjednostki α1 receptora GABA A. Selektywność jest około 10-krotna wobec podjednostek α2 i α3. Tłumaczy to częściowo nietypowe właściwości zolpidemu:
+dominujący efekt nasenny przy znacznie słabszym przeciwlękowym i niemal niezauważalnym antykonwulsyjnym – w dawkach terapeutycznych,
+efekty niepożądane jak lunatyzm u niektórych pacjentów lub zmiany percepcyjne
+
+w porównaniu z benzodiazepinami, które łączą się z wszystkimi trzema podjednostkami dużo mniej selektywnie i ze zbliżonym powinowactwem. Głównie dlatego np. wspomniany lunatyzm prawie nigdy nie występuje, nawet u osób w podeszłym wieku, po zastosowaniu pochodnych benzo-1,4-dwuazepiny (takich jak midazolam czy estazolam.)
+
+Dostępność
+Zolpidem jest sprzedawany w postaci soli z kwasem winowym. W Polsce lek ten wydawany jest wyłącznie na podstawie recepty lekarskiej z zapisaną słownie całkowitą ilością substancji czynnej, na której nie są przepisane inne leki.
+
+Metabolizm
+W organizmie zolpidem ulega metabolizmowi, tworzą się przy tym 3 główne nieaktywne metabolity, powstałe w wyniku utlenienia grup metylowych do karboksylowych w układzie imidazopirydyny.
+
+Metabolizm następuje przy udziale układu wątrobowego cytochromu P450; substancje modyfikujące aktywność tego cytochromu mogą mocno wpłynąć na szybkość metabolizmu zolpidemu, np. ryfampicyna (silny induktor cytochromu P450) może obniżyć stężenie zolpidemu w osoczu nawet o 60%, znacząco osłabiając efekt terapeutyczny.
+
+Owe metabolity są wydalane z ustroju przez nerki.
+
+Użycie w celu odurzenia
+
+Podobnie jak benzodiazepiny, zolpidem sporadycznie bywa nadużywany w celu wywołania odurzenia; efekty są trudne do przewidzenia i najczęściej kończą się wspomnianą amnezją.
+
+Właściwości odurzające zolpidemu słabną z każdą kolejną dawką, zazwyczaj już przy 3. lub 4. dawce przyjętej w niedługim odstępie czasu (zazwyczaj krótszym niż dwumiesięczny) zauważalne jest jedynie działanie nasenne.
+
+Działania niepożądane
+Mogą wystąpić:
+amnezja następcza,
+nudności i wymioty (zwłaszcza przy przekroczeniu standardowej dawki 10&nbsp;mg),
+bóle głowy,
+lunatyzm (umysł pozostaje wówczas w fazie snu wolnofalowego, ale ciało nie jest uśpione),
+senność w ciągu dnia (bardzo rzadko).
+
+Przedawkowanie
+Zolpidem jest wyjątkowo bezpiecznym lekiem jeśli chodzi o możliwość przedawkowania, np. w celach samobójczych. Nie obserwowano trwałych następstw po przyjęciu dawki 400&nbsp;mg (40-krotność standardowej dawki nasennej) – takie ilości właściwie muszą spowodować nudności i wymioty, co czyni śmiertelne przedawkowanie zolpidemu wysoce nieprawdopodobnym. Niemniej obserwowano zaburzenia świadomości aż do śpiączki (w skrajnych przypadkach). Brak swoistego antidotum, hemodializa i hemoperfuzja są niecelowe. W razie konieczności można podać dożylnie flumazenil w celu zniesienia nadmiernego działania.
+
+Preparaty
+Apo-Zolpin – tabletki powlekane po 10 mg
+Hypnogen – tabletki powlekane po 10&nbsp;mg
+Nasen – tabletki powlekane po 10&nbsp;mg
+Noxizol – tabletki powlekane po 10&nbsp;mg
+Onirex – tabletki powlekane po 10&nbsp;mg
+Polsen – tabletki powlekane po 10&nbsp;mg
+Sanval – tabletki powlekane po 10&nbsp;mg
+Stilnox – tabletki powlekane po 10&nbsp;mg
+Xentic – tabletki powlekane po 10&nbsp;mg
+Zolpic – tabletki powlekane po 10&nbsp;mg
+ZolpiGen – tabletki powlekane po 10&nbsp;mg
+Zolsana – tabletki powlekane po 10&nbsp;mg
+Zoratio – tabletki powlekane po 10&nbsp;mg
+
+
+
+Bibliografia

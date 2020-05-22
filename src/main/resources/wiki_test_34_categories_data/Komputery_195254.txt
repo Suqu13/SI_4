@@ -1,0 +1,27 @@
+
+
+UMC (Uniwersalna Maszyna Cyfrowa) to uniwersalna nazwa wczesnych komputerów (maszyn cyfrowych) w Polsce oraz rodzina pierwszych komputerów produkowanych seryjnie przez Elwro od 1962 r.
+
+Nazwa
+Określenie UMC (Uniwersalna Maszyna Cyfrowa) było skrótem od uniwersalnej, polskiej nazwy wczesnych jednostek obliczeniowych stosowanych w informatyce w latach 1950-1960. W odróżnieniu do MSKD (Maszyn Systemu Kart Dziurkowanych) stosowano ją do określenia maszyn cyfrowych dokonujących obliczeń numerycznych za pomocą lampowych bądź magnetycznych układów elektronowych. W fachowej terminologii stosowano je zarówno wobec maszyn cyfrowych wyprodukowanych w kraju jak również tych powstałych za granicą.
+
+Rodzaje maszyn
+W Polsce powstało kilka maszyn tego typu . Były to:
+
+XYZ – wyprodukowanym w Zakładzie Aparatów Matematycznych PAN,
+Z-KTR – stworzonym na Politechnice Warszawskiej,
+EMAL 2 – stworzony w Instytucie Badań Jądrowych PAN.
+UMC-1 – lampowy ELWRO
+UMC-10 – tranzystorowa wersja komputera UMC-1. ELWRO
+
+Skonstruowane na przełomie lat 50. i 60. XX wieku na Politechnice Warszawskiej w Katedrze Budowy Maszyn Matematycznych, kierowanej przez prof. Antoniego Kilińskiego. Wykorzystywały dziwną arytmetykę "minus-dwójkową" opracowaną przez matematyka, prof. Zdzisława Pawlaka. Programowanie tych maszyn (początkowo wyłącznie w języku maszynowym) uważane było za zadanie nadzwyczaj trudne.
+
+Języki programowania:
+W-18, W-20
+ALGUM
+ALGOL 60 tylko UMC-10.
+
+
+
+
+

@@ -1,0 +1,30 @@
+Nokia Lumia 900''' to smartfon z systemem operacyjnym Windows Phone w wersji 7.5 (Mango/Tango/Refresh), po aktualizacji również 7.8, zaprezentowany w styczniu 2012 w Las Vegas podczas targów CES, na których wygrał nagrodę za "Najlepszy Smartfon" Urządzenie należy do wyższej klasy tzw. high-endów. Zostało ono wyposażone w łączność 4G LTE. Komórka trafiła do oficjalnej sprzedaży w USA w kwietniu 2012, a dopiero miesiąc później do Europy.
+
+Specyfikacja
+Aparat === 
+W Lumii 900 zastosowano jednostkę firmowaną przez ZEISSA o matrycy 8 megapikseli, wspomaganą autofocusem. Obok aparatu znalazło się miejsce dla podwójnej diody LED, która doświetla sceny. Zdjęcia wykonane tym telefonem mają rozdzielczość 3264x2448 pikseli. Aparat posiada 3-krotny zoom cyfrowy. Filmy nagrywane są w rozdzielczości 720p (HD). 
+
+Wygląd
+Design telefonu nawiązuje do modeli N9 i Lumia 800.
+
+Głośnik do rozmów oraz kamerka 1,3 MPiX znajduje się nad ekranem, pod nim ulokowano mikrofon do rozmów i podświetlane, pojemnościowe przyciski: wstecz, start i szukaj. Wyświetlacz został wzmocniony szkłem Gorilla Glass pierwszej generacji. Lewa strona 900 jest wolna od jakichkolwiek przycisków natomiast na prawej ulokowano 4 przyciski: spust migawki, blokada, ciszej i głośniej. Na tylnej części na srebrnym znajduje się aparat cyfrowy a obok podwójna dioda LED. Wejście do ładowarki, złącze Mini Jack, slot na kartę SIM i mikrofon ulokowano na górze telefonu. Dolna krawędź to miejsce głośniczka.
+
+Podzespoły
+Użyte podzespoły są w większości takie same jak w modelu 800. Napędem smartfonu jest jednordzeniowy procesor Snapdragon S2 o taktowaniu 1,4 GHz wspomagany przez 512 MB RAMu. Na zdjęcia, gry, filmy itp. producent przeznaczył około 16 GB. Nie przewidziano slotu na karty Micro SD. Ekran o przekątnej 4.3 cala został wykonany w technologii AMOLED z dodatkiem ClearBlack, który poprawia czytelność w słońcu. Jego rozdzielczość w pikselach to 800 na 480. Smartfon obsługuje łączność 4G LTE.
+
+Oprogramowanie
+Oprócz podstawowych aplikacji Microsoftu, Nokia dostarcza swoje ekskluzywne dodatki np. Mix Radio, Nokia Muzyka, Nokia Drive. Ta ostatnia służy jak nawigacja GPS. W Lumii 900, tak jak w 800 ukryto narzędzie diagnostyczne, które można aktywować za pomocą kodu ##634#, który należy wpisać na klawiaturze numerycznej (jak przy wybieraniu numeru). Ostatni krzyżyk powinien aktywować pobieranie. Po zainstalowaniu można sprawdzić najważniejsze parametry urządzenia - akcelerometr, kompas, informacje o baterii itp.
+
+Zobacz też
+Microsoft
+Nokia Lumia 720
+Nokia Lumia 820
+Nokia Lumia 1020
+
+
+
+
+
+
+
+

@@ -1,0 +1,36 @@
+
+Stop żelaza z węglem – stopy, w których węgiel rozpuszczany jest w żelazie. Węgiel może występować w nich w postaci węgla czystego – grafitu, roztworu stałego w sieci krystalicznej ferrytu lub austenitu albo jako węglik żelaza, np. Fe3C, zwanego cementytem.
+
+Stopy zawierające poniżej 2,11% (według norm polskich, zaś europejskich 1,75%) węgla to stale lub staliwo, a powyżej tej zawartości to żeliwo.
+
+Wraz ze wzrostem udziału węgla struktura stopu żelaza z węglem przybiera odmienne formy:
+przy bardzo niewielkiej zawartości węgla, poniżej 0,0218% udaje się uzyskać niemal czyste żelazo α zwane ferrytem.
+przy zawartości 0,77% węgla uzyskuje się perlit będący mieszaniną eutektoidalną ferrytu i cementytu
+przy zawartości węgla 4,3%, w krzepnącym stopie, powstaje ledeburyt, który w czasie dalszego chłodzenia w temperaturach poniżej 723&nbsp;°C przekształca się w ledeburyt przemieniony. Ledeburyt jest eutektyką.
+przy zawartościach węgla pomiędzy 0,0218% a 0,77% otrzymuje się stopy podeutektoidalne (stale podeutektoidalne), które są mieszaninami ferrytu i perlitu.
+stopy w zakresie 0,77% do 2,11% – stale nadeutektoidalne – są mieszaninami perlitu i cementytu.
+stopy o zawartości węgla powyżej 2,11% (żeliwo), są mieszaninami ledeburytu przemienionego i perlitu (do 4,3% węgla) lub cementytu (powyżej 4,3% węgla). W przypadku stosunkowo wolnego chłodzenia w stopach tych może także wystąpić grafit.
+
+Wykres równowagi układu żelazo-węgiel – jest to wykres fazowy węgla w stopie z żelazem. Pierwszą, najczęściej wykorzystywaną i omawianą część wykresu nazywa się także wykresem żelazo – cementyt. Na osi poziomej podana jest procentowa zawartość węgla w stopie, na osi pionowej temperatura. Z wykresu można odczytać jaką strukturę posiada stop, przy założeniu równowagowego procesu wytwarzania. Przy, na przykład, szybkim chłodzeniu stop może zachowywać się w inny sposób (na przykład granica rozpuszczalności węgla w ferrycie wzrasta wraz z wielkością przechłodzenia).
+
+Należy zaznaczyć, że jest to tylko fragment wykresu równowagi układu żelazo-węgiel (zwany wykresem żelazo-cementyt), zawarty pomiędzy 0% a 6,69% (czasem mówi się 6,67%) węgla. Nazwa pochodzi od nazwy faz na granicach wykresu – z lewej jest żelazo (Fe), a z prawej cementyt (Fe3C). Jest on najbardziej istotny ze względów praktycznych, gdyż większe stężenie węgla powoduje zbyt dużą kruchość stopu.
+
+
+
+Charakterystyczne punkty wykresu.'''
+
+
+Charakterystyczne linie wykresu.'''
+
+
+
+
+Zobacz też
+przemiana fazowa
+reguła faz
+perytektyk
+
+
+
+
+

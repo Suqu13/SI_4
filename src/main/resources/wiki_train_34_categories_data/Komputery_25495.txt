@@ -1,0 +1,51 @@
+
+
+
+
+MSX 2''' to standard komputerów 8-bitowych wprowadzony w 1985 roku, rozwinięcie standardu MSX (nazywanego potem MSX 1). W stosunku do poprzedniego, miał rozszerzone możliwości graficzne i system operacyjny MSX DOS 2.0.
+
+Standard MSX 2 nie zdobył dużej popularności, a nawet takiej, jak MSX 1. Po jego wprowadzeniu Microsoft opuścił projekt MSX, lecz firma ASCII Corporation kontynuowała prace i w 1988 został zaprezentowany kolejny ulepszony standard MSX 2+''', dostępny jedynie w Japonii. W 1991 Panasonic zaprezentował komputer ulepszonego standardu MSX Turbo R, lecz już w 1992 zaprzestał ich produkcji. Komputery MSX zostały wyparte z rynku wraz ze zmierzchem komputerów 8-bitowych.
+
+Dane techniczne MSX2
+Dane techniczne komputerów standardu MSX 2''':
+mikroprocesor - Zilog Z80A lub kompatybilny
+zegar - 3.58 MHz 
+
+
+koprocesor graficzny - Yamaha V9938 (MSX-VIDEO)
+pamięć RAM - co najmniej 64 kB
+pamięć obrazu VRAM - co najmniej 64 kB 
+pamięć ROM - 48 kB
+wbudowany język programowania - MSX BASIC V2.0
+tryby tekstowe (liczba znaków x linii): 40 x 24; 32 x 24
+tryby graficzne (liczba pikseli): 64 x 48; 256 x 192; 256 x 212; 512 x 212
+liczba kolorów - 512 
+dźwięk General Instrument AY-3-8910 - 3 kanały, 8 oktaw
+urządzenia wejścia/wyjścia (I/O): - port dla joysticka (1 lub 2), gniazda na cartridge, wejście magnetofonu kasetowego, wyjście video RGB, interfejs równoległy Centronics
+
+Firmy produkujące komputery MSX 2:
+Philips, Sony, Sanyo, Mitsubishi, JVC, National, Panasonic, Canon
+
+Dane techniczne MSX2+
+Dane techniczne komputerów standardu MSX 2+''':
+mikroprocesor - Zilog Z80A / Z80B
+zegar - 3.58 MHz 
+koprocesor graficzny - Yamaha V9958
+pamięć RAM - co najmniej 64 kB
+pamięć obrazu VRAM - 64 kB lub 128 kB (do 192 kB)
+pamięć ROM - 32 kB (BASIC i BIOS) + 16 kB (MSX-BASIC V3.0) + 16 kB (Kanji BASIC ROM + Kanji ROM) + 16 KB (DISK ROM)
+wbudowany język programowania - MSX BASIC V3.0
+tryby tekstowe (liczba znaków x linii): 40 x 24; 32 x 24
+tryby graficzne (liczba pikseli): 64 x 48; 256 x 192; 256 x 212; 512 x 212; 256 × 424
+tryby tekstowe kanji (japońskie znaki): 40x24, 32x24, 256x192, 64x48
+liczba kolorów - 19 268 
+dźwięk - FM-PAC (OPLL YM-2413) - 9-kanałowy syntezator FM
+urządzenia wejścia/wyjścia (I/O): - port dla joysticka (1 lub 2), gniazda na cartridge, wejście magnetofonu kasetowego, wyjście video RGB, wyjście video CVBS/RF, wyjście audio, interfejs równoległy Centronics
+wbudowana stacja dysków 3,5"
+
+Firmy produkujące komputery MSX 2+:
+Sony, Sanyo, Panasonic
+
+
+
+

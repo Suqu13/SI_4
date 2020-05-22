@@ -1,0 +1,36 @@
+E-faktura (faktura elektroniczna) – dokument elektroniczny, który zgodnie z rozporządzeniem ministra finansów z dnia 14 lipca 2005 roku w sprawie wystawiania oraz przesyłania faktur w formie elektronicznej, zrównuje się prawnie z fakturą tradycyjną, czyli papierową. Od 01.01.2011 obowiązuje nowe Rozporządzenie Ministra Finansów z dnia 17.12.2010 w sprawie przesyłania faktur w formie elektronicznej, zasad ich przechowywania oraz trybu udostępniania organowi podatkowemu lub organowi kontroli skarbowej (Dz. Ustaw. 249 poz. 1661 z 2010 r.). Rozporządzenie to jest bardziej liberalne niż poprzednie, ponieważ pozostawia podatnikowi swobodę w zakresie sposobu zapewnienia autentyczności i integralności e-faktury.
+
+Za pomocą e-faktury można rozliczać się z fiskusem tak samo jak przy użyciu faktury tradycyjnej. Zgodnie z wyrokiem Naczelnego Sądu Administracyjnego faktura przesłana w formie elektronicznej, a następnie wydrukowana u odbiorcy nadal może być traktowana jako faktura tradycyjna (papierowa) i nie musi spełniać wymagań dla faktury elektronicznej.
+
+Stosowanie e-faktury posiada wiele zalet:
+oszczędność – w porównaniu z tradycyjną fakturą odpadają koszty przesyłki pocztowej.
+terminowość oraz bezpieczeństwo przesyłki – w porównaniu z tradycyjną fakturą znika ryzyko niedostarczenia faktury.
+wygoda przechowywania – faktura elektroniczna nie zajmuje tyle miejsca co faktura papierowa, poza tym można ją przejrzeć w dowolnej chwili (na swoim komputerze lub wysyłając zapytanie do jej wystawcy).
+
+Akceptacja fakturowania elektronicznego
+Podstawowym warunkiem stosowania faktur w formie elektronicznej jest uzyskanie wcześniejszej akceptacji od kontrahentów. Wystawianie i przesyłanie e-faktur można rozpocząć następnego dnia po dokonaniu akceptacji przez odbiorcę.
+Z akceptacją e-faktur ściśle wiąże się też utrata prawa do ich wystawiania. Podatnik traci prawo do stosowania faktur elektronicznych (w przypadku cofnięcia akceptacji przez odbiorcę faktury) od dnia następującego po dniu, w którym otrzymał powiadomienie od odbiorcy o wycofaniu akceptacji.
+
+Faktury korygujące i duplikaty
+Faktury elektroniczne można korygować i wystawiać ich duplikaty. Powinny mieć one co do zasady formę elektroniczną. Wyjątkowo w przypadku przeszkód formalnych lub technicznych, uniemożliwiających wystawienie i wysłanie tych dokumentów w formie elektronicznej, dopuszcza się wystawienie dokumentu papierowego (na przykład gdy kontrahent cofnie akceptację).
+
+Przechowywanie faktur elektronicznych
+E-faktury powinny być przechowywane przez ich wystawcę oraz odbiorcę w formacie, w którym zostały przesłane, w sposób gwarantujący autentyczność ich pochodzenia i integralność ich treści, jak również ich czytelność przez cały okres ich przechowywania.
+E-faktury przechowuje się tak długo jak papierowe, to jest do czasu upływu terminu przedawnienia zobowiązania podatkowego.
+
+Kontrola faktur elektronicznych
+Podatnik ma obowiązek:
+umożliwić organom podatkowym oraz organom kontroli skarbowej natychmiastowy (bez zwłoki), pełny (bez wyjątków) i ciągły (bez przerw) dostęp drogą elektroniczną do faktur
+umożliwić udokumentowany pobór i odczyt e-faktur przez te organy (czyli np. udostępnić komputer, ewentualnie łącze do internetu, i oprogramowanie niezbędne dla obsługi e-faktur)
+udostępnić tym organom dane dotyczące autentyczności pochodzenia i integralności treści każdej faktury przesłanej w formie elektronicznej (np. informacje dotyczące certyfikatów).
+
+Dla kontroli podatnik powinien przechowywać również:
+oświadczenia o akceptacji odbiorcy faktury na otrzymywanie faktur drogą elektroniczną
+dowody dopełnienia obowiązków informacyjno-zgłoszeniowych wobec naczelnika urzędu skarbowego oraz naczelnika urzędu celnego
+dowody na istnienie przeszkód formalnych lub technicznych w skorygowaniu e-faktury drogą elektroniczną w sytuacji, gdy do e-faktury wystawiono korektę papierową
+dokumentację dotyczącą bezpiecznego podpisu elektronicznego lub wymiany danych elektronicznych EDI dotyczącą podatnika i jego kontrahenta.
+
+Fakturowanie elektroniczne w praktyce
+Faktury elektroniczne w Polsce w 2007 roku były stosowane w niewielkim zakresie – 7% nabywców otrzymywało a 3% sprzedawców wysyłało tego typu rozliczenia. W krajach UE, które zrezygnowały z bezpiecznego podpisu elektronicznego, e-faktury są wykorzystywane w znacznie większym stopniu – w Danii ponad 2/3 wszystkich faktur w obrocie to faktury elektroniczne OIOXML, Szwecja i Finlandia dzięki przejściu administracji publicznej na fakturowanie elektroniczne spodziewają się oszczędności rzędu 365 milionów euro rocznie.
+
+Bibliografia

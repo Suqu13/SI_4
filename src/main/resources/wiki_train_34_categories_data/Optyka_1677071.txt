@@ -1,0 +1,18 @@
+
+Boroskop – urządzenie stosowane w diagnostyce do inspekcji profili zamkniętych i miejsc trudno dostępnych. Pozwala na obserwację wnętrza urządzeń pod różnymi kątami przez niewielki otwór inspekcyjny bez konieczności demontażu często bardzo złożonych urządzeń. Do obserwacji przestrzeni, do których dostęp jest utrudniony przez przeszkody stosuje się boroskop z elastycznym przewodem sondy i przegubem giętkim zwany fiberoskopem. W medycynie wykorzystuje się przeważnie odpowiedniki fiberoskopu ze względu na wrażliwość tkanek na możliwe uszkodzenia sztywną sondą.
+
+Budowa
+Głównym elementem boroskopu jest rurka o średnicy od kilku do kilkunastu milimetrów i długości od kilkunastu do kilkudziesięciu centymetrów, zawierająca przeważnie dwie wiązki światłowodów: wiązkę doprowadzającą światło i wiązkę obserwacyjną, w przypadku boroskopów sztywnych układ optyczny składający się z soczewek. Od strony obserwatora znajduje się okular obserwacyjny i pokrętła pozwalające na kalibrację ostrości obrazu, zbliżenie, obrót wokół osi i regulację kierunku obserwacji (tylko w przypadku boroskopów z ruchomym pryzmatem, tzw. swing prism) . Niektóre współczesne boroskopy mają możliwość rejestracji obrazu za pomocą kamery (bądź tylko rejestracja i wyświetlanie na niewielkim monitorze lcd bez możliwości podglądu przez okular) oraz wbudowane w końcówkę obserwacyjną proste urządzenia: kleszcze, końcówkę szlifierską, haczyk, chwytak, magnes, szczotkę, pętlę etc.
+
+Zastosowanie
+rusznikarstwo
+diagnostyka medyczna
+diagnostyka w warsztatach samochodowych
+diagnostyka np silników odrzutowych w lotnictwie
+diagnostyka urządzeń mechanicznych
+
+Zobacz też
+endoskop
+
+
+

@@ -1,0 +1,15 @@
+Koszty przerobu - to koszty procesu produkcyjnego, obejmujące koszty bezpośrednie wytworzenia (pomniejszone o koszty materiałów bezpośrednich) oraz koszty wydziałowe.
+
+Charakterystyka kosztów przerobu
+Koszty przerobu obejmują dwie główne kategorie: płace bezpośrednie oraz koszty wydziałowe. Płace bezpośrednie to wynagrodzenia pracowników wydziałów produkcyjnych, zależne od wielkości produkcji. Z kolei koszty wydziałowe to koszty pośrednio związane z procesem produkcyjnym, do których zalicza się m.in. amortyzację maszyn produkcyjnych, ogrzewanie pomieszczeń produkcyjnych czy ubezpieczenie hali produkcyjnej. 
+
+Koszty płac bezpośrednich można w sposób jasny odnieść na określony wyrób. Poprzez ewidencję wynagrodzeń i rozdzielnik płac możliwe jest ustalenie jaka część wynagrodzeń przypada na określony produkt. Z kolei koszty wydziałowe należy rozliczyć na produkty przy pomocy tak zwanych kluczy rozliczeniowych .
+
+Kalkulacja kosztu wytworzenia a koszty przerobu
+Wycena produkcji gotowej i w toku uzależniona jest od charakteru procesu produkcyjnego. Możliwe są dwie następujące sytuacje:
+materiały wydawane są sukcesywnie w procesie produkcyjnym,
+materiały wydawane są w całości w momencie rozpoczęcia produkcji.
+
+W pierwszej sytuacji koszt jednostkowy ustala się według następującego wzoru:
+W drugiej sytuacji należy oddzielnie ustalić koszt jednostkowy dla materiałów bezpośrednich i kosztów przerobu. Koszt materiałów bezpośrednich zostanie przeliczony na produkty wytworzone i aktualnie przetwarzane:
+Koszty przerobu uwzględniają stopień przetworzenia produkcji w toku:

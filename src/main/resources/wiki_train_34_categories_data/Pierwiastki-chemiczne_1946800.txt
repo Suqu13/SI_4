@@ -1,0 +1,9 @@
+Alperm – materiał magnetyczny, stop żelaza i aluminium. Nazwa pochodzi od słowa aluminium oraz łac. ferrum ‘żelazo’. Zawiera od 10 do 17% wagowych glinu, najczęściej spotykanym składem jest 16% Al, reszta Fe. Inne nazwy to alfenol i alfer.
+
+Stop ten jest magnetycznie miękki (dla 17% Al pole koercji wynosi poniżej 5 A/m), ma przenikalność maksymalną rzędu 55 000, indukcja nasycenia sięga 1,28 T. Właściwości magnetyczne są silnie zależne od zastosowanej technologii. Charakteryzuje się dużą rezystywnością i twardością. Ma zastosowanie w produkcji magnetowidów, transformatorów, przekaźników i podobnych urządzeń. Alperm zawierający 13% Al, z powodu dużej magnetostrykcji jest stosowany w czujnikach magnetosprężystych.
+
+Alperm wytwarzany jest w postaci taśm walcowanych na grubość 0,5 mm lub taśm odlewanych na wirujący bęben chłodzący (ang. melt-spining) - grubość ok. 50-60 μm.
+
+Opracowany został w Japonii w 1939 roku przez H. Masumoto i H. Saito.
+
+Bibliografia

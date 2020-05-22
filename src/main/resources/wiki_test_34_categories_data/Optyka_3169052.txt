@@ -1,0 +1,19 @@
+Prawo Verdeta – kąt skręcenia płaszczyzny polaryzacji światła odznacza się proporcjonalnością do grubości warstwy badanej materii i indukcji magnetycznej:
+α = V·d·B
+gdzie:
+α – kąt skręcenia płaszczyzny polaryzacji
+d – grubość warstwy materiału
+B – indukcja magnetyczna
+V – stała Verdeta
+
+Stałą Verdeta otrzymuje się empirycznie dzięki zjawisku Faradaya. Stała jest zależna od właściwości chemicznych i fizycznych badanych materiałów, np. temperatury lub gęstości.
+
+Jednostka stałej Verdeta to rad/(T·m)].
+
+Nazwa prawa oraz stałej pochodzi od francuskiego fizyka Émile'a Verdeta (1824–1866).
+
+Bibliografia
+Jürgen R. Meyer-Arendt, Wstęp do optyki, PWN, Warszawa 1977
+
+
+

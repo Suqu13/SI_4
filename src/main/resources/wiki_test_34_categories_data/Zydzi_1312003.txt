@@ -1,0 +1,54 @@
+Lavon (hebr. לבון‎‎; ang. Lavon) - wieś komunalna położona w Samorządzie Regionu Misgav, w Dystrykcie Północnym, w Izraelu.
+
+Położenie
+Wioska Lavon jest położona na wysokości 551 metrów n.p.m. na południowym skraju Górnej Galilei. Leży w paśmie góskim Matlul Curim, który wznosi się od północy nad Doliną Beit HaKerem. Różnica wysokości między poziomem wioski a dnem doliny dochodzi do 300 metrów. Na północny wschód od wioski wznosi się szczyt góry Har Chaluc (729 m n.p.m.). Na północy jest wadi strumienia Beit HaEmek. Okoliczne wzgórza są zalesione. W otoczeniu wioski Lavon znajdują się miasto Karmiel, miejscowości Kisra-Sumei, Peki'in, Nachf, Dejr al-Asad i Kfar Vradim, kibuc Kiszor, moszaw Lapidot, oraz wioska komunalna Har Chaluc. Na północy jest strefa przemysłowa Tefen, a na południowym zachodzie strefa przemysłowa Karmiel.
+
+Podział administracyjny
+Lavon jest położona w Samorządzie Regionu Misgav, w Poddystrykcie Akka, w Dystrykcie Północnym Izraela.
+
+Demografia
+Stałymi mieszkańcami wioski są wyłącznie Żydzi. Tutejsza populacja jest świecka:
+
+
+
+ImageSize  = width:500 height:220
+PlotArea   = left:70 right:40 top:20 bottom:20
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+Colors =
+  id:gray1 value:gray(0.9)
+DateFormat = yyyy
+Period     = from:0 till:508
+ScaleMajor = unit:year increment:100 start:0 gridcolor:gray1
+PlotData =
+  bar:1995 color:gray1 width:1
+   from:0 till:38 width:15 text:38 textcolor:red fontsize:8px
+  bar:2003 color:gray1 width:1
+   from:0 till:157 width:15 text:157 textcolor:red fontsize:8px
+  bar:2011 color:gray1 width:1
+   from:0 till:508 width:15 text:508 textcolor:red fontsize:8px
+
+Źródło danych: .''
+
+
+Historia
+Osada została założona w 1980 roku w ramach rządowego projektu Perspektywy Galilei, którego celem było wzmocnienie pozycji demograficznej społeczności żydowskiej na północy kraju. Nową wioskę nazwano na cześć izraelskiego polityka Pinchasa Lavona. Grupa założycielska składała się ze zwolenników filozofii Rudolfa Steinera (antropozofia). Trudności ekonomiczne, niedostatek gruntów rolnych oraz skaliste podłoże, spowodowały rozłam wśród mieszkańców. W 1982 roku większość mieszkańców wyjechała stąd i założyła nowy kibuc Harduf. Wioska Lavon znalazła się wówczas w głębokim kryzysie. Aby zaradzić spadkowi liczby mieszkańców, utworzono tutaj centrum szkolenia żołnierzy. Wioska została zamieszkana przez ludność cywilną dopiero w 2000 roku. W następnych latach wioskach przeżywała okres gwałtownej rozbudowy.
+
+Edukacja
+Wioska utrzymuje przedszkole. Starsze dzieci są dowożone do szkoły podstawowej w wiosce Gilon.
+
+Kultura i sport
+W wiosce jest ośrodek kultury z biblioteką. Z obiektów sportowych jest basen pływacki, boisko do koszykówki oraz siłownia.
+
+Infrastruktura
+W wiosce jest przychodnia zdrowia, sklep wielobranżowy oraz warsztat mechaniczny.
+
+Gospodarka
+Lokalna gospodarka opiera się przemyśle, który jest skoncentrowany w niewielkiej strefie przemysłowej Lavon. Powstała ona w zachodniej części wioski, na terenie dawnej szkoły wojskowej. Część mieszkańców dojeżdża do pracy poza wioską.
+
+Transport
+Z wioski wyjeżdża się na północny zachód na lokalną drogę, którą jadąc na wschód dojeżdża się do wioski komunalnej Har Chaluc, lub jadąc na zachód do skrzyżowania z drogą nr 854. Jadąc nią na południowy wschód dojeżdża się do miejscowości Nachf i skrzyżowania z drogą ekspresową nr 85, lub jadąc na północny zachód do skrzyżowania z drogą nr 8544 (prowadzi na zachód do kibucu Kiszor) i dalej do moszawu Lapidot.
+
+
+
+Linki zewnętrzne

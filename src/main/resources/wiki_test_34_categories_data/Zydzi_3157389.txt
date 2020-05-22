@@ -1,0 +1,53 @@
+Balad asz-Szajch (arab. بلد الشيخ‎) – nieistniejąca już arabska wieś, która była położona w Dystrykcie Hajfy w Mandacie Palestyny. Wieś została wyludniona podczas wojny domowej w Mandacie Palestyny w wyniku ataku Hagany w dniu 25 kwietnia 1948 roku.
+
+Położenie
+Wioska Balad asz-Szajch leżała na północno wschodnim krańcu masywu górskiego Karmel, powyżej Doliny Zabulona. Według danych z 1945 do wsi należały ziemie o powierzchni 984,9 ha. We wsi mieszkało wówczas 4120 osób.
+
+
+
+
+
+
+
+Historia
+
+Według lokalnej tradycji, wioska została założona przez szejka Abdullaha asz-Szajch, który pobierał podatki na rzecz osmańskiego sułtana Selima II. Na miejscowym cmentarzu znajduje się jego grobowiec, a wioskę nazwano na jego cześć. W 1887 roku w wiosce otworzono szkołę podstawową dla chłopców. W latach 1903-1905 nastąpiło ożywienie gospodarcze całego regionu związane z budową odnogi linii kolejowej Hidżaz, która prowadziła do portowego miasta Hajfa. Linia kolejowa przechodziła w odległości około 0,5 km na północny wschód od wioski. W wyniku I wojny światowej w 1918 roku Balad asz-Szajch wraz z całą Palestyną przeszła pod panowanie Brytyjczyków, którzy utworzyli Mandat Palestyny. Podczas zamieszek w Palestynie w 1929 roku, mieszkańcy Balad asz-Szajch zaatakowali miejscową fabrykę cementu i spalili sąsiednie żydowskie gospodarstwo rolnicze. W 1934 roku w pobliżu wioski założono nowy cmentarz dla muzułmańskich mieszkańców Hajfy. Rok później pochowano na nim Izz ad-Din al-Kassama, przywódcę arabskiej organizacji paramilitarnej Czarna Ręka. Podczas arabskiego powstania w Palestynie (1936-1939) w rejonie wsi Balad asz-Szajch doszło do licznych ataków na żydowskie pojazdy. W październiku 1936 roku w pobliżu wsi doszło do bitwy arabskich powstańców z brytyjskimi żołnierzami, których wspierały samoloty. W dniu 22 lutego 1937 roku w wiosce dwóch brytyjskich policjantów prowadziło dochodzenie w sprawie zabójstwa trzech Żydów z kibucu Jagur. Jeden z tych policjantów został wówczas zabity. Po kolejnych licznych atakach na żydowskie pojazdy, w dniu 18 kwietnia 1939 roku do wioski wkroczyły duże siły policji i wojska. Aresztowano 10 osób podejrzanych o udział w zabójstwach.
+
+
+
+ImageSize = width:500 height:270
+PlotArea = left:50 right:40 top:20 bottom:40
+TimeAxis = orientation:vertical
+AlignBars = justify
+Colors =
+  id:gray1 value:gray(0.9)
+DateFormat = yyyy
+Period = from:0 till:4779
+ScaleMajor = unit:year increment:1000 start:0 gridcolor:gray1
+TextData =
+  pos:(250,20) textcolor:black fontsize:S
+  text:Ludność Balad asz-Szajch
+PlotData =
+  bar:1922 color:gray1 width:1
+   from:0 till:407 width:15 text:407 textcolor:red fontsize:8px
+  bar:1931 color:gray1 width:1
+   from:0 till:747 width:15 text:747 textcolor:red fontsize:8px
+  bar:1945 color:gray1 width:1
+   from:0 till:4120 width:15 text:4120 textcolor:red fontsize:8px
+  bar:1948 color:gray1 width:1
+   from:0 till:4779 width:15 text:4779 textcolor:red fontsize:8px
+
+
+
+
+
+W poszukiwaniu skutecznego rozwiązania narastającego konfliktu izraelsko-arabskiego w dniu 29 listopada 1947 roku została przyjęta Rezolucja Zgromadzenia Ogólnego ONZ nr 181. Zakładała ona między innymi, że obszar ten miał znaleźć się w granicach nowo utworzonego państwa żydowskiego. Arabowie odrzucili tę Rezolucję i dzień później doprowadzili do wybuchu wojny domowej w Mandacie Palestyny. W trakcie jej trwania siły Arabskiej Armii Wyzwoleńczej paraliżowały żydowską komunikację w rejonie całej Galilei. W dniu 2 grudnia 1947 roku w wiosce Balad asz-Szajch ostrzelano żydowski autobus jadący z robotnikami do cementowni Neszer. 8 grudnia w pobliżu wioski zamordowanych zostało 2 Żydów. Dwa dni później do wioski razem z konwojem żydowskich autobusów wjechał patrol umundurowanych żydowskich policjantów Policji Żydowskich Osiedli. Otworzyli oni ogień do Arabów blokujących przejazd. W obawie przed możliwą masakrą, wioskę opuściło wtedy kilka rodzin. Po tym incydencie żydowskie konwoje zaczęły unikać wioski Balad asz-Szajch, wybierając okrężną drogę z Hajfy przez Kefar Chasidim Alef i Jagur do Doliny Jezreel.
+
+W dniu 30 grudnia 1947 roku członkowie żydowskiej organizacji Irgun rzucili granaty w tłum arabskich robotników przed bramą wejściową do Rafinerii w Hajfie. Rozwścieczeni Arabowie wtargnęli wówczas do rafinerii, gdzie doszło do pogromu żydowskich robotników. W masakrze w Rafinerii Hajfa zginęło 6 Arabów i 39 Żydów, natomiast rannych było 42 Arabów i 49 Żydów. Była to największa i najbardziej brutalna masakra ludności cywilnej do jakiej doszło w Mandacie Palestyny od czasu wybuchu wojny domowej. W ramach działań odwetowych, 31 grudnia kompanie szturmowe Palmach wkroczyła do wiosek Balad asz-Szajch i Hausza. Żydowscy żołnierze byli przebrani za Arabów, dzięki czemu zmylili czujność arabskich obrońców i do walki doszło bezpośrednio w obrębie wioski oraz w domach. W masakrze w Balad asz-Szajch zginęło 14 mieszkańców, w tym 10 kobiet i dzieci (niektóre źródła mówią o 60 zabitych). W tej akcji zginęło również 3 żydowskich żołnierzy. Po tym ataku, w dniu 7 stycznia 1948 roku część mieszkańców uciekła ze swoich domów, a ich miejsce zajęli członkowie arabskich milicji z Hajfy. Czuli się oni stosunkowo bezpiecznie, gdyż w ich sąsiedztwie przebywali transjordańscy żołnierze Legionu Arabskiego, którego dowódcami byli brytyjscy oficerowie. Jednak w kwietniu 1948 roku legioniści wycofali się, a wraz z nimi mieszkańcy południowo wschodniej części wioski (położonej w sąsiedztwie opuszczonego obozu Legionu Arabskiego) uciekli do sąsiedniej Hajfy. Gdy w dniach 21-22 kwietnia toczona była bitwa o Hajfę, zdecydowana większość mieszkańców uciekła z wioski. 24 kwietnia 1948 roku żołnierze Brygady Carmeli otoczyli wioskę, żądając zdania całej posiadanej przez Arabów broni. Obrońcy wioski przekazali 22 karabiny i poprosili o zawieszenie broni. Gdy w odpowiedzi usłyszeli ponowione żądanie zdania całej posiadanej broni, Arabowie zwrócili się o pomoc do Brytyjczyków. Rankiem następnego dnia Żydzi wystrzelili na wioskę kilka pocisków moździerzowych, wywołując panikę w wiosce. Godzinę później na miejsce przybyli brytyjscy żołnierze, i pozostali Arabowie opuścili Balad asz-Szajch pod ich ochroną.
+
+Miejsce obecnie
+Obszar wioski Balad asz-Szajch został wchłonięty przez rozrastające się miasto Neszer. Palestyński historyk Walid Chalidi, tak opisał pozostałości wioski Balad asz-Szajch: „Wiele arabskich domów i sklepów nadal stoi, i są zajęte przez mieszkańców miasta. Widoczny cmentarz jest zaniedbany”.
+
+
+
+Bibliografia

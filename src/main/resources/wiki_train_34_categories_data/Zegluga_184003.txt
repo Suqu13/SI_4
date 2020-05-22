@@ -1,0 +1,57 @@
+ZSU-23-4 "Szyłka"''' – poczwórnie sprzężone samobieżne działo przeciwlotnicze, opracowane w latach 1957-1961 w Związku Radzieckim przez biuro projektowe Astrowa. Skrót ZSU pochodzi od rosyjskiej nazwy Zenitnaja samochodnaja ustanowka (ros. Зенитная самоходная установка - przeciwlotnicze działo samobieżne), a Szyłka to nazwa rosyjskiej rzeki, lewego dopływu Amuru. Dalsza część oznaczenia zestawu to kaliber działek - 23 mm i ich liczba - 4. W kodzie NATO system ten otrzymał oznaczenie Awl (ang. szydło) prawdopodobnie z powodu pomyłki lub skojarzenia z rosyjskim słowem szyło oznaczającym właśnie to narzędzie.
+
+Historia
+W latach 50. używane przez Armię Radziecką przeciwlotnicze działo samobieżne ZSU-57-2 nie odpowiadało już wymaganiom stawianym przed tego typu sprzętem. Wyposażone wyłącznie w celownik optyczny, który ograniczał zdolność prowadzenia celnego ognia tylko do warunków dobrej widoczności i charakteryzujące się niską prędkością naprowadzania armat, nie stanowiły skutecznej broni przeciwko poruszającym się z dużą szybkością celom. Ponadto, pojazd nie posiadał stabilizacji uzbrojenia, przez co skuteczność ognia w ruchu była niewielka, a odkryty przedział bojowy uniemożliwiał działanie w terenie skażonym bronią ABC. 
+
+Pod koniec lat 50. w biurze konstrukcyjnym Astrowa rozpoczęto intensywne prace nad skonstruowaniem nowego typu działa, którego podwozie pochodziło z wozu bojowego piechoty GM-575, który z kolei został zbudowany na podstawie czołgu pływającego PT-76, a armaty AZP-23 z holowanego dwulufowego zestawu artyleryjskiego ZU-23-2. Nowy zestaw przeciwlotniczy posiadał również radar z paraboliczną anteną do śledzenia celów. Naprowadzanie, obliczenie parametrów lotu i strzelanie odbywało się w pełni automatycznie. Proces odnalezienia celu, określenia jego położenia i prędkości, odbywał się przy pomocy pokładowej stacji radiolokacyjnej typu 1RL33 (RPK-2 Toboł) działającej w mikrofalowym paśmie Ku o zakresie od 14,6 do 15,6 GHz. Stacja radiolokacyjna była zdolna wykryć cel z odległości 20 km i śledzić go na dystansie do 6 km. 
+
+Naprowadzanie na cel odbywało się na podstawie przelicznika 1A7 zbudowanego głównie w oparciu o urządzenia elektromechaniczne zasilane prądem zmiennym 
+(elektrycznego, na selsynach i silnikach stałoprądowych, bardzo powolnego i wrażliwego), przy pomocy  systemów elektrohydraulicznych, a na wypadek awarii także ręcznie. Chłodzone cieczą o wymuszonym obiegu lufy armat były przeładowywane energią gazów prochowych odprowadzanych przez boczny otwór w lufie i ryglowane zamkiem klinowym, poprzez jego ruch pionowy. Zasilanie odbywało się z taśm nabojowych o rozdzielnych ogniwach. Zasobniki zawierały po 550 pocisków dla armat górnych i 450 dla dolnych. Ciekawostką było zasilanie w energię elektryczną (+/- 57 V), w warunkach bojowych zapewniane przez generator oparty na turbinie. Ze względu na gorące gazy spalinowe nie wolno stać do kilkunastu metrów za tyłem pojazdu podczas zasilania przez w/w turbinę. 
+
+Ostrzał samolotów mógł być prowadzony z miejsca lub podczas jazdy z prędkością do 25 km/h, krótkimi seriami po 3 do 10 strzałów z każdej lufy. Do celów poruszających się z dużą szybkością, strzelano dłuższymi seriami po 50 strzałów z jednej lufy. Szyłki działały zazwyczaj parami, posuwając się w odległości około 200 metrów od siebie i 400 metrów od osłanianego zgrupowania lub obiektu wojskowego. Chociaż pojazd zbudowano na udanym podwoziu czołgu pływającego PT-76, to Szyłka nie posiadała zdolności pływania i potrafiła jedynie pokonywać brody o głębokości do 1 metra.
+
+Armata
+
+Czterolufowy zestaw armat automatycznych Afanasjewa-Jakuszewa kalibru 23 mm
+Długość luf: 2010 mm (87,3 kalibrów)
+Prędkość początkowa pocisku: 970 m/s
+Masa pocisku: 178 g
+Szybkostrzelność - ze wszystkich luf:
+teoretyczna: 2000 strzałów na minutę
+praktyczna: 400 strzałów na minutę
+Skuteczny zasięg: 2,0 - 2,5 km
+Skuteczna wysokość ostrzału: 1,5 - 2,0 km
+
+Wersje zestawu ZSU-23-4
+ZSU-23-4 — pierwsza podstawowa wersja zestawu
+ZSU-23-4M — zmodernizowana w 1977 roku Szyłka, wyposażona w nową stację radiolokacyjną, systemem obliczania parametrów lotu celu i osłoną armat.
+ZSU-23-4M4 — zmodernizowana wersja przeznaczona dla armii Ukrainy.
+ZSU-23-4M5 — zmodernizowana wersja przeznaczona dla armii Białorusi.
+Pozostałe modyfikacje polegały głównie na dodaniu wyrzutni pocisków rakietowych oraz wymiany systemów elektronicznych.
+
+Polska modyfikacja, ZSU-23-4MP Biała
+Opracowana w 2000 roku przez Zakłady Mechaniczne "Tarnów" S.A., obecnie Bumar Żołnierz S.A. w Tarnowie polegająca na:
+zastosowaniu pasywnego cyfrowego, optoelektronicznego systemu kierowania ogniem z układem automatycznego śledzenia celu w dzień i w nocy,
+wyposażeniu zestawu w pociski rakietowe GROM, o dwukrotnie większym zasięgu niż działka,
+umożliwieniu wykorzystania najnowszych rodzajów podkalibrowej amunicji artyleryjskiej, która pozwala zwiększyć zasięg zwalczania celów powietrznych i naziemnych,
+wyeliminowanie radaru i reflektorów podczerwieni służących dowódcy i kierowcy do obserwacji nocnej, co istotnie ograniczyło emisje radiowe i termiczne przyczyniając się do zwiększenia niewykrywalności zestawu,
+zastosowaniu urządzeń pasywnej obserwacji w podczerwieni do śledzenia celów w każdych warunkach pogodowych i na większe odległości
+zmniejszeniu składu załogi z 4 do 3 osób,
+poprawieniu własności trakcyjnych i zwiększenie zasięgu działania Szyłki.
+
+Służba
+
+
+Działa ZSU-23-4 weszły do uzbrojenia Armii Radzieckiej w 1964, a później także na wyposażenie innych armii Układu Warszawskiego w tym ludowego Wojska Polskiego, oraz państw arabskich. 
+
+Pierwsze użycie bojowe Szyłek miało miejsce (prawdopodobnie) podczas wojny sześciodniowej w 1967 i wojny na wyczerpanie lat 1967-70. Najbardziej spektakularne ich wykorzystanie miało miejsce podczas wojny Jom Kipur w 1973, kiedy to egipskie i syryjskie zestawy zestrzeliły 30 izraelskich samolotów, dowodząc swej skuteczności. Później używano Szyłek jeszcze wielokrotnie, głównie w konfliktach bliskowschodnich, ale także w Pakistanie. ZSU-23-4 były także intensywnie wykorzystywane podczas wojny wietnamskiej. Podczas wojny domowej w Angoli lat 1974-1991 znajdowały się na uzbrojeniu  wspieranego przez Kubę MPLA. Dysponowała nimi Libia podczas krótkiego konfliktu z Egiptem w czerwcu 1977. Używała ich Somalia w czasie wojny w Ogadenie w latach 1977-1978. Szyłek użyli spadochroniarze radzieccy podczas szturmu pałacu Amina w Kabulu w 1979 (Operacja "Sztorm-333") jako wsparcie atakującej piechoty. Podczas radzieckiej interwencji w Afganistanie ze względu na brak lotnictwa afgańskiego używano zestawów Szyłka do zwalczania pojazdów opancerzonych BMP-1 i BRDM-2. Dysponował nimi kontyngent Syryjski w Libanie podczas wojny 1982 roku. Były wykorzystywane przez Irak podczas wojny z Iranem (1980-1988) i w operacji Pustynna Burza w 1991 oraz II wojny w zatoce w 2003. Z sukcesem wykorzystywali je Ormianie przeciwko azerskiemu lotnictwu podczas konfliktu o Górski Karabach (1991-1994) i bojownicy czeczeńscy w czasie I wojny czeczeńskiej (zestrzelili w lutym 1995 rosyjski Su-25). Używały jej zarówno Rosja jak i Czeczenia w czasie II wojny czeczeńskiej w latach 1999-2003. 
+
+W chwili obecnej są one stopniowo zastępowane przez nowsze konstrukcje zestawów przeciwlotniczych, rakietowych i lufowo-rakietowych.
+
+W muzeach
+Muzeum Wojska Polskiego w Warszawie - Muzeum Polskiej Techniki Wojskowej
+Muzeum Broni i Militariów - Witoszów
+
+
+Bibliografia
+Linki zewnętrzne

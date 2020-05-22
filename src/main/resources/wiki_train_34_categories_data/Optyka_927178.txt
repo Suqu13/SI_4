@@ -1,0 +1,28 @@
+
+To międzynarodowy standard ITU-T G.984.x początkowo rozwijany przez konsorcjum FSAN. GPON to architektura P2MP punkt-wielopunkt. GPON to standard który swoim zakresem obejmuje warstwę pierwszą i drugą modelu ISO/OSI. Jest to następca standardu APON/BPON który oferuje większe prędkości. Wynoszą one od jednostki OLT do ONT 2488Mbps oraz od ONT do OLT do 1244Mbps. GPON działa w oparciu o Pasywną Sieć Optyczną (PON) w której część pasywną nazywamy ODN (Optical Distribution Network). Parametry optyczne zostały zdefiniowane w standardzie G.984.2. Maksymalny liczba wspieranych ONT/ONU per port OLT to 128.
+
+Maksymalna odległość między OLT a ONT wynosi 60km z czego rozpiętość sieci nie może być większa niż 20km. W związku z tym jeżeli ostatni terminal jest na 60km to pierwszy ONT nie może być podłączony wcześniej niż na 40km. Zasięg może być jednak skrócony przez zbyt duże tłumienie. Do określenia budżetu mocy optycznej stosowane są klasy sieci ODN, w której B+ określa sieć z tłumieniem do 28dB natomiast C+ do 32dB. Standard dodatkowo zakłada możliwość stosowania kodowania Forward Error Correction (FEC) w celu poprawy ewentualnych błędów w transmisji kosztem 7% przepustowości łącza. FEC może być włączony w obu kierunkach.
+
+GPON wykorzystuje światłowód jednomodowy do transmisji dwukierunkowej dzięki multiplikacji z podziałem długości fal (WDM). Standard zdefiniował 3 długości fal:
+Od ONT do OLT: 1310nm (1260nm do 1360nm)
+Od OLT do ONT: 1490nm (1480nm do 1500nm)
+Wideo (CATV/DVB/ATSC): 1555nm (1550 do 1560nm)
+
+W kierunku od ONT do OLT dodatkowo wykorzystywana jest multiplikacja z podziałem czasu (TDMA). Każdy terminal ONT w zależności od potrzeb dynamicznie otrzymuje swój slot czasowy w którym może nadawać. W kierunku od OLT od ONT transmisja jest rozgłaszana do wszystkich terminali aby uniknąć podsłuchu GPON wspiera szyfrowanie enkapsulowanych danych za pomocą Advanced Encryption Standard (AES) z 128 bitowym kluczem oraz hasłem nadawanym przez terminal.
+ 
+Do enkpasulacji danych w ramkach ethernetowych pomiędzy OLT i ONT wykorzystywany jest GEM (GPON Encapsulation Method). Ten nowy typ ramki jest bardzo efektywny dzięki czemu standard GPON może być także użyty w aplikacjach Mobile Backhaul.
+
+OLT
+GPON OLT (Optical Lince Terminal) to koncentrator do którego schodzą się włókna magistralne ze spliterów optycznych. Zazwyczaj jednostka OLT posiada kilka do kilkudziesięciu portów OLT. Zazwyczaj te porty są typu SFP na specjalne wkładki. Oprócz tego wyposażona jest w kilka portów GigabitEthernet lub 10GigabitEthernet. Jednostka centralna zarządza, monitoruje oraz konfiguruje jednostki ONT. W zależności od producenta OLT może agregować od 256 terminali do nawet 20 tysięcy. 
+
+ONT
+
+GPON ONT (Optical Network Terminal) to jednostka abonencka. W Europie przyjęto, że jest to jednostka wewnątrzbudynkowa i zazwyczaj znajduje się w lokalu abonenta i jest także zasilania z gniazdka prądowego abonenta. Posiada wbudowany przetwornik optyczny a także w zależności od modelu może mieć kilka portów Fast/GigabitEthernet, WiFi, porty FXS czy port RF na potrzeby świadczenia telewizji analogowej bądź cyfrowej DVB.
+
+Linki zewnętrzne
+
+
+
+
+
+

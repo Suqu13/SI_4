@@ -1,0 +1,32 @@
+Klucze (inaczej pierwiastki) – elementy znaków chińskich, według których układane są słowniki pisma chińskiego. Ponieważ nie jest ono alfabetem, uporządkowanie znaków zawsze nastręczało Chińczykom problemów. 
+
+Pierwsze słowniki
+Pierwsze chińskie słowniki i encyklopedie miały układ tematyczny, np. wyrazy szeregowano do kategorii niebo, ziemia, człowiek, czworonogi, ptaki itd. Taki układ miały słowniki Erya i Fangyan. Nie były one zaopatrzone w indeksy i podział haseł był arbitralny.
+
+Historia kluczy
+Na pomysł wprowadzenia kluczy pierwszy wpadł Xu Shen (許慎), tworząc w latach 100-121 etymologiczny słownik pisma chińskiego, Shuowen Jiezi, liczący 9 tys. znaków. Wyróżnił w nich 540 elementów, które nazwał bùshǒu (部首) czyli nagłówki części (słownika)''.
+
+Pomysł Xu Shena przyjął się i w następnych latach kluczy używali autorzy innych słowników:
+Gu Yewang (顧野王) w VI w. stworzył słownik Yupian (玉篇) ułożony wedle 542 kluczy.
+Sima Guang (1019-1086) w XI w. ułożył słownik Leipian według 544 kluczy.
+W 1208 r. w słowniku Wuyin Leiqu zastosowano po raz pierwszy zmniejszoną liczbę kluczy - 444.
+W XIV w. Zhao Jian w słowniku Liushu Benyi ograniczył liczbę kluczy do 360.
+W 1615 r. Mei Yingzuo w swoim Leksykonie (字彙) ograniczył liczbę kluczy do 214. 
+System Meia został użyty również w wielkim Słowniku Kangxi z 1716 roku (nazwa pochodzi od cesarza Kangxi z dynastii Qing), dlatego odtąd zaczęto go nazywać Kluczami Kangxi. Klucze Kangxi to dziś ciągle popularny system kluczy, na którym bazuje wiele współczesnych słowników. 
+Po uproszczeniu chińskiego pisma w latach 50. próbowano również zmniejszyć liczbę kluczy. W wielu słownikach wydawanych w ChRL wynosi ona obecnie 189. Słowniki na ogół zachowują wprowadzoną przez Mei Yingzuo zasadę, że pod konkretnym kluczem znaki uporządkowane są według liczby kresek.
+
+"Klucz" w innych językach europejskich
+W większości języków europejskich termin 部首 jest tłumaczony na słowa pochodzące od łacińskiego radix (korzeń), np. ang. radical. W Polsce utarło się jednak tłumaczenie klucz przyjęte przez sinologię rosyjską i francuską. Inne czasem stosowane określenie to pierwiastek.
+
+Warto pamiętać, że chiński podział na klucze jest również używany w przypadku Kanji i Hancha.
+
+Klucze
+
+
+Bibliografia
+Mieczysław Künstler, Pismo chińskie, PIW, Warszawa, 1970
+
+Zobacz też
+pismo chińskie
+
+Linki zewnętrzne

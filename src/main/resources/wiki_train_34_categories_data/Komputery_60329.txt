@@ -1,0 +1,11 @@
+Simputer to mały, niedrogi asystent elektroniczny, który miał przybliżyć technologię komputerową ludziom z Indii oraz innych krajów rozwijających się. Urządzenie to zostało skonstruowane przez Simputer Trust, organizację non-profit utworzoną w listopadzie 1999 roku. 
+
+Słowo "Simputer" to akronim, oznaczający (ang.) "simple, inexpensive and multilingual people's computer" , czyli "prosty, niedrogi wielojęzyczny komputer dla mas" i jest znakiem towarowym Simputer Trust.
+
+Simputer posiada procesor Intel StrongARM 206 MHz na trzy baterie AA, 64 MB pamięć operacyjnej, 32 MB  pamięci flash i może obsługiwać tanie wymienialne smartcards o pojemności 8KB danych. Posiada oprogramowanie typu text-to-speech i działa pod kontrolą systemu operacyjnego Linux. 
+
+Od roku 2004 jest dostępny w sprzedaży za 240 USD, czyli około 1.000 PLN.
+
+Linki zewnętrzne
+(BBC News, 10 September, 2001)
+(Outlook India, September 22, 2002)

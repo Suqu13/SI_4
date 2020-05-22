@@ -1,0 +1,29 @@
+Europa Clipper – proponowana misja NASA mająca prowadzić badania Europy, jednego z satelitów Jowisza. Nazwa misji pochodzi od kliprów, szybkich żaglowców pływających po morzach w XIX wieku. Start sondy może nastąpić w połowie lat 20. XXI wieku, sonda dotrze do układu Jowisza po 6,5 roku lotu.
+
+Plany
+Projekt misji został opracowany po zarzuceniu wcześniejszego projektu Jupiter Europa Orbiter, który miał stanowić wkład NASA do misji Europa Jupiter System Mission – Laplace (EJSM/Laplace). Zrezygnowano z umieszczenia sondy na orbicie wokół Europy, na której duże zagrożenie dla instrumentów stanowi silne promieniowanie korpuskularne, tworzone przez naładowane cząstki rozpędzone w magnetosferze Jowisza.
+
+Misja podstawowa jest przewidziana na 3,5 roku, w tym czasie sonda dokona 45 bliskich przelotów nad powierzchnią Europy, zbliżając się nawet na 25–100 km do powierzchni księżyca. Przewiduje się, że stan sondy będzie pozwalał na przedłużenie misji. Wpływ grawitacji Europy, a także Ganimedesa i Kallisto pozwoli kształtować tor lotu sondy, by umożliwić przeloty nad różnymi obszarami powierzchni Europy, umożliwiając zbadanie znacznej jej części. Misja ostatecznie zakończy się celowym rozbiciem sondy na powierzchni Ganimedesa.
+
+Cele naukowe
+
+Sonda ma zbadać lodową skorupę Europy i wykryć podpowierzchniowe zbiorniki ciekłej wody, w szczególności określić interakcje pomiędzy skorupą a skrytym pod nią wewnętrznym oceanem słonej wody. Wiedza ta jest niezbędna dla określenia, czy panujące w nim warunki pozwalają na istnienie życia. W tym celu sonda ma sporządzić szczegółową mapę geologiczną Europy, określić szczegółowo skład powierzchni i prześwietlić lód z użyciem radaru. Instrumenty sondy pozwolą zbadać cząsteczki cienkiej atmosfery Europy, być może także cząstki wyrzucane przez gejzery księżyca, oraz jego pole magnetyczne. Drugorzędnym celem jest wskazanie miejsca dla potencjalnego lądownika.
+
+Sonda i jej instrumenty
+Ze względu na zagrożenie radiacyjne, sonda ma poruszać się po eliptycznej orbicie wokół Jowisza, podobnie jak sonda Juno. Wrażliwa elektronika ma być ukryta we wnętrzu statku, osłonięta zbiornikami paliwa potrzebnego do wejścia na orbitę wokół planety i manewrowania.
+
+Planowane jest wyposażenie sondy w następujące instrumenty badawcze:
+spektrometr bliskiej podczerwieni (SWIRS, ),
+radar penetrujący lód (IPR, ang. Ice-Penetrating Radar),
+kamery do stereoskopowego obrazowania powierzchni (TI, ang. Topographical Imager),
+spektrometr masowy do rozpoznawania składu powierzchni (INMS, ang. Ion and Neutral Mass Spectrometer).
+
+Prócz tego prawdopodobne jest wyposażenie sondy w magnetometr i sondy Langmuira do pomiarów indukowanego pola magnetycznego (bezpośrednio i poprzez badanie zachowania plazmy w otoczeniu), co pozwoli określić zasolenie i głębokość warstwy oceanu pomiędzy lodową skorupą a skałami wnętrza Europy. Śledzenie trajektorii sondy z użyciem instrumentów radiowych pozwoli dodatkowo na zbadanie pola grawitacyjnego księżyca.
+
+Zobacz też
+Jupiter Icy Moon Explorer
+galileuszowe księżyce Jowisza
+
+
+
+Linki zewnętrzne

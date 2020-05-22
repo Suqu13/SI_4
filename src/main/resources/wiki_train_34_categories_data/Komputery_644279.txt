@@ -1,0 +1,10 @@
+
+Roadrunner - superkomputer zbudowany przez IBM dla amerykańskiego Departamentu Energii, mieszczący się w Narodowym Laboratorium Los Alamos w stanie Nowy Meksyk w Stanach Zjednoczonych. 25 maja 2008 roku osiągnął moc obliczeniową 1,026 PFLOPSa w benchmarku LINPACK. Czyni go to pierwszym w historii superkomputerem o mocy obliczeniowej przewyższającej 1 PFLOPS.
+
+Roadrunner zbudowany jest w oparciu o 12960 mikroprocesorów PowerXCell 8i oraz 6912 dwurdzeniowych mikroprocesorów AMD Opteron. Roadrunner działa pod kontrolą systemów operacyjnych Red Hat Enterprise Linux oraz Fedora. Zajmuje powierzchnię 560 m². Został uruchomiony w 2008 roku.
+
+Roadrunner jest wykorzystywany do symulacji procesu starzenia się materiałów nuklearnych, co ma pomóc w odpowiedzeniu na pytanie, jak długo amerykańskie głowice nuklearne mogą być uznawane za sprawne. Poza tym zastosowania Roadrunnera obejmują takie dziedziny, jak nauki ścisłe, ekonomia, przemysł lotniczy i samochodowy.
+
+
+
+

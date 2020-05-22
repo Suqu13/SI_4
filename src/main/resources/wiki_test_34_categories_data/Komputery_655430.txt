@@ -1,0 +1,16 @@
+
+IBM System/360 Model 50''' – wyprodukowany w 1964 komputer "nowej generacji" (według sloganu reklamowego IBM), posiadał około 20 modeli opartych o tę samą architekturę. Oferował m.in. ponad 40 rodzajów urządzeń peryferyjnych i obsługę przez odległe terminale. Komputery tej serii wykonane były z układów scalonych w technologii IBM SLT.
+
+Nowatorskie rozwiązania
+Seria BM System/360 Model 50 wprowadziła wiele uznanych do dzisiaj za standard rozwiązań, m.in. 8-bitowy bajt, stronicowanie pamięci, arytmetykę w systemie uzupełnień do 2.
+
+Możliwości
+Komputery tej serii były w stanie wykonać 300 000 dodawań i 36 000 mnożeń na sekundę, oraz obsłużyć równocześnie 250 zdalnych terminali.
+
+Zobacz też
+Jednolity System Elektronicznych Maszyn Cyfrowych (RIAD)
+IBM System/360
+
+
+
+

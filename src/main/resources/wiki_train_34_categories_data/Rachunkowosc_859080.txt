@@ -1,0 +1,5 @@
+Podatek należny - kwota podatku VAT określona na fakturze wystawionej przez podatnika. Jest to podatek obliczany od wartości sprzedanych towarów i usług, który należy odprowadzić do urzędu skarbowego. Podatnik ma jednak prawo pomniejszyć to zobowiązanie o podatek naliczony.
+
+
+
+

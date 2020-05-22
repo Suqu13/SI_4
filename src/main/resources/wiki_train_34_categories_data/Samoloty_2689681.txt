@@ -1,0 +1,29 @@
+ – japoński, prototypowy samolot bombowy, przeznaczony dla lotnictwa Cesarskiej Armii Japonii. Maszyna nie została skierowana do produkcji seryjnej, przegrywając rywalizację z samolotem Mitsubishi Ki-21. Jedyny zachowany egzemplarz zmodyfikowano do pełnienia funkcji maszyny komunikacyjnej pod oznaczeniem N-19.
+ 
+Historia
+We wrześniu 1935 roku Wydział Techniczny Kwatery Głównej Lotnictwa Armii Lądowej (Rikugun Kōkū Honbu Gijutsubu) wyszedł z propozycją budowy nowej maszyny bombowej, mającej zastąpić samoloty Mitsubishi Ki-1 w lotnictwie armii. Propozycja skierowana do firm Nakajima, Mitsubishi i Kawasaki była częścią dużego programu modernizacji sił zbrojnych, rozpoczętego w połowie lat 30. ubiegłego wieku. 
+
+Szczegółowa specyfikacja techniczna wydana została 15 lutego 1936 roku. Wymagano, aby nowy samolot napędzany był dwoma silnikami gwiazdowymi Nakajima Ha-5 lub Mitsubishi Ha-6. Były to wówczas najnowsze dostępne jednostki napędowe. Miała być to konstrukcja metalowa, wolnonośna, jednopłatowa z chowanym podwoziem głównym. Zdolna do udźwigu 750 kg bomb lub 1000 kg w przypadku zabrania mniejszej ilości paliwa. Nowością był wymóg wewnętrznej komory bombowej, mieszczącej się w kadłubie maszyny. Operująca na pułapie rzędu 2000 - 4000 m z prędkością przelotową 300 km/h i maksymalną 400 km/h. Wymagano, aby samolot uzbrojony był w trzy karabiny maszynowe kalibru 7,7 mm, umieszczone w przednim, górnym i dolnym stanowisku strzeleckim. Przewidywano, że wyłonienie najlepszej konstrukcji nastąpi w wyniku prób porównawczych dostarczonych prototypów. Wymagano, aby każda z biorących udział w konkursie wytwórni dostarczyła po dwie maszyny.
+
+Projekt
+Firma Nakajima skierowała do prac zespół pod kierunkiem Ken'ichiego Matsumury. Konstruktor i jego zespół posiadali już doświadczenie w budowie wolnonośnych, jednopłatowych maszyn, pracując przy uruchomieniu licencyjnej produkcji samolotów DC-2 i biorąc udział w pracach projektowych nad przeznaczonym dla marynarki bombowcem Nakajima LB-2. Obydwa prototypy ukończono na przełomie 1936 i 1937 roku, a w marcu 1937 roku znalazły się w Ośrodku Badawczym Techniki Lotniczej Armii (Rikugun Kōkū-gijutsu Kenkyūsho) w Tachikawa, gdzie do maja tego samego roku trwały próby porównawcze z konstrukcją wytwórni Mitsubishi (konstrukcja Kawasaki została odrzucona na etapie prac projektowych). 
+
+Wyniki prób nie przyniosły jednoznacznego rozstrzygnięcia. Lepsze osiągi miał samolot Mitsubishi, również mniejsze obciążenie jego powierzchni nośnej otwierało większe możliwości modernizacyjne w przyszłości. Maszyna Nakajimy była jednak bardziej stabilna podczas bombardowania, posiadała mocniejsze silniki Ha-5 w porównaniu z zastosowanymi przez Mitsubishi Ha-6. W zaistniałej sytuacji, przy braku jednoznacznego rozstrzygnięcia nakazano przeprowadzenie dalszych badań, ale ze zmodernizowanymi prototypami. Nakajima miała w swoim samolocie zamontować silniki Ha-6, a Mitsubishi Ha-5. Nie ma wystarczających danych, aby stwierdzić, czy Nakajima zbudowała kolejne dwa, nowe prototypy, czy modernizację przeprowadzono na już istniejących samolotach. Zamiana silników okazała się korzystna dla konstrukcji Mitsubishi, oznaczonej jako Ki-21 i to ona została skierowana do produkcji seryjnej.
+
+Nakajima N-19
+Przy braku zamówienia na bombowiec, jeden z prototypów (drugi lub czwarty, jeśli istotnie zbudowano do dalszych prób kolejne dwie maszyny) pozbawiono uzbrojenia, wyposażenia bombowego i przebudowano na samolot cywilny pod oznaczeniem N-19. 
+
+W kwietniu 1939 roku maszyna została zakupiona przez agencję informacyjną Dōmei Tsūshinsha (istniała w latach 1936-1945, poprzedniczka obecnych agencji prasowych Kyodo i Jiji) ze znakami J-BACN i nazwą własną Dōmei Dai 2-Go (Dōmei nr 2).
+
+Konstrukcja
+Ki-19 był całkowicie metalowym (stery i lotki pokryte płótnem), wolnonośnym średniopłatem. Podwozie główne chowane do wnęk w gondolach silnikowych, kółko ogonowe stałe. Metalowy kadłub o półskorupowej konstrukcji. Trzyczęściowe (centropłat obejmujący gondole silnikowe, części zewnętrzne) skrzydła o trapezowym obrysie ze wzniosem, prostą krawędzią natarcia i skośną (do przodu) krawędzią spływu wyposażone w lotki i krokodylowe klapy. Usterzenie klasyczne również o trapezowym obrysie. Maszyna napędzana była dwoma, 14-cylindrowymi, chłodzonymi powietrzem silnikami gwiazdowymi Ha-5 a po modernizacji Ha-6 z trójłopatowymi, przestawialnymi śmigłami Hamilton Standard o średnicy 3,3 m. Załoga składała się z czterech osób: pilota, drugiego pilota pełniącego również rolę nawigatora, bombardiera pełniącego rolę przedniego strzelca i radiooperatora pełniącego również rolę tylnego strzelca. Potencjalnie w skład załogi mógł wejść kolejny strzelec odciążający radiooperatora.
+ 
+Uzbrojenie
+Samolot posiadał trzy stanowiska strzeleckie, każde wyposażone w ruchomy pojedynczy karabin maszynowy Typ 89 kalibru 7,7 mm. Ki-19 w wewnętrznej, kadłubowej komorze bombowej mógł przenosić 750 kg bomb. W przypadku zabrania na pokład mniejszej ilości paliwa masa bomb mogła ulec zwiększeniu do 1000 kg.
+
+Bibliografia
+Leszek A. Wieliczko, Nakajima Ki-19 i Mitsubishi Ki-21 - ciężkie dwusilnikowe bombowce nowej generacji, "Lotnictwo", nr 6 (2012), s. 88-98, ISSN 1732-5323.
+
+
+
+

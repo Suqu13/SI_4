@@ -1,0 +1,23 @@
+Sprawa Magoory (C-414/07)''' dotyczyła wprowadzonych w polskim prawie wyłączeń w odliczeniu podatku VAT związanego z zakupem paliwa do samochodów używanych w ramach prowadzonej działalności.
+
+Stan faktyczny
+W marcu 2005 roku  z Krakowa zawarła umowę leasingu operacyjnego samochodu z homologacją ciężarową, spełniającego wzór określony w ustawie o podatku VAT (wzór Lisaka). Uprawniało ją to do pełnego odliczania podatku VAT zawartego w cenie paliwa. Po znowelizowaniu art. 86 ust. 3 ustawy o podatku VAT, w brzmieniu obowiązującym od dnia 22 sierpnia 2005 r., weszły w życie ograniczenia w odliczaniu podatku VAT, ponieważ użytkowany samochód nie spełniał nowej definicji samochodu ciężarowego.
+
+Spółka wystąpiła do Naczelnika Urzędu Skarbowego z wnioskiem o udzielenie wiążącej interpretacji przepisów ustawy o podatku VAT w zakresie możliwości odliczania podatku VAT naliczonego przy zakupie paliwa do używanego samochodu. Spółka argumentowała, że nie powinna utracić prawa do odliczenia podatku VAT na podstawie art. 17 ust. 6 szóstej dyrektywy, która weszła w życie w Polsce w dniu jej przystąpienia do Unii Europejskiej, czyli w dniu 1 maja 2004 r.
+
+Artykuł 17 ust. 2 szóstej dyrektywy ustanawia zasadę odliczania przez podatnika kwot zafakturowanych mu tytułem podatku VAT od dostarczanych mu towarów lub świadczonych mu usług, o ile owe towary lub usługi są wykorzystywane dla potrzeb jego własnych czynności podlegających opodatkowaniu. Zasada podlega jedynie ograniczeniu, o którym mowa w art. 17 ust. 6 szóstej dyrektywy. Zgodnie z tym przepisem, państwa członkowskie mogą utrzymać w mocy swe przepisy dotyczące wyłączenia prawa do odliczenia podatku VAT obowiązujące w chwili wejścia w życie tej dyrektywy. Nałożone zostaje jednak ograniczenie, nie pozwalające na rozszerzanie zakresu wyłączeń, i to zarówno w stosunku do stanu w dniu wejścia w życie dyrektywy, jak i później (wyłączenie raz skasowane nie można przywrócić).
+
+Po otrzymaniu negatywnej interpretacji oraz po jej podtrzymaniu przez Izbę Skarbową w Krakowie, spółka wniosła skargę do Wojewódzkiego Sądu Administracyjnego w Krakowie. Sąd zaś wystosował do Europejskiego Trybunału Sprawiedliwości pytanie prejudycjalne o wiążącą interpretację prawa.
+
+Wyrok ETS
+22 grudnia 2008 roku Europejski Trybunał Sprawiedliwości wydał wyrok w sprawie Magoora (C-414/07). ETS uznał, że art. 17 ust. 6 akapit drugi szóstej dyrektywy stoi na przeszkodzie temu, by państwo członkowskie przy dokonywaniu transpozycji tej dyrektywy do prawa wewnętrznego uchyliło całość przepisów krajowych dotyczących ograniczeń prawa do odliczenia podatku VAT naliczonego przy zakupie paliwa do samochodów używanych dla celów działalności podlegającej opodatkowaniu, zastępując je, w dniu wejścia w życie tej dyrektywy na swym terytorium, przepisami ustanawiającymi nowe kryteria w tym przedmiocie, jeżeli – co winien ocenić sąd krajowy – te ostatnie przepisy powodują rozszerzenie zakresu zastosowania wskazanych ograniczeń. Powyższy przepis w każdym razie stoi na przeszkodzie temu, by państwo członkowskie zmieniło później swe ustawodawstwo, obowiązujące od wyżej wskazanego dnia, w sposób, który rozszerza zakres zastosowania tych ograniczeń w stosunku do sytuacji istniejącej przed tym dniem.
+
+Po wydaniu wyroku przez ETS postępowanie w sprawie Magoory zostało przez Wojewódzki Sąd Administracyjny w Krakowie wznowione. 3 kwietnia 2009 sąd ten wydał wyrok, w którym potwierdził, iż wprowadzone z dniem 1 maja 2004 r. nowe ograniczenia odliczania VAT od samochodów osobowych oraz paliwa do nich naruszyły prawo unijne i nie powinny być stosowane. Dotyczy to wszystkich samochodów wykorzystywanych w działalności gospodarczej. Sąd stwierdził bowiem, że nie ma podstaw do stosowania ograniczeń obowiązujących przed 1 maja 2004 r. – te bowiem zostały z woli ustawodawcy uchylone. Inne sądy administracyjne – orzekając w podobnych sprawach – stoją jednak na stanowisku, że do odliczenia VAT powinno mieć w obecnej sytuacji zastosowanie ograniczenie obowiązujące przed 1 maja 2004 r.
+
+Dyrektor Izby Skarbowej w Krakowie dnia 7 maja 2009 roku wniósł do Naczelnego Sądu Administracyjnego skargę kasacyjną.
+
+W dniu 19 kwietnia 2011 roku Naczelny Sąd Administracyjny oddalił skargę kasacyjną Dyrektora Izby Skarbowej w Krakowie.
+
+
+
+Linki zewnętrzne

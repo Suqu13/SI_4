@@ -1,0 +1,9 @@
+Parasystolia - to rodzaj zaburzeń rytmiczności pracy serca, polegający na występowaniu pobudzeń przedwczesnych, w sposób niezależny (niesprzężony) od rytmu zatokowego.
+
+Jest to zaburzenie widoczne, a tym samym możliwe do rozpoznania, na podstawie badania EKG.
+Charakteryzuje się obecnością dwóch niezależnych rytmów serca (zatokowego i ektopowego - czyli pozazatokowego), które występują w sposób niezależny od siebie, co przejawia się w zapisie EKG występowaniem załamków rytmu zatokowego i ektopowego (zwanego w tym wypadku rytmem parasystolicznym) w zmiennym czasie (czyli ich występowanie  charakteryzuje się zmiennymi odstępami pomiędzy poszczególnymi załamkami), oraz występowaniem pobudzeń zsumowanych. Dodatkowy ośrodek będący nadawcą rytmu ektopowego nie zostaje zdepolaryzowany przez wędrujący bodziec z węzła zatokowego, gdyż jest przed tym chroniony wskutek występowania tak zwanego bloku wejścia.
+
+
+
+
+

@@ -1,0 +1,21 @@
+Mila morska (Mm, ang.: nautical mile – NM, International Nautical Mile – INM) – jest jednostką odległości stosowaną w nawigacji morskiej oraz lotnictwie. Jest to długość łuku południka ziemskiego odpowiadająca jednej minucie kątowej koła wielkiego. W rzeczywistości ze względu na kształt kuli ziemskiej (Geoida) długość łuku 1 minuty kątowej jest różna w zależności od szerokości geograficznej, dlatego umownie przyjęto długość uśrednioną.
+
+1 INM → 1’ stąd: 40 000 km / (360° × 60’) = 1851,852 m ≈ 1 852 m w układzie SI (wartość przyjęta w Normie ISO 31-2) 
+
+1 INM = 10 kabli
+
+Z pojęciem mili morskiej związana jest jednostka prędkości węzeł.
+
+Wartość 1 INM = 1852 m została przyjęta przez Międzynarodowe Biuro Miar i Wag. Jeszcze do połowy XX wieku niektóre państwa stosowały jednak własną wartość dla mili morskiej:
+Wielka Brytania - 1853,18 m
+Dania - 1851,85 m
+Holandia - 1851,85 m
+Stany Zjednoczone - 1853,248 m
+Portugalia - 1850,00 m
+Japonia - 1853,18 m
+
+Zobacz też
+
+
+
+Bibliografia

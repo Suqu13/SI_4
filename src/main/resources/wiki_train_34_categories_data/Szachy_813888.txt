@@ -1,0 +1,38 @@
+Trzychodówka – zadanie szachowe, w którym białe matują w swoim trzecim posunięciu. 
+
+Przykłady trzychodówek szachowych:
+
+
+
+
+Pełne rozwiązania:
+
+zadanie nr 1''':
+1.Gd5 K:d5 2.Kb5 e5 3.Hc4 mat
+1.Gd5 ed5 2.Ha4! d4 3.Hb5 mat
+wariant poboczny
+1.Gd5 e5 2.Hc4 mat
+
+zadanie nr 2''':
+1.Wb1! Kg7 2.Hb7+ Kh8 3.Hb2! mat
+1.Wb1! Kg7 2.Hb7+ Kf8/Kh6 3.h8H mat
+1.Wb1! Kg7 2.Hb7+ Kf6 3.Wb6 mat
+
+zadanie nr 3''':
+1.Sb2 d4 2.Sd3 d5 3.Sc5 mat
+1.Sb2 c5 2.Sc4 c6 3.Sd6 mat
+
+zadanie nr 4''':
+1.Wg5 Kh7 2.Wg6! K:g6 3.Hf5 mat
+1.Wg5 Kh7 2.Wg6! Kh8 3.Wh6 mat
+1.Wg5 Kh7 2.Wg6! h5+ 3.H:h5 mat
+poboczne warianty
+1.Wg5 h:g5 2.Hh2 mat
+1.Wg5 h5 2.W:h5 mat
+1.Wg5 Wxx 2.H:g7 mat
+
+Zobacz też
+dwuchodówka
+wielochodówka
+
+

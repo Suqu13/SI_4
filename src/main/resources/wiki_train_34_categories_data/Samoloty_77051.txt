@@ -1,0 +1,61 @@
+PZL P.11''' (zwany potocznie "jedenastką") – polski samolot myśliwski konstrukcji inżyniera Zygmunta Puławskiego z okresu przed II wojną światową.
+
+Podstawowy polski myśliwiec wchodzący w skład Brygady Pościgowej oraz Lotnictwa Armijnego w chwili  wybuchu II wojny światowej.
+
+Współcześnie jedyny zachowany egzemplarz P.11c znajduje się w zbiorach Muzeum Lotnictwa Polskiego w Krakowie. Samolot ten należał do 121 Eskadry Myśliwskiej zlikwidowanego tuż przed wybuchem wojny 2 Pułku Lotniczego w Krakowie (121 EM została przydzielona do Armii "Kraków"). Fragmenty rozbitego PZL P.11c odnaleziono m.in. w kwietniu 2012 roku na terenie Puszczy Niepołomickiej.
+
+Historia
+Prace nad tą konstrukcją rozpoczął konstruktor z biura konstrukcyjnego Państwowych Zakładów Lotniczych – inż. Zygmunt Puławski, na początku 1931 roku. Zbudowano trzy prototypy będące rozwinięciem modelu PZL P.7 z mocniejszym silnikiem. Po tragicznej śmierci inż. Puławskiego w marcu 1931, prace kontynuował zastępca inż. Z. Puławskiego,  inż. Wsiewołod Jakimiuk. Prototyp P.11 został oblatany w sierpniu 1931 roku. Pierwszym wariantem zamówionym przez wojsko w liczbie 50 sztuk, jako model przejściowy, był P.11a. Swym wyglądem i konstrukcją przypominał on P.7. Napędzał go produkowany w Polsce na licencji silnik gwiazdowy Bristol Mercury IV S2 o mocy 500/550 KM. Obliczenia aerodynamiczne i wytrzymałościowe dla samolotu PZL P.11 wykonał inż. Piotr Bielkowicz.
+
+W lecie 1934 powstały pierwsze samoloty próbne nowego wariantu P.11c, którego produkcję seryjną rozpoczęto pod koniec roku. Tę najbardziej znaną wersję wyróżniał nowy udoskonalony kadłub z obniżonym silnikiem, co wydatnie poprawiało widoczność z kabiny pilota, w tym samym celu poprawiony płat skrzydła, poprawiono też statecznik pionowy. Łącznie wyprodukowano 155 samolotów tej wersji. Powszechnie podawana w starszej literaturze liczba 175 samolotów jest zawyżona. Na uzbrojenie polskich eskadr lotniczych samoloty te wchodziły od 1935 do 1937 roku.
+
+Zainteresowanie nową konstrukcją wyraziła Rumunia, która w kwietniu 1933 r. zamówiła 50 maszyn oznaczonych jako P.11b. Były one dostarczane począwszy od lata 1934 roku. Samoloty te od P-11a różniły się silnikiem. Wykorzystano jednostkę napędową Gnome-Rhône 9Krsd o mocy 500/515 KM. Po opracowaniu modelu P.11c Rumunia uzyskała bezpłatnie (zgodnie z zapisami umowy z roku 1933) jego licencję i rozpoczęła produkcję nowego modelu w fabrykach IAR. IAR P.11f był wariantem P.11c z silnikiem Gnome-Rhone 9Krse (560/610 KM). Od 1936 roku zakłady Industria Aeronautica Romana wyprodukowały 95 maszyn tego typu.
+
+W latach 1933-1934 P.11 był jednym z najnowocześniejszych samolotów myśliwskich na świecie. Szybki postęp w technice lotniczej sprawił jednak, że w 1939 roku była to maszyna już przestarzała. Wprowadzony pod koniec 1938 roku na wyposażenie eskadr bombowych PZL.37 Łoś był szybszy od P.11 o około 80 km/h na wysokości 3000 m, a używany przez Luftwaffe w 1939 myśliwce Messerschmitt Bf 109  miał prędkość przelotową ok. 350 km/h, a maksymalną ok. 500 km/h, a dla bombowców Heinkel He 111 te osiągi wynosiły odpowiednio ok. 310 km/h i 400 km/h – w wersji "c" P.11 mógł osiągnąć co najwyżej 375 km/h. Wobec braku nowoczesnych następców dla P.11 takich jak PZL.50 Jastrząb, które znajdowały się dopiero na linii produkcyjnej (pierwsze 5 egzemplarzy), "jedenastka" stanowiła ciągle trzon lotnictwa Wojska Polskiego.
+
+Wobec rosnącego zagrożenia ze strony III Rzeszy i dużych opóźnień programu PZL.50, jako tymczasowe rozwiązanie opracowano wersję P.11g Kobuz. Zastosowany w tym modelu został nowy mocniejszy silnik Bristol Mercury VIII (835 KM), przewidywany początkowo dla PZL.50, oraz zamknięta kabina pilota. Tuż przed wybuchem wojny w sierpniu 1939 roku zdołano oblatać tylko prototyp, który osiągnął wciąż zbyt małą jak na potrzeby konfrontacji z niemieckimi myśliwcami prędkość 390 km/h. Został ewakuowany z Warszawy do Wielicka. Wziął on udział w walkach w kampanii wrześniowej – zestrzelono z niego jeden samolot niemiecki, oraz uszkodzono drugi (pilot H. Szczęsny).
+
+Wersje samolotu
+''' P.11a – samolot myśliwski
+P.11b – samolot myśliwski, wersja eksportowa dla Rumunii
+P.11c – samolot myśliwski
+P.11d – wersja dla lotnictwa morskiego (jedynie projekt)
+P.11f – samolot myśliwski, wersja produkowana w Rumunii
+''' P.11g Kobuz – samolot myśliwski [prototyp]
+
+
+
+Zastosowanie bojowe
+Samoloty PZL P.11 znajdujące się na wyposażeniu większości eskadr myśliwskich brały aktywny udział w walkach powietrznych podczas kampanii wrześniowej w 1939 roku. Zbyt powolne, i nieliczne nie mogły w znaczący sposób przeciwstawić się nowoczesnym, mającym zdecydowaną przewagę siłom Luftwaffe. Prędkość maksymalna samolotu myśliwskiego Bf 109D była wyższa o około 135-140 km/h, samolotu bombowego Do 17 o około 60-65 km/h, samolotu nurkującego Ju 87 o około 30 km/h, a samolotu bombowego He 111 o około 25-30 km/h. Znacznie gorsze, w porównaniu do niemieckich maszyn, osiągi prędkości rekompensowała w dużym stopniu większa zwrotność, mały promień skrętu P.11, duża prędkość wznoszenia i nurkowania, dobra widoczność z kabiny, oraz doskonałe umiejętności pilotów. Pewne znaczenie miała także wypracowana w trakcie walk powietrznych taktyka atakowania formacji bombowych w locie nurkowym od przodu z wykorzystaniem przewagi wysokości, oraz otwieranie ognia z odległości poniżej 100 metrów. Dodatkowo zastosowany silnik gwiazdowy był mniej podatny na uszkodzenia niż silnik rzędowy powszechnie stosowany w samolotach niemieckich. Pomimo znacznej przewagi niemieckiej polscy piloci myśliwscy zgłosili i udokumentowali 110 zestrzeleń pewnych i 16 prawdopodobnych przy stracie 118 maszyn własnych co daje współczynnik zestrzeleń powyżej 1:1.
+
+Pierwsze starcia:'''
+Około 7:30 rano 1 września 1939 roku z lotniska w Balicach pod Krakowem, wystartował kpt. Mieczysław Medwecki (PZL P11c nr boczny II) a zaraz za nim Władysław Gnyś. Podczas wznoszenia się, Medwecki został zestrzelony przez Ju87 (pierwszej serii Ju87 Medwecki prawdopodobnie nie zauważył, wówczas niemiecki pilot ponownie ostrzelał samolot Medweckiego - tym razem celnie - pilot poległ w locie), samolot lotem ślizgowym opadł na ziemię. Informacje o pożarze są sprzeczne - trudno jednoznacznie określić czy samolot eksplodował po uderzeniu w ziemię, czy jedynie się zapalił czy też nie było pożaru). Medwecki był pierwszym alianckim pilotem, który poległ podczas II wojny światowej. PZL P11c był też pierwszym alianckim samolotem zestrzelonym przez Niemców.
+
+Wczesnym rankiem 1 września 1939 roku w okolicach Olkusza nad miejscowością Żurada, w samotnej walce powietrznej, pilot 2. Pułku Lotniczego Władysław Gnyś zestrzelił dwa niemieckie samoloty bombowe typu Dornier Do 17E z 77 Pułku Bombowego Luftwaffe. Były to pierwsze samoloty niemieckie, zestrzelone przez polskiego (alianckiego) pilota myśliwskiego w II wojnie światowej (prawdopodobna jest też wersja, że Gnyś uszkodził jeden z samolotów, który następnie zderzył się z drugim).
+1 września około godziny 7.30 z lotniska Aleksandrowice niedaleko Bielska wystartowały dwa PZL P.11 z 121 Eskadry Myśliwskiej na patrol w rejon Cieszyna. Były pilotowane przez podporucznika Bronisława Skibińskiego i jego bocznego kaprala Jana Kremskiego. W rejonie Cieszyna doszło do starcia z 5 rozpoznawczymi Do 17P. W rejonie Puńcowa zestrzelono 1 samolot nieprzyjaciela. Podporucznik Bronisław Skibiński rozbił jednak przestrzelony samolot podczas lądowania w Aleksandrowicach.
+
+Około godziny 7 nad ranem tego samego dnia dochodzi do pierwszej dużej bitwy powietrznej II wojny światowej: w rejonie miejscowości Nieporęt dwie eskadry P-11 i jedna eskadra P-7 z IV/1 Dywizjonu Myśliwskiego Brygady Pościgowej przechwytują niemiecką wyprawę bombową w sile ok. 80 samolotów Heinkel He 111 i Dornier Do 17 eskortowane przez ok. 20 myśliwców Messerschmitt Bf-109. Po zaciętej walce samoloty wroga ulegają rozproszeniu i rezygnują z bombardowania Warszawy. Polscy piloci zestrzeliwują sześć samolotów wroga przy stracie trzech własnych.
+
+Opis techniczny
+
+
+
+Całkowicie metalowy górnopłat zastrzałowy, skrzydło to tzw. "Płat Puławskiego" lub "płat polski". Podwozie samolotu klasyczne dwukołowe stałe z płozą ogonową. Kabina pilota jednomiejscowa, otwarta. Zbiornik paliwa w kadłubie za silnikiem mógł być odrzucony w razie zagrożenia pożarem. Uzbrojenie stanowiły dwa montowane w kadłubie km-y wzór 33 kal. 7.9 mm, w ok. 1/3 egzemplarzy P-11c dodano dwa karabiny maszynowe wzór 33 umieszczone w skrzydłach, kaliber 7.9 mm. Amunicja: P 11 a po 700 sztuk nabojów na km (łącznie: 1400 sztuk), P 11 c po 500 sztuk nabojów na km kadłubowe, i po 600 sztuk nabojów na km skrzydłowe (łącznie: 2200 sztuk). Silniejsze uzbrojenie, jak i radiostacja, wpływały na zwiększenie masy samolotu i pogorszenie jego osiągów: prędkości wznoszenia, i maksymalnej, oraz zwrotności. P-11c mógł zabierać cztery 12,5 kg bomby na wyrzutnikach podskrzydłowych.
+
+Stosowano silniki gwiazdowe:
+P-11a: Bristol Mercury IVS2 o mocy 575 KM
+P-11b: Gnome-Rhone 9Krsd o mocy 595 KM,
+P.11c: Bristol Mercury VS2 o mocy 600 KM
+P.11f: Gnome-Rhone 9Krse (moc nominalna: 560 KM, maksymalna: 610 KM).
+
+Dane techniczne
+
+
+
+
+Bibliografia
+Zobacz też
+Brygada Pościgowa
+PZL P.24
+
+Linki zewnętrzne

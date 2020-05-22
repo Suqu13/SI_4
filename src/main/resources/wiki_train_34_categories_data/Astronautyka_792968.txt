@@ -1,0 +1,12 @@
+Sztuczna grawitacja – pozorna siła ciążenia wywołana sztucznie, przez siłę przyspieszającą inną niż siła grawitacji dużej masy (np. planety). Sztuczną grawitację rozpatruje się jako element niezbędny do bardzo długiego pobytu człowieka w warunkach nieważkości w przestrzeni kosmicznej.
+
+Sposoby symulowania ciążenia
+W stacjonarnych stacjach orbitalnych można wykorzystać siłę odśrodkową. Stacja musiałaby mieć wówczas kształt torusa wirującego wokół osi symetrii. Kierunek "góra" będzie wówczas zwrócony do osi obrotu.
+W przyspieszającej liniowo rakiecie rolę siły ciążenia może spełniać siła bezwładności w ruchu postępowym, wówczas "góra" będzie zgodna z kierunkiem ruchu rakiety. Podczas hamowania rakiety kierunki "góra" i "dół" ulegną zmianie o 180°.
+
+Sztuczna grawitacja w fantastyce naukowej == 
+Sztuczna grawitacja pojawia się często na pokładach statków kosmicznych w utworach science-fiction. Zazwyczaj owe statki nie obracają się, a zasada generowania sztucznego ciążenia nie jest wyjaśniona.
+
+
+
+
